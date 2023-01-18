@@ -1,0 +1,6 @@
+[返回首页](index.md)  
+# 兽皮(组)  
+- [刮净的皮](SkinFleshed.md)  
+- [新鲜兽皮](SkinFresh.md)  
+- [腐烂的皮](SkinRotten.md)  
+- [鞣制兽皮](CuredSkin.md)  

@@ -1,0 +1,23 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 针线  
+> 用于制作更复杂的纺织品或者皮制品。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**10<br><br>**标签：**	[“针线”](tag_ThreadedNeedle.md)<br><br>**可使用次数：**3  |  ![](Sprite/ThreadedNeedle.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[骨针](BoneNeedle.md) , [细线](CordFiber.md)  |  穿线  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+取下细线  |  -  |  [光亮](Light.md):10-100  |  → [骨针](BoneNeedle.md)<br><br>[细线](CordFiber.md)(1)  |    
+## 可拖至  
+[防蜂服](BeeSuit.md), [求生帽](HatSurvival.md), [夏威夷衬衫](HawaiianShirt.md), [卫衣](HoodieRetromation.md), [皮革手套](LeatherGloves.md), [皮裤](LeatherPants.md), [皮革鞋子](LeatherShoes.md), [军靴](MilitaryBoots.md), [军裤](MilitaryPants.md), [布制裤子](PantsCloth.md), [珍珠项链](PearlNecklace.md), [雨衣](Raincoat.md), [鲨鱼头饰](SharkHeadpiece.md), [衬衫](ShirtFiber.md), [短裤](Shorts.md), [运动鞋](Sneakers.md), [袜子](Socks.md), [T恤](T-Shirt.md), [内裤](Underwear.md), [左臂撕裂伤](W_ArmLacerationL.md), [右臂撕裂伤](W_ArmLacerationR.md), [左腿撕裂伤](W_LegLacerationL.md), [右腿撕裂伤](W_LegLacerationR.md), [轻微撕裂伤](W_MinorLaceration.md)  
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+<img decoding="async" src="Sprite/Durability.png" style="height:30px;">  |  初始：3<br>最大：3  |  -  |    
+  |  初始：1<br>最大：1  |  -  |  → [骨针](BoneNeedle.md)  

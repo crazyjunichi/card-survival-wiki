@@ -1,0 +1,6 @@
+[返回首页](index.md)  
+# 烤鱼(组)  
+- [烤北梭鱼](BonefishCooked.md)  
+- [烤鹦哥鱼](ParrotFishCooked.md)  
+- [烤绯鲤](GoatfishCooked.md)  
+- [烤马鲅鱼](ThreadfinCooked.md)  

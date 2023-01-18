@@ -1,0 +1,22 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 鱼肉塔可  
+> 香辣可口。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/FishTaco.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[鱼肉塔可(蓝图)](Bp_FishTaco.md)  |  蓝图制造  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+食用  |  15分  |    |    |  [饱食](Satiation.md)+40<br>[胃](Stomach.md)+45<br>[水分](Hydration.md)+5<br>[情绪](Morale.md)+4<br>[世界观](Structure.md)+15<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+25<br>[辣椒素](Capsaicin.md)+12<br>[污垢](Filth.md)+5  
+## 可拖至  
+[母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [中陷阱的猕猴](CageTrapMacaque.md), [堆肥箱](CompostBin.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+耐久  |  初始：192  |  每天-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  

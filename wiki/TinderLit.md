@@ -1,0 +1,39 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 火种  
+> 可以用来点燃营火。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**25  |  ![](Sprite/TinderLit.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[火炭](Embers.md) , [枯叶](LeavesDry.md)  |  生火  
+[纤维](Fibers.md) , [手钻](HandDrill.md)  |  钻木取火  
+[纤维](Fibers.md) , [弓钻](BowDrill.md)  |  钻木取火  
+[纤维](Fibers.md) , [火把](TorchOn.md)  |  点燃火绒  
+[纤维](Fibers.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
+[手钻](FirePlow.md) , [“火绒”](tag_Tinder.md)  |  点燃火绒  
+[枯叶](LeavesDry.md) , [手钻](HandDrill.md)  |  钻木取火  
+[枯叶](LeavesDry.md) , [弓钻](BowDrill.md)  |  钻木取火  
+[枯叶](LeavesDry.md) , [火把](TorchOn.md)  |  点燃火绒  
+[枯叶](LeavesDry.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
+[鸟巢](Nest.md) , [手钻](HandDrill.md)  |  钻木取火  
+[鸟巢](Nest.md) , [弓钻](BowDrill.md)  |  钻木取火  
+[鸟巢](Nest.md) , [火把](TorchOn.md)  |  点燃火绒  
+[鸟巢](Nest.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
+[纸](Papers.md) , [手钻](HandDrill.md)  |  钻木取火  
+[纸](Papers.md) , [弓钻](BowDrill.md)  |  钻木取火  
+[纸](Papers.md) , [火把](TorchOn.md)  |  点燃火绒  
+[纸](Papers.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
+[木屑](WoodShavings.md) , [手钻](HandDrill.md)  |  钻木取火  
+[木屑](WoodShavings.md) , [弓钻](BowDrill.md)  |  钻木取火  
+[木屑](WoodShavings.md) , [火把](TorchOn.md)  |  点燃火绒  
+[木屑](WoodShavings.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
+## 可拖至  
+[蒸馏器](AlembicOff.md), [熏蜂器](BeeSmokerOff.md), [营火](CampfireExtinguished.md), [香茅蜡烛](CandleCitronellaOff.md), [茉莉蜡烛](CandleJasmineOff.md), [蜡烛](CandleOff.md), [粘土火盆](ClayFirePitExtinguished.md), [炸药](DynamiteOff.md), [火堆](FireExtinguished.md), [熔炉](ForgeExtinguished.md), [高级窑炉](KilnAdvancedExtinguished.md), [窑炉](KilnExtinguished.md), [烟熏炉](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [火炉](StoveExtinguished.md), [火把](TorchOff.md)  
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+燃料  |  初始：6  |  每天-1<br>最多需要：1小时30分  |    

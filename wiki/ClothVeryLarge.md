@@ -1,0 +1,25 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 超大块布  
+> 一块超大布。把它绑在桅杆上可以做成一面帆。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**250  |  ![](Sprite/ClothVeryLarge.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[防蜂服](BeeSuit.md)  |  拆解  
+[吊床](Hammock.md)  |  拆解  
+[织布机](Loom.md) , [大块的布](ClothLarge.md)  |  扩大布匹  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+撕开布料  |  15分  |    |  → [大块的布](ClothLarge.md)<br><br>[布片](ClothSmall.md)(1)  |    
+## 可用于蓝图  
+- [木床(蓝图)](Bp_BedWooden.md)  
+- [防蜂服(蓝图)](Bp_BeeSuit.md)  
+- [吊床(蓝图)](Bp_Hammock.md)  
+- [布袋(蓝图)](Bp_Sack.md)  
+  
+  

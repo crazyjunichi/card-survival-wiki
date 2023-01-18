@@ -1,0 +1,6 @@
+[返回首页](index.md)  
+# 配菜(组)  
+- [煮熟的参薯](YamBoiled.md)  
+- [马勃菌](Puffballs.md)  
+- [稻米](RiceGrains.md)  
+- [米饭](RiceCooked.md)  

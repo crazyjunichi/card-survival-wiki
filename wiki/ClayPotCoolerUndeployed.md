@@ -1,0 +1,19 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 保鲜罐  
+> 里面的食物可以储藏的更久。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**750<br><br>**标签：**	[“大的”](tag_Large.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/ClayPotCoolerUnfired.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[保鲜罐](ClayPotCoolerOff.md)  |  清空后搬走  
+[保鲜罐](ClayPotCoolerOn.md)  |  清空后搬走  
+[未烧制的保鲜罐](ClayPotCoolerUnfired.md) , [窑炉](Kiln.md)  |  保鲜罐  
+[未烧制的保鲜罐](ClayPotCoolerUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  保鲜罐  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+放置  |  15分  |    |  → [保鲜罐](ClayPotCoolerOff.md)<br>  |    

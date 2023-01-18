@@ -1,0 +1,24 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 手机  
+> 只要还有电，就能提供照明和娱乐。<br>可惜没信号。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**25  |  ![](Sprite/PhoneOn.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[手机](PhoneOff.md)  |  开机  
+[手机](PhoneOnLight.md)  |  关闭手电筒  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+关机  |  -  |    |  → [手机](PhoneOff.md)<br>  |    
+玩游戏  |  30分  |    |  → [手机](PhoneOff.md)<br>燃料  -2<br>  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25<br>[娱乐](Entertainment.md)+30  
+看照片  |  15分  |    |  → [手机](PhoneOff.md)<br>燃料  -1<br>  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
+打开手电筒  |  -  |    |  → [手机](PhoneOnLight.md)<br>燃料  -1<br>  |    
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+燃料  |  初始：288<br>最大：288  |  每天-1<br>最多需要：3天  |  → [手机](PhoneOff.md)  

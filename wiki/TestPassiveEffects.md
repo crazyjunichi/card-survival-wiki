@@ -1,0 +1,12 @@
+[返回首页](index.md)  
+# TestPassiveEffects_CardName  
+>   
+  
+  属性  |   图片   
+ ----  |  ----:   
+   |  ![](Sprite/undefined.png)   
+  
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+耐久  |  初始：50  |  -  |    

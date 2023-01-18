@@ -1,0 +1,97 @@
+[返回首页](index.md)  
+# 丛林  
+> 茂密的丛林，应该能帮我挡住一部分雨。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md)<br><br>**初始：**	[丛林](Jungle.md)  |  ![](Sprite/Jungle.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[蝙蝠洞(丛林高地)](CaveBatsEntrance.md)  |  进入  
+[离开](CaveBatsExit.md)  |  离开  
+[草原洞穴(西部草原)](CaveGrasslandsEntrance.md)  |  进入  
+[离开](CaveGrasslandsExit.md)  |  离开  
+[洞穴](CaveSeaEntrance.md)  |  进入  
+[离开](CaveSeaExit.md)  |  离开  
+[潮汐洞(荒芜沙滩)](CaveTidalEntrance.md)  |  进入  
+[离开](CaveTidalExit.md)  |  离开  
+[地窖](CellarEntrance.md)  |  进入  
+[离开](CellarExit.md)  |  离开  
+[晶石洞穴](CrystalChamberEntrance.md)  |  进入  
+[洞穴底层](CrystalChamberExit.md)  |  离开  
+[潮湿洞穴(狭窄隧道)](DampChamberEntrance.md)  |  进入  
+[狭窄隧道](DampChamberExit.md)  |  进入  
+[幽暗洞穴](DarkCaveCaveEntrance.md)  |  进入  
+[潮湿洞穴](DarkCaveCaveExit.md)  |  进入  
+[幽暗洞穴](DarkCaveEntrance.md)  |  进入  
+[离开](DarkCaveExit.md)  |  离开  
+[小型通道](DarkChamberCaveEntrance.md)  |  进入  
+[洞穴中层](DarkChamberCaveExit.md)  |  进入  
+[阴暗裂隙(坑洞)](DarkChamberEntrance.md)  |  进入  
+[离开(阴暗洞穴)](DarkChamberExit.md)  |  离开  
+[畜栏](EnclosureEntrance.md)  |  进入  
+[离开](EnclosureExit.md)  |  离开  
+[狭窄通道](HighChamberEntrance.md)  |  进入  
+[离开](HighChamberExit.md)  |  离开  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  进入  
+[猕猴窝](MacaqueDenEntranceClear.md)  |  进入  
+[离开(猕猴窝)](MacaqueDenExit.md)  |  离开  
+[泥屋\n](MudHutEntrance.md)  |  进入  
+[泥屋\n](MudHutEntranceRuins.md)  |  进入  
+[离开](MudHutExit.md)  |  离开  
+[离开](MudHutExitDoor.md)  |  离开  
+[离开(泥屋)](MudHutExitRuins.md)  |  离开  
+[狭窄隧道(洞穴底层)](NarrowTunnelEntrance.md)  |  进入  
+[洞穴底层](NarrowTunnelExit.md)  |  进入  
+[前往火山](Path_AcidLakeToVolcano.md)  |  前往  
+[前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  
+[前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  
+[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  |  前往  
+[隐秘港湾](Path_BirdRockToCove.md)  |  游泳  
+[荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  
+[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  
+[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  
+[前往丛林高地(丛林深处)](Path_DeepJungleToJungleHighlands.md)  |  前往  
+[前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)  |  前往  
+[前往湿地(丛林深处)](Path_DeepJungleToWetlands.md)  |  前往  
+[鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  
+[前往西部草原(东部草原)](Path_GrasslandsEToGrasslandsW.md)  |  前往  
+[前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)  |  前往  
+[前往东部草原(西部草原)](Path_GrasslandsWToGrasslandsE.md)  |  前往  
+[前往西部高地(西部草原)](Path_GrasslandsWToHighlandsW.md)  |  前往  
+[前往丛林小径](Path_GrasslandsWToJungle.md)  |  前往  
+[前往丛林小径](Path_GrasslandsWToJungle.md)  |  前往  
+[前往东部草原(东部高地)](Path_HighlandsEToGrasslandsE.md)  |  前往  
+[前往西部高地](Path_HighlandsEToHighlandsW.md)  |  前往  
+[前往火山(东部高地)](Path_HighlandsEToVolcano.md)  |  前往  
+[前往西部草原(西部高地)](Path_HighlandsWToGrasslandsW.md)  |  前往  
+[前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)  |  前往  
+[前往丛林高地(西部高地)](Path_HighlandsWToJungleHighlands.md)  |  前往  
+[前往丛林深处(丛林高地)](Path_JungleHighlandsToDeepJungle.md)  |  前往  
+[前往西部高地(丛林高地)](Path_JungleHighlandsToHighlandsW.md)  |  前往  
+[前往海湾(丛林)](Path_JungleToBay.md)  |  前往  
+[前往西部草原(丛林)](Path_JungleToGrasslandsW.md)  |  前往  
+[前往丛林边缘(丛林)](Path_JungleToOutskirts.md)  |  前往  
+[前往湿地(丛林)](Path_JungleToWetlands.md)  |  前往  
+[前往西部草原(红树林)](Path_MangrovesToGrasslandsW.md)  |  前往  
+[前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  
+[前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  
+[鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  
+[前往丛林深处(神秘谷)](Path_ValleyToDeepJungle.md)  |  前往  
+[前往酸湖(火山)](Path_VolcanoToAcidLake.md)  |  前往  
+[前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  
+[前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  |  前往  
+[前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  
+[前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  
+[飞机残骸\n](PlaneCrashEntrance.md)  |  进入  
+[离开(坠毁的飞机)](PlaneCrashExit.md)  |  离开  
+[棚屋](ShedEntrance.md)  |  进入  
+[离开](ShedExit.md)  |  离开  
+[石屋\n](StoneHutEntrance.md)  |  进入  
+[离开](StoneHutExit.md)  |  离开  
+[隧道入口](TunnelEntrance.md)  |  进入  
+[离开](TunnelExit.md)  |  离开  
+[水下洞穴](UnderwaterEntrance.md)  |  进入  
+[水下出口](UnderwaterExit.md)  |  离开  

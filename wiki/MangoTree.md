@@ -1,0 +1,21 @@
+[返回首页](index.md)   |  [查看所有建筑](building.md)
+# 芒果树  
+> 我能在上面采集芒果。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **可使用次数：**8  |  ![](Sprite/MangoTree.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[丛林高地](JungleHighlands.md)  |  探索  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+采集  |  -  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[芒果](Mango.md)(1)  |    
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+使用次数  |  初始：8  |  -  |  → [摘光的芒果树](MangoTreeCleared.md)  
+芒果 成熟度<img decoding="async" src="Sprite/AlarmClock.png" style="height:30px;">  |  初始：0<br>最大：2880  |  每天+1<br>最多需要：30天  |  → [芒果树](MangoTree.md)  

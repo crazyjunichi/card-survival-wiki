@@ -1,0 +1,10 @@
+[返回首页](index.md)  
+# “伤口需要夹板”  
+- [左臂骨折](W_ArmFractureL.md)  
+- [右臂骨折](W_ArmFractureR.md)  
+- [左手腕扭伤](W_ArmSprainedL.md)  
+- [右手腕扭伤](W_ArmSprainedR.md)  
+- [左腿骨折](W_LegFractureL.md)  
+- [右腿骨折](W_LegFractureR.md)  
+- [左脚踝扭伤](W_LegSprainedL.md)  
+- [右脚踝扭伤](W_LegSprainedR.md)  

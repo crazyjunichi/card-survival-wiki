@@ -1,0 +1,12 @@
+[返回首页](index.md)  
+# “开放性伤口”  
+- [擦伤](W_Abrasion.md)  
+- [左臂撕裂伤](W_ArmLacerationL.md)  
+- [右臂撕裂伤](W_ArmLacerationR.md)  
+- [狗咬伤](W_DogBite.md)  
+- [左腿撕裂伤](W_LegLacerationL.md)  
+- [右腿撕裂伤](W_LegLacerationR.md)  
+- [猕猴咬伤](W_MacaqueBite.md)  
+- [轻微撕裂伤](W_MinorLaceration.md)  
+- [巨蜥咬伤](W_MonitorBite.md)  
+- [鲨鱼咬伤](W_SharkBite.md)  

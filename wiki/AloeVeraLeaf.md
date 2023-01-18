@@ -1,0 +1,27 @@
+[返回首页](index.md)   |  [查看所有物品](object.md)
+# 芦荟叶  
+> 能帮助我治疗和预防晒伤。对治疗背痛和虫子叮咬也有好处。  
+  
+  属性  |   图片   
+ ----  |  ----:   
+ **重量：**25<br><br>**标签：**	[“有机的”](tag_Organic.md)  |  ![](Sprite/AloeVeraLeaf.png)   
+  
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[芦荟](AloeVera.md)  |  采集  
+[TestShirt_CardName](TestShirt.md)  |  TestShirt_DismantleActions[0].ActionName  
+## 动作  
+动作  |  时间  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  
+涂抹  |  -  |    |  耐久  -300<br>  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
+## 可拖至  
+[未栽种的农田](CropPlotEmpty.md)  
+## 可用于蓝图  
+- [芦荟膏(蓝图)](Bp_AloeGel.md)  
+  
+  
+## 变化  
+操作  |  值  |  时间  |  变化  
+----  |  ----  |  ----  |  ----  
+耐久  |  初始：672  |  每天-1<br>最多需要：7天  |    
