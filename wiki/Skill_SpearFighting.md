@@ -22,13 +22,13 @@
 [(事件)一头海怪！](Event_SeahoundFight.md)  |  用长矛攻击！  |  1  
 [(事件)一条鲨鱼！](Event_SharkFight.md)  |  用长矛攻击！  |  1  
 [鱼镖](HarpoonBone.md)  |  训练  |  1  
-[鲨鱼](SharkVisitor.md)  |  用长矛攻击！  |  1  
 [铜长矛](SpearCopper.md)  |  训练  |  1  
 [鱼叉](SpearFishing.md)  |  训练  |  1  
 [燧石长矛](SpearFlint.md)  |  训练  |  1  
 [黑曜石长矛](SpearObsidian.md)  |  训练  |  1  
 [简易长矛](SpearRustic.md)  |  训练  |  1  
 [废金属长矛](SpearScrap.md)  |  训练  |  1  
+[鲨鱼](SharkVisitor.md)  |  用长矛攻击！  |  1  
 [扫帚](Broom.md)  |  训练  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  

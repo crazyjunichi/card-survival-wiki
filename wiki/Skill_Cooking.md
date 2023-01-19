@@ -33,8 +33,8 @@
 [寿司(蓝图)](Bp_Sushi.md)  |  蓝图制造  |  0.5  
 [参薯咖喱(蓝图)](Bp_YamCurry.md)  |  蓝图制造  |  0.5  
 [参薯酱(蓝图)](Bp_YamJam.md)  |  蓝图制造  |  0.5  
-[椰奶(蓝图)](Bp_CoconutMilk.md)  |  蓝图制造  |  0.25  
 [蜂蜜(蓝图)](Bp_Honey.md)  |  蓝图制造  |  0.25  
+[椰奶(蓝图)](Bp_CoconutMilk.md)  |  蓝图制造  |  0.25  
 [汤力水(蓝图)](Bp_TonicWater.md)  |  蓝图制造  |  0.25  
 ## 被以下操作需求  
 来源  |  操作  |  值  

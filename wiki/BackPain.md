@@ -8,10 +8,10 @@
 [(事件)你昏过去了](Event_FaintDizzy.md)  |  继续  |  50  
 [(事件)你昏过去了](Event_FaintExhaustion.md)  |  继续  |  25  
 [(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  6  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  5  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  5  
 [窝棚](Shelter.md)  |  小憩  |  5  
 [窝棚](Shelter.md)  |  睡觉  |  5  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  5  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  5  
 [叶床](LeafBed.md)  |  小憩  |  4.5  
 [叶床](LeafBed.md)  |  睡觉  |  4.5  
 [人鱼巢](MermaidNest.md)  |  小憩  |  4.5  

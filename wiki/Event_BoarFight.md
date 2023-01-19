@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林深处](DeepJungle.md)  |  探索  
 [(事件)近期的踪迹](Event_BoarTrailRecent.md)  |  跟随踪迹  
+[丛林深处](DeepJungle.md)  |  探索  
 [丛林](Jungle.md)  |  探索  
 [丛林高地](JungleHighlands.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  

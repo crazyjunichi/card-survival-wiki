@@ -14,8 +14,12 @@
 [大海螺](GiantConch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
 [海胆](Urchin.md) , [“锤”](tag_Hammer.md)  |  破开海胆  
 ## 可拖至  
-[粘土](Clay.md), [泥堆](MudPile.md)  
+[泥堆](MudPile.md), [粘土](Clay.md)  
 ## 可用于蓝图  
+- [斧头模具(蓝图)](Bp_MoldAxe.md)  
+- [刀模具(蓝图)](Bp_MoldKnife.md)  
+- [铲头模具(蓝图)](Bp_MoldShovel.md)  
+- [矛头模具(蓝图)](Bp_MoldSpear.md)  
 - [蒸馏器(蓝图)](Bp_Alembic.md)  
 - [陶碗(蓝图)](Bp_ClayBowl.md)  
 - [粘土火盆(蓝图)](Bp_ClayFirePit.md)  
@@ -24,10 +28,6 @@
 - [陶罐(蓝图)](Bp_ClayVase.md)  
 - [烹饪锅(蓝图)](Bp_CookingPot.md)  
 - [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
-- [斧头模具(蓝图)](Bp_MoldAxe.md)  
-- [刀模具(蓝图)](Bp_MoldKnife.md)  
-- [铲头模具(蓝图)](Bp_MoldShovel.md)  
-- [矛头模具(蓝图)](Bp_MoldSpear.md)  
   
   
 ## 可用于转化  

@@ -10,9 +10,9 @@
 来源  |  操作  
 ----  |  ----  
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
 [水下出口](UnderwaterExit.md)  |  离开  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  

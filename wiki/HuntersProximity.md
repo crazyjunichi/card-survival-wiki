@@ -37,6 +37,12 @@
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  |  -6  
 [前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  |  前往  |  -6  
 [前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  |  -6  
+[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  -12  
+[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  -12  
+[竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  |  -12  
+[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -12  
+[竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -12  
+[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  -12  
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  |  -12  
 [前往红树林](Path_BayToMangroves.md)  |  前往  |  -12  
 [前往海湾](Path_BeachToBay.md)  |  前往  |  -12  
@@ -46,12 +52,6 @@
 [前往荒芜沙滩](Path_MangrovesToDesolateBeach.md)  |  前往  |  -12  
 [前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  |  -12  
 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  |  前往  |  -12  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  -12  
-[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  -12  
-[竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  |  -12  
-[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -12  
-[竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -12  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  -12  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  |  -24  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  |  -24  
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  |  -24  

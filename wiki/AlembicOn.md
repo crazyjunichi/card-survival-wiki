@@ -29,7 +29,7 @@
 [盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  自身:<br>可用次数 + 1200<br><br>使用物:<br>可用次数 + 300<br>含水量  -1200<br><br>  |    
 [硝石溶液](LQ_DissolvedNiter.md)  |  倒入  |  -  |    |  使用物:<br>可用次数 + 300<br>含水量  -300<br><br>  |    
 ## 可拖至  
-[熏蜂器](BeeSmokerOff.md), [装有燃料的油桶](JerrycanFuel.md)  
+[装有燃料的油桶](JerrycanFuel.md), [熏蜂器](BeeSmokerOff.md)  
 ## 转化  
 放入  |  动作  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

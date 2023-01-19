@@ -9,10 +9,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[椰子皮](CoconutHusk.md)  |  提取纤维  
-[椰子皮](CoconutHusk.md)  |  提取纤维  
 [座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
 [座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
+[椰子皮](CoconutHusk.md)  |  提取纤维  
+[椰子皮](CoconutHusk.md)  |  提取纤维  
 [蛇草](SnakeGrass.md)  |  提取纤维  
 [蛇草](SnakeGrass.md)  |  提取纤维  
 ## 可拖入  
@@ -24,8 +24,12 @@
 [信号镜](SignalingMirror.md)  |  点燃火绒  |  45分  |  [降水值](RainValue.md):0-0<br>[阳光强度](SunStrength.md):1-6  |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1  
 [纤维](Fibers.md)  |  缠起来  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [细线](CordFiber.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5<br>[压力](Stress.md)-10  
 ## 可拖至  
-[熏蜂器](BeeSmokerOff.md), [粘土](Clay.md), [堆肥箱](CompostBin.md), [纤维](Fibers.md), [手钻](FirePlow.md), [泥堆](MudPile.md), [纺锤](Spindle.md)  
+[堆肥箱](CompostBin.md), [泥堆](MudPile.md), [粘土](Clay.md), [纤维](Fibers.md), [熏蜂器](BeeSmokerOff.md), [手钻](FirePlow.md), [纺锤](Spindle.md)  
 ## 可用于蓝图  
+- [斧头模具(蓝图)](Bp_MoldAxe.md)  
+- [刀模具(蓝图)](Bp_MoldKnife.md)  
+- [铲头模具(蓝图)](Bp_MoldShovel.md)  
+- [矛头模具(蓝图)](Bp_MoldSpear.md)  
 - [蒸馏器(蓝图)](Bp_Alembic.md)  
 - [陶碗(蓝图)](Bp_ClayBowl.md)  
 - [粘土火盆(蓝图)](Bp_ClayFirePit.md)  
@@ -35,9 +39,5 @@
 - [烹饪锅(蓝图)](Bp_CookingPot.md)  
 - [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
 - [皮革鞋子(蓝图)](Bp_LeatherShoes.md)  
-- [斧头模具(蓝图)](Bp_MoldAxe.md)  
-- [刀模具(蓝图)](Bp_MoldKnife.md)  
-- [铲头模具(蓝图)](Bp_MoldShovel.md)  
-- [矛头模具(蓝图)](Bp_MoldSpear.md)  
   
   

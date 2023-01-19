@@ -26,9 +26,9 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  碾碎  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [灰烬](Ash.md)<br><br>获得:<br>[灰烬](Ash.md)(2)<br>  |    
 ## 可拖至  
-[蒸馏器](AlembicOff.md), [蒸馏器](AlembicOn.md), [营火](Campfire.md), [营火](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆](FireExtinguished.md), [熔炉](Forge.md), [熔炉](ForgeExtinguished.md), [防毒面具](GasMaskRustic.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉](KilnAdvancedExtinguished.md), [窑炉](KilnExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [火炉](Stove.md), [火炉](StoveExtinguished.md)  
+[蒸馏器](AlembicOff.md), [蒸馏器](AlembicOn.md), [营火](Campfire.md), [营火](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆](FireExtinguished.md), [熔炉](Forge.md), [熔炉](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉](KilnAdvancedExtinguished.md), [窑炉](KilnExtinguished.md), [火炉](Stove.md), [火炉](StoveExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [防毒面具](GasMaskRustic.md)  
 ## 可用于蓝图  
-- [防毒面具(蓝图)](Bp_GasMask.md)  
 - [滤水器(蓝图)](Bp_WaterFilter.md)  
+- [防毒面具(蓝图)](Bp_GasMask.md)  
   
   

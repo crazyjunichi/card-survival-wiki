@@ -9,10 +9,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[牡蛎](Oyster.md) , [“锤”](tag_Hammer.md)  |  打开  
 [珍珠项链](PearlNecklace.md)  |  拆解  
 [海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
+[牡蛎](Oyster.md) , [“锤”](tag_Hammer.md)  |  打开  
 ## 可用于蓝图  
 - [珍珠项链(蓝图)](Bp_PearlNecklace.md)  
   

@@ -9,22 +9,22 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[织布机](Loom.md) , [布片](ClothSmall.md)  |  扩大布匹  
 [大块的布](ClothLarge.md)  |  撕开布料  
 [夏威夷衬衫](HawaiianShirt.md)  |  撕开布料  
 [卫衣](HoodieRetromation.md)  |  撕开布料  
-[临时绷带](ImprovisedDressing.md)  |  还原成布匹  
-[织布机](Loom.md) , [布片](ClothSmall.md)  |  扩大布匹  
 [军裤](MilitaryPants.md)  |  撕开布料  
+[布制裤子](PantsCloth.md)  |  撕开布料  
+[短裤](Shorts.md)  |  撕开布料  
+[T恤](T-Shirt.md)  |  撕开布料  
+[止血带](Tourniquet.md)  |  拆解  
+[内裤](Underwear.md)  |  撕开布料  
+[临时绷带](ImprovisedDressing.md)  |  还原成布匹  
+[骷髅(坑洞)](Skeleton.md)  |  采集  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [树液补给点](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液补给点](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[布制裤子](PantsCloth.md)  |  撕开布料  
-[短裤](Shorts.md)  |  撕开布料  
-[骷髅(坑洞)](Skeleton.md)  |  采集  
-[T恤](T-Shirt.md)  |  撕开布料  
-[止血带](Tourniquet.md)  |  拆解  
-[内裤](Underwear.md)  |  撕开布料  
 [滤水器](WaterFilter.md) , [“锤”](tag_Hammer.md)  |  拆除  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
@@ -38,7 +38,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [小树枝](Sticks.md)  |  制作止血带  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [止血带](Tourniquet.md)<br><br>  |    
 ## 可拖至  
-[头部（内层）(蓝图)](InnerHeadBlueprint.md), [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md), [左手(蓝图)](LeftHandBlueprint.md), [织布机](Loom.md), [织布机（空）](LoomEmpty.md), [右手(蓝图)](RightHandBlueprint.md)  
+[织布机](Loom.md), [织布机（空）](LoomEmpty.md), [头部（内层）(蓝图)](InnerHeadBlueprint.md), [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md), [左手(蓝图)](LeftHandBlueprint.md), [右手(蓝图)](RightHandBlueprint.md)  
 ## 可用于蓝图  
 - [火把(蓝图)](Bp_Torch.md)  
 - [止血带(蓝图)](Bp_Tourniquet.md)  

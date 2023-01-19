@@ -9,11 +9,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[稻草人](Scarecrow.md)  |  拆除  
+[(事件)礼物！](Event_MacaqueFriendGift.md)  |  看看礼物  
 [青椰子](CoconutHusked.md) , [“切割工具”](tag_Cutter.md)  |  剥  
 [青椰子](CoconutHusked.md) , [“锤”](tag_Axe.md)  |  剥  
 [青椰子](CoconutHusked.md) , [“锤”](tag_Hammer.md)  |  剥  
-[(事件)礼物！](Event_MacaqueFriendGift.md)  |  看看礼物  
-[稻草人](Scarecrow.md)  |  拆除  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

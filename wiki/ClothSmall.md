@@ -9,6 +9,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[织布机](Loom.md)  |  织布  
 [草木灰敷料](AshDressing.md)  |  去除灰烬  
 [布](Cloth.md)  |  撕开布料  
 [大块的布](ClothLarge.md)  |  撕开布料  
@@ -16,7 +17,6 @@
 [包脚布](FootWrappings.md)  |  撕开布料  
 [绑手带](HandWrappings.md)  |  撕开布料  
 [头巾](HeadWrappings.md)  |  撕开布料  
-[织布机](Loom.md)  |  织布  
 [袜子](Socks.md)  |  撕开布料  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
@@ -26,7 +26,7 @@
 [织布机](Loom.md), [织布机（空）](LoomEmpty.md)  
 ## 可用于蓝图  
 - [草木灰敷料(蓝图)](Bp_AshDressing.md)  
-- [奶酪(蓝图)](Bp_Cheese.md)  
 - [投石索(蓝图)](Bp_Sling.md)  
+- [奶酪(蓝图)](Bp_Cheese.md)  
   
   

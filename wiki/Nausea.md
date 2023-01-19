@@ -19,14 +19,14 @@
 [叶床](LeafBed.md)  |  睡觉  |  -1.5  
 [人鱼巢](MermaidNest.md)  |  小憩  |  -1.5  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  -1.5  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  -1.5  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1.5  
 [窝棚](Shelter.md)  |  小憩  |  -1.5  
 [窝棚](Shelter.md)  |  睡觉  |  -1.5  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1.5  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1.5  
 [帐篷](TentDeployed.md)  |  小憩  |  -1.5  
 [帐篷](TentDeployed.md)  |  睡觉  |  -1.5  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  -1.5  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1.5  
 [简易床](BedRustic.md)  |  小憩  |  -1.75  
 [简易床](BedRustic.md)  |  睡觉  |  -1.75  
 [木床](BedWooden.md)  |  小憩  |  -2  
@@ -42,18 +42,18 @@
 [简易床](BedRustic.md)  |  睡觉  |  20 ~ 24  
 [木床](BedWooden.md)  |  小憩  |  20 ~ 24  
 [木床](BedWooden.md)  |  睡觉  |  20 ~ 24  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  20 ~ 24  
 [叶床](LeafBed.md)  |  小憩  |  20 ~ 24  
 [叶床](LeafBed.md)  |  睡觉  |  20 ~ 24  
 [人鱼巢](MermaidNest.md)  |  小憩  |  20 ~ 24  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  20 ~ 24  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  20 ~ 24  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  20 ~ 24  
 [窝棚](Shelter.md)  |  小憩  |  20 ~ 24  
 [窝棚](Shelter.md)  |  睡觉  |  20 ~ 24  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  20 ~ 24  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  20 ~ 24  
 [帐篷](TentDeployed.md)  |  小憩  |  20 ~ 24  
 [帐篷](TentDeployed.md)  |  睡觉  |  20 ~ 24  
+[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  20 ~ 24  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  20 ~ 24  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  20 ~ 24  
 [吊床](Hammock.md)  |  小憩  |  13 ~ 24  
 [吊床](Hammock.md)  |  睡觉  |  13 ~ 24  

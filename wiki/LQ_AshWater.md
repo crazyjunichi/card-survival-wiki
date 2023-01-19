@@ -17,4 +17,4 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 饮用  |  -  |    |  → [椰子壳](CoconutShell.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+75<br>[情绪](Morale.md)-10<br>[恶心](Nausea.md)+50  
 ## 可拖至  
-[干土堆](DirtPile.md), [细土](FineDirt.md), [临时防毒面具](MaskMakeshift.md), [人鱼巢](MermaidNest.md), [肥皂](SoapDry.md), [湿肥皂](SoapWet.md)  
+[人鱼巢](MermaidNest.md), [干土堆](DirtPile.md), [临时防毒面具](MaskMakeshift.md), [细土](FineDirt.md), [肥皂](SoapDry.md), [湿肥皂](SoapWet.md)  

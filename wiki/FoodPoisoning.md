@@ -4,10 +4,10 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[参薯片](YamCut.md)  |  食用  |  24  
 [浸泡的西米](LQ_SoakedSago.md)  |  食用  |  24  
 [浸泡的参薯](LQ_SoakedYam.md)  |  食用  |  24  
 [有毒的水](LQ_WaterToxic.md)  |  饮用  |  24  
-[参薯片](YamCut.md)  |  食用  |  24  
 [煮熟的参薯](YamBoiled.md)  |  食用  |  2  
 ## 被以下操作需求  
 来源  |  操作  |  值  

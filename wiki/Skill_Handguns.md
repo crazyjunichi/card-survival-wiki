@@ -4,7 +4,6 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[蝙蝠群(蝙蝠洞)](BatColony.md)  |  用枪攻击！  |  1  
 [(事件)我发现了一头野猪！](Event_BoarFight.md)  |  用枪攻击！  |  1  
 [(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用枪攻击！  |  1  
 [(事件)攻击无人机！](Event_DroneFight.md)  |  用枪攻击！  |  1  
@@ -21,6 +20,7 @@
 [(事件)一只海鸥！](Event_SeagullRaid.md)  |  用枪攻击！  |  1  
 [(事件)一只海鸥！](Event_SeagullRaidCrop.md)  |  用枪攻击！  |  1  
 [(事件)一头海怪！](Event_SeahoundFight.md)  |  用枪攻击！  |  1  
+[蝙蝠群(蝙蝠洞)](BatColony.md)  |  用枪攻击！  |  1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

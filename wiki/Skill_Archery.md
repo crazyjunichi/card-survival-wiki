@@ -4,10 +4,6 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[蝙蝠群(蝙蝠洞)](BatColony.md)  |  用弓箭攻击！  |  1  
-[简易的弓](BowRustic.md)  |  练习  |  1  
-[上弦的简易弓](BowRustic_Copper.md)  |  练习  |  1  
-[上弦的简易弓](BowRustic_Simple.md)  |  练习  |  1  
 [(事件)我发现了一头野猪！](Event_BoarFight.md)  |  用弓箭攻击！  |  1  
 [(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用弓箭攻击！  |  1  
 [(事件)攻击无人机！](Event_DroneFight.md)  |  用弓箭攻击！  |  1  
@@ -24,6 +20,10 @@
 [(事件)一只海鸥！](Event_SeagullRaid.md)  |  用弓箭攻击  |  1  
 [(事件)一只海鸥！](Event_SeagullRaidCrop.md)  |  用弓箭攻击  |  1  
 [(事件)一头海怪！](Event_SeahoundFight.md)  |  用弓箭攻击！  |  1  
+[蝙蝠群(蝙蝠洞)](BatColony.md)  |  用弓箭攻击！  |  1  
+[简易的弓](BowRustic.md)  |  练习  |  1  
+[上弦的简易弓](BowRustic_Copper.md)  |  练习  |  1  
+[上弦的简易弓](BowRustic_Simple.md)  |  练习  |  1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[巢脾](BeeHoneycomb.md) , [“碗（容器）”](tag_ContainerBowl.md)  |  提取蜂蜜  
 [蜂蜜(蓝图)](Bp_Honey.md)  |  蓝图制造  
+[巢脾](BeeHoneycomb.md) , [“碗（容器）”](tag_ContainerBowl.md)  |  提取蜂蜜  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

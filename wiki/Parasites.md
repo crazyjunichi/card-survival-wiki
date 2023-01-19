@@ -14,11 +14,10 @@
 [螃蟹](Crab.md)  |  食用  |  0 ~ 100  
 [鱼杂](FishScraps.md)  |  食用  |  0 ~ 50  
 [鱼片](FishSlices.md)  |  食用  |  0 ~ 25  
-[绯鲤](Goatfish.md)  |  食用  |  0 ~ 150  
 [羊肉](GoatMeat.md)  |  食用  |  0 ~ 150  
+[绯鲤](Goatfish.md)  |  食用  |  0 ~ 150  
 [鲱鱼](Herring.md)  |  食用  |  0 ~ 150  
 [蜥蜴](Lizard.md)  |  食用  |  0 ~ 100  
-[不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  0 ~ 150  
 [巨蜥肉](MonitorMeat.md)  |  食用  |  0 ~ 150  
 [剥皮的老鼠](MouseSkinned.md)  |  食用  |  0 ~ 100  
 [弹涂鱼](Mudskipper.md)  |  食用  |  0 ~ 100  
@@ -31,6 +30,7 @@
 [剥皮的蛇](SnakeSkinned.md)  |  食用  |  0 ~ 150  
 [马鲅鱼肉](ThreadfinMeat.md)  |  食用  |  0 ~ 150  
 [海胆肉](UrchinMeat.md)  |  食用  |  0 ~ 75  
+[不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  0 ~ 150  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -10,6 +10,9 @@
 [海鲜杂烩](SeafoodCup.md)  |  食用  |  48  
 [醉蟹](DrunkenCrab.md)  |  食用  |  44  
 [骨头汤](BoneBroth.md)  |  饮用  |  40  
+[应急水包](WaterRation.md)  |  饮用  |  40  
+[潮汐池(岩滩)](TidePool.md)  |  饮用  |  40  
+[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  饮用  |  40  
 [灰水](LQ_AshWater.md)  |  饮用  |  40  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  40  
 [椰子水](LQ_CoconutWater.md)  |  饮用  |  40  
@@ -25,18 +28,15 @@
 [盐水](LQ_WaterSalt.md)  |  饮用  |  40  
 [有毒的水](LQ_WaterToxic.md)  |  饮用  |  40  
 [不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  40  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  饮用  |  40  
 [海(环礁)](Sea_Atoll.md)  |  饮用  |  40  
 [海(海湾)](Sea_Bay.md)  |  饮用  |  40  
 [海(沙滩)](Sea_Beach.md)  |  饮用  |  40  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  饮用  |  40  
 [海(沙滩)](Sea_Cove.md)  |  饮用  |  40  
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  饮用  |  40  
 [海(红树林)](Sea_Mangroves.md)  |  饮用  |  40  
 [海](Sea_Raft.md)  |  饮用  |  40  
 [海(鸟岩岛)](Sea_Rocks.md)  |  饮用  |  40  
-[潮汐池(岩滩)](TidePool.md)  |  饮用  |  40  
-[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  饮用  |  40  
-[应急水包](WaterRation.md)  |  饮用  |  40  
 [卡瓦汤](LQ_Kava.md)  |  饮用  |  35  
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  35  
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  35  
@@ -61,22 +61,22 @@
 [外星结节](AlienNodule.md)  |  食用  |  8  
 [芒果](Mango.md)  |  食用  |  8  
 [蛋白棒](ProteinBar.md)  |  食用  |  7  
-[鸡肉三明治](ChickenSandwich.md)  |  食用  |  6  
 [蛋](Egg.md)  |  食用  |  6  
 [受精蛋](EggPartridgeFertilized.md)  |  食用  |  6  
+[鸡肉三明治](ChickenSandwich.md)  |  食用  |  6  
 [西米糕](SagoSlime.md)  |  食用  |  6  
 [山羊奶酪](Cheese.md)  |  食用  |  5  
 [鱼肉塔可](FishTaco.md)  |  食用  |  5  
+[西米浆](SagoPulp.md)  |  食用  |  5  
+[海藻](Seaweed.md)  |  食用  |  5  
+[煮熟的参薯](YamBoiled.md)  |  食用  |  5  
+[参薯片](YamCut.md)  |  食用  |  5  
 [蜂蜜](LQ_Honey.md)  |  饮用  |  5  
 [油](LQ_Oil.md)  |  饮用  |  5  
 [香茅精油](LQ_OilCitronella.md)  |  饮用  |  5  
 [香茅油混合物](LQ_OilCitronellaMix.md)  |  饮用  |  5  
 [茉莉精油](LQ_OilJasmine.md)  |  饮用  |  5  
 [茉莉油混合物](LQ_OilJasmineMix.md)  |  饮用  |  5  
-[西米浆](SagoPulp.md)  |  食用  |  5  
-[海藻](Seaweed.md)  |  食用  |  5  
-[煮熟的参薯](YamBoiled.md)  |  食用  |  5  
-[参薯片](YamCut.md)  |  食用  |  5  
 [香蕉树芯](BananaStem.md)  |  食用  |  4  
 [蝙蝠尸体](Bat.md)  |  食用  |  4  
 [鸟肉](BirdMeat.md)  |  食用  |  4  
@@ -94,18 +94,16 @@
 [椰肉](CoconutMeat.md)  |  食用  |  4  
 [松软的烤海螺肉](ConchMeatSoftCooked.md)  |  食用  |  4  
 [螃蟹](Crab.md)  |  食用  |  4  
-[蛋炒饭](EggFriedRice.md)  |  食用  |  4  
-[鱼肉蛋饼](FishOmelette.md)  |  食用  |  4  
 [腌制中的咸鱼肉](FishSaltedDrying.md)  |  食用  |  4  
-[绯鲤](Goatfish.md)  |  食用  |  4  
-[烤绯鲤](GoatfishCooked.md)  |  食用  |  4  
-[烟熏绯鲤](GoatfishSmoked.md)  |  食用  |  4  
 [羊肉](GoatMeat.md)  |  食用  |  4  
 [烤羊肉](GoatMeatCooked.md)  |  食用  |  4  
 [羊肉干](GoatMeatDried.md)  |  食用  |  4  
 [腌羊肉](GoatMeatSalted.md)  |  食用  |  4  
 [腌制中的羊肉](GoatMeatSaltedDrying.md)  |  食用  |  4  
 [烟熏羊肉](GoatMeatSmoked.md)  |  食用  |  4  
+[绯鲤](Goatfish.md)  |  食用  |  4  
+[烤绯鲤](GoatfishCooked.md)  |  食用  |  4  
+[烟熏绯鲤](GoatfishSmoked.md)  |  食用  |  4  
 [石斑鱼肉](GrouperMeat.md)  |  食用  |  4  
 [烤石斑鱼](GrouperMeatCooked.md)  |  食用  |  4  
 [烟熏石斑鱼](GrouperMeatSmoked.md)  |  食用  |  4  
@@ -115,14 +113,18 @@
 [捣碎的柠檬草](LemonGrassGround.md)  |  食用  |  4  
 [柠檬草](LemongrassStalks.md)  |  食用  |  4  
 [蜥蜴](Lizard.md)  |  食用  |  4  
-[辣炒巨蜥肉](LizardFry.md)  |  食用  |  4  
 [猕猴肉](MacaqueMeat.md)  |  食用  |  4  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  4  
 [猕猴肉干](MacaqueMeatDried.md)  |  食用  |  4  
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  4  
 [腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)  |  食用  |  4  
 [烟熏猕猴肉](MacaqueMeatSmoked.md)  |  食用  |  4  
+[蛋炒饭](EggFriedRice.md)  |  食用  |  4  
+[鱼肉蛋饼](FishOmelette.md)  |  食用  |  4  
+[辣炒巨蜥肉](LizardFry.md)  |  食用  |  4  
 [猕猴肉串](MacaqueSkewers.md)  |  食用  |  4  
+[西米蛋糕](SagoCake.md)  |  食用  |  4  
+[参薯咖喱](YamCurry.md)  |  食用  |  4  
 [巨蜥肉](MonitorMeat.md)  |  食用  |  4  
 [烤巨蜥肉](MonitorMeatCooked.md)  |  食用  |  4  
 [巨蜥肉干](MonitorMeatDried.md)  |  食用  |  4  
@@ -139,7 +141,6 @@
 [烤鹦哥鱼](ParrotFishCooked.md)  |  食用  |  4  
 [烟熏鹦哥鱼](ParrotFishSmoked.md)  |  食用  |  4  
 [小灰山鹑尸体](PartridgeChickDead.md)  |  食用  |  4  
-[西米蛋糕](SagoCake.md)  |  食用  |  4  
 [烤海怪肉](SeahoundCooked.md)  |  食用  |  4  
 [海怪肉](Seahoundmeat.md)  |  食用  |  4  
 [烤鲨鱼肉](SharkCooked.md)  |  食用  |  4  
@@ -156,7 +157,6 @@
 [烟熏马鲅鱼](ThreadfinSmoked.md)  |  食用  |  4  
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  4  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  4  
-[参薯咖喱](YamCurry.md)  |  食用  |  4  
 [烤椰肉](CoconutMeatCooked.md)  |  食用  |  3  
 [海螺肉](ConchMeat.md)  |  食用  |  3  
 [松软的海螺肉](ConchMeatSoft.md)  |  食用  |  3  
@@ -171,28 +171,28 @@
 [烤蛋](EggCooked.md)  |  食用  |  2  
 [脂肪](Fat.md)  |  食用  |  2  
 [烤蜥蜴](LizardCooked.md)  |  食用  |  2  
+[参薯酱](YamJam.md)  |  食用  |  2  
 [烤老鼠](MouseCooked.md)  |  食用  |  2  
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  2  
 [马勃菌](Puffballs.md)  |  食用  |  2  
 [腐烂物](RottenRemains.md)  |  食用  |  2  
 [西米树芯](SagoSawdust.md)  |  食用  |  2  
 [烤海胆](UrchinMeatCooked.md)  |  食用  |  2  
-[参薯酱](YamJam.md)  |  食用  |  2  
 [杂菌](AssortedMushrooms.md)  |  食用  |  1  
 [香蕉](Banana.md)  |  食用  |  1  
-[姜糖](CandiedGinger.md)  |  食用  |  1  
 [辣椒](Chilies.md)  |  食用  |  1  
-[巧克力](Chocolate.md)  |  食用  |  1  
 [咖啡果](CoffeeBerries.md)  |  食用  |  1  
 [咖啡果浆](CoffeeBerryPulp.md)  |  食用  |  1  
 [水煮蛋](EggBoiled.md)  |  食用  |  1  
 [压缩干粮](FoodRation.md)  |  食用  |  1 ~ 4  
-[炸香蕉](FriedBanana.md)  |  食用  |  1  
 [姜](Ginger.md)  |  食用  |  1  
 [干姜](GingerDried.md)  |  食用  |  1  
 [姜末](GingerGround.md)  |  食用  |  1  
-[蜜糖](HoneyCandy.md)  |  食用  |  1  
 [迷幻菇](MagicMushrooms.md)  |  食用  |  1  
+[姜糖](CandiedGinger.md)  |  食用  |  1  
+[巧克力](Chocolate.md)  |  食用  |  1  
+[炸香蕉](FriedBanana.md)  |  食用  |  1  
+[蜜糖](HoneyCandy.md)  |  食用  |  1  
 [虫子](Bugs.md)  |  食用  |  0.25  
 [鱼杂](FishScraps.md)  |  食用  |  0.25  
 [烤鱼杂](FishScrapsCooked.md)  |  食用  |  0.25  
@@ -213,8 +213,8 @@
 [干辣椒](ChiliesDried.md)  |  食用  |  -4  
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -5  
 [西米粉](SagoFlour.md)  |  食用  |  -5  
-[木炭](Charcoal.md)  |  食用  |  -15  
 [(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -15  
+[木炭](Charcoal.md)  |  食用  |  -15  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -224,19 +224,19 @@
 [简易床](BedRustic.md)  |  睡觉  |  0 ~ 30  
 [木床](BedWooden.md)  |  小憩  |  0 ~ 30  
 [木床](BedWooden.md)  |  睡觉  |  0 ~ 30  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  0 ~ 30  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 30  
 [吊床](Hammock.md)  |  小憩  |  0 ~ 30  
 [吊床](Hammock.md)  |  睡觉  |  0 ~ 30  
 [叶床](LeafBed.md)  |  小憩  |  0 ~ 30  
 [叶床](LeafBed.md)  |  睡觉  |  0 ~ 30  
 [人鱼巢](MermaidNest.md)  |  小憩  |  0 ~ 30  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  0 ~ 30  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 30  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 30  
 [窝棚](Shelter.md)  |  小憩  |  0 ~ 30  
 [窝棚](Shelter.md)  |  睡觉  |  0 ~ 30  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  0 ~ 30  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  0 ~ 30  
 [帐篷](TentDeployed.md)  |  小憩  |  0 ~ 30  
 [帐篷](TentDeployed.md)  |  睡觉  |  0 ~ 30  
+[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  0 ~ 30  
+[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 30  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 30  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 30  

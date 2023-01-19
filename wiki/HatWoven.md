@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[棕榈编织帽(蓝图)](Bp_WovenHat.md)  |  蓝图制造  
 [稻草人](Scarecrow.md)  |  拆除  
+[棕榈编织帽(蓝图)](Bp_WovenHat.md)  |  蓝图制造  
 ## 可用于蓝图  
 - [稻草人(蓝图)](Bp_Scarecrow.md)  
   

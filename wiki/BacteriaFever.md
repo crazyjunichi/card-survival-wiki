@@ -23,13 +23,12 @@
 [腌制中的咸鱼肉](FishSaltedDrying.md)  |  食用  |  0 ~ 10  
 [鱼杂](FishScraps.md)  |  食用  |  0 ~ 25  
 [鱼片](FishSlices.md)  |  食用  |  0 ~ 50  
-[绯鲤](Goatfish.md)  |  食用  |  0 ~ 100  
 [羊肉](GoatMeat.md)  |  食用  |  0 ~ 50  
 [腌制中的羊肉](GoatMeatSaltedDrying.md)  |  食用  |  0 ~ 10  
+[绯鲤](Goatfish.md)  |  食用  |  0 ~ 100  
 [石斑鱼肉](GrouperMeat.md)  |  食用  |  0 ~ 25  
 [鲱鱼](Herring.md)  |  食用  |  0 ~ 100  
 [蜥蜴](Lizard.md)  |  食用  |  0 ~ 50  
-[不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  0 ~ 350  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  0 ~ 25  
 [猕猴肉干](MacaqueMeatDried.md)  |  食用  |  0 ~ 10  
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  0 ~ 10  
@@ -49,6 +48,7 @@
 [剥皮的蛇](SnakeSkinned.md)  |  食用  |  0 ~ 200  
 [马鲅鱼肉](ThreadfinMeat.md)  |  食用  |  0 ~ 50  
 [海胆肉](UrchinMeat.md)  |  食用  |  0 ~ 25  
+[不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  0 ~ 350  
 [捣碎的柠檬草](LemonGrassGround.md)  |  食用  |  -10  
 [捣碎的蛇草](SnakeGrassGround.md)  |  食用  |  -10  
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  -50  

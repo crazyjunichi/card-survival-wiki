@@ -12,9 +12,9 @@
 [丛林深处](DeepJungle.md)  |  探索  
 [丛林](Jungle.md)  |  探索  
 [丛林高地](JungleHighlands.md)  |  探索  
+[湿地丛林](Wetlands.md)  |  探索  
 [大树](LargeTree.md) , [石斧](StoneAxe.md)  |  砍树  
 [大树](LargeTree.md) , [“锤状的”](tag_AxeAdv.md)  |  砍树  
-[湿地丛林](Wetlands.md)  |  探索  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

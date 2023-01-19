@@ -19,10 +19,16 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [灰水](LQ_AshWater.md)<br><br>使用物:<br>→ [熟石灰](LQ_SlakedLime.md)<br><br>  |    
 ## 可拖至  
-[粘土](Clay.md), [泥堆](MudPile.md)  
+[泥堆](MudPile.md), [粘土](Clay.md)  
 ## 可用于蓝图  
-- [蒸馏器(蓝图)](Bp_Alembic.md)  
 - [水窖(蓝图)](Bp_Cistern.md)  
+- [斧头模具(蓝图)](Bp_MoldAxe.md)  
+- [刀模具(蓝图)](Bp_MoldKnife.md)  
+- [铲头模具(蓝图)](Bp_MoldShovel.md)  
+- [矛头模具(蓝图)](Bp_MoldSpear.md)  
+- [砂浆(蓝图)](Bp_Mortar.md)  
+- [硫磺农药(蓝图)](Bp_PesticideBrimstone.md)  
+- [蒸馏器(蓝图)](Bp_Alembic.md)  
 - [陶碗(蓝图)](Bp_ClayBowl.md)  
 - [粘土火盆(蓝图)](Bp_ClayFirePit.md)  
 - [小陶罐(蓝图)](Bp_ClayJar.md)  
@@ -30,11 +36,5 @@
 - [陶罐(蓝图)](Bp_ClayVase.md)  
 - [烹饪锅(蓝图)](Bp_CookingPot.md)  
 - [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
-- [斧头模具(蓝图)](Bp_MoldAxe.md)  
-- [刀模具(蓝图)](Bp_MoldKnife.md)  
-- [铲头模具(蓝图)](Bp_MoldShovel.md)  
-- [矛头模具(蓝图)](Bp_MoldSpear.md)  
-- [砂浆(蓝图)](Bp_Mortar.md)  
-- [硫磺农药(蓝图)](Bp_PesticideBrimstone.md)  
   
   

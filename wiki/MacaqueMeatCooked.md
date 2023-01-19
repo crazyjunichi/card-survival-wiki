@@ -13,14 +13,14 @@
 [猕猴肉](MacaqueMeat.md) , [粘土火盆](ClayFirePit.md)  |  猕猴  
 [猕猴肉](MacaqueMeat.md) , [火堆](Fire.md)  |  猕猴  
 [猕猴肉](MacaqueMeat.md) , [瓦斯炉](GasCookerOn.md)  |  猕猴肉  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药](DynamiteOn.md)  |  我TM来啦！  
 [猕猴肉](MacaqueMeat.md) , [火炉](Stove.md)  |  猕猴肉  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药](DynamiteOn.md)  |  我TM来啦！  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用  |  15分  |    |    |  [饱食](Satiation.md)+35<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+5<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+45<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)+0  
 ## 可拖至  
-[母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [中陷阱的猕猴](CageTrapMacaque.md), [堆肥箱](CompostBin.md), [忠犬朋友](DogFriend.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

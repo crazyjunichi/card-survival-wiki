@@ -23,7 +23,6 @@
 [腌野猪肉](BoarMeatSalted.md)  |  食用  |  50  
 [腌制中的野猪肉](BoarMeatSaltedDrying.md)  |  食用  |  50  
 [烟熏野猪肉](BoarMeatSmoked.md)  |  食用  |  50  
-[蛋炒饭](EggFriedRice.md)  |  食用  |  50  
 [烤羊肉](GoatMeatCooked.md)  |  食用  |  50  
 [羊肉干](GoatMeatDried.md)  |  食用  |  50  
 [腌羊肉](GoatMeatSalted.md)  |  食用  |  50  
@@ -34,6 +33,7 @@
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  50  
 [腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)  |  食用  |  50  
 [烟熏猕猴肉](MacaqueMeatSmoked.md)  |  食用  |  50  
+[蛋炒饭](EggFriedRice.md)  |  食用  |  50  
 [蛋白棒](ProteinBar.md)  |  食用  |  50  
 [山羊奶酪](Cheese.md)  |  食用  |  48  
 [姜糖](CandiedGinger.md)  |  食用  |  47  
@@ -48,10 +48,10 @@
 [野猪肉](BoarMeat.md)  |  食用  |  40  
 [黄油](Butter.md)  |  食用  |  40  
 [脂肪](Fat.md)  |  食用  |  40  
-[鱼肉蛋饼](FishOmelette.md)  |  食用  |  40  
 [压缩干粮](FoodRation.md)  |  食用  |  40  
 [羊肉](GoatMeat.md)  |  食用  |  40  
 [猕猴肉](MacaqueMeat.md)  |  食用  |  40  
+[鱼肉蛋饼](FishOmelette.md)  |  食用  |  40  
 [参薯酱](YamJam.md)  |  食用  |  39  
 [丛林沙拉](JungleSalad.md)  |  食用  |  35  
 [寿司](Sushi.md)  |  食用  |  35  
@@ -59,9 +59,9 @@
 [巢脾](BeeHoneycomb.md)  |  食用  |  30  
 [巧克力](Chocolate.md)  |  食用  |  30  
 [蜜糖](HoneyCandy.md)  |  食用  |  30  
+[海鲜杂烩](SeafoodCup.md)  |  食用  |  30  
 [烤巨蜥肉](MonitorMeatCooked.md)  |  食用  |  30  
 [烟熏巨蜥肉](MonitorMeatSmoked.md)  |  食用  |  30  
-[海鲜杂烩](SeafoodCup.md)  |  食用  |  30  
 [糖](Sugar.md)  |  食用  |  30  
 [烤鸟肉](BirdMeatCooked.md)  |  食用  |  25  
 [烟熏鸟肉](BirdMeatSmoked.md)  |  食用  |  25  
@@ -99,12 +99,12 @@
 [烤马鲅鱼](ThreadfinCooked.md)  |  食用  |  18  
 [烟熏马鲅鱼](ThreadfinSmoked.md)  |  食用  |  18  
 [鸟肉](BirdMeat.md)  |  食用  |  16  
+[西米糕](SagoSlime.md)  |  食用  |  15  
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  15  
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  15  
 [水椰树汁](LQ_Sap.md)  |  饮用  |  15  
 [浸泡的西米](LQ_SoakedSago.md)  |  食用  |  15  
 [浸泡的参薯](LQ_SoakedYam.md)  |  食用  |  15  
-[西米糕](SagoSlime.md)  |  食用  |  15  
 [北梭鱼肉](BonefishMeat.md)  |  食用  |  14  
 [腌制中的咸鱼肉](FishSaltedDrying.md)  |  食用  |  14  
 [绯鲤](Goatfish.md)  |  食用  |  14  
@@ -122,11 +122,11 @@
 [咸鱼](FishSalted.md)  |  食用  |  10  
 [西米浆](SagoPulp.md)  |  食用  |  10  
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  10  
+[马勃菌](Puffballs.md)  |  食用  |  8  
+[烤海胆](UrchinMeatCooked.md)  |  食用  |  8  
 [蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  8  
 [脱脂羊奶](LQ_MilkSkimmed.md)  |  饮用  |  8  
 [乳清](LQ_MilkWhey.md)  |  饮用  |  8  
-[马勃菌](Puffballs.md)  |  食用  |  8  
-[烤海胆](UrchinMeatCooked.md)  |  食用  |  8  
 [烤蝙蝠](BatCooked.md)  |  食用  |  6  
 [烤海螺肉](ConchMeatCooked.md)  |  食用  |  6  
 [松软的烤海螺肉](ConchMeatSoftCooked.md)  |  食用  |  6  
@@ -140,9 +140,9 @@
 [烤老鼠](MouseCooked.md)  |  食用  |  6  
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  6  
 [烤牡蛎肉](OysterMeatCooked.md)  |  食用  |  6  
-[骨头汤](BoneBroth.md)  |  饮用  |  5  
 [辣椒](Chilies.md)  |  食用  |  5  
 [干辣椒](ChiliesDried.md)  |  食用  |  5  
+[骨头汤](BoneBroth.md)  |  饮用  |  5  
 [西米树芯](SagoSawdust.md)  |  食用  |  5  
 [海胆肉](UrchinMeat.md)  |  食用  |  5  
 [蝙蝠尸体](Bat.md)  |  食用  |  4  
@@ -160,8 +160,8 @@
 [小灰山鹑尸体](PartridgeChickDead.md)  |  食用  |  4  
 [腐烂物](RottenRemains.md)  |  食用  |  4  
 [野枣](JujubeFruits.md)  |  食用  |  3  
-[姜茶](LQ_GingerTea.md)  |  饮用  |  3  
 [烤虾](PrawnsCooked.md)  |  食用  |  3  
+[姜茶](LQ_GingerTea.md)  |  饮用  |  3  
 [芦荟膏](AloeVeraGel.md)  |  食用  |  2  
 [杂菌](AssortedMushrooms.md)  |  食用  |  2  
 [香蕉树芯](BananaStem.md)  |  食用  |  2  

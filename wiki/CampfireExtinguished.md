@@ -10,10 +10,10 @@
 来源  |  操作  
 ----  |  ----  
 [蒸馏器](AlembicOff.md)  |  取出  
-[营火(蓝图)](Bp_Campfire.md)  |  蓝图制造  
 [营火](Campfire.md)  |  熄灭火焰  
 [烟熏炉](SmokerExtinguished.md)  |  移除烟熏炉  
 [烟熏炉](SmokerExtinguishedPlastic.md)  |  移除烟熏炉  
+[营火(蓝图)](Bp_Campfire.md)  |  蓝图制造  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

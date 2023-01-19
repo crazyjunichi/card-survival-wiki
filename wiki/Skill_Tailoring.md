@@ -11,6 +11,7 @@
 [布袋(蓝图)](Bp_Sack.md)  |  蓝图制造  |  2  
 [挎包(蓝图)](Bp_Satchel.md)  |  蓝图制造  |  2  
 [水袋(蓝图)](Bp_Waterskin.md)  |  蓝图制造  |  2  
+[投石索(蓝图)](Bp_Sling.md)  |  蓝图制造  |  1  
 [睡袋(蓝图)](Bp_Bedroll.md)  |  蓝图制造  |  1  
 [防蜂服(蓝图)](Bp_BeeSuit.md)  |  蓝图制造  |  1  
 [风箱(蓝图)](Bp_Bellows.md)  |  蓝图制造  |  1  
@@ -21,15 +22,9 @@
 [雨衣(蓝图)](Bp_Raincoat.md)  |  蓝图制造  |  1  
 [鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)  |  蓝图制造  |  1  
 [衬衫(蓝图)](Bp_Shirt.md)  |  蓝图制造  |  1  
-[投石索(蓝图)](Bp_Sling.md)  |  蓝图制造  |  1  
 [蓑衣(蓝图)](Bp_StrawCape.md)  |  蓝图制造  |  1  
 [缠好的纺锤](SpindleFiber.md)  |  纺细线  |  1  
 [缠好的纺锤](SpindleFiber.md)  |  纺线团  |  1  
-[布](Cloth.md)  |  制作绷带  |  0.5  
-[布](Cloth.md)  |  制作包脚布  |  0.5  
-[布](Cloth.md)  |  制作绑手带  |  0.5  
-[细线](CordFiber.md)  |  制作线团  |  0.5  
-[纤维](Fibers.md)  |  缠起来  |  0.5  
 [织布机](Loom.md)  |  织布  |  0.5  
 [织布机](Loom.md)  |  扩大布匹  |  0.5  
 [织布机](Loom.md)  |  扩大布匹  |  0.5  
@@ -38,6 +33,11 @@
 [织布机（空）](LoomEmpty.md)  |  解编布匹  |  0.5  
 [织布机（空）](LoomEmpty.md)  |  解编布匹  |  0.5  
 [织布机（空）](LoomEmpty.md)  |  解编布匹  |  0.5  
+[布](Cloth.md)  |  制作绷带  |  0.5  
+[布](Cloth.md)  |  制作包脚布  |  0.5  
+[布](Cloth.md)  |  制作绑手带  |  0.5  
+[细线](CordFiber.md)  |  制作线团  |  0.5  
+[纤维](Fibers.md)  |  缠起来  |  0.5  
 [线团](YarnFiber.md)  |  制作绳子  |  0.25  
 ## 被以下操作需求  
 来源  |  操作  |  值  

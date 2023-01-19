@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[离开](CaveTidalExit.md)  |  离开  
 [荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  
+[离开](CaveTidalExit.md)  |  离开  
 [前往荒芜沙滩(东部草原)](Path_GrasslandsEToDesolateBeach.md)  |  前往  
 [前往荒芜沙滩](Path_MangrovesToDesolateBeach.md)  |  前往  
 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  |  前往  

@@ -17,9 +17,9 @@
 [干胶水](GlueDry.md) , [火堆](Fire.md)  |  加热中的胶水  
 [干胶水](GlueDry.md) , [瓦斯炉](GasCookerOn.md)  |  加热胶水  
 [干胶水](GlueDry.md) , [瓦斯炉](GasCookerOn.md)  |  加热中的胶水  
-[熬制好的胶水](GlueCooked.md)  |  取出胶水  
 [干胶水](GlueDry.md) , [火炉](Stove.md)  |  加热胶水  
 [干胶水](GlueDry.md) , [火炉](Stove.md)  |  加热中的胶水  
+[熬制好的胶水](GlueCooked.md)  |  取出胶水  
 ## 可拖至  
 [眼镜](Glasses.md)  
 ## 可用于蓝图  

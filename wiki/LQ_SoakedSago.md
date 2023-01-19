@@ -13,8 +13,8 @@
 [稻米](RiceGrains.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
 [稻米](RiceGrains.md) , [开水](LQ_WaterBoiling.md)  |  浸泡  
 [西米树芯](SagoSawdust.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
-[硝酸钾](Saltpeter.md) , [硫酸](LQ_Vitriol.md)  |  浸泡  
 [糖](Sugar.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
+[硝酸钾](Saltpeter.md) , [硫酸](LQ_Vitriol.md)  |  浸泡  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

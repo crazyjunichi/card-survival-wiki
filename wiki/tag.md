@@ -1,14 +1,14 @@
 [返回首页](index.md)  
-# 分类  
-## 标签  
+# 标签  
+## 通用  
 - [“贝壳”](tag_Seashell.md)  
 - [“背包”](tag_Backpack.md)  
 - [“铲子”](tag_Shovel.md)  
 - [“潮湿环境”](tag_EnvHumid.md)  
 - [“沉重的”](tag_Heavy.md)  
 - [“储水容器”](tag_WaterContainer.md)  
-- [“锤”](tag_Axe.md)  
 - [“锤”](tag_Hammer.md)  
+- [“锤”](tag_Axe.md)  
 - [“锤状的”](tag_AxeAdv.md)  
 - [“丛林”](tag_Jungle.md)  
 - [“大的”](tag_Large.md)  
@@ -55,8 +55,8 @@
 - [“农作物”](tag_Crop.md)  
 - [“皮带”](tag_Belt.md)  
 - [“贫瘠环境”](tag_EnvInfertile.md)  
-- [“浅水域”](tag_MonitorTerritory.md)  
 - [“浅水域”](tag_ShallowWater.md)  
+- [“浅水域”](tag_MonitorTerritory.md)  
 - [“强效清洁剂”](tag_CleanerStrong.md)  
 - [“强效食料”](tag_FeedRich.md)  
 - [“切割工具”](tag_Cutter.md)  
@@ -113,7 +113,7 @@
 - [“左脚（外层）”](tag_OuterFeet.md)  
 - [“左手”](tag_Hands.md)  
   
-## 身体相关  
+## 装备  
 - [“擦伤”](eTag_WAbrasion.md)  
 - [“衬衫”](eTag_Shirt.md)  
 - [“宠物”](eTag_Pet.md)  

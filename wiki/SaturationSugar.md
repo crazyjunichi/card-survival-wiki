@@ -8,9 +8,9 @@
 [糖](Sugar.md)  |  食用  |  200  
 [参薯酱](YamJam.md)  |  食用  |  150  
 [姜糖](CandiedGinger.md)  |  食用  |  50  
-[蜂蜜](LQ_Honey.md)  |  饮用  |  50  
 [蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  50  
 [果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  50  
+[蜂蜜](LQ_Honey.md)  |  饮用  |  50  
 [蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  30  
 [糖水](LQ_SugarWater.md)  |  饮用  |  30  
 [巧克力](Chocolate.md)  |  食用  |  25  

@@ -1,7 +1,6 @@
 [返回首页](index.md)  
 # “粘土”  
 - [未烧制的蒸馏器](AlembicUnfired.md)  
-- [未烧制的熏蜂器](BeeSmokerUnfired.md)  
 - [陶碗](ClayBowl.md)  
 - [未烧制的陶碗](ClayBowlUnfired.md)  
 - [未烧制的粘土火盆](ClayFirePitUnfired.md)  
@@ -22,3 +21,4 @@
 - [刀模具](MoldKnife.md)  
 - [铲头模具](MoldShovel.md)  
 - [矛头模具](MoldSpear.md)  
+- [未烧制的熏蜂器](BeeSmokerUnfired.md)  

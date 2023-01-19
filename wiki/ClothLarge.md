@@ -9,11 +9,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[超大块布](ClothVeryLarge.md)  |  撕开布料  
 [织布机](Loom.md) , [布](Cloth.md)  |  扩大布匹  
-[临时防毒面具](MaskMakeshift.md)  |  还原成布匹  
 [座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
 [座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
+[超大块布](ClothVeryLarge.md)  |  撕开布料  
+[临时防毒面具](MaskMakeshift.md)  |  还原成布匹  
 [衬衫](ShirtFiber.md)  |  撕开布料  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
@@ -21,7 +21,7 @@
 临时防毒面具  |  15分  |    |  → [临时防毒面具](MaskMakeshift.md)<br>  |    
 撕开布料  |  15分  |    |  → [布](Cloth.md)<br><br>[布片](ClothSmall.md)(1)  |    
 ## 可拖至  
-[腿部（内层）(蓝图)](InnerLegsBlueprint.md), [躯干（内层）(蓝图)](InnerTorsoBlueprint.md), [织布机](Loom.md), [织布机（空）](LoomEmpty.md)  
+[织布机](Loom.md), [织布机（空）](LoomEmpty.md), [腿部（内层）(蓝图)](InnerLegsBlueprint.md), [躯干（内层）(蓝图)](InnerTorsoBlueprint.md)  
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [保鲜罐(蓝图)](Bp_ClayPotCooler.md)  

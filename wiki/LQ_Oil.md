@@ -13,6 +13,8 @@
 ## 可拖至  
 [捣碎的茉莉花](JasmineFlowersGround.md), [捣碎的柠檬草](LemonGrassGround.md)  
 ## 可用于蓝图  
+- [肥皂(蓝图)](Bp_Soap.md)  
+- [火把(蓝图)](Bp_Torch.md)  
 - [蛋炒饭(蓝图)](Bp_EggFriedRice.md)  
 - [炸鱼薯条(蓝图)](Bp_FishNChips.md)  
 - [炸香蕉(蓝图)](Bp_FriedBananas.md)  
@@ -23,8 +25,6 @@
 - [丛林沙拉(蓝图)](Bp_JungleSalad.md)  
 - [辣炒巨蜥肉(蓝图)](Bp_LizardFry.md)  
 - [蛋白棒(蓝图)](Bp_ProteinBar.md)  
-- [肥皂(蓝图)](Bp_Soap.md)  
-- [火把(蓝图)](Bp_Torch.md)  
 - [参薯咖喱(蓝图)](Bp_YamCurry.md)  
 - [参薯酱(蓝图)](Bp_YamJam.md)  
   

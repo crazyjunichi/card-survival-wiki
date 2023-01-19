@@ -1,11 +1,11 @@
 [返回首页](index.md)  
 # “铜制小物件”  
+- [铜项链](CopperNecklace.md)  
+- [铜罐](CopperJar.md)  
 - [废铜](CopperDecoration_Failed.md)  
 - [铸铜鱼雕](CopperDecoration_Fish.md)  
 - [铜制贝壳](CopperDecoration_Seashell.md)  
 - [铜制乌龟](CopperDecoration_Turtle.md)  
-- [铜罐](CopperJar.md)  
-- [铜项链](CopperNecklace.md)  
 - [铜制餐具](EatingUtensilsCopper.md)  
 - [铜刀](KnifeCopper.md)  
 - [钝刀](KnifeCopperBlunt.md)  

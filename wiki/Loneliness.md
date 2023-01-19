@@ -9,13 +9,13 @@
 [婴儿](Baby.md)  |  一起玩耍  |  -10  
 [祖父](Grandfather.md)  |  喂食  |  -15  
 [祖父](GrandfatherHealthy.md)  |  喂食  |  -15  
+[船长](Captain.md)  |  聊天  |  -20  
+[船长](Captain.md)  |  聊天  |  -20  
+[船长](Captain.md)  |  聊天  |  -20  
+[船长](Captain.md)  |  聊天  |  -20  
 [母猪](BoarEnclosureFemale.md)  |  抚摸  |  -20  
 [公猪](BoarEnclosureMale.md)  |  抚摸  |  -20  
 [小猪](BoarEnclosurePiglet.md)  |  抚摸  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
 [忠犬朋友](DogFriend.md)  |  喂食  |  -20 ~ 0  
 [母山羊](GoatEnclosureFemale.md)  |  抚摸  |  -20  
 [小羊](GoatEnclosureKid.md)  |  抚摸  |  -20  

@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[荒芜沙滩](DesolateBeach.md)  |  探索  
 [(事件)一头巨蜥！](Event_MonitorRaid.md)  |  嘿！  
+[荒芜沙滩](DesolateBeach.md)  |  探索  
 [东部草原](GrasslandsE.md)  |  探索  
 [西部草原](GrasslandsW.md)  |  探索  
 [红树林](Mangroves.md)  |  探索  

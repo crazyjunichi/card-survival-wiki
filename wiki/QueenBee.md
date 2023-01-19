@@ -9,9 +9,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[繁殖中的蜂群](BeeSkepSwarming.md) , [布袋](Sack.md)  |  捕捉蜜蜂  
+[繁殖中的蜂群](BeeSkepSwarming.md) , [布袋](Sack.md)  |  捕捉蜜蜂  
 [蜂巢](Beehive.md)  |  采集  
-[繁殖中的蜂群](BeeSkepSwarming.md) , [布袋](Sack.md)  |  捕捉蜜蜂  
-[繁殖中的蜂群](BeeSkepSwarming.md) , [布袋](Sack.md)  |  捕捉蜜蜂  
 ## 可用于蓝图  
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  
   

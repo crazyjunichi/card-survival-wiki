@@ -9,17 +9,17 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[中陷阱的猕猴](CageTrapMacaque.md) , [“切割工具”](tag_Cutter.md)  |  杀害  
-[忠犬朋友](DogFriend.md) , [“切割工具”](tag_Cutter.md)  |  杀害！  
 [(事件)我成功了，但我受伤了。](Event_MacaqueDenFightMixedSuccess.md)  |  继续  
 [(事件)我做到啦！](Event_MacaqueDenFightSuccess.md)  |  继续  
 [(事件)我拿下它了，但我受伤了。](Event_MacaqueFightMixedSuccess.md)  |  继续  
 [(事件)那只猕猴倒下了！](Event_MacaqueFightSuccess.md)  |  继续  
 [(事件)那只猕猴倒下了！](Event_MacaqueUndeadFightSuccess.md)  |  继续  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药](DynamiteOn.md)  |  我TM来啦！  
+[中陷阱的猕猴](CageTrapMacaque.md) , [“切割工具”](tag_Cutter.md)  |  杀害  
+[忠犬朋友](DogFriend.md) , [“切割工具”](tag_Cutter.md)  |  杀害！  
 [猕猴朋友](MacaqueFriend.md) , [“切割工具”](tag_Cutter.md)  |  杀害！  
 [受伤的猕猴](MacaqueWounded.md) , [“切割工具”](tag_Cutter.md)  |  解脱  
 [韦斯顿](Weston.md) , [“锤”](tag_Hammer.md)  |  杀害！  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药](DynamiteOn.md)  |  我TM来啦！  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

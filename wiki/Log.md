@@ -9,10 +9,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[倒下的大树](LargeTreeFelled.md) , [石斧](StoneAxe.md)  |  修整原木  
-[倒下的大树](LargeTreeFelled.md) , [“锤”](tag_Axe.md)  |  修整原木  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  
+[倒下的大树](LargeTreeFelled.md) , [石斧](StoneAxe.md)  |  修整原木  
+[倒下的大树](LargeTreeFelled.md) , [“锤”](tag_Axe.md)  |  修整原木  
 [倒下的棕榈树](PalmTreeFelled.md) , [石斧](StoneAxe.md)  |  清除  
 [倒下的棕榈树](PalmTreeFelled.md) , [“锤”](tag_Axe.md)  |  清除  
 [椰子树](PalmTree_IH.md) , [石斧](StoneAxe.md)  |  砍倒  

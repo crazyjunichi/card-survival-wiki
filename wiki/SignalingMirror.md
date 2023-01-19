@@ -7,4 +7,4 @@
  **重量：**50  |  ![](Sprite/SignallingMirror.png)   
   
 ## 可拖至  
-[纤维](Fibers.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [过路的船只](PassingShip.md), [木屑](WoodShavings.md)  
+[纤维](Fibers.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [木屑](WoodShavings.md), [过路的船只](PassingShip.md)  

@@ -9,10 +9,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[(事件)我感觉到某种“存在”……](Event_EnemyPresence.md)  |  使用匕首。  
 [(事件)野猪伤到了我！](Event_BoarWoundMinor.md)  |  真不错  
 [(事件)啊！](Event_DiveLaceration.md)  |  真他妈不错  
 [(事件)无人机伤到了我！](Event_DroneWoundMinor.md)  |  真他妈不错  
-[(事件)我感觉到某种“存在”……](Event_EnemyPresence.md)  |  使用匕首。  
 [(事件)坠落！](Event_FallLaceration.md)  |  真他妈不错  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  

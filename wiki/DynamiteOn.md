@@ -15,7 +15,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 熄灭  |  -  |    |  → [炸药](DynamiteOff.md)<br>  |    
 ## 可拖至  
-[铜矿脉(狭窄隧道)](CopperVein.md), [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md), [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md), [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md), [狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md), [狭窄通道(隧道)](HighChamberEntranceClosed.md), [猕猴窝(丛林高地)](MacaqueDenEntrance.md), [海(环礁)](Sea_Atoll.md), [海(海湾)](Sea_Bay.md), [海(沙滩)](Sea_Beach.md), [海水(覆溺洞穴)](Sea_Cave.md), [海(沙滩)](Sea_Cove.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [海(红树林)](Sea_Mangroves.md), [海](Sea_Raft.md), [海(鸟岩岛)](Sea_Rocks.md), [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md)  
+[铜矿脉(狭窄隧道)](CopperVein.md), [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md), [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md), [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md), [狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md), [狭窄通道(隧道)](HighChamberEntranceClosed.md), [海水(覆溺洞穴)](Sea_Cave.md), [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md), [猕猴窝(丛林高地)](MacaqueDenEntrance.md), [海(环礁)](Sea_Atoll.md), [海(海湾)](Sea_Bay.md), [海(沙滩)](Sea_Beach.md), [海(沙滩)](Sea_Cove.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [海(红树林)](Sea_Mangroves.md), [海](Sea_Raft.md), [海(鸟岩岛)](Sea_Rocks.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

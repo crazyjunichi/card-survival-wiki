@@ -24,15 +24,15 @@
 [猕猴肉串](MacaqueSkewers.md)  |  食用  |  35  
 [腌制中的野猪肉](BoarMeatSaltedDrying.md)  |  食用  |  30  
 [腌制中的羊肉](GoatMeatSaltedDrying.md)  |  食用  |  30  
+[腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)  |  食用  |  30  
 [炖羊汤](GoatStew.md)  |  食用  |  30  
 [肉食盛宴](HeartyFeast.md)  |  食用  |  30  
 [蜜汁火腿](HoneyGlazedPork.md)  |  食用  |  30  
-[腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)  |  食用  |  30  
 [骨头汤](BoneBroth.md)  |  饮用  |  15  
+[蛋白棒](ProteinBar.md)  |  食用  |  15  
 [老鼠尸体](Mouse.md)  |  食用  |  15  
 [烤老鼠](MouseCooked.md)  |  食用  |  15  
 [剥皮的老鼠](MouseSkinned.md)  |  食用  |  15  
-[蛋白棒](ProteinBar.md)  |  食用  |  15  
 [炸香蕉](FriedBanana.md)  |  食用  |  10  
 ## 被以下操作需求  
 来源  |  操作  |  值  

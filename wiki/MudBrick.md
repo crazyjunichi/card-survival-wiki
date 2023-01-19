@@ -22,7 +22,7 @@
 - [泥屋(蓝图)](Bp_MudHut.md)  
 - [火炉(蓝图)](Bp_Stove.md)  
 - [滤水器(蓝图)](Bp_WaterFilter.md)  
-- [水槽(蓝图)](Bp_WateringTrough.md)  
 - [蓄水池(蓝图)](Bp_WaterReservoir.md)  
+- [水槽(蓝图)](Bp_WateringTrough.md)  
   
   

@@ -28,13 +28,13 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [碱液](LQ_Lye.md)  |  浸泡  |  -  |    |  自身:<br>→ [肥皂混合物](LQ_SoapMix.md)<br>耐久  -900<br><br>使用物:<br>→ [肥皂混合物](LQ_SoapMix.md)<br><br>  |    
 ## 可拖至  
-[母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [猪食槽](BoarFeederEmpty.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [中陷阱的猕猴](CageTrapMacaque.md), [堆肥箱](CompostBin.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
-- [风箱(蓝图)](Bp_Bellows.md)  
 - [蜡烛(蓝图)](Bp_Candles.md)  
 - [香茅蜡烛(蓝图)](Bp_CandlesCitronella.md)  
 - [茉莉蜡烛(蓝图)](Bp_CandlesJasmine.md)  
 - [炸药(蓝图)](Bp_Dynamite.md)  
+- [肥皂(蓝图)](Bp_Soap.md)  
 - [蛋炒饭(蓝图)](Bp_EggFriedRice.md)  
 - [炸鱼薯条(蓝图)](Bp_FishNChips.md)  
 - [炸香蕉(蓝图)](Bp_FriedBananas.md)  
@@ -44,10 +44,10 @@
 - [热带烤鸡(蓝图)](Bp_IslandChicken.md)  
 - [辣炒巨蜥肉(蓝图)](Bp_LizardFry.md)  
 - [蛋白棒(蓝图)](Bp_ProteinBar.md)  
-- [肥皂(蓝图)](Bp_Soap.md)  
-- [水袋(蓝图)](Bp_Waterskin.md)  
 - [参薯咖喱(蓝图)](Bp_YamCurry.md)  
 - [参薯酱(蓝图)](Bp_YamJam.md)  
+- [风箱(蓝图)](Bp_Bellows.md)  
+- [水袋(蓝图)](Bp_Waterskin.md)  
   
   
 ## 变化  

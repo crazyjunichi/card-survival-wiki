@@ -4,8 +4,6 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[芦荟](AloeVera.md)  |  采集  |  1  
-[杂菌](AssortedMushroomsPlant.md)  |  采集  |  1  
 [芦荟膏(蓝图)](Bp_AloeGel.md)  |  蓝图制造  |  1  
 [硫磺膏(蓝图)](Bp_BrimstoneGel.md)  |  蓝图制造  |  1  
 [驱虫膏(蓝图)](Bp_BugRepellent.md)  |  蓝图制造  |  1  
@@ -15,25 +13,26 @@
 [辣椒农药(蓝图)](Bp_PesticideChilli.md)  |  蓝图制造  |  1  
 [金鸡纳树皮粉(蓝图)](Bp_Quinine.md)  |  蓝图制造  |  1  
 [水稻田(蓝图)](Bp_RicePaddy.md)  |  蓝图制造  |  1  
-[辣椒丛](ChiliPlant.md)  |  采集辣椒  |  1  
 [姜](Ginger.md)  |  捣碎  |  1  
 [干姜](GingerDried.md)  |  捣碎  |  1  
-[姜株](GingerPlant.md)  |  采集根部  |  1  
 [茉莉花](JasmineFlowers.md)  |  捣碎  |  1  
-[卡瓦胡椒株](KavaPlant.md)  |  采集根部  |  1  
 [卡瓦根](KavaRoot.md)  |  捣碎  |  1  
 [干燥的卡瓦根](KavaRootDried.md)  |  捣碎  |  1  
-[柠檬草](Lemongrass.md)  |  采集  |  1  
 [柠檬草](LemongrassStalks.md)  |  捣碎  |  1  
+[蛇草](SnakeGrass.md)  |  捣碎  |  1  
+[芦荟](AloeVera.md)  |  采集  |  1  
+[杂菌](AssortedMushroomsPlant.md)  |  采集  |  1  
+[辣椒丛](ChiliPlant.md)  |  采集辣椒  |  1  
+[姜株](GingerPlant.md)  |  采集根部  |  1  
+[卡瓦胡椒株](KavaPlant.md)  |  采集根部  |  1  
+[柠檬草](Lemongrass.md)  |  采集  |  1  
 [迷幻菇](MagicMushroomsPlant.md)  |  采集  |  1  
 [棕榈丛](PalmBush.md)  |  采集  |  1  
-[蛇草](SnakeGrass.md)  |  捣碎  |  1  
 [蛇草丛](SnakegrassPatch.md)  |  采集  |  1  
 [蜘蛛兰](SpiderLily.md)  |  采集  |  1  
 [大叶仙茅](WeevilLily.md)  |  采集  |  1  
 [野参薯](YamPlant.md)  |  刨参薯根  |  1  
 [野参薯](YamPlant.md)  |  刨参薯根  |  1  
-[咖啡丛](CoffeePlant.md)  |  采集  |  0.5  
 [杏仁树田](CropPlotAlmondTree.md)  |  摧毁  |  0.5  
 [芦荟田](CropPlotAloeVera.md)  |  摧毁  |  0.5  
 [香蕉树田](CropPlotBananaTree.md)  |  摧毁  |  0.5  
@@ -57,11 +56,12 @@
 [大叶仙茅田](CropPlotWeevilLily.md)  |  摧毁  |  0.5  
 [野枣田](CropPlotWildJujube.md)  |  摧毁  |  0.5  
 [参薯田](CropPlotYam.md)  |  摧毁  |  0.5  
-[水椰](NipaPalm.md)  |  割水椰子  |  0.5  
-[马勃菌](PuffballsPlant.md)  |  采集  |  0.5  
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  捣碎叶子  |  0.5  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  捣碎叶子  |  0.5  
 [大叶仙茅叶片](WeevilLilyLeaves.md)  |  制作绷带  |  0.5  
+[咖啡丛](CoffeePlant.md)  |  采集  |  0.5  
+[水椰](NipaPalm.md)  |  割水椰子  |  0.5  
+[马勃菌](PuffballsPlant.md)  |  采集  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

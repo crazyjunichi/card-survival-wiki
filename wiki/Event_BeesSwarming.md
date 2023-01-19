@@ -9,10 +9,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蜂巢](Beehive.md)  |  采集  
 [蜂箱](BeeSkep.md)  |  采集  
 [繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  
 [繁殖中的蜂群](BeeSkepSwarming.md) , [布袋](Sack.md)  |  捕捉蜜蜂  
+[蜂巢](Beehive.md)  |  采集  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

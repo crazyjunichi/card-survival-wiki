@@ -10,35 +10,35 @@
 来源  |  操作  
 ----  |  ----  
 [简易床](BedRustic.md)  |  拆解  
-[简易的弓](BowRustic.md)  |  拆解  
-[扫帚](Broom.md)  |  拆解  
+[窝棚](Shelter.md)  |  拆除  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  
 [诱捕笼](CageTrap.md)  |  拆除  
-[金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
-[剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
-[废墟(泥屋)](Debris.md)  |  清理  
-[废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
-[丛林深处](DeepJungle.md)  |  探索  
 [晾晒架](DryingRack.md)  |  拆解  
-[丛林](Jungle.md)  |  探索  
-[丛林高地](JungleHighlands.md)  |  探索  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  
 [织布机（空）](LoomEmpty.md)  |  拆卸织布机  
-[小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
-[幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 [稻草人](Scarecrow.md)  |  拆除  
-[窝棚](Shelter.md)  |  拆除  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  
-[小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
-[小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
+[陷坑](TrappingPit.md)  |  拆除陷阱  
+[陷坑](TrappingPitTriggered.md)  |  拆除陷阱  
+[简易的弓](BowRustic.md)  |  拆解  
+[扫帚](Broom.md)  |  拆解  
 [铜长矛](SpearCopper.md)  |  拆解  
 [燧石长矛](SpearFlint.md)  |  拆解  
 [黑曜石长矛](SpearObsidian.md)  |  拆解  
 [废金属长矛](SpearScrap.md)  |  拆解  
-[陷坑](TrappingPit.md)  |  拆除陷阱  
-[陷坑](TrappingPitTriggered.md)  |  拆除陷阱  
-[小杏仁树](TropicalAlmondTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
+[剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
+[废墟(泥屋)](Debris.md)  |  清理  
+[废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
+[小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[丛林深处](DeepJungle.md)  |  探索  
+[丛林](Jungle.md)  |  探索  
+[丛林高地](JungleHighlands.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
+[幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
+[小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
+[小杏仁树](TropicalAlmondTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -12,6 +12,7 @@
 饮用  |  15分  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+5<br>[胃](Stomach.md)+45<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[恶心](Nausea.md)+75<br>[饱食](Satiation.md)+40<br>[情绪](Morale.md)-10  
 ## 可用于蓝图  
 - [茉莉蜡烛(蓝图)](Bp_CandlesJasmine.md)  
+- [肥皂(蓝图)](Bp_Soap.md)  
 - [蛋炒饭(蓝图)](Bp_EggFriedRice.md)  
 - [炸鱼薯条(蓝图)](Bp_FishNChips.md)  
 - [炸香蕉(蓝图)](Bp_FriedBananas.md)  
@@ -22,7 +23,6 @@
 - [丛林沙拉(蓝图)](Bp_JungleSalad.md)  
 - [辣炒巨蜥肉(蓝图)](Bp_LizardFry.md)  
 - [蛋白棒(蓝图)](Bp_ProteinBar.md)  
-- [肥皂(蓝图)](Bp_Soap.md)  
 - [参薯咖喱(蓝图)](Bp_YamCurry.md)  
 - [参薯酱(蓝图)](Bp_YamJam.md)  
   

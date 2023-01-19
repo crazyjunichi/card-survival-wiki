@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[书架](Bookshelf.md)  |  拆解  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  
+[书架](Bookshelf.md)  |  拆解  
 [架子](Shelf.md)  |  拆解  
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  

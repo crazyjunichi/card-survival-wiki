@@ -10,10 +10,10 @@
 来源  |  操作  
 ----  |  ----  
 [捕捞拖网](RaftFishTrap.md) , [细线](CordFiber.md)  |  修理  
+[补给箱](SupplyChestRaft.md) , [细线](CordFiber.md)  |  修理  
 [损坏的帆](SailBroken_Raft.md) , [细线](CordFiber.md)  |  修理船帆  
 [收起的帆](SailDown_Raft.md)  |  扬帆  
 [收起的帆](SailDown_Raft.md) , [细线](CordFiber.md)  |  修理船帆  
-[补给箱](SupplyChestRaft.md) , [细线](CordFiber.md)  |  修理  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

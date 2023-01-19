@@ -9,12 +9,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[(事件)我拿下它了，但我受伤了。](Event_BoarFightMixedSuccess.md)  |  继续  
+[(事件)野猪倒下了！](Event_BoarFightSuccess.md)  |  继续  
 [母猪](BoarEnclosureFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
 [公猪](BoarEnclosureMale.md) , [大石块](StoneHeavy.md)  |  宰杀  
 [母猪](BoarTiedFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
 [公猪](BoarTiedMale.md) , [大石块](StoneHeavy.md)  |  宰杀  
-[(事件)我拿下它了，但我受伤了。](Event_BoarFightMixedSuccess.md)  |  继续  
-[(事件)野猪倒下了！](Event_BoarFightSuccess.md)  |  继续  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

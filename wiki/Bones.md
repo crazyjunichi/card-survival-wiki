@@ -18,9 +18,9 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  打碎  |  30分  |    |  自身:<br>→ [骨头碎片](BoneSplinters.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[骨头碎片](BoneSplinters.md)(2)<br>  |    
 ## 可用于蓝图  
-- [骨头汤(蓝图)](Bp_BoneBroth.md)  
 - [骨刀(蓝图)](Bp_BoneKnife.md)  
 - [鼓(蓝图)](Bp_Drum.md)  
 - [鱼镖(蓝图)](Bp_Harpoon.md)  
+- [骨头汤(蓝图)](Bp_BoneBroth.md)  
   
   

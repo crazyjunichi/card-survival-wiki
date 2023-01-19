@@ -9,6 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[未烧制的烹饪锅](CookingPotUnfired.md) , [窑炉](Kiln.md)  |  烧制烹饪锅  
+[未烧制的烹饪锅](CookingPotUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制烹饪锅  
 [未烹饪的骨头汤](BoneBrothUncooked.md)  |  丢弃  
 [黄油焗牡蛎](ButterBakedOystersCooked.md)  |  取出牡蛎  
 [姜糖](CandiedGingerCooked.md)  |  取出  
@@ -25,8 +27,6 @@
 [蜜糖](HoneyCandyCooked.md)  |  取出  
 [蜜汁火腿](HoneyGlazedPork.md)  |  食用  
 [热带烤鸡](IslandChicken.md)  |  食用  
-[未烧制的烹饪锅](CookingPotUnfired.md) , [窑炉](Kiln.md)  |  烧制烹饪锅  
-[未烧制的烹饪锅](CookingPotUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制烹饪锅  
 [猕猴肉串](MacaqueSkewers.md)  |  食用  
 [烹饪好的蛋白棒](ProteinBarsCooked.md)  |  取出  
 [烹饪好的西米糕](SagoSlimeCooked.md)  |  取出西米糕  
@@ -36,8 +36,9 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 收集雨水  |  -  |  [降水值](RainValue.md):1-5  |  含水量 + 10000<br>  |    
 ## 可拖至  
-[蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [中陷阱的猕猴](CageTrapMacaque.md), [忠犬朋友](DogFriend.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [干涸的小水塘(湿地丛林)](Puddle.md), [西米饼](SagoFlatbread.md), [应急水包](WaterRation.md), [蓄水池](WaterReservoir.md), [蓄水池](WaterReservoirFull.md), [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  
+[蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [西米饼](SagoFlatbread.md), [应急水包](WaterRation.md), [干涸的小水塘(湿地丛林)](Puddle.md), [蓄水池](WaterReservoir.md), [蓄水池](WaterReservoirFull.md), [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  
 ## 可用于蓝图  
+- [胶水(蓝图)](Bp_Glue.md)  
 - [骨头汤(蓝图)](Bp_BoneBroth.md)  
 - [黄油焗牡蛎(蓝图)](Bp_ButterBakedOysters.md)  
 - [姜糖(蓝图)](Bp_CandiedGinger.md)  
@@ -48,7 +49,6 @@
 - [鱼肉煎蛋饼(蓝图)](Bp_FishOmelette.md)  
 - [炸香蕉(蓝图)](Bp_FriedBananas.md)  
 - [炒菇球(蓝图)](Bp_FriedPuffballs.md)  
-- [胶水(蓝图)](Bp_Glue.md)  
 - [炖羊肉(蓝图)](Bp_GoatStew.md)  
 - [肉食盛宴(蓝图)](Bp_HeartyFeast.md)  
 - [蜜糖(蓝图)](Bp_HoneyCandy.md)  

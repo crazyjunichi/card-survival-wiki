@@ -9,9 +9,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[熏蜂器](BeeSmokerOn.md)  |  熄灭  
 [未烧制的熏蜂器](BeeSmokerUnfired.md) , [窑炉](Kiln.md)  |  烧制熏蜂器  
 [未烧制的熏蜂器](BeeSmokerUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制熏蜂器  
+[熏蜂器](BeeSmokerOn.md)  |  熄灭  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

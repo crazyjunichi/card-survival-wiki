@@ -11,8 +11,25 @@
 ----  |  ----  
 [(事件)啊！](Event_MacaqueDenFightFailedRetreat.md)  |  继续  
 [(事件)滑倒了！](Event_SlipRocks.md)  |  ……  
+[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
+[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  
+[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  
+[竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  
+[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  
+[竖井](ShaftLowChamberToMidChamber.md)  |  练习攀爬  
+[竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  
+[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
 [坑洞](HighlandHoleEntrance.md)  |  爬下去  
 [离开](HighlandHoleExit.md)  |  爬上去  
+[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  
+[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  练习攀爬  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
+[前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  
+[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
+[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  练习攀爬  
+[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
+[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  
 [椰子树](PalmTreeNew.md)  |  爬树  
 [椰子树](PalmTreeNew.md)  |  练习攀爬  
@@ -32,24 +49,7 @@
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  练习攀爬  
-[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
-[前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  
-[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
-[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  练习攀爬  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  
 [海鸥巢](SeagullNest.md)  |  攀爬  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
-[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  
-[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  
-[竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  
-[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  
-[竖井](ShaftLowChamberToMidChamber.md)  |  练习攀爬  
-[竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

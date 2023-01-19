@@ -12,17 +12,9 @@
 [沙堆(环礁)](SandSource.md)  |  收集沙子  
 [沙堆(环礁)](SandSource.md) , [“铲子”](tag_Shovel.md)  |  挖沙  
 ## 可拖至  
-[粘土](Clay.md), [泥堆](MudPile.md)  
+[泥堆](MudPile.md), [粘土](Clay.md)  
 ## 可用于蓝图  
-- [蒸馏器(蓝图)](Bp_Alembic.md)  
-- [陶碗(蓝图)](Bp_ClayBowl.md)  
-- [粘土火盆(蓝图)](Bp_ClayFirePit.md)  
-- [小陶罐(蓝图)](Bp_ClayJar.md)  
-- [保鲜罐(蓝图)](Bp_ClayPotCooler.md)  
-- [陶罐(蓝图)](Bp_ClayVase.md)  
-- [烹饪锅(蓝图)](Bp_CookingPot.md)  
 - [熔炉(蓝图)](Bp_Forge.md)  
-- [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
 - [高级窑炉(蓝图)](Bp_KilnAdvanced.md)  
 - [斧头模具(蓝图)](Bp_MoldAxe.md)  
 - [刀模具(蓝图)](Bp_MoldKnife.md)  
@@ -30,5 +22,13 @@
 - [矛头模具(蓝图)](Bp_MoldSpear.md)  
 - [砂浆(蓝图)](Bp_Mortar.md)  
 - [滤水器(蓝图)](Bp_WaterFilter.md)  
+- [蒸馏器(蓝图)](Bp_Alembic.md)  
+- [陶碗(蓝图)](Bp_ClayBowl.md)  
+- [粘土火盆(蓝图)](Bp_ClayFirePit.md)  
+- [小陶罐(蓝图)](Bp_ClayJar.md)  
+- [保鲜罐(蓝图)](Bp_ClayPotCooler.md)  
+- [陶罐(蓝图)](Bp_ClayVase.md)  
+- [烹饪锅(蓝图)](Bp_CookingPot.md)  
+- [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
   
   

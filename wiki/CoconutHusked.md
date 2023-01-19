@@ -9,11 +9,6 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[海湾](Bay.md)  |  随便逛逛  
-[海湾](Bay.md)  |  随便逛逛  
-[沙滩](Beach.md)  |  随便逛逛  
-[荒芜沙滩](DesolateBeach.md)  |  探索  
-[荒芜沙滩](DesolateBeach.md)  |  探索  
 [(事件)成功了！](Event_CoconutHit.md)  |  继续  
 [(事件)椰子树](Event_PalmTree.md)  |  继续  
 [(事件)椰子树](Event_PalmTree1.md)  |  摘取椰子  
@@ -22,6 +17,11 @@
 [(事件)椰子树](Event_PalmTree4.md)  |  摘取椰子  
 [(事件)树汁补给点](Event_SapStation.md)  |  摘取椰子  
 [(事件)失败！](Event_SwimmingFailed.md)  |  真不错  
+[海湾](Bay.md)  |  随便逛逛  
+[海湾](Bay.md)  |  随便逛逛  
+[沙滩](Beach.md)  |  随便逛逛  
+[荒芜沙滩](DesolateBeach.md)  |  探索  
+[荒芜沙滩](DesolateBeach.md)  |  探索  
 [丛林边缘](Outskirts.md)  |  探索  
 [椰子树](PalmTreeNew.md)  |  爬树  
 [椰子树](PalmTreeNew.md)  |  爬树  

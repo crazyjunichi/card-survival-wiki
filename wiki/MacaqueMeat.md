@@ -21,7 +21,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [盐](Salt.md)  |  腌制  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)<br><br>  |    
 ## 可拖至  
-[母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [中陷阱的猕猴](CageTrapMacaque.md), [堆肥箱](CompostBin.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [肉食盛宴(蓝图)](Bp_HeartyFeast.md)  
 - [猕猴肉串(蓝图)](Bp_MacaqueSkewers.md)  
@@ -30,9 +30,9 @@
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
+[猕猴肉干](MacaqueMeatDried.md)  |  [晾晒架](DryingRack.md)  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  [营火](Campfire.md)  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  [粘土火盆](ClayFirePit.md)  
-[猕猴肉干](MacaqueMeatDried.md)  |  [晾晒架](DryingRack.md)  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  [火堆](Fire.md)  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  [瓦斯炉](GasCookerOn.md)  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  [火炉](Stove.md)  

@@ -13,11 +13,11 @@
 [营火](Campfire.md)  |  取出火炭  
 [粘土火盆](ClayFirePit.md)  |  取出火炭  
 [火堆](Fire.md)  |  取出火炭  
-[烟熏炉](Smoker.md)  |  取出火炭  
-[烟熏炉](Smoker.md)  |  取出火炭  
-[烟熏炉](SmokerPlastic.md)  |  取出火炭  
-[烟熏炉](SmokerPlastic.md)  |  取出火炭  
 [火炉](Stove.md)  |  取出火炭  
+[烟熏炉](Smoker.md)  |  取出火炭  
+[烟熏炉](Smoker.md)  |  取出火炭  
+[烟熏炉](SmokerPlastic.md)  |  取出火炭  
+[烟熏炉](SmokerPlastic.md)  |  取出火炭  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

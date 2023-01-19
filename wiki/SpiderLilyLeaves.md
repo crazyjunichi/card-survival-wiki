@@ -19,7 +19,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  捣碎叶子  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [捣碎的蜘蛛兰](SpiderLilyGround.md)<br><br>  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[体重](Weight.md)-1<br>[污垢](Filth.md)+4<br>[手掌损伤](HandDamage.md)+20  
 ## 可拖至  
-[未栽种的农田](CropPlotEmpty.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [羊食槽](GoatFeeder.md), [羊食槽](GoatFeederEmpty.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md)  
+[未栽种的农田](CropPlotEmpty.md), [羊食槽](GoatFeeder.md), [羊食槽](GoatFeederEmpty.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md)  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

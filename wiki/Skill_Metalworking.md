@@ -9,8 +9,8 @@
 [铜制餐具(蓝图)](Bp_EatingUtensilsCopper.md)  |  蓝图制造  |  2  
 [铜罐(蓝图)](Bp_CopperJar.md)  |  蓝图制造  |  1  
 [铜针(蓝图)](Bp_CopperNeedles.md)  |  蓝图制造  |  1  
-[钝斧子头](AxeHeadBlunt.md)  |  磨利  |  0.5  
 [铜板(蓝图)](Bp_CopperSheet.md)  |  蓝图制造  |  0.5  
+[钝斧子头](AxeHeadBlunt.md)  |  磨利  |  0.5  
 [钝刀](KnifeCopperBlunt.md)  |  磨利  |  0.5  
 [祖父的钝刀](KnifeGrandpaBlunt.md)  |  磨利  |  0.5  
 [钝矛头](SpearHeadBlunt.md)  |  磨利  |  0.5  
