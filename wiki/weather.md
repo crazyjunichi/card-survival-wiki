@@ -25,5 +25,3 @@
 - [小雨](TropicalIsland_LightRainStart.md)  
 - [阴天](TropicalIsland_Cloudy.md)  
 - [阴天](TropicalIsland_CloudyStart.md)  
-- [TestWeatherCardClear_CardName](TestWeatherCardClear.md)  
-- [TestWeatherCardRainy_CardName](TestWeatherCardRainy.md)  

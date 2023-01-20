@@ -27,4 +27,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [海鸥尸体](SeagullDead.md)(1)  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  
+继续  |  -  |    |  [海鸥尸体](SeagullDead.md)(+1)  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  

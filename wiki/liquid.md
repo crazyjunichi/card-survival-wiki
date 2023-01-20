@@ -44,4 +44,3 @@
 - [月季花茶](LQ_ChinaRoseTea.md)  
 - [蜘蛛兰茶](LQ_SpiderLily.md)  
 - [棕榈酒](LQ_PalmWine.md)  
-- [TestLiquid_CardName](TestLiquid.md)  

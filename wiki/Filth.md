@@ -1,6 +1,13 @@
 [返回首页](index.md)  
 # 污垢  
-变化范围: 0 ~ 500  
+变化范围？: 0 ~ 500  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+425 ～ 500  |  <img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">非常脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+5<br>[细菌性发烧](BacteriaFever.md)加成+3<br>[寄生虫](Parasites.md)加成+4<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-2～-0.5  |    
+350 ～ 424  |  <img decoding="async" src="Sprite/Dirt3.png" style="width:20px;">脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+4<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+2<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1  |    
+250 ～ 349  |  <img decoding="async" src="Sprite/Dirt2.png" style="width:20px;">非常脏  |  我真想洗个澡  |  [表面细菌](BacteriaSurface.md)+3<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+1  |    
+101 ～ 249  |  <img decoding="async" src="Sprite/Dirt1.png" style="width:20px;">脏  |  我想洗个澡  |  [表面细菌](BacteriaSurface.md)+2<br>[细菌性发烧](BacteriaFever.md)加成+1  |    
+1 ～ 100  |  <img decoding="async" src="Sprite/Dirt3.png" style="width:20px;">  |    |  [表面细菌](BacteriaSurface.md)+1  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -10,7 +17,7 @@
 [(事件)我拿下它了，但我受伤了。](Event_MacaqueFightMixedSuccess.md)  |  继续  |  75  
 [粪池](Cesspool.md)  |  清理  |  50  
 [野参薯](YamPlant.md)  |  刨参薯根  |  40  
-[火炉](StoveExtinguished.md)  |  拆除  |  35  
+[火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  35  
 [猕猴尸体](MacaqueCarcass.md)  |  剔肉  |  35  
 [猕猴尸体](MacaqueCarcass.md)  |  剔肉  |  35  
 [滤水器](WaterFilter.md)  |  拆除  |  35  
@@ -122,31 +129,31 @@
 [剥皮的巨蜥](MonitorSkinned.md)  |  剔肉  |  15  
 [剥皮的巨蜥](MonitorSkinned.md)  |  剔肉  |  15  
 [野参薯](YamPlant.md)  |  刨参薯根  |  15  
-[未栽种的农田](CropPlotEmpty.md)  |  种植金鸡纳树  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植野枣  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植水稻  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植咖啡  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植柠檬草  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植蛇草  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植芦荟  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植卡瓦胡椒  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植蜘蛛兰  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植姜  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植参薯  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植大叶仙茅  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植辣椒  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植茉莉花  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植月季花  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植热带杏仁  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植香蕉树  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植水椰  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植西米树  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植椰子树  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植芒果树  |  10  
-[未栽种的农田](CropPlotEmpty.md)  |  种植棕榈丛  |  10  
-[未种植的菌床](MushroomBedEmpty.md)  |  种植马勃菌  |  10  
-[未种植的菌床](MushroomBedEmpty.md)  |  种植迷幻菇  |  10  
-[未种植的菌床](MushroomBedEmpty.md)  |  种植杂菌  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植金鸡纳树  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植野枣  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水稻  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植咖啡  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植柠檬草  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蛇草  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芦荟  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植卡瓦胡椒  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蜘蛛兰  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植姜  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植参薯  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植大叶仙茅  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植辣椒  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植茉莉花  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植月季花  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植热带杏仁  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植香蕉树  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水椰  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植西米树  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植椰子树  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芒果树  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植棕榈丛  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植马勃菌  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植迷幻菇  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植杂菌  |  10  
 [干土堆](DirtPile.md)  |  制作泥巴  |  10  
 [干土堆](DirtPile.md)  |  制作泥巴  |  10  
 [干土堆](DirtPile.md)  |  碾碎干土  |  10  
@@ -204,8 +211,8 @@
 [椰子树](PalmTreeOld.md)  |  练习攀爬  |  6  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  6  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  6  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  6  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  6  
 [椰子树](PalmTree_IH.md)  |  爬树  |  6  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  6  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  6  

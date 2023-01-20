@@ -10,13 +10,12 @@
 来源  |  操作  
 ----  |  ----  
 [芦荟](AloeVera.md)  |  采集  
-[TestShirt_CardName](TestShirt.md)  |  TestShirt_DismantleActions[0].ActionName  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 涂抹  |  -  |    |  耐久  -300<br>  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
 ## 可拖至  
-[未栽种的农田](CropPlotEmpty.md)  
+[未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于蓝图  
 - [芦荟膏(蓝图)](Bp_AloeGel.md)  
   
@@ -24,4 +23,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每天-1<br>最多需要：7天  |    
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |    

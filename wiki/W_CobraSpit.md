@@ -15,7 +15,7 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  用海水清理  |  15分  |  [勇气](Courage.md):0-4000  |  自身:<br>燃料  -75<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>耐久  -300<br>可用次数  -1<br>含水量  -300<br><br>  |  [情绪](Morale.md)+0  
+[盐水](LQ_WaterSalt.md)  |  用海水清理  |  15分  |  [勇气](Courage.md):0-4000  |  自身:<br>燃料  -75<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>耐久  -300<br>可用次数  -1<br>含水量  -300<br><br>  |  [情绪](Morale.md)  
 [“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理  |  15分  |  [勇气](Courage.md):0-4000  |  自身:<br>燃料  -75<br><br>使用物:<br>耐久  -300<br>可用次数  -1<br>含水量  -300<br><br>  |    
 ## 转化  
 放入  |  动作  |  时间  |  变化  
@@ -24,4 +24,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/CobraSpat.png" style="height:30px;">  |  初始：144<br>最大：144  |  每天-1<br>最多需要：1天12小时  |    
+<img decoding="async" src="Sprite/CobraSpat.png" style="width:30px;">  |  初始：144<br>最大：144  |  每15分钟-1<br>最多需要：1天12小时  |    

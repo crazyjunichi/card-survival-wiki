@@ -1,6 +1,10 @@
 [返回首页](index.md)  
 # 光亮  
-变化范围: 0 ~ 100  
+变化范围？: 0 ~ 100  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" style="width:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
+1 ～ 100  |  光亮  |    |  [监视者的凝视](WatchersGlare.md)加成-99  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -59,11 +63,11 @@
 [织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
 [织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
 [织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
-[织布机（空）](LoomEmpty.md)  |  拆卸织布机  |  10 ~ 100  
-[织布机（空）](LoomEmpty.md)  |  将线放到织布机上  |  10 ~ 100  
-[织布机（空）](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
-[织布机（空）](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
-[织布机（空）](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
+[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  |  10 ~ 100  
+[织布机（空）(空)](LoomEmpty.md)  |  将线放到织布机上  |  10 ~ 100  
+[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
+[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
+[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
 [打开的降落伞](ParachuteDeployed.md)  |  切下塑料布  |  10 ~ 100  
 [捕捞拖网](RaftFishTrap.md)  |  修理  |  10 ~ 100  
 [稻草人](Scarecrow.md)  |  拆除  |  10 ~ 100  
@@ -432,10 +436,10 @@
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  10 ~ 100  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  10 ~ 100  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  10 ~ 100  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  10 ~ 100  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  10 ~ 100  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  10 ~ 100  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  10 ~ 100  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
 [椰子树](PalmTree_IH.md)  |  爬树  |  10 ~ 100  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  10 ~ 100  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  10 ~ 100  

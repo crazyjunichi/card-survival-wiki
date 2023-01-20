@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Event_WestonSpecial2b_DismantleActions[0].ActionName  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1c.md)(1)  |    
+Event_WestonSpecial2b_DismantleActions[0].ActionName  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1c.md)(+1)  |    

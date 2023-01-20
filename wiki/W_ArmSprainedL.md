@@ -22,5 +22,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" style="height:30px;">  |  初始：0<br>最大：750  |  每天+1<br>最多需要：7天19小时30分  |  → [轻微撕裂伤](W_MinorLaceration.md)  
-<img decoding="async" src="Sprite/AloeGel.png" style="height:30px;">  |  初始：0<br>最大：32  |  每天-1<br>最多需要：8小时  |    
+<img decoding="async" src="Sprite/Health.png" style="width:30px;">  |  初始：0<br>最大：750  |  每15分钟+1<br>最多需要：7天19小时30分  |  → [轻微撕裂伤](W_MinorLaceration.md)  
+<img decoding="async" src="Sprite/AloeGel.png" style="width:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    

@@ -1,6 +1,12 @@
 [返回首页](index.md)  
 # 细菌性发烧  
-变化范围: 0 ~ 1500  
+变化范围？: 0 ~ 1500  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+201 ～ 300  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">低  |    |  [发烧](Fever.md)加成+12  |    
+301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
+601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
+901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

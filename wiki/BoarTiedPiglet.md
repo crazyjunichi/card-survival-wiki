@@ -26,7 +26,7 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-饥饿<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：288<br>最大：288  |  每天-1<br>最多需要：3天  |  → [小猪尸体](BoarCarcassPiglet.md)  
-口渴<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：192<br>最大：192  |  每天-1<br>最多需要：2天  |  → [小猪尸体](BoarCarcassPiglet.md)  
-成长度<img decoding="async" src="Sprite/Spoilage.png" style="height:30px;">  |  初始：0<br>最大：1344  |  -  |  [母猪](BoarTiedFemale.md)1 <br><br>[公山羊](GoatTiedMale.md)1   
-压力<img decoding="async" src="Sprite/Content.png" style="height:30px;">  |  初始：0<br>最大：1000  |  每天-5<br>最多需要：2天2小时  |    
+饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [小猪尸体](BoarCarcassPiglet.md)  
+口渴<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  → [小猪尸体](BoarCarcassPiglet.md)  
+成长度<img decoding="async" src="Sprite/Spoilage.png" style="width:30px;">  |  初始：0<br>最大：1344  |  -  |  [母猪](BoarTiedFemale.md)+1 <br><br>[公山羊](GoatTiedMale.md)+1   
+压力<img decoding="async" src="Sprite/Content.png" style="width:30px;">  |  初始：0<br>最大：1000  |  每15分钟-5<br>最多需要：2天2小时  |    

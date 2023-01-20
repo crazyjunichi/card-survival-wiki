@@ -10,7 +10,6 @@
 来源  |  操作  
 ----  |  ----  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  
-[TestDropModifiers_CardName](TestDropModifiers.md)  |  TestDropModifiers_DismantleActions[0].ActionName  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

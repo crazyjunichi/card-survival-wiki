@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [鸟食(组)](GpTag_FeedBird.md) x 1 + [鸟食(组)](GpTag_FeedBird.md) x 1 + [鸟食(组)](GpTag_FeedBird.md) x 1  |  15分  |  [压力](Stress.md)-10  |  [鸟食](FeedBird.md)(1)  
+1. [鸟食(组)](GpTag_FeedBird.md) x 1 + [鸟食(组)](GpTag_FeedBird.md) x 1 + [鸟食(组)](GpTag_FeedBird.md) x 1  |  15分  |  [压力](Stress.md)-10  |  [鸟食](FeedBird.md)(+1)  

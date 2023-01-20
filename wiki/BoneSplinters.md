@@ -11,7 +11,7 @@
 ----  |  ----  
 [骨头](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
 [骨头](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药](DynamiteOn.md)  |  我TM来啦！  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药(开)](DynamiteOn.md)  |  我TM来啦！  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

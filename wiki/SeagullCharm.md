@@ -13,4 +13,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2688<br>最大：2688  |  -  |  [细线](CordFiber.md)2 <br><br>[鸟骨](BonesBird.md)1 <br><br>[羽毛](Feathers.md)1~2   
+使用次数  |  初始：2688<br>最大：2688  |  -  |  [细线](CordFiber.md)+2 <br><br>[鸟骨](BonesBird.md)+1 <br><br>[羽毛](Feathers.md)+1～+2   

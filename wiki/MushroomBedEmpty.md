@@ -24,6 +24,6 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-肥力<img decoding="async" src="Sprite/FineDirt.png" style="height:30px;">  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |    
+肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
 使用次数  |  初始：0<br>最大：384  |  -  |    
-水分<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：192<br>最大：288  |  每天-1<br>最多需要：3天  |  → [未浇灌的菌床](MushroomBedDry.md)  
+水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [未浇灌的菌床](MushroomBedDry.md)  

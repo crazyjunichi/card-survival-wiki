@@ -11,6 +11,6 @@
 - [葫芦瓶](GourdBottle.md)  
 - [油桶](Jerrycan.md)  
 - [塑料瓶](PlasticBottle.md)  
-- [塑料瓶](PlasticBottleFull.md)  
+- [塑料瓶(满)](PlasticBottleFull.md)  
 - [水袋](Waterskin.md)  
 - [水窖](Cistern.md)  

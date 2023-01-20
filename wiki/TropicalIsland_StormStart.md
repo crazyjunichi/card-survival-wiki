@@ -9,4 +9,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：48<br>最大：48  |  每天-1<br>最多需要：12小时  |  [大雨](TropicalIsland_HeavyRainStart.md)1 <br><br>→ [前有风暴](OpenSea_StormFront.md)  
+耐久  |  初始：48<br>最大：48  |  每15分钟-1<br>最多需要：12小时  |  [大雨](TropicalIsland_HeavyRainStart.md)+1 <br><br>→ [前有风暴](OpenSea_StormFront.md)  

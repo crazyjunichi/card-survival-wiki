@@ -1,6 +1,15 @@
 [返回首页](index.md)  
 # 情绪  
-变化范围: -350 ~ 350  
+变化范围？: -350 ~ 350  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+326 ～ 350  |  <img decoding="async" src="Sprite/Euphoric.png" style="width:20px;">欢欣  |  我对生活很满意  |  [免疫系统](ImmuneSystem.md)+100<br>[情绪](Morale.md)加成-3<br>[世界观](Structure.md)加成-4<br>[孤独感](Loneliness.md)加成-1<br>[狂躁](Mania.md)加成+0.75<br>[失实症](Derealization.md)加成-100  |    
+251 ～ 325  |  <img decoding="async" src="Sprite/Content.png" style="width:20px;">快乐  |  我对生活很满意  |  [免疫系统](ImmuneSystem.md)+75<br>[情绪](Morale.md)加成-2<br>[孤独感](Loneliness.md)加成-0.5<br>[狂躁](Mania.md)加成+0.5<br>[失实症](Derealization.md)加成-50  |    
+100 ～ 250  |  <img decoding="async" src="Sprite/Content.png" style="width:20px;">满意  |  我很满意现在的生活  |  [免疫系统](ImmuneSystem.md)+50<br>[情绪](Morale.md)加成-1<br>[失实症](Derealization.md)加成-25  |    
+-250 ～ -100  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">失落  |  我有点难过  |  [免疫系统](ImmuneSystem.md)-25<br>[食欲](Appetite.md)-25<br>[情绪](Morale.md)加成+0.5<br>[失实症](Derealization.md)加成-10  |    
+-300 ～ -251  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">抑郁  |  撑不下去了……  |  [免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)-50<br>[情绪](Morale.md)加成+1<br>[世界观](Structure.md)加成-1  |    
+-349 ～ -301  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">严重抑郁  |  生活毫无乐趣……  |  [免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)-75<br>[情绪](Morale.md)加成+1.5<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+0.75  |    
+-350 ～ -350  |  <img decoding="async" src="Sprite/Suicidal.png" style="width:20px;">崩溃  |  活着毫无意义……  |  [免疫系统](ImmuneSystem.md)-100<br>[食欲](Appetite.md)-100<br>[情绪](Morale.md)加成+2<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+1.5  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -69,7 +78,7 @@
 [参薯咖喱](YamCurry.md)  |  食用  |  15  
 [西米蛋糕](SagoCake.md)  |  食用  |  12  
 [简易床(蓝图)](Bp_BedRustic.md)  |  蓝图制造  |  10  
-[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  10  
+[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  10  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  10  
 [地窖(蓝图)](Bp_Cellar.md)  |  蓝图制造  |  10  
 [水窖(蓝图)](Bp_Cistern.md)  |  蓝图制造  |  10  
@@ -201,7 +210,7 @@
 [蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  5  
 [果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  5  
 [烤海怪肉](SeahoundCooked.md)  |  食用  |  5  
-[手机](PhoneOn.md)  |  玩游戏  |  5  
+[手机(开)](PhoneOn.md)  |  玩游戏  |  5  
 [手机](PhoneOnLight.md)  |  玩游戏  |  5  
 [未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻  |  5  
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  5  

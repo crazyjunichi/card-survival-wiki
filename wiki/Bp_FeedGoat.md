@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1  |  15分  |  [压力](Stress.md)-10  |  [山羊饲料](FeedGoat.md)(1)  
+1. [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1  |  15分  |  [压力](Stress.md)-10  |  [山羊饲料](FeedGoat.md)(+1)  

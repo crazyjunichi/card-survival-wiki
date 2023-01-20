@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-是啊……  |  -  |    |  [(事件)韦斯顿](Event_WestonIslandEscape2.md)(1)  |    
+是啊……  |  -  |    |  [(事件)韦斯顿](Event_WestonIslandEscape2.md)(+1)  |    

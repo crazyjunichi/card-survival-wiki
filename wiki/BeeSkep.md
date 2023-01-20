@@ -14,17 +14,17 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  45分  |  [光亮](Light.md):10-100  |  能量  -500<br><br>[巢脾](BeeHoneycomb.md)(2)<br>[(事件)一群蜜蜂！](Event_BeesSwarming.md)(1)  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4  
-采集  |  45分  |  [光亮](Light.md):10-100  |  能量  -500<br><br>[巢脾](BeeHoneycomb.md)(2)  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2  
+采集  |  45分  |  [光亮](Light.md):10-100  |  能量  -500<br><br>[巢脾](BeeHoneycomb.md)(+2)<br>[(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
+采集  |  45分  |  [光亮](Light.md):10-100  |  能量  -500<br><br>[巢脾](BeeHoneycomb.md)(+2)  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火把](TorchOn.md)  |  烟熏  |  -  |    |  自身:<br>耐久 + 6<br><br>  |    
+[火把(开)](TorchOn.md)  |  烟熏  |  -  |    |  自身:<br>耐久 + 6<br><br>  |    
 [“储水容器”](tag_WaterContainer.md)  |  添入  |  -  |    |  自身:<br>燃料 + 500<br><br>使用物:<br>含水量  -300<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-休眠<img decoding="async" src="Sprite/Sleepy.png" style="height:30px;">  |  初始：0<br>最大：6  |  每天-1<br>最多需要：1小时30分  |    
-种群数量<img decoding="async" src="Sprite/BeeStings.png" style="height:30px;">  |  初始：336<br>最大：1344  |  每天+1<br>最多需要：14天  |  → [空蜂箱](BeeSkepEmpty.md)  
-食物储备<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天-1<br>最多需要：3天  |    
-蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" style="height:30px;">  |  初始：0<br>最大：1000  |  每天+0.1<br>最多需要：104天4小时  |    
+休眠<img decoding="async" src="Sprite/Sleepy.png" style="width:30px;">  |  初始：0<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |    
+种群数量<img decoding="async" src="Sprite/BeeStings.png" style="width:30px;">  |  初始：336<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  → [空蜂箱(空)](BeeSkepEmpty.md)  
+食物储备<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
+蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" style="width:30px;">  |  初始：0<br>最大：1000  |  每15分钟+0.1<br>最多需要：104天4小时  |    

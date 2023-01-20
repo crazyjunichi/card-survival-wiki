@@ -10,11 +10,11 @@
 来源  |  操作  
 ----  |  ----  
 [茉莉蜡烛(蓝图)](Bp_CandlesJasmine.md)  |  蓝图制造  
-[茉莉蜡烛](CandleJasmineOn.md)  |  熄灭  
+[茉莉蜡烛(开)](CandleJasmineOn.md)  |  熄灭  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [茉莉蜡烛](CandleJasmineOn.md)<br><br>  |    
+[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [茉莉蜡烛(开)](CandleJasmineOn.md)<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

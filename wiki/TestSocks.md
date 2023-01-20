@@ -4,5 +4,5 @@
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“左脚（内层）”](tag_InnerFeet.md)  |  ![](Sprite/undefined.png)   
+ **重量：**0<br><br>**标签：**	[“左脚（内层）”](tag_InnerFeet.md)  |  ![]()   
   

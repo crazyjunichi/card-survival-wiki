@@ -10,11 +10,11 @@
 来源  |  操作  
 ----  |  ----  
 [香茅蜡烛(蓝图)](Bp_CandlesCitronella.md)  |  蓝图制造  
-[香茅蜡烛](CandleCitronellaOn.md)  |  熄灭  
+[香茅蜡烛(开)](CandleCitronellaOn.md)  |  熄灭  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [香茅蜡烛](CandleCitronellaOn.md)<br><br>  |    
+[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [香茅蜡烛(开)](CandleCitronellaOn.md)<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

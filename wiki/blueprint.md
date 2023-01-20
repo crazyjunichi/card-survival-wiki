@@ -290,7 +290,7 @@
 - [羊食槽(蓝图)](Bp_GoatFeeder.md)  
 - [水槽(蓝图)](Bp_WateringTrough.md)  
 - [猪食槽(蓝图)](Bp_BoarFeeder.md)  
-- [空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  
+- [空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  
 - [防蜂服(蓝图)](Bp_BeeSuit.md)  
 - [熏蜂器(蓝图)](Bp_BeeSmoker.md)  

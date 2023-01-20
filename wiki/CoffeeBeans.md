@@ -13,12 +13,12 @@
 [咖啡果](CoffeeBerries.md)  |  采集咖啡豆  
 [咖啡果浆](CoffeeBerryPulp.md)  |  食用  
 ## 可拖至  
-[未栽种的农田](CropPlotEmpty.md)  
+[未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [营火](Campfire.md)  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [粘土火盆](ClayFirePit.md)  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [火堆](Fire.md)  
-[烤咖啡豆](CoffeeRoastedBeans.md)  |  [瓦斯炉](GasCookerOn.md)  
+[烤咖啡豆](CoffeeRoastedBeans.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [火炉](Stove.md)  

@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [树叶(组)](GpTag_Leaves.md) x 6  |  30分  |  [压力](Stress.md)-10  |  [叶床](LeafBed.md)(1)  
+1. [树叶(组)](GpTag_Leaves.md) x 6  |  30分  |  [压力](Stress.md)-10  |  [叶床](LeafBed.md)(+1)  

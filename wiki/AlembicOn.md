@@ -9,14 +9,14 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蒸馏器](AlembicOff.md) , [火种](TinderLit.md)  |  点燃  
+[蒸馏器(关)](AlembicOff.md) , [火种](TinderLit.md)  |  点燃  
 [营火](Campfire.md) , [蒸馏器](AlembicUndeployed.md)  |  放置蒸馏器  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[火炭](Embers.md)(1)  |    
-熄灭火焰  |  -  |    |  → [蒸馏器](AlembicOff.md)<br>  |    
-取出  |  -  |    |  → [营火](Campfire.md)<br><br>[蒸馏器](AlembicUndeployed.md)(1)  |    
+取出火炭  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[火炭](Embers.md)(+1)  |    
+熄灭火焰  |  -  |    |  → [蒸馏器(关)](AlembicOff.md)<br>  |    
+取出  |  -  |    |  → [营火](Campfire.md)<br><br>[蒸馏器](AlembicUndeployed.md)(+1)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,7 +29,7 @@
 [盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  自身:<br>可用次数 + 1200<br><br>使用物:<br>可用次数 + 300<br>含水量  -1200<br><br>  |    
 [硝石溶液](LQ_DissolvedNiter.md)  |  倒入  |  -  |    |  使用物:<br>可用次数 + 300<br>含水量  -300<br><br>  |    
 ## 可拖至  
-[装有燃料的油桶](JerrycanFuel.md), [熏蜂器](BeeSmokerOff.md)  
+[装有燃料的油桶](JerrycanFuel.md), [熏蜂器(关)](BeeSmokerOff.md)  
 ## 转化  
 放入  |  动作  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -40,7 +40,7 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-水量<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：1200  |  每天-38<br>最多需要：7小时53.684210526315766分  |    
-燃料  |  初始：32<br>最大：96  |  每天-1<br>最多需要：1天  |  → [蒸馏器](AlembicOff.md)  
-<img decoding="async" src="Sprite/Charcoal.png" style="height:30px;">  |  初始：0<br>最大：16  |  每天+1<br>最多需要：4小时  |    
-硝石溶液<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：1200  |  每天-38<br>最多需要：7小时53.684210526315766分  |    
+水量<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：1200  |  每15分钟-38<br>最多需要：7小时53.684210526315766分  |    
+燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  → [蒸馏器(关)](AlembicOff.md)  
+<img decoding="async" src="Sprite/Charcoal.png" style="width:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
+硝石溶液<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：1200  |  每15分钟-38<br>最多需要：7小时53.684210526315766分  |    

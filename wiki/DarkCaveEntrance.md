@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[幽暗洞穴(环境)](Env_CaveDark.md)(1)<br>[幽暗洞穴](DarkCave.md)(1)<br>[离开](DarkCaveExit.md)(1)  |  [在黑暗环境](InDarkPlace.md)+1  
+进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[幽暗洞穴(环境)](Env_CaveDark.md)(+1)<br>[幽暗洞穴](DarkCave.md)(+1)<br>[离开](DarkCaveExit.md)(+1)  |  [在黑暗环境](InDarkPlace.md)+1  

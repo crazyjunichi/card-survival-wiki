@@ -1,6 +1,12 @@
 [返回首页](index.md)  
 # 胃  
-变化范围: 0 ~ 200  
+变化范围？: 0 ~ 200  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+1 ～ 4  |  <img decoding="async" src="Sprite/Stomach.png" style="width:20px;">消化  |    |  [胃](Stomach.md)加成-1<br>[肠道](Intestines.md)加成+1  |    
+5 ～ 9  |  <img decoding="async" src="Sprite/Stomach.png" style="width:20px;">消化  |    |  [胃](Stomach.md)加成-5<br>[肠道](Intestines.md)加成+5  |    
+10 ～ 19  |  <img decoding="async" src="Sprite/Stomach.png" style="width:20px;">消化  |    |  [胃](Stomach.md)加成-10<br>[肠道](Intestines.md)加成+10  |    
+20 ～ 200  |  <img decoding="async" src="Sprite/Stomach.png" style="width:20px;">消化  |    |  [胃](Stomach.md)加成-20<br>[肠道](Intestines.md)加成+20  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

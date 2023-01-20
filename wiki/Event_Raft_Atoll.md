@@ -9,5 +9,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-停在这  |  1小时  |    |  [离开木筏](RaftExitAtoll.md)(1)<br>[开始冒险](Start_RaftAtoll.md)(1)  |    
+停在这  |  1小时  |    |  [离开木筏](RaftExitAtoll.md)(+1)<br>[开始冒险](Start_RaftAtoll.md)(+1)  |    
 继续前进  |  1小时  |    |    |    

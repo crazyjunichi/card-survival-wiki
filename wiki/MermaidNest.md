@@ -24,5 +24,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：576<br>最大：576  |  每天-1<br>最多需要：6天  |    
-<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：12<br>最大：24  |  每天-1<br>最多需要：6小时  |    
+耐久  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |    
+<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：12<br>最大：24  |  每15分钟-1<br>最多需要：6小时  |    

@@ -10,8 +10,8 @@
 来源  |  操作  
 ----  |  ----  
 [炸药(蓝图)](Bp_Dynamite.md)  |  蓝图制造  
-[炸药](DynamiteOn.md)  |  熄灭  
+[炸药(开)](DynamiteOn.md)  |  熄灭  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [炸药](DynamiteOn.md)<br><br>  |    
+[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [炸药(开)](DynamiteOn.md)<br><br>  |    

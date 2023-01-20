@@ -18,4 +18,4 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  拆解  |  2小时  |  [光亮](Light.md):1-100  |  使用物:<br>可用次数  -2<br><br>获得:<br>[大块的布](ClothLarge.md)(1)<br>[纤维](Fibers.md)(6~10)<br>[金属废料](MetalScrap.md)(1~2)<br>  |  [污垢](Filth.md)+15  
+[“锤”](tag_Axe.md)  |  拆解  |  2小时  |  [光亮](Light.md):1-100  |  使用物:<br>可用次数  -2<br><br>获得:<br>[大块的布](ClothLarge.md)(+1)<br>[纤维](Fibers.md)(+6～+10)<br>[金属废料](MetalScrap.md)(+1～+2)<br>  |  [污垢](Filth.md)+15  

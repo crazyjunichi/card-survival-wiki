@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  30分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[覆溺洞穴(环境)](Env_FloodedChamber.md)(1)<br>[水下出口](UnderwaterExit.md)(1)<br>[(事件)我游不动了……](Event_SwimFail.md)(1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-5<br>[游泳(技能)](Skill_Swimming.md)+0.5  
+进入  |  30分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[覆溺洞穴(环境)](Env_FloodedChamber.md)(+1)<br>[水下出口](UnderwaterExit.md)(+1)<br>[(事件)我游不动了……](Event_SwimFail.md)(+1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-5<br>[游泳(技能)](Skill_Swimming.md)+0.5  

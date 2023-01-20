@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[泥屋(环境)](Env_MudHut.md)(1)<br>[离开](MudHutExit.md)(1)<br>[泥屋](MudHut.md)(1)  |    
+进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[泥屋(环境)](Env_MudHut.md)(+1)<br>[离开](MudHutExit.md)(+1)<br>[泥屋](MudHut.md)(+1)  |    

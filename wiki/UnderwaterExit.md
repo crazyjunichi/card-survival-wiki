@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开  |  30分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[沙滩(环境)](Env_Cove.md)(1)<br>[水下洞穴](UnderwaterEntrance.md)(1)<br>[(事件)我游不动了……](Event_SwimFail.md)(1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-5<br>[游泳(技能)](Skill_Swimming.md)+0.5  
+离开  |  30分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[沙滩(环境)](Env_Cove.md)(+1)<br>[水下洞穴](UnderwaterEntrance.md)(+1)<br>[(事件)我游不动了……](Event_SwimFail.md)(+1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-5<br>[游泳(技能)](Skill_Swimming.md)+0.5  

@@ -31,8 +31,8 @@
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeOld.md)  |  爬树  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错  |  -  |    |  [左手腕扭伤](W_ArmSprainedL.md)(1)<br>[右手腕扭伤](W_ArmSprainedR.md)(1)<br>[右脚踝扭伤](W_LegSprainedR.md)(1)<br>[左脚踝扭伤](W_LegSprainedL.md)(1)  |  [污垢](Filth.md)+30  
+真他妈不错  |  -  |    |  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>[右手腕扭伤](W_ArmSprainedR.md)(+1)<br>[右脚踝扭伤](W_LegSprainedR.md)(+1)<br>[左脚踝扭伤](W_LegSprainedL.md)(+1)  |  [污垢](Filth.md)+30  

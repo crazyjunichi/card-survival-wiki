@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴上层(环境)](Env_CrystalChamber.md)(1)<br>[洞穴底层](CrystalChamberExit.md)(1)  |    
+进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴上层(环境)](Env_CrystalChamber.md)(+1)<br>[洞穴底层](CrystalChamberExit.md)(+1)  |    

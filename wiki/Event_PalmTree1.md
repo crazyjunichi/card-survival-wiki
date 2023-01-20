@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摘取椰子  |  15分  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(1)  |  [阻止抽到棕榈树](PalmTreeKiller.md)-4  
+摘取椰子  |  15分  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(+1)  |  [阻止抽到棕榈树](PalmTreeKiller.md)-4  

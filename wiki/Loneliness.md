@@ -1,6 +1,11 @@
 [返回首页](index.md)  
 # 孤独感  
-变化范围: 0 ~ 4880  
+变化范围？: 0 ~ 4880  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+900 ～ 2440  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到一丝孤独……  |  [世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-0.25<br>[压力](Stress.md)加成+0.75  |    
+2441 ～ 3660  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到孤独……  |  [世界观](Structure.md)加成-2<br>[情绪](Morale.md)加成-0.75<br>[压力](Stress.md)加成+1.5  |    
+3661 ～ 4880  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到十分孤独……  |  [世界观](Structure.md)加成-3<br>[情绪](Morale.md)加成-1.5<br>[精神失常](MindState.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5<br>[压力](Stress.md)加成+1.5～+2  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -30,7 +35,7 @@
 [祖父](Grandfather.md)  |  喂食  |  -50  
 [祖父](GrandfatherHealthy.md)  |  喂食  |  -50  
 [祖父](GrandfatherHealthy.md)  |  喂食  |  -50  
-[手机](PhoneOn.md)  |  看照片  |  -50  
+[手机(开)](PhoneOn.md)  |  看照片  |  -50  
 [手机](PhoneOnLight.md)  |  看照片  |  -50  
 ## 被以下操作需求  
 来源  |  操作  |  值  

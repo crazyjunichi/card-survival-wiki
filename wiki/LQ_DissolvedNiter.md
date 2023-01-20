@@ -11,4 +11,4 @@
 ----  |  ----  
 [硫酸](LQ_Vitriol.md) , [硝酸钾](Saltpeter.md)  |  溶解  
 ## 可拖至  
-[蒸馏器](AlembicOff.md), [蒸馏器](AlembicOn.md)  
+[蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md)  

@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  15分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴上层(环境)](Env_NarrowTunnel.md)(1)  |    
+进入  |  15分  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴上层(环境)](Env_NarrowTunnel.md)(+1)  |    

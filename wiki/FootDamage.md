@@ -1,6 +1,10 @@
 [返回首页](index.md)  
 # 足部损伤  
-变化范围: 0 ~ 1000  
+变化范围？: 0 ~ 1000  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" style="width:20px;">我的脚好疼  |  割伤和水泡使走路更困难。  |  [足茧](CallousesFeet.md)加成+0.25<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/FootDamaged.png" style="width:20px;">我的脚太痛了  |  我的脚上都是割伤和水泡，太疼了。  |  [足茧](CallousesFeet.md)加成+0.5<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -97,8 +101,8 @@
 [椰子树](PalmTreeOld.md)  |  练习攀爬  |  8  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  8  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  8  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  8  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  8  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  8  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  8  
 [椰子树](PalmTree_IH.md)  |  爬树  |  8  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  8  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  8  

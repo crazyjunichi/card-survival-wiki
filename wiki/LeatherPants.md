@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解  |  15分  |  [光亮](Light.md):10-100  |  [鞣制兽皮](CuredSkin.md)(4)<br>[细线](CordFiber.md)(6)  |    
+拆解  |  15分  |  [光亮](Light.md):10-100  |  [鞣制兽皮](CuredSkin.md)(+4)<br>[细线](CordFiber.md)(+6)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,5 +21,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：5376<br>最大：5376  |  -  |  [鞣制兽皮](CuredSkin.md)4 <br><br>[细线](CordFiber.md)6   
-<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：12  |  每天-1<br>最多需要：3小时  |    
+使用次数  |  初始：5376<br>最大：5376  |  -  |  [鞣制兽皮](CuredSkin.md)+4 <br><br>[细线](CordFiber.md)+6   
+<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    

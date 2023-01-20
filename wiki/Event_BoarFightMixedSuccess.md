@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [(事件)野猪伤到了我！](Event_BoarWoundMinor.md)(1)<br>[野猪尸体](BoarCarcass.md)(1)  |    
+继续  |  -  |    |  [(事件)野猪伤到了我！](Event_BoarWoundMinor.md)(+1)<br>[野猪尸体](BoarCarcass.md)(+1)  |    

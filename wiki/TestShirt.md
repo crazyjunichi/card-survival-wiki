@@ -4,7 +4,7 @@
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“躯干（外层）”](tag_OuterTorso.md)  |  ![](Sprite/undefined.png)   
+ **重量：**0<br><br>**标签：**	[“躯干（外层）”](tag_OuterTorso.md)  |  ![]()   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-TestShirt_DismantleActions[0].ActionName  |  15分  |    |  [芦荟叶](AloeVeraLeaf.md)(1)<br>[一串香蕉](BananaHand.md)(1)  |    
+TestShirt_DismantleActions[0].ActionName  |  15分  |    |  [芦荟叶](AloeVeraLeaf.md)(+1)<br>[一串香蕉](BananaHand.md)(+1)  |    

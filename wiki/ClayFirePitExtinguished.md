@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[木炭](Charcoal.md)(1)<br>[灰烬](Ash.md)(2)  |    
+取出木炭和灰烬  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[木炭](Charcoal.md)(+1)<br>[灰烬](Ash.md)(+2)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -33,4 +33,4 @@
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：0<br>最大：96  |  -  |    
-<img decoding="async" src="Sprite/Charcoal.png" style="height:30px;">  |  初始：0<br>最大：16  |  -  |    
+<img decoding="async" src="Sprite/Charcoal.png" style="width:30px;">  |  初始：0<br>最大：16  |  -  |    

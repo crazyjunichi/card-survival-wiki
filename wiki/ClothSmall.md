@@ -23,7 +23,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [灰烬](Ash.md)  |  制作草木灰敷料  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [草木灰敷料](AshDressing.md)<br><br>  |    
 ## 可拖至  
-[织布机](Loom.md), [织布机（空）](LoomEmpty.md)  
+[织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md)  
 ## 可用于蓝图  
 - [草木灰敷料(蓝图)](Bp_AshDressing.md)  
 - [投石索(蓝图)](Bp_Sling.md)  

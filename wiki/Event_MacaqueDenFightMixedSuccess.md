@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(1~3)<br>[擦伤](W_Abrasion.md)(0~2)<br>[猕猴尸体](MacaqueCarcass.md)(1)<br>[猕猴窝(环境)](Env_MacaqueDen.md)(1)  |  [猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+250  
+继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(+1～+3)<br>[擦伤](W_Abrasion.md)(0～+2)<br>[猕猴尸体](MacaqueCarcass.md)(+1)<br>[猕猴窝(环境)](Env_MacaqueDen.md)(+1)  |  [猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+250  

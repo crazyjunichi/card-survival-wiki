@@ -1,6 +1,8 @@
 [返回首页](index.md)  
 # 攀爬(技能)  
-变化范围: 0 ~ 150  
+变化范围？: 0 ~ 150  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -29,8 +31,8 @@
 [椰子树](PalmTreeOld.md)  |  练习攀爬  |  1  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  1  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  1  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  1  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  1  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  1  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  1  
 [椰子树](PalmTree_IH.md)  |  爬树  |  1  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  

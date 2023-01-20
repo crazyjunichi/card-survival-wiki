@@ -9,9 +9,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[控制台](ControlPanelOn.md)  |  关闭引擎  
+[控制台(开)](ControlPanelOn.md)  |  关闭引擎  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-启动引擎  |  -  |  [油箱满的](FuelTankFull.md):1-1  |  → [控制台](ControlPanelOn.md)<br>  |    
-检查无线电室  |  -  |    |  → [控制台](ControlPanelOn.md)<br>  |    
+启动引擎  |  -  |  [油箱满的](FuelTankFull.md):1-1  |  → [控制台(开)](ControlPanelOn.md)<br>  |    
+检查无线电室  |  -  |    |  → [控制台(开)](ControlPanelOn.md)<br>  |    

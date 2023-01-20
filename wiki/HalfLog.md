@@ -16,8 +16,8 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[石斧](StoneAxe.md)  |  切割成木材  |  2小时  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[木材](Wood.md)(6~8)<br>  |  [体重](Weight.md)-8<br>[耐力](Stamina.md)-16<br>[手掌损伤](HandDamage.md)+160<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[“锤”](tag_Axe.md)  |  切割成木材  |  1小时30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[木材](Wood.md)(6)<br>  |  [体重](Weight.md)-6<br>[耐力](Stamina.md)-12<br>[手掌损伤](HandDamage.md)+120  
+[石斧](StoneAxe.md)  |  切割成木材  |  2小时  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[木材](Wood.md)(+6～+8)<br>  |  [体重](Weight.md)-8<br>[耐力](Stamina.md)-16<br>[手掌损伤](HandDamage.md)+160<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“锤”](tag_Axe.md)  |  切割成木材  |  1小时30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[木材](Wood.md)(+6)<br>  |  [体重](Weight.md)-6<br>[耐力](Stamina.md)-12<br>[手掌损伤](HandDamage.md)+120  
 ## 可用于蓝图  
 - [鼓(蓝图)](Bp_Drum.md)  
 - [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  

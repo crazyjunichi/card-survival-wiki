@@ -7,4 +7,3 @@
 - [衬衫](ShirtFiber.md)  
 - [蓑衣](StrawCape.md)  
 - [T恤](T-Shirt.md)  
-- [TestShirt_CardName](TestShirt.md)  

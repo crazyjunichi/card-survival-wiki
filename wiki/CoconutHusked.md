@@ -40,12 +40,8 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  剥  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
-[“锤”](tag_Axe.md)  |  剥  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
-[“锤”](tag_Hammer.md)  |  剥  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(1)<br>  |  [耐力](Stamina.md)-4<br>[压力](Stress.md)-10  
+[“切割工具”](tag_Cutter.md)  |  剥  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+[“锤”](tag_Axe.md)  |  剥  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+[“锤”](tag_Hammer.md)  |  剥  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [椰子](Coconut.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-4<br>[压力](Stress.md)-10  
 ## 可拖至  
 [猕猴朋友](MacaqueFriend.md)  
-## 可用于蓝图  
-- [BlueprintModelTest_CardName(蓝图)](BlueprintModelTest.md)  
-  
-  

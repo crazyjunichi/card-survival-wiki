@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-上木筏  |  -  |    |  可用次数 + 1<br><br>[木筏(环境)](Env_Raft.md)(1)<br>[离开木筏](RaftExit.md)(1)<br>[开始冒险](Start_Raft.md)(1)<br>[木筏](Raft.md)(1)  |  [在木筏上](OnRaft.md)+1  
+上木筏  |  -  |    |  可用次数 + 1<br><br>[木筏(环境)](Env_Raft.md)(+1)<br>[离开木筏](RaftExit.md)(+1)<br>[开始冒险](Start_Raft.md)(+1)<br>[木筏](Raft.md)(+1)  |  [在木筏上](OnRaft.md)+1  

@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(2)  |  [情绪](Morale.md)-20<br>[海怪寄生虫](ParasitesSeahound.md)+800  
+继续  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(+2)  |  [情绪](Morale.md)-20<br>[海怪寄生虫](ParasitesSeahound.md)+800～+1600  

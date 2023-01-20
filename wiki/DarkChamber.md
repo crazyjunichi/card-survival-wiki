@@ -17,4 +17,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-污秽<img decoding="async" src="Sprite/Dirt4.png" style="height:30px;">  |  初始：0<br>最大：1000  |  每天+0.1<br>最多需要：104天4小时  |    
+污秽<img decoding="async" src="Sprite/Dirt4.png" style="width:30px;">  |  初始：0<br>最大：1000  |  每15分钟+0.1<br>最多需要：104天4小时  |    

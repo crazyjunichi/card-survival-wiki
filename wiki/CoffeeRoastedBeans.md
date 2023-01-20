@@ -12,7 +12,7 @@
 [咖啡豆](CoffeeBeans.md) , [营火](Campfire.md)  |  咖啡  
 [咖啡豆](CoffeeBeans.md) , [粘土火盆](ClayFirePit.md)  |  咖啡  
 [咖啡豆](CoffeeBeans.md) , [火堆](Fire.md)  |  咖啡  
-[咖啡豆](CoffeeBeans.md) , [瓦斯炉](GasCookerOn.md)  |  咖啡  
+[咖啡豆](CoffeeBeans.md) , [瓦斯炉(开)](GasCookerOn.md)  |  咖啡  
 [咖啡豆](CoffeeBeans.md) , [火炉](Stove.md)  |  咖啡  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  

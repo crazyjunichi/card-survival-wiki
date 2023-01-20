@@ -10,7 +10,7 @@
 来源  |  操作  
 ----  |  ----  
 [蓄水池](WaterReservoir.md)  |  开始灌溉  
-[蓄水池](WaterReservoirFull.md)  |  开始灌溉  
+[蓄水池(满)](WaterReservoirFull.md)  |  开始灌溉  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,4 +22,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-防蚊<img decoding="async" src="Sprite/BugsNot.png" style="height:30px;">  |  初始：0<br>最大：672  |  每天-1<br>最多需要：7天  |    
+防蚊<img decoding="async" src="Sprite/BugsNot.png" style="width:30px;">  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |    

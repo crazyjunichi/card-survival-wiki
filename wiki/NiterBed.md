@@ -17,5 +17,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Lye.png" style="height:30px;">  |  初始：480<br>最大：480  |  每天-1<br>最多需要：5天  |    
-进度  |  初始：0<br>最大：1440  |  -  |  [硝石晶体](NiterCrystals.md)3 <br><br>→ [粪池](Cesspool.md)  
+<img decoding="async" src="Sprite/Lye.png" style="width:30px;">  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |    
+进度  |  初始：0<br>最大：1440  |  -  |  [硝石晶体](NiterCrystals.md)+3 <br><br>→ [粪池](Cesspool.md)  

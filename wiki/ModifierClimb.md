@@ -1,6 +1,11 @@
 [返回首页](index.md)  
 # ModifierClimb_GameName  
-变化范围: 0 ~ 3  
+变化范围？: 0 ~ 3  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+1 ～ 1  |  ModifierClimb_Statuses[0].GameName  |    |    |    
+2 ～ 2  |  ModifierClimb_Statuses[1].GameName  |    |    |    
+3 ～ 3  |  ModifierClimb_Statuses[2].GameName  |    |    |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -39,6 +44,6 @@
 [椰子树](PalmTreeOld.md)  |  练习攀爬  |  0 ~ 2  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  0 ~ 2  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  0 ~ 2  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  0 ~ 2  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  0 ~ 2  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  0 ~ 2  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  0 ~ 2  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  0 ~ 2  

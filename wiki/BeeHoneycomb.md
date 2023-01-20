@@ -25,7 +25,7 @@
 [“碗（容器）”](tag_ContainerBowl.md)  |  提取蜂蜜  |  15分  |    |  自身:<br>→ [蜂蜡](Beeswax.md)<br><br>  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  15分  |    |  自身:<br>→ [浸泡的西米](LQ_SoakedSago.md)<br>耐久  -336<br><br>使用物:<br>→ [蜂蜜水](LQ_HoneyWater.md)<br><br>  |    
 ## 可拖至  
-[猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  
 - [蜂蜜(蓝图)](Bp_Honey.md)  
@@ -34,4 +34,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672<br>最大：672  |  每天-1<br>最多需要：7天  |    
+耐久  |  初始：672<br>最大：672  |  每15分钟-1<br>最多需要：7天  |    

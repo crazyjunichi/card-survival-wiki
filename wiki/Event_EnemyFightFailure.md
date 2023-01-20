@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼  |  1小时  |    |  [崩解烙印](W_UnravellingMark.md)(1)  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  
+闭眼  |  1小时  |    |  [崩解烙印](W_UnravellingMark.md)(+1)  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  

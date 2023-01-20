@@ -25,12 +25,12 @@
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开  |  30分  |  [光亮](Light.md):10-100  |  [线团](YarnFiber.md)(2)  |    
+拆开  |  30分  |  [光亮](Light.md):10-100  |  [线团](YarnFiber.md)(+2)  |    
 ## 可拖至  
 [编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

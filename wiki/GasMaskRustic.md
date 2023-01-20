@@ -18,4 +18,4 @@
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：64<br>最大：64  |  -  |    
-湿度<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：12  |  每天-1<br>最多需要：3小时  |    
+湿度<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    

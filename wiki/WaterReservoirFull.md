@@ -21,5 +21,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-防蚊<img decoding="async" src="Sprite/BugsNot.png" style="height:30px;">  |  初始：0<br>最大：672  |  每天-1<br>最多需要：7天  |    
-  |  初始：2<br>最大：2  |  每天-1<br>最多需要：30分  |  → [蓄水池](WaterReservoir.md)  
+防蚊<img decoding="async" src="Sprite/BugsNot.png" style="width:30px;">  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |    
+  |  初始：2<br>最大：2  |  每15分钟-1<br>最多需要：30分  |  → [蓄水池](WaterReservoir.md)  

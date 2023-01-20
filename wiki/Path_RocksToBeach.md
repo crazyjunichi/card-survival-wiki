@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往  |  15分  |    |  [沙滩(环境)](Env_Beach.md)(1)<br>[前往岩滩(沙滩)](Path_BeachToRocks.md)(1)  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
+前往  |  15分  |    |  [沙滩(环境)](Env_Beach.md)(+1)<br>[前往岩滩(沙滩)](Path_BeachToRocks.md)(+1)  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  

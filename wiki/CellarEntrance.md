@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[地窖(环境)](Env_Cellar.md)(1)<br>[离开](CellarExit.md)(1)<br>[地窖](Cellar.md)(1)  |    
+进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[地窖(环境)](Env_Cellar.md)(+1)<br>[离开](CellarExit.md)(+1)<br>[地窖](Cellar.md)(+1)  |    

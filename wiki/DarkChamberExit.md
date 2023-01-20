@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[坑洞(环境)](Env_HighlandHole.md)(1)<br>[阴暗裂隙(坑洞)](DarkChamberEntrance.md)(1)  |  [在黑暗环境](InDarkPlace.md)-1  
+离开  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[坑洞(环境)](Env_HighlandHole.md)(+1)<br>[阴暗裂隙(坑洞)](DarkChamberEntrance.md)(+1)  |  [在黑暗环境](InDarkPlace.md)-1  

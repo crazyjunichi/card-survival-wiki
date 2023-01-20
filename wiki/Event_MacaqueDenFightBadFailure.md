@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(1~3)<br>[擦伤](W_Abrasion.md)(0~3)  |  [情绪](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)+50  
+继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(+1～+3)<br>[擦伤](W_Abrasion.md)(0～+3)  |  [情绪](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)+50～+300  

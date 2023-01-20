@@ -13,9 +13,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭  |  -  |    |  燃料  -4<br><br>[火炭](Embers.md)(1)  |    
+取出火炭  |  -  |    |  燃料  -4<br><br>[火炭](Embers.md)(+1)  |    
 熄灭火焰  |  -  |    |  → [烟熏炉](SmokerExtinguishedPlastic.md)<br>  |    
-移除烟熏炉  |  30分  |    |  → [营火](Campfire.md)<br><br>[烟熏炉](SmokerNoFirePlastic.md)(1)  |    
+移除烟熏炉  |  30分  |    |  → [营火](Campfire.md)<br><br>[烟熏炉](SmokerNoFirePlastic.md)(+1)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -41,30 +41,30 @@
 ## 转化  
 放入  |  动作  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-[海螺肉](ConchMeat.md)  |  海螺肉  |  30分  |  [烤海螺肉](ConchMeatCooked.md)(1)  
-[松软的海螺肉](ConchMeatSoft.md)  |  松软的海螺肉  |  30分  |  [松软的烤海螺肉](ConchMeatSoftCooked.md)(1)  
-[螃蟹](Crab.md)  |  螃蟹  |  30分  |  [烤螃蟹](CrabCooked.md)(1)  
-[野猪肉](BoarMeat.md)  |  野猪肉  |  30分  |  [烤野猪肉](BoarMeatCooked.md)(1)  
-[烤野猪肉](BoarMeatCooked.md)  |  野猪肉熏制好了  |  30分  |  [烟熏野猪肉](BoarMeatSmoked.md)(1)  
-[石斑鱼肉](GrouperMeat.md)  |  石斑鱼  |  30分  |  [烤石斑鱼](GrouperMeatCooked.md)(1)  
-[烤石斑鱼](GrouperMeatCooked.md)  |  烟熏石斑鱼  |  30分  |  [烟熏石斑鱼](GrouperMeatSmoked.md)(1)  
-[蛋](Egg.md)  |  蛋  |  15分  |  [烤蛋](EggCooked.md)(1)  
-[绯鲤](Goatfish.md)  |  绯鲤  |  30分  |  [烤绯鲤](GoatfishCooked.md)(1)  
-[烤绯鲤](GoatfishCooked.md)  |  绯鲤熏制好了  |  3小时  |  [烟熏绯鲤](GoatfishSmoked.md)(1)  
-[北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |  [烤北梭鱼](BonefishCooked.md)(1)  
-[烤北梭鱼](BonefishCooked.md)  |  北梭鱼熏制好了  |  3小时  |  [烟熏北梭鱼](BonefishSmoked.md)(1)  
-[鹦哥鱼](ParrotFish.md)  |  鹦哥鱼  |  30分  |  [烤鹦哥鱼](ParrotFishCooked.md)(1)  
-[烤鹦哥鱼](ParrotFishCooked.md)  |  鹦哥鱼熏制好了  |  3小时  |  [烟熏鹦哥鱼](ParrotFishSmoked.md)(1)  
-[热带杏仁核](TropicalAlmondKernels.md)  |  热带杏仁  |  30分  |  [烤热带杏仁](TropicalAlmondsRoasted.md)(1)  
+[海螺肉](ConchMeat.md)  |  海螺肉  |  30分  |  [烤海螺肉](ConchMeatCooked.md)(+1)  
+[松软的海螺肉](ConchMeatSoft.md)  |  松软的海螺肉  |  30分  |  [松软的烤海螺肉](ConchMeatSoftCooked.md)(+1)  
+[螃蟹](Crab.md)  |  螃蟹  |  30分  |  [烤螃蟹](CrabCooked.md)(+1)  
+[野猪肉](BoarMeat.md)  |  野猪肉  |  30分  |  [烤野猪肉](BoarMeatCooked.md)(+1)  
+[烤野猪肉](BoarMeatCooked.md)  |  野猪肉熏制好了  |  30分  |  [烟熏野猪肉](BoarMeatSmoked.md)(+1)  
+[石斑鱼肉](GrouperMeat.md)  |  石斑鱼  |  30分  |  [烤石斑鱼](GrouperMeatCooked.md)(+1)  
+[烤石斑鱼](GrouperMeatCooked.md)  |  烟熏石斑鱼  |  30分  |  [烟熏石斑鱼](GrouperMeatSmoked.md)(+1)  
+[蛋](Egg.md)  |  蛋  |  15分  |  [烤蛋](EggCooked.md)(+1)  
+[绯鲤](Goatfish.md)  |  绯鲤  |  30分  |  [烤绯鲤](GoatfishCooked.md)(+1)  
+[烤绯鲤](GoatfishCooked.md)  |  绯鲤熏制好了  |  3小时  |  [烟熏绯鲤](GoatfishSmoked.md)(+1)  
+[北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |  [烤北梭鱼](BonefishCooked.md)(+1)  
+[烤北梭鱼](BonefishCooked.md)  |  北梭鱼熏制好了  |  3小时  |  [烟熏北梭鱼](BonefishSmoked.md)(+1)  
+[鹦哥鱼](ParrotFish.md)  |  鹦哥鱼  |  30分  |  [烤鹦哥鱼](ParrotFishCooked.md)(+1)  
+[烤鹦哥鱼](ParrotFishCooked.md)  |  鹦哥鱼熏制好了  |  3小时  |  [烟熏鹦哥鱼](ParrotFishSmoked.md)(+1)  
+[热带杏仁核](TropicalAlmondKernels.md)  |  热带杏仁  |  30分  |  [烤热带杏仁](TropicalAlmondsRoasted.md)(+1)  
 [石头](Stone.md)  |  石头  |  30分  |    
-[烤海螺肉](ConchMeatCooked.md)<br>[松软的烤海螺肉](ConchMeatSoftCooked.md)<br>[烤螃蟹](CrabCooked.md)<br>[烤热带杏仁](TropicalAlmondsRoasted.md)<br>[烤蛋](EggCooked.md)<br>[水煮蛋](EggBoiled.md)  |  烧焦物  |  1小时  |  [烧焦物](CharredRemains.md)(1)  
+[烤海螺肉](ConchMeatCooked.md)<br>[松软的烤海螺肉](ConchMeatSoftCooked.md)<br>[烤螃蟹](CrabCooked.md)<br>[烤热带杏仁](TropicalAlmondsRoasted.md)<br>[烤蛋](EggCooked.md)<br>[水煮蛋](EggBoiled.md)  |  烧焦物  |  1小时  |  [烧焦物](CharredRemains.md)(+1)  
   |  加热  |  30分  |    
-  |  蒸发制盐  |  1小时  |  [椰子壳](CoconutShell.md)(1)<br>[盐](Salt.md)(1)  
+  |  蒸发制盐  |  1小时  |  [椰子壳](CoconutShell.md)(+1)<br>[盐](Salt.md)(+1)  
   |  加热  |  30分  |    
-  |  蒸发制盐  |  1小时  |  [盐](Salt.md)(1)  
+  |  蒸发制盐  |  1小时  |  [盐](Salt.md)(+1)  
   |  加热  |  30分  |    
   |  加热  |  45分  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  每天-1<br>最多需要：1天  |  → [烟熏炉](SmokerExtinguishedPlastic.md)  
+燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  → [烟熏炉](SmokerExtinguishedPlastic.md)  

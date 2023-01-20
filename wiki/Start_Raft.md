@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-把木筏推下水  |  1小时  |    |  → [收起的帆](SailDown_Raft.md)<br><br>[海](Sea_Raft.md)(1)  |  [航行](Sailed.md)+1<br>[距离](Distance.md)+1  
+把木筏推下水  |  1小时  |    |  → [收起的帆](SailDown_Raft.md)<br><br>[海](Sea_Raft.md)(+1)  |  [航行](Sailed.md)+1<br>[距离](Distance.md)+1  

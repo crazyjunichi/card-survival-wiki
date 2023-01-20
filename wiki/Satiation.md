@@ -1,6 +1,15 @@
 [返回首页](index.md)  
 # 饱食  
-变化范围: 0 ~ 200  
+变化范围？: 0 ~ 200  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+151 ～ 200  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">肚子疼  |  吃太多了，想吐。  |  [情绪](Morale.md)加成-1<br>[恶心](Nausea.md)加成+4<br>[饱食](Satiation.md)加成-4<br>[食欲](Appetite.md)加成+0.5  |    
+126 ～ 150  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">非常饱  |  我好像吃得太多了。  |  [情绪](Morale.md)加成-0.5<br>[恶心](Nausea.md)加成+2<br>[饱食](Satiation.md)加成-3<br>[食欲](Appetite.md)加成+0.25  |    
+100 ～ 125  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">饱  |  我吃撑了。  |  [情绪](Morale.md)<br>[恶心](Nausea.md)加成+1<br>[饱食](Satiation.md)加成-2<br>[食欲](Appetite.md)加成+0.25  |    
+62 ～ 74  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">轻微饥饿  |  我有点饿了  |    |    
+40 ～ 61  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">饿  |  我想吃点东西  |  [食欲](Appetite.md)  |    
+25 ～ 39  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">非常饿  |  我需要吃点东西  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1<br>[食欲](Appetite.md)加成-0.1<br>[香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)加成-1<br>[鸟类<nobr>厌倦度</nobr>](SaturationBird.md)加成-1<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)加成-1<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)加成-1<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)加成-1<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)加成-1<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)加成-1<br>[水果<nobr>厌倦度</nobr>](SaturationFruits.md)加成-1<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)加成-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)加成-1<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)加成-1<br>[坚果<nobr>厌倦度</nobr>](SaturationNuts.md)加成-1<br>[干粮<nobr>厌倦度</nobr>](SaturationRations.md)加成-1<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)加成-1<br>[爬行类厌倦度](SaturationReptile.md)加成-1<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)加成-1<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)加成-1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)加成-1<br>[参薯<nobr>厌倦度</nobr>](SaturationYam.md)加成-1  |    
+0 ～ 24  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">饥肠辘辘  |  我必须要赶紧吃点什么  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2<br>[食欲](Appetite.md)加成-0.25<br>[香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)加成-2<br>[鸟类<nobr>厌倦度</nobr>](SaturationBird.md)加成-2<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)加成-2<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)加成-2<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)加成-2<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)加成-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)加成-2<br>[水果<nobr>厌倦度</nobr>](SaturationFruits.md)加成-2<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)加成-2<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)加成-2<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)加成-2<br>[坚果<nobr>厌倦度</nobr>](SaturationNuts.md)加成-2<br>[干粮<nobr>厌倦度</nobr>](SaturationRations.md)加成-2<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)加成-2<br>[爬行类厌倦度](SaturationReptile.md)加成-2<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)加成-2<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)加成-2<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)加成-2<br>[参薯<nobr>厌倦度</nobr>](SaturationYam.md)加成-2  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

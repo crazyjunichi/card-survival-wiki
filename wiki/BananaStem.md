@@ -16,7 +16,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 食用  |  15分  |    |    |  [饱食](Satiation.md)+5<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45  
 ## 可拖至  
-[猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [骨头汤(蓝图)](Bp_BoneBroth.md)  
 - [鸡肉三明治(蓝图)](Bp_ChickenSandwich.md)  
@@ -33,4 +33,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每天-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  

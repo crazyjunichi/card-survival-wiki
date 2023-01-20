@@ -1,6 +1,12 @@
 [返回首页](index.md)  
 # 过热  
-变化范围: 0 ~ 200  
+变化范围？: 0 ~ 200  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+26 ～ 99  |  <img decoding="async" src="Sprite/Flame.png" style="width:20px;">过热  |  我出了好多汗……  |  [水分](Hydration.md)加成-1<br>[情绪](Morale.md)加成-0.5<br>[压力](Stress.md)加成+0.5  |    
+100 ～ 149  |  <img decoding="async" src="Sprite/Flame.png" style="width:20px;">体温过高  |  我需要降温……  |  [水分](Hydration.md)加成-3<br>[情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1<br>[过热](Hyperthermia.md)加成+2.5  |    
+150 ～ 199  |  <img decoding="async" src="Sprite/Flame.png" style="width:20px;">热射病  |  再不降温我会热死的……  |  [水分](Hydration.md)加成-6<br>[情绪](Morale.md)加成-4<br>[压力](Stress.md)加成+3<br>[过热](Hyperthermia.md)加成+5  |    
+200 ～ 200  |  <img decoding="async" src="Sprite/Flame.png" style="width:20px;">死于过热  |  你死于中暑。  |    |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

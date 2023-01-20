@@ -27,8 +27,8 @@
 [倒下的棕榈树](PalmTreeFelled.md) , [“锤”](tag_Axe.md)  |  清除  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [椰子树](PalmTree_IH.md) , [石斧](StoneAxe.md)  |  砍倒  
 [椰子树](PalmTree_IH.md) , [铜斧](AxeCopper.md)  |  砍倒  
 [椰子树](PalmTree_Unique.md) , [石斧](StoneAxe.md)  |  砍倒  
@@ -41,10 +41,10 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [棕榈叶](PalmFronds.md)  |  编织  |  45分  |  [光亮](Light.md):10-100  |  自身:<br>→ [棕榈编织物](WeavePalm.md)<br><br>  |  [压力](Stress.md)-10  
 ## 可拖至  
-[叶床](LeafBed.md), [窝棚](Shelter.md), [有遮蔽的叶床](ShelteredLeafBed.md), [蒸馏器](AlembicOff.md), [蒸馏器](AlembicOn.md), [营火](Campfire.md), [营火](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆](FireExtinguished.md), [熔炉](Forge.md), [熔炉](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉](KilnAdvancedExtinguished.md), [窑炉](KilnExtinguished.md), [火炉](Stove.md), [火炉](StoveExtinguished.md), [羊食槽](GoatFeeder.md), [羊食槽](GoatFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [棕榈叶](PalmFronds.md), [太阳能蒸馏器](SolarStill.md)  
+[叶床](LeafBed.md), [窝棚](Shelter.md), [有遮蔽的叶床](ShelteredLeafBed.md), [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [棕榈叶](PalmFronds.md), [太阳能蒸馏器](SolarStill.md)  
 ## 可用于蓝图  
 - [简易床(蓝图)](Bp_BedRustic.md)  
-- [空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  
+- [空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  
 - [扫帚(蓝图)](Bp_Broom.md)  
 - [畜栏(蓝图)](Bp_Enclosure.md)  
 - [山羊饲料(蓝图)](Bp_FeedGoat.md)  
@@ -58,10 +58,9 @@
 - [编织篓(蓝图)](Bp_WovenBasket.md)  
 - [棕榈编织帽(蓝图)](Bp_WovenHat.md)  
 - [草裙(蓝图)](Bp_LeafSkirt.md)  
-- [BlueprintModelTest_CardName(蓝图)](BlueprintModelTest.md)  
   
   
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：480  |  每天-1<br>最多需要：5天  |    
+耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |    

@@ -2,7 +2,7 @@
 # “大的”  
 - [诱捕笼](CageTrap.md)  
 - [诱捕笼](CageTrapPlaced.md)  
-- [瓦斯炉](GasCookerOn.md)  
+- [瓦斯炉(开)](GasCookerOn.md)  
 - [半根原木](HalfLog.md)  
 - [原木](Log.md)  
 - [简易的弓](BowRustic.md)  
@@ -47,7 +47,7 @@
 - [鲨鱼尸体](SharkCarcass.md)  
 - [储物箱](Chest.md)  
 - [储物箱](ChestFarmer.md)  
-- [保鲜罐](ClayPotCoolerOff.md)  
+- [保鲜罐(关)](ClayPotCoolerOff.md)  
 - [保鲜罐](ClayPotCoolerUndeployed.md)  
 - [补给箱](SupplyChestRaft.md)  
 - [收纳箱](Trunk.md)  

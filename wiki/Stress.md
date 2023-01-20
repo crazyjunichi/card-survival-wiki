@@ -1,6 +1,12 @@
 [返回首页](index.md)  
 # 压力  
-变化范围: 0 ~ 240  
+变化范围？: 0 ~ 240  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
+97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
+145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |    
+193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -54,7 +60,7 @@
 [草木灰敷料(蓝图)](Bp_AshDressing.md)  |  蓝图制造  |  -10  
 [简易床(蓝图)](Bp_BedRustic.md)  |  蓝图制造  |  -10  
 [木床(蓝图)](Bp_BedWooden.md)  |  蓝图制造  |  -10  
-[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  -10  
+[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  -10  
 [熏蜂器(蓝图)](Bp_BeeSmoker.md)  |  蓝图制造  |  -10  
 [猪食槽(蓝图)](Bp_BoarFeeder.md)  |  蓝图制造  |  -10  
 [骨刀(蓝图)](Bp_BoneKnife.md)  |  蓝图制造  |  -10  
@@ -282,7 +288,7 @@
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  -10  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  -10  
 [棕榈叶](PalmFronds.md)  |  编织  |  -10  
-[手机](PhoneOn.md)  |  看照片  |  -10  
+[手机(开)](PhoneOn.md)  |  看照片  |  -10  
 [手机](PhoneOnLight.md)  |  看照片  |  -10  
 [野猪牙](Tusk.md)  |  雕刻  |  -10  
 [韦斯顿](Weston.md)  |  聊天  |  -10  
@@ -403,7 +409,7 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  -24  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  -25  
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -25  
-[手机](PhoneOn.md)  |  玩游戏  |  -25 ~ 5  
+[手机(开)](PhoneOn.md)  |  玩游戏  |  -25 ~ 5  
 [手机](PhoneOnLight.md)  |  玩游戏  |  -25 ~ 5  
 [姜糖](CandiedGinger.md)  |  食用  |  -30  
 [巧克力](Chocolate.md)  |  食用  |  -30  

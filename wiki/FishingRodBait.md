@@ -15,5 +15,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：45  |  -  |  [细线](CordFiber.md)2   
-诱饵<img decoding="async" src="Sprite/SaturationFish.png" style="height:30px;">  |  初始：1<br>最大：1  |  -  |  → [钓鱼竿](FishingRod.md)  
+使用次数  |  初始：45  |  -  |  [细线](CordFiber.md)+2   
+诱饵<img decoding="async" src="Sprite/SaturationFish.png" style="width:30px;">  |  初始：1<br>最大：1  |  -  |  → [钓鱼竿](FishingRod.md)  

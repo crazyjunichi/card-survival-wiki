@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料  |  15分  |    |  → [大块的布](ClothLarge.md)<br><br>[布片](ClothSmall.md)(1)  |    
+撕开布料  |  15分  |    |  → [大块的布](ClothLarge.md)<br><br>[布片](ClothSmall.md)(+1)  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [防蜂服(蓝图)](Bp_BeeSuit.md)  

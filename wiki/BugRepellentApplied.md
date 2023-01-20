@@ -1,6 +1,12 @@
 [返回首页](index.md)  
 # 驱虫  
-变化范围: 0 ~ 100  
+变化范围？: 0 ~ 100  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+1 ～ 25  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+1  |    
+26 ～ 50  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+2  |    
+51 ～ 75  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+3  |    
+76 ～ 100  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+4  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

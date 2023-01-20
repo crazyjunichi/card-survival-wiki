@@ -21,8 +21,8 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-饥饿<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：288<br>最大：576  |  每天-1<br>最多需要：6天  |  → [木床](BedWooden.md)  
-口渴<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：288<br>最大：288  |  每天-1<br>最多需要：3天  |  → [木床](BedWooden.md)  
-健康度<img decoding="async" src="Sprite/Health.png" style="height:30px;">  |  初始：1440<br>最大：2880  |  每天-2<br>最多需要：15天  |  → [木床](BedWooden.md)  
-情绪<img decoding="async" src="Sprite/Content.png" style="height:30px;">  |  初始：1<br>最大：10  |  -  |  [(事件)祖父康复了！](Event_OutroFarmer1.md)1 <br><br>→ [祖父](GrandfatherHealthy.md)  
-药  |  初始：96<br>最大：96  |  每天-1<br>最多需要：1天  |    
+饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：288<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  → [木床](BedWooden.md)  
+口渴<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [木床](BedWooden.md)  
+健康度<img decoding="async" src="Sprite/Health.png" style="width:30px;">  |  初始：1440<br>最大：2880  |  每15分钟-2<br>最多需要：15天  |  → [木床](BedWooden.md)  
+情绪<img decoding="async" src="Sprite/Content.png" style="width:30px;">  |  初始：1<br>最大：10  |  -  |  [(事件)祖父康复了！](Event_OutroFarmer1.md)+1 <br><br>→ [祖父](GrandfatherHealthy.md)  
+药  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |    

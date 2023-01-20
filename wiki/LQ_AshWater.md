@@ -11,7 +11,6 @@
 ----  |  ----  
 [灰烬](Ash.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
 [生石灰](Quicklime.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
-[TestLiquid_CardName](TestLiquid.md)  |  TestLiquid_DismantleActions[0].ActionName  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

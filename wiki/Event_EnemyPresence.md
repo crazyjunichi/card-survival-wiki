@@ -13,5 +13,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-使用匕首。  |  15分  |    |  [(事件)宿敌来了！](Event_EnemyFight.md)(1)<br>[轻微撕裂伤](W_MinorLaceration.md)(1)  |    
+使用匕首。  |  15分  |    |  [(事件)宿敌来了！](Event_EnemyFight.md)(+1)<br>[轻微撕裂伤](W_MinorLaceration.md)(+1)  |    
 我还没准备好  |  -  |    |    |  [情绪](Morale.md)-50<br>[宿敌现身](EnemyDefeated.md)-1  

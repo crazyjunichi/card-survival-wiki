@@ -19,6 +19,6 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-健康度<img decoding="async" src="Sprite/Health.png" style="height:30px;">  |  初始：150<br>最大：150  |  每天-2<br>最多需要：18小时45分  |    
-饥饿<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：16<br>最大：16  |  每天-1<br>最多需要：4小时  |    
-情绪<img decoding="async" src="Sprite/Content.png" style="height:30px;">  |  初始：12<br>最大：12  |  每天-1<br>最多需要：3小时  |    
+健康度<img decoding="async" src="Sprite/Health.png" style="width:30px;">  |  初始：150<br>最大：150  |  每15分钟-2<br>最多需要：18小时45分  |    
+饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |    
+情绪<img decoding="async" src="Sprite/Content.png" style="width:30px;">  |  初始：12<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    

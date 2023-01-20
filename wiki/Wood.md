@@ -10,10 +10,10 @@
 来源  |  操作  
 ----  |  ----  
 [猪食槽](BoarFeeder.md)  |  拆解  
-[猪食槽](BoarFeederEmpty.md)  |  拆解  
+[猪食槽(空)](BoarFeederEmpty.md)  |  拆解  
 [堆肥箱](CompostBin.md)  |  拆解  
 [羊食槽](GoatFeeder.md)  |  拆解  
-[羊食槽](GoatFeederEmpty.md)  |  拆解  
+[羊食槽(空)](GoatFeederEmpty.md)  |  拆解  
 [半根原木](HalfLog.md) , [石斧](StoneAxe.md)  |  切割成木材  
 [半根原木](HalfLog.md) , [“锤”](tag_Axe.md)  |  切割成木材  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
@@ -56,11 +56,11 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“高级切割工具”](tag_CutterAdv.md)  |  刨花  |  15分  |    |  使用物:<br>可用次数  -1<br><br>获得:<br>[木屑](WoodShavings.md)(1~3)<br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“高级切割工具”](tag_CutterAdv.md)  |  刨花  |  15分  |    |  使用物:<br>可用次数  -1<br><br>获得:<br>[木屑](WoodShavings.md)(+1～+3)<br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [火炭](Embers.md)  |  烫一个洞  |  15分  |    |  自身:<br>→ [烧着的木棒](WoodBurning.md)<br><br>  |    
-[小树枝](Sticks.md)  |  堆成火堆  |  15分  |    |  自身:<br>→ [火堆](FireExtinguished.md)<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-5  
+[小树枝](Sticks.md)  |  堆成火堆  |  15分  |    |  自身:<br>→ [火堆(熄灭)](FireExtinguished.md)<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-5  
 ## 可拖至  
-[蒸馏器](AlembicOff.md), [蒸馏器](AlembicOn.md), [营火](Campfire.md), [营火](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆](FireExtinguished.md), [熔炉](Forge.md), [熔炉](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉](KilnAdvancedExtinguished.md), [窑炉](KilnExtinguished.md), [火炉](Stove.md), [火炉](StoveExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md)  
+[蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md)  
 ## 可用于蓝图  
 - [弓钻(蓝图)](Bp_BowDrill.md)  
 - [营火(蓝图)](Bp_Campfire.md)  

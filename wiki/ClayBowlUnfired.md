@@ -26,6 +26,6 @@
 [陶碗](ClayBowl.md)  |  [营火](Campfire.md)  
 [陶碗](ClayBowl.md)  |  [粘土火盆](ClayFirePit.md)  
 [陶碗](ClayBowl.md)  |  [火堆](Fire.md)  
-[陶碗](ClayBowl.md)  |  [瓦斯炉](GasCookerOn.md)  
+[陶碗](ClayBowl.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [陶碗](ClayBowl.md)  |  [窑炉](Kiln.md)  
 [陶碗](ClayBowl.md)  |  [高级窑炉](KilnAdvanced.md)  

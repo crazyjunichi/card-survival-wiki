@@ -17,6 +17,6 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-污秽<img decoding="async" src="Sprite/Dirt4.png" style="height:30px;">  |  初始：0<br>最大：1000  |  每天+1<br>最多需要：10天10小时  |    
-屋顶破洞计数  |  初始：0<br>最大：96  |  每天+0.1<br>最多需要：10天  |  [屋顶损坏](Dmg_RoofDamage.md)1   
-屋顶坍塌计数  |  初始：0<br>最大：4  |  -  |  [坍塌的屋顶](Dmg_RoofCollapsed.md)1   
+污秽<img decoding="async" src="Sprite/Dirt4.png" style="width:30px;">  |  初始：0<br>最大：1000  |  每15分钟+1<br>最多需要：10天10小时  |    
+屋顶破洞计数  |  初始：0<br>最大：96  |  每15分钟+0.1<br>最多需要：10天  |  [屋顶损坏](Dmg_RoofDamage.md)+1   
+屋顶坍塌计数  |  初始：0<br>最大：4  |  -  |  [坍塌的屋顶](Dmg_RoofCollapsed.md)+1   

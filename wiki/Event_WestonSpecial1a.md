@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-唔……我现在醒了。  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1b.md)(1)  |  [睡眠中断](SleepInterrupt.md)-1  
+唔……我现在醒了。  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1b.md)(+1)  |  [睡眠中断](SleepInterrupt.md)-1  

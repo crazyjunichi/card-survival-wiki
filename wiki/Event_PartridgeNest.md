@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  15分  |    |  [鸟巢](Nest.md)(1)<br>[羽毛](Feathers.md)(1)<br>[受精蛋](EggPartridgeFertilized.md)(1~3)<br>[鸟巢](Nest.md)(1)<br>[羽毛](Feathers.md)(1~3)<br>[鸟骨](BonesBird.md)(0~1)  |    
+继续  |  15分  |    |  [鸟巢](Nest.md)(+1)<br>[羽毛](Feathers.md)(+1)<br>[受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>[鸟巢](Nest.md)(+1)<br>[羽毛](Feathers.md)(+1～+3)<br>[鸟骨](BonesBird.md)(0～+1)  |    

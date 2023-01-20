@@ -1,6 +1,10 @@
 [返回首页](index.md)  
 # 背痛  
-变化范围: 0 ~ 225  
+变化范围？: 0 ~ 225  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+75 ～ 150  |  <img decoding="async" src="Sprite/Backpain.png" style="width:20px;">背痛  |    |  [疼痛](Pain.md)+50  |    
+151 ～ 225  |  <img decoding="async" src="Sprite/Backpain.png" style="width:20px;">严重的背痛  |  痛……  |  [疼痛](Pain.md)+100  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

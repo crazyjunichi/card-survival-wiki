@@ -15,8 +15,8 @@
 [盐水](LQ_WaterSalt.md) , [粘土火盆](ClayFirePit.md)  |  蒸发制盐  
 [盐水](LQ_WaterSalt.md) , [火堆](Fire.md)  |  蒸发制盐  
 [盐水](LQ_WaterSalt.md) , [火堆](Fire.md)  |  蒸发制盐  
-[盐水](LQ_WaterSalt.md) , [瓦斯炉](GasCookerOn.md)  |  蒸发制盐  
-[盐水](LQ_WaterSalt.md) , [瓦斯炉](GasCookerOn.md)  |  蒸发制盐  
+[盐水](LQ_WaterSalt.md) , [瓦斯炉(开)](GasCookerOn.md)  |  蒸发制盐  
+[盐水](LQ_WaterSalt.md) , [瓦斯炉(开)](GasCookerOn.md)  |  蒸发制盐  
 [盐水](LQ_WaterSalt.md) , [火炉](Stove.md)  |  蒸发制盐  
 [盐水](LQ_WaterSalt.md) , [火炉](Stove.md)  |  蒸发制盐  
 [烟熏炉](Smoker.md)  |  蒸发制盐  

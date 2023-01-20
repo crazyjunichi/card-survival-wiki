@@ -10,4 +10,4 @@
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 重置陷阱  |  1小时  |  [光亮](Light.md):10-100  |  → [陷坑](TrappingPit.md)<br>  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
-拆除陷阱  |  3小时  |  [光亮](Light.md):10-100  |  [大石块](StoneHeavy.md)(4)<br>[石头](Stone.md)(16)<br>[长木棍](StickLong.md)(4)  |    
+拆除陷阱  |  3小时  |  [光亮](Light.md):10-100  |  [大石块](StoneHeavy.md)(+4)<br>[石头](Stone.md)(+16)<br>[长木棍](StickLong.md)(+4)  |    

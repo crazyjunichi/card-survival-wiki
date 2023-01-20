@@ -14,10 +14,10 @@
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 训练  |  1小时  |    |  → [小树枝](Sticks.md)<br>可用次数  -1<br>  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+20  
-拆解  |  15分  |    |  → [小树枝](Sticks.md)<br>可用次数  -1<br><br>[长木棍](StickLong.md)(1)<br>[绳子](Rope.md)(1)  |    
+拆解  |  15分  |    |  → [小树枝](Sticks.md)<br>可用次数  -1<br><br>[长木棍](StickLong.md)(+1)<br>[绳子](Rope.md)(+1)  |    
 ## 可拖至  
 [海(环礁)](Sea_Atoll.md), [海(海湾)](Sea_Bay.md), [海(沙滩)](Sea_Beach.md), [海(沙滩)](Sea_Cove.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [海(红树林)](Sea_Mangroves.md), [海(鸟岩岛)](Sea_Rocks.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：75  |  -  |  [绳子](Rope.md)1 <br><br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：75  |  -  |  [绳子](Rope.md)+1 <br><br>→ [小树枝](Sticks.md)  

@@ -1,6 +1,10 @@
 [返回首页](index.md)  
 # 手掌损伤  
-变化范围: 0 ~ 1000  
+变化范围？: 0 ~ 1000  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">我的手掌好疼  |  割伤和擦伤使我很难用手工作。  |  [手茧](CallousesHands.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/HandDamaged.png" style="width:20px;">我的手掌太痛了  |  我的手上全是血，到处都是伤口，太疼了。  |  [手茧](CallousesHands.md)加成+2<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -18,7 +22,7 @@
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  80  
 [椰子树](PalmTreeOld.md)  |  砍倒  |  80  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  80  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  80  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  80  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  80  
 [西米树](SagoPalm.md)  |  砍树  |  80  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  80  
@@ -37,7 +41,7 @@
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  60  
 [椰子树](PalmTreeOld.md)  |  砍倒  |  60  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  60  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  60  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  60  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  60  
 [西米树](SagoPalm.md)  |  砍树  |  60  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  60  
@@ -51,7 +55,7 @@
 [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖  |  50  
 [狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md)  |  挖  |  50  
 [狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖  |  50  
-[火炉](StoveExtinguished.md)  |  拆除  |  40  
+[火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  40  
 [木屑(蓝图)](Bp_WoodShavings.md)  |  蓝图制造  |  40  
 [纤维](Fibers.md)  |  钻木取火  |  40  
 [枯叶](LeavesDry.md)  |  钻木取火  |  40  

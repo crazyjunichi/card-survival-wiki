@@ -1,6 +1,11 @@
 [返回首页](index.md)  
 # 恶心  
-变化范围: 0 ~ 24  
+变化范围？: 0 ~ 24  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+8 ～ 12  |  <img decoding="async" src="Sprite/Dizzy.png" style="width:20px;">感到恶心  |  我感觉有点难受。  |  [情绪](Morale.md)加成-0.5  |    
+13 ～ 19  |  <img decoding="async" src="Sprite/Dizzy.png" style="width:20px;">感到恶心  |  我想吐。  |  [情绪](Morale.md)加成-1  |    
+20 ～ 24  |  <img decoding="async" src="Sprite/Dizzy.png" style="width:20px;">感到恶心  |  我要吐了！  |  [情绪](Morale.md)加成-2  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

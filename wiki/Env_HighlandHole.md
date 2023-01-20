@@ -4,7 +4,7 @@
   
   属性  |   图片   
  ----  |  ----:   
- **容重量：**5000<br><br>**初始：**	[铜矿脉(狭窄隧道)](CopperVein.md), [骷髅(坑洞)](Skeleton.md), [(事件)一具骷髅！](Event_SkeletonSeen.md), [阴暗裂隙(坑洞)](DarkChamberEntrance.md), [高地坑洞](HighlandHole.md)  |  ![](Sprite/undefined.png)   
+ **容重量：**5000<br><br>**初始：**	[铜矿脉(狭窄隧道)](CopperVein.md), [骷髅(坑洞)](Skeleton.md), [(事件)一具骷髅！](Event_SkeletonSeen.md), [阴暗裂隙(坑洞)](DarkChamberEntrance.md), [高地坑洞](HighlandHole.md)  |  ![]()   
   
 ## 获取来源  
 来源  |  操作  

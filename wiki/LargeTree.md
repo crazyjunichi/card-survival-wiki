@@ -23,4 +23,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：50<br>最大：50  |  -  |  [小树枝](Sticks.md)2~4 <br><br>[树叶](LeavesFresh.md)6~18 <br><br>→ [倒下的大树](LargeTreeFelled.md)  
+进度  |  初始：50<br>最大：50  |  -  |  [小树枝](Sticks.md)+2～+4 <br><br>[树叶](LeavesFresh.md)+6～+18 <br><br>→ [倒下的大树](LargeTreeFelled.md)  

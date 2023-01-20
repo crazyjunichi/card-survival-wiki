@@ -13,8 +13,8 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解  |  -  |    |  [细线](CordFiber.md)(2)<br>[漂亮贝壳](SeashellsPretty.md)(4)  |    
+拆解  |  -  |    |  [细线](CordFiber.md)(+2)<br>[漂亮贝壳](SeashellsPretty.md)(+4)  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2688<br>最大：2688  |  -  |  [细线](CordFiber.md)2 <br><br>[漂亮贝壳](SeashellsPretty.md)3   
+使用次数  |  初始：2688<br>最大：2688  |  -  |  [细线](CordFiber.md)+2 <br><br>[漂亮贝壳](SeashellsPretty.md)+3   

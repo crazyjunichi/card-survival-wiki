@@ -1,11 +1,15 @@
 [返回首页](index.md)  
 # 娱乐  
-变化范围: 0 ~ 96  
+变化范围？: 0 ~ 96  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+0 ～ 0  |  <img decoding="async" src="Sprite/Entertainment.png" style="width:20px;">无聊  |    |  [压力](Stress.md)加成+0.5  |    
+1 ～ 96  |  <img decoding="async" src="Sprite/Entertainment.png" style="width:20px;">最近娱乐过  |    |  [情绪](Morale.md)加成+1<br>[孤独感](Loneliness.md)加成-0.5  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [野猪牙](Tusk.md)  |  雕刻  |  40  
-[手机](PhoneOn.md)  |  玩游戏  |  30  
+[手机(开)](PhoneOn.md)  |  玩游戏  |  30  
 [装饰品模具(蓝图)](Bp_MoldDecoration.md)  |  蓝图制造  |  16  
 [鼓](Drum.md)  |  跃动的节奏  |  16  
 [鼓](Drum.md)  |  激昂的节奏  |  16  

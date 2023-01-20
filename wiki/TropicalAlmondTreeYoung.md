@@ -9,8 +9,8 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍树  |  15分  |  [光亮](Light.md):10-100  |  使用物:<br>可用次数  -1<br><br>获得:<br>[小树枝](Sticks.md)(1)<br>[长木棍](StickLong.md)(1)<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍树  |  15分  |  [光亮](Light.md):10-100  |  使用物:<br>可用次数  -1<br><br>获得:<br>[小树枝](Sticks.md)(+1)<br>[长木棍](StickLong.md)(+1)<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：2880  |  每天+1<br>最多需要：30天  |  → [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+进度  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  → [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  

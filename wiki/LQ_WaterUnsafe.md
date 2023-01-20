@@ -9,7 +9,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用  |  -  |    |  → [椰子壳](CoconutShell.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+40<br>[细菌性发烧](BacteriaFever.md)+0<br>[细菌性腹泻](BacteriaDiarrhoea.md)+50<br>[寄生虫](Parasites.md)+0  
+饮用  |  -  |    |  → [椰子壳](CoconutShell.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+40<br>[细菌性发烧](BacteriaFever.md)0～+350<br>[细菌性腹泻](BacteriaDiarrhoea.md)+50～+350<br>[寄生虫](Parasites.md)0～+150  
 洗个澡  |  15分  |    |  可用次数  -1<br>含水量  -300<br>  |  [湿度](Wetness.md)+100<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  

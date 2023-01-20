@@ -362,5 +362,3 @@
 - [(事件)Event_WestonSpecial2d_CardName](Event_WestonSpecial2d.md)  
 - [(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  
 - [(事件)Event_WestonTalk1a_CardName](Event_WestonTalk1a.md)  
-- [(事件)TestEvent_CardName](TestEvent.md)  
-- [(事件)TestEvent2_CardName](TestEvent2.md)  

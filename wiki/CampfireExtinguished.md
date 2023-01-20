@@ -9,16 +9,16 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蒸馏器](AlembicOff.md)  |  取出  
+[蒸馏器(关)](AlembicOff.md)  |  取出  
 [营火](Campfire.md)  |  熄灭火焰  
-[烟熏炉](SmokerExtinguished.md)  |  移除烟熏炉  
+[烟熏炉(熄灭)](SmokerExtinguished.md)  |  移除烟熏炉  
 [烟熏炉](SmokerExtinguishedPlastic.md)  |  移除烟熏炉  
 [营火(蓝图)](Bp_Campfire.md)  |  蓝图制造  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[木炭](Charcoal.md)(1)<br>[灰烬](Ash.md)(2)  |    
-拆解  |  -  |    |  [石头](Stone.md)(4)<br>[灰烬](Ash.md)(1)  |    
+取出木炭和灰烬  |  15分  |    |  燃料  -16<br>能量  -16<br><br>[木炭](Charcoal.md)(+1)<br>[灰烬](Ash.md)(+2)  |    
+拆解  |  -  |    |  [石头](Stone.md)(+4)<br>[灰烬](Ash.md)(+1)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -30,11 +30,11 @@
 [火炭](Embers.md)  |  添入火炭  |  -  |    |  自身:<br>燃料 + 12<br>能量 + 8<br><br>  |    
 [椰子皮](CoconutHusk.md)  |  添入椰子皮  |  -  |    |  自身:<br>燃料 + 3<br><br>  |    
 [火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [营火](Campfire.md)<br>燃料 + 1<br><br>  |    
-[蒸馏器](AlembicUndeployed.md)  |  放置蒸馏器  |  -  |    |  自身:<br>→ [蒸馏器](AlembicOff.md)<br>燃料 + 2<br><br>  |    
+[蒸馏器](AlembicUndeployed.md)  |  放置蒸馏器  |  -  |    |  自身:<br>→ [蒸馏器(关)](AlembicOff.md)<br>燃料 + 2<br><br>  |    
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：32<br>最大：96  |  -  |    
-<img decoding="async" src="Sprite/Charcoal.png" style="height:30px;">  |  初始：0<br>最大：16  |  -  |    
+<img decoding="async" src="Sprite/Charcoal.png" style="width:30px;">  |  初始：0<br>最大：16  |  -  |    

@@ -9,16 +9,16 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[手机](PhoneOn.md)  |  关机  
-[手机](PhoneOn.md)  |  玩游戏  
-[手机](PhoneOn.md)  |  看照片  
+[手机(开)](PhoneOn.md)  |  关机  
+[手机(开)](PhoneOn.md)  |  玩游戏  
+[手机(开)](PhoneOn.md)  |  看照片  
 [手机](PhoneOnLight.md)  |  关机  
 [手机](PhoneOnLight.md)  |  玩游戏  
 [手机](PhoneOnLight.md)  |  看照片  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-开机  |  -  |    |  → [手机](PhoneOn.md)<br>  |    
+开机  |  -  |    |  → [手机(开)](PhoneOn.md)<br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

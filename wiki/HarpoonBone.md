@@ -19,4 +19,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：100  |  -  |  [小树枝](Sticks.md)1 <br><br>[骨头碎片](BoneSplinters.md)1 <br><br>[绳子](Rope.md)1 <br><br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：100  |  -  |  [小树枝](Sticks.md)+1 <br><br>[骨头碎片](BoneSplinters.md)+1 <br><br>[绳子](Rope.md)+1 <br><br>→ [小树枝](Sticks.md)  

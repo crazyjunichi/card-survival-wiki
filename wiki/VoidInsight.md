@@ -1,6 +1,9 @@
 [返回首页](index.md)  
 # 虚空灵视  
-变化范围: 0 ~ 1  
+变化范围？: 0 ~ 1  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+1 ～ 1  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">  |    |  [勇气](Courage.md)+500<br>[世界观](Structure.md)加成+1<br>[压力](Stress.md)加成-0.25  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

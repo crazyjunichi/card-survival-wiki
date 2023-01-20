@@ -16,7 +16,7 @@
 [糖](Sugar.md)  |  [营火](Campfire.md)  
 [糖](Sugar.md)  |  [粘土火盆](ClayFirePit.md)  
 [糖](Sugar.md)  |  [火堆](Fire.md)  
-[糖](Sugar.md)  |  [瓦斯炉](GasCookerOn.md)  
+[糖](Sugar.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [糖](Sugar.md)  |  [火炉](Stove.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  

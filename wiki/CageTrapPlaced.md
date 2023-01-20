@@ -25,4 +25,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-诱捕笼  |  初始：0<br>最大：1  |  -  |  [解除陷阱](CageTrapPlacedTriggered.md)1 <br><br>[解除陷阱](CageTrapPlacedTriggeredSeagull.md)1 <br><br>[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)1 <br><br>[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)1 <br><br>[中陷阱的猕猴](CageTrapMacaque.md)1 <br><br>→ [中陷阱的猕猴](CageTrapMacaque.md)  
+诱捕笼  |  初始：0<br>最大：1  |  -  |  [解除陷阱](CageTrapPlacedTriggered.md)+1 <br><br>[解除陷阱](CageTrapPlacedTriggeredSeagull.md)+1 <br><br>[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)+1 <br><br>[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)+1 <br><br>[中陷阱的猕猴](CageTrapMacaque.md)+1 <br><br>→ [中陷阱的猕猴](CageTrapMacaque.md)  

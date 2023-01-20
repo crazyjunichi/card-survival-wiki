@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)(1)  |  [情绪](Morale.md)+5  
+继续  |  -  |    |  [前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)(+1)  |  [情绪](Morale.md)+5  

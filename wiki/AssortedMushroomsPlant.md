@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  15分  |  [光亮](Light.md):5-100  |  → [柠檬草](LemongrassStalks.md)<br><br>[杂菌](AssortedMushrooms.md)(1~2)  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集  |  15分  |  [光亮](Light.md):5-100  |  → [柠檬草](LemongrassStalks.md)<br><br>[杂菌](AssortedMushrooms.md)(+1～+2)  |  [药草学(技能)](Skill_Herbology.md)+1  

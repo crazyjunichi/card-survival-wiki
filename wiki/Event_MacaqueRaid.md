@@ -9,5 +9,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随它吧  |  -  |    |  [(事件)猕猴](Event_MacaqueRaidRummaging.md)(1)  |    
-嘿！  |  -  |    |  [(事件)一只猕猴！](Event_MacaqueFightRaid.md)(1)  |    
+随它吧  |  -  |    |  [(事件)猕猴](Event_MacaqueRaidRummaging.md)(+1)  |    
+嘿！  |  -  |    |  [(事件)一只猕猴！](Event_MacaqueFightRaid.md)(+1)  |    

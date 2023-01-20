@@ -9,7 +9,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摧毁  |  30分  |    |  → [未栽种的农田](CropPlotEmpty.md)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
+摧毁  |  30分  |    |  → [未栽种的农田(空)](CropPlotEmpty.md)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,9 +21,9 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-肥力<img decoding="async" src="Sprite/FineDirt.png" style="height:30px;">  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |    
-水分<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：192<br>最大：288  |  每天-1<br>最多需要：3天  |  → [未浇灌的农田](CropPlotDry.md)  
-农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天-1<br>最多需要：3天  |    
-农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天-1<br>最多需要：3天  |    
-螨虫侵害<img decoding="async" src="Sprite/Mites.png" style="height:30px;">  |  初始：0<br>最大：100  |  每天-1<br>最多需要：1天1小时  |    
-真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天-1<br>最多需要：3天  |    
+肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
+水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [未浇灌的农田](CropPlotDry.md)  
+农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
+农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
+螨虫侵害<img decoding="async" src="Sprite/Mites.png" style="width:30px;">  |  初始：0<br>最大：100  |  每15分钟-1<br>最多需要：1天1小时  |    
+真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    

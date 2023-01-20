@@ -9,7 +9,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[保鲜罐](ClayPotCoolerOff.md) , [盐水](LQ_WaterSalt.md)  |  倒入  
+[保鲜罐(关)](ClayPotCoolerOff.md) , [盐水](LQ_WaterSalt.md)  |  倒入  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,4 +21,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |  → [保鲜罐](ClayPotCoolerOff.md)  
+<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |  → [保鲜罐(关)](ClayPotCoolerOff.md)  

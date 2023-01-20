@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解  |  2小时  |    |  [木材](Wood.md)(6)<br>[细线](CordFiber.md)(4)  |    
+拆解  |  2小时  |    |  [木材](Wood.md)(+6)<br>[细线](CordFiber.md)(+4)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,4 +23,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：0<br>最大：3072  |  每天-1<br>最多需要：32天  |    
+<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：0<br>最大：3072  |  每15分钟-1<br>最多需要：32天  |    

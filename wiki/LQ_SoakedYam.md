@@ -23,11 +23,11 @@
 [煮熟的参薯](YamBoiled.md)  |  [粘土火盆](ClayFirePit.md)  
 [煮熟的参薯](YamBoiled.md)  |  [火堆](Fire.md)  
 [煮熟的参薯](YamBoiled.md)  |  [火堆](Fire.md)  
-[煮熟的参薯](YamBoiled.md)  |  [瓦斯炉](GasCookerOn.md)  
-[煮熟的参薯](YamBoiled.md)  |  [瓦斯炉](GasCookerOn.md)  
+[煮熟的参薯](YamBoiled.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
+[煮熟的参薯](YamBoiled.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [煮熟的参薯](YamBoiled.md)  |  [火炉](Stove.md)  
 [煮熟的参薯](YamBoiled.md)  |  [火炉](Stove.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：186<br>最大：186  |  每天-1<br>最多需要：1天22小时30分  |  → [有毒的水](LQ_WaterToxic.md)  
+耐久  |  初始：186<br>最大：186  |  每15分钟-1<br>最多需要：1天22小时30分  |  → [有毒的水](LQ_WaterToxic.md)  

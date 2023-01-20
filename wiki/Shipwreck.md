@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-探索沉船  |  30分  |  [光亮](Light.md):10-100<br>[耐力](Stamina.md):11-32<br>[ModifierClimb_GameName](ModifierClimb.md):0-2  |  [螃蟹](Crab.md)(1~2)<br>[装有燃料的油桶](JerrycanFuel.md)(1)<br>[绳子](Rope.md)(2)<br>[金属废料](MetalScrap.md)(1)<br>[塑料布](PlasticSheet.md)(1)<br>[(事件)啊！](Event_DiveLaceration.md)(1)  |  [湿度](Wetness.md)+100<br>[耐力](Stamina.md)-4<br>[情绪](Morale.md)+2<br>[污垢](Filth.md)-75<br>[游泳(技能)](Skill_Swimming.md)+1  
+探索沉船  |  30分  |  [光亮](Light.md):10-100<br>[耐力](Stamina.md):11-32<br>[ModifierClimb_GameName](ModifierClimb.md):0-2  |  [螃蟹](Crab.md)(+1～+2)<br>[装有燃料的油桶](JerrycanFuel.md)(+1)<br>[绳子](Rope.md)(+2)<br>[金属废料](MetalScrap.md)(+1)<br>[塑料布](PlasticSheet.md)(+1)<br>[(事件)啊！](Event_DiveLaceration.md)(+1)  |  [湿度](Wetness.md)+100<br>[耐力](Stamina.md)-4<br>[情绪](Morale.md)+2<br>[污垢](Filth.md)-75<br>[游泳(技能)](Skill_Swimming.md)+1  

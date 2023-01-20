@@ -29,7 +29,7 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" style="height:30px;">  |  初始：0<br>最大：960  |  每天+1<br>最多需要：10天  |    
-<img decoding="async" src="Sprite/DressingApplied.png" style="height:30px;">  |  初始：0<br>最大：32  |  每天-1<br>最多需要：8小时  |    
-<img decoding="async" src="Sprite/Bacteria.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天+1<br>最多需要：3天  |    
-已止血<img decoding="async" src="Sprite/BloodPressure.png" style="height:30px;">  |  初始：0<br>最大：16  |  每天+1<br>最多需要：4小时  |    
+<img decoding="async" src="Sprite/Health.png" style="width:30px;">  |  初始：0<br>最大：960  |  每15分钟+1<br>最多需要：10天  |    
+<img decoding="async" src="Sprite/DressingApplied.png" style="width:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
+<img decoding="async" src="Sprite/Bacteria.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    
+已止血<img decoding="async" src="Sprite/BloodPressure.png" style="width:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    

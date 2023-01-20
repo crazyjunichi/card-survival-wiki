@@ -13,9 +13,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  -  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[芒果](Mango.md)(1)  |    
+采集  |  -  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[芒果](Mango.md)(+1)  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：8  |  -  |  → [摘光的芒果树](MangoTreeCleared.md)  
-芒果 成熟度<img decoding="async" src="Sprite/AlarmClock.png" style="height:30px;">  |  初始：0<br>最大：2880  |  每天+1<br>最多需要：30天  |  → [芒果树](MangoTree.md)  
+芒果 成熟度<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  → [芒果树](MangoTree.md)  

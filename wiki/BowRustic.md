@@ -16,8 +16,8 @@
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 练习  |  1小时  |  [ModifierHand_GameName](ModifierHand.md):0-2<br>[光亮](Light.md):10-100  |  → [小树枝](Sticks.md)<br>可用次数  -1<br>  |  [箭术(技能)](Skill_Archery.md)+1  
-拆解  |  30分  |    |  [长木棍](StickLong.md)(1)<br>[细线](CordFiber.md)(2)  |    
+拆解  |  30分  |    |  [长木棍](StickLong.md)(+1)<br>[细线](CordFiber.md)(+2)  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：75<br>最大：75  |  -  |  [小树枝](Sticks.md)1 <br><br>[细线](CordFiber.md)2   
+使用次数  |  初始：75<br>最大：75  |  -  |  [小树枝](Sticks.md)+1 <br><br>[细线](CordFiber.md)+2   

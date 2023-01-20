@@ -40,4 +40,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Durability.png" style="height:30px;">  |  初始：3<br>最大：3  |  -  |    
+<img decoding="async" src="Sprite/Durability.png" style="width:30px;">  |  初始：3<br>最大：3  |  -  |    

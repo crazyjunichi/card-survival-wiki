@@ -9,9 +9,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蒸馏器](AlembicOff.md)  |  取出  
-[蒸馏器](AlembicOn.md)  |  取出  
+[蒸馏器(关)](AlembicOff.md)  |  取出  
+[蒸馏器(开)](AlembicOn.md)  |  取出  
 [未烧制的蒸馏器](AlembicUnfired.md) , [窑炉](Kiln.md)  |  蒸馏器  
 [未烧制的蒸馏器](AlembicUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  蒸馏器  
 ## 可拖至  
-[营火](Campfire.md), [营火](CampfireExtinguished.md)  
+[营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md)  

@@ -20,5 +20,5 @@
 [熬制好的胶水](GlueCooked.md)  |  [营火](Campfire.md)  
 [熬制好的胶水](GlueCooked.md)  |  [粘土火盆](ClayFirePit.md)  
 [熬制好的胶水](GlueCooked.md)  |  [火堆](Fire.md)  
-[熬制好的胶水](GlueCooked.md)  |  [瓦斯炉](GasCookerOn.md)  
+[熬制好的胶水](GlueCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [熬制好的胶水](GlueCooked.md)  |  [火炉](Stove.md)  

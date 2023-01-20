@@ -11,6 +11,7 @@
 -   [区域](area.md)
 -   [环境](env.md)
 -   [改造](imp.md)
+-   [损坏](damage.md)
 
 
 [蓝图](blueprint.md)
@@ -19,7 +20,6 @@
 
 [事件](event.md)
 [天气](weather.md)
-[损坏](damage.md)
 [液体](liquid.md)
 
 [角色]()

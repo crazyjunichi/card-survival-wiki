@@ -13,9 +13,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-用长矛攻击！  |  30分  |    |  [(事件)鲨鱼死了！](Event_SharkFightSuccess.md)(1)<br>[(事件)我拿下它了，但我受伤了。](Event_SharkFightMixedSuccess.md)(1)<br>[(事件)它逃跑了！](Event_SharkFightFailure.md)(1)  |  [矛战(技能)](Skill_SpearFighting.md)+1  
+用长矛攻击！  |  30分  |    |  [(事件)鲨鱼死了！](Event_SharkFightSuccess.md)(+1)<br>[(事件)我拿下它了，但我受伤了。](Event_SharkFightMixedSuccess.md)(+1)<br>[(事件)它逃跑了！](Event_SharkFightFailure.md)(+1)  |  [矛战(技能)](Skill_SpearFighting.md)+1  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-次数  |  初始：96<br>最大：96  |  每天-1<br>最多需要：1天  |    
+次数  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |    
 离开  |  初始：1<br>最大：1  |  -  |  → [摘光的香蕉树](BananaTreeCleared.md)  

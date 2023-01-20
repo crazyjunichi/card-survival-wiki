@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)(1)  |  [情绪](Morale.md)+10  
+继续  |  -  |    |  [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)(+1)  |  [情绪](Morale.md)+10  

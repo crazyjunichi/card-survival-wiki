@@ -1,6 +1,10 @@
 [返回首页](index.md)  
 # 世界观  
-变化范围: 0 ~ 5000  
+变化范围？: 0 ~ 5000  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    
+101 ～ 750  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">弱  |    |  [精神失常](MindState.md)加成+2<br>[世界观](Structure.md)加成+3<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+1  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

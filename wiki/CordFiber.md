@@ -14,20 +14,20 @@
 [窝棚](Shelter.md)  |  拆除  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  
 [猪食槽](BoarFeeder.md)  |  拆解  
-[猪食槽](BoarFeederEmpty.md)  |  拆解  
+[猪食槽(空)](BoarFeederEmpty.md)  |  拆解  
 [诱捕笼](CageTrap.md)  |  拆除  
 [堆肥箱](CompostBin.md)  |  拆解  
 [晾晒架](DryingRack.md)  |  拆解  
 [捕鱼陷阱](FishTrap.md)  |  拆除  
 [羊食槽](GoatFeeder.md)  |  拆解  
-[羊食槽](GoatFeederEmpty.md)  |  拆解  
-[织布机（空）](LoomEmpty.md)  |  拆卸织布机  
-[织布机（空）](LoomEmpty.md) , [布片](ClothSmall.md)  |  解编布匹  
-[织布机（空）](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
-[织布机（空）](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
+[羊食槽(空)](GoatFeederEmpty.md)  |  拆解  
+[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  
+[织布机（空）(空)](LoomEmpty.md) , [布片](ClothSmall.md)  |  解编布匹  
+[织布机（空）(空)](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
+[织布机（空）(空)](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
 [打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
 [灰山鹑喂食器](PartridgeFeeder.md)  |  拆解  
-[灰山鹑喂食器](PartridgeFeederEmpty.md)  |  拆解  
+[灰山鹑喂食器(空)](PartridgeFeederEmpty.md)  |  拆解  
 [稻草人](Scarecrow.md)  |  拆除  
 [套索陷阱](SnareTrap.md)  |  拆除陷阱  
 [套索陷阱](SnareTrapTriggered.md)  |  拆除陷阱  
@@ -62,8 +62,8 @@
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液补给点](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
+[树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -20,7 +20,7 @@
 - [油桶](Jerrycan.md)  
 - [装有燃料的油桶](JerrycanFuel.md)  
 - [塑料瓶](PlasticBottle.md)  
-- [塑料瓶](PlasticBottleFull.md)  
+- [塑料瓶(满)](PlasticBottleFull.md)  
 - [茉莉花](PlasticBottleJasmine.md)  
 - [水袋](Waterskin.md)  
 - [细土](FineDirt.md)  

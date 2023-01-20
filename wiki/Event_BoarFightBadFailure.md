@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [(事件)野猪伤到了我！](Event_BoarWoundMajor.md)(1)  |  [情绪](Morale.md)-20  
+继续  |  -  |    |  [(事件)野猪伤到了我！](Event_BoarWoundMajor.md)(+1)  |  [情绪](Morale.md)-20  

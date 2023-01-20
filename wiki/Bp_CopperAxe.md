@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [木材](Wood.md) x 1 + [细线](CordFiber.md) x 2 + [斧子头](AxeHead.md) x 1  |  2小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [铜斧](AxeCopper.md)(1)  
+1. [木材](Wood.md) x 1 + [细线](CordFiber.md) x 2 + [斧子头](AxeHead.md) x 1  |  2小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [铜斧](AxeCopper.md)(+1)  

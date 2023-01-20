@@ -9,4 +9,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每天-1<br>最多需要：4小时  |  [晴朗](TropicalIsland_Clear.md)1 <br><br>[多云](TropicalIsland_PartiallyCloudy.md)1 <br><br>[阴天](TropicalIsland_Cloudy.md)1   
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  [晴朗](TropicalIsland_Clear.md)+1 <br><br>[多云](TropicalIsland_PartiallyCloudy.md)+1 <br><br>[阴天](TropicalIsland_Cloudy.md)+1   

@@ -4,7 +4,7 @@
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/undefined.png)   
+   |  ![]()   
   
 ## 获取来源  
 来源  |  操作  
@@ -17,7 +17,7 @@
 ## 转化  
 放入  |  动作  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-[椰子](Coconut.md)  |  TestBox 1_CookingRecipes[0].ActionName  |  2小时30分  |  [椰肉](CoconutMeat.md)(3~5)  
+[椰子](Coconut.md)  |  TestBox 1_CookingRecipes[0].ActionName  |  2小时30分  |  [椰肉](CoconutMeat.md)(+3～+5)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -9,15 +9,14 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蒸馏器](AlembicOff.md)  |  取出木炭和灰烬  
-[营火](CampfireExtinguished.md)  |  取出木炭和灰烬  
-[营火](CampfireExtinguished.md)  |  拆解  
-[粘土火盆](ClayFirePitExtinguished.md)  |  取出木炭和灰烬  
-[火堆](FireExtinguished.md)  |  取出木炭和灰烬  
-[火炉](StoveExtinguished.md)  |  取出木炭和灰烬  
+[蒸馏器(关)](AlembicOff.md)  |  取出木炭和灰烬  
+[营火(熄灭)](CampfireExtinguished.md)  |  取出木炭和灰烬  
+[营火(熄灭)](CampfireExtinguished.md)  |  拆解  
+[粘土火盆(熄灭)](ClayFirePitExtinguished.md)  |  取出木炭和灰烬  
+[火堆(熄灭)](FireExtinguished.md)  |  取出木炭和灰烬  
+[火炉(熄灭)](StoveExtinguished.md)  |  取出木炭和灰烬  
 [木炭](Charcoal.md) , [“锤”](tag_Hammer.md)  |  碾碎  
 [木炭](Charcoal.md) , [“锤”](tag_Hammer.md)  |  碾碎  
-[TestCollectionDurabilityChanges_CardName](TestCollectionDurabilityChanges.md)  |  TestCollectionDurabilityChanges_DismantleActions[0].ActionName  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -41,6 +40,5 @@
 - [陶罐(蓝图)](Bp_ClayVase.md)  
 - [烹饪锅(蓝图)](Bp_CookingPot.md)  
 - [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
-- [BP_TestBox1_CardName(蓝图)](BP_TestBox1.md)  
   
   

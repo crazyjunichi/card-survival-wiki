@@ -15,10 +15,10 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆成细线  |  15分  |  [光亮](Light.md):10-100  |  [细线](CordFiber.md)(2)  |    
+拆成细线  |  15分  |  [光亮](Light.md):10-100  |  [细线](CordFiber.md)(+2)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [线团](YarnFiber.md)  |  制作绳子  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [绳子](Rope.md)<br><br>  |  [纺织(技能)](Skill_Tailoring.md)+0.25  
 ## 可拖至  
-[织布机（空）](LoomEmpty.md), [纺锤](Spindle.md), [线团](YarnFiber.md)  
+[织布机（空）(空)](LoomEmpty.md), [纺锤](Spindle.md), [线团](YarnFiber.md)  

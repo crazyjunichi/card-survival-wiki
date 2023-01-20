@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [鲨鱼咬伤](W_SharkBite.md)(1)<br>[鲨鱼尸体](SharkCarcass.md)(1)  |  [鲨鱼种群数量](Pop_Shark.md)-1000  
+继续  |  -  |    |  [鲨鱼咬伤](W_SharkBite.md)(+1)<br>[鲨鱼尸体](SharkCarcass.md)(+1)  |  [鲨鱼种群数量](Pop_Shark.md)-1000  

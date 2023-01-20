@@ -14,10 +14,10 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  剔肉  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[野猪肉](BoarMeat.md)(2)<br>[脂肪](Fat.md)(1)<br>  |  [污垢](Filth.md)+15  
-[“切割工具”](tag_Cutter.md)  |  剔肉  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[野猪肉](BoarMeat.md)(2)<br>[脂肪](Fat.md)(1)<br>  |  [污垢](Filth.md)+15  
+[黑曜石刀](KnifeObsidian.md)  |  剔肉  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[野猪肉](BoarMeat.md)(+2)<br>[脂肪](Fat.md)(+1)<br>  |  [污垢](Filth.md)+15  
+[“切割工具”](tag_Cutter.md)  |  剔肉  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[野猪肉](BoarMeat.md)(+2)<br>[脂肪](Fat.md)(+1)<br>  |  [污垢](Filth.md)+15  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每天-1<br>最多需要：2天  |  [骨头](Bones.md)4 <br><br>[腐烂物](RottenRemains.md)3~6 <br><br>[野猪牙](Tusk.md)2   
-体重<img decoding="async" src="Sprite/SaturationMeat.png" style="height:30px;">  |  初始：0<br>最大：6000  |  -  |  [骨头](Bones.md)4 <br><br>[野猪牙](Tusk.md)2   
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [骨头](Bones.md)+4 <br><br>[腐烂物](RottenRemains.md)+3～+6 <br><br>[野猪牙](Tusk.md)+2   
+体重<img decoding="async" src="Sprite/SaturationMeat.png" style="width:30px;">  |  初始：0<br>最大：6000  |  -  |  [骨头](Bones.md)+4 <br><br>[野猪牙](Tusk.md)+2   

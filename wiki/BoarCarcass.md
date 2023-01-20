@@ -18,10 +18,10 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  剥皮  |  45分  |  [光亮](Light.md):10-100  |  自身:<br>→ [剥皮的野猪](BoarSkinned.md)<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[新鲜兽皮](SkinFresh.md)(3)<br>  |  [污垢](Filth.md)+15  
-[“切割工具”](tag_Cutter.md)  |  剥皮  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>→ [剥皮的野猪](BoarSkinned.md)<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[新鲜兽皮](SkinFresh.md)(3)<br>  |  [污垢](Filth.md)+15  
+[黑曜石刀](KnifeObsidian.md)  |  剥皮  |  45分  |  [光亮](Light.md):10-100  |  自身:<br>→ [剥皮的野猪](BoarSkinned.md)<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[新鲜兽皮](SkinFresh.md)(+3)<br>  |  [污垢](Filth.md)+15  
+[“切割工具”](tag_Cutter.md)  |  剥皮  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>→ [剥皮的野猪](BoarSkinned.md)<br>可用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[新鲜兽皮](SkinFresh.md)(+3)<br>  |  [污垢](Filth.md)+15  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每天-1<br>最多需要：2天  |  [骨头](Bones.md)4   
-体重<img decoding="async" src="Sprite/SaturationMeat.png" style="height:30px;">  |  初始：3000<br>最大：6000  |  -  |    
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [骨头](Bones.md)+4   
+体重<img decoding="async" src="Sprite/SaturationMeat.png" style="width:30px;">  |  初始：3000<br>最大：6000  |  -  |    

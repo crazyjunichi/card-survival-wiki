@@ -1,7 +1,7 @@
 [返回首页](index.md)  
 # “容器（敞口）”  
 - [水稻田](RicePaddy.md)  
-- [未栽种的稻田](RicePaddyEmpty.md)  
+- [未栽种的稻田(空)](RicePaddyEmpty.md)  
 - [水槽](WateringTrough.md)  
 - [陶碗](ClayBowl.md)  
 - [茉莉花](ClayJarJasmine.md)  
@@ -11,5 +11,5 @@
 - [干涸的小水塘(湿地丛林)](Puddle.md)  
 - [雨水收集器](RainCatcher.md)  
 - [蓄水池](WaterReservoir.md)  
-- [蓄水池](WaterReservoirFull.md)  
+- [蓄水池(满)](WaterReservoirFull.md)  
 - [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  

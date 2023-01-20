@@ -9,8 +9,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[未栽种的稻田](RicePaddyEmpty.md) , [稻米](RiceGrains.md)  |  种植水稻  
+[未栽种的稻田(空)](RicePaddyEmpty.md) , [稻米](RiceGrains.md)  |  种植水稻  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：672  |  每天-1<br>最多需要：7天  |  → [未栽种的稻田](RicePaddyEmpty.md)  
+进度  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |  → [未栽种的稻田(空)](RicePaddyEmpty.md)  

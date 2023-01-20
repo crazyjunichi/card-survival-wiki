@@ -16,5 +16,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-用长矛攻击！  |  30分  |    |  [(事件)鲨鱼死了！](Event_SharkFightSuccess.md)(1)<br>[(事件)我拿下它了，但我受伤了。](Event_SharkFightMixedSuccess.md)(1)<br>[(事件)它逃跑了！](Event_SharkFightFailure.md)(1)<br>[(事件)我被它伤到了……](Event_SharkFightBadFailure.md)(1)  |  [矛战(技能)](Skill_SpearFighting.md)+1  
-撤退  |  15分  |    |  [(事件)鲨鱼攻击！](Event_SharkFightFailedRetreat.md)(1)  |  [潜行(技能)](Skill_Stealth.md)+1  
+用长矛攻击！  |  30分  |    |  [(事件)鲨鱼死了！](Event_SharkFightSuccess.md)(+1)<br>[(事件)我拿下它了，但我受伤了。](Event_SharkFightMixedSuccess.md)(+1)<br>[(事件)它逃跑了！](Event_SharkFightFailure.md)(+1)<br>[(事件)我被它伤到了……](Event_SharkFightBadFailure.md)(+1)  |  [矛战(技能)](Skill_SpearFighting.md)+1  
+撤退  |  15分  |    |  [(事件)鲨鱼攻击！](Event_SharkFightFailedRetreat.md)(+1)  |  [潜行(技能)](Skill_Stealth.md)+1  

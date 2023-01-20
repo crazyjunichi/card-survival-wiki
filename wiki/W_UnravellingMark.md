@@ -14,4 +14,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/MindState.png" style="height:30px;">  |  初始：336<br>最大：336  |  每天-0.5<br>最多需要：7天  |    
+<img decoding="async" src="Sprite/MindState.png" style="width:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |    

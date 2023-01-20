@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [长木棍](StickLong.md) x 5 + [细线](CordFiber.md) x 9  |  1小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+5  |  [小拉车](Travois.md)(1)  
+1. [长木棍](StickLong.md) x 5 + [细线](CordFiber.md) x 9  |  1小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+5  |  [小拉车](Travois.md)(+1)  

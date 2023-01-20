@@ -17,8 +17,8 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  自身:<br>→ [保鲜罐](ClayPotCoolerOn.md)<br>燃料 + 192<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br>含水量  -300<br><br>  |    
+[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  自身:<br>→ [保鲜罐(开)](ClayPotCoolerOn.md)<br>燃料 + 192<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br>含水量  -300<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：684  |  每天-1<br>最多需要：7天3小时  |    
+<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：684  |  每15分钟-1<br>最多需要：7天3小时  |    

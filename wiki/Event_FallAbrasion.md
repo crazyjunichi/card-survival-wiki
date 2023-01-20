@@ -42,8 +42,8 @@
 [椰子树](PalmTreeOld.md)  |  练习攀爬  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  
 [椰子树](PalmTree_IH.md)  |  爬树  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
@@ -53,4 +53,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错  |  -  |    |  → [椰子树](PalmTreeOld.md)<br><br>[擦伤](W_Abrasion.md)(1)  |  [污垢](Filth.md)+30  
+真他妈不错  |  -  |    |  → [椰子树](PalmTreeOld.md)<br><br>[擦伤](W_Abrasion.md)(+1)  |  [污垢](Filth.md)+30  

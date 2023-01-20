@@ -1,6 +1,11 @@
 [返回首页](index.md)  
 # 腹泻  
-变化范围: 0 ~ 300  
+变化范围？: 0 ~ 300  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+149 ～ 200  |  <img decoding="async" src="Sprite/Poop.png" style="width:20px;">大便稀软  |  感觉不太好……  |  [肠道](Intestines.md)加成-0.5<br>[水分](Hydration.md)加成-1  |    
+201 ～ 250  |  <img decoding="async" src="Sprite/Poop.png" style="width:20px;">腹泻  |  我拉肚子了！  |  [肠道](Intestines.md)加成-1<br>[水分](Hydration.md)加成-2<br>[情绪](Morale.md)加成-0.5  |    
+251 ～ 300  |  <img decoding="async" src="Sprite/Poop.png" style="width:20px;">严重腹泻  |  ……  |  [肠道](Intestines.md)加成-2<br>[水分](Hydration.md)加成-3<br>[情绪](Morale.md)加成-1  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

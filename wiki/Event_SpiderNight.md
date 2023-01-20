@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-赶走蜘蛛！  |  15分  |    |  [蜘蛛咬伤](W_SpiderBite.md)(1)  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  
+赶走蜘蛛！  |  15分  |    |  [蜘蛛咬伤](W_SpiderBite.md)(+1)  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  

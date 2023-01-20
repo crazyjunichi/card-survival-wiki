@@ -1,6 +1,13 @@
 [返回首页](index.md)  
 # 耐力  
-变化范围: 0 ~ 32  
+变化范围？: 0 ~ 32  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+0 ～ 0  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">昏厥  |  Zzz……  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100  |    
+1 ～ 15  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">筋疲力尽  |  太累了，我要休息一下。  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100<br>[体感温度](TemperaturePerceived.md)+10  |    
+16 ～ 25  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">疲惫  |  大量体力活动让我有点累了。  |  [体重](Weight.md)加成-2<br>[食欲](Appetite.md)+75<br>[体感温度](TemperaturePerceived.md)+5  |    
+26 ～ 31  |  活跃  |    |  [体重](Weight.md)加成-1<br>[食欲](Appetite.md)+50<br>[体感温度](TemperaturePerceived.md)+2  |    
+32 ～ 32  |  休息中  |    |    |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -173,9 +180,9 @@
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  -6  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  -6  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  -6  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  -6  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  -6  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  -6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  -6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  -6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  -6  
 [椰子树](PalmTree_IH.md)  |  爬树  |  -6  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  -6  
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  -6  
@@ -203,7 +210,7 @@
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  -8  
 [椰子树](PalmTreeOld.md)  |  砍倒  |  -8  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  -8  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  -8  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  -8  
 [西米树](SagoPalm.md)  |  砍树  |  -8  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  -8  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  -8  
@@ -237,7 +244,7 @@
 [半根原木](HalfLog.md)  |  切割成木材  |  -16  
 [原木](Log.md)  |  截成两段  |  -16  
 [铜矿脉(狭窄隧道)](CopperVein.md)  |  采矿  |  -20  
-[火炉](StoveExtinguished.md)  |  拆除  |  -20  
+[火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  -20  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  |  -20  
 [(事件)时候已到！](Event_Pregnancy.md)  |  分娩！  |  -20  
 [坑洞](HighlandHoleEntrance.md)  |  爬下去  |  -20  
@@ -358,10 +365,10 @@
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  11 ~ 32  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  爬树  |  11 ~ 32  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  11 ~ 32  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
-[树液补给点](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  爬树  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  11 ~ 32  

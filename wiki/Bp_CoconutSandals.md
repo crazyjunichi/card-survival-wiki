@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [椰子皮](CoconutHusk.md) x 2 + [细线](CordFiber.md) x 4  |  1小时  |  [纺织(技能)](Skill_Tailoring.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  |  [椰子凉鞋](CoconutSandals.md)(1)  
+1. [椰子皮](CoconutHusk.md) x 2 + [细线](CordFiber.md) x 4  |  1小时  |  [纺织(技能)](Skill_Tailoring.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  |  [椰子凉鞋](CoconutSandals.md)(+1)  

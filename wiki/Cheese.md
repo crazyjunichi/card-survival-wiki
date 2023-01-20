@@ -15,8 +15,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 食用  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>含水量  -300<br>  |  [饱食](Satiation.md)+40<br>[胃](Stomach.md)+48<br>[水分](Hydration.md)+5<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[压力](Stress.md)-10<br>[世界观](Structure.md)+15<br>[情绪](Morale.md)+5  
 ## 可拖至  
-[猪食槽](BoarFeeder.md), [猪食槽](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：1056  |  每天-1<br>最多需要：11天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：1056  |  每15分钟-1<br>最多需要：11天  |  → [腐烂物](RottenRemains.md)  

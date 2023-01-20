@@ -9,4 +9,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16<br>最大：16  |  每天-1<br>最多需要：4小时  |  [晴朗](TropicalIsland_ClearStart.md)1 <br><br>→ [前有风暴](OpenSea_StormFront.md)  
+耐久  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  [晴朗](TropicalIsland_ClearStart.md)+1 <br><br>→ [前有风暴](OpenSea_StormFront.md)  

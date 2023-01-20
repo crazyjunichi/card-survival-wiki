@@ -14,5 +14,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-跟随踪迹  |  30分  |    |  [(事件)我发现了一头野猪！](Event_BoarFight.md)(1)<br>[(事件)近期的踪迹](Event_BoarTrailRecent.md)(1)<br>[(事件)老旧的踪迹](Event_BoarTrailOld.md)(1)<br>[(事件)我跟丢了踪迹……](Event_BoarTrailLost.md)(1)  |  [潜行(技能)](Skill_Stealth.md)+0.5  
+跟随踪迹  |  30分  |    |  [(事件)我发现了一头野猪！](Event_BoarFight.md)(+1)<br>[(事件)近期的踪迹](Event_BoarTrailRecent.md)(+1)<br>[(事件)老旧的踪迹](Event_BoarTrailOld.md)(+1)<br>[(事件)我跟丢了踪迹……](Event_BoarTrailLost.md)(+1)  |  [潜行(技能)](Skill_Stealth.md)+0.5  
 不管它  |  -  |    |    |    

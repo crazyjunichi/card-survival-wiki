@@ -14,4 +14,4 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲开  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>能量 + 1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[废铜](CopperDecoration_Failed.md)(1)<br>[铸铜鱼雕](CopperDecoration_Fish.md)(1)<br>[铜制乌龟](CopperDecoration_Turtle.md)(1)<br>[铜制贝壳](CopperDecoration_Seashell.md)(1)<br>  |  [手掌损伤](HandDamage.md)+5<br>[情绪](Morale.md)+25<br>[压力](Stress.md)-10  
+[“锤”](tag_Hammer.md)  |  敲开  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>能量 + 1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[废铜](CopperDecoration_Failed.md)(+1)<br>[铸铜鱼雕](CopperDecoration_Fish.md)(+1)<br>[铜制乌龟](CopperDecoration_Turtle.md)(+1)<br>[铜制贝壳](CopperDecoration_Seashell.md)(+1)<br>  |  [手掌损伤](HandDamage.md)+5<br>[情绪](Morale.md)+25<br>[压力](Stress.md)-10  

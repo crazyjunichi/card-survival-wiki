@@ -16,7 +16,7 @@
 [晾晒架](DryingRack.md)  |  拆解  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  
-[织布机（空）](LoomEmpty.md)  |  拆卸织布机  
+[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  
 [稻草人](Scarecrow.md)  |  拆除  
 [陷坑](TrappingPit.md)  |  拆除陷阱  
 [陷坑](TrappingPitTriggered.md)  |  拆除陷阱  

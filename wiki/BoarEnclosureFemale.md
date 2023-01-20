@@ -27,10 +27,10 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-饥饿<img decoding="async" src="Sprite/Hunger.png" style="height:30px;">  |  初始：288<br>最大：576  |  每天-1<br>最多需要：6天  |  → [野猪尸体](BoarCarcass.md)  
-口渴<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：288<br>最大：288  |  每天-1<br>最多需要：3天  |  → [野猪尸体](BoarCarcass.md)  
-怀孕<img decoding="async" src="Sprite/Pregnancy.png" style="height:30px;">  |  初始：0<br>最大：1344  |  每天-1<br>最多需要：14天  |  [小猪尸体](BoarCarcassPiglet.md)0~3 <br><br>[小猪](BoarEnclosurePiglet.md)0~3 <br><br>[小猪](BoarEnclosurePiglet.md)3~6 <br><br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
-压力<img decoding="async" src="Sprite/Content.png" style="height:30px;">  |  初始：0<br>最大：1000  |  每天-4<br>最多需要：2天14小时30分  |    
-体重<img decoding="async" src="Sprite/SaturationMeat.png" style="height:30px;">  |  初始：0<br>最大：6000  |  每天-2<br>最多需要：31天6小时  |    
-BoarEnclosureFemale_SpecialDurability2.CardStatName  |  初始：0<br>最大：1344  |  每天-1<br>最多需要：14天  |    
-便便  |  初始：96<br>最大：96  |  每天-1<br>最多需要：1天  |  [粪便](Manure.md)1   
+饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:30px;">  |  初始：288<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  → [野猪尸体](BoarCarcass.md)  
+口渴<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [野猪尸体](BoarCarcass.md)  
+怀孕<img decoding="async" src="Sprite/Pregnancy.png" style="width:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  [小猪尸体](BoarCarcassPiglet.md)0～+3 <br><br>[小猪](BoarEnclosurePiglet.md)0～+3 <br><br>[小猪](BoarEnclosurePiglet.md)+3～+6 <br><br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
+压力<img decoding="async" src="Sprite/Content.png" style="width:30px;">  |  初始：0<br>最大：1000  |  每15分钟-4<br>最多需要：2天14小时30分  |    
+体重<img decoding="async" src="Sprite/SaturationMeat.png" style="width:30px;">  |  初始：0<br>最大：6000  |  每15分钟-2<br>最多需要：31天6小时  |    
+BoarEnclosureFemale_SpecialDurability2.CardStatName  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |    
+便便  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  [粪便](Manure.md)+1   

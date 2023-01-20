@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除塑料布  |  30分  |  [光亮](Light.md):10-100  |  → [营火](Campfire.md)<br><br>[烟熏炉框架](SmokerFrame.md)(1)<br>[塑料布](PlasticSheet.md)(1)  |    
+移除塑料布  |  30分  |  [光亮](Light.md):10-100  |  → [营火](Campfire.md)<br><br>[烟熏炉框架](SmokerFrame.md)(+1)<br>[塑料布](PlasticSheet.md)(+1)  |    

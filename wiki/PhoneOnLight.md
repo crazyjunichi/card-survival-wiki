@@ -9,15 +9,15 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[手机](PhoneOn.md)  |  打开手电筒  
+[手机(开)](PhoneOn.md)  |  打开手电筒  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-关机  |  -  |    |  → [手机](PhoneOff.md)<br>  |    
-玩游戏  |  30分  |    |  → [手机](PhoneOff.md)<br>燃料  -2<br>  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25  
-看照片  |  15分  |    |  → [手机](PhoneOff.md)<br>燃料  -1<br>  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
-关闭手电筒  |  -  |    |  → [手机](PhoneOn.md)<br>燃料  -1<br>  |    
+关机  |  -  |    |  → [手机(关)](PhoneOff.md)<br>  |    
+玩游戏  |  30分  |    |  → [手机(关)](PhoneOff.md)<br>燃料  -2<br>  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5  
+看照片  |  15分  |    |  → [手机(关)](PhoneOff.md)<br>燃料  -1<br>  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
+关闭手电筒  |  -  |    |  → [手机(开)](PhoneOn.md)<br>燃料  -1<br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：288<br>最大：288  |  每天-3<br>最多需要：1天  |  → [手机](PhoneOff.md)  
+燃料  |  初始：288<br>最大：288  |  每15分钟-3<br>最多需要：1天  |  → [手机(关)](PhoneOff.md)  

@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[丛林高地(环境)](Env_JungleHighlands.md)(1)<br>[蝙蝠洞(丛林高地)](CaveBatsEntrance.md)(1)  |    
+离开  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>[蝙蝠洞(丛林高地)](CaveBatsEntrance.md)(+1)  |    

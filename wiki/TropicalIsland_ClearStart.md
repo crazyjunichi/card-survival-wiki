@@ -9,4 +9,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：48  |  每天-1<br>最多需要：12小时  |  [阴天](TropicalIsland_CloudyStart.md)1 <br><br>→ [平静](OpenSea_Calm.md)  
+耐久  |  初始：48  |  每15分钟-1<br>最多需要：12小时  |  [阴天](TropicalIsland_CloudyStart.md)+1 <br><br>→ [平静](OpenSea_Calm.md)  

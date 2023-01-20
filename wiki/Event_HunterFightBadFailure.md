@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼  |  1小时  |    |  [鬼掌印](W_HunterMark.md)(1)  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  
+闭眼  |  1小时  |    |  [鬼掌印](W_HunterMark.md)(+1)  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  

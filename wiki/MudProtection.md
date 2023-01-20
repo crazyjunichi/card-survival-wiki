@@ -1,6 +1,9 @@
 [返回首页](index.md)  
 # 泥巴防护  
-变化范围: 0 ~ 50  
+变化范围？: 0 ~ 50  
+范围  |  名称  |  描述  |  影响状态  |  影响动作  
+----  |  ----  |  ----  |  ----  |  ----  
+1 ～ 50  |  <img decoding="async" src="Sprite/PalmSugar.png" style="width:20px;">涂抹了泥巴  |    |  [阳光强度](SunStrength.md)-2<br>[蚊虫数量](BugPopulation.md)-4<br>[皮肤潮湿度](SkinHumidity.md)加成+0.5  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

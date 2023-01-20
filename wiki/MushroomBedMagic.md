@@ -9,7 +9,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[未种植的菌床](MushroomBedEmpty.md) , [迷幻菇](MagicMushrooms.md)  |  种植迷幻菇  
+[未种植的菌床(空)](MushroomBedEmpty.md) , [迷幻菇](MagicMushrooms.md)  |  种植迷幻菇  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,7 +21,7 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-肥力<img decoding="async" src="Sprite/FineDirt.png" style="height:30px;">  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |    
-使用次数  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |    
-水分<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：192<br>最大：288  |  每天-1<br>最多需要：3天  |  → [未浇灌的菌床](MushroomBedDry.md)  
-进度  |  初始：0<br>最大：672  |  每天+1<br>最多需要：7天  |  [迷幻菇](MagicMushroomsPlant.md)4 <br><br>[木板](Plank.md)4 <br><br>→ [西米粉](SagoFlour.md)  
+肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
+使用次数  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
+水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [未浇灌的菌床](MushroomBedDry.md)  
+进度  |  初始：0<br>最大：672  |  每15分钟+1<br>最多需要：7天  |  [迷幻菇](MagicMushroomsPlant.md)+4 <br><br>[木板](Plank.md)+4 <br><br>→ [西米粉](SagoFlour.md)  

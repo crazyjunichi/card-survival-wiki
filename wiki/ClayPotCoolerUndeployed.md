@@ -11,9 +11,9 @@
 ----  |  ----  
 [未烧制的保鲜罐](ClayPotCoolerUnfired.md) , [窑炉](Kiln.md)  |  保鲜罐  
 [未烧制的保鲜罐](ClayPotCoolerUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  保鲜罐  
-[保鲜罐](ClayPotCoolerOff.md)  |  清空后搬走  
-[保鲜罐](ClayPotCoolerOn.md)  |  清空后搬走  
+[保鲜罐(关)](ClayPotCoolerOff.md)  |  清空后搬走  
+[保鲜罐(开)](ClayPotCoolerOn.md)  |  清空后搬走  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置  |  15分  |    |  → [保鲜罐](ClayPotCoolerOff.md)<br>  |    
+放置  |  15分  |    |  → [保鲜罐(关)](ClayPotCoolerOff.md)<br>  |    

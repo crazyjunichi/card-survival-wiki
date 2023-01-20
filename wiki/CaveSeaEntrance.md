@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴(环境)](Env_CaveSea.md)(1)<br>[离开](CaveSeaExit.md)(1)<br>[海蚀洞](CaveSea.md)(1)  |    
+进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[洞穴(环境)](Env_CaveSea.md)(+1)<br>[离开](CaveSeaExit.md)(+1)<br>[海蚀洞](CaveSea.md)(+1)  |    

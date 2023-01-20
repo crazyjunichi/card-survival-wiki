@@ -31,6 +31,6 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度<img decoding="async" src="Sprite/Health.png" style="height:30px;">  |  初始：0<br>最大：500  |  每天+1<br>最多需要：5天5小时  |    
-药品<img decoding="async" src="Sprite/DressingApplied.png" style="height:30px;">  |  初始：0<br>最大：32  |  每天-1<br>最多需要：8小时  |    
-感染<img decoding="async" src="Sprite/Bacteria.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天+1<br>最多需要：3天  |    
+进度<img decoding="async" src="Sprite/Health.png" style="width:30px;">  |  初始：0<br>最大：500  |  每15分钟+1<br>最多需要：5天5小时  |    
+药品<img decoding="async" src="Sprite/DressingApplied.png" style="width:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
+感染<img decoding="async" src="Sprite/Bacteria.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    

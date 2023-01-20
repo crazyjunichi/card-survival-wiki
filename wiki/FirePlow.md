@@ -9,7 +9,7 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“火绒”](tag_Tinder.md)  |  点燃火绒  |  15分  |    |  自身:<br>可用次数  -1<br><br>使用物:<br>→ [火种](TinderLit.md)<br><br>获得:<br>[火种](TinderLit.md)(1)<br>  |  [手掌损伤](HandDamage.md)+40  
+[“火绒”](tag_Tinder.md)  |  点燃火绒  |  15分  |    |  自身:<br>可用次数  -1<br><br>使用物:<br>→ [火种](TinderLit.md)<br><br>获得:<br>[火种](TinderLit.md)(+1)<br>  |  [手掌损伤](HandDamage.md)+40  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

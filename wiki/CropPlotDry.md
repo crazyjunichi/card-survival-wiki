@@ -13,11 +13,11 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  自身:<br>→ [未栽种的农田](CropPlotEmpty.md)<br>燃料 + 96<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
+[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  自身:<br>→ [未栽种的农田(空)](CropPlotEmpty.md)<br>燃料 + 96<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
 [“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>耐久 + 384<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
 [“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>耐久 + 96<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-肥力<img decoding="async" src="Sprite/FineDirt.png" style="height:30px;">  |  初始：0<br>最大：384  |  每天-1<br>最多需要：4天  |    
-水分<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：288  |  每天-1<br>最多需要：3天  |    
+肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
+水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    

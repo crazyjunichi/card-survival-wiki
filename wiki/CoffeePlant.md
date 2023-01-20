@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  30分  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[咖啡果](CoffeeBerries.md)(2~3)  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+采集  |  30分  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[咖啡果](CoffeeBerries.md)(+2～+3)  |  [药草学(技能)](Skill_Herbology.md)+0.5  

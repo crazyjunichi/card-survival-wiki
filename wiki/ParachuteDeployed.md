@@ -9,7 +9,7 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  切下塑料布  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>能量  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[塑料布](PlasticSheet.md)(1)<br>[绳子](Rope.md)(1)<br>[细线](CordFiber.md)(2)<br>  |  [体重](Weight.md)-1  
+[“切割工具”](tag_Cutter.md)  |  切下塑料布  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>能量  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[塑料布](PlasticSheet.md)(+1)<br>[绳子](Rope.md)(+1)<br>[细线](CordFiber.md)(+2)<br>  |  [体重](Weight.md)-1  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -15,5 +15,3 @@
 - [石屋扩建](Imp_StoneHutExpansion.md)  
 - [陷阱栅栏](Imp_TrappingFences.md)  
 - [小径](Imp_Path.md)  
-- [TestImprovement1_CardName](TestImprovement1.md)  
-- [TestImprovement2_CardName](TestImprovement2.md)  

@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-游泳  |  30分  |  [光亮](Light.md):1-100<br>[游泳(技能)](Skill_Swimming.md):30-150  |  → [丛林(环境)](Env_Jungle.md)<br><br>[鸟岩岛(环境)](Env_BirdRock.md)(1)<br>[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)(1)<br>[(事件)我游不动了……](Event_SwimFail.md)(1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  
+游泳  |  30分  |  [光亮](Light.md):1-100<br>[游泳(技能)](Skill_Swimming.md):30-150  |  → [丛林(环境)](Env_Jungle.md)<br><br>[鸟岩岛(环境)](Env_BirdRock.md)(+1)<br>[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)(+1)<br>[(事件)我游不动了……](Event_SwimFail.md)(+1)  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  

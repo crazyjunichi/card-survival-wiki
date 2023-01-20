@@ -13,4 +13,4 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  拆除  |  2小时  |    |  使用物:<br>可用次数  -2<br><br>获得:<br>[干土堆](DirtPile.md)(8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
+[“锤”](tag_Hammer.md)  |  拆除  |  2小时  |    |  使用物:<br>可用次数  -2<br><br>获得:<br>[干土堆](DirtPile.md)(+8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  

@@ -20,11 +20,11 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [手钻](HandDrill.md)  |  钻木取火  |  30分  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+40  
 [弓钻](BowDrill.md)  |  钻木取火  |  15分  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+10  
-[火把](TorchOn.md)  |  点燃火绒  |  -  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>  |  [情绪](Morale.md)+1  
+[火把(开)](TorchOn.md)  |  点燃火绒  |  -  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>  |  [情绪](Morale.md)+1  
 [信号镜](SignalingMirror.md)  |  点燃火绒  |  45分  |  [降水值](RainValue.md):0-0<br>[阳光强度](SunStrength.md):1-6  |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1  
 [纤维](Fibers.md)  |  缠起来  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [细线](CordFiber.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5<br>[压力](Stress.md)-10  
 ## 可拖至  
-[堆肥箱](CompostBin.md), [泥堆](MudPile.md), [粘土](Clay.md), [纤维](Fibers.md), [熏蜂器](BeeSmokerOff.md), [手钻](FirePlow.md), [纺锤](Spindle.md)  
+[堆肥箱](CompostBin.md), [泥堆](MudPile.md), [粘土](Clay.md), [纤维](Fibers.md), [熏蜂器(关)](BeeSmokerOff.md), [手钻](FirePlow.md), [纺锤](Spindle.md)  
 ## 可用于蓝图  
 - [斧头模具(蓝图)](Bp_MoldAxe.md)  
 - [刀模具(蓝图)](Bp_MoldKnife.md)  

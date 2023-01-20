@@ -17,12 +17,12 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[燃烧的信号弹](FlareHandOn.md)  |  挥舞信号弹！  |  15分  |    |  自身:<br>能量 + 25<br><br>  |    
-[火把](TorchOn.md)  |  挥舞火把！  |  15分  |    |  自身:<br>能量 + 15<br><br>  |    
+[燃烧的信号弹(开)](FlareHandOn.md)  |  挥舞信号弹！  |  15分  |    |  自身:<br>能量 + 25<br><br>  |    
+[火把(开)](TorchOn.md)  |  挥舞火把！  |  15分  |    |  自身:<br>能量 + 15<br><br>  |    
 [信号镜](SignalingMirror.md)  |  发出信号！  |  15分  |    |  自身:<br>能量 + 10<br><br>  |    
-[蜡烛](CandleOn.md)  |  挥舞蜡烛！  |  15分  |    |  自身:<br>能量 + 5<br><br>  |    
+[蜡烛(开)](CandleOn.md)  |  挥舞蜡烛！  |  15分  |    |  自身:<br>能量 + 5<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-剩余时间<img decoding="async" src="Sprite/AlarmClock.png" style="height:30px;">  |  初始：6<br>最大：6  |  每天-1<br>最多需要：1小时30分  |  [(事件)错过了船只](Event_ShipMissed.md)1   
-进度  |  初始：0<br>最大：100  |  -  |  [(事件)船舶救援](Event_ShipRescue.md)1   
+剩余时间<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：6<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |  [(事件)错过了船只](Event_ShipMissed.md)+1   
+进度  |  初始：0<br>最大：100  |  -  |  [(事件)船舶救援](Event_ShipRescue.md)+1   

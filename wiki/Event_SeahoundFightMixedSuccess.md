@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(1)<br>[海怪尸体](SeahoundCarcass.md)(1)  |  [海怪种群数量](Pop_Seahounds.md)-1000<br>[海怪寄生虫](ParasitesSeahound.md)+400<br>[海怪击杀数](SeaHoundKills.md)+1  
+继续  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(+1)<br>[海怪尸体](SeahoundCarcass.md)(+1)  |  [海怪种群数量](Pop_Seahounds.md)-1000<br>[海怪寄生虫](ParasitesSeahound.md)+400～+800<br>[海怪击杀数](SeaHoundKills.md)+1  

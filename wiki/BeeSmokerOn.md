@@ -9,13 +9,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[熏蜂器](BeeSmokerOff.md) , [火种](TinderLit.md)  |  点燃  
-[熏蜂器](BeeSmokerOff.md) , [蒸馏器](AlembicOn.md)  |  点燃  
+[熏蜂器(关)](BeeSmokerOff.md) , [火种](TinderLit.md)  |  点燃  
+[熏蜂器(关)](BeeSmokerOff.md) , [蒸馏器(开)](AlembicOn.md)  |  点燃  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-熄灭  |  -  |    |  → [熏蜂器](BeeSmokerOff.md)<br>燃料  -1<br>  |    
+熄灭  |  -  |    |  → [熏蜂器(关)](BeeSmokerOff.md)<br>燃料  -1<br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：16<br>最大：16  |  每天-1<br>最多需要：4小时  |  → [熏蜂器](BeeSmokerOff.md)  
+燃料  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  → [熏蜂器(关)](BeeSmokerOff.md)  

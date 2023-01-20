@@ -9,15 +9,15 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-挖泥巴  |  15分  |    |  含水量  -300<br><br>[泥堆](MudPile.md)(3)  |  [污垢](Filth.md)+10<br>[湿度](Wetness.md)+20  
-挖干土  |  15分  |    |  [干土堆](DirtPile.md)(3)<br>[虫子](Bugs.md)(0~3)  |  [污垢](Filth.md)+10  
+挖泥巴  |  15分  |    |  含水量  -300<br><br>[泥堆](MudPile.md)(+3)  |  [污垢](Filth.md)+10<br>[湿度](Wetness.md)+20  
+挖干土  |  15分  |    |  [干土堆](DirtPile.md)(+3)<br>[虫子](Bugs.md)(0～+3)  |  [污垢](Filth.md)+10  
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“铲子”](tag_Shovel.md)  |  挖泥巴  |  15分  |    |  自身:<br>可用次数  -2<br>含水量  -300<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[泥堆](MudPile.md)(6)<br>  |    
-[“铲子”](tag_Shovel.md)  |  挖干土  |  15分  |    |  自身:<br>可用次数  -2<br>含水量  -300<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[干土堆](DirtPile.md)(6)<br>[虫子](Bugs.md)(1~6)<br>  |    
+[“铲子”](tag_Shovel.md)  |  挖泥巴  |  15分  |    |  自身:<br>可用次数  -2<br>含水量  -300<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[泥堆](MudPile.md)(+6)<br>  |    
+[“铲子”](tag_Shovel.md)  |  挖干土  |  15分  |    |  自身:<br>可用次数  -2<br>含水量  -300<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[干土堆](DirtPile.md)(+6)<br>[虫子](Bugs.md)(+1～+6)<br>  |    
 [“储水容器”](tag_WaterContainer.md)  |  防蚊  |  15分  |    |  自身:<br>燃料 + 672<br><br>使用物:<br>含水量  -50<br><br>  |    
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-防蚊<img decoding="async" src="Sprite/BugsNot.png" style="height:30px;">  |  初始：0<br>最大：672  |  每天-1<br>最多需要：7天  |    
+防蚊<img decoding="async" src="Sprite/BugsNot.png" style="width:30px;">  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |    

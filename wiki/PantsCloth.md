@@ -4,12 +4,12 @@
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**2400  |  ![](Sprite/undefined.png)   
+ **重量：**100<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**2400  |  ![]()   
   
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料  |  -  |    |  [布](Cloth.md)(1)  |    
+撕开布料  |  -  |    |  [布](Cloth.md)(+1)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,4 +18,4 @@
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：2400<br>最大：2400  |  -  |    
-<img decoding="async" src="Sprite/Thirst.png" style="height:30px;">  |  初始：0<br>最大：12  |  每天-1<br>最多需要：3小时  |    
+<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    

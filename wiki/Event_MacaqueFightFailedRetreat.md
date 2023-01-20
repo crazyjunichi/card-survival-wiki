@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(1)  |  [情绪](Morale.md)-20<br>[污垢](Filth.md)+75<br>[害怕猕猴](MacaqueFear.md)-500  
+继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(+1)  |  [情绪](Morale.md)-20<br>[污垢](Filth.md)+75<br>[害怕猕猴](MacaqueFear.md)-500  

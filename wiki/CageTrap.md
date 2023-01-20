@@ -20,4 +20,4 @@
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 放置  |  30分  |  [光亮](Light.md):10-100<br>[遮蔽](Sheltered.md):0-0  |  → [诱捕笼](CageTrapPlaced.md)<br>  |    
-拆除  |  1小时30分  |  [光亮](Light.md):10-100  |  [长木棍](StickLong.md)(6)<br>[小树枝](Sticks.md)(12)<br>[细线](CordFiber.md)(16)  |    
+拆除  |  1小时30分  |  [光亮](Light.md):10-100  |  [长木棍](StickLong.md)(+6)<br>[小树枝](Sticks.md)(+12)<br>[细线](CordFiber.md)(+16)  |    

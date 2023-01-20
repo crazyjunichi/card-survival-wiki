@@ -13,5 +13,5 @@
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
-[粘土火盆](ClayFirePitExtinguished.md)  |  [窑炉](Kiln.md)  
-[粘土火盆](ClayFirePitExtinguished.md)  |  [高级窑炉](KilnAdvanced.md)  
+[粘土火盆(熄灭)](ClayFirePitExtinguished.md)  |  [窑炉](Kiln.md)  
+[粘土火盆(熄灭)](ClayFirePitExtinguished.md)  |  [高级窑炉](KilnAdvanced.md)  

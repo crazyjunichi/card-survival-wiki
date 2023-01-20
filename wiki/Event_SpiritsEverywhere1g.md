@@ -9,4 +9,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-<b>难以忍受的精神痛苦！</b>  |  4小时  |    |    |  [关系层](RelationalLayer.md)+1<br>[虚空灵视](VoidInsight.md)+1<br>[失实症](Derealization.md)+48<br>[精神失常](MindState.md)+50<br>[灵视(技能)](Skill_Insight.md)+10  
+<b>难以忍受的精神痛苦！</b>  |  4小时  |    |    |  [关系层](RelationalLayer.md)+1<br>[虚空灵视](VoidInsight.md)+1<br>[失实症](Derealization.md)+48～+480<br>[精神失常](MindState.md)+50<br>[灵视(技能)](Skill_Insight.md)+10  

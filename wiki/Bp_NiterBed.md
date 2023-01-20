@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [粘土](Clay.md) x 6 + [粪便(组)](GpTag_Poop.md) x 6 + [碱液](LQ_Lye.md) x 1  |  1小时  |  [压力](Stress.md)-10  |  [硝石矿床](NiterBed.md)(1)  
+1. [粘土](Clay.md) x 6 + [粪便(组)](GpTag_Poop.md) x 6 + [碱液](LQ_Lye.md) x 1  |  1小时  |  [压力](Stress.md)-10  |  [硝石矿床](NiterBed.md)(+1)  

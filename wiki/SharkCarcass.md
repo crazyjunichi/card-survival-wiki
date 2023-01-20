@@ -14,11 +14,11 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  切割  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[鲨鱼肉](SharkMeat.md)(8~12)<br>[鱼杂](FishScraps.md)(8~12)<br>[鲨鱼下颚](SharkJaws.md)(1)<br>  |  [污垢](Filth.md)+10  
-[“切割工具”](tag_Cutter.md)  |  切割  |  1小时30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[鲨鱼肉](SharkMeat.md)(8~12)<br>[鱼杂](FishScraps.md)(8~12)<br>[鲨鱼下颚](SharkJaws.md)(1)<br>  |  [污垢](Filth.md)+10  
+[黑曜石刀](KnifeObsidian.md)  |  切割  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[鲨鱼肉](SharkMeat.md)(+8～+12)<br>[鱼杂](FishScraps.md)(+8～+12)<br>[鲨鱼下颚](SharkJaws.md)(+1)<br>  |  [污垢](Filth.md)+10  
+[“切割工具”](tag_Cutter.md)  |  切割  |  1小时30分  |  [光亮](Light.md):10-100  |  自身:<br>可用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[鲨鱼肉](SharkMeat.md)(+8～+12)<br>[鱼杂](FishScraps.md)(+8～+12)<br>[鲨鱼下颚](SharkJaws.md)(+1)<br>  |  [污垢](Filth.md)+10  
 ## 可拖至  
 [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md)  
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每天-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  

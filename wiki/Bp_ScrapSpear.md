@@ -9,4 +9,4 @@
 ## 制作  
 步骤  |  时间  |  状态  |  成品  
 ----  |  ----  |  ----  |  ----  
-1. [长木棍](StickLong.md) x 1 + [细线](CordFiber.md) x 1 + [绳子](Rope.md) x 1 + [金属废料](MetalScrap.md) x 1  |  1小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [废金属长矛](SpearScrap.md)(1)  
+1. [长木棍](StickLong.md) x 1 + [细线](CordFiber.md) x 1 + [绳子](Rope.md) x 1 + [金属废料](MetalScrap.md) x 1  |  1小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [废金属长矛](SpearScrap.md)(+1)  

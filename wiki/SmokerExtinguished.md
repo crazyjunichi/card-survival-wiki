@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除烟熏炉  |  30分  |    |  → [营火](CampfireExtinguished.md)<br><br>[烟熏炉](SmokerNoFire.md)(1)  |    
+移除烟熏炉  |  30分  |    |  → [营火(熄灭)](CampfireExtinguished.md)<br><br>[烟熏炉](SmokerNoFire.md)(+1)  |    
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

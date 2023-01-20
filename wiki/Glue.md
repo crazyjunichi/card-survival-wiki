@@ -15,8 +15,8 @@
 [干胶水](GlueDry.md) , [粘土火盆](ClayFirePit.md)  |  加热中的胶水  
 [干胶水](GlueDry.md) , [火堆](Fire.md)  |  加热胶水  
 [干胶水](GlueDry.md) , [火堆](Fire.md)  |  加热中的胶水  
-[干胶水](GlueDry.md) , [瓦斯炉](GasCookerOn.md)  |  加热胶水  
-[干胶水](GlueDry.md) , [瓦斯炉](GasCookerOn.md)  |  加热中的胶水  
+[干胶水](GlueDry.md) , [瓦斯炉(开)](GasCookerOn.md)  |  加热胶水  
+[干胶水](GlueDry.md) , [瓦斯炉(开)](GasCookerOn.md)  |  加热中的胶水  
 [干胶水](GlueDry.md) , [火炉](Stove.md)  |  加热胶水  
 [干胶水](GlueDry.md) , [火炉](Stove.md)  |  加热中的胶水  
 [熬制好的胶水](GlueCooked.md)  |  取出胶水  
@@ -30,4 +30,4 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：96<br>最大：96  |  每天-1<br>最多需要：1天  |  → [干胶水](GlueDry.md)  
+耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  → [干胶水](GlueDry.md)  

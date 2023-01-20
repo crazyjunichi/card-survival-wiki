@@ -25,11 +25,7 @@
 ## 可拖入  
 使用  |  动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(1)<br>  |    
-## 可用于蓝图  
-- [BlueprintModelTest_CardName(蓝图)](BlueprintModelTest.md)  
-  
-  
+[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(+1)<br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

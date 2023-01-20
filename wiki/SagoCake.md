@@ -12,7 +12,7 @@
 [未烹饪的西米蛋糕](SagoCakeUncooked.md) , [营火](Campfire.md)  |  西米蛋糕  
 [未烹饪的西米蛋糕](SagoCakeUncooked.md) , [粘土火盆](ClayFirePit.md)  |  西米蛋糕  
 [未烹饪的西米蛋糕](SagoCakeUncooked.md) , [火堆](Fire.md)  |  西米蛋糕  
-[未烹饪的西米蛋糕](SagoCakeUncooked.md) , [瓦斯炉](GasCookerOn.md)  |  西米蛋糕  
+[未烹饪的西米蛋糕](SagoCakeUncooked.md) , [瓦斯炉(开)](GasCookerOn.md)  |  西米蛋糕  
 [未烹饪的西米蛋糕](SagoCakeUncooked.md) , [火炉](Stove.md)  |  西米蛋糕  
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
@@ -23,5 +23,5 @@
 ## 变化  
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288  |  每天-1<br>最多需要：3天  |  [腐烂物](RottenRemains.md)1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
 使用次数  |  初始：3  |  -  |  → [烹饪锅](CookingPot.md)  

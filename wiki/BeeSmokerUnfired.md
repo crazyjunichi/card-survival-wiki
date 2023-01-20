@@ -13,5 +13,5 @@
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
-[熏蜂器](BeeSmokerOff.md)  |  [窑炉](Kiln.md)  
-[熏蜂器](BeeSmokerOff.md)  |  [高级窑炉](KilnAdvanced.md)  
+[熏蜂器(关)](BeeSmokerOff.md)  |  [窑炉](Kiln.md)  
+[熏蜂器(关)](BeeSmokerOff.md)  |  [高级窑炉](KilnAdvanced.md)  

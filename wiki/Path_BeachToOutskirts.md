@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[丛林边缘(环境)](Env_Outskirts.md)(1)<br>[前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)(1)  |  [足部损伤](FootDamage.md)+10<br>[耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+前往  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[丛林边缘(环境)](Env_Outskirts.md)(+1)<br>[前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)(+1)  |  [足部损伤](FootDamage.md)+10<br>[耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
