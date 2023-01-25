@@ -1,7 +1,7 @@
 # 海藻  
 > 能吃。  
   
-  属性  |   图片   
+  海藻  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md)  |  ![](Sprite/Seaweed.png)   
   
@@ -13,7 +13,7 @@
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  
 [海(红树林)](Sea_Mangroves.md)  |  潜水  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+5<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30  
 ## 可拖至  
@@ -33,7 +33,7 @@
 - [寿司(蓝图)](Bp_Sushi.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

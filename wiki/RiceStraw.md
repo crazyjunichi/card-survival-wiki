@@ -1,7 +1,7 @@
 # 稻杆  
 > 可用作燃料或者食料。  
   
-  属性  |   图片   
+  稻杆  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md), [“燃料”](tag_Fuel.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“抗裂剂”](tag_Temper.md)  |  ![](Sprite/RiceStraw.png)   
   

@@ -1,6 +1,7 @@
 # 晒伤  
 变化范围: 0 ~ 1000  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Sunburn.png" style="width:20px;">晒伤  |  我的皮肤有一点点晒伤。  |  [晒黑](Tanning.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    

@@ -1,7 +1,7 @@
 # 方解石晶体  
 > 一块看起来很漂亮的石头。放在架子上会很好看！  
   
-  属性  |   图片   
+  方解石晶体  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“高级装饰品”](tag_DecorationAdv.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/Calcite.png)   
   

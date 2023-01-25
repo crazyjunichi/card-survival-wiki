@@ -1,6 +1,7 @@
 # 失温  
 变化范围: 0 ~ 100  
 基础变化率: -25 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 26 ～ 50  |  <img decoding="async" src="Sprite/Snowflake.png" style="width:20px;">冻僵  |  我感觉被冻麻了  |  [情绪](Morale.md)加成-1<br>[细菌性发烧](BacteriaFever.md)加成+3  |    

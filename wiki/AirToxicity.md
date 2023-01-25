@@ -1,6 +1,7 @@
 # 空气毒性  
 变化范围: 0 ~ 6  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/AirToxicity.png" style="width:20px;">清洁的空气  |    |    |    

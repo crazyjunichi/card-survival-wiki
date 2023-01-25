@@ -1,6 +1,7 @@
 # 蚊虫防护  
 变化范围: 0 ~ 5  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">中等的防护  |    |  [蚊虫叮咬](BugDamage.md)-1  |    

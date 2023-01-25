@@ -1,6 +1,7 @@
 # 镇痛  
 变化范围: 0 ~ 400  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 100  |  <img decoding="async" src="Sprite/Analgesia.png" style="width:20px;">轻度镇痛剂量  |    |  [疼痛](Pain.md)-200<br>[发烧](Fever.md)加成-10<br>[勇气](Courage.md)+200<br>[压力](Stress.md)加成-2  |    

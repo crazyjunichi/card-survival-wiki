@@ -1,7 +1,7 @@
 # 受精蛋  
 > 可以吃，做熟后味道会更好。  
   
-  属性  |   图片   
+  受精蛋  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/Egg.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [(事件)一个灰山鹑巢！](Event_PartridgeNest.md)  |  继续  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+6<br>[水分](Hydration.md)+6<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+35<br>[污垢](Filth.md)+6<br>[细菌性发烧](BacteriaFever.md)0～+100<br>[情绪](Morale.md)-1  
 ## 可拖至  
@@ -30,8 +30,8 @@
 [烤蛋](EggCooked.md)  |  [火堆](Fire.md)  
 [烤蛋](EggCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤蛋](EggCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
 进度  |  初始：0<br>最大：672  |  -  |  ** 到达上限时： **<br>→ [小灰山鹑](PartridgeChick.md)  

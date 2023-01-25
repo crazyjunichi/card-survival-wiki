@@ -1,7 +1,7 @@
 # 虫子  
 > 可以用作诱饵  
   
-  属性  |   图片   
+  虫子  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  ![](Sprite/Bugs.png)   
   
@@ -17,7 +17,7 @@
 [干涸的小水塘(湿地丛林)](Puddle.md)  |  挖干土  
 [干涸的小水塘(湿地丛林)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[ShellfishAction](ShellfishAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+2<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+1<br>[情绪](Morale.md)-10<br>[世界观](Structure.md)-10<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)+10  
 ## 可拖至  
@@ -27,7 +27,7 @@
 - [蛋白棒(蓝图)](Bp_ProteinBar.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **  

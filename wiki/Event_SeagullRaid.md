@@ -1,12 +1,12 @@
 # 一只海鸥！  
 > 它在翻东西！它会吃掉我没装起来的食物！  
   
-  属性  |   图片   
+  一只海鸥！  |   图片   
  ----  |  ----:   
    |  ![](Sprite/Seagull.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 不管它<br>  |  -  |    |  [(事件)海鸥](Event_SeagullRaidRummaging.md)(+1)<br>  |  [海鸥之惧](SeagullFear.md)-100  
 使用长矛<br>  |  15分  |  [“一级矛”](tag_Spear.md)  |  [(事件)拿下了！](Event_SeagullFightSuccess.md)(+1)<br>基础权重：0<br>- [矛战(技能)](Skill_SpearFighting.md)为1～150时权重0～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>[(事件)海鸥](Event_SeagullRaidRummaging.md)(+1)<br>基础权重：30<br><br>** 相关卡牌 **<br>[“一级矛”](tag_Spear.md)可用次数  -1<br>  |  [矛战(技能)](Skill_SpearFighting.md)+1  

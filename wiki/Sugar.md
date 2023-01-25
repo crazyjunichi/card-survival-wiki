@@ -1,7 +1,7 @@
 # 糖  
 > 水椰糖，很好吃。  
   
-  属性  |   图片   
+  糖  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  ![](Sprite/PalmSugar.png)   
   
@@ -14,11 +14,11 @@
 [水椰树汁](LQ_Sap.md) , [瓦斯炉(开)](GasCookerOn.md)  |  熬煮树汁  
 [水椰树汁](LQ_Sap.md) , [火炉](Stove.md)  |  熬煮树汁  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+30<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+1<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+200<br>[污垢](Filth.md)+2  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [浸泡的西米](LQ_SoakedSago.md)<br><br>使用物:<br>→ [糖水](LQ_SugarWater.md)<br><br>  |    
 ## 可拖至  

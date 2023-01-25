@@ -1,6 +1,7 @@
 # 污垢  
 变化范围: 0 ~ 500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 425 ～ 500  |  <img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">非常脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+5<br>[细菌性发烧](BacteriaFever.md)加成+3<br>[寄生虫](Parasites.md)加成+4<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-2～-0.5  |    

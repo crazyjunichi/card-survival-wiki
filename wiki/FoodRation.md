@@ -1,7 +1,7 @@
 # 压缩干粮  
 > 应该能让我再撑一段时间。  
   
-  属性  |   图片   
+  压缩干粮  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/FoodRation.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [压缩干粮包](FoodRationsPackage.md)  |  拿出压缩干粮  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+40<br>[水分](Hydration.md)+1～+4<br>[干粮<nobr>厌倦度</nobr>](SaturationRations.md)+35<br>[污垢](Filth.md)+1  
 ## 可拖至  

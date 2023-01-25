@@ -1,11 +1,11 @@
 # 陶碗  
 > 一只小陶碗。  
   
-  属性  |   图片   
+  陶碗  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/ClayBowl.png)   
+ ** 解锁需求: **<br>[粘土](Clay.md)  |  ![](Sprite/ClayBowl.png)   
   
 ## 制作  
-步骤  |  时间  |  状态  |  成品  
-----  |  ----  |  ----  |  ----  
-1. [粘土](Clay.md) x 1 + [抗裂剂(组)](GpTag_Temper.md) x 1  |  30分  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+2  |  [未烧制的陶碗](ClayBowlUnfired.md)(+1)  
+步骤  |  耗时  |  需求  |  状态变化  |  成品  
+----  |  ----  |  ----  |  ----  |  ----  
+1. [粘土](Clay.md) x 1 + [抗裂剂(组)](GpTag_Temper.md) x 1  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+2  |  [未烧制的陶碗](ClayBowlUnfired.md)(+1)  

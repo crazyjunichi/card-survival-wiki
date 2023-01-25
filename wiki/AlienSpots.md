@@ -1,6 +1,7 @@
 # 外星斑点  
 变化范围: 0 ~ 1500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 300  |  <img decoding="async" src="Sprite/AlienSpots.png" style="width:20px;">  |    |  [外星植物渴求](AlienCravings.md)加成+0.5<br>[食欲](Appetite.md)+50<br>[外星斑点](AlienSpots.md)加成+0.5  |    

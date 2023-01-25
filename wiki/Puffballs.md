@@ -1,7 +1,7 @@
 # 马勃菌  
 > 能吃。  
   
-  属性  |   图片   
+  马勃菌  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/Puffballs.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [马勃菌](PuffballsPlant.md)  |  采集  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+25<br>[胃](Stomach.md)+8<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)+1<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)+30  
 ## 可拖至  
@@ -22,7 +22,7 @@
 - [丛林沙拉(蓝图)](Bp_JungleSalad.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

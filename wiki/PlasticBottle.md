@@ -1,7 +1,7 @@
 # 塑料瓶  
 > 垃圾也是宝！  
   
-  属性  |   图片   
+  塑料瓶  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**容水量：**300  |  ![](Sprite/PlasticBottleDirty.png)   
   
@@ -14,11 +14,11 @@
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [岩滩](Rocks.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-收集雨水<br>  |  -  |  [降水值](RainValue.md):1-5  |  undefined + 10000<br>  |    
+收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [茉莉花](JasmineFlowers.md)  |  插花  |  -  |    |  自身:<br>→ [茉莉花](PlasticBottleJasmine.md)<br><br>  |    
 ## 可拖至  

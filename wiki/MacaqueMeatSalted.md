@@ -1,12 +1,12 @@
 # 腌猕猴肉  
 > 咸咸的，很美味！  
   
-  属性  |   图片   
+  腌猕猴肉  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/MonkeyMeat.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)+5<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+45<br>[污垢](Filth.md)+5<br>[钠](Sodium.md)+50<br>[细菌性发烧](BacteriaFever.md)0～+10  
 ## 可拖至  

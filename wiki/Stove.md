@@ -1,7 +1,7 @@
 # 火炉  
 > 我可以在这里烹饪或熏制食物。  
   
-  属性  |   图片   
+  火炉  |   图片   
  ----  |  ----:   
  **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+15<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+25  |  ![](Sprite/StoveOn.png)   
   
@@ -10,12 +10,12 @@
 ----  |  ----  
 [火炉(熄灭)](StoveExtinguished.md) , [火种](TinderLit.md)  |  点燃  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" style="width:20px;">  -16<br><br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [火炉(熄灭)](StoveExtinguished.md)<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [椰子壳](CoconutShell.md)  |  添入椰子壳  |  -  |    |  自身:<br>燃料 + 3<br><br>  |    
 [木材](Wood.md)  |  添入柴火  |  -  |    |  自身:<br>燃料 + 28<br><br>  |    
@@ -26,7 +26,7 @@
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md)  
 ## 转化  
-放入  |  动作  |  时间  |  变化  |  状态  
+放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [蝙蝠尸体](Bat.md)  |  蝙蝠肉  |  30分  |  [烤蝙蝠](BatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [鸟肉](BirdMeat.md)  |  鸟肉  |  30分  |  [烤鸟肉](BirdMeatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
@@ -119,12 +119,12 @@
 [未烹饪的参薯咖喱](YamCurryUncooked.md)  |  参薯咖喱  |  45分  |  [参薯咖喱](YamCurry.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的蛋炒饭](EggFriedRiceUncooked.md)  |  蛋炒饭  |  30分  |  [蛋炒饭](EggFriedRice.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的参薯酱](YamJamUncooked.md)  |  参薯酱  |  45分  |  [熟参薯酱](YamJamCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>→ [火炉(熄灭)](StoveExtinguished.md)  
 <img decoding="async" src="Sprite/Charcoal.png" style="width:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
-## 被动效果 (每15分钟)  
-名称  |  条件  |  变化  |  玩家状态  
+## 被动效果  
+名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Comfort  |    |    |  [舒适度](Comfort.md)+150  

@@ -1,7 +1,7 @@
 # 小树枝  
 > 可以作为燃料或者制作一些别的东西，比如手钻什么的。  
   
-  属性  |   图片   
+  小树枝  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“燃料”](tag_Sticks.md)  |  ![](Sprite/Kindling.png)   
   
@@ -49,32 +49,32 @@
 [海湾](Bay.md)  |  随便逛逛  
 [沙滩](Beach.md)  |  随便逛逛  
 [丛林深处](DeepJungle.md)  |  探索  
-[丛林深处](DeepJungle.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林深处](DeepJungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林深处](DeepJungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [荒芜沙滩](DesolateBeach.md)  |  探索  
 [荒芜沙滩](DesolateBeach.md)  |  探索  
 [东部草原](GrasslandsE.md)  |  探索  
 [西部草原](GrasslandsW.md)  |  探索  
-[东部高地](HighlandsEastern.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[东部高地](HighlandsEastern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [东部高地](HighlandsEastern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [西部高地](HighlandsWestern.md)  |  探索  
-[西部高地](HighlandsWestern.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[西部高地](HighlandsWestern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [西部高地](HighlandsWestern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林](Jungle.md)  |  探索  
-[丛林](Jungle.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林](Jungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林](Jungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林高地](JungleHighlands.md)  |  探索  
-[丛林高地](JungleHighlands.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林高地](JungleHighlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林高地](JungleHighlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
-[红树林](Mangroves.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[红树林](Mangroves.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [红树林](Mangroves.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林边缘](Outskirts.md)  |  探索  
-[丛林边缘](Outskirts.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林边缘](Outskirts.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林边缘](Outskirts.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [神秘谷](SecretValley.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
-[湿地丛林](Wetlands.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[湿地丛林](Wetlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [湿地丛林](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [倒下的大树](LargeTreeFelled.md) , [石斧](StoneAxe.md)  |  修整原木  
 [倒下的大树](LargeTreeFelled.md) , [“锤”](tag_Axe.md)  |  修整原木  
@@ -85,10 +85,10 @@
 [野枣丛](WildJujube.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [摘光的野枣从](WildJujubeCleared.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  制作手钻  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [手钻](HandDrill.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[细线](CordFiber.md)  |  制作止血带  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [简易止血带](TourniquetRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
+[“切割工具”](tag_Cutter.md)  |  制作手钻  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [手钻](HandDrill.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[细线](CordFiber.md)  |  制作止血带  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [简易止血带](TourniquetRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [布](Cloth.md), [木材](Wood.md)  
 ## 可用于蓝图  

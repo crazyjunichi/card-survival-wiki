@@ -1,7 +1,7 @@
 # 烟熏炉  
 > 我可以在这里烹饪或熏制食物。  
   
-  属性  |   图片   
+  烟熏炉  |   图片   
  ----  |  ----:   
  **槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/SmokerFire.png)   
   
@@ -10,13 +10,13 @@
 ----  |  ----  
 [烟熏炉(熄灭)](SmokerExtinguished.md) , [火种](TinderLit.md)  |  点燃  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 取出火炭<br>  |  -  |    |  燃料  -4<br><br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [烟熏炉(熄灭)](SmokerExtinguished.md)<br>  |    
 移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br><br>[烟熏炉](SmokerNoFire.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [木材](Wood.md)  |  添入柴火  |  -  |    |  自身:<br>燃料 + 28<br><br>  |    
 [木炭](Charcoal.md)  |  添入木炭  |  -  |    |  自身:<br>燃料 + 25<br><br>  |    
@@ -38,7 +38,7 @@
 [椰子壳](CoconutShell.md)  |  添入椰子壳  |  -  |    |  自身:<br>燃料 + 2<br><br>  |    
 [棕榈叶](PalmFronds.md)  |  添入棕榈叶  |  -  |    |  自身:<br>燃料 + 2<br><br>  |    
 ## 转化  
-放入  |  动作  |  时间  |  变化  |  状态  
+放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [海螺肉](ConchMeat.md)  |  海螺肉  |  30分  |  [烤海螺肉](ConchMeatCooked.md)(+1)  |    
 [松软的海螺肉](ConchMeatSoft.md)  |  松软的海螺肉  |  30分  |  [松软的烤海螺肉](ConchMeatSoftCooked.md)(+1)  |    
@@ -65,7 +65,7 @@
   |  加热  |  30分  |    |    
   |  加热  |  45分  |    |    
   |  烹饪西米糕  |  30分  |    |    
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>[灰烬](Ash.md)0～+1 <br>[木炭](Charcoal.md)0～+1 <br>[火炭](Embers.md)0～+1 <br>→ [烟熏炉(熄灭)](SmokerExtinguished.md)  

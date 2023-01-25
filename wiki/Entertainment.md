@@ -1,6 +1,7 @@
 # 娱乐  
 变化范围: 0 ~ 96  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Entertainment.png" style="width:20px;">无聊  |    |  [压力](Stress.md)加成+0.5  |    

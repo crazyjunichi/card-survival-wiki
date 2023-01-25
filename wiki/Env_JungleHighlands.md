@@ -1,7 +1,7 @@
 # 丛林高地  
 > 一片茂密多山的丛林  
   
-  属性  |   图片   
+  丛林高地  |   图片   
  ----  |  ----:   
  **标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md), [“高地”](tag_Highland.md)<br><br>**初始：**	[丛林高地](JungleHighlands.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[阳光防护](SunProtection.md)+2<br>[蚊虫数量](BugPopulation.md)+3  |  ![](Sprite/Jungle.png)   
   

@@ -1,7 +1,7 @@
 # 骨粉  
 > 可用作肥料。  
   
-  属性  |   图片   
+  骨粉  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)  |  ![](Sprite/Quicklime.png)   
   

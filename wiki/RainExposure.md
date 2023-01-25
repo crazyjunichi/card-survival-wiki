@@ -1,6 +1,7 @@
 # 淋雨  
 变化范围: 0 ~ 5  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">小雨  |  下了点小雨……  |  [湿度](Wetness.md)加成+35<br>[污垢](Filth.md)加成-1  |    

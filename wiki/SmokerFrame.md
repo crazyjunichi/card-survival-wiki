@@ -1,7 +1,7 @@
 # 烟熏炉框架  
 > 我需要加入一些大块布匹或塑料布来完成它。  
   
-  属性  |   图片   
+  烟熏炉框架  |   图片   
  ----  |  ----:   
    |  ![](Sprite/SmokerIncomplete.png)   
   
@@ -11,10 +11,10 @@
 [烟熏炉](SmokerNoFire.md)  |  移除布匹  
 [烟熏炉](SmokerNoFirePlastic.md)  |  移除塑料布  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除树枝<br>  |  15分  |  [光亮](Light.md):10-100  |  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>  |    
+移除树枝<br>  |  15分  |  [光亮](Light.md): 10-100  |  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[塑料布](PlasticSheet.md)  |  覆盖烟熏炉  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [烟熏炉](SmokerNoFirePlastic.md)<br><br>  |    
+[塑料布](PlasticSheet.md)  |  覆盖烟熏炉  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [烟熏炉](SmokerNoFirePlastic.md)<br><br>  |    

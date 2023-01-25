@@ -1,12 +1,12 @@
 # 钝矛头  
 > 想重新使用需要用石头先打磨一下。  
   
-  属性  |   图片   
+  钝矛头  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“锤”](tag_Hammer.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/SpearHead.png)   
   
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [矛头](SpearHead.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[金工(技能)](Skill_Metalworking.md)+0.5  
 ## 可拖至  

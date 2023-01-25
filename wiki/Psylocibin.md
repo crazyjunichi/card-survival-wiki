@@ -1,6 +1,7 @@
 # 蛇床子素  
 变化范围: 0 ~ 16  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 8  |  <img decoding="async" src="Sprite/Pyslocibin.png" style="width:20px;">低剂量  |    |  [疼痛](Pain.md)-25<br>[恶心](Nausea.md)加成+0.5<br>[精神失常](MindState.md)加成+20<br>[情绪](Morale.md)加成+2<br>[蛇床子素](Psylocibin.md)加成-1  |    

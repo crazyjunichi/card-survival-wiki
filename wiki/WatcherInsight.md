@@ -1,6 +1,7 @@
 # 监视者的注视  
 变化范围: 0 ~ 2  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">监视者的凝视  |    |  [监视者的凝视](WatchersGlare.md)加成+10  |    

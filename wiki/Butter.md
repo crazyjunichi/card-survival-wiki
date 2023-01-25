@@ -1,7 +1,7 @@
 # 黄油  
 > 一块黄油  
   
-  属性  |   图片   
+  黄油  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  ![](Sprite/Butter.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [黄油(蓝图)](Bp_Butter.md)  |  蓝图制造  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+40<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)-3<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+100<br>[污垢](Filth.md)+3<br>[细菌性发烧](BacteriaFever.md)0～+10  
 ## 可拖至  
@@ -31,8 +31,8 @@
 - [参薯酱(蓝图)](Bp_YamJam.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：2016<br>最大：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
 使用次数  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **  

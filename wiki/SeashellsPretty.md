@@ -1,7 +1,7 @@
 # 漂亮贝壳  
 > 一些漂亮的贝壳，可以做一些好康的东西。  
   
-  属性  |   图片   
+  漂亮贝壳  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/PrettySeashells.png)   
   

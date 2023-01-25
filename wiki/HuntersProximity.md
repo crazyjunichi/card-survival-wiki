@@ -1,6 +1,7 @@
 # 猎手接近  
 变化范围: -96 ~ 96  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 24  |  <img decoding="async" src="Sprite/HunterProximity.png" style="width:20px;">我在被追杀  |  有什么发现了我的行踪……  |  [压力](Stress.md)加成+0.75  |    

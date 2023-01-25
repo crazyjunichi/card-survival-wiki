@@ -1,6 +1,7 @@
 # 降水值  
 变化范围: 0 ~ 5  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/RainLight.png" style="width:20px;">少量降水  |    |  [淋雨](RainExposure.md)+1<br>[蚊虫数量](BugPopulation.md)-2  |    

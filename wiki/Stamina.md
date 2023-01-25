@@ -1,6 +1,7 @@
 # 耐力  
 变化范围: 0 ~ 32  
 基础变化率: +2 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">昏厥  |  Zzz……  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100  |    

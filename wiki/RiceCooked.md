@@ -1,7 +1,7 @@
 # 米饭  
 > 美味。  
   
-  属性  |   图片   
+  米饭  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/RiceCooked.png)   
   
@@ -19,7 +19,7 @@
 [浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
 [浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+25<br>[米饭效果](RiceEffect.md)+4<br>[水分](Hydration.md)-1<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)+35<br>[污垢](Filth.md)+5<br>[压力](Stress.md)-7<br>[情绪](Morale.md)+1  
 ## 可拖至  
@@ -31,7 +31,7 @@
 - [寿司(蓝图)](Bp_Sushi.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

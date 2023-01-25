@@ -1,7 +1,7 @@
 # 铜制贝壳  
 > 一个漂亮的铜制贝壳。  
   
-  属性  |   图片   
+  铜制贝壳  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“高级装饰品”](tag_DecorationAdv.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/CopperDecoration_Seashell.png)   
   

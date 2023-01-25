@@ -1,7 +1,7 @@
 # 脂肪  
 > 一大块脂肪  
   
-  属性  |   图片   
+  脂肪  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“喂”](tag_Meat.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  ![](Sprite/Fat.png)   
   
@@ -19,11 +19,11 @@
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+40<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)-3<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+100<br>[污垢](Filth.md)+3<br>[细菌性发烧](BacteriaFever.md)0～+10  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [碱液](LQ_Lye.md)  |  浸泡  |  -  |    |  自身:<br>→ [肥皂混合物](LQ_SoapMix.md)<br>耐久  -900<br><br>使用物:<br>→ [肥皂混合物](LQ_SoapMix.md)<br><br>  |    
 ## 可拖至  
@@ -49,8 +49,8 @@
 - [水袋(蓝图)](Bp_Waterskin.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
 使用次数  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **  

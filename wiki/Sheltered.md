@@ -1,6 +1,7 @@
 # 遮蔽  
 变化范围: 0 ~ 1  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/Durability.png" style="width:20px;">受到庇护  |  外面的天气无法影响到你了。  |    |    
@@ -34,4 +35,33 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[简易床(蓝图)](Bp_BedRustic.md)  |  蓝图制造  |  1  
+[木床(蓝图)](Bp_BedWooden.md)  |  蓝图制造  |  1  
+[书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  1  
+[椅子(蓝图)](Bp_Chair.md)  |  蓝图制造  |  1  
+[架子(蓝图)](Bp_Shelf.md)  |  蓝图制造  |  1  
+[火炉(蓝图)](Bp_Stove.md)  |  蓝图制造  |  1  
+[木桌(蓝图)](Bp_Table.md)  |  蓝图制造  |  1  
 [诱捕笼](CageTrap.md)  |  放置  |  0  
+[蜂箱(蓝图)](Bp_BeeSkep.md)  |  蓝图制造  |  0  
+[地窖(蓝图)](Bp_Cellar.md)  |  蓝图制造  |  0  
+[水窖(蓝图)](Bp_Cistern.md)  |  蓝图制造  |  0  
+[农田(蓝图)](Bp_CropPlot.md)  |  蓝图制造  |  0  
+[畜栏(蓝图)](Bp_Enclosure.md)  |  蓝图制造  |  0  
+[熔炉(蓝图)](Bp_Forge.md)  |  蓝图制造  |  0  
+[窑炉(蓝图)](Bp_Kiln.md)  |  蓝图制造  |  0  
+[高级窑炉(蓝图)](Bp_KilnAdvanced.md)  |  蓝图制造  |  0  
+[原木陷阱(蓝图)](Bp_LogTrap.md)  |  蓝图制造  |  0  
+[泥屋(蓝图)](Bp_MudHut.md)  |  蓝图制造  |  0  
+[硝石矿床(蓝图)](Bp_NiterBed.md)  |  蓝图制造  |  0  
+[集雨器(蓝图)](Bp_Raincatcher.md)  |  蓝图制造  |  0  
+[水稻田(蓝图)](Bp_RicePaddy.md)  |  蓝图制造  |  0  
+[稻草人(蓝图)](Bp_Scarecrow.md)  |  蓝图制造  |  0  
+[棚屋(蓝图)](Bp_Shed.md)  |  蓝图制造  |  0  
+[套索陷阱(蓝图)](Bp_SnareTrap.md)  |  蓝图制造  |  0  
+[太阳能蒸馏器(蓝图)](Bp_SolarStill.md)  |  蓝图制造  |  0  
+[石屋(蓝图)](Bp_StoneHut.md)  |  蓝图制造  |  0  
+[陷坑(蓝图)](Bp_TrappingPit.md)  |  蓝图制造  |  0  
+[蓄水池(蓝图)](Bp_WaterReservoir.md)  |  蓝图制造  |  0  
+[水槽(蓝图)](Bp_WateringTrough.md)  |  蓝图制造  |  0  
+[水井(蓝图)](Bp_Well.md)  |  蓝图制造  |  0  

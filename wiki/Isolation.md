@@ -1,6 +1,7 @@
 # 孤立感  
 变化范围: 0 ~ 8640  
 基础变化率: +1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 900 ～ 2440  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">低孤立感  |    |  [孤独感](Loneliness.md)加成+1  |    

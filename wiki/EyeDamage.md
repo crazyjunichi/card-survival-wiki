@@ -1,6 +1,7 @@
 # 眼部损伤  
 变化范围: 0 ~ 384  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 97 ～ 192  |  <img decoding="async" src="Sprite/EyeDamage.png" style="width:20px;">轻度眼部损伤  |    |  [视力](Myopia.md)+1  |    

@@ -1,7 +1,7 @@
 # 废铜  
 > 一个失败的铜制装饰品。  
   
-  属性  |   图片   
+  废铜  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“美丽的/好看的”](tag_Pretty.md), [“铜制小物件”](tag_CopperSmall.md)  |  ![](Sprite/CopperDecoration_Failed.png)   
   

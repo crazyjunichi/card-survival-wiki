@@ -1,7 +1,7 @@
 # 剥皮的蛇  
 > 或许可以烤一下。  
   
-  属性  |   图片   
+  剥皮的蛇  |   图片   
  ----  |  ----:   
  **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/SkinnedSnake.png)   
   
@@ -13,7 +13,7 @@
 [海蛇尸体](SeaKraitDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
 [海蛇尸体](SeaKraitDead.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+25<br>[胃](Stomach.md)+20<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[爬行类厌倦度](SaturationReptile.md)+30<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+200<br>[细菌性腹泻](BacteriaDiarrhoea.md)0～+100<br>[寄生虫](Parasites.md)0～+150  
 ## 可拖至  
@@ -26,7 +26,7 @@
 [烤蛇肉](SnakeCooked.md)  |  [火堆](Fire.md)  
 [烤蛇肉](SnakeCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤蛇肉](SnakeCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

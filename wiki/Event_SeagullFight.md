@@ -1,7 +1,7 @@
 # 一只海鸥！  
 > 我该试试去抓住它吗？  
   
-  属性  |   图片   
+  一只海鸥！  |   图片   
  ----  |  ----:   
    |  ![](Sprite/Seagull.png)   
   
@@ -12,7 +12,7 @@
 [荒芜沙滩](DesolateBeach.md)  |  探索  
 [岩滩](Rocks.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 朝它砸石头<br>  |  15分  |    |  [(事件)拿下了！](Event_SeagullFightSuccess.md)(+1)<br>基础权重：0<br>- [投石(技能)](Skill_RockThrowing.md)为1～150时权重0～+50<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>[(事件)它逃跑了！](Event_SeagullFightFailure.md)(+1)<br>基础权重：50<br>  |  [投石(技能)](Skill_RockThrowing.md)+0.5  
 使用投索<br>  |  15分  |  [投石索](Sling.md)  |  [(事件)拿下了！](Event_SeagullFightSuccess.md)(+1)<br>基础权重：0<br>- [投石索(技能)](Skill_Sling.md)为1～150时权重0～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>[(事件)它逃跑了！](Event_SeagullFightFailure.md)(+1)<br>基础权重：30<br><br>** 相关卡牌 **<br>[投石索](Sling.md)可用次数  -1<br>  |  [投石索(技能)](Skill_Sling.md)+1  

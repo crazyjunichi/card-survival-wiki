@@ -1,7 +1,7 @@
 # 粘土  
 > 一块粘土。  
   
-  属性  |   图片   
+  粘土  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/Clay.png)   
   
@@ -15,9 +15,9 @@
 [细土](FineDirt.md) , [“水”](tag_WaterAny.md)  |  加水搅拌  
 [装饰品模具](MoldCopperDecoration.md)  |  回收  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“抗裂剂”](tag_Temper.md)  |  制作碗  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br><br>  |    
+[“抗裂剂”](tag_Temper.md)  |  制作碗  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br><br>  |    
 ## 可用于蓝图  
 - [熏蜂器(蓝图)](Bp_BeeSmoker.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

@@ -1,7 +1,7 @@
 # 鸟骨  
 > 可以做成钩或者针。  
   
-  属性  |   图片   
+  鸟骨  |   图片   
  ----  |  ----:   
  **重量：**25  |  ![](Sprite/BirdBones.png)   
   
@@ -21,10 +21,10 @@
 [海鸥尸体](SeagullDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
 [海鸥尸体](SeagullDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作钩<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md):10-100  |  → [骨钩](HookBone.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
-制作针<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md):10-100  |  → [骨针](BoneNeedle.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
+制作钩<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨钩](HookBone.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
+制作针<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨针](BoneNeedle.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
 ## 可用于蓝图  
 - [海鸥护符(蓝图)](Bp_SeagullCharm.md)  
   

@@ -1,7 +1,7 @@
 # 芒果  
 > 是芒果！  
   
-  属性  |   图片   
+  芒果  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/MangoFruit.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [芒果树](MangoTree.md)  |  采集  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+6<br>[水分](Hydration.md)+8<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+3<br>[水果<nobr>厌倦度</nobr>](SaturationFruits.md)+45<br>[污垢](Filth.md)+3  
 ## 可拖至  
@@ -19,7 +19,7 @@
 - [丛林沙拉(蓝图)](Bp_JungleSalad.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

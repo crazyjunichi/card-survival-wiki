@@ -1,6 +1,7 @@
 # 清醒度  
 变化范围: 0 ~ 192  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 65 ～ 128  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">困了  |  越来越困了（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-1<br>[精神失常](MindState.md)加成+0.5<br>[世界观](Structure.md)加成-0.75<br>[压力](Stress.md)加成+0.5  |    

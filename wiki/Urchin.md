@@ -1,7 +1,7 @@
 # 海胆  
 > 我得把里面那玩意儿整出来。  
   
-  属性  |   图片   
+  海胆  |   图片   
  ----  |  ----:   
  **重量：**100  |  ![](Sprite/Urchin.png)   
   
@@ -20,6 +20,6 @@
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  破开海胆  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海胆肉](UrchinMeat.md)(+1)<br>基础权重：1<br><br>  |    
+[“锤”](tag_Hammer.md)  |  破开海胆  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海胆肉](UrchinMeat.md)(+1)<br>基础权重：1<br><br>  |    

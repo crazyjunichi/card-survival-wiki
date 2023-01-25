@@ -1,7 +1,7 @@
 # 椰子皮  
 > 能从中提取纤维。  
   
-  属性  |   图片   
+  椰子皮  |   图片   
  ----  |  ----:   
  **重量：**15<br><br>**标签：**	[“燃料”](tag_Fuel.md)  |  ![](Sprite/CoconutHusk.png)   
   
@@ -13,7 +13,7 @@
 [青椰子](CoconutHusked.md) , [“锤”](tag_Hammer.md)  |  剥  
 [猕猴朋友](MacaqueFriend.md) , [青椰子](CoconutHusked.md)  |  剥椰子  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 提取纤维<br>[手部动作](HandAction.md)  |  15分  |    |  → [纤维](Fibers.md)<br><br>[纤维](Fibers.md)(+2)<br>  |  [压力](Stress.md)-10  
 ## 可拖至  

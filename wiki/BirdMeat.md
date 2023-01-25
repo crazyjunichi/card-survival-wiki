@@ -1,7 +1,7 @@
 # 鸟肉  
 > 生吃时不是特别好吃。  
   
-  属性  |   图片   
+  鸟肉  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/SeagullMeat.png)   
   
@@ -17,7 +17,7 @@
 [海鸥尸体](SeagullDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
 [海鸥尸体](SeagullDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+18<br>[胃](Stomach.md)+16<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)+2<br>[鸟类<nobr>厌倦度</nobr>](SaturationBird.md)+45<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+200<br>[细菌性腹泻](BacteriaDiarrhoea.md)0～+100<br>[寄生虫](Parasites.md)0～+150  
 ## 可拖至  
@@ -34,7 +34,7 @@
 [烤鸟肉](BirdMeatCooked.md)  |  [火堆](Fire.md)  
 [烤鸟肉](BirdMeatCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤鸟肉](BirdMeatCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

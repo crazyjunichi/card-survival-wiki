@@ -1,7 +1,7 @@
 # Event_WestonSpecial2b_CardName  
 > Event_WestonSpecial2b_CardDescription  
   
-  属性  |   图片   
+  Event_WestonSpecial2b_CardName  |   图片   
  ----  |  ----:   
    |  ![](Sprite/Weston.png)   
   
@@ -10,6 +10,6 @@
 ----  |  ----  
 [(事件)Event_WestonSpecial2a_CardName](Event_WestonSpecial2a.md)  |  Event_WestonSpecial2a_DismantleActions[0].ActionName  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Event_WestonSpecial2b_DismantleActions[0].ActionName<br>  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1c.md)(+1)<br>  |    

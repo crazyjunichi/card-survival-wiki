@@ -1,7 +1,7 @@
 # 芦荟膏  
 > 适用于几乎各种情况：晒伤、背痛、虫咬、伤口，诸如此类。  
   
-  属性  |   图片   
+  芦荟膏  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md), [“有机的”](tag_Organic.md)  |  ![](Sprite/AloeVeraGel.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [芦荟膏(蓝图)](Bp_AloeGel.md)  |  蓝图制造  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+20<br>[情绪](Morale.md)-2<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+35<br>[腹泻](Diarrhoea.md)+35  
 涂抹<br>[手部动作](HandAction.md)  |  -  |    |    |  [芦荟膏防护](AloeVeraGelProtection.md)+48  
@@ -21,7 +21,7 @@
 - [驱虫膏(蓝图)](Bp_BugRepellent.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：336  |  每15分钟-1<br>最多需要：3天12小时  |  ** 到达0时： **  

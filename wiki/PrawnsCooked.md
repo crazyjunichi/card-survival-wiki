@@ -1,7 +1,7 @@
 # 烤虾  
 > 可以吃，也可以用作诱饵。  
   
-  属性  |   图片   
+  烤虾  |   图片   
  ----  |  ----:   
  **重量：**10<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“可烹饪的”](tag_Cookable.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/PrawnsCooked.png)   
   
@@ -14,7 +14,7 @@
 [虾](Prawns.md) , [瓦斯炉(开)](GasCookerOn.md)  |  虾  
 [虾](Prawns.md) , [火炉](Stove.md)  |  虾  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[ShellfishAction](ShellfishAction.md)<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+7<br>[胃](Stomach.md)+3<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+2<br>[情绪](Morale.md)+1<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)+10  
 ## 可拖至  
@@ -32,7 +32,7 @@
 [烧焦物](CharredRemains.md)  |  [火堆](Fire.md)  
 [烧焦物](CharredRemains.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烧焦物](CharredRemains.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

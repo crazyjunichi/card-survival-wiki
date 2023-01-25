@@ -1,6 +1,7 @@
 # 手掌损伤  
 变化范围: 0 ~ 1000  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">我的手掌好疼  |  割伤和擦伤使我很难用手工作。  |  [手茧](CallousesHands.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    

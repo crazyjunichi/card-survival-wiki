@@ -1,7 +1,7 @@
 # 铲子头  
 > 可被用来制作铲子。  
   
-  属性  |   图片   
+  铲子头  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)  |  ![](Sprite/ShovelHead.png)   
   

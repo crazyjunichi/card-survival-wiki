@@ -1,6 +1,7 @@
 # 情绪  
 变化范围: -350 ~ 350  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 326 ～ 350  |  <img decoding="async" src="Sprite/Euphoric.png" style="width:20px;">欢欣  |  我对生活很满意  |  [免疫系统](ImmuneSystem.md)+100<br>[情绪](Morale.md)加成-3<br>[世界观](Structure.md)加成-4<br>[孤独感](Loneliness.md)加成-1<br>[狂躁](Mania.md)加成+0.75<br>[失实症](Derealization.md)加成-100  |    

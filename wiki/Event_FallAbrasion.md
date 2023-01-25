@@ -1,7 +1,7 @@
 # 坠落！  
 > 你摔了下去，身上多了些难看的擦伤……  
   
-  属性  |   图片   
+  坠落！  |   图片   
  ----  |  ----:   
    |  ![](Sprite/WeatherPartiallyCloudy_Full.png)   
   
@@ -50,6 +50,6 @@
 [椰子树](PalmTree_Unique.md)  |  爬树摘椰子  
 [海鸥巢](SeagullNest.md)  |  攀爬  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 真他妈不错<br>  |  -  |    |  → [椰子树](PalmTreeOld.md)<br><br>[擦伤](W_Abrasion.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [污垢](Filth.md)+30  

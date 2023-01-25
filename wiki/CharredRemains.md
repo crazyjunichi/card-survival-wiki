@@ -1,7 +1,7 @@
 # 烧焦物  
 > 这坨面目全非的烧焦物恐怕不宜食用。  
   
-  属性  |   图片   
+  烧焦物  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/Charcoal.png)   
   
@@ -16,11 +16,11 @@
 [烤海螺肉](ConchMeatCooked.md) , [松软的烤海螺肉](ConchMeatSoftCooked.md) , [烤螃蟹](CrabCooked.md) , [烤热带杏仁](TropicalAlmondsRoasted.md) , [烤蛋](EggCooked.md) , [水煮蛋](EggBoiled.md) , [烟熏炉](Smoker.md)  |  烧焦物  
 [烤海螺肉](ConchMeatCooked.md) , [松软的烤海螺肉](ConchMeatSoftCooked.md) , [烤螃蟹](CrabCooked.md) , [烤热带杏仁](TropicalAlmondsRoasted.md) , [烤蛋](EggCooked.md) , [水煮蛋](EggBoiled.md) , [烟熏炉](SmokerPlastic.md)  |  烧焦物  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 吃烧焦物<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)-5<br>[情绪](Morale.md)-15<br>[腹泻](Diarrhoea.md)-7  
 丢弃<br>  |  -  |    |    |    
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **  

@@ -1,7 +1,7 @@
 # 军刀  
 > 一把坚固的军用小刀，非常好用。<br>变钝后可以再次打磨锋利。  
   
-  属性  |   图片   
+  军刀  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“锤”](tag_Hammer.md), [“军用的”](tag_Military.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**60  |  ![](Sprite/MilitaryKnife.png)   
   
@@ -12,7 +12,7 @@
 [军刀](KnifeMilitary.md) , [石头](Stone.md)  |  磨利  
 [钝刀](KnifeMilitaryBlunt.md) , [石头](Stone.md)  |  磨利  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [军刀](KnifeMilitary.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 ## 可拖至  
@@ -77,7 +77,7 @@
 - [木针(蓝图)](Bp_WoodenNeedles.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：60  |  -  |  ** 到达0时： **<br>→ [钝刀](KnifeMilitaryBlunt.md)  

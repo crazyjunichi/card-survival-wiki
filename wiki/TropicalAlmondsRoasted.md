@@ -1,7 +1,7 @@
 # 烤热带杏仁  
 > 美味。  
   
-  属性  |   图片   
+  烤热带杏仁  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/TropicalAlmondRoasted.png)   
   
@@ -16,7 +16,7 @@
 [热带杏仁核](TropicalAlmondKernels.md) , [烟熏炉](Smoker.md)  |  热带杏仁  
 [热带杏仁核](TropicalAlmondKernels.md) , [烟熏炉](SmokerPlastic.md)  |  热带杏仁  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[NutAction](NutAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+12<br>[水分](Hydration.md)+4<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+2<br>[坚果<nobr>厌倦度</nobr>](SaturationNuts.md)+35  
 ## 可拖至  
@@ -35,7 +35,7 @@
 [烧焦物](CharredRemains.md)  |  [火炉](Stove.md)  
 [烧焦物](CharredRemains.md)  |  [烟熏炉](Smoker.md)  
 [烧焦物](CharredRemains.md)  |  [烟熏炉](SmokerPlastic.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

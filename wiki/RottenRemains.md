@@ -1,7 +1,7 @@
 # 腐烂物  
 > 恶……  
   
-  属性  |   图片   
+  腐烂物  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  ![](Sprite/RottenRemains.png)   
   
@@ -13,7 +13,7 @@
 [腐烂的椰子](CoconutRotten.md) , [“锤”](tag_Hammer.md)  |  敲开  
 [食丸](GastricPellet.md)  |  采集  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>  |  15分  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)-15<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)+300～+600<br>[腹泻](Diarrhoea.md)+300～+600<br>[寄生虫](Parasites.md)+50～+100  
 ## 可拖至  
@@ -23,7 +23,7 @@
 - [水稻田(蓝图)](Bp_RicePaddy.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **  

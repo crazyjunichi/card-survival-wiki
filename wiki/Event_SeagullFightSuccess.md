@@ -1,7 +1,7 @@
 # 拿下了！  
 > 我抓到海鸥了！  
   
-  属性  |   图片   
+  拿下了！  |   图片   
  ----  |  ----:   
    |  ![](Sprite/Seagull.png)   
   
@@ -24,6 +24,6 @@
 [(事件)一只海鸥！](Event_SeagullRaidCrop.md)  |  用弓箭攻击  
 [(事件)一只海鸥！](Event_SeagullRaidCrop.md)  |  用枪攻击！  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 继续<br>  |  -  |    |  [海鸥尸体](SeagullDead.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  

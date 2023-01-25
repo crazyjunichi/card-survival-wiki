@@ -1,9 +1,9 @@
 # 箭筒  
 > 我可以把箭放在这里。<b>可以装备在装备槽上</b>  
   
-  属性  |   图片   
+  箭筒  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**6<br><br>**过滤器：**  |  ![](Sprite/Quiver.png)   
+ **重量：**150<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**6  |  ![](Sprite/Quiver.png)   
   
 ## 获取来源  
 来源  |  操作  

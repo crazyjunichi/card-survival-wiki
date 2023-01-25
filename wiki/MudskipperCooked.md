@@ -1,7 +1,7 @@
 # 烤弹涂鱼  
 > 如果肉多点就好了。  
   
-  属性  |   图片   
+  烤弹涂鱼  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md), [“鱼肉”](tag_Fish.md)  |  ![](Sprite/MudskipperCooked.png)   
   
@@ -14,7 +14,7 @@
 [弹涂鱼](Mudskipper.md) , [瓦斯炉(开)](GasCookerOn.md)  |  弹涂鱼  
 [弹涂鱼](Mudskipper.md) , [火炉](Stove.md)  |  弹涂鱼  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+6<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)+2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[污垢](Filth.md)+4  
 ## 可拖至  
@@ -27,7 +27,7 @@
 [烧焦物](CharredRemains.md)  |  [火堆](Fire.md)  
 [烧焦物](CharredRemains.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烧焦物](CharredRemains.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

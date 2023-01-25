@@ -1,7 +1,7 @@
 # 喷毒眼镜蛇！  
 > 我应该攻击它还是不管它？  
   
-  属性  |   图片   
+  喷毒眼镜蛇！  |   图片   
  ----  |  ----:   
  **标签：**	[“战斗事件”](tag_FightEvent.md)  |  ![](Sprite/SpittingCobra.png)   
   
@@ -13,7 +13,7 @@
 [东部高地](HighlandsEastern.md)  |  探索  
 [西部高地](HighlandsWestern.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 用长矛攻击！<br>  |  30分  |  [“一级矛”](tag_Spear.md)  |  [(事件)成功！](Event_CobraFightSuccess.md)(+1)<br>基础权重：10<br>- [矛战(技能)](Skill_SpearFighting.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br><br>[(事件)胜负参半](Event_CobraFightMixedSuccess.md)(+1)<br>基础权重：20<br>- [矛战(技能)](Skill_SpearFighting.md)为0～100时权重0～+75<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-60<br><br>[(事件)它逃跑了！](Event_CobraFightFailure.md)(+1)<br>基础权重：20<br><br>[(事件)我被它伤到了……](Event_CobraFightBadFailure.md)(+1)<br>基础权重：20<br><br>** 相关卡牌 **<br>[“一级矛”](tag_Spear.md)可用次数  -5<br>  |  [矛战(技能)](Skill_SpearFighting.md)+1  
 用弓箭攻击！<br>  |  30分  |  [简易的弓](BowRustic.md)<br>[简易箭矢](ArrowSimple.md)  |  [(事件)成功！](Event_CobraFightSuccess.md)(+1)<br>基础权重：15<br>- [箭术(技能)](Skill_Archery.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br>- [视力](Myopia.md)为0～3时权重0～-100<br><br>[(事件)胜负参半](Event_CobraFightMixedSuccess.md)(+1)<br>基础权重：15<br>- [箭术(技能)](Skill_Archery.md)为0～100时权重0～+75<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-60<br><br>[(事件)它逃跑了！](Event_CobraFightFailure.md)(+1)<br>基础权重：40<br><br>[(事件)我被它伤到了……](Event_CobraFightBadFailure.md)(+1)<br>基础权重：10<br><br>** 相关卡牌 **<br>[简易的弓](BowRustic.md)可用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -3<br>  |  [箭术(技能)](Skill_Archery.md)+1  

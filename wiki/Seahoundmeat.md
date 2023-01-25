@@ -1,7 +1,7 @@
 # 海怪肉  
 > 做熟后味道会更好。  
   
-  属性  |   图片   
+  海怪肉  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/SeahoundMeat.png)   
   
@@ -15,7 +15,7 @@
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+20<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)+45<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+50<br>[寄生虫](Parasites.md)0～+75<br>[海怪寄生虫](ParasitesSeahound.md)0～+75  
 ## 可拖至  
@@ -28,7 +28,7 @@
 [烤海怪肉](SeahoundCooked.md)  |  [火堆](Fire.md)  
 [烤海怪肉](SeahoundCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤海怪肉](SeahoundCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

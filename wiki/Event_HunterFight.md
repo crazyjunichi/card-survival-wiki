@@ -1,12 +1,12 @@
 # 猎手来了  
 > 你要面对祂还是逃离祂？  
   
-  属性  |   图片   
+  猎手来了  |   图片   
  ----  |  ----:   
  **标签：**	[“战斗事件”](tag_FightEvent.md)  |  ![](Sprite/Hunter.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 用长矛攻击！<br>  |  -  |  [“一级矛”](tag_Spear.md)  |  [(事件)猎手被击败了！](Event_HunterFightSuccess.md)(+1)<br>基础权重：10<br>- [矛战(技能)](Skill_SpearFighting.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br><br>[(事件)我失败了！](Event_HunterFightBadFailure.md)(+1)<br>基础权重：150<br>- [压力](Stress.md)为0～240时权重0～+100<br><br>** 相关卡牌 **<br>[“一级矛”](tag_Spear.md)可用次数  -30<br><br>** 相关卡牌 **<br>[盾牌](Shield.md)可用次数  -15<br>  |  [矛战(技能)](Skill_SpearFighting.md)+1  
 用弓箭攻击！<br>  |  -  |  [简易的弓](BowRustic.md)<br>[简易箭矢](ArrowSimple.md)  |  [(事件)猎手被击败了！](Event_HunterFightSuccess.md)(+1)<br>基础权重：15<br>- [箭术(技能)](Skill_Archery.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br>- [视力](Myopia.md)为0～3时权重0～-100<br><br>[(事件)我失败了！](Event_HunterFightBadFailure.md)(+1)<br>基础权重：150<br>- [压力](Stress.md)为0～240时权重0～+100<br><br>** 相关卡牌 **<br>[简易的弓](BowRustic.md)可用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -3<br>  |  [箭术(技能)](Skill_Archery.md)+1  

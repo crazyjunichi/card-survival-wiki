@@ -1,6 +1,7 @@
 # 钠  
 变化范围: 0 ~ 400  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 101 ～ 200  |  <img decoding="async" src="Sprite/Salt.png" style="width:20px;">高钠含量  |    |  [水分](Hydration.md)加成-1<br>[恶心](Nausea.md)加成+1  |    

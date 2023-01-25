@@ -1,7 +1,7 @@
 # 食丸  
 > 一团恶心的球，里面好像有毛发、骨头以及……鬼知道这是啥玩意。  
   
-  属性  |   图片   
+  食丸  |   图片   
  ----  |  ----:   
  **重量：**350<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  ![](Sprite/GastricPellet.png)   
   
@@ -12,7 +12,7 @@
 [东部草原](GrasslandsE.md)  |  探索  
 [西部草原](GrasslandsW.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 采集<br>  |  15分  |    |  [骨头](Bones.md)(0～+1)<br>[腐烂物](RottenRemains.md)(+1～+3)<br>  |  [污垢](Filth.md)+10～+25<br>[细菌性发烧](BacteriaFever.md)+10～+50<br>[细菌性腹泻](BacteriaDiarrhoea.md)+10～+50  
 ## 可拖至  

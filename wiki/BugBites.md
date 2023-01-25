@@ -1,6 +1,7 @@
 # 蚊虫叮咬  
 变化范围: 0 ~ 384  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 96 ～ 192  |  <img decoding="async" src="Sprite/BugBites.png" style="width:20px;">蚊虫叮咬  |  痒……  |  [疼痛](Pain.md)+25<br>[皮肤完整度](SkinIntegrity.md)<br>[细菌性斑疹伤寒](BacteriaTyphusPackage.md)-1  |    

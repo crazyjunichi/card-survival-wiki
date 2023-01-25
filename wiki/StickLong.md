@@ -1,7 +1,7 @@
 # 长木棍  
 > 有很多用途，比如搭建庇护所或者削尖成长矛。  
   
-  属性  |   图片   
+  长木棍  |   图片   
  ----  |  ----:   
  **重量：**250<br><br>**标签：**	[“大的”](tag_Large.md)  |  ![](Sprite/StickLong.png)   
   
@@ -39,13 +39,13 @@
 [小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小杏仁树](TropicalAlmondTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-折断长木棍<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md):10-100  |  → [小树枝](Sticks.md)<br>  |    
+折断长木棍<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [小树枝](Sticks.md)<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  削成简易长矛  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>→ [简易长矛](SpearRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
+[“切割工具”](tag_Cutter.md)  |  削成简易长矛  |  1小时  |  [光亮](Light.md): 10-100  |  自身:<br>→ [简易长矛](SpearRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
 [营火](Campfire.md), [粘土火盆](ClayFirePit.md), [火堆](Fire.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerPlastic.md)  
 ## 可用于蓝图  

@@ -1,7 +1,7 @@
 # 未烧制的烹饪锅  
 > 它需要在窑炉里烧制。  
   
-  属性  |   图片   
+  未烧制的烹饪锅  |   图片   
  ----  |  ----:   
  **重量：**250<br><br>**标签：**	[“粘土”](tag_Clay.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/CookingPotClosed.png)   
   

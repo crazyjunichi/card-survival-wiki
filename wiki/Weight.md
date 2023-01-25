@@ -1,6 +1,7 @@
 # 体重  
 变化范围: 0 ~ 15000  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 6721 ～ 15000  |  <img decoding="async" src="Sprite/Perk_Overweight.png" style="width:20px;">过度肥胖  |    |  [体重](Weight.md)加成-4<br>[ModifierLeg_GameName](ModifierLeg.md)+1  |    

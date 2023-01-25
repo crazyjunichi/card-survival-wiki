@@ -1,11 +1,11 @@
 # 铜长矛  
 > 一柄铜长矛。绝佳的狩猎工具。  
   
-  属性  |   图片   
+  铜长矛  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/SpearCopper.png)   
+ ** 解锁需求: **<br>[矛头](SpearHead.md)  |  ![](Sprite/SpearCopper.png)   
   
 ## 制作  
-步骤  |  时间  |  状态  |  成品  
-----  |  ----  |  ----  |  ----  
-1. [长木棍](StickLong.md) x 1 + [细线](CordFiber.md) x 1 + [绳子](Rope.md) x 1 + [矛头](SpearHead.md) x 1  |  1小时  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [铜长矛](SpearCopper.md)(+1)  
+步骤  |  耗时  |  需求  |  状态变化  |  成品  
+----  |  ----  |  ----  |  ----  |  ----  
+1. [长木棍](StickLong.md) x 1 + [细线](CordFiber.md) x 1 + [绳子](Rope.md) x 1 + [矛头](SpearHead.md) x 1  |  1小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10  |  [铜长矛](SpearCopper.md)(+1)  

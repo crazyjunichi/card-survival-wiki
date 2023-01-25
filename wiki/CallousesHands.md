@@ -1,6 +1,7 @@
 # 手茧  
 变化范围: 0 ~ 1000  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">  |    |  [手掌损伤](HandDamage.md)-200  |    

@@ -1,7 +1,7 @@
 # 香蕉  
 > 是香蕉！  
   
-  属性  |   图片   
+  香蕉  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/Banana.png)   
   
@@ -12,7 +12,7 @@
 [一串香蕉](BananaHand.md)  |  分开  
 [香蕉树](BananaTree.md)  |  采摘香蕉  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+10<br>[水分](Hydration.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+2<br>[腹泻](Diarrhoea.md)-5<br>[香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)+45<br>[污垢](Filth.md)+1  
 ## 可拖至  
@@ -22,7 +22,7 @@
 - [丛林沙拉(蓝图)](Bp_JungleSalad.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

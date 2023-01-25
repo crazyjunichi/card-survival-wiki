@@ -1,6 +1,7 @@
 # 体感温度  
 变化范围: -80 ~ 80  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 60 ～ 80  |  <img decoding="async" src="Sprite/Hot.png" style="width:20px;">灼热  |  我要被烤熟了……  |  [过热](Hyperthermia.md)加成+40<br>[湿度](Wetness.md)加成-100<br>[水分](Hydration.md)加成-6  |    

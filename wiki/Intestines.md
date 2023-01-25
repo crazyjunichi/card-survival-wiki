@@ -1,6 +1,7 @@
 # 肠道  
 变化范围: 0 ~ 1000  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 8  |  <img decoding="async" src="Sprite/Intestines.png" style="width:20px;">消化  |    |  [肠道](Intestines.md)加成-1<br>[体重](Weight.md)加成+1  |    

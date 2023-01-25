@@ -1,12 +1,12 @@
 # 钝刀  
 > 想重新使用需要用石头先打磨一下。  
   
-  属性  |   图片   
+  钝刀  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md), [“铜制小物件”](tag_CopperSmall.md)  |  ![](Sprite/CopperKnifeBlunt.png)   
   
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [铜刀](KnifeCopper.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[金工(技能)](Skill_Metalworking.md)+0.5  
 ## 可拖至  

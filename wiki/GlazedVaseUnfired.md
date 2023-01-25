@@ -1,7 +1,7 @@
 # 未烧制的釉面陶罐  
 > 它需要在窑炉里烧制。  
   
-  属性  |   图片   
+  未烧制的釉面陶罐  |   图片   
  ----  |  ----:   
  **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“大的”](tag_Large.md), [“粘土”](tag_Clay.md), [“可泼溅的”](tag_Spillable.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/GlazedVaseUnfired.png)   
   

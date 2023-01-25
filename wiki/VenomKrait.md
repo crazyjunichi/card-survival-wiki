@@ -1,6 +1,7 @@
 # 蛇毒  
 变化范围: 0 ~ 128  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 25  |  <img decoding="async" src="Sprite/Poison.png" style="width:20px;">海蛇毒素  |  你的腿怪怪的……  |  [VenomKraitResistance_GameName](VenomKraitResistance.md)加成+1  |    

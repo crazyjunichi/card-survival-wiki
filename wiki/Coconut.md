@@ -1,7 +1,7 @@
 # 椰子  
 > 我应该用刀钻个孔，这样我就可以喝到里面的椰子水。  
   
-  属性  |   图片   
+  椰子  |   图片   
  ----  |  ----:   
  **重量：**150  |  ![](Sprite/Coconut.png)   
   
@@ -14,10 +14,10 @@
 [青椰子](CoconutHusked.md) , [“锤”](tag_Axe.md)  |  剥  
 [青椰子](CoconutHusked.md) , [“锤”](tag_Hammer.md)  |  剥  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  给椰子钻孔  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [带孔椰子](CoconutPerforated.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [压力](Stress.md)-10  
-[“锤”](tag_Hammer.md)  |  敲开椰子  |  -  |  [光亮](Light.md):10-100  |  使用物:<br>可用次数  -1<br><br>获得:<br>[半个椰子](CoconutHalf.md)(+2)<br>基础权重：1<br><br>  |  [压力](Stress.md)-10  
+[“切割工具”](tag_Cutter.md)  |  给椰子钻孔  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [带孔椰子](CoconutPerforated.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [压力](Stress.md)-10  
+[“锤”](tag_Hammer.md)  |  敲开椰子  |  -  |  [光亮](Light.md): 10-100  |  使用物:<br>可用次数  -1<br><br>获得:<br>[半个椰子](CoconutHalf.md)(+2)<br>基础权重：1<br><br>  |  [压力](Stress.md)-10  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于蓝图  

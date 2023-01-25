@@ -1,7 +1,7 @@
 # 晾晒架  
 > 我可以把蔬菜和肉挂在上面风干。  
   
-  属性  |   图片   
+  晾晒架  |   图片   
  ----  |  ----:   
  **槽位：**4<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/DryingRack.png)   
   
@@ -10,11 +10,11 @@
 ----  |  ----  
 [晾晒架(蓝图)](Bp_DryingRack.md)  |  蓝图制造  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  45分  |    |  [细线](CordFiber.md)(+10)<br>[长木棍](StickLong.md)(+5)<br>  |    
 ## 转化  
-放入  |  动作  |  时间  |  变化  |  状态  
+放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [辣椒](Chilies.md)  |  辣椒  |  3天  |  [干辣椒](ChiliesDried.md)(+1)  |    
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  蜘蛛兰  |  3天  |  [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)(+1)  |    

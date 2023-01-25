@@ -1,7 +1,7 @@
 # 鸟食  
 > 禽类饲料，最适合填充喂食器。  
   
-  属性  |   图片   
+  鸟食  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  ![](Sprite/Rice.png)   
   

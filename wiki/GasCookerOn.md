@@ -1,7 +1,7 @@
 # 瓦斯炉  
 > 完美的烹饪工具。  
   
-  属性  |   图片   
+  瓦斯炉  |   图片   
  ----  |  ----:   
  **标签：**	[“火”](tag_Fire.md), [“大的”](tag_Large.md)<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+10<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/GasCookerOn.png)   
   
@@ -10,17 +10,17 @@
 ----  |  ----  
 [瓦斯炉(关)](GasCookerOff.md)  |  点燃  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 熄灭<br>  |  -  |    |  → [瓦斯炉(关)](GasCookerOff.md)<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [枯叶](LeavesDry.md)  |  点燃火绒  |  -  |    |  使用物:<br>→ [火种](TinderLit.md)<br><br>  |    
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md)  
 ## 转化  
-放入  |  动作  |  时间  |  变化  |  状态  
+放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [蝙蝠尸体](Bat.md)  |  蝙蝠肉  |  30分  |  [烤蝙蝠](BatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [鸟肉](BirdMeat.md)  |  鸟肉  |  30分  |  [烤鸟肉](BirdMeatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
@@ -98,11 +98,11 @@
 [未烹饪的参薯咖喱](YamCurryUncooked.md)  |  参薯咖喱  |  45分  |  [参薯咖喱](YamCurry.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的蛋炒饭](EggFriedRiceUncooked.md)  |  蛋炒饭  |  30分  |  [蛋炒饭](EggFriedRice.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的参薯酱](YamJamUncooked.md)  |  参薯酱  |  45分  |  [熟参薯酱](YamJamCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [营火(熄灭)](CampfireExtinguished.md)  
-## 被动效果 (每15分钟)  
-名称  |  条件  |  变化  |  玩家状态  
+## 被动效果  
+名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Hot  |  ** 需要状态：**<br>[遮蔽](Sheltered.md):1-1  |    |  [体感温度](TemperaturePerceived.md)+5  
+Hot  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 1-1  |    |  [体感温度](TemperaturePerceived.md)+5  

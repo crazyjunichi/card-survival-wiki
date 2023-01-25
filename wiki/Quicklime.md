@@ -1,7 +1,7 @@
 # 生石灰  
 > 可以做砂浆或者其他东西。  
   
-  属性  |   图片   
+  生石灰  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“抗裂剂”](tag_Temper.md)  |  ![](Sprite/Quicklime.png)   
   
@@ -14,7 +14,7 @@
 [煅烧后的石头](StoneBurnt.md) , [“锤”](tag_Hammer.md)  |  敲碎  
 [煅烧后的大石块](StoneHeavyBurnt.md) , [“锤”](tag_Hammer.md)  |  敲碎  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [灰水](LQ_AshWater.md)<br><br>使用物:<br>→ [熟石灰](LQ_SlakedLime.md)<br><br>  |    
 ## 可拖至  

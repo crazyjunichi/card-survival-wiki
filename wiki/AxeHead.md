@@ -1,7 +1,7 @@
 # 斧子头  
 > 可被用来制作斧子。  
   
-  属性  |   图片   
+  斧子头  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)<br><br>**可使用次数：**150  |  ![](Sprite/AxeHead.png)   
   
@@ -22,7 +22,7 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：150<br>最大：150  |  -  |  ** 到达0时： **<br>→ [钝斧子头](AxeHeadBlunt.md)  

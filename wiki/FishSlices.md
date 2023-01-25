@@ -1,7 +1,7 @@
 # 鱼片  
 > 小鱼片，可以用作诱饵。  
   
-  属性  |   图片   
+  鱼片  |   图片   
  ----  |  ----:   
  **重量：**10<br><br>**标签：**	[“诱饵”](tag_Bait.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/FishSlices.png)   
   
@@ -21,7 +21,7 @@
 [鲨鱼肉](SharkMeat.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
 [马鲅鱼肉](ThreadfinMeat.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+2<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+0.25<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+5<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+50<br>[寄生虫](Parasites.md)0～+25  
 ## 可拖至  
@@ -38,7 +38,7 @@
 [烤鱼片](FishSlicesCooked.md)  |  [火堆](Fire.md)  
 [烤鱼片](FishSlicesCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤鱼片](FishSlicesCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

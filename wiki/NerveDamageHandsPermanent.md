@@ -1,6 +1,7 @@
 # 手部神经损伤  
 变化范围: 0 ~ 2880  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">NerveDamageLHandPermanent_Statuses[0].GameName  |    |    |    

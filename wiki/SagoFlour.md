@@ -1,12 +1,12 @@
 # 西米粉  
 > 可以在营火上烤成面饼，或者用于更高级的食谱。  
   
-  属性  |   图片   
+  西米粉  |   图片   
  ----  |  ----:   
  **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  ![](Sprite/SagoFlour.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)-5<br>[情绪](Morale.md)-5<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+30<br>[污垢](Filth.md)+2  
 ## 可拖至  

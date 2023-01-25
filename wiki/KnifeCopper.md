@@ -1,7 +1,7 @@
 # 铜刀  
 > 一把小刀，可用于切割或刺穿东西。<br>变钝后可被再次打磨锋利。  
   
-  属性  |   图片   
+  铜刀  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md), [“铜制小物件”](tag_CopperSmall.md)<br><br>**可使用次数：**40  |  ![](Sprite/CopperKnife.png)   
   
@@ -13,7 +13,7 @@
 [铜刀](KnifeCopper.md) , [石头](Stone.md)  |  磨利  
 [钝刀](KnifeCopperBlunt.md) , [石头](Stone.md)  |  磨利  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [铜刀](KnifeCopper.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 ## 可拖至  
@@ -83,7 +83,7 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：40  |  -  |  ** 到达0时： **<br>→ [钝刀](KnifeCopperBlunt.md)  

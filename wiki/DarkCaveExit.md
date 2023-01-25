@@ -1,9 +1,9 @@
 # 离开  
 > 离开洞穴  
   
-  属性  |   图片   
+  离开  |   图片   
  ----  |  ----:   
- ** 只允许存在一个 **  |  ![](Sprite/CaveExit.png)   
+ ** 区域唯一 **  |  ![](Sprite/CaveExit.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -11,6 +11,6 @@
 [幽暗洞穴](DarkCaveCaveEntrance.md)  |  进入  
 [幽暗洞穴](DarkCaveEntrance.md)  |  进入  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 离开<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[湿地(环境)](Env_Wetlands.md)(+1)<br>[幽暗洞穴](DarkCaveEntrance.md)(+1)<br>  |  [在黑暗环境](InDarkPlace.md)-1  

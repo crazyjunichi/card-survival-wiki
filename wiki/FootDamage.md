@@ -1,6 +1,7 @@
 # 足部损伤  
 变化范围: 0 ~ 1000  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" style="width:20px;">我的脚好疼  |  割伤和水泡使走路更困难。  |  [足茧](CallousesFeet.md)加成+0.25<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    

@@ -1,7 +1,7 @@
 # 煮熟的参薯  
 > 可以吃了。  
   
-  属性  |   图片   
+  煮熟的参薯  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/YamBoiled.png)   
   
@@ -19,7 +19,7 @@
 [浸泡的参薯](LQ_SoakedYam.md) , [火炉](Stove.md)  |  煮参薯  
 [浸泡的参薯](LQ_SoakedYam.md) , [火炉](Stove.md)  |  煮参薯  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+35<br>[水分](Hydration.md)+5<br>[情绪](Morale.md)<br>[参薯<nobr>厌倦度</nobr>](SaturationYam.md)+40<br>[食物中毒](FoodPoisoning.md)+2<br>[污垢](Filth.md)+2  
 ## 可拖至  
@@ -32,11 +32,11 @@
 - [参薯酱(蓝图)](Bp_YamJam.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
-## 被动效果 (每15分钟)  
-名称  |  条件  |  变化  |  玩家状态  
+## 被动效果  
+名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)  |  进度+1  |    

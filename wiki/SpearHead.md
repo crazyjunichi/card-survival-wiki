@@ -1,7 +1,7 @@
 # 矛头  
 > 可被用来制作长矛。  
   
-  属性  |   图片   
+  矛头  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**150  |  ![](Sprite/SpearHead.png)   
   
@@ -23,7 +23,7 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：150<br>最大：150  |  -  |  ** 到达0时： **<br>→ [钝矛头](SpearHeadBlunt.md)  

@@ -1,6 +1,7 @@
 # 驱虫  
 变化范围: 0 ~ 100  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 25  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+1  |    

@@ -1,7 +1,7 @@
 # 木质餐具  
 > 比徒手吃饭更方便干净。  
   
-  属性  |   图片   
+  木质餐具  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“装饰品”](tag_Decoration.md)<br><br>** 效果: **<br>[用餐环境](Foodplace.md)+1  |  ![](Sprite/EatingUtensilsWood.png)   
   

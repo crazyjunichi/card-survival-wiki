@@ -1,6 +1,7 @@
 # 阳光辐射  
 变化范围: 0 ~ 6  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/SunIcon.png" style="width:20px;">没有阳光辐射  |    |  [紫外线过敏](SunAllergy.md)加成-200<br>[晒伤](Sunburn.md)加成-1  |    

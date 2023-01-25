@@ -1,7 +1,7 @@
 # 绳子  
 > 有很多用途。可以带上绳子用来爬椰子树。  
   
-  属性  |   图片   
+  绳子  |   图片   
  ----  |  ----:   
  **重量：**250<br><br>**标签：**	[“细线”](tag_Cord.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)  |  ![](Sprite/Rope.png)   
   
@@ -27,9 +27,9 @@
 [树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md):10-100  |  [线团](YarnFiber.md)(+2)<br>  |    
+拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  [线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
 [编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

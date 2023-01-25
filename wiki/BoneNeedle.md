@@ -1,7 +1,7 @@
 # 骨针  
 > 用于制作更复杂的纺织品或者皮制品。  
   
-  属性  |   图片   
+  骨针  |   图片   
  ----  |  ----:   
  **重量：**10<br><br>**可使用次数：**3  |  ![](Sprite/NeedleBone.png)   
   
@@ -12,9 +12,9 @@
 [骨头碎片](BoneSplinters.md)  |  制作针  
 [鸟骨](BonesBird.md)  |  制作针  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [针线](BoneNeedleThreaded.md)<br><br>  |    
+[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [针线](BoneNeedleThreaded.md)<br><br>  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  
@@ -36,7 +36,7 @@
 - [水袋(蓝图)](Bp_Waterskin.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Durability.png" style="width:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **  

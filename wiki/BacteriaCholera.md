@@ -1,6 +1,7 @@
 # 细菌性霍乱  
 变化范围: 0 ~ 3000  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 201 ～ 300  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">  |    |  [腹泻](Diarrhoea.md)加成+2  |    

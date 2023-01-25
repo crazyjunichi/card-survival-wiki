@@ -1,7 +1,7 @@
 # 小陶罐  
 > 一个密封的小容器。  
   
-  属性  |   图片   
+  小陶罐  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“粘土”](tag_Clay.md), [“可烹饪的”](tag_Cookable.md), [“容器（密封）”](tag_ContainerSealed.md), [“可泼溅的”](tag_Spillable.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**容水量：**150  |  ![](Sprite/ClayJar.png)   
   
@@ -12,11 +12,11 @@
 [未烧制的小陶罐](ClayJarUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制小陶罐  
 [茉莉花](ClayJarJasmine.md)  |  丢弃花  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-收集雨水<br>  |  -  |  [降水值](RainValue.md):1-5  |  undefined + 10000<br>  |    
+收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000<br>  |    
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [茉莉花](JasmineFlowers.md)  |  插花  |  -  |    |  自身:<br>→ [茉莉花](ClayJarJasmine.md)<br><br>  |    
 ## 可拖至  

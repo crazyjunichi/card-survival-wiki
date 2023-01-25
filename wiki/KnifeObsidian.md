@@ -1,7 +1,7 @@
 # 黑曜石刀  
 > 非常锋利，但也很脆。  
   
-  属性  |   图片   
+  黑曜石刀  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**10  |  ![](Sprite/ObsidianKnife.png)   
   
@@ -56,7 +56,7 @@
 - [木针(蓝图)](Bp_WoodenNeedles.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：10  |  -  |  ** 到达0时： **<br>→ [金属废料](MetalScrap.md)  

@@ -1,7 +1,7 @@
 # 铸铜鱼雕  
 > 一个小小的铜鱼雕。  
   
-  属性  |   图片   
+  铸铜鱼雕  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“高级装饰品”](tag_DecorationAdv.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/CopperDecoration_Fish.png)   
   

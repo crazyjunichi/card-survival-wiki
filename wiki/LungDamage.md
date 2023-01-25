@@ -1,6 +1,7 @@
 # 肺部伤害  
 变化范围: 0 ~ 1000  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/LungDamage.png" style="width:20px;">呼吸困难  |    |  [疼痛](Pain.md)+50<br>[耐力](Stamina.md)加成-0.5  |    

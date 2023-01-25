@@ -1,7 +1,7 @@
 # 高级窑炉  
 > 当温度达到足够高的时候，可以在其中烧制粘土  
   
-  属性  |   图片   
+  高级窑炉  |   图片   
  ----  |  ----:   
  **槽位：**6<br><br>**过滤器：**[“粘土”](tag_Clay.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  ![](Sprite/AdvancedKilnLit.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [高级窑炉(熄灭)](KilnAdvancedExtinguished.md) , [火种](TinderLit.md)  |  点燃  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [椰子壳](CoconutShell.md)  |  添入椰子壳  |  -  |    |  自身:<br>燃料 + 3<br><br>  |    
 [木材](Wood.md)  |  添入柴火  |  -  |    |  自身:<br>燃料 + 28<br><br>  |    
@@ -21,7 +21,7 @@
 [“树叶”](tag_Leaves.md)  |  添入树叶  |  -  |    |  自身:<br>燃料 + 2<br><br>  |    
 [风箱](Bellows.md)  |  提升温度  |  30分  |    |  自身:<br>温度<img decoding="async" src="Sprite/Hot.png" style="width:20px;"> + 300<br><br>使用物:<br>→ [火种](TinderLit.md)<br>可用次数  -1<br><br>  |    
 ## 转化  
-放入  |  动作  |  时间  |  变化  |  状态  
+放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [未烧制的蒸馏器](AlembicUnfired.md)  |  蒸馏器  |  5小时  |  [蒸馏器](AlembicUndeployed.md)(+1)  |    
 [硫磺石](StoneHeavyBrimstone.md)  |  煅烧硫磺石  |  8小时  |  [硫磺](Brimstone.md)(+1)  |    
@@ -47,8 +47,8 @@
 [“铜制小物件”](tag_CopperSmall.md)  |  熔炼小型工具  |  8小时  |  [铜](Copper.md)(+2)  |  [金工(技能)](Skill_Metalworking.md)+1  
 [“铜制大物件”](tag_CopperBig.md)  |  熔炼大型工具  |  8小时  |  [铜](Copper.md)(+5)  |  [金工(技能)](Skill_Metalworking.md)+1  
 [装饰品模具](MoldCopperDecoration.md)  |  装饰品  |  6小时  |  [铜制装饰品](CopperDecoration_Mold.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 温度<img decoding="async" src="Sprite/Hot.png" style="width:30px;">  |  初始：0<br>最大：1200  |  每15分钟+16<br>最多需要：18小时45分  |    
 燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>[灰烬](Ash.md)+1 <br>[木炭](Charcoal.md)0～+1 <br>→ [高级窑炉(熄灭)](KilnAdvancedExtinguished.md)  

@@ -1,6 +1,7 @@
 # 世界观  
 变化范围: 0 ~ 5000  
 基础变化率: +1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    

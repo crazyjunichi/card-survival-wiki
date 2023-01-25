@@ -1,7 +1,7 @@
 # 小人木雕（男）  
 > 一个可爱的木制男性雕像。  
   
-  属性  |   图片   
+  小人木雕（男）  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)  |  ![](Sprite/WoodCarving_Man.png)   
   

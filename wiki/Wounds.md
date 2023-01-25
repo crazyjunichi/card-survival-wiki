@@ -1,6 +1,7 @@
 # 受伤  
 变化范围: 0 ~ 1500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 50 ～ 100  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">小伤口  |    |  [食欲](Appetite.md)+25  |    

@@ -1,6 +1,7 @@
 # 咖啡因  
 变化范围: 0 ~ 24  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 12  |  <img decoding="async" src="Sprite/Caffeine.png" style="width:20px;">咖啡因  |    |  [疼痛](Pain.md)-50<br>[清醒度](Wakefulness.md)加成+2.5<br>[腹泻](Diarrhoea.md)加成+0.75<br>[水分](Hydration.md)加成-0.5<br>[压力](Stress.md)加成+0.75<br>[世界观](Structure.md)加成-1  |    

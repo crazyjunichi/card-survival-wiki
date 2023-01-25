@@ -1,11 +1,11 @@
 # 肥皂  
 > 非常适合用来清洗我的伤口和我自己。  
   
-  属性  |   图片   
+  肥皂  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/SoapWet.png)   
+ ** 解锁需求: **<br>[脂肪](Fat.md)<br>[油](LQ_Oil.md)  |  ![](Sprite/SoapWet.png)   
   
 ## 制作  
-步骤  |  时间  |  状态  |  成品  
-----  |  ----  |  ----  |  ----  
-1. [碗(组)](GpTag_Bowl.md) x 1 + [油/脂肪(组)](GpTag_OilFat.md) x 1  |  30分  |  [压力](Stress.md)-10  |  [肥皂混合物](LQ_SoapMix.md)(+1)  
+步骤  |  耗时  |  需求  |  状态变化  |  成品  
+----  |  ----  |  ----  |  ----  |  ----  
+1. [碗(组)](GpTag_Bowl.md) x 1 + [油/脂肪(组)](GpTag_OilFat.md) x 1  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [压力](Stress.md)-10  |  [肥皂混合物](LQ_SoapMix.md)(+1)  

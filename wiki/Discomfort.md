@@ -1,6 +1,7 @@
 # 不适  
 变化范围: 0 ~ 2500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 100 ～ 250  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">略微不适  |    |  [舒适度](Comfort.md)-100<br>[恶心](Nausea.md)加成+0.1  |    

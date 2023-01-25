@@ -1,6 +1,7 @@
 # 芦荟膏防护  
 变化范围: 0 ~ 100  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 100  |  <img decoding="async" src="Sprite/AloeGel.png" style="width:20px;">芦荟已涂抹  |    |  [晒伤](Sunburn.md)加成-16<br>[背痛](BackPain.md)加成-1<br>[蚊虫叮咬](BugBites.md)加成-2<br>[蜜蜂蛰刺](BeeStings.md)加成-1<br>[烧伤](Burns.md)加成-1<br>[淤青](Bruising.md)加成-1<br>[手掌损伤](HandDamage.md)加成-0.5<br>[足部损伤](FootDamage.md)加成-0.5<br>[皮肤潮湿度](SkinHumidity.md)加成+0.75  |    

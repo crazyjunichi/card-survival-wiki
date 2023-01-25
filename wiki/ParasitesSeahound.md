@@ -1,6 +1,7 @@
 # 海怪寄生虫  
 变化范围: 0 ~ 1500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 300  |  <img decoding="async" src="Sprite/SeahoundParasites.png" style="width:20px;">  |    |  [海怪寄生虫](ParasitesSeahound.md)加成+1<br>[体重](Weight.md)加成-0.01<br>[免疫系统](ImmuneSystem.md)<br>[内陆恐惧症](LandSickness.md)加成+1.5  |    

@@ -1,6 +1,7 @@
 # 奎宁  
 变化范围: 0 ~ 96  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 16  |  <img decoding="async" src="Sprite/Quicklime.png" style="width:20px;">低剂量奎宁  |    |  [疟疾寄生虫](ParasiteMalaria.md)加成-60<br>[寄生虫](Parasites.md)加成-20<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成+0.5  |    

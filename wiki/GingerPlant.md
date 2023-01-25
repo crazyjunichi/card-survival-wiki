@@ -1,7 +1,7 @@
 # 姜株  
 > 可以捣碎并制成姜茶，能够增强免疫系统并缓解消化问题。  
   
-  属性  |   图片   
+  姜株  |   图片   
  ----  |  ----:   
    |  ![](Sprite/GingerPlant.png)   
   
@@ -11,6 +11,6 @@
 [红树林](Mangroves.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md):10-100  |  使用次数  -1<br><br>[姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>[姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

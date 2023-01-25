@@ -1,6 +1,7 @@
 # 压力  
 变化范围: 0 ~ 240  
 基础变化率: +1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    

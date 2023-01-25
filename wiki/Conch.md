@@ -1,7 +1,7 @@
 # 海螺  
 > 我得把里面那玩意儿整出来。  
   
-  属性  |   图片   
+  海螺  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/Conch.png)   
   
@@ -22,9 +22,9 @@
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(+1)<br>基础权重：1<br><br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md): 10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(+1)<br>基础权重：1<br><br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

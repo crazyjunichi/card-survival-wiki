@@ -1,7 +1,7 @@
 # 弹涂鱼  
 > 我可不想生吃这东西。  
   
-  属性  |   图片   
+  弹涂鱼  |   图片   
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“生鱼”](tag_RawFish.md), [“鱼肉”](tag_Fish.md)  |  ![](Sprite/Mudskipper.png)   
   
@@ -13,7 +13,7 @@
 [海(红树林)](Sea_Mangroves.md) , [“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  钓鱼  
 [海(红树林)](Sea_Mangroves.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+4<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+25<br>[污垢](Filth.md)+4<br>[细菌性发烧](BacteriaFever.md)0～+50<br>[寄生虫](Parasites.md)0～+100<br>[情绪](Morale.md)-6  
 ## 可拖至  
@@ -27,7 +27,7 @@
 [烤弹涂鱼](MudskipperCooked.md)  |  [火堆](Fire.md)  
 [烤弹涂鱼](MudskipperCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤弹涂鱼](MudskipperCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

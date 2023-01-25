@@ -1,7 +1,7 @@
 # 未烧制的粘土火盆  
 > 它需要在窑炉里烧制。  
   
-  属性  |   图片   
+  未烧制的粘土火盆  |   图片   
  ----  |  ----:   
  **重量：**500<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“大的”](tag_Large.md), [“粘土”](tag_Clay.md)  |  ![](Sprite/ClayFirePitUnfired.png)   
   

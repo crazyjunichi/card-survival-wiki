@@ -1,12 +1,12 @@
 # 腌巨蜥肉  
 > 咸咸的，很美味！  
   
-  属性  |   图片   
+  腌巨蜥肉  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/MonitorMeat.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)+7<br>[爬行类厌倦度](SaturationReptile.md)+45<br>[污垢](Filth.md)+5<br>[钠](Sodium.md)+50  
 ## 可拖至  

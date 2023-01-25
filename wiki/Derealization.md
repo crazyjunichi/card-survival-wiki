@@ -1,6 +1,7 @@
 # 失实症  
 变化范围: 0 ~ 1000  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 25 ～ 100  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">现实感丧失  |  一切都感觉遥远而灰暗  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+1000<br>[疼痛](Pain.md)-100  |    

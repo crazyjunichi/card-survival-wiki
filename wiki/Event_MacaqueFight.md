@@ -1,7 +1,7 @@
 # 一只猕猴！  
 > 我应该攻击它还是不管它？  
   
-  属性  |   图片   
+  一只猕猴！  |   图片   
  ----  |  ----:   
  **标签：**	[“战斗事件”](tag_FightEvent.md)  |  ![](Sprite/MacaqueEvent.png)   
   
@@ -13,7 +13,7 @@
 [丛林高地](JungleHighlands.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 用长矛攻击！<br>  |  30分  |  [“一级矛”](tag_Spear.md)  |  [(事件)那只猕猴倒下了！](Event_MacaqueFightSuccess.md)(+1)<br>基础权重：10<br>- [矛战(技能)](Skill_SpearFighting.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br><br>[(事件)我拿下它了，但我受伤了。](Event_MacaqueFightMixedSuccess.md)(+1)<br>基础权重：20<br>- [矛战(技能)](Skill_SpearFighting.md)为0～150时权重0～+75<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-60<br>- [腿部防护](LegProtection.md)为1～10时权重-1～-15<br><br>[(事件)它逃跑了！](Event_MacaqueFightFailure.md)(+1)<br>基础权重：60<br><br>[(事件)啊！](Event_MacaqueFightBadFailure.md)(+1)<br>基础权重：20<br>- [腿部防护](LegProtection.md)为1～10时权重-1～-15<br><br>** 相关卡牌 **<br>[“一级矛”](tag_Spear.md)可用次数  -10<br><br>** 相关卡牌 **<br>[盾牌](Shield.md)可用次数  -5<br>  |  [矛战(技能)](Skill_SpearFighting.md)+1  
 用弓箭攻击！<br>  |  30分  |  [简易的弓](BowRustic.md)<br>[简易箭矢](ArrowSimple.md)  |  [(事件)那只猕猴倒下了！](Event_MacaqueFightSuccess.md)(+1)<br>基础权重：15<br>- [箭术(技能)](Skill_Archery.md)为0～150时权重0～+150<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-125<br>- [视力](Myopia.md)为0～3时权重0～-100<br><br>[(事件)我拿下它了，但我受伤了。](Event_MacaqueFightMixedSuccess.md)(+1)<br>基础权重：10<br>- [箭术(技能)](Skill_Archery.md)为0～100时权重0～+75<br>- [ModifierClimb_GameName](ModifierClimb.md)为0～3时权重0～-60<br>- [腿部防护](LegProtection.md)为1～10时权重-1～-10<br><br>[(事件)它逃跑了！](Event_MacaqueFightFailure.md)(+1)<br>基础权重：80<br><br>[(事件)啊！](Event_MacaqueFightBadFailure.md)(+1)<br>基础权重：5<br>- [腿部防护](LegProtection.md)为1～10时权重-1～-10<br><br>** 相关卡牌 **<br>[简易的弓](BowRustic.md)可用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -3<br>  |  [箭术(技能)](Skill_Archery.md)+1  

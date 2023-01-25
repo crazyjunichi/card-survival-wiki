@@ -1,7 +1,7 @@
 # 东部高地  
 > 山地偏干燥干旱的一边。  
   
-  属性  |   图片   
+  东部高地  |   图片   
  ----  |  ----:   
  **标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“西”](tag_West.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[东部高地](HighlandsEastern.md)<br><br>** 效果: **<br>[绝热](InsulationHeat.md)<br>[蚊虫数量](BugPopulation.md)+1  |  ![](Sprite/HighlandsEastern.png)   
   

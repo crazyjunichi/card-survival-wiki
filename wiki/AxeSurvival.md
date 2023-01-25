@@ -1,9 +1,9 @@
 # 求生斧  
 > 可以用来砍树，斧刃钝了的话就得再打磨一下。  
   
-  属性  |   图片   
+  求生斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“锤状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**50  |  ![](Sprite/SurvivalAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**50  |  ![](Sprite/SurvivalAxe.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -11,7 +11,7 @@
 [求生斧](AxeSurvival.md) , [石头](Stone.md)  |  磨利  
 [钝的求生斧](AxeSurvivalBlunt.md) , [石头](Stone.md)  |  磨利  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [求生斧](AxeSurvival.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 ## 可拖至  
@@ -54,7 +54,7 @@
 - [铜罐(蓝图)](Bp_CopperJar.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>→ [钝的求生斧](AxeSurvivalBlunt.md)  

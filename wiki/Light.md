@@ -1,6 +1,7 @@
 # 光亮  
 变化范围: 0 ~ 100  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" style="width:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    

@@ -1,7 +1,7 @@
 # 小人木雕（女）  
 > 一个可爱的木制女性雕像。  
   
-  属性  |   图片   
+  小人木雕（女）  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)  |  ![](Sprite/WoodCarving_Woman.png)   
   

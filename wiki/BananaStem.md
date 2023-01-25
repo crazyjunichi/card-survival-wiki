@@ -1,7 +1,7 @@
 # 香蕉树芯  
 > 味道一般，但可以食用  
   
-  属性  |   图片   
+  香蕉树芯  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md)  |  ![](Sprite/BananaStem.png)   
   
@@ -11,7 +11,7 @@
 [摘光的香蕉树](BananaTreeCleared.md) , [石斧](StoneAxe.md)  |  砍树  
 [摘光的香蕉树](BananaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+5<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45  
 ## 可拖至  
@@ -29,7 +29,7 @@
 - [海鲜杂烩(蓝图)](Bp_SeafoodCup.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

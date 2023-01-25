@@ -1,7 +1,7 @@
 # 啊！！！！  
 > 你的猕猴咬了你！它可能压力太大了！  
   
-  属性  |   图片   
+  啊！！！！  |   图片   
  ----  |  ----:   
    |  ![](Sprite/MacaqueBite.png)   
   
@@ -18,6 +18,6 @@
 [受伤的猕猴](MacaqueWounded.md) , [鱼片](FishSlices.md)  |  喂食  
 [受伤的猕猴](MacaqueWounded.md) , [“喂/添加”](tag_Feed.md)  |  喂食  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 继续<br>  |  15分  |    |  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>  |  [情绪](Morale.md)-15  

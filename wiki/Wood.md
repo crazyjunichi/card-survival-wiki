@@ -1,7 +1,7 @@
 # 木材  
 > 很好的柴火和建材。  
   
-  属性  |   图片   
+  木材  |   图片   
  ----  |  ----:   
  **重量：**400  |  ![](Sprite/Firewood.png)   
   
@@ -21,39 +21,39 @@
 [沙滩](Beach.md)  |  随便逛逛  
 [丛林深处](DeepJungle.md)  |  探索  
 [丛林深处](DeepJungle.md)  |  探索  
-[丛林深处](DeepJungle.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林深处](DeepJungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林深处](DeepJungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [荒芜沙滩](DesolateBeach.md)  |  探索  
 [荒芜沙滩](DesolateBeach.md)  |  探索  
 [东部草原](GrasslandsE.md)  |  探索  
 [西部草原](GrasslandsW.md)  |  探索  
 [东部高地](HighlandsEastern.md)  |  探索  
-[东部高地](HighlandsEastern.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[东部高地](HighlandsEastern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [东部高地](HighlandsEastern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [西部高地](HighlandsWestern.md)  |  探索  
-[西部高地](HighlandsWestern.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[西部高地](HighlandsWestern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [西部高地](HighlandsWestern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林](Jungle.md)  |  探索  
 [丛林](Jungle.md)  |  探索  
-[丛林](Jungle.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林](Jungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林](Jungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林高地](JungleHighlands.md)  |  探索  
 [丛林高地](JungleHighlands.md)  |  探索  
-[丛林高地](JungleHighlands.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林高地](JungleHighlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林高地](JungleHighlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
-[红树林](Mangroves.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[红树林](Mangroves.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [红树林](Mangroves.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林边缘](Outskirts.md)  |  探索  
 [丛林边缘](Outskirts.md)  |  探索  
 [丛林边缘](Outskirts.md)  |  探索  
-[丛林边缘](Outskirts.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[丛林边缘](Outskirts.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林边缘](Outskirts.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [神秘谷](SecretValley.md)  |  探索  
 [湿地丛林](Wetlands.md)  |  探索  
-[湿地丛林](Wetlands.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
+[湿地丛林](Wetlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [湿地丛林](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“高级切割工具”](tag_CutterAdv.md)  |  刨花  |  15分  |    |  使用物:<br>可用次数  -1<br><br>获得:<br>[木屑](WoodShavings.md)(+1～+3)<br><br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [火炭](Embers.md)  |  烫一个洞  |  15分  |    |  自身:<br>→ [烧着的木棒](WoodBurning.md)<br><br>  |    

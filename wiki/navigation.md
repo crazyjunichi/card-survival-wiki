@@ -25,8 +25,10 @@
 [蓝图](blueprint.md)
 [状态](stat.md)   
 
-[事件](event.md)
-[天气](weather.md)
-[液体](liquid.md)
+[其他]()
+
+-   [事件](event.md)
+-   [天气](weather.md)
+-   [液体](liquid.md)
 
         

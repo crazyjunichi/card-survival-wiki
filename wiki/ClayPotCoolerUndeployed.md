@@ -1,7 +1,7 @@
 # 保鲜罐  
 > 里面的食物可以储藏的更久。  
   
-  属性  |   图片   
+  保鲜罐  |   图片   
  ----  |  ----:   
  **重量：**750<br><br>**标签：**	[“大的”](tag_Large.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/ClayPotCoolerUnfired.png)   
   
@@ -13,6 +13,6 @@
 [保鲜罐(关)](ClayPotCoolerOff.md)  |  清空后搬走  
 [保鲜罐(开)](ClayPotCoolerOn.md)  |  清空后搬走  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 放置<br>  |  15分  |  [木筏(环境)](Env_Raft.md)  |  → [保鲜罐(关)](ClayPotCoolerOff.md)<br>  |    

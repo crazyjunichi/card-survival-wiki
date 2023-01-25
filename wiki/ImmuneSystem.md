@@ -1,6 +1,7 @@
 # 免疫系统  
 变化范围: 0 ~ 325  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 25  |  <img decoding="async" src="Sprite/Durability.png" style="width:20px;">形同虚设  |    |  [细菌性发烧](BacteriaFever.md)<br>[细菌性腹泻](BacteriaDiarrhoea.md)<br>[野营热病](BacteriaTyphus.md)<br>[寄生虫](Parasites.md)  |    

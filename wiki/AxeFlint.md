@@ -1,9 +1,9 @@
 # 燧石斧  
 > 可以用来砍树。  
   
-  属性  |   图片   
+  燧石斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“锤状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**25  |  ![](Sprite/FlintAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**25  |  ![](Sprite/FlintAxe.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -34,7 +34,7 @@
 - [木铲(蓝图)](Bp_WoodenShovel.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：25<br>最大：25  |  -  |  ** 到达0时： **<br>[燧石](Flint.md)+1～+2 <br>[细线](CordFiber.md)+1 <br>[小树枝](Sticks.md)+1   

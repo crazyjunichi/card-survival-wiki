@@ -1,7 +1,7 @@
 # 辣椒粉  
 > 很辣，可以用来烹饪。  
   
-  属性  |   图片   
+  辣椒粉  |   图片   
  ----  |  ----:   
  **重量：**50<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md)  |  ![](Sprite/ChiliPowder.png)   
   

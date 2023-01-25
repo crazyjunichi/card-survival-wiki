@@ -1,12 +1,12 @@
 # 神赐壶  
 >   
   
-  属性  |   图片   
+  神赐壶  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/CoconutFlask.png)   
   
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 饮用<br>  |  -  |    |  → [椰壶](CoconutFlask.md)<br>耐久  -250<br>  |  [木工(技能)](Skill_Woodworking.md)+150  
 清空<br>  |  -  |    |  → [椰壶](CoconutFlask.md)<br>  |    

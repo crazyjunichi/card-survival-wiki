@@ -1,6 +1,7 @@
 # 精神失常  
 变化范围: 0 ~ 300  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 51 ～ 100  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  有点不对劲。  |  [精神失常](MindState.md)加成-1  |    

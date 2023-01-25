@@ -1,7 +1,7 @@
 # 辣椒  
 > 好辣！  
   
-  属性  |   图片   
+  辣椒  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/Chilies.png)   
   
@@ -10,7 +10,7 @@
 ----  |  ----  
 [辣椒丛](ChiliPlant.md)  |  采集辣椒  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+20<br>[辣椒素](Capsaicin.md)+12<br>[胃](Stomach.md)+5<br>[水分](Hydration.md)+1<br>[情绪](Morale.md)+2<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+35<br>[污垢](Filth.md)+1  
 ## 可拖至  
@@ -26,12 +26,12 @@
 转化为  |  容器  
 ----  |  ----  
 [干辣椒](ChiliesDried.md)  |  [晾晒架](DryingRack.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
 进度  |  初始：0<br>最大：192  |  -  |  ** 到达上限时： **<br>→ [干辣椒](ChiliesDried.md)  
-## 被动效果 (每15分钟)  
-名称  |  条件  |  变化  |  玩家状态  
+## 被动效果  
+名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md):0-0  |  进度+1  |    
+Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  进度+1  |    

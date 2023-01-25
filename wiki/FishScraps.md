@@ -1,7 +1,7 @@
 # 鱼杂  
 > 鱼的边角料，可以用作诱饵。  
   
-  属性  |   图片   
+  鱼杂  |   图片   
  ----  |  ----:   
  **重量：**10<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md), [“可烹饪的”](tag_Cookable.md), [“喂”](tag_Meat.md)  |  ![](Sprite/FishScraps.png)   
   
@@ -28,7 +28,7 @@
 [鲨鱼尸体](SharkCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
 [鲨鱼尸体](SharkCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+2.5<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+25<br>[寄生虫](Parasites.md)0～+50<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+5<br>[情绪](Morale.md)-6  
 ## 可拖至  
@@ -46,7 +46,7 @@
 [烤鱼杂](FishScrapsCooked.md)  |  [火堆](Fire.md)  
 [烤鱼杂](FishScrapsCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤鱼杂](FishScrapsCooked.md)  |  [火炉](Stove.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

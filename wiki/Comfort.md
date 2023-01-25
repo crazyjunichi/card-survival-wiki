@@ -1,6 +1,7 @@
 # 舒适度  
 变化范围: 0 ~ 2500  
 基础变化率: 0 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 100 ～ 250  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">最低舒适度  |    |  [世界观](Structure.md)加成+1<br>[压力](Stress.md)加成-0.5  |    

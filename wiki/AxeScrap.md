@@ -1,16 +1,16 @@
 # 废金属斧  
 > 可以用来砍树。  
   
-  属性  |   图片   
+  废金属斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“锤状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**40  |  ![](Sprite/ScrapAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**40  |  ![](Sprite/ScrapAxe.png)   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [废金属斧(蓝图)](Bp_ScrapAxe.md)  |  蓝图制造  
 ## 动作  
-动作  |  时间  |  条件  |  变化  |  状态  
+动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 拆解<br>[手部动作](HandAction.md)  |  30分  |    |  [小树枝](Sticks.md)(+1)<br>[细线](CordFiber.md)(+1)<br>[金属废料](MetalScrap.md)(+1)<br>  |    
 ## 可拖至  
@@ -53,7 +53,7 @@
 - [铜罐(蓝图)](Bp_CopperJar.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：40<br>最大：40  |  -  |  ** 到达0时： **<br>[金属废料](MetalScrap.md)+1 <br>[细线](CordFiber.md)+1 <br>[小树枝](Sticks.md)+1   

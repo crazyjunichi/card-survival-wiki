@@ -1,6 +1,7 @@
 # 抗晕船  
 变化范围: 0 ~ 400  
 基础变化率: -1 / 每15分钟  
+## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 400  |  <img decoding="async" src="Sprite/Analgesia.png" style="width:20px;">抗晕船  |    |  [恶心](Nausea.md)加成-5  |    

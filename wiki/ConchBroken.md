@@ -1,7 +1,7 @@
 # 碎海螺壳  
 > 可以作为抗裂剂放进窑炉中制作生石灰。  
   
-  属性  |   图片   
+  碎海螺壳  |   图片   
  ----  |  ----:   
  **重量：**15<br><br>**标签：**	[“抗裂剂”](tag_Temper.md), [“贝壳”](tag_Seashell.md)  |  ![](Sprite/ConchBroken.png)   
   

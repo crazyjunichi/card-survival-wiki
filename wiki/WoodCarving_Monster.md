@@ -1,7 +1,7 @@
 # 神灵木雕  
 > 噢噢噢噢噢！  
   
-  属性  |   图片   
+  神灵木雕  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)  |  ![](Sprite/WoodCarving_Monster.png)   
   

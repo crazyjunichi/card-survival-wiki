@@ -1,7 +1,7 @@
 # 棕榈叶  
 > 可以用来制作东西或者铺房顶  
   
-  属性  |   图片   
+  棕榈叶  |   图片   
  ----  |  ----:   
  **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md)  |  ![](Sprite/PalmTreeLeaves.png)   
   
@@ -36,9 +36,9 @@
 [西米树](SagoPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[棕榈叶](PalmFronds.md)  |  编织  |  45分  |  [光亮](Light.md):10-100  |  自身:<br>→ [棕榈编织物](WeavePalm.md)<br><br>  |  [压力](Stress.md)-10  
+[棕榈叶](PalmFronds.md)  |  编织  |  45分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [棕榈编织物](WeavePalm.md)<br><br>  |  [压力](Stress.md)-10  
 ## 可拖至  
 [叶床](LeafBed.md), [窝棚](Shelter.md), [有遮蔽的叶床](ShelteredLeafBed.md), [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [棕榈叶](PalmFronds.md), [太阳能蒸馏器](SolarStill.md)  
 ## 可用于蓝图  
@@ -59,7 +59,7 @@
 - [草裙(蓝图)](Bp_LeafSkirt.md)  
   
   
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **  

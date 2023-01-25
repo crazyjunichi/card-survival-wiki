@@ -1,7 +1,7 @@
 # 山羊木雕  
 > 一个小小的山羊手办。  
   
-  属性  |   图片   
+  山羊木雕  |   图片   
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)  |  ![](Sprite/WoodCarving_Goat.png)   
   

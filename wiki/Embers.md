@@ -1,7 +1,7 @@
 # 火炭  
 > 烫烫烫！可以用来点燃火绒。  
   
-  属性  |   图片   
+  火炭  |   图片   
  ----  |  ----:   
  **重量：**75  |  ![](Sprite/Embers.png)   
   
@@ -18,12 +18,12 @@
 [烟熏炉](SmokerPlastic.md)  |  取出火炭  
 [烟熏炉](SmokerPlastic.md)  |  取出火炭  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
+使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [枯叶](LeavesDry.md)  |  生火  |  -  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>→ [火种](TinderLit.md)<br><br>  |    
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [木材](Wood.md)  
-## 变化   
-操作  |  值  |  时间  |  变化  
+## 属性   
+属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **<br>→ [木炭](Charcoal.md)  
