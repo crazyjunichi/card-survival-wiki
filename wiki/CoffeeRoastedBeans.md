@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 烤咖啡豆  
 > 倒入热水然后铛啷啷！咖啡！  
   
@@ -15,6 +14,6 @@
 [咖啡豆](CoffeeBeans.md) , [瓦斯炉(开)](GasCookerOn.md)  |  咖啡  
 [咖啡豆](CoffeeBeans.md) , [火炉](Stove.md)  |  咖啡  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [开水](LQ_WaterBoiling.md)  |  制作咖啡  |  -  |    |  自身:<br>→ [蜘蛛兰茶](LQ_SpiderLily.md)<br><br>使用物:<br>→ [咖啡](LQ_Coffee.md)<br><br>  |    

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 树叶(组)  
 - [树叶](LeavesFresh.md)  
 - [蛇草](SnakeGrass.md)  

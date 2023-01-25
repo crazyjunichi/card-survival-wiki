@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “袋子”  
 - [箭筒](Quiver.md)  
 - [补给胶囊](TV_SupplyCapsule.md)  

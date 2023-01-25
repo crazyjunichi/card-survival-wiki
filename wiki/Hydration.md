@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 水分  
-变化范围？: 0 ~ 288  
+变化范围: 0 ~ 288  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 211 ～ 260  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">轻微口渴  |  有点渴了  |    |    
@@ -10,6 +10,15 @@
 31 ～ 60  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">严重脱水  |  我严重脱水了  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2  |    
 1 ～ 30  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">极度脱水  |  我撑不了多久了  |  [情绪](Morale.md)加成-3<br>[压力](Stress.md)加成+3  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">死于口渴  |  你死于脱水。  |    |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[鱼干](FishDried.md)  |  食用  |  加成0  
+[咸鱼](FishSalted.md)  |  食用  |  加成0  
+[卡瓦根](KavaRoot.md)  |  食用  |  加成0  
+[捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  加成0  
+[蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  加成0  
+[果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  加成0  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -209,12 +218,6 @@
 [烤鱼片](FishSlicesCooked.md)  |  食用  |  0.25  
 [虾](Prawns.md)  |  食用  |  0.25  
 [烤虾](PrawnsCooked.md)  |  食用  |  0.25  
-[鱼干](FishDried.md)  |  食用  |  0  
-[咸鱼](FishSalted.md)  |  食用  |  0  
-[卡瓦根](KavaRoot.md)  |  食用  |  0  
-[捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  0  
-[蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  0  
-[果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  0  
 [米饭](RiceCooked.md)  |  食用  |  -1  
 [西米饼](SagoFlatbread.md)  |  食用  |  -1  
 [寿司](Sushi.md)  |  食用  |  -1  

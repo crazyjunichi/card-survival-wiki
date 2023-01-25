@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 未栽种的农田  
 > 我应该在这儿种点什么。  
   
@@ -34,7 +33,7 @@
 [野枣田](CropPlotWildJujube.md)  |  摧毁  
 [参薯田](CropPlotYam.md)  |  摧毁  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [金鸡纳树皮](BarkCinchona.md)  |  种植金鸡纳树  |  30分  |    |  自身:<br>→ [金鸡纳树田](CropPlotCinchonaTree.md)<br><br>  |  [污垢](Filth.md)+10  
 [野枣](JujubeFruits.md)  |  种植野枣  |  30分  |    |  自身:<br>→ [野枣田](CropPlotWildJujube.md)<br><br>  |  [污垢](Filth.md)+10  
@@ -58,13 +57,17 @@
 [椰子](Coconut.md)  |  种植椰子树  |  30分  |    |  自身:<br>→ [椰子树田](CropPlotPalmTree.md)<br><br>  |  [污垢](Filth.md)+10  
 [芒果](Mango.md)  |  种植芒果树  |  30分  |    |  自身:<br>→ [芒果树田](CropPlotMangoTree.md)<br><br>  |  [污垢](Filth.md)+10  
 [棕榈丛种子](PalmBushSeeds.md)  |  种植棕榈丛  |  30分  |    |  自身:<br>→ [棕榈丛田](CropPlotPalmBush.md)<br><br>  |  [污垢](Filth.md)+10  
-[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>燃料 + 96<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
-[“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>耐久 + 384<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
-[“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>耐久 + 96<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
+[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>水分<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 96<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
+[“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 384<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
+[“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 96<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
 ## 可拖至  
 [硫磺农药](LQ_PesticideBrimstone.md), [辣椒农药](LQ_PesticideChilli.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
 肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
-水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  → [未浇灌的农田](CropPlotDry.md)  
+水分<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [未浇灌的农田](CropPlotDry.md)  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Rain  |  ** 需要状态：**<br>[降水值](RainValue.md):1-5  |  水分<img decoding="async" src="Sprite/Thirst.png" style="width:20px;">：+25  |    

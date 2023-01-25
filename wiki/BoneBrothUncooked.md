@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 未烹饪的骨头汤  
 > 下一步是放火上烹饪。  
   
@@ -13,7 +12,7 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-丢弃  |  -  |    |  → [烹饪锅](CookingPot.md)<br>  |    
+丢弃<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
@@ -22,7 +21,7 @@
 [骨头汤](BoneBroth.md)  |  [火堆](Fire.md)  
 [骨头汤](BoneBroth.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [骨头汤](BoneBroth.md)  |  [火炉](Stove.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>[腐烂物](RottenRemains.md)+1 <br>→ [烹饪锅](CookingPot.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “高价值物品”  
 - [简易箭矢](ArrowSimple.md)  
 - [草木灰敷料](AshDressing.md)  

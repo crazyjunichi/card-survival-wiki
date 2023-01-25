@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 炒菇球  
 > 挺好吃！  
   
@@ -17,10 +16,10 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+55<br>[胃](Stomach.md)+70<br>[水分](Hydration.md)+14<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)+30<br>[污垢](Filth.md)+15  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+55<br>[胃](Stomach.md)+70<br>[水分](Hydration.md)+14<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)+30<br>[污垢](Filth.md)+15  
 ## 可拖至  
 [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>[腐烂物](RottenRemains.md)+1 <br>→ [烹饪锅](CookingPot.md)  

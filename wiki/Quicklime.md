@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 生石灰  
 > 可以做砂浆或者其他东西。  
   
@@ -15,7 +14,7 @@
 [煅烧后的石头](StoneBurnt.md) , [“锤”](tag_Hammer.md)  |  敲碎  
 [煅烧后的大石块](StoneHeavyBurnt.md) , [“锤”](tag_Hammer.md)  |  敲碎  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [灰水](LQ_AshWater.md)<br><br>使用物:<br>→ [熟石灰](LQ_SlakedLime.md)<br><br>  |    
 ## 可拖至  

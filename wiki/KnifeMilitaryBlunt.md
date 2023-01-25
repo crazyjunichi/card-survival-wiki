@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 钝刀  
 > 想重新使用需要用石头先打磨一下。  
   
@@ -7,7 +6,7 @@
  **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“军用的”](tag_Military.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/MilitaryKnife.png)   
   
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [军刀](KnifeMilitary.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [手掌损伤](HandDamage.md)+10<br>[压力](Stress.md)-5<br>[金工(技能)](Skill_Metalworking.md)+0.25  
 ## 可拖至  

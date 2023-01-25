@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 疼痛  
-变化范围？: 0 ~ 500  
+变化范围: 0 ~ 500  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 100 ～ 200  |  <img decoding="async" src="Sprite/Pain.png" style="width:20px;">有点疼  |  好疼……  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1<br>[勇气](Courage.md)+100  |    
@@ -10,6 +10,101 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  500  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  500  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  500  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  500  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  500  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  500  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  500  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  500  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  500  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  500  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  500  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  500  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  350  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  350  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  350  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  350  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  350  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  350  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  350  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  325  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  325  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  325  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  325  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  325  
+[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  300  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  300  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  300  
+[海胆刺伤](W_UrchinWoundSpines.md)  |  条件被动  |  300  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  250  
+[简易止血带](TourniquetRustic.md)  |  被动  |  200  
+[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  200  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  150  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  150  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  150  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  150  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  150  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  150  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  150  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  150  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  150  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  150  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  150  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  150  
+[海胆刺伤](W_UrchinWound.md)  |  条件被动  |  150  
+[止血带](Tourniquet.md)  |  被动  |  100  
+[擦伤](W_Abrasion.md)  |  条件被动  |  100  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  100  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  100  
+[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  100  
+[狗咬伤](W_DogBite.md)  |  条件被动  |  100  
+[鬼掌印](W_HunterMark.md)  |  条件被动  |  100  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  100  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  100  
+[猕猴咬伤](W_MacaqueBite.md)  |  条件被动  |  100  
+[轻微撕裂伤](W_MinorLaceration.md)  |  条件被动  |  100  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  100  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  100  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  100  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  100  
+[崩解烙印](W_UnravellingMark.md)  |  条件被动  |  100  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  50  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  50  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  50  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  50  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  50  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  50  
+[海胆刺伤](W_UrchinWound.md)  |  条件被动  |  50  
+[擦伤](W_Abrasion.md)  |  条件被动  |  25  
+[狗咬伤](W_DogBite.md)  |  条件被动  |  25  
+[猕猴咬伤](W_MacaqueBite.md)  |  条件被动  |  25  
+[轻微撕裂伤](W_MinorLaceration.md)  |  条件被动  |  25  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  25  
+[擦伤](W_Abrasion.md)  |  条件被动  |  -25  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  -25  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  -25  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  -25  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  -25  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -25  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  -25  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  -25  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  -25  
+[狗咬伤](W_DogBite.md)  |  条件被动  |  -25  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  -25  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  -25  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -25  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  -25  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -25  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  -25  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  -25  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  -25  
+[猕猴咬伤](W_MacaqueBite.md)  |  条件被动  |  -25  
+[轻微撕裂伤](W_MinorLaceration.md)  |  条件被动  |  -25  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  -25  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  -25  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  -25  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -25  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  -25  
+[海胆刺伤](W_UrchinWound.md)  |  条件被动  |  -25  

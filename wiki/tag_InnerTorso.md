@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “躯干（内层）”  
 - [夏威夷衬衫](HawaiianShirt.md)  
 - [卫衣](HoodieRetromation.md)  

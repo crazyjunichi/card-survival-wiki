@@ -1,10 +1,9 @@
-[返回首页](index.md)  
 # 灌溉系统  
 > 自动使用蓄水池的水浇灌植物，需要在蓄水池启动。  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/CropPlotGrowing.png)   
+ ** 效果: **<br>[已灌溉](Irrigated.md)+1  |  ![](Sprite/CropPlotGrowing.png)   
   
 ## 制作  
 步骤  |  时间  |  状态  |  成品  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “洞穴”  
 - [洞穴上层(环境)](Env_CrystalChamber.md)  
 - [潮湿洞穴(环境)](Env_DampChamber.md)  

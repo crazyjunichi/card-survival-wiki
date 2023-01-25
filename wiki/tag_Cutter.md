@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “切割工具”  
 - [斧子头](AxeHead.md)  
 - [仪式匕首](CeremonialDagger.md)  

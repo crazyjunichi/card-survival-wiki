@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “喂食（草食动物）”  
 - [杂菌](AssortedMushrooms.md)  
 - [香蕉](Banana.md)  

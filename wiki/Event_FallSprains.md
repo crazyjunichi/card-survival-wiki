@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 坠落！  
 > 你摔了下去还扭伤了…真疼。  
   
@@ -35,4 +34,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错  |  -  |    |  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>[右手腕扭伤](W_ArmSprainedR.md)(+1)<br>[右脚踝扭伤](W_LegSprainedR.md)(+1)<br>[左脚踝扭伤](W_LegSprainedL.md)(+1)  |  [污垢](Filth.md)+30  
+真他妈不错<br>  |  -  |    |  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>基础权重：2<br><br>[右手腕扭伤](W_ArmSprainedR.md)(+1)<br>基础权重：2<br><br>[右脚踝扭伤](W_LegSprainedR.md)(+1)<br>基础权重：1<br><br>[左脚踝扭伤](W_LegSprainedL.md)(+1)<br>基础权重：1<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [污垢](Filth.md)+30  

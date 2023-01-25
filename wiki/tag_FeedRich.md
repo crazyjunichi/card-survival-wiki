@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “强效食料”  
 - [外星结节](AlienNodule.md)  
 - [黄油](Butter.md)  

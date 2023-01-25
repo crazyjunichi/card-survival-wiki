@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 肥料(组)  
 - [粪便](Manure.md)  
 - [腐烂物](RottenRemains.md)  

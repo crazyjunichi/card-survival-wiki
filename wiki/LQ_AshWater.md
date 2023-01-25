@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 灰水  
 > 可以煮沸制成碱液。  
   
@@ -14,6 +13,11 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用  |  -  |    |  → [椰子壳](CoconutShell.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+75<br>[情绪](Morale.md)-10<br>[恶心](Nausea.md)+50  
+饮用<br>  |  -  |    |  → [椰子壳](CoconutShell.md)<br>耐久  -250<br>undefined  -300<br>  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+75<br>[情绪](Morale.md)-10<br>[恶心](Nausea.md)+50  
 ## 可拖至  
 [人鱼巢](MermaidNest.md), [干土堆](DirtPile.md), [临时防毒面具](MaskMakeshift.md), [细土](FineDirt.md), [肥皂](SoapDry.md), [湿肥皂](SoapWet.md)  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Evaporation  |    |    |    
+Evaporation Large  |    |    |    

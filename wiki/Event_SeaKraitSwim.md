@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 一条海蛇！  
 >   
   
@@ -14,5 +13,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-我躲过去了！  |  -  |  [游泳(技能)](Skill_Swimming.md):100-150  |    |    
-被咬了……  |  -  |  [游泳(技能)](Skill_Swimming.md):0-99  |    |  [VenomKraitInjector_GameName](VenomKraitInjector.md)+6～+16  
+我躲过去了！<br>  |  -  |  [游泳(技能)](Skill_Swimming.md):100-150  |    |    
+被咬了……<br>  |  -  |  [游泳(技能)](Skill_Swimming.md):0-99  |    |  [VenomKraitInjector_GameName](VenomKraitInjector.md)+6～+16  

@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 茉莉花  
 > 它们散发着沁人心脾的芬芳，可以冲泡成一种安神茶。  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[情绪](Morale.md)-3<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[情绪](Morale.md)-3<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [开水](LQ_WaterBoiling.md)  |  浸泡  |  15分  |    |  自身:<br>→ [卡瓦汤](LQ_Kava.md)<br><br>使用物:<br>→ [茉莉花茶](LQ_JasmineTea.md)<br><br>  |    
 [“锤”](tag_Hammer.md)  |  捣碎  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [捣碎的茉莉花](JasmineFlowersGround.md)<br><br>  |  [体重](Weight.md)-1<br>[污垢](Filth.md)+4<br>[手掌损伤](HandDamage.md)+20<br>[药草学(技能)](Skill_Herbology.md)+1  
@@ -25,7 +24,11 @@
 - [鲜花项链(蓝图)](Bp_FlowerNecklace.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |    
+耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md):0-0  |  进度+1  |    

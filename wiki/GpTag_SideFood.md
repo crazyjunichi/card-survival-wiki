@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 配菜(组)  
 - [煮熟的参薯](YamBoiled.md)  
 - [马勃菌](Puffballs.md)  

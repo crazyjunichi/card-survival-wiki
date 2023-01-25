@@ -1,10 +1,9 @@
-[返回首页](index.md)  
 # 荒芜沙滩  
 >   
   
   属性  |   图片   
  ----  |  ----:   
- **标签：**	[“可能出现海鸥”](tag_Coastal.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md), [“干燥环境”](tag_EnvDry.md), [“浅水域”](tag_MonitorTerritory.md)<br><br>**初始：**	[荒芜沙滩](DesolateBeach.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [沙堆(环礁)](SandSource.md)  |  ![](Sprite/DesolateBeach.png)   
+ **标签：**	[“可能出现海鸥”](tag_Coastal.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md), [“干燥环境”](tag_EnvDry.md), [“浅水域”](tag_MonitorTerritory.md)<br><br>**初始：**	[荒芜沙滩](DesolateBeach.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [沙堆(环礁)](SandSource.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)-5<br>[内陆恐惧症](LandSickness.md)加成-8  |  ![](Sprite/DesolateBeach.png)   
   
 ## 获取来源  
 来源  |  操作  

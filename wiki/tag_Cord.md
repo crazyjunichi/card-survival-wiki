@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “细线”  
 - [细线](CordFiber.md)  
 - [绳子](Rope.md)  

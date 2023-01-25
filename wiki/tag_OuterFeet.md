@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “左脚（外层）”  
 - [椰子凉鞋](CoconutSandals.md)  
 - [人字拖](Flipflops.md)  

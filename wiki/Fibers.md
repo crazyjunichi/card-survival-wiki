@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 纤维  
 > 可以把它和更多的纤维编织成细线。也可以用作火绒。  
   
@@ -16,7 +15,7 @@
 [蛇草](SnakeGrass.md)  |  提取纤维  
 [蛇草](SnakeGrass.md)  |  提取纤维  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [手钻](HandDrill.md)  |  钻木取火  |  30分  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+40  
 [弓钻](BowDrill.md)  |  钻木取火  |  15分  |    |  自身:<br>→ [火种](TinderLit.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+10  

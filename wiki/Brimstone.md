@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 硫磺  
 > 这闻起来有点糟。  
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**50  |  ![](Sprite/Brimstone.png)   
+ **重量：**50<br><br>** 效果: **<br>[不适](Discomfort.md)+100  |  ![](Sprite/Brimstone.png)   
   
 ## 获取来源  
 来源  |  操作  

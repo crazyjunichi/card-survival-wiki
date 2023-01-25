@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 环境  
 - [蝙蝠洞(环境)](Env_CaveBats.md)  
 - [潮湿洞穴(环境)](Env_DampChamber.md)  

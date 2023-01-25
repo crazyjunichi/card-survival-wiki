@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 兽皮(组)  
 - [刮净的皮](SkinFleshed.md)  
 - [新鲜兽皮](SkinFresh.md)  

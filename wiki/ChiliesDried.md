@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 干辣椒  
 > 好辣！  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  -  |    |  可用次数  -1<br>  |  [饱食](Satiation.md)+20<br>[辣椒素](Capsaicin.md)+12<br>[胃](Stomach.md)+5<br>[水分](Hydration.md)-4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+35<br>[污垢](Filth.md)+1  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+20<br>[辣椒素](Capsaicin.md)+12<br>[胃](Stomach.md)+5<br>[水分](Hydration.md)-4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+35<br>[污垢](Filth.md)+1  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  捣碎  |  15分  |    |  自身:<br>→ [辣椒粉](ChiliPowder.md)<br><br>  |    
 ## 可拖至  

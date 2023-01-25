@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 手掌损伤  
-变化范围？: 0 ~ 1000  
+变化范围: 0 ~ 1000  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">我的手掌好疼  |  割伤和擦伤使我很难用手工作。  |  [手茧](CallousesHands.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
@@ -158,6 +158,5 @@
 [野参薯](YamPlant.md)  |  刨参薯根  |  10  
 [铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  5  
 [牡蛎](Oyster.md)  |  打开  |  5  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+[绑手带](HandWrappings.md)  |  被动  |  -200  
+[皮革手套](LeatherGloves.md)  |  被动  |  -200  

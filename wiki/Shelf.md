@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 架子  
 > 一个简单的架子，可以存储或展示物品。  
   
   属性  |   图片   
  ----  |  ----:   
- **标签：**	[“袋子”](tag_Bag.md)<br><br>**容重量：**600<br><br>**减重量：**-600<br><br>可重命名  |  ![](Sprite/Shelf.png)   
+ **标签：**	[“袋子”](tag_Bag.md)<br><br>**容重量：**600<br><br>**减重量：**-600<br><br>** 可重命名 **  |  ![](Sprite/Shelf.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,4 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解  |  30分  |    |  [木板](Plank.md)(+1)<br>[小树枝](Sticks.md)(+1)  |    
+拆解<br>  |  30分  |    |  [木板](Plank.md)(+1)<br>[小树枝](Sticks.md)(+1)<br>  |    
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Decoration Comfort  |    |    |  [舒适度](Comfort.md)+10  
+Decoration Advanced Comfort  |    |    |  [舒适度](Comfort.md)+15  

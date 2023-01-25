@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 特殊  
 - [补给胶囊](TV_SupplyCapsule.md)  
 - [哺乳期山羊](GoatEnclosureLactating.md)  

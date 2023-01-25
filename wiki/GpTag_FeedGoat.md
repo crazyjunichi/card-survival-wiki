@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 山羊饲料(组)  
 - [稻杆](RiceStraw.md)  
 - [棕榈叶](PalmFronds.md)  

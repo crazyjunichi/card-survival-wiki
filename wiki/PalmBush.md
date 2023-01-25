@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 棕榈丛  
 > 可以采集棕榈叶。  
   
@@ -20,4 +19,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  30分  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[棕榈叶](PalmFronds.md)(+12～+24)<br>[棕榈丛种子](PalmBushSeeds.md)(+1)  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md):10-100  |  使用次数  -1<br><br>[棕榈叶](PalmFronds.md)(+12～+24)<br>[棕榈丛种子](PalmBushSeeds.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

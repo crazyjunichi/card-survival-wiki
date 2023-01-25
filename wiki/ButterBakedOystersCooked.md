@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 黄油焗牡蛎  
 > 可以享用了！  
   
@@ -17,10 +16,10 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出牡蛎  |  -  |    |  → [烹饪锅](CookingPot.md)<br><br>[黄油焗牡蛎](OysterMeatBaked.md)(+4)  |    
+取出牡蛎<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br><br>[黄油焗牡蛎](OysterMeatBaked.md)(+4)<br>  |    
 ## 可拖至  
 [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>[腐烂物](RottenRemains.md)+1 <br>→ [烹饪锅](CookingPot.md)  

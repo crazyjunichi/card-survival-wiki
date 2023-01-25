@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 过热  
-变化范围？: 0 ~ 200  
+变化范围: 0 ~ 200  
+基础变化率: -25 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 26 ～ 99  |  <img decoding="async" src="Sprite/Flame.png" style="width:20px;">过热  |  我出了好多汗……  |  [水分](Hydration.md)加成-1<br>[情绪](Morale.md)加成-0.5<br>[压力](Stress.md)加成+0.5  |    

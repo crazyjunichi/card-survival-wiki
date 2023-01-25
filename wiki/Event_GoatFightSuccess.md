@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 拿下了！  
 > 我拿下了山羊！  
   
@@ -17,4 +16,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [山羊尸体](GoatCarcassFemale.md)(+1)  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  
+继续<br>  |  -  |    |  [山羊尸体](GoatCarcassFemale.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  

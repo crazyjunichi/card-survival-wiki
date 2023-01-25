@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “可烹饪的”  
 - [金鸡纳树皮](BarkCinchona.md)  
 - [干燥的金鸡纳树皮](BarkCinchonaDried.md)  

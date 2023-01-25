@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 肉食盛宴  
 > 噢！美味！  
   
@@ -17,10 +16,10 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+60<br>[胃](Stomach.md)+102<br>[水分](Hydration.md)+22<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+25<br>[世界观](Structure.md)+30<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+30<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+60<br>[污垢](Filth.md)+22  
+食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+60<br>[胃](Stomach.md)+102<br>[水分](Hydration.md)+22<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+25<br>[世界观](Structure.md)+30<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+30<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+60<br>[污垢](Filth.md)+22  
 ## 可拖至  
 [祖父](Grandfather.md), [祖父](GrandfatherHealthy.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>[腐烂物](RottenRemains.md)+1 <br>→ [烹饪锅](CookingPot.md)  

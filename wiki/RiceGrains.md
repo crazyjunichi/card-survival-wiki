@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 稻米  
 > 把它浸泡在水中煮沸就能食用。  
   
@@ -11,7 +10,7 @@
 ----  |  ----  
 [稻秆](RiceStalks.md)  |  打谷  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [浸泡的西米](LQ_SoakedSago.md)<br><br>使用物:<br>→ [浸泡的米](LQ_SoakedRice.md)<br><br>  |    
 [开水](LQ_WaterBoiling.md)  |  浸泡  |  -  |    |  自身:<br>→ [浸泡的西米](LQ_SoakedSago.md)<br><br>使用物:<br>→ [浸泡的米](LQ_SoakedRice.md)<br><br>  |    

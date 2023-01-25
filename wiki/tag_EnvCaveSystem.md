@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “洞穴系统”  
 - [晶石洞穴](CrystalChamber.md)  
 - [潮湿洞穴](DampChamber.md)  

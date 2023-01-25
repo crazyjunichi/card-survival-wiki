@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 配菜(组)  
 - [稻米](RiceGrains.md)  
 - [米饭](RiceCooked.md)  

@@ -1,10 +1,43 @@
-[返回首页](index.md)  
 # 世界观  
-变化范围？: 0 ~ 5000  
+变化范围: 0 ~ 5000  
+基础变化率: +1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    
 101 ～ 750  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">弱  |    |  [精神失常](MindState.md)加成+2<br>[世界观](Structure.md)加成+3<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+1  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[铜项链](CopperNecklace.md)  |  被动  |  加成+0.5  
+[珍珠项链](PearlNecklace.md)  |  被动  |  加成+0.5  
+[鲜花项链](FlowerNecklace.md)  |  被动  |  加成+0.25  
+[夏威夷衬衫](HawaiianShirt.md)  |  被动  |  加成+0.25  
+[卫衣](HoodieRetromation.md)  |  被动  |  加成+0.25  
+[月季](ChinaRoseFlowers.md)  |  被动  |  加成+0.25  
+[椰子凉鞋](CoconutSandals.md)  |  被动  |  加成+0.1  
+[人字拖](Flipflops.md)  |  被动  |  加成+0.1  
+[包脚布](FootWrappings.md)  |  被动  |  加成+0.1  
+[眼镜](Glasses.md)  |  被动  |  加成+0.1  
+[绑手带](HandWrappings.md)  |  被动  |  加成+0.1  
+[求生帽](HatSurvival.md)  |  被动  |  加成+0.1  
+[棕榈编织帽](HatWoven.md)  |  被动  |  加成+0.1  
+[草裙](LeafSKirt.md)  |  被动  |  加成+0.1  
+[皮革手套](LeatherGloves.md)  |  被动  |  加成+0.1  
+[皮裤](LeatherPants.md)  |  被动  |  加成+0.1  
+[皮革鞋子](LeatherShoes.md)  |  被动  |  加成+0.1  
+[军靴](MilitaryBoots.md)  |  被动  |  加成+0.1  
+[军裤](MilitaryPants.md)  |  被动  |  加成+0.1  
+[布制裤子](PantsCloth.md)  |  被动  |  加成+0.1  
+[海鸥护符](SeagullCharm.md)  |  被动  |  加成+0.1  
+[贝壳项链](SeashellNecklace.md)  |  被动  |  加成+0.1  
+[衬衫](ShirtFiber.md)  |  被动  |  加成+0.1  
+[短裤](Shorts.md)  |  被动  |  加成+0.1  
+[运动鞋](Sneakers.md)  |  被动  |  加成+0.1  
+[袜子](Socks.md)  |  被动  |  加成+0.1  
+[T恤](T-Shirt.md)  |  被动  |  加成+0.1  
+[内裤](Underwear.md)  |  被动  |  加成+0.1  
+[鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
+[崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

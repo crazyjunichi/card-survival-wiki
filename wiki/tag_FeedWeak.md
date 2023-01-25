@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “弱效食料”  
 - [香蕉树芯](BananaStem.md)  
 - [月季](ChinaRoseFlowers.md)  

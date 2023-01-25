@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “一级矛”  
 - [鱼镖](HarpoonBone.md)  
 - [铜长矛](SpearCopper.md)  

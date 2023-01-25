@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 辣椒(组)  
 - [辣椒](Chilies.md)  
 - [干辣椒](ChiliesDried.md)  

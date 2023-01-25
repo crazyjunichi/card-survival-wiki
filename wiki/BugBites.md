@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 蚊虫叮咬  
-变化范围？: 0 ~ 384  
+变化范围: 0 ~ 384  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 96 ～ 192  |  <img decoding="async" src="Sprite/BugBites.png" style="width:20px;">蚊虫叮咬  |  痒……  |  [疼痛](Pain.md)+25<br>[皮肤完整度](SkinIntegrity.md)<br>[细菌性斑疹伤寒](BacteriaTyphusPackage.md)-1  |    
@@ -17,6 +17,3 @@
 [人鱼巢](MermaidNest.md)  |  睡觉  |  -1  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

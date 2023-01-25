@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 钓鱼线（已添加诱饵）  
 > 可以用它来钓鱼。如果把其绑在钓竿上效率会更高。  
   
@@ -12,8 +11,8 @@
 [钓鱼线](FishingLineRustic.md) , [“诱饵”](tag_Bait.md)  |  添加诱饵  
 ## 可拖至  
 [海水(覆溺洞穴)](Sea_Cave.md), [海(环礁)](Sea_Atoll.md), [海(海湾)](Sea_Bay.md), [海(沙滩)](Sea_Beach.md), [海(沙滩)](Sea_Cove.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [海(红树林)](Sea_Mangroves.md), [海](Sea_Raft.md), [海(鸟岩岛)](Sea_Rocks.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：15<br>最大：15  |  -  |  [细线](CordFiber.md)+2   
-诱饵<img decoding="async" src="Sprite/SaturationFish.png" style="width:30px;">  |  初始：1<br>最大：1  |  -  |  → [钓鱼线](FishingLineRustic.md)  
+使用次数  |  初始：15<br>最大：15  |  -  |  ** 到达0时： **<br>[细线](CordFiber.md)+2   
+诱饵<img decoding="async" src="Sprite/SaturationFish.png" style="width:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>→ [钓鱼线](FishingLineRustic.md)  

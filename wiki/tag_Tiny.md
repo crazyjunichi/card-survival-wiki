@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “小的”  
 - [草木灰敷料](AshDressing.md)  
 - [铜针](CopperNeedle.md)  

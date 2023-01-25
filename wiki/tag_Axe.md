@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “锤”  
 - [铜斧](AxeCopper.md)  
 - [燧石斧](AxeFlint.md)  

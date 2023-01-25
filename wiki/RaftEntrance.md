@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 木筏  
 > 木筏准备好了。我应该在准备离开前备足物资。  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Raft.png)   
+ ** 只允许存在一个 **  |  ![](Sprite/Raft.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,4 +12,8 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-上木筏  |  -  |    |  可用次数 + 1<br><br>[木筏(环境)](Env_Raft.md)(+1)<br>[离开木筏](RaftExit.md)(+1)<br>[开始冒险](Start_Raft.md)(+1)<br>[木筏](Raft.md)(+1)  |  [在木筏上](OnRaft.md)+1  
+上木筏<br>  |  -  |    |  使用次数 + 1<br><br>[木筏(环境)](Env_Raft.md)(+1)<br>[离开木筏](RaftExit.md)(+1)<br>[开始冒险](Start_Raft.md)(+1)<br>[木筏](Raft.md)(+1)<br>基础权重：1<br>  |  [在木筏上](OnRaft.md)+1  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Determination  |    |    |  [决心](Determination.md)加成+1  

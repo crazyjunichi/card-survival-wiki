@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 石头  
 > 可以当作锤子使用，也可以用来打磨另一块石头。可置于窑炉内煅烧成生石灰。  
   
@@ -72,9 +71,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-练习投石  |  1小时  |  [ModifierHand_GameName](ModifierHand.md):0-2  |    |  [投石(技能)](Skill_RockThrowing.md)+1<br>[情绪](Morale.md)+0.25  
+练习投石<br>[手部动作](HandAction.md)  |  1小时  |  [ModifierHand_GameName](ModifierHand.md):0-2  |    |  [投石(技能)](Skill_RockThrowing.md)+1<br>[情绪](Morale.md)+0.25  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  打磨石头  |  2小时  |  [光亮](Light.md):10-100  |  自身:<br>→ [石刀](StoneSharpened.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [手掌损伤](HandDamage.md)+40<br>[制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  

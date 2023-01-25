@@ -1,7 +1,6 @@
-[返回首页](index.md)  
 # 事件  
 - [(事件)<b>砰！！！</b>](Event_JerrycanExplosion.md)  
-- [(事件)┗|｀O′|┛ 嗷！！！！](Event_DogFriendAnger.md)  
+- [(事件)┗｀O′┛ 嗷！！！！](Event_DogFriendAnger.md)  
 - [(事件)啊！](Event_MacaqueDenFightBadFailure.md)  
 - [(事件)啊！](Event_MacaqueDenFightFailedRetreat.md)  
 - [(事件)啊！](Event_MacaqueFightBadFailure.md)  

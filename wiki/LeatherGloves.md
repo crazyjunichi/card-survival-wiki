@@ -1,21 +1,25 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 皮革手套  
 > 保护我的双手。<br><br><b>必须装备在装备栏才能生效</b>  
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**5376  |  ![](Sprite/GlovesLeather.png)   
+ **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**5376<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+1<br>[手掌损伤](HandDamage.md)-200<br>[世界观](Structure.md)加成+0.1  |  ![](Sprite/GlovesLeather.png)   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [皮革手套(蓝图)](Bp_LeatherGloves.md)  |  蓝图制造  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修理  |  30分  |    |  自身:<br>可用次数 + 800<br><br>使用物:<br>可用次数  -1<br><br>  |    
-## 变化  
+[“针线”](tag_ThreadedNeedle.md)  |  修理  |  30分  |    |  自身:<br>使用次数 + 800<br><br>使用物:<br>可用次数  -1<br><br>  |    
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：5376<br>最大：5376  |  -  |  [鞣制兽皮](CuredSkin.md)+2   
+使用次数  |  初始：5376<br>最大：5376  |  -  |  ** 到达0时： **<br>[鞣制兽皮](CuredSkin.md)+2   
 <img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;">1～12  |    |  [湿度](Wetness.md)+20  
+FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md):0-0<br>[淋雨](RainExposure.md):1-5  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">：+2  |    

@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 粪便  
 > 可用作肥料。  
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)  |  ![](Sprite/Manure.png)   
+ **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  ![](Sprite/Manure.png)   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “头部（外层）”  
 - [求生帽](HatSurvival.md)  
 - [棕榈编织帽](HatWoven.md)  

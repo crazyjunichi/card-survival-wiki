@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “高级装饰品”  
 - [方解石晶体](Calcite.md)  
 - [铸铜鱼雕](CopperDecoration_Fish.md)  

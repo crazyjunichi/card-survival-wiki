@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 切割工具(组)  
 - [石刀](StoneSharpened.md)  
 - [骨刀](KnifeBone.md)  

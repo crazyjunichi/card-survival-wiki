@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 未烹饪的醉蟹  
 > 下一步是放火上烹饪。  
   
@@ -18,7 +17,7 @@
 [醉蟹](DrunkenCrab.md)  |  [火堆](Fire.md)  
 [醉蟹](DrunkenCrab.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [醉蟹](DrunkenCrab.md)  |  [火炉](Stove.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  [腐烂物](RottenRemains.md)+1 <br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>[腐烂物](RottenRemains.md)+1 <br>→ [烹饪锅](CookingPot.md)  

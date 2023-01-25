@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 铜针  
 > 用于制作更复杂的纺织品或者皮制品。  
   
@@ -12,7 +11,7 @@
 [铜针(蓝图)](Bp_CopperNeedles.md)  |  蓝图制造  
 [针线](CopperNeedleThreaded.md)  |  取下细线  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [针线](CopperNeedleThreaded.md)<br><br>  |    
 ## 可用于蓝图  

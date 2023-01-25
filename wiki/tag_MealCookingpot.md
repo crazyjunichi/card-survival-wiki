@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “可烹饪的”  
 - [骨头汤](BoneBroth.md)  
 - [椰子鱼](CoconutFish.md)  

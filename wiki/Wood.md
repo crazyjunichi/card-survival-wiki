@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 木材  
 > 很好的柴火和建材。  
   
@@ -54,9 +53,9 @@
 [湿地丛林](Wetlands.md) , [“锤状的”](tag_AxeAdv.md)  |  砍伐木材  
 [湿地丛林](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“高级切割工具”](tag_CutterAdv.md)  |  刨花  |  15分  |    |  使用物:<br>可用次数  -1<br><br>获得:<br>[木屑](WoodShavings.md)(+1～+3)<br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“高级切割工具”](tag_CutterAdv.md)  |  刨花  |  15分  |    |  使用物:<br>可用次数  -1<br><br>获得:<br>[木屑](WoodShavings.md)(+1～+3)<br><br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [火炭](Embers.md)  |  烫一个洞  |  15分  |    |  自身:<br>→ [烧着的木棒](WoodBurning.md)<br><br>  |    
 [小树枝](Sticks.md)  |  堆成火堆  |  15分  |    |  自身:<br>→ [火堆(熄灭)](FireExtinguished.md)<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-5  
 ## 可拖至  

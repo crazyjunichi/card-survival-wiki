@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “开放性伤口”  
 - [擦伤](W_Abrasion.md)  
 - [左臂撕裂伤](W_ArmLacerationL.md)  

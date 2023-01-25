@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “喂”  
 - [蝙蝠尸体](Bat.md)  
 - [烤蝙蝠](BatCooked.md)  

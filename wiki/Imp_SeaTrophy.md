@@ -1,10 +1,9 @@
-[返回首页](index.md)  
 # 海之荣耀  
 > 记录我海洋探险的装饰品。  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/SeaTrophy.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+75  |  ![](Sprite/SeaTrophy.png)   
   
 ## 制作  
 步骤  |  时间  |  状态  |  成品  

@@ -1,10 +1,18 @@
-[返回首页](index.md)  
 # 足部损伤  
-变化范围？: 0 ~ 1000  
+变化范围: 0 ~ 1000  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" style="width:20px;">我的脚好疼  |  割伤和水泡使走路更困难。  |  [足茧](CallousesFeet.md)加成+0.25<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/FootDamaged.png" style="width:20px;">我的脚太痛了  |  我的脚上都是割伤和水泡，太疼了。  |  [足茧](CallousesFeet.md)加成+0.5<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[椰子凉鞋](CoconutSandals.md)  |  被动  |  加成-1.5  
+[人字拖](Flipflops.md)  |  被动  |  加成-1.5  
+[皮革鞋子](LeatherShoes.md)  |  被动  |  加成-3  
+[运动鞋](Sneakers.md)  |  被动  |  加成-3  
+[军靴](MilitaryBoots.md)  |  被动  |  加成-5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -111,6 +119,5 @@
 [海鸥巢](SeagullNest.md)  |  攀爬  |  8  
 [环礁](Atoll.md)  |  探索  |  4  
 [隐秘港湾](Cove.md)  |  探索  |  4  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+[包脚布](FootWrappings.md)  |  被动  |  -200  
+[袜子](Socks.md)  |  被动  |  -200  

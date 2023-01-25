@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “农作物”  
 - [杏仁树田](CropPlotAlmondTree.md)  
 - [芦荟田](CropPlotAloeVera.md)  

@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 软体类<nobr>厌倦度</nobr>  
-变化范围？: 0 ~ 288  
+变化范围: 0 ~ 288  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 193 ～ 288  |  <img decoding="async" src="Sprite/SaturationMollusks.png" style="width:20px;">我讨厌吃软体动物……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
@@ -20,6 +20,3 @@
 [黄油焗牡蛎](OysterMeatBaked.md)  |  食用  |  15  
 [烤海胆](UrchinMeatCooked.md)  |  食用  |  15  
 [松软的烤海螺肉](ConchMeatSoftCooked.md)  |  食用  |  10  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

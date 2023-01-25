@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 斧子(组)  
 - [铜斧](AxeCopper.md)  
 - [石斧](StoneAxe.md)  

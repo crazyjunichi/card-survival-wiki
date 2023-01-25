@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “干燥环境”  
 - [火山(环境)](Env_AcidLake.md)  
 - [环礁(环境)](Env_Atoll.md)  

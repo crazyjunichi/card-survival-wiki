@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 韦斯顿的陪伴  
-变化范围？: 0 ~ 96  
+变化范围: 0 ~ 96  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 96  |  <img decoding="async" src="Sprite/Weston.png" style="width:20px;">  |    |  [孤独感](Loneliness.md)加成-4<br>[世界观](Structure.md)加成-1<br>[韦斯顿亲密关系](WestonPropinquity.md)加成+1  |    
@@ -31,6 +31,3 @@
 [(事件)韦斯顿](Event_Weston0c.md)  |  ……  |  15  
 [(事件)韦斯顿](Event_Weston0d.md)  |  ……  |  15  
 [(事件)韦斯顿](Event_Weston0e.md)  |  ……  |  15  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

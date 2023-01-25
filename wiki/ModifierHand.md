@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # ModifierHand_GameName  
-变化范围？: 0 ~ 3  
+变化范围: 0 ~ 3  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  ModifierHand_Statuses[0].GameName  |    |    |    
@@ -9,6 +9,28 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  2  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  2  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  1  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  1  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  1  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  1  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  1  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  1  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  1  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  1  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  1  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  1  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  1  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  1  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  1  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  1  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  0.5  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  0.5  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  0.5  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  0.5  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  0.5  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 神圣灵视  
-变化范围？: 0 ~ 1  
+变化范围: 0 ~ 1  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/GodState.png" style="width:20px;">  |    |  [情绪](Morale.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[世界观](Structure.md)加成+1  |    

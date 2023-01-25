@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 小树枝  
 > 可以作为燃料或者制作一些别的东西，比如手钻什么的。  
   
@@ -86,7 +85,7 @@
 [野枣丛](WildJujube.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [摘光的野枣从](WildJujubeCleared.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  制作手钻  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [手钻](HandDrill.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [细线](CordFiber.md)  |  制作止血带  |  30分  |  [光亮](Light.md):10-100  |  自身:<br>→ [简易止血带](TourniquetRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  

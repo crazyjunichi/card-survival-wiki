@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 情绪  
-变化范围？: -350 ~ 350  
+变化范围: -350 ~ 350  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 326 ～ 350  |  <img decoding="async" src="Sprite/Euphoric.png" style="width:20px;">欢欣  |  我对生活很满意  |  [免疫系统](ImmuneSystem.md)+100<br>[情绪](Morale.md)加成-3<br>[世界观](Structure.md)加成-4<br>[孤独感](Loneliness.md)加成-1<br>[狂躁](Mania.md)加成+0.75<br>[失实症](Derealization.md)加成-100  |    
@@ -10,6 +10,32 @@
 -300 ～ -251  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">抑郁  |  撑不下去了……  |  [免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)-50<br>[情绪](Morale.md)加成+1<br>[世界观](Structure.md)加成-1  |    
 -349 ～ -301  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">严重抑郁  |  生活毫无乐趣……  |  [免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)-75<br>[情绪](Morale.md)加成+1.5<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+0.75  |    
 -350 ～ -350  |  <img decoding="async" src="Sprite/Suicidal.png" style="width:20px;">崩溃  |  活着毫无意义……  |  [免疫系统](ImmuneSystem.md)-100<br>[食欲](Appetite.md)-100<br>[情绪](Morale.md)加成+2<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+1.5  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  加成+0.5  
+[铜项链](CopperNecklace.md)  |  被动  |  加成+0.25  
+[鲜花项链](FlowerNecklace.md)  |  被动  |  加成+0.25  
+[夏威夷衬衫](HawaiianShirt.md)  |  被动  |  加成+0.25  
+[卫衣](HoodieRetromation.md)  |  被动  |  加成+0.25  
+[草裙](LeafSKirt.md)  |  被动  |  加成+0.25  
+[珍珠项链](PearlNecklace.md)  |  被动  |  加成+0.25  
+[海鸥护符](SeagullCharm.md)  |  被动  |  加成+0.25  
+[贝壳项链](SeashellNecklace.md)  |  被动  |  加成+0.25  
+[月季](ChinaRoseFlowers.md)  |  被动  |  加成+0.25  
+[香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  加成+0.25  
+[干辣椒](ChiliesDried.md)  |  食用  |  加成0  
+[月季](ChinaRoseFlowers.md)  |  食用  |  加成0  
+[鱼干](FishDried.md)  |  食用  |  加成0  
+[咸鱼](FishSalted.md)  |  食用  |  加成0  
+[柠檬草](LemongrassStalks.md)  |  食用  |  加成0  
+[虾](Prawns.md)  |  食用  |  加成0  
+[煮熟的参薯](YamBoiled.md)  |  食用  |  加成0  
+[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  加成0  
+[蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  加成0  
+[糖水](LQ_SugarWater.md)  |  饮用  |  加成0  
+[鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
+[崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -455,16 +481,6 @@
 [燧石](Flint.md)  |  练习投石  |  0.25  
 [投石索](Sling.md)  |  练习  |  0.25  
 [石头](Stone.md)  |  练习投石  |  0.25  
-[干辣椒](ChiliesDried.md)  |  食用  |  0  
-[月季](ChinaRoseFlowers.md)  |  食用  |  0  
-[鱼干](FishDried.md)  |  食用  |  0  
-[咸鱼](FishSalted.md)  |  食用  |  0  
-[柠檬草](LemongrassStalks.md)  |  食用  |  0  
-[虾](Prawns.md)  |  食用  |  0  
-[煮熟的参薯](YamBoiled.md)  |  食用  |  0  
-[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  0  
-[蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  0  
-[糖水](LQ_SugarWater.md)  |  饮用  |  0  
 [杂菌](AssortedMushrooms.md)  |  食用  |  -1  
 [海螺肉](ConchMeat.md)  |  食用  |  -1  
 [蛋](Egg.md)  |  食用  |  -1  
@@ -558,7 +574,7 @@
 [浸泡的西米](LQ_SoakedSago.md)  |  食用  |  -10  
 [浸泡的参薯](LQ_SoakedYam.md)  |  食用  |  -10  
 [有毒的水](LQ_WaterToxic.md)  |  饮用  |  -10  
-[(事件)┗|｀O′|┛ 嗷！！！！](Event_DogFriendAnger.md)  |  继续  |  -15  
+[(事件)┗｀O′┛ 嗷！！！！](Event_DogFriendAnger.md)  |  继续  |  -15  
 [(事件)啊！！！！](Event_MacaqueFoeAnger.md)  |  继续  |  -15  
 [(事件)啊！！！！](Event_MacaqueFriendAnger.md)  |  继续  |  -15  
 [蝙蝠尸体](Bat.md)  |  食用  |  -15  
@@ -601,6 +617,3 @@
 [(事件)监视者](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -200  
 [(事件)监视者](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -200  
 [(事件)监视者](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -200  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

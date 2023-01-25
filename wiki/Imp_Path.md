@@ -1,10 +1,9 @@
-[返回首页](index.md)  
 # 小径  
 > 能帮我更快地移动。  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/JunglePath.png)   
+ ** 效果: **<br>[ModifierTravel_GameName](ModifierTravel.md)+1  |  ![](Sprite/JunglePath.png)   
   
 ## 制作  
 步骤  |  时间  |  状态  |  成品  

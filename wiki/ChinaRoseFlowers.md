@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 月季  
 > 美丽的花，可以吃，也可以戴头上，或是可以拿来沏茶。  
   
   属性  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)  |  ![](Sprite/ChinaRose.png)   
+ **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  ![](Sprite/ChinaRose.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [胃](Stomach.md)+0.5<br>[饱食](Satiation.md)+7<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1<br>[月季效果](ChinaRoseEffect.md)+2  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [胃](Stomach.md)+0.5<br>[饱食](Satiation.md)+7<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1<br>[月季效果](ChinaRoseEffect.md)+2  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [开水](LQ_WaterBoiling.md)  |  浸泡  |  15分  |    |  自身:<br>→ [卡瓦汤](LQ_Kava.md)<br><br>使用物:<br>→ [月季花茶](LQ_ChinaRoseTea.md)<br><br>  |    
 ## 可拖至  
@@ -33,7 +32,7 @@
 - [海鲜杂烩(蓝图)](Bp_SeafoodCup.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |    
+耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **  

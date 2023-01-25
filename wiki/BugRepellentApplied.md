@@ -1,12 +1,16 @@
-[返回首页](index.md)  
 # 驱虫  
-变化范围？: 0 ~ 100  
+变化范围: 0 ~ 100  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 25  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+1  |    
 26 ～ 50  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+2  |    
 51 ～ 75  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+3  |    
 76 ～ 100  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+4  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  加成+1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -31,6 +35,3 @@
 [海(红树林)](Sea_Mangroves.md)  |  洗个澡  |  -50  
 [海](Sea_Raft.md)  |  洗个澡  |  -50  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  -50  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 我做到啦！  
 > 我击败了猕猴们，它们让出了进洞的道路。  
   
@@ -16,4 +15,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [猕猴尸体](MacaqueCarcass.md)(+1)<br>[猕猴窝(环境)](Env_MacaqueDen.md)(+1)  |  [情绪](Morale.md)+20<br>[猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+750  
+继续<br>  |  -  |    |  [猕猴尸体](MacaqueCarcass.md)(+1)<br>[猕猴窝(环境)](Env_MacaqueDen.md)(+1)<br>基础权重：90<br>  |  [情绪](Morale.md)+20<br>[猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+750  

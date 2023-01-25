@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 椰肉  
 > 美味。  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  -  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+12<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)+2<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+45<br>[腹泻](Diarrhoea.md)+15<br>[污垢](Filth.md)+6  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[NutAction](NutAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+12<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)+2<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+45<br>[腹泻](Diarrhoea.md)+15<br>[污垢](Filth.md)+6  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“碗（容器）”](tag_ContainerBowl.md)  |  制作椰奶  |  15分  |    |    |    
 ## 可拖至  
@@ -35,7 +34,7 @@
 [烤椰肉](CoconutMeatCooked.md)  |  [火堆](Fire.md)  
 [烤椰肉](CoconutMeatCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤椰肉](CoconutMeatCooked.md)  |  [火炉](Stove.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

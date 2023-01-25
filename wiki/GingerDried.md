@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 干姜  
 > 可以捣碎并制成姜茶，能够增强免疫系统并缓解消化问题。  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+4<br>[污垢](Filth.md)+2  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+4<br>[污垢](Filth.md)+2  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  捣碎  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [姜末](GingerGround.md)<br><br>  |  [体重](Weight.md)-1<br>[污垢](Filth.md)+4<br>[手掌损伤](HandDamage.md)+20<br>[药草学(技能)](Skill_Herbology.md)+1  
 ## 可拖至  

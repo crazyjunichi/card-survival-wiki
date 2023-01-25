@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “容器（蓄水池）”  
 - [水稻田](RicePaddy.md)  
 - [未栽种的稻田(空)](RicePaddyEmpty.md)  

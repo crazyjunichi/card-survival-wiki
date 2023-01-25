@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 椰子树  
 > 你成功爬了上去。这些椰子现在归你了。  
   
@@ -13,4 +12,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摘取椰子  |  15分  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(+1)  |  [阻止抽到棕榈树](PalmTreeKiller.md)-4  
+摘取椰子<br>  |  15分  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(+1)<br>基础权重：1<br>  |  [阻止抽到棕榈树](PalmTreeKiller.md)-4  

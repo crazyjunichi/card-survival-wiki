@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 棚屋  
 > 屋内  
   
   属性  |   图片   
  ----  |  ----:   
- 可重命名  |  ![](Sprite/Shed.png)   
+ ** 可重命名 **  |  ![](Sprite/Shed.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,4 +12,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[棚屋(环境)](Env_Shed.md)(+1)<br>[离开](ShedExit.md)(+1)  |    
+进入<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[棚屋(环境)](Env_Shed.md)(+1)<br>[离开](ShedExit.md)(+1)<br>基础权重：1<br>  |    

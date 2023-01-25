@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “高地”  
 - [火山(环境)](Env_AcidLake.md)  
 - [东部高地(环境)](Env_HighlandsEastern.md)  

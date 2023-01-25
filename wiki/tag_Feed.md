@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “喂/添加”  
 - [杂菌](AssortedMushrooms.md)  
 - [香蕉](Banana.md)  

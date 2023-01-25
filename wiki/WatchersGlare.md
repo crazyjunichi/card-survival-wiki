@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 监视者的凝视  
-变化范围？: 0 ~ 96  
+变化范围: 0 ~ 96  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 24  |  <img decoding="async" src="Sprite/Watcher.png" style="width:20px;">我在被监视……  |  ……  |  [压力](Stress.md)加成+1  |    
@@ -19,6 +19,3 @@
 [(事件)监视者](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -96  
 [(事件)监视者](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -96  
 [(事件)监视者](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -96  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

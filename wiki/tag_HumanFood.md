@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “人类食物”  
 - [外星结节](AlienNodule.md)  
 - [香蕉](Banana.md)  

@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 体重  
-变化范围？: 0 ~ 15000  
+变化范围: 0 ~ 15000  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 6721 ～ 15000  |  <img decoding="async" src="Sprite/Perk_Overweight.png" style="width:20px;">过度肥胖  |    |  [体重](Weight.md)加成-4<br>[ModifierLeg_GameName](ModifierLeg.md)+1  |    
@@ -12,6 +12,66 @@
 75 ～ 288  |  <img decoding="async" src="Sprite/Malnourishment.png" style="width:20px;">骨瘦嶙峋  |  我感觉身体非常虚弱  |  [免疫系统](ImmuneSystem.md)-100<br>[清醒度](Wakefulness.md)加成-1<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 1 ～ 74  |  <img decoding="async" src="Sprite/Malnourishment.png" style="width:20px;">快饿死了  |  我没力气动了……我要坚持不住了  |  [清醒度](Wakefulness.md)加成-1<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Malnourishment.png" style="width:20px;">死于饥饿  |  你死于饥饿。  |    |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  加成0  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  加成0  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  加成0  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  加成0  
+[擦伤](W_Abrasion.md)  |  条件被动  |  加成-0.1  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  加成-0.1  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  加成-0.1  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  加成-0.1  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  加成-0.1  
+[狗咬伤](W_DogBite.md)  |  条件被动  |  加成-0.1  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  加成-0.1  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  加成-0.1  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  加成-0.1  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  加成-0.1  
+[猕猴咬伤](W_MacaqueBite.md)  |  条件被动  |  加成-0.1  
+[轻微撕裂伤](W_MinorLaceration.md)  |  条件被动  |  加成-0.1  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  加成-0.1  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成-0.1  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成-0.1  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  加成-0.1  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成-0.1  
+[海胆刺伤](W_UrchinWound.md)  |  条件被动  |  加成-0.1  
+[海胆刺伤](W_UrchinWoundSpines.md)  |  条件被动  |  加成-0.1  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  加成-0.25  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  加成-0.25  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成-0.25  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  加成-0.25  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  加成-0.25  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  加成-0.25  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  加成-0.25  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  加成-0.25  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  加成-0.25  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-0.25  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-0.25  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-0.25  
+[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  加成-0.5  
+[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  加成-0.5  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成-0.5  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  加成-0.5  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  加成-0.5  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  加成-0.5  
+[左腿骨折](W_LegFractureL.md)  |  条件被动  |  加成-0.5  
+[右腿骨折](W_LegFractureR.md)  |  条件被动  |  加成-0.5  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  加成-0.5  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-0.5  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-0.5  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-0.5  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成-0.5  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  加成-0.5  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成-1  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  加成-1  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  加成-1  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  加成-1  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  加成-1  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-1  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-1  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

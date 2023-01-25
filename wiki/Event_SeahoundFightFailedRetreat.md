@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 海怪攻击了！  
 > 在我逃跑前它就刺到了我！  
   
@@ -13,4 +12,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(+1～+2)  |  [情绪](Morale.md)-20<br>[海怪寄生虫](ParasitesSeahound.md)+400～+1600  
+继续<br>  |  -  |    |  [海怪刺伤](W_SeahoundSting.md)(+1～+2)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [情绪](Morale.md)-20<br>[海怪寄生虫](ParasitesSeahound.md)+400～+1600  

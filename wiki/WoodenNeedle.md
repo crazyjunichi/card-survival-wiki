@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 木针  
 > 用于制作更复杂的纺织品或者皮制品。  
   
@@ -12,7 +11,7 @@
 [木针(蓝图)](Bp_WoodenNeedles.md)  |  蓝图制造  
 [针线](WoodenNeedleThreaded.md)  |  取下细线  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [针线](WoodenNeedleThreaded.md)<br><br>  |    
 ## 可用于蓝图  
@@ -35,7 +34,7 @@
 - [水袋(蓝图)](Bp_Waterskin.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Durability.png" style="width:30px;">  |  初始：3<br>最大：3  |  -  |    
+<img decoding="async" src="Sprite/Durability.png" style="width:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **  

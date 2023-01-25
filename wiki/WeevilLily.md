@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 大叶仙茅  
 > 我可以采集它的叶子做绷带。  
   
@@ -16,8 +15,8 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  15分  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[大叶仙茅叶片](WeevilLilyLeaves.md)(+1)  |  [药草学(技能)](Skill_Herbology.md)+1  
-## 变化  
+采集<br>  |  15分  |  [光亮](Light.md):10-100  |  使用次数  -1<br><br>[大叶仙茅叶片](WeevilLilyLeaves.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：6  |  -  |  → [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+使用次数  |  初始：6  |  -  |  ** 到达0时： **<br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  

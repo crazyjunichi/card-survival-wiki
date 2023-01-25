@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “高级切割工具”  
 - [仪式匕首](CeremonialDagger.md)  
 - [铜刀](KnifeCopper.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 细线  
 > 我应该用它做点东西，或者多弄点细线，把它纺成线团。  
   
@@ -65,7 +64,7 @@
 [树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [细线](CordFiber.md)  |  制作线团  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [线团](YarnFiber.md)<br><br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖至  

@@ -1,10 +1,9 @@
-[返回首页](index.md)  
 # 皮地毯  
 > 更整洁，更舒适。  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/StitchedHideFloor.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+250  |  ![](Sprite/StitchedHideFloor.png)   
   
 ## 制作  
 步骤  |  时间  |  状态  |  成品  

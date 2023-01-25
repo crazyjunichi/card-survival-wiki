@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 我进不去！  
 > 猕猴们不让我进去，我没打赢它们！  
   
@@ -16,4 +15,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(0～+1)<br>[擦伤](W_Abrasion.md)(0～+2)  |  [情绪](Morale.md)-10<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)0～+200  
+继续<br>  |  -  |    |  [猕猴咬伤](W_MacaqueBite.md)(0～+1)<br>[擦伤](W_Abrasion.md)(0～+2)<br>  |  [情绪](Morale.md)-10<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)0～+200  

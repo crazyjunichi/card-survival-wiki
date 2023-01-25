@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “诱饵”  
 - [蜜蜂](Bees.md)  
 - [虫子](Bugs.md)  

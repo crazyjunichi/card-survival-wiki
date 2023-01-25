@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 角色特性  
 ## 食欲  
 - [胃口大开](Pk_4_Gluttonous.md)  

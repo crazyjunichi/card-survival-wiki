@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “可泼溅的”  
 - [陶碗](ClayBowl.md)  
 - [小陶罐](ClayJar.md)  

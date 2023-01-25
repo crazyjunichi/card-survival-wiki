@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 爬行类厌倦度  
-变化范围？: 0 ~ 288  
+变化范围: 0 ~ 288  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 193 ～ 288  |  <img decoding="async" src="Sprite/SaturationReptile.png" style="width:20px;">我讨厌吃爬行动物……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
@@ -19,6 +19,3 @@
 [腌制中的巨蜥肉](MonitorMeatSaltedDrying.md)  |  食用  |  30  
 [烤蛇肉](SnakeCooked.md)  |  食用  |  30  
 [剥皮的蛇](SnakeSkinned.md)  |  食用  |  30  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

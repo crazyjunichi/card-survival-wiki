@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 大块的布  
 > 一块布，可以直接用它做衣服。或者在织布机上和线团组合一起织成一块更大的布。  
   
@@ -18,8 +17,8 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-临时防毒面具  |  15分  |    |  → [临时防毒面具](MaskMakeshift.md)<br>  |    
-撕开布料  |  15分  |    |  → [布](Cloth.md)<br><br>[布片](ClothSmall.md)(+1)  |    
+临时防毒面具<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时防毒面具](MaskMakeshift.md)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [布](Cloth.md)<br><br>[布片](ClothSmall.md)(+1)<br>  |    
 ## 可拖至  
 [织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md), [腿部（内层）(蓝图)](InnerLegsBlueprint.md), [躯干（内层）(蓝图)](InnerTorsoBlueprint.md)  
 ## 可用于蓝图  

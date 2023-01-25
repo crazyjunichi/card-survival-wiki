@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 姜末  
 > 可以捣碎并制成姜茶，能够增强免疫系统并缓解消化问题。  
   
@@ -14,9 +13,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+8<br>[污垢](Filth.md)+4  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+8<br>[污垢](Filth.md)+4  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [开水](LQ_WaterBoiling.md)  |  浸泡  |  -  |    |  自身:<br>→ [蜘蛛兰茶](LQ_SpiderLily.md)<br><br>使用物:<br>→ [姜茶](LQ_GingerTea.md)<br><br>  |    
 ## 可拖至  
@@ -25,7 +24,7 @@
 - [醉蟹(蓝图)](Bp_DrunkenCrab.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：1344  |  每15分钟-1<br>最多需要：14天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

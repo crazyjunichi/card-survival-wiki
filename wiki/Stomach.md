@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 胃  
-变化范围？: 0 ~ 200  
+变化范围: 0 ~ 200  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 4  |  <img decoding="async" src="Sprite/Stomach.png" style="width:20px;">消化  |    |  [胃](Stomach.md)加成-1<br>[肠道](Intestines.md)加成+1  |    
@@ -197,6 +197,3 @@
 [米汤](LQ_WaterRice.md)  |  饮用  |  1  
 [月季](ChinaRoseFlowers.md)  |  食用  |  0.5  
 [(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -100  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

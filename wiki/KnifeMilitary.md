@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 军刀  
 > 一把坚固的军用小刀，非常好用。<br>变钝后可以再次打磨锋利。  
   
@@ -13,7 +12,7 @@
 [军刀](KnifeMilitary.md) , [石头](Stone.md)  |  磨利  
 [钝刀](KnifeMilitaryBlunt.md) , [石头](Stone.md)  |  磨利  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [军刀](KnifeMilitary.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 ## 可拖至  
@@ -78,7 +77,7 @@
 - [木针(蓝图)](Bp_WoodenNeedles.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：60  |  -  |  → [钝刀](KnifeMilitaryBlunt.md)  
+使用次数  |  初始：60  |  -  |  ** 到达0时： **<br>→ [钝刀](KnifeMilitaryBlunt.md)  

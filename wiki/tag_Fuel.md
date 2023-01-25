@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “燃料”  
 - [铜箭矢](ArrowCopper.md)  
 - [箭杆](ArrowShaft.md)  

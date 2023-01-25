@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 控制台  
 > 我的飞机控制面板。引擎没有运转，但如果能用的话我可以在这里给无线电充电。  
   
   属性  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**  |  ![](Sprite/AloeVera.png)   
+ **槽位：**1<br><br>**过滤器：**<br><br>** 只允许存在一个 **  |  ![](Sprite/AloeVera.png)   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,5 +12,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-启动引擎  |  -  |  [油箱满的](FuelTankFull.md):1-1  |  → [控制台(开)](ControlPanelOn.md)<br>  |    
-检查无线电室  |  -  |    |  → [控制台(开)](ControlPanelOn.md)<br>  |    
+启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md):1-1  |  → [控制台(开)](ControlPanelOn.md)<br>  |    
+检查无线电室<br>  |  -  |    |  → [控制台(开)](ControlPanelOn.md)<br>  |    

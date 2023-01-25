@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 蜘蛛兰叶  
 > 可以捣碎煮制成抗生素汤剂。  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[细菌性发烧](BacteriaFever.md)-50<br>[污垢](Filth.md)+1  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[细菌性发烧](BacteriaFever.md)-50<br>[污垢](Filth.md)+1  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  捣碎叶子  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [捣碎的蜘蛛兰](SpiderLilyGround.md)<br><br>  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[体重](Weight.md)-1<br>[污垢](Filth.md)+4<br>[手掌损伤](HandDamage.md)+20  
 ## 可拖至  
@@ -24,8 +23,12 @@
 转化为  |  容器  
 ----  |  ----  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  [晾晒架](DryingRack.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |    
-进度  |  初始：0<br>最大：336  |  -  |  → [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **  
+进度  |  初始：0<br>最大：336  |  -  |  ** 到达上限时： **<br>→ [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md):0-0  |  进度+1  |    

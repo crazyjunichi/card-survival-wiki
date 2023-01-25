@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “沉重的”  
 - [干土堆](DirtPile.md)  
 - [粘土火盆](ClayFirePit.md)  

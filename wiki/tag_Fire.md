@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “火”  
 - [蒸馏器(关)](AlembicOff.md)  
 - [蒸馏器(开)](AlembicOn.md)  

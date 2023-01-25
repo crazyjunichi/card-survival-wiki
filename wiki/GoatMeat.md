@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 羊肉  
 > 做熟后味道会更好。  
   
@@ -16,9 +15,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+40<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+45<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+50<br>[寄生虫](Parasites.md)0～+150  
+食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+40<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+45<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+50<br>[寄生虫](Parasites.md)0～+150  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [盐](Salt.md)  |  腌制  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [腌制中的羊肉](GoatMeatSaltedDrying.md)<br><br>  |    
 ## 可拖至  
@@ -37,7 +36,7 @@
 [烤羊肉](GoatMeatCooked.md)  |  [火堆](Fire.md)  
 [烤羊肉](GoatMeatCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤羊肉](GoatMeatCooked.md)  |  [火炉](Stove.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

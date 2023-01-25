@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 镇痛  
-变化范围？: 0 ~ 400  
+变化范围: 0 ~ 400  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 100  |  <img decoding="async" src="Sprite/Analgesia.png" style="width:20px;">轻度镇痛剂量  |    |  [疼痛](Pain.md)-200<br>[发烧](Fever.md)加成-10<br>[勇气](Courage.md)+200<br>[压力](Stress.md)加成-2  |    
@@ -15,6 +15,3 @@
 [捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  50  
 [卡瓦根](KavaRoot.md)  |  食用  |  25  
 [干燥的卡瓦根](KavaRootDried.md)  |  食用  |  25  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

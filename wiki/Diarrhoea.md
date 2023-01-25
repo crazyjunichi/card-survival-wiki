@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 腹泻  
-变化范围？: 0 ~ 300  
+变化范围: 0 ~ 300  
+基础变化率: -0.75 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 149 ～ 200  |  <img decoding="async" src="Sprite/Poop.png" style="width:20px;">大便稀软  |  感觉不太好……  |  [肠道](Intestines.md)加成-0.5<br>[水分](Hydration.md)加成-1  |    
@@ -41,6 +41,3 @@
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -7  
 [木炭](Charcoal.md)  |  食用  |  -50  
 [泻立停](AntiDiarrhoeaPills.md)  |  吃药  |  -100  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

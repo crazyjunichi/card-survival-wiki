@@ -1,12 +1,15 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 木桌  
 > 方便我进行各类手工制作。看起来也不错！  
   
   属性  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Table.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+150<br>[工作区](Workplace.md)+600<br><br>** 只允许存在一个 **  |  ![](Sprite/Table.png)   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [木桌(蓝图)](Bp_Table.md)  |  蓝图制造  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Chair Effect  |  ** 需要存在卡牌：**<br>[椅子](ChairPlaced.md)  |    |  [工作区](Workplace.md)+300  

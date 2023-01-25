@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 区域  
 - [蝙蝠洞](CaveBats.md)  
 - [草原洞穴](CaveGrasslands.md)  

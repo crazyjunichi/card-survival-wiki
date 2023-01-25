@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 海螺  
 > 我得把里面那玩意儿整出来。  
   
@@ -23,9 +22,9 @@
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(+1)<br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[海螺肉](ConchMeat.md)(+1)<br>基础权重：1<br><br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

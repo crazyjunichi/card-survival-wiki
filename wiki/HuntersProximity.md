@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 猎手接近  
-变化范围？: -96 ~ 96  
+变化范围: -96 ~ 96  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 24  |  <img decoding="async" src="Sprite/HunterProximity.png" style="width:20px;">我在被追杀  |  有什么发现了我的行踪……  |  [压力](Stress.md)加成+0.75  |    
@@ -10,6 +10,10 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[丛林(环境)](Env_DeepJungle.md)  |  被动  |  -0.5  
+[丛林(环境)](Env_Jungle.md)  |  被动  |  -0.5  
+[红树林(环境)](Env_Mangroves.md)  |  被动  |  -0.5  
+[湿地(环境)](Env_Wetlands.md)  |  被动  |  -0.5  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  -6  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  -6  
 [前往岩滩(沙滩)](Path_BeachToRocks.md)  |  前往  |  -6  
@@ -67,6 +71,3 @@
 [(事件)我失败了！](Event_HunterFightBadFailure.md)  |  闭眼  |  -999  
 [(事件)我没能逃掉！](Event_HunterFightFailedRetreat.md)  |  闭眼  |  -9999  
 [(事件)猎手被击败了！](Event_HunterFightSuccess.md)  |  胜利啦！  |  -9999  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

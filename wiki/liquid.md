@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 液体  
 - [不安全的水](LQ_WaterUnsafe.md)  
 - [醋](LQ_Vinegar.md)  

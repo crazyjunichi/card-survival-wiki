@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “装饰品”  
 - [方解石晶体](Calcite.md)  
 - [茉莉花](ClayJarJasmine.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 海螺肉  
 > 像橡皮一样难嚼，敲软烤熟后味道会好点。  
   
@@ -13,9 +12,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  -  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+3<br>[情绪](Morale.md)-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)+25<br>[污垢](Filth.md)+2～+35<br>[细菌性发烧](BacteriaFever.md)0～+25<br>[寄生虫](Parasites.md)0～+50  
+食用<br>[ShellfishAction](ShellfishAction.md)<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+3<br>[情绪](Morale.md)-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)+25<br>[污垢](Filth.md)+2～+35<br>[细菌性发烧](BacteriaFever.md)0～+25<br>[寄生虫](Parasites.md)0～+50  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  敲松  |  -  |  [光亮](Light.md):10-100  |  自身:<br>→ [松软的海螺肉](ConchMeatSoft.md)<br><br>  |    
 ## 可拖至  
@@ -30,7 +29,7 @@
 [烤海螺肉](ConchMeatCooked.md)  |  [火炉](Stove.md)  
 [烤海螺肉](ConchMeatCooked.md)  |  [烟熏炉](Smoker.md)  
 [烤海螺肉](ConchMeatCooked.md)  |  [烟熏炉](SmokerPlastic.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

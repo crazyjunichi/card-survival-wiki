@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 建筑  
 - [保鲜罐(关)](ClayPotCoolerOff.md)  
 - [保鲜罐(开)](ClayPotCoolerOn.md)  

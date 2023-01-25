@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “东”  
 - [荒芜沙滩(环境)](Env_DesolateBeach.md)  
 - [东部草原(环境)](Env_GrasslandsE.md)  

@@ -1,12 +1,11 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 骷髅  
 > 某人的遗体。我不会也以这样的方式结束吧。  
   
   属性  |   图片   
  ----  |  ----:   
- **环境：**[坑洞(环境)](Env_HighlandHole.md)  |  ![](Sprite/Skeleton.png)   
+ **环境：**[坑洞(环境)](Env_HighlandHole.md)<br><br>** 只允许存在一个 **  |  ![](Sprite/Skeleton.png)   
   
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  15分  |  [光亮](Light.md):10-100  |  [头骨](Skull.md)(+1)<br>[骨头](Bones.md)(+2)<br>[布](Cloth.md)(+2)  |    
+采集<br>  |  15分  |  [光亮](Light.md):10-100  |  [头骨](Skull.md)(+1)<br>[骨头](Bones.md)(+2)<br>[布](Cloth.md)(+2)<br>  |    

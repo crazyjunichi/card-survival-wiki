@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 肺部伤害  
-变化范围？: 0 ~ 1000  
+变化范围: 0 ~ 1000  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/LungDamage.png" style="width:20px;">呼吸困难  |    |  [疼痛](Pain.md)+50<br>[耐力](Stamina.md)加成-0.5  |    
@@ -8,8 +8,5 @@
 751 ～ 999  |  <img decoding="async" src="Sprite/LungDamage.png" style="width:20px;">呼吸非常痛  |    |  [疼痛](Pain.md)+350<br>[耐力](Stamina.md)加成-1.5  |    
 1000 ～ 1000  |  <img decoding="async" src="Sprite/LungDamage.png" style="width:20px;">死于窒息  |    |  [疼痛](Pain.md)+500  |    
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

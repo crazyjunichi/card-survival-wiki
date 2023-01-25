@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “战斗事件”  
 - [(事件)我发现了一头野猪！](Event_BoarFight.md)  
 - [(事件)我跟丢了踪迹……](Event_BoarTrailLost.md)  

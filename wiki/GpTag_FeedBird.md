@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 鸟食(组)  
 - [稻米](RiceGrains.md)  
 - [西米粉](SagoFlour.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “军用的”  
 - [水壶](Canteen.md)  
 - [枪](Gun.md)  

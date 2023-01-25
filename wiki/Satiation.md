@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 饱食  
-变化范围？: 0 ~ 200  
+变化范围: 0 ~ 200  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 151 ～ 200  |  <img decoding="async" src="Sprite/Hunger.png" style="width:20px;">肚子疼  |  吃太多了，想吐。  |  [情绪](Morale.md)加成-1<br>[恶心](Nausea.md)加成+4<br>[饱食](Satiation.md)加成-4<br>[食欲](Appetite.md)加成+0.5  |    
@@ -196,6 +196,3 @@
 [虫子](Bugs.md)  |  食用  |  2  
 [鱼片](FishSlices.md)  |  食用  |  2  
 [烤鱼片](FishSlicesCooked.md)  |  食用  |  2  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

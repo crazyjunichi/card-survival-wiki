@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “山羊”  
 - [小猪](BoarTiedPiglet.md)  
 - [母山羊](GoatEnclosureFemale.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “面部装备”  
 - [防毒面具](GasMaskRustic.md)  
 - [临时防毒面具](MaskMakeshift.md)  

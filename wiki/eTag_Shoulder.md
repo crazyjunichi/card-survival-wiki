@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “肩部装备”  
 - [风箱](Bellows.md)  
 - [铜瓶](CopperBottle.md)  

@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 船长陪伴  
-变化范围？: 0 ~ 96  
+变化范围: 0 ~ 96  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 96  |  <img decoding="async" src="Sprite/Skull.png" style="width:20px;">  |    |  [孤独感](Loneliness.md)加成-5<br>[世界观](Structure.md)加成-1<br>[船长亲密关系](CaptainPropinquity.md)加成+1<br>[情绪](Morale.md)加成-1  |    
@@ -29,6 +29,3 @@
 [(事件)船长](Event_Captain0c.md)  |  ……  |  15  
 [(事件)船长](Event_Captain0d.md)  |  ……  |  15  
 [(事件)船长](Event_Captain0e.md)  |  ……  |  15  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

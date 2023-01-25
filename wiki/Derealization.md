@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 失实症  
-变化范围？: 0 ~ 1000  
+变化范围: 0 ~ 1000  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 25 ～ 100  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">现实感丧失  |  一切都感觉遥远而灰暗  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+1000<br>[疼痛](Pain.md)-100  |    
@@ -22,6 +22,3 @@
 [(事件)监视者](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -250  
 [(事件)监视者](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -250  
 [(事件)神圣灵视](Event_GodExperience1g.md)  |  <i>抓！紧！</i>  |  -999  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

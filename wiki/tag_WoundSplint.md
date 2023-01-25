@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “伤口需要夹板”  
 - [左臂骨折](W_ArmFractureL.md)  
 - [右臂骨折](W_ArmFractureR.md)  

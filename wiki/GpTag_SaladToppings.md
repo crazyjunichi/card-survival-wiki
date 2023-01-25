@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 沙拉配料(组)  
 - [热带杏仁核](TropicalAlmondKernels.md)  
 - [烤热带杏仁](TropicalAlmondsRoasted.md)  

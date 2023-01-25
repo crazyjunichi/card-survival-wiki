@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 清醒度  
-变化范围？: 0 ~ 192  
+变化范围: 0 ~ 192  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 65 ～ 128  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">困了  |  越来越困了（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-1<br>[精神失常](MindState.md)加成+0.5<br>[世界观](Structure.md)加成-0.75<br>[压力](Stress.md)加成+0.5  |    
@@ -40,6 +40,3 @@
 [姜茶](LQ_GingerTea.md)  |  饮用  |  5  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  -5  
 [茉莉花茶](LQ_JasmineTea.md)  |  饮用  |  -5  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

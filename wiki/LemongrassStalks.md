@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 柠檬草  
 > 可食用，尝起来像柠檬！  
   
@@ -17,9 +16,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45<br>[驱虫](BugRepellentApplied.md)+10  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45<br>[驱虫](BugRepellentApplied.md)+10  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  捣碎  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [捣碎的柠檬草](LemonGrassGround.md)<br><br>  |  [体重](Weight.md)-1<br>[污垢](Filth.md)+4<br>[手掌损伤](HandDamage.md)+20<br>[药草学(技能)](Skill_Herbology.md)+1  
 ## 可拖至  
@@ -39,7 +38,7 @@
 - [汤力水(蓝图)](Bp_TonicWater.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

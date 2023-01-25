@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “铜制小物件”  
 - [铜项链](CopperNecklace.md)  
 - [铜罐](CopperJar.md)  

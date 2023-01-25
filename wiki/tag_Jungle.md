@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “丛林”  
 - [蝙蝠洞(环境)](Env_CaveBats.md)  
 - [坠毁的飞机(环境)](Env_CrashedPlane.md)  

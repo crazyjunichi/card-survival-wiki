@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 钠  
-变化范围？: 0 ~ 400  
+变化范围: 0 ~ 400  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 101 ～ 200  |  <img decoding="async" src="Sprite/Salt.png" style="width:20px;">高钠含量  |    |  [水分](Hydration.md)加成-1<br>[恶心](Nausea.md)加成+1  |    
@@ -34,6 +34,3 @@
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  50  
 [腌巨蜥肉](MonitorMeatSalted.md)  |  食用  |  50  
 [(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -10  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

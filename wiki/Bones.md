@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 骨头  
 > 有点吓人，不过也许我能用它们制作点什么。  
   
@@ -14,9 +13,9 @@
 [猕猴尸体](MacaqueCarcass.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
 [骷髅(坑洞)](Skeleton.md)  |  采集  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  打碎  |  30分  |    |  自身:<br>→ [骨头碎片](BoneSplinters.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[骨头碎片](BoneSplinters.md)(+2)<br>  |    
+[“锤”](tag_Hammer.md)  |  打碎  |  30分  |    |  自身:<br>→ [骨头碎片](BoneSplinters.md)<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[骨头碎片](BoneSplinters.md)(+2)<br><br>  |    
 ## 可用于蓝图  
 - [骨刀(蓝图)](Bp_BoneKnife.md)  
 - [鼓(蓝图)](Bp_Drum.md)  

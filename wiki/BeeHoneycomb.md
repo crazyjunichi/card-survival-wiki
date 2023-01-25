@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 巢脾  
 > 甜甜的，很美味。把它放在碗里按压可以分离出蜂蜡和蜂蜜。  
   
@@ -18,9 +17,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+30<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+1<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+200<br>[污垢](Filth.md)+2  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+30<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+1<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+200<br>[污垢](Filth.md)+2  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“碗（容器）”](tag_ContainerBowl.md)  |  提取蜂蜜  |  15分  |    |  自身:<br>→ [蜂蜡](Beeswax.md)<br><br>  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  15分  |    |  自身:<br>→ [浸泡的西米](LQ_SoakedSago.md)<br>耐久  -336<br><br>使用物:<br>→ [蜂蜜水](LQ_HoneyWater.md)<br><br>  |    
@@ -31,7 +30,7 @@
 - [蜂蜜(蓝图)](Bp_Honey.md)  
   
   
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672<br>最大：672  |  每15分钟-1<br>最多需要：7天  |    
+耐久  |  初始：672<br>最大：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **  

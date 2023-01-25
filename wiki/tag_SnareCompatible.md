@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “可用于布置陷阱的树”  
 - [酸湖](AcidLake.md)  
 - [丛林深处](DeepJungle.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 挎包  
 > 我可以把物品储存在里面。<b>可在装备栏装备</b>  
   
@@ -13,4 +12,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解  |  30分  |  [光亮](Light.md):5-100  |  [鞣制兽皮](CuredSkin.md)(+2)<br>[细线](CordFiber.md)(+2～+4)  |    
+拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  30分  |  [光亮](Light.md):5-100  |  [鞣制兽皮](CuredSkin.md)(+2)<br>[细线](CordFiber.md)(+2～+4)<br>  |    

@@ -1,10 +1,9 @@
-[返回首页](index.md)   |  [查看所有蓝图](blueprint.md)
 # 书架  
 > 一个储物装置，可以储存或展示物品。  
   
   属性  |   图片   
  ----  |  ----:   
- 可重命名  |  ![](Sprite/ShelvingUnit.png)   
+ ** 可重命名 **  |  ![](Sprite/ShelvingUnit.png)   
   
 ## 制作  
 步骤  |  时间  |  状态  |  成品  

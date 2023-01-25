@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 燧石  
 > 我可以用这个做把锋利的刀。能用石头打磨它以练习石工技术。  
   
@@ -24,9 +23,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-练习投石  |  1小时  |  [ModifierHand_GameName](ModifierHand.md):0-2  |    |  [投石(技能)](Skill_RockThrowing.md)+1<br>[情绪](Morale.md)+0.25  
+练习投石<br>[手部动作](HandAction.md)  |  1小时  |  [ModifierHand_GameName](ModifierHand.md):0-2  |    |  [投石(技能)](Skill_RockThrowing.md)+1<br>[情绪](Morale.md)+0.25  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  练习石工  |  1小时  |  [光亮](Light.md):10-100  |  自身:<br>→ [石刀](StoneSharpened.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [手掌损伤](HandDamage.md)+20<br>[石工(技能)](Skill_Knapping.md)+2  
 ## 可拖至  

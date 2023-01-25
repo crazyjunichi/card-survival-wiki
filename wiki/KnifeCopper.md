@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 铜刀  
 > 一把小刀，可用于切割或刺穿东西。<br>变钝后可被再次打磨锋利。  
   
@@ -14,7 +13,7 @@
 [铜刀](KnifeCopper.md) , [石头](Stone.md)  |  磨利  
 [钝刀](KnifeCopperBlunt.md) , [石头](Stone.md)  |  磨利  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  磨利  |  30分  |    |  自身:<br>→ [铜刀](KnifeCopper.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 ## 可拖至  
@@ -84,7 +83,7 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：40  |  -  |  → [钝刀](KnifeCopperBlunt.md)  
+使用次数  |  初始：40  |  -  |  ** 到达0时： **<br>→ [钝刀](KnifeCopperBlunt.md)  

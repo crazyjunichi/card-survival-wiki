@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 咖啡丛  
 > 我可以从这里采集咖啡豆。  
   
@@ -13,4 +12,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集  |  30分  |  [光亮](Light.md):10-100  |  可用次数  -1<br><br>[咖啡果](CoffeeBerries.md)(+2～+3)  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md):10-100  |  使用次数  -1<br><br>[咖啡果](CoffeeBerries.md)(+2～+3)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  

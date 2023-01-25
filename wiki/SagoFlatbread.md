@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 西米饼  
 > 美味。  
   
@@ -19,9 +18,9 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  -  |    |    |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)-1<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+40<br>[污垢](Filth.md)+3<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  -  |    |    |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)-1<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+40<br>[污垢](Filth.md)+3<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [参薯酱](YamJam.md)  |  涂抹果酱  |  -  |    |  自身:<br>→ [果酱西米饼](SagoFlatbreadJam.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
 [“储水容器”](tag_WaterContainer.md)  |  涂抹蜂蜜  |  -  |    |  自身:<br>→ [蜂蜜西米饼](SagoFlatbreadHoney.md)<br><br>使用物:<br>含水量  -75<br><br>  |    
@@ -41,7 +40,7 @@
 [烧焦物](CharredRemains.md)  |  [火堆](Fire.md)  
 [烧焦物](CharredRemains.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烧焦物](CharredRemains.md)  |  [火炉](Stove.md)  
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  → [腐烂物](RottenRemains.md)  
+耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  

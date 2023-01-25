@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 油(组)  
 - [油](LQ_Oil.md)  
 - [香茅精油](LQ_OilCitronella.md)  

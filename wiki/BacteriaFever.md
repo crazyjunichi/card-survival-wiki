@@ -1,12 +1,37 @@
-[返回首页](index.md)  
 # 细菌性发烧  
-变化范围？: 0 ~ 1500  
+变化范围: 0 ~ 1500  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 201 ～ 300  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">低  |    |  [发烧](Fever.md)加成+12  |    
 301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
 601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
 901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[擦伤](W_Abrasion.md)  |  条件被动  |  加成+10  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成+10  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  加成+10  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  加成+10  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  加成+10  
+[狗咬伤](W_DogBite.md)  |  条件被动  |  加成+10  
+[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  加成+10  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成+10  
+[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成+10  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成+10  
+[猕猴咬伤](W_MacaqueBite.md)  |  条件被动  |  加成+10  
+[轻微撕裂伤](W_MinorLaceration.md)  |  条件被动  |  加成+10  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  加成+10  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成+10  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成+10  
+[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  加成+10  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成+10  
+[海胆刺伤](W_UrchinWound.md)  |  条件被动  |  加成+10  
+[海胆刺伤](W_UrchinWoundSpines.md)  |  条件被动  |  加成+10  
+[巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成+5  
+[海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成+2  
+[蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成+2  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -60,6 +85,3 @@
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  -50  
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  食用  |  -50  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  食用  |  -50  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

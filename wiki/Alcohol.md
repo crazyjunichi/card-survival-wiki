@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 酒精  
-变化范围？: 0 ~ 70  
+变化范围: 0 ~ 70  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 13 ～ 24  |  <img decoding="async" src="Sprite/Alcohol.png" style="width:20px;">醉醺醺的  |  嘻嘻！  |  [水分](Hydration.md)加成-4<br>[压力](Stress.md)加成-2<br>[世界观](Structure.md)加成-0.5<br>[情绪](Morale.md)加成+1<br>[决心](Determination.md)加成+1<br>[疼痛](Pain.md)-75<br>[勇气](Courage.md)+200  |    
@@ -14,6 +14,3 @@
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  12  
 [醉蟹](DrunkenCrab.md)  |  食用  |  10  
 [(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -32  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

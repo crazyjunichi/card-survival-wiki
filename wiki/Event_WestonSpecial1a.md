@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 韦斯顿  
 > 嗨嗨嗨，韦斯顿来啦！<br>我有些事要告诉你……<br><br>你醒了吗？  
   
@@ -9,4 +8,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-唔……我现在醒了。  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1b.md)(+1)  |  [睡眠中断](SleepInterrupt.md)-1  
+唔……我现在醒了。<br>  |  -  |    |  [(事件)韦斯顿](Event_WestonSpecial1b.md)(+1)<br>  |  [睡眠中断](SleepInterrupt.md)-1  

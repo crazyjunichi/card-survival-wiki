@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 天气  
 - [暴风雨](TropicalIsland_Storm.md)  
 - [暴风雨](TropicalIsland_StormInfinite.md)  

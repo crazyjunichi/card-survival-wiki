@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “粘土”  
 - [未烧制的蒸馏器](AlembicUnfired.md)  
 - [陶碗](ClayBowl.md)  

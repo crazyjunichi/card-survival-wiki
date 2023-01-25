@@ -1,12 +1,23 @@
-[返回首页](index.md)  
 # 压力  
-变化范围？: 0 ~ 240  
+变化范围: 0 ~ 240  
+基础变化率: +1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
 97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
 145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |    
 193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成+2  
+[鬼掌印](W_HunterMark.md)  |  条件被动  |  加成+1  
+[狭窄隧道](NarrowTunnel.md)  |  被动  |  加成+1  
+[铜项链](CopperNecklace.md)  |  被动  |  加成-0.25  
+[鲜花项链](FlowerNecklace.md)  |  被动  |  加成-0.25  
+[珍珠项链](PearlNecklace.md)  |  被动  |  加成-0.25  
+[香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  加成-0.25  
+[茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -457,6 +468,3 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  -60  
 [(事件)宿敌被打败了！](Event_EnemyFightSuccess.md)  |  胜利啦！  |  -100  
 [(事件)猎手被击败了！](Event_HunterFightSuccess.md)  |  胜利啦！  |  -100  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

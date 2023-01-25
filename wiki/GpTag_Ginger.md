@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 姜(组)  
 - [姜](Ginger.md)  
 - [干姜](GingerDried.md)  

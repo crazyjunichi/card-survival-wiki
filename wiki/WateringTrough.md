@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有建筑](building.md)
 # 水槽  
 > 动物们可以在这喝水。  
   
@@ -11,6 +10,12 @@
 ----  |  ----  
 [水槽(蓝图)](Bp_WateringTrough.md)  |  蓝图制造  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  拆除  |  2小时  |    |  使用物:<br>可用次数  -2<br><br>获得:<br>[干土堆](DirtPile.md)(+8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
+[“锤”](tag_Hammer.md)  |  拆除  |  2小时  |    |  使用物:<br>可用次数  -2<br><br>获得:<br>[干土堆](DirtPile.md)(+8)<br><br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Hydrate Goats  |  ** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)  |    |    
+Hydrate Boars  |  ** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)  |    |    
+Rain  |  ** 需要状态：**<br>[降水值](RainValue.md):1-5  |    |    

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “美丽的/好看的”  
 - [方解石晶体](Calcite.md)  
 - [铜项链](CopperNecklace.md)  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 一只蜘蛛！  
 > 我踩到了一只蜘蛛！  
   
@@ -15,6 +14,6 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-别想伤到我  |  -  |  [足部防护](FootProtection.md):4-10  |    |    
-检查伤口  |  -  |  [足部防护](FootProtection.md):1-3.9  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)  |    
-检查伤口  |  -  |  [足部防护](FootProtection.md):0-0  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)  |    
+别想伤到我<br>  |  -  |  [足部防护](FootProtection.md):4-10  |    |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md):1-3.9  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md):0-0  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    

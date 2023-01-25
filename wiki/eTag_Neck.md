@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “颈部”  
 - [相机](Camera.md)  
 - [铜项链](CopperNecklace.md)  

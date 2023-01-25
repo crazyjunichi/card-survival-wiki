@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 干土堆  
 > 可以和水混合制成泥巴，或者碾碎和水制成粘土。  
   
@@ -33,10 +32,10 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作泥巴  |  -  |  [降水值](RainValue.md):1-5  |  → [泥堆](MudPile.md)<br>  |  [污垢](Filth.md)+10  
-碾碎干土  |  30分  |    |  → [细土](FineDirt.md)<br>  |  [污垢](Filth.md)+15  
+制作泥巴<br>[手部动作](HandAction.md)  |  -  |  [降水值](RainValue.md):1-5  |  → [泥堆](MudPile.md)<br>  |  [污垢](Filth.md)+10  
+碾碎干土<br>[手部动作](HandAction.md)  |  30分  |    |  → [细土](FineDirt.md)<br>  |  [污垢](Filth.md)+15  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“水”](tag_WaterAny.md)  |  制作泥巴  |  -  |    |  自身:<br>→ [泥堆](MudPile.md)<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>含水量  -300<br><br>  |  [污垢](Filth.md)+10<br>[湿度](Wetness.md)+20  
 [“锤”](tag_Hammer.md)  |  碾碎干土  |  15分  |  [光亮](Light.md):10-100  |  自身:<br>→ [细土](FineDirt.md)<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br><br>  |  [污垢](Filth.md)+10  

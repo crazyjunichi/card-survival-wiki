@@ -1,11 +1,24 @@
-[返回首页](index.md)  
 # 湿度  
-变化范围？: 0 ~ 100  
+变化范围: 0 ~ 100  
+基础变化率: -20 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  干燥  |    |    |    
 1 ～ 75  |  <img decoding="async" src="Sprite/Wetness.png" style="width:20px;">潮湿  |    |  [体感温度](TemperaturePerceived.md)-10<br>[晒伤](Sunburn.md)加成-1<br>[皮肤潮湿度](SkinHumidity.md)加成+8  |    
 76 ～ 100  |  <img decoding="async" src="Sprite/Wetness.png" style="width:20px;">湿透了  |    |  [体感温度](TemperaturePerceived.md)-20<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[晒伤](Sunburn.md)加成-2<br>[发烧](Fever.md)-100<br>[皮肤潮湿度](SkinHumidity.md)加成+16  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[潮汐洞](CaveTidal.md)  |  条件被动  |  加成+50  
+[火炉](Stove.md)  |  被动  |  加成-1  
+[烟熏炉](Smoker.md)  |  被动  |  加成-1  
+[烟熏炉](SmokerPlastic.md)  |  被动  |  加成-1  
+[烟熏炉](SmokerPlastic.md)  |  被动  |  加成-1  
+[蒸馏器(开)](AlembicOn.md)  |  被动  |  加成-2  
+[营火](Campfire.md)  |  被动  |  加成-2  
+[粘土火盆](ClayFirePit.md)  |  被动  |  加成-2  
+[火堆](Fire.md)  |  被动  |  加成-2  
+[瓦斯炉(开)](GasCookerOn.md)  |  被动  |  加成-2  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -53,9 +66,25 @@
 [海(红树林)](Sea_Mangroves.md)  |  叉鱼  |  60  
 [海](Sea_Raft.md)  |  叉鱼  |  60  
 [海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼  |  60  
+[卫衣](HoodieRetromation.md)  |  条件被动  |  50  
+[衬衫](ShirtFiber.md)  |  条件被动  |  50  
+[T恤](T-Shirt.md)  |  条件被动  |  50  
+[夏威夷衬衫](HawaiianShirt.md)  |  条件被动  |  40  
+[皮裤](LeatherPants.md)  |  条件被动  |  40  
+[军裤](MilitaryPants.md)  |  条件被动  |  40  
+[布制裤子](PantsCloth.md)  |  条件被动  |  40  
+[内裤](Underwear.md)  |  条件被动  |  40  
+[防蜂服](BeeSuit.md)  |  条件被动  |  20  
+[包脚布](FootWrappings.md)  |  条件被动  |  20  
+[绑手带](HandWrappings.md)  |  条件被动  |  20  
+[求生帽](HatSurvival.md)  |  条件被动  |  20  
+[头巾](HeadWrappings.md)  |  条件被动  |  20  
+[皮革手套](LeatherGloves.md)  |  条件被动  |  20  
+[临时防毒面具](MaskMakeshift.md)  |  条件被动  |  20  
+[短裤](Shorts.md)  |  条件被动  |  20  
+[运动鞋](Sneakers.md)  |  条件被动  |  20  
+[袜子](Socks.md)  |  条件被动  |  20  
 [干土堆](DirtPile.md)  |  制作泥巴  |  20  
 [干涸的小水塘(湿地丛林)](Puddle.md)  |  挖泥巴  |  20  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  15  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+[草裙](LeafSKirt.md)  |  条件被动  |  10  

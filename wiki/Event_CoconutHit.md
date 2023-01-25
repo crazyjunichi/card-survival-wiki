@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 成功了！  
 > 哇！我把椰子砸下来了！  
   
@@ -14,4 +13,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(+1)  |  [阻止抽到棕榈树](PalmTreeKiller.md)-1<br>[投石(技能)](Skill_RockThrowing.md)+1  
+继续<br>  |  -  |    |  → [摘完的椰子树](PalmTreeCleared.md)<br><br>[青椰子](CoconutHusked.md)(+1)<br>基础权重：1<br>  |  [阻止抽到棕榈树](PalmTreeKiller.md)-1<br>[投石(技能)](Skill_RockThrowing.md)+1  

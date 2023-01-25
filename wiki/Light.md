@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 光亮  
-变化范围？: 0 ~ 100  
+变化范围: 0 ~ 100  
+基础变化率: 0 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" style="width:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
@@ -8,6 +8,53 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[蒸馏器(开)](AlembicOn.md)  |  被动  |  25  
+[营火](Campfire.md)  |  被动  |  25  
+[粘土火盆](ClayFirePit.md)  |  被动  |  25  
+[火堆](Fire.md)  |  被动  |  25  
+[火炉](Stove.md)  |  被动  |  25  
+[手机](PhoneOnLight.md)  |  被动  |  25  
+[燃烧的信号弹(开)](FlareHandOn.md)  |  被动  |  25  
+[瓦斯炉(开)](GasCookerOn.md)  |  被动  |  20  
+[烟熏炉](Smoker.md)  |  被动  |  20  
+[烟熏炉](SmokerPlastic.md)  |  被动  |  20  
+[熏蜂器(开)](BeeSmokerOn.md)  |  被动  |  20  
+[香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  20  
+[茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  20  
+[蜡烛(开)](CandleOn.md)  |  被动  |  20  
+[炸药(开)](DynamiteOn.md)  |  被动  |  20  
+[火把(开)](TorchOn.md)  |  被动  |  20  
+[环礁(环境)](Env_Atoll.md)  |  被动  |  10  
+[海湾(环境)](Env_Bay.md)  |  被动  |  10  
+[沙滩(环境)](Env_Beach.md)  |  被动  |  10  
+[鸟岩岛(环境)](Env_BirdRock.md)  |  被动  |  10  
+[沙滩(环境)](Env_Cove.md)  |  被动  |  10  
+[东部草原(环境)](Env_GrasslandsE.md)  |  被动  |  10  
+[西部草原(环境)](Env_GrasslandsW.md)  |  被动  |  10  
+[木筏(环境)](Env_Raft.md)  |  被动  |  10  
+[神秘谷(环境)](Env_SecretValley.md)  |  被动  |  10  
+[阴天](TropicalIsland_Cloudy.md)  |  被动  |  -5  
+[阴天](TropicalIsland_CloudyStart.md)  |  被动  |  -5  
+[小雨](TropicalIsland_LightRain.md)  |  被动  |  -5  
+[小雨](TropicalIsland_LightRainStart.md)  |  被动  |  -5  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  被动  |  -5  
+[风向有利](OpenSea_Favourable.md)  |  被动  |  -10  
+[后有风暴](OpenSea_StormBehind.md)  |  被动  |  -10  
+[后有风暴](OpenSea_StormBehindInfinite.md)  |  被动  |  -10  
+[前有风暴](OpenSea_StormFront.md)  |  被动  |  -10  
+[风向不利](OpenSea_UnFavourable.md)  |  被动  |  -10  
+[风向非常有利](OpenSea_VeryFavourable.md)  |  被动  |  -10  
+[风向非常有利](OpenSea_VeryFavourableInfinite.md)  |  被动  |  -10  
+[风向非常不利](OpenSea_VeryUnFavourable.md)  |  被动  |  -10  
+[大雨](TropicalIsland_HeavyRain.md)  |  被动  |  -10  
+[大雨](TropicalIsland_HeavyRainInfinite.md)  |  被动  |  -10  
+[大雨](TropicalIsland_HeavyRainLong.md)  |  被动  |  -10  
+[大雨](TropicalIsland_HeavyRainStart.md)  |  被动  |  -10  
+[暴风雨](TropicalIsland_Storm.md)  |  被动  |  -10  
+[暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  -10  
+[暴风雨](TropicalIsland_StormStart.md)  |  被动  |  -10  
+[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  -25  
+[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  -50  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

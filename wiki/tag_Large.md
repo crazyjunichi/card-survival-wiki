@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “大的”  
 - [诱捕笼](CageTrap.md)  
 - [诱捕笼](CageTrapPlaced.md)  

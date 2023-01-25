@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 我失败了！  
 > 猎手战胜了你！祂伸出手攥住了你！  
   
@@ -16,4 +15,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼  |  1小时  |    |  [鬼掌印](W_HunterMark.md)(+1)  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  
+闭眼<br>  |  1小时  |    |  [鬼掌印](W_HunterMark.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  

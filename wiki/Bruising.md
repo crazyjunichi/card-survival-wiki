@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 淤青  
-变化范围？: 0 ~ 400  
+变化范围: 0 ~ 400  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 150  |  <img decoding="async" src="Sprite/Bruise.png" style="width:20px;">瘀伤  |    |  [疼痛](Pain.md)+50  |    
@@ -12,6 +12,3 @@
 [(事件)啊！](Event_MacaqueDenFightBadFailure.md)  |  继续  |  50 ~ 300  
 [(事件)啊！](Event_MacaqueDenFightFailedRetreat.md)  |  继续  |  25 ~ 150  
 [(事件)我进不去！](Event_MacaqueDenFightFailure.md)  |  继续  |  0 ~ 200  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

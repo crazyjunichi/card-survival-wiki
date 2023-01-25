@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “擦伤”  
 - [擦伤](W_Abrasion.md)  
 - [狗咬伤](W_DogBite.md)  

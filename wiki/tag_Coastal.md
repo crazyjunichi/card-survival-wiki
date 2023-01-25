@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “可能出现海鸥”  
 - [洞穴(环境)](Env_CaveSea.md)  
 - [潮汐洞(环境)](Env_CaveTidal.md)  

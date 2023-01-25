@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 锤击工具(组)  
 - [铜斧](AxeCopper.md)  
 - [废金属斧](AxeScrap.md)  

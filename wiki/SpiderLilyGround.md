@@ -1,4 +1,3 @@
-[返回首页](index.md)   |  [查看所有物品](object.md)
 # 捣碎的蜘蛛兰  
 > 可以煮制成抗生素汤剂。  
   
@@ -14,12 +13,12 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[细菌性发烧](BacteriaFever.md)-50<br>[污垢](Filth.md)+4  
+食用<br>[VegetarianAction](VegetarianAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[细菌性发烧](BacteriaFever.md)-50<br>[污垢](Filth.md)+4  
 ## 可拖入  
-使用  |  动作  |  时间  |  条件  |  变化  |  状态  
+使用  |  动作  |  时间  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [开水](LQ_WaterBoiling.md)  |  浸泡  |  -  |    |  自身:<br>→ [蜘蛛兰茶](LQ_SpiderLily.md)<br><br>使用物:<br>→ [蜘蛛兰茶](LQ_SpiderLily.md)<br><br>  |    
-## 变化  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |    
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **  

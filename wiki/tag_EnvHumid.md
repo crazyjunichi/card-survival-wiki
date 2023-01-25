@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # “潮湿环境”  
 - [潮湿洞穴(环境)](Env_DampChamber.md)  
 - [覆溺洞穴(环境)](Env_FloodedChamber.md)  

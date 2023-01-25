@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 乳清  
 > 一种奶酪副产品。  
   
@@ -13,8 +12,12 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>含水量  -300<br>  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+8<br>[水分](Hydration.md)+30<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[情绪](Morale.md)+4  
-## 变化  
+饮用<br>  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>undefined  -300<br>  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+8<br>[水分](Hydration.md)+30<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[情绪](Morale.md)+4  
+## 变化   
 操作  |  值  |  时间  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：186<br>最大：186  |  每15分钟-1<br>最多需要：1天22小时30分  |    
+耐久  |  初始：186<br>最大：186  |  每15分钟-1<br>最多需要：1天22小时30分  |  ** 到达0时： **  
+## 被动效果 (每15分钟)  
+名称  |  条件  |  变化  |  玩家状态  
+----  |  ----  |  ----  |  ----  
+Evaporation  |    |    |    

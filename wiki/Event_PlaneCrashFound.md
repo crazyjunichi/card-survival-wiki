@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 飞机残骸  
 > 找到了！那是我的飞机！  
   
@@ -9,4 +8,4 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续  |  -  |    |  [飞机残骸\n](PlaneCrashEntrance.md)(+1)<br>[引擎](Engine1Closed.md)(+1)  |  [情绪](Morale.md)+5  
+继续<br>  |  -  |    |  [飞机残骸\n](PlaneCrashEntrance.md)(+1)<br>[引擎](Engine1Closed.md)(+1)<br>基础权重：1<br>  |  [情绪](Morale.md)+5  

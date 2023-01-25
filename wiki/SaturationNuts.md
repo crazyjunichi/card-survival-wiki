@@ -1,6 +1,6 @@
-[返回首页](index.md)  
 # 坚果<nobr>厌倦度</nobr>  
-变化范围？: 0 ~ 288  
+变化范围: 0 ~ 288  
+基础变化率: -1 / 每15分钟  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 193 ～ 288  |  <img decoding="async" src="Sprite/SaturationNuts.png" style="width:20px;">我讨厌吃坚果……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
@@ -12,6 +12,3 @@
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  35  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  35  
 [蛋白棒](ProteinBar.md)  |  食用  |  25  
-## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

@@ -1,4 +1,3 @@
-[返回首页](index.md)  
 # 一头巨蜥！  
 > 它在翻我的东西！它可能吃掉任何我没放在容器里的食物。<br>我应该吓跑它吗？  
   
@@ -9,5 +8,5 @@
 ## 动作  
 动作  |  时间  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随它吧  |  -  |    |  [(事件)巨蜥](Event_MonitorRummaging.md)(+1)  |    
-嘿！  |  -  |    |  [(事件)一头巨蜥！](Event_MonitorFight.md)(+1)  |    
+随它吧<br>  |  -  |    |  [(事件)巨蜥](Event_MonitorRummaging.md)(+1)<br>  |    
+嘿！<br>  |  -  |    |  [(事件)一头巨蜥！](Event_MonitorFight.md)(+1)<br>  |    
