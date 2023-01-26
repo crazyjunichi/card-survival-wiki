@@ -11,7 +11,7 @@
 [蒸馏器(关)](AlembicOff.md)  |  取出  
 [营火](Campfire.md)  |  熄灭火焰  
 [烟熏炉(熄灭)](SmokerExtinguished.md)  |  移除烟熏炉  
-[烟熏炉](SmokerExtinguishedPlastic.md)  |  移除烟熏炉  
+[烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)  |  移除烟熏炉  
 [营火(蓝图)](Bp_Campfire.md)  |  蓝图制造  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

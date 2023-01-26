@@ -6,6 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 150  |  <img decoding="async" src="Sprite/Bruise.png" style="width:20px;">瘀伤  |    |  [疼痛](Pain.md)+50  |    
 151 ～ 400  |  <img decoding="async" src="Sprite/Bruise.png" style="width:20px;">严重瘀伤  |  痛……  |  [疼痛](Pain.md)+100  |    
+## 关联状态  
+[芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

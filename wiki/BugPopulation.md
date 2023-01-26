@@ -12,6 +12,8 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [坠毁的飞机(环境)](Env_CrashedPlane.md)  |  被动  |  加成0  
+## 关联状态  
+[泥巴防护](MudProtection.md)  |  [防晒霜](SunScreenApplied.md)  |  [降水值](RainValue.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

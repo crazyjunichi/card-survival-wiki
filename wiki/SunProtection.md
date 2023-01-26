@@ -10,6 +10,8 @@
 4 ～ 4  |  <img decoding="async" src="Sprite/SunIcon.png" style="width:20px;">低  |    |  [阳光辐射](SunExposure.md)-4  |    
 5 ～ 5  |  <img decoding="async" src="Sprite/SunIcon.png" style="width:20px;">低  |    |  [阳光辐射](SunExposure.md)-5  |    
 6 ～ 6  |  <img decoding="async" src="Sprite/SunIcon.png" style="width:20px;">低  |    |  [阳光辐射](SunExposure.md)-6  |    
+## 关联状态  
+[防晒霜](SunScreenApplied.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

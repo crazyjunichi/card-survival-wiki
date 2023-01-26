@@ -26,7 +26,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1  |    
+Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)<br>** 需要放入：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1  |    
 Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/AloeGel.png" style="width:20px;">: 1～32  |    |  [疼痛](Pain.md)-25  
 Recent Sprain  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" style="width:20px;">: 0～500  |    |  [疼痛](Pain.md)+100<br>[体重](Weight.md)加成-0.1<br>[ModifierHand_GameName](ModifierHand.md)+1<br>[ModifierClimb_GameName](ModifierClimb.md)+1<br>[受伤](Wounds.md)+250  
 Healing Sprain  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" style="width:20px;">: 501～750  |    |  [疼痛](Pain.md)+50<br>[体重](Weight.md)<br>[ModifierHand_GameName](ModifierHand.md)+1<br>[ModifierClimb_GameName](ModifierClimb.md)+1<br>[受伤](Wounds.md)+100  

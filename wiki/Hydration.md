@@ -20,6 +20,8 @@
 [捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  加成0  
 [蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  加成0  
 [果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  加成0  
+## 关联状态  
+[发烧](Fever.md)  |  [腹泻](Diarrhoea.md)  |  [体感温度](TemperaturePerceived.md)  |  [过热](Hyperthermia.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [酒精](Alcohol.md)  |  [钠](Sodium.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

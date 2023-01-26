@@ -8,13 +8,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[烟熏炉](SmokerExtinguishedPlastic.md) , [火种](TinderLit.md)  |  点燃  
+[烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md) , [火种](TinderLit.md)  |  点燃  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 取出火炭<br>  |  -  |    |  燃料  -4<br><br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
-熄灭火焰<br>  |  -  |    |  → [烟熏炉](SmokerExtinguishedPlastic.md)<br>  |    
-移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br><br>[烟熏炉](SmokerNoFirePlastic.md)(+1)<br>基础权重：1<br>  |    
+熄灭火焰<br>  |  -  |    |  → [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)<br>  |    
+移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br><br>[烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -66,4 +66,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>→ [烟熏炉](SmokerExtinguishedPlastic.md)  
+燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>→ [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)  

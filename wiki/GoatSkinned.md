@@ -8,10 +8,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[山羊尸体](GoatCarcassFemale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体](GoatCarcassFemale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
-[山羊尸体](GoatCarcassMale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体](GoatCarcassMale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[山羊尸体(母)](GoatCarcassFemale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
+[山羊尸体(母)](GoatCarcassFemale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[山羊尸体(公)](GoatCarcassMale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
+[山羊尸体(公)](GoatCarcassMale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

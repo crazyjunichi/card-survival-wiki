@@ -5,6 +5,8 @@
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 96  |  <img decoding="async" src="Sprite/Weston.png" style="width:20px;">  |    |  [孤独感](Loneliness.md)加成-4<br>[世界观](Structure.md)加成-1<br>[韦斯顿亲密关系](WestonPropinquity.md)加成+1  |    
+## 关联状态  
+[孤立感](Isolation.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -6,6 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 1  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">近视  |  我眼神不好。  |    |    
 2 ～ 3  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">严重近视  |  我看不太清……  |    |    
+## 关联状态  
+[眼部损伤](EyeDamage.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

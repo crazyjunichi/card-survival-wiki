@@ -8,6 +8,8 @@
 25 ～ 48  |  <img decoding="async" src="Sprite/HunterProximity.png" style="width:20px;">我在被追杀  |  我能感觉到祂离我更近了……  |  [压力](Stress.md)加成+1.5<br>[精神失常](MindState.md)加成+1  |    
 49 ～ 72  |  <img decoding="async" src="Sprite/HunterProximity.png" style="width:20px;">我在被追杀  |  祂离我太近了，我不该待在这里。  |  [压力](Stress.md)加成+3<br>[精神失常](MindState.md)加成+0.5  |    
 73 ～ 96  |  <img decoding="async" src="Sprite/HunterProximity.png" style="width:20px;">我在被追杀  |  祂就快到了！我需要动起来！  |  [压力](Stress.md)加成+6<br>[精神失常](MindState.md)加成+1  |    
+## 关联状态  
+[猎手的注视](HunterInsight.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

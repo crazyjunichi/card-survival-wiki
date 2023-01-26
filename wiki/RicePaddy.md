@@ -18,5 +18,5 @@
 ----  |  ----  |  ----  |  ----  
 Fertile  |  ** 需要存在卡牌：**<br>[“肥沃环境”](tag_EnvFertile.md)  |  进度+0.25  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [不安全的水](LQ_WaterUnsafe.md)+50  |    
-Grow  |    |  进度+2  |    
+Grow  |  ** 需要放入：**<br>[“灌溉用水”](tag_WaterFresh.md)  |  进度+2  |    
 Evaporate  |    |  含水量-4  |    

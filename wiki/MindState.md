@@ -7,11 +7,13 @@
 51 ～ 100  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  有点不对劲。  |  [精神失常](MindState.md)加成-1  |    
 101 ～ 150  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  肯定有什么不对劲。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-2  |    
 151 ～ 250  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  一切都感觉变了样。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-4  |    
-251 ～ 300  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  ……  |  [关系层](RelationalLayer.md)加成+2<br>[精神失常](MindState.md)加成-6  |    
+251 ～ 300  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  ……  |  [关系层](RelationalLayer.md)加成+2<br>[精神失常](MindState.md)加成-6  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [黑暗](DarkChamber.md)  |  条件被动  |  加成+2  
+## 关联状态  
+[发烧](Fever.md)  |  [世界观](Structure.md)  |  [失实症](Derealization.md)  |  [疼痛](Pain.md)  |  [狂躁](Mania.md)  |  [清醒度](Wakefulness.md)  |  [野营热病](BacteriaTyphus.md)  |  [孤独感](Loneliness.md)  |  [孤立感](Isolation.md)  |  [监视者的凝视](WatchersGlare.md)  |  [蛇床子素](Psylocibin.md)  |  [猎手接近](HuntersProximity.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

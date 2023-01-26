@@ -9,11 +9,11 @@
 来源  |  操作  
 ----  |  ----  
 [铜针(蓝图)](Bp_CopperNeedles.md)  |  蓝图制造  
-[针线](CopperNeedleThreaded.md)  |  取下细线  
+[针线(铜针)](CopperNeedleThreaded.md)  |  取下细线  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [针线](CopperNeedleThreaded.md)<br><br>  |    
+[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [针线(铜针)](CopperNeedleThreaded.md)<br><br>  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

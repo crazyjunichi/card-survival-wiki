@@ -44,14 +44,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  [鱼杂](FishScraps.md)(+2)<br>  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+14<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+100<br>[寄生虫](Parasites.md)0～+150  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  [鱼杂](FishScraps.md)(+2)<br>  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+14<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+100<br>[寄生虫](Parasites.md)0～+150  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [盐](Salt.md)  |  腌制  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [腌制中的咸鱼肉](FishSaltedDrying.md)<br><br>获得:<br>[鱼杂](FishScraps.md)(+2)<br><br>  |    
 [“切割工具”](tag_Cutter.md)  |  制作诱饵  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>使用次数  -1<br><br>使用物:<br>可用次数  -1<br><br>获得:<br>[鱼片](FishSlices.md)(+8)<br>[鱼杂](FishScraps.md)(+2)<br>基础权重：1<br><br>  |    
 ## 可拖至  
-[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerPlastic.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [椰子鱼(蓝图)](Bp_CoconutFish.md)  
 - [炸鱼薯条(蓝图)](Bp_FishNChips.md)  
@@ -68,7 +68,7 @@
 [烤鹦哥鱼](ParrotFishCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤鹦哥鱼](ParrotFishCooked.md)  |  [火炉](Stove.md)  
 [烤鹦哥鱼](ParrotFishCooked.md)  |  [烟熏炉](Smoker.md)  
-[烤鹦哥鱼](ParrotFishCooked.md)  |  [烟熏炉](SmokerPlastic.md)  
+[烤鹦哥鱼](ParrotFishCooked.md)  |  [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

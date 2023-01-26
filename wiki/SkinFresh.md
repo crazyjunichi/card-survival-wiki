@@ -12,12 +12,12 @@
 [野猪尸体](BoarCarcass.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
 [小猪尸体](BoarCarcassPiglet.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
 [小猪尸体](BoarCarcassPiglet.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
-[山羊尸体](GoatCarcassFemale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体](GoatCarcassFemale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[山羊尸体(母)](GoatCarcassFemale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
+[山羊尸体(母)](GoatCarcassFemale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
 [小羊尸体](GoatCarcassKid.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
 [小羊尸体](GoatCarcassKid.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
-[山羊尸体](GoatCarcassMale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体](GoatCarcassMale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[山羊尸体(公)](GoatCarcassMale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
+[山羊尸体(公)](GoatCarcassMale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
 [猕猴尸体](MacaqueCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
 [猕猴尸体](MacaqueCarcass.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
 ## 可拖入  

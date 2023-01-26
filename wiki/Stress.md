@@ -6,8 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
 97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
-145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |    
-193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |    
+145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-5<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-2<br>时间-2  
+193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-10<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-4<br>时间-4  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -19,6 +19,8 @@
 [珍珠项链](PearlNecklace.md)  |  被动  |  加成-0.25  
 [香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  加成-0.25  
 [茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  加成-0.5  
+## 关联状态  
+[水分](Hydration.md)  |  [世界观](Structure.md)  |  [疼痛](Pain.md)  |  [饱食](Satiation.md)  |  [清醒度](Wakefulness.md)  |  [过热](Hyperthermia.md)  |  [外星植物渴求](AlienCravings.md)  |  [孤独感](Loneliness.md)  |  [娱乐](Entertainment.md)  |  [失血](BloodLoss.md)  |  [监视者的凝视](WatchersGlare.md)  |  [镇痛](Analgesia.md)  |  [酒精](Alcohol.md)  |  [奎宁](Quinine.md)  |  [咖啡因](Caffeine.md)  |  [茉莉效果](JasmineEffect.md)  |  [月季效果](ChinaRoseEffect.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [宿敌现身](EnemyDefeated.md)  |  [猎手接近](HuntersProximity.md)  |  [神圣灵视](GodInsight.md)  |  [虚空灵视](VoidInsight.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

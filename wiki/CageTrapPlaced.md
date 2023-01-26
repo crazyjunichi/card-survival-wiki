@@ -10,9 +10,9 @@
 ----  |  ----  
 [诱捕笼](CageTrap.md)  |  放置  
 [解除陷阱](CageTrapPlacedTriggered.md)  |  重置陷阱  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  
-[解除陷阱](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  
+[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  
+[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  
+[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -24,4 +24,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-诱捕笼  |  初始：0<br>最大：1  |  -  |  ** 到达上限时：陷阱触发了！ **<br>[解除陷阱](CageTrapPlacedTriggered.md)+1 <br>[解除陷阱](CageTrapPlacedTriggeredSeagull.md)+1 <br>[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)+1 <br>[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)+1 <br>[中陷阱的猕猴](CageTrapMacaque.md)+1 <br>→ [中陷阱的猕猴](CageTrapMacaque.md)  
+诱捕笼  |  初始：0<br>最大：1  |  -  |  ** 到达上限时：陷阱触发了！ **<br>[解除陷阱](CageTrapPlacedTriggered.md)+1 <br>[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)+1 <br>[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)+1 <br>[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)+1 <br>[中陷阱的猕猴](CageTrapMacaque.md)+1 <br>→ [中陷阱的猕猴](CageTrapMacaque.md)  

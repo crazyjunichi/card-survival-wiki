@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[飞机残骸\n](PlaneCrashEntrance.md)  |  进入  
+[飞机残骸](PlaneCrashEntrance.md)  |  进入  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[湿地(环境)](Env_Wetlands.md)(+1)<br>[飞机残骸\n](PlaneCrashEntrance.md)(+1)<br>基础权重：1<br>  |    
+离开<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[湿地(环境)](Env_Wetlands.md)(+1)<br>[飞机残骸](PlaneCrashEntrance.md)(+1)<br>基础权重：1<br>  |    

@@ -1,9 +1,9 @@
 # “装饰品”  
 - [方解石晶体](Calcite.md)  
-- [茉莉花](ClayJarJasmine.md)  
+- [茉莉花(陶罐)](ClayJarJasmine.md)  
 - [铜瓶](CopperBottle.md)  
 - [铜罐](CopperJar.md)  
-- [茉莉花](PlasticBottleJasmine.md)  
+- [茉莉花(塑料瓶)](PlasticBottleJasmine.md)  
 - [铸铜鱼雕](CopperDecoration_Fish.md)  
 - [铜制贝壳](CopperDecoration_Seashell.md)  
 - [铜制乌龟](CopperDecoration_Turtle.md)  

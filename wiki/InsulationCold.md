@@ -16,7 +16,7 @@
 [粘土火盆](ClayFirePit.md)  |  被动  |  20  
 [火堆](Fire.md)  |  被动  |  20  
 [烟熏炉](Smoker.md)  |  被动  |  20  
-[烟熏炉](SmokerPlastic.md)  |  被动  |  20  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  20  
 [蒸馏器(开)](AlembicOn.md)  |  被动  |  15  
 [火炉](Stove.md)  |  被动  |  15  
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  10  

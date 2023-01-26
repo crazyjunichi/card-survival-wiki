@@ -48,7 +48,7 @@
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  1小时  |  [煮熟的参薯](YamBoiled.md)(+1)  |    
 [北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |  [烤北梭鱼](BonefishCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)  |  黄油焗牡蛎  |  30分  |  [黄油焗牡蛎](ButterBakedOystersCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[未烹饪的姜糖](CandiedGingerUncooked.md)  |  姜糖  |  45分  |  [姜糖](CandiedGingerCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
+[未烹饪的姜糖](CandiedGingerUncooked.md)  |  姜糖  |  45分  |  [姜糖(做好的)](CandiedGingerCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [烤蝙蝠](BatCooked.md)<br>[烤鸟肉](BirdMeatCooked.md)<br>[烤野猪肉](BoarMeatCooked.md)<br>[烤北梭鱼](BonefishCooked.md)<br>[烤椰肉](CoconutMeatCooked.md)<br>[烤海螺肉](ConchMeatCooked.md)<br>[松软的烤海螺肉](ConchMeatSoftCooked.md)<br>[烤螃蟹](CrabCooked.md)<br>[水煮蛋](EggBoiled.md)<br>[烤蛋](EggCooked.md)<br>[烤鱼杂](FishScrapsCooked.md)<br>[烤鱼片](FishSlicesCooked.md)<br>[烤绯鲤](GoatfishCooked.md)<br>[烤羊肉](GoatMeatCooked.md)<br>[烤石斑鱼](GrouperMeatCooked.md)<br>[烤鲱鱼](HerringCooked.md)<br>[烤蜥蜴](LizardCooked.md)<br>[烤猕猴肉](MacaqueMeatCooked.md)<br>[烤巨蜥肉](MonitorMeatCooked.md)<br>[烤老鼠](MouseCooked.md)<br>[烤弹涂鱼](MudskipperCooked.md)<br>[烤牡蛎肉](OysterMeatCooked.md)<br>[烤鹦哥鱼](ParrotFishCooked.md)<br>[烤虾](PrawnsCooked.md)<br>[西米饼](SagoFlatbread.md)<br>[烤海怪肉](SeahoundCooked.md)<br>[烤鲨鱼肉](SharkCooked.md)<br>[烤蛇肉](SnakeCooked.md)<br>[烤马鲅鱼](ThreadfinCooked.md)<br>[烤热带杏仁](TropicalAlmondsRoasted.md)<br>[烤海胆](UrchinMeatCooked.md)  |  烧焦物  |  30分  |  [烧焦物](CharredRemains.md)(+1)  |    
 [未烹饪的椰子鱼](CoconutFishUncooked.md)  |  椰子鱼  |  45分  |  [椰子鱼](CoconutFish.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [椰肉](CoconutMeat.md)  |  椰肉  |  30分  |  [烤椰肉](CoconutMeatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
@@ -74,7 +74,7 @@
 [石斑鱼肉](GrouperMeat.md)  |  石斑鱼  |  30分  |  [烤石斑鱼](GrouperMeatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [干胶水](GlueDry.md)  |  加热中的胶水  |  2小时  |  [胶水](Glue.md)(+1)  |    
 [鲱鱼](Herring.md)  |  鲱鱼  |  30分  |  [烤鲱鱼](HerringCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[未烹饪的蜜糖](HoneyCandyUncooked.md)  |  蜜糖  |  1小时30分  |  [蜜糖](HoneyCandyCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
+[未烹饪的蜜糖](HoneyCandyUncooked.md)  |  蜜糖  |  1小时30分  |  [蜜糖(做好的)](HoneyCandyCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的蜜汁火腿](HoneyGlazedPorkUncooked.md)  |  蜜汁火腿  |  1小时30分  |  [蜜汁火腿](HoneyGlazedPork.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的热带烤鸡](IslandChickenUncooked.md)  |  热带烤鸡  |  45分  |  [热带烤鸡](IslandChicken.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [蜥蜴](Lizard.md)  |  蜥蜴  |  30分  |  [烤蜥蜴](LizardCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  

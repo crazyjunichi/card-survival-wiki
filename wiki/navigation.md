@@ -1,6 +1,6 @@
 
 [gimmick:theme](flatly)
-# 卡牌生存
+# 卡牌生存百科
 
 [角色]()
 

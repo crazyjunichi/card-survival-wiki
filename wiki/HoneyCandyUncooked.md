@@ -12,11 +12,11 @@
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
-[蜜糖](HoneyCandyCooked.md)  |  [营火](Campfire.md)  
-[蜜糖](HoneyCandyCooked.md)  |  [粘土火盆](ClayFirePit.md)  
-[蜜糖](HoneyCandyCooked.md)  |  [火堆](Fire.md)  
-[蜜糖](HoneyCandyCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
-[蜜糖](HoneyCandyCooked.md)  |  [火炉](Stove.md)  
+[蜜糖(做好的)](HoneyCandyCooked.md)  |  [营火](Campfire.md)  
+[蜜糖(做好的)](HoneyCandyCooked.md)  |  [粘土火盆](ClayFirePit.md)  
+[蜜糖(做好的)](HoneyCandyCooked.md)  |  [火堆](Fire.md)  
+[蜜糖(做好的)](HoneyCandyCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
+[蜜糖(做好的)](HoneyCandyCooked.md)  |  [火炉](Stove.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

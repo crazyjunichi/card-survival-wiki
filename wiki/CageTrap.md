@@ -10,9 +10,9 @@
 ----  |  ----  
 [诱捕笼](CageTrapPlaced.md)  |  捡起  
 [解除陷阱](CageTrapPlacedTriggered.md)  |  捡起  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  |  捡起  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  |  捡起  
-[解除陷阱](CageTrapPlacedTriggeredSeagull.md)  |  捡起  
+[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  |  捡起  
+[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  |  捡起  
+[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  捡起  
 [诱捕笼(蓝图)](Bp_CageTrap.md)  |  蓝图制造  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  放生  
 ## 动作  

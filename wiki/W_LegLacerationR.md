@@ -38,9 +38,9 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Dressing (weak)  |  ** 需要存在卡牌：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-3  
-Dressing (strong)  |  ** 需要存在卡牌：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1.5<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-1  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-3  
-Tourniquet  |    |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-6<br>[腿部神经损伤](NerveDamageLegs.md)加成+2  
+Dressing (weak)  |  ** 需要存在卡牌：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)<br>** 需要放入：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-3  
+Dressing (strong)  |  ** 需要存在卡牌：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)<br>** 需要放入：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1.5<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-1  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-3  
+Tourniquet  |  ** 需要放入：**<br>[“止血带”](tag_Tourniquet.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2<br>[失血](BloodLoss.md)-6<br>[腿部神经损伤](NerveDamageLegs.md)加成+2  
 Coagulated  |  ** 需要属性：**<br>已止血<img decoding="async" src="Sprite/BloodPressure.png" style="width:20px;">: +16  |    |  [失血](BloodLoss.md)-3  
 Surface Bacteria 1  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 1-1  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">+1  |    
 Surface Bacteria 2  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 2-2  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">+2  |    

@@ -16,9 +16,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[CarnivorousAction](CarnivorousAction.md)<br>[EatingAction](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+65<br>[辣椒素](Capsaicin.md)+10<br>[水分](Hydration.md)+4<br>[压力](Stress.md)-15<br>[情绪](Morale.md)+10<br>[世界观](Structure.md)+20<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+35<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+10<br>[污垢](Filth.md)+5  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+65<br>[辣椒素](Capsaicin.md)+10<br>[水分](Hydration.md)+4<br>[压力](Stress.md)-15<br>[情绪](Morale.md)+10<br>[世界观](Structure.md)+20<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+35<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+10<br>[污垢](Filth.md)+5  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父](GrandfatherHealthy.md)  
+[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

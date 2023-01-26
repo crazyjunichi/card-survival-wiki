@@ -14,6 +14,8 @@
 [皮革鞋子](LeatherShoes.md)  |  被动  |  加成-3  
 [运动鞋](Sneakers.md)  |  被动  |  加成-3  
 [军靴](MilitaryBoots.md)  |  被动  |  加成-5  
+## 关联状态  
+[足茧](CallousesFeet.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -30,7 +30,7 @@
 [稻草人](Scarecrow.md)  |  拆除  
 [套索陷阱](SnareTrap.md)  |  拆除陷阱  
 [套索陷阱](SnareTrapTriggered.md)  |  拆除陷阱  
-[针线](BoneNeedleThreaded.md)  |  取下细线  
+[针线(骨针)](BoneNeedleThreaded.md)  |  取下细线  
 [简易的弓](BowRustic.md)  |  拆解  
 [防蜂服](BeeSuit.md)  |  拆解  
 [鲜花项链](FlowerNecklace.md)  |  拆解  
@@ -42,7 +42,7 @@
 [贝壳项链](SeashellNecklace.md)  |  拆解  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
 [蓑衣](StrawCape.md)  |  拆解  
-[针线](CopperNeedleThreaded.md)  |  取下细线  
+[针线(铜针)](CopperNeedleThreaded.md)  |  取下细线  
 [纤维](Fibers.md) , [纤维](Fibers.md)  |  缠起来  
 [挎包](Satchel.md)  |  拆解  
 [挎包](SatchelHunter.md)  |  拆解  
@@ -53,7 +53,7 @@
 [铜铲](ShovelCopper.md)  |  拆解  
 [废金属铲](ShovelScrap.md)  |  拆解  
 [缠好的纺锤](SpindleFiber.md)  |  纺细线  
-[针线](WoodenNeedleThreaded.md)  |  取下细线  
+[针线(木针)](WoodenNeedleThreaded.md)  |  取下细线  
 [线团](YarnFiber.md)  |  拆成细线  
 [废墟(泥屋)](Debris.md)  |  清理  
 [漂浮的残骸](FloatingDebris.md)  |  采集  

@@ -73,6 +73,8 @@
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-1  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-1  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-1  
+## 关联状态  
+[肠道](Intestines.md)  |  [耐力](Stamina.md)  |  [烧伤](Burns.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [血压](Blood.md)  |  [月季效果](ChinaRoseEffect.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

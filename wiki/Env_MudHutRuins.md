@@ -8,4 +8,4 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[泥屋\n](MudHutEntranceRuins.md)  |  进入  
+[泥屋](MudHutEntranceRuins.md)  |  进入  

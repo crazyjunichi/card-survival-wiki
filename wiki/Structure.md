@@ -39,6 +39,8 @@
 [内裤](Underwear.md)  |  被动  |  加成+0.1  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
+## 关联状态  
+[情绪](Morale.md)  |  [压力](Stress.md)  |  [清醒度](Wakefulness.md)  |  [外星斑点](AlienSpots.md)  |  [孤独感](Loneliness.md)  |  [孤立感](Isolation.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [光亮](Light.md)  |  [镇痛](Analgesia.md)  |  [酒精](Alcohol.md)  |  [咖啡因](Caffeine.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [猎手的注视](HunterInsight.md)  |  [神圣灵视](GodInsight.md)  |  [虚空灵视](VoidInsight.md)  |  [监视者的注视](WatcherInsight.md)  |  [哀悼](Mourning.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

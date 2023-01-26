@@ -8,13 +8,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[针线](BoneNeedleThreaded.md)  |  取下细线  
+[针线(骨针)](BoneNeedleThreaded.md)  |  取下细线  
 [骨头碎片](BoneSplinters.md)  |  制作针  
 [鸟骨](BonesBird.md)  |  制作针  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [针线](BoneNeedleThreaded.md)<br><br>  |    
+[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [针线(骨针)](BoneNeedleThreaded.md)<br><br>  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

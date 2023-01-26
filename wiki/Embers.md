@@ -15,8 +15,8 @@
 [火炉](Stove.md)  |  取出火炭  
 [烟熏炉](Smoker.md)  |  取出火炭  
 [烟熏炉](Smoker.md)  |  取出火炭  
-[烟熏炉](SmokerPlastic.md)  |  取出火炭  
-[烟熏炉](SmokerPlastic.md)  |  取出火炭  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  取出火炭  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  取出火炭  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

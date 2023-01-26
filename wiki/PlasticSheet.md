@@ -12,7 +12,7 @@
 [收起的帐篷](TentPacked.md) , [“切割工具”](tag_Cutter.md)  |  回收塑料  
 [没气的救生筏](LifeRaftDeflated.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
 [打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
-[烟熏炉](SmokerNoFirePlastic.md)  |  移除塑料布  
+[烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)  |  移除塑料布  
 [雨衣](Raincoat.md)  |  拆解  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [漂浮的残骸](FloatingDebris.md)  |  采集  

@@ -12,6 +12,8 @@
 14117 ～ 19877  |  <img decoding="async" src="Sprite/CampFever.png" style="width:20px;">疟疾  |  我真的不得劲儿。  |  [疟疾寄生虫](ParasiteMalaria.md)加成+15<br>[MalariaResistance_GameName](MalariaResistance.md)加成+1<br>[发烧](Fever.md)加成+40<br>[耐力](Stamina.md)加成-1<br>[腹泻](Diarrhoea.md)加成+1<br>[头疼](Headache.md)+300<br>[疼痛](Pain.md)+100  |    
 19878 ～ 23142  |  <img decoding="async" src="Sprite/CampFever.png" style="width:20px;">  |    |  [疟疾寄生虫](ParasiteMalaria.md)加成+17  |    
 23143 ～ 32263  |  <img decoding="async" src="Sprite/CampFever.png" style="width:20px;">疟疾  |  我感觉很糟糕。  |  [疟疾寄生虫](ParasiteMalaria.md)加成+19<br>[MalariaResistance_GameName](MalariaResistance.md)加成+1<br>[发烧](Fever.md)加成+40<br>[耐力](Stamina.md)加成-1.5<br>[腹泻](Diarrhoea.md)加成+2<br>[头疼](Headache.md)+300<br>[疼痛](Pain.md)+100  |    
+## 关联状态  
+[免疫系统](ImmuneSystem.md)  |  [MalariaResistance_GameName](MalariaResistance.md)  |  [奎宁](Quinine.md)  |  [蚊虫叮咬](BugDamage.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

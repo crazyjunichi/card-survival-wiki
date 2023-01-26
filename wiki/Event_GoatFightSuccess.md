@@ -16,4 +16,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [山羊尸体](GoatCarcassFemale.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  
+继续<br>  |  -  |    |  [山羊尸体(母)](GoatCarcassFemale.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  

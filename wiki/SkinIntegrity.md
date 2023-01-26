@@ -13,6 +13,8 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  加成0  
+## 关联状态  
+[晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [足部损伤](FootDamage.md)  |  [手掌损伤](HandDamage.md)  |  [蚊虫叮咬](BugBites.md)  |  [蜜蜂蛰刺](BeeStings.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

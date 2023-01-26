@@ -9,6 +9,8 @@
 16 ～ 25  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">疲惫  |  大量体力活动让我有点累了。  |  [体重](Weight.md)加成-2<br>[食欲](Appetite.md)+75<br>[体感温度](TemperaturePerceived.md)+5  |    
 26 ～ 31  |  活跃  |    |  [体重](Weight.md)加成-1<br>[食欲](Appetite.md)+50<br>[体感温度](TemperaturePerceived.md)+2  |    
 32 ～ 32  |  休息中  |    |    |    
+## 关联状态  
+[发烧](Fever.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [肺部伤害](LungDamage.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

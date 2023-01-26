@@ -16,9 +16,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[EatingAction](EatingAction.md)  |  15分  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)+40<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+10<br>[污垢](Filth.md)+10<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15  
+食用<br>[进食动作](EatingAction.md)  |  15分  |    |  使用次数  -1<br>  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)+40<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+10<br>[污垢](Filth.md)+10<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父](GrandfatherHealthy.md)  
+[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

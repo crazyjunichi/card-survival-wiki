@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[烟熏炉](SmokerNoFire.md)  |  移除布匹  
-[烟熏炉](SmokerNoFirePlastic.md)  |  移除塑料布  
+[烟熏炉(无火)](SmokerNoFire.md)  |  移除布匹  
+[烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)  |  移除塑料布  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -17,4 +17,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[塑料布](PlasticSheet.md)  |  覆盖烟熏炉  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [烟熏炉](SmokerNoFirePlastic.md)<br><br>  |    
+[塑料布](PlasticSheet.md)  |  覆盖烟熏炉  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)<br><br>  |    

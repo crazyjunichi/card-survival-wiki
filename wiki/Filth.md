@@ -9,6 +9,8 @@
 250 ～ 349  |  <img decoding="async" src="Sprite/Dirt2.png" style="width:20px;">非常脏  |  我真想洗个澡  |  [表面细菌](BacteriaSurface.md)+3<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+1  |    
 101 ～ 249  |  <img decoding="async" src="Sprite/Dirt1.png" style="width:20px;">脏  |  我想洗个澡  |  [表面细菌](BacteriaSurface.md)+2<br>[细菌性发烧](BacteriaFever.md)加成+1  |    
 1 ～ 100  |  <img decoding="async" src="Sprite/Dirt3.png" style="width:20px;">  |    |  [表面细菌](BacteriaSurface.md)+1  |    
+## 关联状态  
+[失血](BloodLoss.md)  |  [淋雨](RainExposure.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -111,12 +113,12 @@
 [剥皮的野猪](BoarSkinned.md)  |  剔肉  |  15  
 [剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉  |  15  
 [剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉  |  15  
-[山羊尸体](GoatCarcassFemale.md)  |  剥皮  |  15  
-[山羊尸体](GoatCarcassFemale.md)  |  剥皮  |  15  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  15  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  15  
 [小羊尸体](GoatCarcassKid.md)  |  剥皮  |  15  
 [小羊尸体](GoatCarcassKid.md)  |  剥皮  |  15  
-[山羊尸体](GoatCarcassMale.md)  |  剥皮  |  15  
-[山羊尸体](GoatCarcassMale.md)  |  剥皮  |  15  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  15  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  15  
 [剥皮的山羊](GoatSkinned.md)  |  剔肉  |  15  
 [剥皮的山羊](GoatSkinned.md)  |  剔肉  |  15  
 [剥皮的小羊](GoatSkinnedKid.md)  |  剔肉  |  15  

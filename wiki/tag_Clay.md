@@ -4,7 +4,7 @@
 - [未烧制的陶碗](ClayBowlUnfired.md)  
 - [未烧制的粘土火盆](ClayFirePitUnfired.md)  
 - [小陶罐](ClayJar.md)  
-- [茉莉花](ClayJarJasmine.md)  
+- [茉莉花(陶罐)](ClayJarJasmine.md)  
 - [未烧制的小陶罐](ClayJarUnfired.md)  
 - [未烧制的保鲜罐](ClayPotCoolerUnfired.md)  
 - [陶罐](ClayVase.md)  

@@ -1,4 +1,4 @@
-# VegetarianAction  
+# 食用蔬菜类动作  
 - 食用 [芦荟膏](AloeVeraGel.md)  
 - 食用 [芦荟膏](AloeVeraGel.md)  
 - 食用 [芦荟膏](AloeVeraGel.md)  

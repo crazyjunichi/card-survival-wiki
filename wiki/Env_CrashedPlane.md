@@ -8,4 +8,4 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[飞机残骸\n](PlaneCrashEntrance.md)  |  进入  
+[飞机残骸](PlaneCrashEntrance.md)  |  进入  

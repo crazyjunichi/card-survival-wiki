@@ -1,7 +1,7 @@
 # “小的”  
 - [草木灰敷料](AshDressing.md)  
 - [铜针](CopperNeedle.md)  
-- [针线](CopperNeedleThreaded.md)  
+- [针线(铜针)](CopperNeedleThreaded.md)  
 - [泻立停](AntiDiarrhoeaPills.md)  
 - [抗生素](Antibiotics.md)  
 - [止痛药](Painkillers.md)  

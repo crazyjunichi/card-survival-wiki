@@ -21,6 +21,8 @@
 [暴风雨](TropicalIsland_Storm.md)  |  被动  |  加成0  
 [暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  加成0  
 [暴风雨](TropicalIsland_StormStart.md)  |  被动  |  加成0  
+## 关联状态  
+[晒黑](Tanning.md)  |  [泥巴防护](MudProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

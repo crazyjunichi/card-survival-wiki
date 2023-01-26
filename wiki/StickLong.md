@@ -47,7 +47,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  削成简易长矛  |  1小时  |  [光亮](Light.md): 10-100  |  自身:<br>→ [简易长矛](SpearRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
-[营火](Campfire.md), [粘土火盆](ClayFirePit.md), [火堆](Fire.md), [烟熏炉](Smoker.md), [烟熏炉](SmokerPlastic.md)  
+[营火](Campfire.md), [粘土火盆](ClayFirePit.md), [火堆](Fire.md), [烟熏炉](Smoker.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
 ## 可用于蓝图  
 - [简易床(蓝图)](Bp_BedRustic.md)  
 - [弓(蓝图)](Bp_Bow.md)  

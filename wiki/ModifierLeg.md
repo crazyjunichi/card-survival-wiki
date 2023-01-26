@@ -4,9 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  ModifierLeg_Statuses[0].GameName  |    |    |    
-2 ～ 2  |  ModifierLeg_Statuses[1].GameName  |    |    |    
-3 ～ 3  |  ModifierLeg_Statuses[2].GameName  |    |    |    
+1 ～ 1  |  ModifierLeg_Statuses[0].GameName  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-2<br>时间+1  
+2 ～ 2  |  ModifierLeg_Statuses[1].GameName  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-4<br>时间+2  
+3 ～ 3  |  ModifierLeg_Statuses[2].GameName  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-8<br>时间+4  
+## 关联状态  
+[体重](Weight.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -8,9 +8,9 @@
 251 ～ 325  |  <img decoding="async" src="Sprite/Content.png" style="width:20px;">快乐  |  我对生活很满意  |  [免疫系统](ImmuneSystem.md)+75<br>[情绪](Morale.md)加成-2<br>[孤独感](Loneliness.md)加成-0.5<br>[狂躁](Mania.md)加成+0.5<br>[失实症](Derealization.md)加成-50  |    
 100 ～ 250  |  <img decoding="async" src="Sprite/Content.png" style="width:20px;">满意  |  我很满意现在的生活  |  [免疫系统](ImmuneSystem.md)+50<br>[情绪](Morale.md)加成-1<br>[失实症](Derealization.md)加成-25  |    
 -250 ～ -100  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">失落  |  我有点难过  |  [免疫系统](ImmuneSystem.md)-25<br>[食欲](Appetite.md)-25<br>[情绪](Morale.md)加成+0.5<br>[失实症](Derealization.md)加成-10  |    
--300 ～ -251  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">抑郁  |  撑不下去了……  |  [免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)-50<br>[情绪](Morale.md)加成+1<br>[世界观](Structure.md)加成-1  |    
--349 ～ -301  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">严重抑郁  |  生活毫无乐趣……  |  [免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)-75<br>[情绪](Morale.md)加成+1.5<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+0.75  |    
--350 ～ -350  |  <img decoding="async" src="Sprite/Suicidal.png" style="width:20px;">崩溃  |  活着毫无意义……  |  [免疫系统](ImmuneSystem.md)-100<br>[食欲](Appetite.md)-100<br>[情绪](Morale.md)加成+2<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+1.5  |    
+-300 ～ -251  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">抑郁  |  撑不下去了……  |  [免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)-50<br>[情绪](Morale.md)加成+1<br>[世界观](Structure.md)加成-1  |  [休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)+2<br>时间+2  
+-349 ～ -301  |  <img decoding="async" src="Sprite/Depressed.png" style="width:20px;">严重抑郁  |  生活毫无乐趣……  |  [免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)-75<br>[情绪](Morale.md)加成+1.5<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+0.75  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)+4<br>时间+4  
+-350 ～ -350  |  <img decoding="async" src="Sprite/Suicidal.png" style="width:20px;">崩溃  |  活着毫无意义……  |  [免疫系统](ImmuneSystem.md)-100<br>[食欲](Appetite.md)-100<br>[情绪](Morale.md)加成+2<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+1.5  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)+6<br>时间+6  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -37,6 +37,8 @@
 [糖水](LQ_SugarWater.md)  |  饮用  |  加成0  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
+## 关联状态  
+[发烧](Fever.md)  |  [水分](Hydration.md)  |  [压力](Stress.md)  |  [疼痛](Pain.md)  |  [饱食](Satiation.md)  |  [恶心](Nausea.md)  |  [香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)  |  [鸟类<nobr>厌倦度</nobr>](SaturationBird.md)  |  [椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)  |  [甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)  |  [乳品<nobr>厌倦度</nobr>](SaturationDairy.md)  |  [蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)  |  [鱼类<nobr>厌倦度</nobr>](SaturationFish.md)  |  [水果<nobr>厌倦度</nobr>](SaturationFruits.md)  |  [肉类<nobr>厌倦度</nobr>](SaturationMeat.md)  |  [软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)  |  [蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)  |  [坚果<nobr>厌倦度</nobr>](SaturationNuts.md)  |  [干粮<nobr>厌倦度</nobr>](SaturationRations.md)  |  [稻米<nobr>厌倦度</nobr>](SaturationRice.md)  |  [爬行类厌倦度](SaturationReptile.md)  |  [西米<nobr>厌倦度</nobr>](SaturationSago.md)  |  [糖<nobr>厌倦度</nobr>](SaturationSugar.md)  |  [蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)  |  [参薯<nobr>厌倦度</nobr>](SaturationYam.md)  |  [狂躁](Mania.md)  |  [腹泻](Diarrhoea.md)  |  [清醒度](Wakefulness.md)  |  [过热](Hyperthermia.md)  |  [失温](Hypothermia.md)  |  [外星植物渴求](AlienCravings.md)  |  [孤独感](Loneliness.md)  |  [娱乐](Entertainment.md)  |  [孤立感](Isolation.md)  |  [船长陪伴](CaptainCompany.md)  |  [失血](BloodLoss.md)  |  [酒精](Alcohol.md)  |  [蛇床子素](Psylocibin.md)  |  [茉莉效果](JasmineEffect.md)  |  [月季效果](ChinaRoseEffect.md)  |  [舒适度](Comfort.md)  |  [神圣灵视](GodInsight.md)  |  [哀悼](Mourning.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -218,8 +220,8 @@
 [烟熏羊肉](GoatMeatSmoked.md)  |  食用  |  5  
 [祖父](Grandfather.md)  |  喂食  |  5  
 [祖父](Grandfather.md)  |  喂食  |  5  
-[祖父](GrandfatherHealthy.md)  |  喂食  |  5  
-[祖父](GrandfatherHealthy.md)  |  喂食  |  5  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  5  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  5  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  5  
 [猕猴肉干](MacaqueMeatDried.md)  |  食用  |  5  
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  5  
@@ -313,7 +315,7 @@
 [木床](BedWooden.md)  |  小憩  |  2  
 [木床](BedWooden.md)  |  睡觉  |  2  
 [烟熏炉](Smoker.md)  |  烧制陶瓶  |  2  
-[烟熏炉](SmokerPlastic.md)  |  烧制陶瓶  |  2  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶瓶  |  2  
 [鱼饵(蓝图)](Bp_FishBait.md)  |  蓝图制造  |  2  
 [木筏庇护所(蓝图)](Bp_RaftShelter.md)  |  蓝图制造  |  2  
 [稻草人(蓝图)](Bp_Scarecrow.md)  |  蓝图制造  |  2  
@@ -389,18 +391,18 @@
 [烟熏炉](Smoker.md)  |  烤杏仁  |  1  
 [烟熏炉](Smoker.md)  |  烹饪蛋糕  |  1  
 [烟熏炉](Smoker.md)  |  烹饪西米糕  |  1  
-[烟熏炉](SmokerPlastic.md)  |  制作简易长矛  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烤蛋  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烹饪绯鲤  |  1  
-[烟熏炉](SmokerPlastic.md)  |  熏石斑鱼  |  1  
-[烟熏炉](SmokerPlastic.md)  |  熏野猪肉  |  1  
-[烟熏炉](SmokerPlastic.md)  |  熏梭鱼肉  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烤螃蟹  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烤海螺肉  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烤松软的海螺肉  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烧制陶碗  |  1  
-[烟熏炉](SmokerPlastic.md)  |  熏鹦哥鱼  |  1  
-[烟熏炉](SmokerPlastic.md)  |  烤杏仁  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  制作简易长矛  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤蛋  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烹饪绯鲤  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏石斑鱼  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏野猪肉  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏梭鱼肉  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤螃蟹  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤海螺肉  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤松软的海螺肉  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶碗  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏鹦哥鱼  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤杏仁  |  1  
 [椰子凉鞋(蓝图)](Bp_CoconutSandals.md)  |  蓝图制造  |  1  
 [未烧制的陶碗](ClayBowlUnfired.md)  |  手工陶罐  |  1  
 [未烧制的陶罐](ClayVaseUnfinished.md)  |  完成陶罐  |  1  

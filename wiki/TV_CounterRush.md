@@ -6,6 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 287  |  <img decoding="async" src="Sprite/AlarmClock.png" style="width:20px;">剩余时间  |    |    |    
 288 ～ 288  |  超时！  |    |    |    
+## 关联状态  
+[真人秀 - 等待](TV_CounterWait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

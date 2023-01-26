@@ -4,6 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
+## 关联状态  
+[失实症](Derealization.md)  |  [疼痛](Pain.md)  |  [狂躁](Mania.md)  |  [镇痛](Analgesia.md)  |  [姜效果](GingerEffect.md)  |  [酒精](Alcohol.md)  |  [辣椒素](Capsaicin.md)  |  [虚空灵视](VoidInsight.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

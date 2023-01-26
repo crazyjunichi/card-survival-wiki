@@ -1,4 +1,4 @@
-# ClimbAction  
+# 攀爬动作  
 - 游泳 [隐秘港湾](Path_BirdRockToCove.md)  
 - 游泳 [隐秘港湾](Path_BirdRockToCove.md)  
 - 游泳 [隐秘港湾](Path_BirdRockToCove.md)  

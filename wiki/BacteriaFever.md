@@ -33,6 +33,8 @@
 [巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成+5  
 [海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成+2  
 [蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成+2  
+## 关联状态  
+[免疫系统](ImmuneSystem.md)  |  [体重](Weight.md)  |  [湿度](Wetness.md)  |  [表面细菌](BacteriaSurface.md)  |  [失温](Hypothermia.md)  |  [污垢](Filth.md)  |  [奎宁](Quinine.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

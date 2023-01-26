@@ -8,9 +8,9 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [解除陷阱](CageTrapPlacedTriggered.md)  |  重置陷阱  |  0.5  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  |  0.5  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  |  0.5  
-[解除陷阱](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  |  0.5  
+[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  |  0.5  
+[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  |  0.5  
+[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  |  0.5  
 [落石陷阱](DeadfallTrapTriggered.md)  |  重置陷阱  |  0.5  
 [原木陷阱](LogTrapTriggered.md)  |  重置陷阱  |  0.5  
 [套索陷阱](SnareTrapTriggered.md)  |  重置陷阱  |  0.5  

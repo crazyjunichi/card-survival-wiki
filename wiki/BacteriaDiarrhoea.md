@@ -11,6 +11,8 @@
 301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中低  |    |  [发烧](Fever.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+2  |    
 601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中高  |    |  [发烧](Fever.md)加成+1<br>[腹泻](Diarrhoea.md)加成+4  |    
 901 ～ 1000  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">高  |    |  [发烧](Fever.md)加成+2<br>[腹泻](Diarrhoea.md)加成+8  |    
+## 关联状态  
+[免疫系统](ImmuneSystem.md)  |  [奎宁](Quinine.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

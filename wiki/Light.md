@@ -6,6 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" style="width:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
 1 ～ 100  |  光亮  |    |  [监视者的凝视](WatchersGlare.md)加成-99  |    
+## 关联状态  
+[眼部损伤](EyeDamage.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -18,7 +20,7 @@
 [燃烧的信号弹(开)](FlareHandOn.md)  |  被动  |  25  
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  20  
 [烟熏炉](Smoker.md)  |  被动  |  20  
-[烟熏炉](SmokerPlastic.md)  |  被动  |  20  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  20  
 [熏蜂器(开)](BeeSmokerOn.md)  |  被动  |  20  
 [香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  20  
 [茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  20  
@@ -85,12 +87,12 @@
 [诱捕笼](CageTrapPlaced.md)  |  捡起  |  10 ~ 100  
 [解除陷阱](CageTrapPlacedTriggered.md)  |  重置陷阱  |  10 ~ 100  
 [解除陷阱](CageTrapPlacedTriggered.md)  |  捡起  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  |  捡起  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  |  捡起  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  |  10 ~ 100  
-[解除陷阱](CageTrapPlacedTriggeredSeagull.md)  |  捡起  |  10 ~ 100  
+[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  |  重置陷阱  |  10 ~ 100  
+[解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  |  捡起  |  10 ~ 100  
+[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  |  重置陷阱  |  10 ~ 100  
+[解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  |  捡起  |  10 ~ 100  
+[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  重置陷阱  |  10 ~ 100  
+[解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  捡起  |  10 ~ 100  
 [铜矿脉(狭窄隧道)](CopperVein.md)  |  采矿  |  10 ~ 100  
 [落石陷阱](DeadfallTrap.md)  |  拆除陷阱  |  10 ~ 100  
 [落石陷阱](DeadfallTrapTriggered.md)  |  重置陷阱  |  10 ~ 100  
@@ -123,8 +125,8 @@
 [烟熏炉框架](SmokerFrame.md)  |  移除树枝  |  10 ~ 100  
 [烟熏炉框架](SmokerFrame.md)  |  覆盖烟熏炉  |  10 ~ 100  
 [烟熏炉框架](SmokerFrame.md)  |  覆盖烟熏炉  |  10 ~ 100  
-[烟熏炉](SmokerNoFire.md)  |  移除布匹  |  10 ~ 100  
-[烟熏炉](SmokerNoFirePlastic.md)  |  移除塑料布  |  10 ~ 100  
+[烟熏炉(无火)](SmokerNoFire.md)  |  移除布匹  |  10 ~ 100  
+[烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)  |  移除塑料布  |  10 ~ 100  
 [套索陷阱](SnareTrap.md)  |  拆除陷阱  |  10 ~ 100  
 [套索陷阱](SnareTrapTriggered.md)  |  重置陷阱  |  10 ~ 100  
 [套索陷阱](SnareTrapTriggered.md)  |  拆除陷阱  |  10 ~ 100  
@@ -132,7 +134,7 @@
 [陷坑](TrappingPitTriggered.md)  |  重置陷阱  |  10 ~ 100  
 [陷坑](TrappingPitTriggered.md)  |  拆除陷阱  |  10 ~ 100  
 [骨针](BoneNeedle.md)  |  穿线  |  10 ~ 100  
-[针线](BoneNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
+[针线(骨针)](BoneNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
 [骨头碎片](BoneSplinters.md)  |  制作钩  |  10 ~ 100  
 [骨头碎片](BoneSplinters.md)  |  制作针  |  10 ~ 100  
 [鸟骨](BonesBird.md)  |  制作钩  |  10 ~ 100  
@@ -155,7 +157,7 @@
 [未烧制的陶罐](ClayVaseUnfinished.md)  |  完成陶罐  |  10 ~ 100  
 [铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  10 ~ 100  
 [铜针](CopperNeedle.md)  |  穿线  |  10 ~ 100  
-[针线](CopperNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
+[针线(铜针)](CopperNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
 [细线](CordFiber.md)  |  制作线团  |  10 ~ 100  
 [纤维](Fibers.md)  |  缠起来  |  10 ~ 100  
 [细土](FineDirt.md)  |  加水搅拌  |  10 ~ 100  
@@ -209,12 +211,12 @@
 [公猪](BoarTiedMale.md)  |  宰杀  |  10 ~ 100  
 [小猪](BoarTiedPiglet.md)  |  宰杀  |  10 ~ 100  
 [忠犬朋友](DogFriend.md)  |  杀害！  |  10 ~ 100  
-[山羊尸体](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
-[山羊尸体](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
 [小羊尸体](GoatCarcassKid.md)  |  剥皮  |  10 ~ 100  
 [小羊尸体](GoatCarcassKid.md)  |  剥皮  |  10 ~ 100  
-[山羊尸体](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
-[山羊尸体](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
 [母山羊](GoatEnclosureFemale.md)  |  捆起来  |  10 ~ 100  
 [母山羊](GoatEnclosureFemale.md)  |  宰杀  |  10 ~ 100  
 [小羊](GoatEnclosureKid.md)  |  捆起来  |  10 ~ 100  
@@ -309,7 +311,7 @@
 [海胆](Urchin.md)  |  破开海胆  |  10 ~ 100  
 [未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻  |  10 ~ 100  
 [木针](WoodenNeedle.md)  |  穿线  |  10 ~ 100  
-[针线](WoodenNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
+[针线(木针)](WoodenNeedleThreaded.md)  |  取下细线  |  10 ~ 100  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  缝合  |  10 ~ 100  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  缝合  |  10 ~ 100  
 [左腿撕裂伤](W_LegLacerationL.md)  |  缝合  |  10 ~ 100  

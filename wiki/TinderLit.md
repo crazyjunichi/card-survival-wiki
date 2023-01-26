@@ -31,7 +31,7 @@
 [木屑](WoodShavings.md) , [火把(开)](TorchOn.md)  |  点燃火绒  
 [木屑](WoodShavings.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
 ## 可拖至  
-[蒸馏器(关)](AlembicOff.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆(熄灭)](FireExtinguished.md), [熔炉(熄灭)](ForgeExtinguished.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉(熄灭)](StoveExtinguished.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [熏蜂器(关)](BeeSmokerOff.md), [香茅蜡烛(关)](CandleCitronellaOff.md), [茉莉蜡烛(关)](CandleJasmineOff.md), [蜡烛(关)](CandleOff.md), [炸药(关)](DynamiteOff.md), [火把(关)](TorchOff.md)  
+[蒸馏器(关)](AlembicOff.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆(熄灭)](FireExtinguished.md), [熔炉(熄灭)](ForgeExtinguished.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉(熄灭)](StoveExtinguished.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md), [熏蜂器(关)](BeeSmokerOff.md), [香茅蜡烛(关)](CandleCitronellaOff.md), [茉莉蜡烛(关)](CandleJasmineOff.md), [蜡烛(关)](CandleOff.md), [炸药(关)](DynamiteOff.md), [火把(关)](TorchOff.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

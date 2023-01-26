@@ -8,6 +8,8 @@
 25 ～ 48  |  <img decoding="async" src="Sprite/Watcher.png" style="width:20px;">我在被监视……  |  我好紧张……  |  [压力](Stress.md)加成+1.5<br>[精神失常](MindState.md)加成+1  |    
 49 ～ 72  |  <img decoding="async" src="Sprite/Watcher.png" style="width:20px;">我在被监视……  |  我快被逼疯了。  |  [压力](Stress.md)加成+2<br>[精神失常](MindState.md)加成+0.5  |    
 73 ～ 96  |  <img decoding="async" src="Sprite/Watcher.png" style="width:20px;">我被严密监视着……  |  这真可怕。  |  [压力](Stress.md)加成+4<br>[精神失常](MindState.md)加成+1  |    
+## 关联状态  
+[光亮](Light.md)  |  [监视者的注视](WatcherInsight.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

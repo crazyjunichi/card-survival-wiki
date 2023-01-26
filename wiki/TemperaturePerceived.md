@@ -19,6 +19,8 @@
 [椰子凉鞋](CoconutSandals.md)  |  被动  |  加成0  
 [人字拖](Flipflops.md)  |  被动  |  加成0  
 [夏威夷衬衫](HawaiianShirt.md)  |  被动  |  加成0  
+## 关联状态  
+[耐力](Stamina.md)  |  [湿度](Wetness.md)  |  [辣椒素](Capsaicin.md)  |  [睡眠钟](SleepClock.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

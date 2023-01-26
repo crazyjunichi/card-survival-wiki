@@ -13,13 +13,15 @@
 [潮汐洞](CaveTidal.md)  |  条件被动  |  加成+50  
 [火炉](Stove.md)  |  被动  |  加成-1  
 [烟熏炉](Smoker.md)  |  被动  |  加成-1  
-[烟熏炉](SmokerPlastic.md)  |  被动  |  加成-1  
-[烟熏炉](SmokerPlastic.md)  |  被动  |  加成-1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  加成-1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  加成-1  
 [蒸馏器(开)](AlembicOn.md)  |  被动  |  加成-2  
 [营火](Campfire.md)  |  被动  |  加成-2  
 [粘土火盆](ClayFirePit.md)  |  被动  |  加成-2  
 [火堆](Fire.md)  |  被动  |  加成-2  
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  加成-2  
+## 关联状态  
+[体感温度](TemperaturePerceived.md)  |  [淋雨](RainExposure.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

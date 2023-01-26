@@ -8,6 +8,8 @@
 301 ～ 600  |    |    |  [寄生虫](Parasites.md)加成+2<br>[体重](Weight.md)加成-1<br>[免疫系统](ImmuneSystem.md)-25<br>[食欲](Appetite.md)+50  |    
 601 ～ 900  |  <img decoding="async" src="Sprite/Parasites.png" style="width:20px;">皮疹  |  我长了点皮疹。  |  [寄生虫](Parasites.md)加成+3<br>[体重](Weight.md)加成-1.5<br>[免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)+75  |    
 901 ～ 1500  |  <img decoding="async" src="Sprite/Parasites.png" style="width:20px;">皮疹  |  我起皮疹了。  |  [寄生虫](Parasites.md)加成+4<br>[体重](Weight.md)加成-2<br>[免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)+100  |    
+## 关联状态  
+[免疫系统](ImmuneSystem.md)  |  [污垢](Filth.md)  |  [奎宁](Quinine.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

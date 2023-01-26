@@ -40,7 +40,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [棕榈叶](PalmFronds.md)  |  编织  |  45分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [棕榈编织物](WeavePalm.md)<br><br>  |  [压力](Stress.md)-10  
 ## 可拖至  
-[叶床](LeafBed.md), [窝棚](Shelter.md), [有遮蔽的叶床](ShelteredLeafBed.md), [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉](SmokerExtinguishedPlastic.md), [烟熏炉](SmokerPlastic.md), [棕榈叶](PalmFronds.md), [太阳能蒸馏器](SolarStill.md)  
+[叶床](LeafBed.md), [窝棚](Shelter.md), [有遮蔽的叶床](ShelteredLeafBed.md), [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md), [棕榈叶](PalmFronds.md), [太阳能蒸馏器](SolarStill.md)  
 ## 可用于蓝图  
 - [简易床(蓝图)](Bp_BedRustic.md)  
 - [空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  

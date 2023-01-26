@@ -36,8 +36,8 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Dressing (weak)  |  ** 需要存在卡牌：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)  |  进度<img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br>感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2  
-Dressing (strong)  |  ** 需要存在卡牌：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)  |  进度<img decoding="async" src="Sprite/Health.png" style="width:20px;">+1.5<br>感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-1  |  [皮肤完整度](SkinIntegrity.md)+2  
+Dressing (weak)  |  ** 需要存在卡牌：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)<br>** 需要放入：**<br>[叶片绷带](LeafDressing.md)<br>[临时绷带](ImprovisedDressing.md)  |  进度<img decoding="async" src="Sprite/Health.png" style="width:20px;">+1<br>感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-0.5  |  [皮肤完整度](SkinIntegrity.md)+2  
+Dressing (strong)  |  ** 需要存在卡牌：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)<br>** 需要放入：**<br>[伤口敷料](WoundDressing.md)<br>[草木灰敷料](AshDressing.md)  |  进度<img decoding="async" src="Sprite/Health.png" style="width:20px;">+1.5<br>感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">-1  |  [皮肤完整度](SkinIntegrity.md)+2  
 Surface Bacteria 1  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 1-1  |  感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">+1  |    
 Surface Bacteria 2  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 2-2  |  感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">+2  |    
 Surface Bacteria 3  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 3-3  |  感染<img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">+4  |    

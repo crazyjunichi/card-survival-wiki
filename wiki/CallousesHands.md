@@ -6,6 +6,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">  |    |  [手掌损伤](HandDamage.md)-200  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">  |    |  [手掌损伤](HandDamage.md)-500  |    
+## 关联状态  
+[手掌损伤](HandDamage.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -22,7 +22,9 @@
 [忠犬朋友](DogFriend.md)  |  被动  |  加成-2  
 [猕猴朋友](MacaqueFriend.md)  |  被动  |  加成-2  
 [祖父](Grandfather.md)  |  被动  |  加成-5  
-[祖父](GrandfatherHealthy.md)  |  被动  |  加成-10  
+[祖父(健康)](GrandfatherHealthy.md)  |  被动  |  加成-10  
+## 关联状态  
+[情绪](Morale.md)  |  [娱乐](Entertainment.md)  |  [孤立感](Isolation.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [舒适度](Comfort.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -30,7 +32,7 @@
 [婴儿](Baby.md)  |  哄哄  |  -5  
 [婴儿](Baby.md)  |  一起玩耍  |  -10  
 [祖父](Grandfather.md)  |  喂食  |  -15  
-[祖父](GrandfatherHealthy.md)  |  喂食  |  -15  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -15  
 [船长](Captain.md)  |  聊天  |  -20  
 [船长](Captain.md)  |  聊天  |  -20  
 [船长](Captain.md)  |  聊天  |  -20  
@@ -50,8 +52,8 @@
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -30  
 [祖父](Grandfather.md)  |  喂食  |  -50  
 [祖父](Grandfather.md)  |  喂食  |  -50  
-[祖父](GrandfatherHealthy.md)  |  喂食  |  -50  
-[祖父](GrandfatherHealthy.md)  |  喂食  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -50  
 [手机(开)](PhoneOn.md)  |  看照片  |  -50  
 [手机](PhoneOnLight.md)  |  看照片  |  -50  
 ## 被以下操作需求  

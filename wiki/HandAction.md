@@ -1,8 +1,8 @@
 # 手部动作  
 - 重置陷阱 [解除陷阱](CageTrapPlacedTriggered.md)  
-- 重置陷阱 [解除陷阱](CageTrapPlacedTriggeredPartridgeFemale.md)  
-- 重置陷阱 [解除陷阱](CageTrapPlacedTriggeredPartridgeMale.md)  
-- 重置陷阱 [解除陷阱](CageTrapPlacedTriggeredSeagull.md)  
+- 重置陷阱 [解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  
+- 重置陷阱 [解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  
+- 重置陷阱 [解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  
 - 摧毁 [杏仁树田](CropPlotAlmondTree.md)  
 - 摧毁 [杏仁树田](CropPlotAlmondTree.md)  
 - 摧毁 [芦荟田](CropPlotAloeVera.md)  

@@ -10,6 +10,8 @@
 76 ～ 100  |  <img decoding="async" src="Sprite/Poison.png" style="width:20px;">海蛇毒素  |  看不清东西了，你的眼前一片模糊！  |  [ModifierLeg_GameName](ModifierLeg.md)+2<br>[视力](Myopia.md)+3<br>[VenomKraitResistance_GameName](VenomKraitResistance.md)加成+1  |    
 101 ～ 127  |  <img decoding="async" src="Sprite/Poison.png" style="width:20px;">海蛇毒素  |  你已经失明了，呼吸也变得困难！  |  [ModifierLeg_GameName](ModifierLeg.md)+2<br>[视力](Myopia.md)+3<br>[光亮](Light.md)-300<br>[VenomKraitResistance_GameName](VenomKraitResistance.md)加成+1  |    
 128 ～ 128  |  <img decoding="async" src="Sprite/Poison.png" style="width:20px;">你不能呼吸了！  |  你死于窒息。  |    |    
+## 关联状态  
+[VenomKraitResistance_GameName](VenomKraitResistance.md)  |  [VenomKraitInjector_GameName](VenomKraitInjector.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -27,7 +27,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1  |    
+Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)<br>** 需要放入：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" style="width:20px;">+1  |    
 Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/AloeGel.png" style="width:20px;">: 1～32  |    |  [疼痛](Pain.md)-25  
 Fracture Extreme  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" style="width:20px;">: 0～750  |    |  [疼痛](Pain.md)+500<br>[体重](Weight.md)加成-0.5<br>[ModifierLeg_GameName](ModifierLeg.md)+2<br>[ModifierClimb_GameName](ModifierClimb.md)+2<br>[受伤](Wounds.md)+750  
 Fracture Severe  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" style="width:20px;">: 751～1250  |    |  [疼痛](Pain.md)+350<br>[体重](Weight.md)加成-0.25<br>[ModifierLeg_GameName](ModifierLeg.md)+1<br>[ModifierClimb_GameName](ModifierClimb.md)+1<br>[受伤](Wounds.md)+750  
