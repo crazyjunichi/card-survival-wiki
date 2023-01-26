@@ -12,11 +12,11 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“可烹饪的”](tag_MealCoconutShell.md)  |  喂食  |  30分  |    |  自身:<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 576<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br><br>  |  [孤独感](Loneliness.md)-50<br>[情绪](Morale.md)+5  
-[“可烹饪的”](tag_MealCookingpot.md)  |  喂食  |  30分  |    |  自身:<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 576<br><br>使用物:<br>→ [烹饪锅](CookingPot.md)<br><br>  |  [孤独感](Loneliness.md)-50<br>[情绪](Morale.md)+5  
-[“人类食物”](tag_HumanFood.md)  |  喂食  |  30分  |    |  自身:<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><br>  |  [孤独感](Loneliness.md)-15  
-[“储水容器”](tag_WaterContainer.md)  |  喂水  |  -  |    |  自身:<br>口渴<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 48<br><br>使用物:<br>含水量  -300<br><br>  |    
-[“储水容器”](tag_WaterContainer.md)  |  喂药  |  -  |    |  自身:<br>口渴<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 48<br><br>使用物:<br>含水量  -300<br><br>  |    
+[“可烹饪的”](tag_MealCoconutShell.md)  |  喂食  |  30分  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 576<br>** 使用物: **<br>→ [椰子壳](CoconutShell.md)  |  [孤独感](Loneliness.md)-50<br>[情绪](Morale.md)+5  
+[“可烹饪的”](tag_MealCookingpot.md)  |  喂食  |  30分  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 576<br>** 使用物: **<br>→ [烹饪锅](CookingPot.md)  |  [孤独感](Loneliness.md)-50<br>[情绪](Morale.md)+5  
+[“人类食物”](tag_HumanFood.md)  |  喂食  |  30分  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br>** 使用物: **<br>消失  |  [孤独感](Loneliness.md)-15  
+[“储水容器”](tag_WaterContainer.md)  |  喂水  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 48<br>** 使用物: **<br>含水量  -300  |    
+[“储水容器”](tag_WaterContainer.md)  |  喂药  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 48<br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

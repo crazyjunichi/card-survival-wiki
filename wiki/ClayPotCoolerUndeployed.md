@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  15分  |  [木筏(环境)](Env_Raft.md)  |  → [保鲜罐(关)](ClayPotCoolerOff.md)<br>  |    
+放置<br>  |  15分  |  [木筏(环境)](Env_Raft.md)  |  → [保鲜罐(关)](ClayPotCoolerOff.md)  |    

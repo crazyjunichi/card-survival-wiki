@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  30分  |  [光亮](Light.md): 10-100  |  离开  -4<br><br>[木材](Wood.md)(0～+1)<br>[绳子](Rope.md)(0)<br>[小树枝](Sticks.md)(0～+1)<br>[细线](CordFiber.md)(0～+4)<br>[塑料布](PlasticSheet.md)(0～+1)<br>[塑料瓶](PlasticBottle.md)(+1～+4)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br><br>[木材](Wood.md)(0～+1)<br>[绳子](Rope.md)(0～+2)<br>[小树枝](Sticks.md)(0～+3)<br>[细线](CordFiber.md)(+1～+12)<br>[塑料布](PlasticSheet.md)(0)<br>[塑料瓶](PlasticBottle.md)(0～+1)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br><br>[木材](Wood.md)(+2～+6)<br>[绳子](Rope.md)(0)<br>[小树枝](Sticks.md)(+2～+8)<br>[细线](CordFiber.md)(+1～+4)<br>[塑料布](PlasticSheet.md)(0)<br>[塑料瓶](PlasticBottle.md)(0～+1)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br>  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+10<br>[污垢](Filth.md)+25  
+采集<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>离开  -4<br>[木材](Wood.md)(0～+1)<br>[绳子](Rope.md)(0)<br>[小树枝](Sticks.md)(0～+1)<br>[细线](CordFiber.md)(0～+4)<br>[塑料布](PlasticSheet.md)(0～+1)<br>[塑料瓶](PlasticBottle.md)(+1～+4)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br><br>[木材](Wood.md)(0～+1)<br>[绳子](Rope.md)(0～+2)<br>[小树枝](Sticks.md)(0～+3)<br>[细线](CordFiber.md)(+1～+12)<br>[塑料布](PlasticSheet.md)(0)<br>[塑料瓶](PlasticBottle.md)(0～+1)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br><br>[木材](Wood.md)(+2～+6)<br>[绳子](Rope.md)(0)<br>[小树枝](Sticks.md)(+2～+8)<br>[细线](CordFiber.md)(+1～+4)<br>[塑料布](PlasticSheet.md)(0)<br>[塑料瓶](PlasticBottle.md)(0～+1)<br>[螃蟹](Crab.md)(0～+4)<br>基础权重：1<br>  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+10<br>[污垢](Filth.md)+25  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

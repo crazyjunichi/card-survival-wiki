@@ -8,4 +8,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [洞穴](CaveSeaEntrance.md)(+1)<br>基础权重：1<br>  |  [情绪](Morale.md)+10  
+继续<br>  |  -  |    |  消失<br>[洞穴](CaveSeaEntrance.md)(+1)<br>基础权重：1<br>  |  [情绪](Morale.md)+10  

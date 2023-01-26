@@ -12,11 +12,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-还原成布匹<br>  |  -  |    |  → [大块的布](ClothLarge.md)<br>  |    
+还原成布匹<br>  |  -  |    |  → [大块的布](ClothLarge.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  打湿  |  -  |    |  自身:<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 12<br><br>使用物:<br>含水量  -300<br><br>  |    
+[“水”](tag_WaterAny.md)  |  打湿  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 12<br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

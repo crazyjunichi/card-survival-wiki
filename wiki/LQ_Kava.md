@@ -17,7 +17,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+35<br>[镇痛](Analgesia.md)+75<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+10  
+饮用<br>  |  -  |    |  耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+35<br>[镇痛](Analgesia.md)+75<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+10  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -12,5 +12,5 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-使用匕首。<br>  |  15分  |  [仪式匕首](CeremonialDagger.md)  |  [(事件)宿敌来了！](Event_EnemyFight.md)(+1)<br>[轻微撕裂伤](W_MinorLaceration.md)(+1)<br>  |    
-我还没准备好<br>  |  -  |    |    |  [情绪](Morale.md)-50<br>[宿敌现身](EnemyDefeated.md)-1  
+使用匕首。<br>  |  15分  |  [仪式匕首](CeremonialDagger.md)  |  消失<br>[(事件)宿敌来了！](Event_EnemyFight.md)(+1)<br>[轻微撕裂伤](W_MinorLaceration.md)(+1)<br>  |    
+我还没准备好<br>  |  -  |    |  消失  |  [情绪](Morale.md)-50<br>[宿敌现身](EnemyDefeated.md)-1  

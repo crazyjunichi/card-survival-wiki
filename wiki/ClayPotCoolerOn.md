@@ -12,11 +12,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清空后搬走<br>  |  15分  |    |  → [保鲜罐](ClayPotCoolerUndeployed.md)<br>  |    
+清空后搬走<br>  |  15分  |    |  → [保鲜罐](ClayPotCoolerUndeployed.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  自身:<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 192<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br>含水量  -300<br><br>  |    
+[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 192<br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

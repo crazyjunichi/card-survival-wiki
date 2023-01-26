@@ -13,14 +13,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  → [雄灰山鹑](PartridgeMaleEnclosure.md)<br>  |    
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  → [灰山鹑尸体](PartridgeDead.md)<br>  |  [灰山鹑种群数量](Pop_Partridge.md)+1000  
+圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  → [雄灰山鹑](PartridgeMaleEnclosure.md)  |    
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [灰山鹑种群数量](Pop_Partridge.md)+1000  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[鱼片](FishSlices.md)  |  喂养  |  -  |    |  自身:<br><img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 50<br><br>使用物:<br>可用次数  -1<br><br>  |    
-[“喂/添加”](tag_Feed.md)  |  喂养  |  -  |    |  自身:<br><img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 250<br><br>  |    
-[“切割工具”](tag_Cutter.md)  |  剖开  |  30分  |  [光亮](Light.md): 10-100  |  使用物:<br>可用次数  -1<br><br>获得:<br>[鸟骨](BonesBird.md)(+2)<br>[羽毛](Feathers.md)(+2～+4)<br>[鸟肉](BirdMeat.md)(+1)<br><br>  |  [污垢](Filth.md)+20  
+[鱼片](FishSlices.md)  |  喂养  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 50<br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[“喂/添加”](tag_Feed.md)  |  喂养  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 250<br>** 使用物: **<br>消失  |    
+[“切割工具”](tag_Cutter.md)  |  剖开  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[鸟骨](BonesBird.md)(+2)<br>[羽毛](Feathers.md)(+2～+4)<br>[鸟肉](BirdMeat.md)(+1)<br>  |  [污垢](Filth.md)+20  
 ## 可拖至  
 [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md)  
 ## 属性   

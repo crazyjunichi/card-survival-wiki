@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  → [柠檬草](LemongrassStalks.md)<br><br>[马勃菌](Puffballs.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+采集<br>  |  15分  |    |  消失<br>[马勃菌](Puffballs.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  

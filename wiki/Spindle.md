@@ -14,8 +14,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[纤维](Fibers.md)  |  缠线  |  -  |  [光亮](Light.md): 10-100  |  自身:<br>→ [缠好的纺锤](SpindleFiber.md)<br>进度 + 1<br><br>  |    
-[线团](YarnFiber.md)  |  缠线  |  -  |  [光亮](Light.md): 10-100  |  自身:<br>→ [缠好的纺锤](SpindleFiber.md)<br>进度 + 3<br><br>使用物:<br>→ [缠好的纺锤](SpindleFiber.md)<br><br>  |    
+[纤维](Fibers.md)  |  缠线  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>进度 + 1<br>** 使用物: **<br>消失  |    
+[线团](YarnFiber.md)  |  缠线  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [缠好的纺锤](SpindleFiber.md)<br>进度 + 3<br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

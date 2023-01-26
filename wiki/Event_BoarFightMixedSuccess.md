@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [(事件)野猪伤到了我！](Event_BoarWoundMinor.md)(+1)<br>[野猪尸体](BoarCarcass.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |    
+继续<br>  |  -  |    |  消失<br>[(事件)野猪伤到了我！](Event_BoarWoundMinor.md)(+1)<br>[野猪尸体](BoarCarcass.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |    

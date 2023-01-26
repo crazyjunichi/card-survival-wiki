@@ -12,4 +12,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  割水椰子  |  15分  |    |  自身:<br>→ [水椰树](NipaSapStation.md)<br><br>获得:<br>[水椰子](NipaFruit.md)(+1)<br><br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+[“切割工具”](tag_Cutter.md)  |  割水椰子  |  15分  |    |  ** 自身: **<br>→ [水椰树](NipaSapStation.md)<br>** 获得: **<br>[水椰子](NipaFruit.md)(+1)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  

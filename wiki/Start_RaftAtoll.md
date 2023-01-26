@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-把木筏推下水<br>  |  1小时  |    |  → [收起的帆](SailDown_Raft.md)<br><br>** 相关卡牌 **<br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  
+把木筏推下水<br>  |  1小时  |    |  消失<br>** 相关卡牌 **<br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  

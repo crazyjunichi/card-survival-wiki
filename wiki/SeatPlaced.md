@@ -14,8 +14,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 暂候15分钟<br>  |  15分  |    |    |  [耐力](Stamina.md)+15<br>[压力](Stress.md)-12  
 休息1小时<br>  |  1小时  |    |    |  [耐力](Stamina.md)+40<br>[压力](Stress.md)-48<br>[清醒度](Wakefulness.md)+16  
-捡起<br>  |  -  |    |  → [座椅](Seat.md)<br>  |    
+捡起<br>  |  -  |    |  → [座椅](Seat.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  拆卸  |  2小时  |  [光亮](Light.md): 1-100  |  使用物:<br>可用次数  -2<br><br>获得:<br>[大块的布](ClothLarge.md)(+1)<br>[纤维](Fibers.md)(+6～+10)<br>[金属废料](MetalScrap.md)(+1～+2)<br><br>  |  [污垢](Filth.md)+15  
+[“锤”](tag_Axe.md)  |  拆卸  |  2小时  |  [光亮](Light.md): 1-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -2<br>** 获得: **<br>[大块的布](ClothLarge.md)(+1)<br>[纤维](Fibers.md)(+6～+10)<br>[金属废料](MetalScrap.md)(+1～+2)<br>  |  [污垢](Filth.md)+15  

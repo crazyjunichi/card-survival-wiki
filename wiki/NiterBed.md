@@ -12,7 +12,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[碱液](LQ_Lye.md)  |  倒入碱液  |  -  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br><img decoding="async" src="Sprite/Lye.png" style="width:20px;"> + 480<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
+[碱液](LQ_Lye.md)  |  倒入碱液  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Lye.png" style="width:20px;"> + 480<br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

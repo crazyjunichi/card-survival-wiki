@@ -13,14 +13,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  1小时  |    |  [棕榈编织物](WeavePalm.md)(+3)<br>[细线](CordFiber.md)(+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  1小时  |    |  消失<br>[棕榈编织物](WeavePalm.md)(+3)<br>[细线](CordFiber.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[蛋](Egg.md)  |  添入  |  -  |    |  自身:<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 72<br><br>  |    
-[鸟食](FeedBird.md)  |  添入  |  -  |    |  自身:<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 3072<br><br>  |    
-[“诱饵”](tag_Bait.md)  |  添入  |  -  |    |  自身:<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 96<br><br>  |    
-[“喂/添加”](tag_Feed.md)  |  添入  |  -  |    |  自身:<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br><br>  |    
+[蛋](Egg.md)  |  添入  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 72<br>** 使用物: **<br>消失  |    
+[鸟食](FeedBird.md)  |  添入  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 3072<br>** 使用物: **<br>消失  |    
+[“诱饵”](tag_Bait.md)  |  添入  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 96<br>** 使用物: **<br>消失  |    
+[“喂/添加”](tag_Feed.md)  |  添入  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 288<br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

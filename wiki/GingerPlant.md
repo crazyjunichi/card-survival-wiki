@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>[姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>[姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

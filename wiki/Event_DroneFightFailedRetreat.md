@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [(事件)无人机伤到了我！](Event_DroneWoundMinor.md)(+1)<br>  |  [情绪](Morale.md)-20  
+继续<br>  |  -  |    |  消失<br>[(事件)无人机伤到了我！](Event_DroneWoundMinor.md)(+1)<br>  |  [情绪](Morale.md)-20  

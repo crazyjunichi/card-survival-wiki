@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-涂抹<br>[手部动作](HandAction.md)  |  -  |    |  耐久  -300<br>  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
+涂抹<br>[手部动作](HandAction.md)  |  -  |    |  耐久  -300  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于蓝图  

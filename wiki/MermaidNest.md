@@ -17,9 +17,9 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  浇水  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 24<br><br>使用物:<br>含水量  -300<br><br>  |    
-[潮汐池(岩滩)](TidePool.md)  |  浇水  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 24<br><br>  |    
-[海藻](Seaweed.md)  |  修理巢  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>耐久 + 288<br><br>  |    
+[“水”](tag_WaterAny.md)  |  浇水  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 24<br>** 使用物: **<br>消失<br>含水量  -300  |    
+[潮汐池(岩滩)](TidePool.md)  |  浇水  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 24  |    
+[海藻](Seaweed.md)  |  修理巢  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>耐久 + 288<br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

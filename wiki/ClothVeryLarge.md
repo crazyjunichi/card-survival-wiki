@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [大块的布](ClothLarge.md)<br><br>[布片](ClothSmall.md)(+1)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [大块的布](ClothLarge.md)<br>[布片](ClothSmall.md)(+1)<br>  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [防蜂服(蓝图)](Bp_BeeSuit.md)  

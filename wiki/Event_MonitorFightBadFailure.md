@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [巨蜥咬伤](W_MonitorBite.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [情绪](Morale.md)-20  
+继续<br>  |  -  |    |  消失<br>[巨蜥咬伤](W_MonitorBite.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20  

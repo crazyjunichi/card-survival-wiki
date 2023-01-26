@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-……<br>  |  -  |    |  [(事件)船长](Event_CaptainSpecial1e.md)(+1)<br>  |    
+……<br>  |  -  |    |  消失<br>[(事件)船长](Event_CaptainSpecial1e.md)(+1)<br>  |    

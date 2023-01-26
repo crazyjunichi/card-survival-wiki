@@ -8,4 +8,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-微笑<br>  |  -  |    |  [(事件)神圣灵视](Event_GodExperience1b.md)(+1)<br>  |    
+微笑<br>  |  -  |    |  消失<br>[(事件)神圣灵视](Event_GodExperience1b.md)(+1)<br>  |    

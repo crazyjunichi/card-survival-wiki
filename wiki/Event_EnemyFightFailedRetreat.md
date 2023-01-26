@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼<br>  |  1小时  |    |  [崩解烙印](W_UnravellingMark.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  
+闭眼<br>  |  1小时  |    |  消失<br>[崩解烙印](W_UnravellingMark.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  

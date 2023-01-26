@@ -13,4 +13,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md): 10-100  |  自身:<br>→ [碎海螺壳](ConchBroken.md)<br><br>获得:<br>[碎海螺壳](ConchBroken.md)(+3)<br>基础权重：1<br><br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎海螺  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 获得: **<br>[碎海螺壳](ConchBroken.md)(+3)<br>基础权重：1<br>  |    

@@ -8,4 +8,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲开  |  -  |  [光亮](Light.md): 10-100  |  获得:<br>[椰子壳](CoconutShell.md)(+2)<br>[腐烂物](RottenRemains.md)(+2)<br>基础权重：1<br><br>  |    
+[“锤”](tag_Hammer.md)  |  敲开  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 获得: **<br>[椰子壳](CoconutShell.md)(+2)<br>[腐烂物](RottenRemains.md)(+2)<br>基础权重：1<br>  |    

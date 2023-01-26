@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拔掉刺<br>  |  15分  |    |  <img decoding="async" src="Sprite/UrchinSpines.png" style="width:20px;">  -4<br>  |  [情绪](Morale.md)-10  
+拔掉刺<br>  |  15分  |    |  <img decoding="async" src="Sprite/UrchinSpines.png" style="width:20px;">  -4  |  [情绪](Morale.md)-10  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

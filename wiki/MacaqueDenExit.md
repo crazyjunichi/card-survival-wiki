@@ -8,4 +8,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>基础权重：1<br>  |    
+离开<br>  |  -  |    |  [丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>基础权重：1<br>  |    

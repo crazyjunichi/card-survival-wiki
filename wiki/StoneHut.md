@@ -12,7 +12,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[扫帚](Broom.md)  |  打扫  |  30分  |  [光亮](Light.md): 5-100  |  自身:<br>污秽<img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">  -250<br><br>使用物:<br>可用次数  -1<br><br>  |  [压力](Stress.md)-10<br>[情绪](Morale.md)+5  
+[扫帚](Broom.md)  |  打扫  |  30分  |  [光亮](Light.md): 5-100  |  ** 自身: **<br>污秽<img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">  -250<br>** 使用物: **<br>可用次数  -1  |  [压力](Stress.md)-10<br>[情绪](Morale.md)+5  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

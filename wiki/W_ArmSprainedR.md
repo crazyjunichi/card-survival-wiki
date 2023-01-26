@@ -13,7 +13,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[芦荟膏](AloeVeraGel.md)  |  涂抹  |  -  |    |  自身:<br><img decoding="async" src="Sprite/AloeGel.png" style="width:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">  -350<br><br>使用物:<br>可用次数  -1<br><br>  |    
+[芦荟膏](AloeVeraGel.md)  |  涂抹  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/AloeGel.png" style="width:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">  -350<br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

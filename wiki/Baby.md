@@ -12,9 +12,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-喂奶<br>  |  15分  |    |  饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 16<br>情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 4<br>  |  [体重](Weight.md)-5<br>[孤独感](Loneliness.md)-5<br>[情绪](Morale.md)+2  
-哄哄<br>  |  15分  |    |  情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 16<br>  |  [孤独感](Loneliness.md)-5<br>[情绪](Morale.md)+2<br>[娱乐](Entertainment.md)+4  
-一起玩耍<br>  |  30分  |    |  情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 32<br>  |  [孤独感](Loneliness.md)-10<br>[情绪](Morale.md)+4<br>[娱乐](Entertainment.md)+8  
+喂奶<br>  |  15分  |    |  饥饿<img decoding="async" src="Sprite/Hunger.png" style="width:20px;"> + 16<br>情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 4  |  [体重](Weight.md)-5<br>[孤独感](Loneliness.md)-5<br>[情绪](Morale.md)+2  
+哄哄<br>  |  15分  |    |  情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 16  |  [孤独感](Loneliness.md)-5<br>[情绪](Morale.md)+2<br>[娱乐](Entertainment.md)+4  
+一起玩耍<br>  |  30分  |    |  情绪<img decoding="async" src="Sprite/Content.png" style="width:20px;"> + 32  |  [孤独感](Loneliness.md)-10<br>[情绪](Morale.md)+4<br>[娱乐](Entertainment.md)+8  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

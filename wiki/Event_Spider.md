@@ -14,6 +14,6 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-别想伤到我<br>  |  -  |  [足部防护](FootProtection.md): 4-10  |    |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 1-3.9  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-0  |  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+别想伤到我<br>  |  -  |  [足部防护](FootProtection.md): 4-10  |  消失  |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 1-3.9  |  消失<br>[蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-0  |  消失<br>[蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    

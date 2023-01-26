@@ -19,4 +19,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“铲子”](tag_Shovel.md)  |  挖土  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  使用物:<br>可用次数  -1<br><br>获得:<br>[干土堆](DirtPile.md)(+6)<br>[虫子](Bugs.md)(0～+1)<br><br>  |  [耐力](Stamina.md)-4<br>[手掌损伤](HandDamage.md)+20  
+[“铲子”](tag_Shovel.md)  |  挖土  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[干土堆](DirtPile.md)(+6)<br>[虫子](Bugs.md)(0～+1)<br>  |  [耐力](Stamina.md)-4<br>[手掌损伤](HandDamage.md)+20  

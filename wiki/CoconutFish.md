@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)<br>  |  [饱食](Satiation.md)+45<br>[胃](Stomach.md)+44<br>[水分](Hydration.md)+22<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+30<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+30<br>[污垢](Filth.md)+5<br>[腹泻](Diarrhoea.md)+10  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)  |  [饱食](Satiation.md)+45<br>[胃](Stomach.md)+44<br>[水分](Hydration.md)+22<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+30<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+30<br>[污垢](Filth.md)+5<br>[腹泻](Diarrhoea.md)+10  
 ## 可拖至  
 [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   

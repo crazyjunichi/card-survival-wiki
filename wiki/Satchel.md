@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  30分  |  [光亮](Light.md): 5-100  |  [鞣制兽皮](CuredSkin.md)(+2)<br>[细线](CordFiber.md)(+2～+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  30分  |  [光亮](Light.md): 5-100  |  消失<br>[鞣制兽皮](CuredSkin.md)(+2)<br>[细线](CordFiber.md)(+2～+4)<br>  |    

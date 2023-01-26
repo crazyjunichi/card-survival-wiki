@@ -18,25 +18,12 @@
 [烟熏炉框架](SmokerFrame.md)  |  移除树枝  
 [套索陷阱](SnareTrap.md)  |  拆除陷阱  
 [套索陷阱](SnareTrapTriggered.md)  |  拆除陷阱  
-[简易的弓](BowRustic.md)  |  练习  
 [止血带](Tourniquet.md)  |  拆解  
 [架子](Shelf.md)  |  拆解  
 [长木棍](StickLong.md)  |  折断长木棍  
 [废金属斧](AxeScrap.md)  |  拆解  
-[扫帚](Broom.md)  |  训练  
-[鱼镖](HarpoonBone.md)  |  训练  
 [废金属铲](ShovelScrap.md)  |  拆解  
-[铜长矛](SpearCopper.md)  |  训练  
-[铜长矛](SpearCopper.md)  |  拆解  
-[鱼叉](SpearFishing.md)  |  训练  
 [鱼叉](SpearFishing.md)  |  折断鱼叉  
-[燧石长矛](SpearFlint.md)  |  训练  
-[燧石长矛](SpearFlint.md)  |  拆解  
-[黑曜石长矛](SpearObsidian.md)  |  训练  
-[黑曜石长矛](SpearObsidian.md)  |  拆解  
-[简易长矛](SpearRustic.md)  |  训练  
-[废金属长矛](SpearScrap.md)  |  训练  
-[废金属长矛](SpearScrap.md)  |  拆解  
 [金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
 [剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
 [废墟(泥屋)](Debris.md)  |  清理  
@@ -87,8 +74,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  制作手钻  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [手钻](HandDrill.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[细线](CordFiber.md)  |  制作止血带  |  30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [简易止血带](TourniquetRustic.md)<br><br>使用物:<br>可用次数  -1<br><br>  |  [制作(技能)](Skill_Crafting.md)+1  
+[“切割工具”](tag_Cutter.md)  |  制作手钻  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [手钻](HandDrill.md)<br>** 使用物: **<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[细线](CordFiber.md)  |  制作止血带  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易止血带](TourniquetRustic.md)<br>** 使用物: **<br>消失<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md), [烟熏炉](Smoker.md), [烟熏炉(熄灭)](SmokerExtinguished.md), [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md), [布](Cloth.md), [木材](Wood.md)  
 ## 可用于蓝图  

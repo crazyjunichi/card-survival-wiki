@@ -19,7 +19,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  自身:<br>→ [灰水](LQ_AshWater.md)<br><br>使用物:<br>→ [灰水](LQ_AshWater.md)<br><br>  |    
+[“灌溉用水”](tag_WaterFresh.md)  |  浸泡  |  -  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>→ [灰水](LQ_AshWater.md)  |    
 ## 可拖至  
 [泥堆](MudPile.md), [粘土](Clay.md), [布片](ClothSmall.md)  
 ## 可用于蓝图  

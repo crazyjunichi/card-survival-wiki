@@ -12,14 +12,14 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳  |  -  |    |  自身:<br>燃料 + 3<br><br>  |    
-[木材](Wood.md)  |  添入柴火  |  -  |    |  自身:<br>燃料 + 28<br><br>  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料  |  -  |    |  自身:<br>燃料 + 7<br><br>  |    
-[木炭](Charcoal.md)  |  添入木炭  |  -  |    |  自身:<br>燃料 + 16<br><br>  |    
-[火炭](Embers.md)  |  添入火炭  |  -  |    |  自身:<br>燃料 + 16<br><br>  |    
-[枯叶](LeavesDry.md)  |  点燃火绒  |  -  |    |  使用物:<br>→ [火种](TinderLit.md)<br><br>  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶  |  -  |    |  自身:<br>燃料 + 2<br><br>  |    
-[风箱](Bellows.md)  |  提升温度  |  30分  |    |  自身:<br>温度<img decoding="async" src="Sprite/Hot.png" style="width:20px;"> + 300<br><br>使用物:<br>→ [火种](TinderLit.md)<br>可用次数  -1<br><br>  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳  |  -  |    |  ** 自身: **<br>燃料 + 3<br>** 使用物: **<br>消失  |    
+[木材](Wood.md)  |  添入柴火  |  -  |    |  ** 自身: **<br>燃料 + 28<br>** 使用物: **<br>消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料  |  -  |    |  ** 自身: **<br>燃料 + 7<br>** 使用物: **<br>消失  |    
+[木炭](Charcoal.md)  |  添入木炭  |  -  |    |  ** 自身: **<br>燃料 + 16<br>** 使用物: **<br>消失  |    
+[火炭](Embers.md)  |  添入火炭  |  -  |    |  ** 自身: **<br>燃料 + 16<br>** 使用物: **<br>消失  |    
+[枯叶](LeavesDry.md)  |  点燃火绒  |  -  |    |  ** 使用物: **<br>→ [火种](TinderLit.md)  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶  |  -  |    |  ** 自身: **<br>燃料 + 2<br>** 使用物: **<br>消失  |    
+[风箱](Bellows.md)  |  提升温度  |  30分  |    |  ** 自身: **<br>温度<img decoding="async" src="Sprite/Hot.png" style="width:20px;"> + 300<br>** 使用物: **<br>可用次数  -1  |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

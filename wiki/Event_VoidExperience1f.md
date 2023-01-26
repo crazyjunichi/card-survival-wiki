@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-停！<br>  |  -  |    |  [(事件)虚空灵视](Event_VoidExperience1g.md)(+1)<br>  |    
+停！<br>  |  -  |    |  消失<br>[(事件)虚空灵视](Event_VoidExperience1g.md)(+1)<br>  |    

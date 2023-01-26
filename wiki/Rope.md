@@ -29,7 +29,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  [线团](YarnFiber.md)(+2)<br>  |    
+拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>[线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
 [编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

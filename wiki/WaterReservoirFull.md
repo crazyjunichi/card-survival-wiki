@@ -12,11 +12,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-开始灌溉<br>  |  -  |  [已灌溉](Irrigated.md): 1-1  |  → [蓄水池（灌溉中）](WaterReservoirIrrigating.md)<br>  |    
+开始灌溉<br>  |  -  |  [已灌溉](Irrigated.md): 1-1  |  → [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“储水容器”](tag_WaterContainer.md)  |  防蚊  |  15分  |    |  自身:<br>防蚊<img decoding="async" src="Sprite/BugsNot.png" style="width:20px;"> + 672<br><br>使用物:<br>含水量  -50<br><br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  防蚊  |  15分  |    |  ** 自身: **<br>防蚊<img decoding="async" src="Sprite/BugsNot.png" style="width:20px;"> + 672<br>** 使用物: **<br>含水量  -50  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

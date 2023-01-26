@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除陷阱<br>[手部动作](HandAction.md)  |  3小时  |  [光亮](Light.md): 10-100  |  [大石块](StoneHeavy.md)(+4)<br>[石头](Stone.md)(+16)<br>[长木棍](StickLong.md)(+4)<br>基础权重：1<br>  |    
+拆除陷阱<br>[手部动作](HandAction.md)  |  3小时  |  [光亮](Light.md): 10-100  |  消失<br>[大石块](StoneHeavy.md)(+4)<br>[石头](Stone.md)(+16)<br>[长木棍](StickLong.md)(+4)<br>基础权重：1<br>  |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

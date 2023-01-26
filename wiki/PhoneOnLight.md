@@ -12,10 +12,10 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-关机<br>  |  -  |    |  → [手机(关)](PhoneOff.md)<br>  |    
-玩游戏<br>  |  30分  |    |  → [手机(关)](PhoneOff.md)<br>燃料  -2<br>  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5  
-看照片<br>  |  15分  |    |  → [手机(关)](PhoneOff.md)<br>燃料  -1<br>  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
-关闭手电筒<br>  |  -  |    |  → [手机(开)](PhoneOn.md)<br>燃料  -1<br>  |    
+关机<br>  |  -  |    |  → [手机(关)](PhoneOff.md)  |    
+玩游戏<br>  |  30分  |    |  燃料  -2  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5  
+看照片<br>  |  15分  |    |  燃料  -1  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
+关闭手电筒<br>  |  -  |    |  → [手机(开)](PhoneOn.md)<br>燃料  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

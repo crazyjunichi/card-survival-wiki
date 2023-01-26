@@ -9,13 +9,11 @@
 来源  |  操作  
 ----  |  ----  
 [控制台(关)](ControlPanelOff.md)  |  启动引擎  
-[控制台(关)](ControlPanelOff.md)  |  检查无线电室  
-[控制台(开)](ControlPanelOn.md)  |  检查无线电室  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-关闭引擎<br>  |  -  |    |  → [控制台(关)](ControlPanelOff.md)<br>  |    
-检查无线电室<br>  |  -  |    |  → [控制台(开)](ControlPanelOn.md)<br>  |    
+关闭引擎<br>  |  -  |    |  → [控制台(关)](ControlPanelOff.md)  |    
+检查无线电室<br>  |  -  |    |    |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

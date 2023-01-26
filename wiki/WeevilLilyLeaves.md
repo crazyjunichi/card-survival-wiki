@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作绷带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>[叶片绷带](LeafDressing.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+制作绷带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>[叶片绷带](LeafDressing.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 属性   

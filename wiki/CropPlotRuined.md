@@ -8,13 +8,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摧毁<br>[手部动作](HandAction.md)  |  30分  |    |  → [未栽种的农田(空)](CropPlotEmpty.md)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
+摧毁<br>[手部动作](HandAction.md)  |  30分  |    |  → [未栽种的农田(空)](CropPlotEmpty.md)  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>水分<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 96<br><br>使用物:<br>→ [椰壶](CoconutFlask.md)<br>含水量  -300<br><br>  |    
-[“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 384<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
-[“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  自身:<br>→ [杏仁树田](CropPlotAlmondTree.md)<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 96<br><br>使用物:<br>→ [陶碗](ClayBowl.md)<br>可用次数  -1<br><br>  |    
+[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 96<br>** 使用物: **<br>含水量  -300  |    
+[“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 384<br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" style="width:20px;"> + 96<br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 可拖至  
 [硫磺农药](LQ_PesticideBrimstone.md), [辣椒农药](LQ_PesticideChilli.md)  
 ## 属性   

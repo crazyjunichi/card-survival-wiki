@@ -8,7 +8,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  打湿  |  -  |    |  自身:<br>→ [湿肥皂](SoapWet.md)<br>耐久 + 4<br><br>使用物:<br>→ [椰子壳](CoconutShell.md)<br>耐久  -250<br>可用次数  -1<br>含水量  -100<br><br>  |    
+[“水”](tag_WaterAny.md)  |  打湿  |  -  |    |  ** 自身: **<br>→ [湿肥皂](SoapWet.md)<br>耐久 + 4<br>** 使用物: **<br>耐久  -250<br>可用次数  -1<br>含水量  -100  |    
 ## 可用于蓝图  
 - [辣椒农药(蓝图)](Bp_PesticideChilli.md)  
   

@@ -18,8 +18,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-吃烧焦物<br>[进食动作](EatingAction.md)  |  15分  |    |    |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)-5<br>[情绪](Morale.md)-15<br>[腹泻](Diarrhoea.md)-7  
-丢弃<br>  |  -  |    |    |    
+吃烧焦物<br>[进食动作](EatingAction.md)  |  15分  |    |  消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)-5<br>[情绪](Morale.md)-15<br>[腹泻](Diarrhoea.md)-7  
+丢弃<br>  |  -  |    |  消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

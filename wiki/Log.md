@@ -24,8 +24,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[石斧](StoneAxe.md)  |  截成两段  |  2小时  |  [光亮](Light.md): 10-100  |  自身:<br>→ [半根原木](HalfLog.md)<br>使用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[半根原木](HalfLog.md)(+2)<br><br>  |  [体重](Weight.md)-8<br>[耐力](Stamina.md)-16<br>[手掌损伤](HandDamage.md)+80<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[“锤”](tag_Axe.md)  |  截成两段  |  1小时30分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [半根原木](HalfLog.md)<br>使用次数  -1<br><br>使用物:<br>可用次数  -2<br><br>获得:<br>[半根原木](HalfLog.md)(+2)<br><br>  |  [体重](Weight.md)-6<br>[耐力](Stamina.md)-12<br>[手掌损伤](HandDamage.md)+60  
+[石斧](StoneAxe.md)  |  截成两段  |  2小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>使用次数  -1<br>** 使用物: **<br>可用次数  -2<br>** 获得: **<br>[半根原木](HalfLog.md)(+2)<br>  |  [体重](Weight.md)-8<br>[耐力](Stamina.md)-16<br>[手掌损伤](HandDamage.md)+80<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“锤”](tag_Axe.md)  |  截成两段  |  1小时30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>使用次数  -1<br>** 使用物: **<br>可用次数  -2<br>** 获得: **<br>[半根原木](HalfLog.md)(+2)<br>  |  [体重](Weight.md)-6<br>[耐力](Stamina.md)-12<br>[手掌损伤](HandDamage.md)+60  
 ## 可用于蓝图  
 - [猪食槽(蓝图)](Bp_BoarFeeder.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

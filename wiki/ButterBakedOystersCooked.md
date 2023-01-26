@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出牡蛎<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br><br>[黄油焗牡蛎](OysterMeatBaked.md)(+4)<br>  |    
+取出牡蛎<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br>[黄油焗牡蛎](OysterMeatBaked.md)(+4)<br>  |    
 ## 可拖至  
 [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   

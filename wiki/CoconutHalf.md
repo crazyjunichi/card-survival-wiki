@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-刮椰肉<br>[手部动作](HandAction.md)  |  15分  |    |  → [椰子壳](CoconutShell.md)<br><br>[椰肉](CoconutMeat.md)(+1)<br>基础权重：1<br>  |    
+刮椰肉<br>[手部动作](HandAction.md)  |  15分  |    |  → [椰子壳](CoconutShell.md)<br>[椰肉](CoconutMeat.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

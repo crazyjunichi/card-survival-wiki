@@ -8,7 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -250<br>含水量  -300<br>  |  [水分](Hydration.md)+40<br>[清醒度](Wakefulness.md)-5<br>[压力](Stress.md)-10<br>[茉莉效果](JasmineEffect.md)+24<br>[情绪](Morale.md)+2  
+饮用<br>  |  -  |    |  耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+40<br>[清醒度](Wakefulness.md)-5<br>[压力](Stress.md)-10<br>[茉莉效果](JasmineEffect.md)+24<br>[情绪](Morale.md)+2  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

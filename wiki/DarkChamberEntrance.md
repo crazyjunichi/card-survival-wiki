@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  → [丛林(环境)](Env_Jungle.md)<br><br>[阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>[离开(阴暗洞穴)](DarkChamberExit.md)(+1)<br>基础权重：1<br>  |  [在黑暗环境](InDarkPlace.md)+1  
+进入<br>  |  -  |    |  [阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>[离开(阴暗洞穴)](DarkChamberExit.md)(+1)<br>基础权重：1<br>  |  [在黑暗环境](InDarkPlace.md)+1  

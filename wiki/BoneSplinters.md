@@ -14,9 +14,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作钩<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨钩](HookBone.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
-制作针<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨针](BoneNeedle.md)<br>  |  [制作(技能)](Skill_Crafting.md)+0.5  
+制作钩<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨钩](HookBone.md)  |  [制作(技能)](Skill_Crafting.md)+0.5  
+制作针<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [骨针](BoneNeedle.md)  |  [制作(技能)](Skill_Crafting.md)+0.5  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  研磨  |  1小时  |    |  自身:<br>→ [骨粉](Bonemeal.md)<br><br>使用物:<br>可用次数  -1<br><br>  |    
+[“锤”](tag_Hammer.md)  |  研磨  |  1小时  |    |  ** 自身: **<br>→ [骨粉](Bonemeal.md)<br>** 使用物: **<br>可用次数  -1  |    

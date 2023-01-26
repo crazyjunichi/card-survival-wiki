@@ -66,7 +66,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  制作线团  |  15分  |  [光亮](Light.md): 10-100  |  自身:<br>→ [线团](YarnFiber.md)<br><br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[细线](CordFiber.md)  |  制作线团  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖至  
 [捕捞拖网](RaftFishTrap.md), [稻草人](Scarecrow.md), [骨针](BoneNeedle.md), [铜针](CopperNeedle.md), [细线](CordFiber.md), [补给箱](SupplyChestRaft.md), [小树枝](Sticks.md), [木针](WoodenNeedle.md), [损坏的帆](SailBroken_Raft.md), [收起的帆](SailDown_Raft.md)  
 ## 可用于蓝图  

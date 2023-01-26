@@ -14,9 +14,9 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火种](TinderLit.md)  |  点燃  |  -  |    |  自身:<br>→ [熏蜂器(开)](BeeSmokerOn.md)<br>燃料 + 16<br><br>  |    
-[蒸馏器(开)](AlembicOn.md)  |  点燃  |  -  |    |  自身:<br>→ [熏蜂器(开)](BeeSmokerOn.md)<br>燃料 + 1<br><br>  |    
-[“火绒”](tag_Tinder.md)  |  添入燃料  |  -  |    |  自身:<br>→ [火把(开)](TorchOn.md)<br>燃料 + 16<br><br>  |    
+[火种](TinderLit.md)  |  点燃  |  -  |    |  ** 自身: **<br>→ [熏蜂器(开)](BeeSmokerOn.md)<br>燃料 + 16<br>** 使用物: **<br>消失  |    
+[蒸馏器(开)](AlembicOn.md)  |  点燃  |  -  |    |  ** 自身: **<br>→ [熏蜂器(开)](BeeSmokerOn.md)<br>燃料 + 1  |    
+[“火绒”](tag_Tinder.md)  |  添入燃料  |  -  |    |  ** 自身: **<br>燃料 + 16<br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

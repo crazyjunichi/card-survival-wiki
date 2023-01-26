@@ -13,4 +13,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-<i>抓！紧！</i><br>  |  2小时  |    |    |  [关系层](RelationalLayer.md)+1<br>[神圣灵视](GodInsight.md)+1<br>[狂躁](Mania.md)+48～+480<br>[失实症](Derealization.md)-999<br>[精神失常](MindState.md)+50<br>[灵视(技能)](Skill_Insight.md)+10  
+<i>抓！紧！</i><br>  |  2小时  |    |  消失  |  [关系层](RelationalLayer.md)+1<br>[神圣灵视](GodInsight.md)+1<br>[狂躁](Mania.md)+48～+480<br>[失实症](Derealization.md)-999<br>[精神失常](MindState.md)+50<br>[灵视(技能)](Skill_Insight.md)+10  

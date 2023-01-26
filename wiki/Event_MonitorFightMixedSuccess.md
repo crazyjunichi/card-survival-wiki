@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  [巨蜥咬伤](W_MonitorBite.md)(+1)<br>[巨蜥尸体](MonitorCarcass.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10<br>  |  [巨蜥种群数量](Pop_Monitor.md)-1000  
+继续<br>  |  -  |    |  消失<br>[巨蜥咬伤](W_MonitorBite.md)(+1)<br>[巨蜥尸体](MonitorCarcass.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [巨蜥种群数量](Pop_Monitor.md)-1000  

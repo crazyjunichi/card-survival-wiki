@@ -12,5 +12,5 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md): 1-1  |  → [控制台(开)](ControlPanelOn.md)<br>  |    
-检查无线电室<br>  |  -  |    |  → [控制台(开)](ControlPanelOn.md)<br>  |    
+启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md): 1-1  |  → [控制台(开)](ControlPanelOn.md)  |    
+检查无线电室<br>  |  -  |    |    |    

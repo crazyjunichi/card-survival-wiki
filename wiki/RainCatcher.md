@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [塑料布](PlasticSheet.md)<br><br>[石头](Stone.md)(+5)<br>[塑料布](PlasticSheet.md)(+1)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>[石头](Stone.md)(+5)<br>[塑料布](PlasticSheet.md)(+1)<br>  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

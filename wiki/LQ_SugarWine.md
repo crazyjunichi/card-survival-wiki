@@ -8,7 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  → [陶碗](ClayBowl.md)<br>耐久  -300<br>使用次数  -1<br>含水量  -300<br>  |  [水分](Hydration.md)+35<br>[胃](Stomach.md)+24<br>[腹泻](Diarrhoea.md)+5<br>[饱食](Satiation.md)+5<br>[压力](Stress.md)-10<br>[情绪](Morale.md)-5<br>[酒精](Alcohol.md)+24  
+饮用<br>  |  -  |    |  耐久  -300<br>使用次数  -1<br>含水量  -300  |  [水分](Hydration.md)+35<br>[胃](Stomach.md)+24<br>[腹泻](Diarrhoea.md)+5<br>[饱食](Satiation.md)+5<br>[压力](Stress.md)-10<br>[情绪](Morale.md)-5<br>[酒精](Alcohol.md)+24  
 ## 可用于蓝图  
 - [醉蟹(蓝图)](Bp_DrunkenCrab.md)  
   

@@ -16,4 +16,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[开水](LQ_WaterBoiling.md)  |  制作咖啡  |  -  |    |  自身:<br>→ [蜘蛛兰茶](LQ_SpiderLily.md)<br><br>使用物:<br>→ [咖啡](LQ_Coffee.md)<br><br>  |    
+[开水](LQ_WaterBoiling.md)  |  制作咖啡  |  -  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>→ [咖啡](LQ_Coffee.md)  |    

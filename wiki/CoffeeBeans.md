@@ -10,7 +10,6 @@
 ----  |  ----  
 [咖啡果](CoffeeBerries.md)  |  食用  
 [咖啡果](CoffeeBerries.md)  |  采集咖啡豆  
-[咖啡果浆](CoffeeBerryPulp.md)  |  食用  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于转化  
