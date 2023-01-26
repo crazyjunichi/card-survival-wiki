@@ -12,4 +12,4 @@
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-filthiness  |  [泥屋](MudHut.md)<br>[泥屋](MudHutRuins.md)<br>[棚屋](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">+1  |    
+filthiness  |  [泥屋](MudHut.md)<br>[泥屋](MudHutRuins.md)<br>[棚屋](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    

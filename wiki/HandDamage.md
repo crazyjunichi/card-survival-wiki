@@ -4,8 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" style="width:20px;">我的手掌好疼  |  割伤和擦伤使我很难用手工作。  |  [手茧](CallousesHands.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
-501 ～ 1000  |  <img decoding="async" src="Sprite/HandDamaged.png" style="width:20px;">我的手掌太痛了  |  我的手上全是血，到处都是伤口，太疼了。  |  [手茧](CallousesHands.md)加成+2<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
+250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">我的手掌好疼  |  割伤和擦伤使我很难用手工作。  |  [手茧](CallousesHands.md)加成+1<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/HandDamaged.png" href="a.md" style="max-width:20px;max-height:20px;">我的手掌太痛了  |  我的手上全是血，到处都是伤口，太疼了。  |  [手茧](CallousesHands.md)加成+2<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
 ## 关联状态  
 [手茧](CallousesHands.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  

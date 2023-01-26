@@ -4,7 +4,7 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 12  |  <img decoding="async" src="Sprite/Foot.png" style="width:20px;">神经压迫  |  过高时会导致神经损伤。  |    |    
+1 ～ 12  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">神经压迫  |  过高时会导致神经损伤。  |    |    
 12 ～ 12  |  神经压迫  |  过高时会导致神经损伤。  |  [左腿神经损伤](NerveDamageLegsPermanent.md)加成+48  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  

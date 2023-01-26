@@ -4,13 +4,13 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-211 ～ 260  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">轻微口渴  |  有点渴了  |    |    
-151 ～ 210  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">口渴  |  我想喝点什么  |    |    
-91 ～ 150  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">非常口渴  |  我得喝点什么  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1  |    
-61 ～ 90  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">脱水  |  我必须要赶紧喝点什么  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+1  |    
-31 ～ 60  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">严重脱水  |  我严重脱水了  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2  |    
-1 ～ 30  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">极度脱水  |  我撑不了多久了  |  [情绪](Morale.md)加成-3<br>[压力](Stress.md)加成+3  |    
-0 ～ 0  |  <img decoding="async" src="Sprite/Thirst.png" style="width:20px;">死于口渴  |  你死于脱水。  |    |    
+211 ～ 260  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">轻微口渴  |  有点渴了  |    |    
+151 ～ 210  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">口渴  |  我想喝点什么  |    |    
+91 ～ 150  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">非常口渴  |  我得喝点什么  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1  |    
+61 ～ 90  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">脱水  |  我必须要赶紧喝点什么  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+1  |    
+31 ～ 60  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">严重脱水  |  我严重脱水了  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2  |    
+1 ～ 30  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">极度脱水  |  我撑不了多久了  |  [情绪](Morale.md)加成-3<br>[压力](Stress.md)加成+3  |    
+0 ～ 0  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">死于口渴  |  你死于脱水。  |    |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

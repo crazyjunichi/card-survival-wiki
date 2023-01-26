@@ -12,4 +12,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-成熟度<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：288<br>最大：576  |  每15分钟+1<br>最多需要：6天  |  ** 到达上限时： **<br>[外星植物](AlienGrowthCleared.md)+1 <br>→ [陨石坑](AlienCrater.md)  
+成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：576  |  每15分钟+1<br>最多需要：6天  |  ** 到达上限时： **<br>[外星植物](AlienGrowthCleared.md)+1 <br>→ [陨石坑](AlienCrater.md)  

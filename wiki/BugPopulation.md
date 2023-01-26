@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">中等蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+1  |    
-2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">高蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+2  |    
-4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">很高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+4  |    
-5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">极高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+5  |    
+1 ～ 1  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">中等蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+1  |    
+2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">高蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+2  |    
+4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">很高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+4  |    
+5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">极高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+5  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

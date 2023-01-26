@@ -4,15 +4,15 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-60 ～ 80  |  <img decoding="async" src="Sprite/Hot.png" style="width:20px;">灼热  |  我要被烤熟了……  |  [过热](Hyperthermia.md)加成+40<br>[湿度](Wetness.md)加成-100<br>[水分](Hydration.md)加成-6  |    
-45 ～ 59  |  <img decoding="async" src="Sprite/Hot.png" style="width:20px;">极端炎热  |  我要融化了……  |  [过热](Hyperthermia.md)加成+30<br>[湿度](Wetness.md)加成-50<br>[水分](Hydration.md)加成-3  |    
-36 ～ 44  |  <img decoding="async" src="Sprite/Hot.png" style="width:20px;">非常热  |    |  [过热](Hyperthermia.md)加成+26<br>[湿度](Wetness.md)加成-25<br>[水分](Hydration.md)加成-1.5  |    
-28 ～ 35  |  <img decoding="async" src="Sprite/Hot.png" style="width:20px;">热  |    |  [过热](Hyperthermia.md)加成+24<br>[湿度](Wetness.md)加成-10<br>[水分](Hydration.md)加成-0.75  |    
-8 ～ 18  |  <img decoding="async" src="Sprite/Cold.png" style="width:20px;">凉爽  |    |  [失温](Hypothermia.md)加成+15  |    
--2 ～ 7  |  <img decoding="async" src="Sprite/Cold.png" style="width:20px;">冷  |    |  [失温](Hypothermia.md)加成+26  |    
--10 ～ -3  |  <img decoding="async" src="Sprite/Cold.png" style="width:20px;">非常冷  |    |  [失温](Hypothermia.md)加成+28  |    
--35 ～ -11  |  <img decoding="async" src="Sprite/Cold.png" style="width:20px;">寒冷  |    |  [失温](Hypothermia.md)加成+32  |    
--80 ～ -36  |  <img decoding="async" src="Sprite/Cold.png" style="width:20px;">极端寒冷  |    |  [失温](Hypothermia.md)加成+40  |    
+60 ～ 80  |  <img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">灼热  |  我要被烤熟了……  |  [过热](Hyperthermia.md)加成+40<br>[湿度](Wetness.md)加成-100<br>[水分](Hydration.md)加成-6  |    
+45 ～ 59  |  <img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">极端炎热  |  我要融化了……  |  [过热](Hyperthermia.md)加成+30<br>[湿度](Wetness.md)加成-50<br>[水分](Hydration.md)加成-3  |    
+36 ～ 44  |  <img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">非常热  |    |  [过热](Hyperthermia.md)加成+26<br>[湿度](Wetness.md)加成-25<br>[水分](Hydration.md)加成-1.5  |    
+28 ～ 35  |  <img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">热  |    |  [过热](Hyperthermia.md)加成+24<br>[湿度](Wetness.md)加成-10<br>[水分](Hydration.md)加成-0.75  |    
+8 ～ 18  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">凉爽  |    |  [失温](Hypothermia.md)加成+15  |    
+-2 ～ 7  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">冷  |    |  [失温](Hypothermia.md)加成+26  |    
+-10 ～ -3  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">非常冷  |    |  [失温](Hypothermia.md)加成+28  |    
+-35 ～ -11  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">寒冷  |    |  [失温](Hypothermia.md)加成+32  |    
+-80 ～ -36  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">极端寒冷  |    |  [失温](Hypothermia.md)加成+40  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

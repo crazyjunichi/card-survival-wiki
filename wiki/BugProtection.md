@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">中等的防护  |    |  [蚊虫叮咬](BugDamage.md)-1  |    
-2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">较高的防护  |    |  [蚊虫叮咬](BugDamage.md)-2  |    
-4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">很高的防护  |    |  [蚊虫叮咬](BugDamage.md)-4  |    
-5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" style="width:20px;">极高的防护  |    |  [蚊虫叮咬](BugDamage.md)-5  |    
+1 ～ 1  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">中等的防护  |    |  [蚊虫叮咬](BugDamage.md)-1  |    
+2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">较高的防护  |    |  [蚊虫叮咬](BugDamage.md)-2  |    
+4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">很高的防护  |    |  [蚊虫叮咬](BugDamage.md)-4  |    
+5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">极高的防护  |    |  [蚊虫叮咬](BugDamage.md)-5  |    
 ## 关联状态  
 [驱虫](BugRepellentApplied.md)  
 ## 可被以下操作改变  

@@ -4,8 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-75 ～ 150  |  <img decoding="async" src="Sprite/Backpain.png" style="width:20px;">背痛  |    |  [疼痛](Pain.md)+50  |    
-151 ～ 225  |  <img decoding="async" src="Sprite/Backpain.png" style="width:20px;">严重的背痛  |  痛……  |  [疼痛](Pain.md)+100  |    
+75 ～ 150  |  <img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;">背痛  |    |  [疼痛](Pain.md)+50  |    
+151 ～ 225  |  <img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;">严重的背痛  |  痛……  |  [疼痛](Pain.md)+100  |    
 ## 关联状态  
 [芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  

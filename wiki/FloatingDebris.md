@@ -16,4 +16,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-剩余时间<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br>[(事件)残骸漂走了](Event_FloatingDebrisMissed.md)+1   
+剩余时间<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br>[(事件)残骸漂走了](Event_FloatingDebrisMissed.md)+1   

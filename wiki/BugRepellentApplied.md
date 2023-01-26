@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 25  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+1  |    
-26 ～ 50  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+2  |    
-51 ～ 75  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+3  |    
-76 ～ 100  |  <img decoding="async" src="Sprite/BugsNot.png" style="width:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+4  |    
+1 ～ 25  |  <img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+1  |    
+26 ～ 50  |  <img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+2  |    
+51 ～ 75  |  <img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+3  |    
+76 ～ 100  |  <img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;">驱虫  |    |  [蚊虫防护](BugProtection.md)+4  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

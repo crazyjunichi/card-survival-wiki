@@ -23,5 +23,5 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-剩余时间<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：6<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **<br>[(事件)错过了船只](Event_ShipMissed.md)+1   
+剩余时间<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：6<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **<br>[(事件)错过了船只](Event_ShipMissed.md)+1   
 进度  |  初始：0<br>最大：100  |  -  |  ** 到达上限时： **<br>[(事件)船舶救援](Event_ShipRescue.md)+1   

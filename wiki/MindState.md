@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-51 ～ 100  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  有点不对劲。  |  [精神失常](MindState.md)加成-1  |    
-101 ～ 150  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  肯定有什么不对劲。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-2  |    
-151 ～ 250  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  一切都感觉变了样。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-4  |    
-251 ～ 300  |  <img decoding="async" src="Sprite/MindState.png" style="width:20px;">精神失常  |  ……  |  [关系层](RelationalLayer.md)加成+2<br>[精神失常](MindState.md)加成-6  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1  
+51 ～ 100  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  有点不对劲。  |  [精神失常](MindState.md)加成-1  |    
+101 ～ 150  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  肯定有什么不对劲。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-2  |    
+151 ～ 250  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  一切都感觉变了样。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-4  |    
+251 ～ 300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  ……  |  [关系层](RelationalLayer.md)加成+2<br>[精神失常](MindState.md)加成-6  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

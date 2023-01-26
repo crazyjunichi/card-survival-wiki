@@ -4,8 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    
-101 ～ 750  |  <img decoding="async" src="Sprite/Structure.png" style="width:20px;">弱  |    |  [精神失常](MindState.md)加成+2<br>[世界观](Structure.md)加成+3<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+1  |    
+0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    
+101 ～ 750  |  <img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;">弱  |    |  [精神失常](MindState.md)加成+2<br>[世界观](Structure.md)加成+3<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+1  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

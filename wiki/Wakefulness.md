@@ -4,9 +4,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-65 ～ 128  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">困了  |  越来越困了（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-1<br>[精神失常](MindState.md)加成+0.5<br>[世界观](Structure.md)加成-0.75<br>[压力](Stress.md)加成+0.5  |    
-1 ～ 64  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">熬不住了  |  我需要睡觉（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-2<br>[精神失常](MindState.md)加成+1.5<br>[世界观](Structure.md)加成-1.5<br>[压力](Stress.md)加成+1  |    
-0 ～ 0  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">睡着了  |  zzz……  |    |    
+65 ～ 128  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">困了  |  越来越困了（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-1<br>[精神失常](MindState.md)加成+0.5<br>[世界观](Structure.md)加成-0.75<br>[压力](Stress.md)加成+0.5  |    
+1 ～ 64  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">熬不住了  |  我需要睡觉（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-2<br>[精神失常](MindState.md)加成+1.5<br>[世界观](Structure.md)加成-1.5<br>[压力](Stress.md)加成+1  |    
+0 ～ 0  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">睡着了  |  zzz……  |    |    
 ## 关联状态  
 [体重](Weight.md)  |  [光亮](Light.md)  |  [姜效果](GingerEffect.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [茉莉效果](JasmineEffect.md)  |  [月季效果](ChinaRoseEffect.md)  
 ## 可被以下操作改变  

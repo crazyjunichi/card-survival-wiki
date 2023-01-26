@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-201 ～ 300  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">低  |    |  [发烧](Fever.md)加成+12  |    
-301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
-601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
-901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" style="width:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
+201 ～ 300  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">低  |    |  [发烧](Fever.md)加成+12  |    
+301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
+601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
+901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -4,8 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">近视  |  我眼神不好。  |    |    
-2 ～ 3  |  <img decoding="async" src="Sprite/Sleepy.png" style="width:20px;">严重近视  |  我看不太清……  |    |    
+1 ～ 1  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">近视  |  我眼神不好。  |    |    
+2 ～ 3  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">严重近视  |  我看不太清……  |    |    
 ## 关联状态  
 [眼部损伤](EyeDamage.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  

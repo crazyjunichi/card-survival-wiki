@@ -4,9 +4,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 0  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">昏厥  |  Zzz……  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100  |    
-1 ～ 15  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">筋疲力尽  |  太累了，我要休息一下。  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100<br>[体感温度](TemperaturePerceived.md)+10  |    
-16 ～ 25  |  <img decoding="async" src="Sprite/Tired.png" style="width:20px;">疲惫  |  大量体力活动让我有点累了。  |  [体重](Weight.md)加成-2<br>[食欲](Appetite.md)+75<br>[体感温度](TemperaturePerceived.md)+5  |    
+0 ～ 0  |  <img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;">昏厥  |  Zzz……  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100  |    
+1 ～ 15  |  <img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;">筋疲力尽  |  太累了，我要休息一下。  |  [体重](Weight.md)加成-4<br>[食欲](Appetite.md)+100<br>[体感温度](TemperaturePerceived.md)+10  |    
+16 ～ 25  |  <img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;">疲惫  |  大量体力活动让我有点累了。  |  [体重](Weight.md)加成-2<br>[食欲](Appetite.md)+75<br>[体感温度](TemperaturePerceived.md)+5  |    
 26 ～ 31  |  活跃  |    |  [体重](Weight.md)加成-1<br>[食欲](Appetite.md)+50<br>[体感温度](TemperaturePerceived.md)+2  |    
 32 ～ 32  |  休息中  |    |    |    
 ## 关联状态  

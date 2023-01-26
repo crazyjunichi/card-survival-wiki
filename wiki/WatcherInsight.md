@@ -4,8 +4,8 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">监视者的凝视  |    |  [监视者的凝视](WatchersGlare.md)加成+10  |    
-2 ～ 2  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">精神修复  |    |  [世界观](Structure.md)加成+0.25  |    
+1 ～ 1  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">监视者的凝视  |    |  [监视者的凝视](WatchersGlare.md)加成+10  |    
+2 ～ 2  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">精神修复  |    |  [世界观](Structure.md)加成+0.25  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

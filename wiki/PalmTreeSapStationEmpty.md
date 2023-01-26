@@ -18,4 +18,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0  |  -  |    
+<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0  |  -  |    

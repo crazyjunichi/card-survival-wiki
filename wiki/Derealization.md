@@ -4,9 +4,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-25 ～ 100  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">现实感丧失  |  一切都感觉遥远而灰暗  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+1000<br>[疼痛](Pain.md)-100  |    
-101 ～ 500  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">现实感丧失  |  现实不像真实  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+2000<br>[疼痛](Pain.md)-200<br>[失实症](Derealization.md)加成-0.2  |    
-501 ～ 1000  |  <img decoding="async" src="Sprite/VoidState.png" style="width:20px;">现实感丧失  |  现实不真实  |  [精神失常](MindState.md)加成+1.5<br>[勇气](Courage.md)+3000<br>[疼痛](Pain.md)-400<br>[失实症](Derealization.md)加成-0.4  |    
+25 ～ 100  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">现实感丧失  |  一切都感觉遥远而灰暗  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+1000<br>[疼痛](Pain.md)-100  |    
+101 ～ 500  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">现实感丧失  |  现实不像真实  |  [精神失常](MindState.md)加成+1<br>[勇气](Courage.md)+2000<br>[疼痛](Pain.md)-200<br>[失实症](Derealization.md)加成-0.2  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">现实感丧失  |  现实不真实  |  [精神失常](MindState.md)加成+1.5<br>[勇气](Courage.md)+3000<br>[疼痛](Pain.md)-400<br>[失实症](Derealization.md)加成-0.4  |    
 ## 关联状态  
 [情绪](Morale.md)  |  [世界观](Structure.md)  
 ## 可被以下操作改变  

@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
-97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
-145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-5<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-2<br>时间-2  
-193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" style="width:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-10<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-4<br>时间-4  
+0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
+97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
+145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-5<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-2<br>时间-2  
+193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-10<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-4<br>时间-4  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

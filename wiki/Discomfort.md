@@ -4,11 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-100 ～ 250  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">略微不适  |    |  [舒适度](Comfort.md)-100<br>[恶心](Nausea.md)加成+0.1  |    
-251 ～ 500  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">轻度不适  |    |  [压力](Stress.md)加成+0.25<br>[舒适度](Comfort.md)-250<br>[恶心](Nausea.md)加成+0.2  |    
-501 ～ 1000  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">中度不适  |    |  [压力](Stress.md)加成+0.5<br>[世界观](Structure.md)加成-0.25<br>[舒适度](Comfort.md)-500<br>[恶心](Nausea.md)加成+0.3  |    
-1001 ～ 1750  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">重度不适  |    |  [压力](Stress.md)加成+0.75<br>[世界观](Structure.md)加成-0.5<br>[舒适度](Comfort.md)-1000<br>[恶心](Nausea.md)加成+0.4  |    
-1751 ～ 2500  |  <img decoding="async" src="Sprite/Discomfort.png" style="width:20px;">极度不适  |    |  [压力](Stress.md)加成+1<br>[世界观](Structure.md)加成-1<br>[舒适度](Comfort.md)-2000<br>[恶心](Nausea.md)加成+0.5  |    
+100 ～ 250  |  <img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;">略微不适  |    |  [舒适度](Comfort.md)-100<br>[恶心](Nausea.md)加成+0.1  |    
+251 ～ 500  |  <img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;">轻度不适  |    |  [压力](Stress.md)加成+0.25<br>[舒适度](Comfort.md)-250<br>[恶心](Nausea.md)加成+0.2  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;">中度不适  |    |  [压力](Stress.md)加成+0.5<br>[世界观](Structure.md)加成-0.25<br>[舒适度](Comfort.md)-500<br>[恶心](Nausea.md)加成+0.3  |    
+1001 ～ 1750  |  <img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;">重度不适  |    |  [压力](Stress.md)加成+0.75<br>[世界观](Structure.md)加成-0.5<br>[舒适度](Comfort.md)-1000<br>[恶心](Nausea.md)加成+0.4  |    
+1751 ～ 2500  |  <img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;">极度不适  |    |  [压力](Stress.md)加成+1<br>[世界观](Structure.md)加成-1<br>[舒适度](Comfort.md)-2000<br>[恶心](Nausea.md)加成+0.5  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

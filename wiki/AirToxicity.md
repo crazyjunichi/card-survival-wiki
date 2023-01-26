@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 0  |  <img decoding="async" src="Sprite/AirToxicity.png" style="width:20px;">清洁的空气  |    |    |    
-1 ～ 2  |  <img decoding="async" src="Sprite/AirToxicity.png" style="width:20px;">轻度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+16  |    
-3 ～ 4  |  <img decoding="async" src="Sprite/AirToxicity.png" style="width:20px;">中度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+32  |    
-5 ～ 6  |  <img decoding="async" src="Sprite/AirToxicity.png" style="width:20px;">高度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+64  |    
+0 ～ 0  |  <img decoding="async" src="Sprite/AirToxicity.png" href="a.md" style="max-width:20px;max-height:20px;">清洁的空气  |    |    |    
+1 ～ 2  |  <img decoding="async" src="Sprite/AirToxicity.png" href="a.md" style="max-width:20px;max-height:20px;">轻度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+16  |    
+3 ～ 4  |  <img decoding="async" src="Sprite/AirToxicity.png" href="a.md" style="max-width:20px;max-height:20px;">中度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+32  |    
+5 ～ 6  |  <img decoding="async" src="Sprite/AirToxicity.png" href="a.md" style="max-width:20px;max-height:20px;">高度的空气毒性  |    |  [肺部伤害](LungDamage.md)加成+64  |    
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

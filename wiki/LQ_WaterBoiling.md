@@ -10,7 +10,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Hot.png" style="width:30px;">  |  初始：2<br>最大：2  |  每15分钟-1<br>最多需要：30分  |  ** 到达0时： **<br>→ [水](LQ_Water.md)  
+<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：2<br>最大：2  |  每15分钟-1<br>最多需要：30分  |  ** 到达0时： **<br>→ [水](LQ_Water.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

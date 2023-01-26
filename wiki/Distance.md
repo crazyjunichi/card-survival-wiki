@@ -4,7 +4,7 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 2016  |  <img decoding="async" src="Sprite/Distance.png" style="width:20px;">航行距离  |    |    |    
+1 ～ 2016  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">航行距离  |    |    |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

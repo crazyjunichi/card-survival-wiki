@@ -16,8 +16,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  ** 自身: **<br>→ [保鲜罐(开)](ClayPotCoolerOn.md)<br><img decoding="async" src="Sprite/Thirst.png" style="width:20px;"> + 192<br>** 使用物: **<br>含水量  -300  |    
+[盐水](LQ_WaterSalt.md)  |  倒入  |  -  |    |  ** 自身: **<br>→ [保鲜罐(开)](ClayPotCoolerOn.md)<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" style="width:30px;">  |  初始：0<br>最大：684  |  每15分钟-1<br>最多需要：7天3小时  |    
+<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：684  |  每15分钟-1<br>最多需要：7天3小时  |    

@@ -4,7 +4,7 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" style="width:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
+0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
 1 ～ 100  |  光亮  |    |  [监视者的凝视](WatchersGlare.md)加成-99  |    
 ## 关联状态  
 [眼部损伤](EyeDamage.md)  |  [蛇毒](VenomKrait.md)  

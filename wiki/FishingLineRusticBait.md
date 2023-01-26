@@ -15,4 +15,4 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：15<br>最大：15  |  -  |  ** 到达0时： **<br>[细线](CordFiber.md)+2   
-诱饵<img decoding="async" src="Sprite/SaturationFish.png" style="width:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>→ [钓鱼线](FishingLineRustic.md)  
+诱饵<img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>→ [钓鱼线](FishingLineRustic.md)  

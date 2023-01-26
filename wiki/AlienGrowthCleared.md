@@ -16,4 +16,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-外星植物<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br>→ [盛开的外星植物](AlienGrowth.md)  
+外星植物<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br>→ [盛开的外星植物](AlienGrowth.md)  

@@ -4,11 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-425 ～ 500  |  <img decoding="async" src="Sprite/Dirt4.png" style="width:20px;">非常脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+5<br>[细菌性发烧](BacteriaFever.md)加成+3<br>[寄生虫](Parasites.md)加成+4<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-2～-0.5  |    
-350 ～ 424  |  <img decoding="async" src="Sprite/Dirt3.png" style="width:20px;">脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+4<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+2<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1  |    
-250 ～ 349  |  <img decoding="async" src="Sprite/Dirt2.png" style="width:20px;">非常脏  |  我真想洗个澡  |  [表面细菌](BacteriaSurface.md)+3<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+1  |    
-101 ～ 249  |  <img decoding="async" src="Sprite/Dirt1.png" style="width:20px;">脏  |  我想洗个澡  |  [表面细菌](BacteriaSurface.md)+2<br>[细菌性发烧](BacteriaFever.md)加成+1  |    
-1 ～ 100  |  <img decoding="async" src="Sprite/Dirt3.png" style="width:20px;">  |    |  [表面细菌](BacteriaSurface.md)+1  |    
+425 ～ 500  |  <img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">非常脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+5<br>[细菌性发烧](BacteriaFever.md)加成+3<br>[寄生虫](Parasites.md)加成+4<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-2～-0.5  |    
+350 ～ 424  |  <img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;">脏  |  我满身污垢……  |  [表面细菌](BacteriaSurface.md)+4<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+2<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1  |    
+250 ～ 349  |  <img decoding="async" src="Sprite/Dirt2.png" href="a.md" style="max-width:20px;max-height:20px;">非常脏  |  我真想洗个澡  |  [表面细菌](BacteriaSurface.md)+3<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+1  |    
+101 ～ 249  |  <img decoding="async" src="Sprite/Dirt1.png" href="a.md" style="max-width:20px;max-height:20px;">脏  |  我想洗个澡  |  [表面细菌](BacteriaSurface.md)+2<br>[细菌性发烧](BacteriaFever.md)加成+1  |    
+1 ～ 100  |  <img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [表面细菌](BacteriaSurface.md)+1  |    
 ## 关联状态  
 [失血](BloodLoss.md)  |  [淋雨](RainExposure.md)  
 ## 可被以下操作改变  

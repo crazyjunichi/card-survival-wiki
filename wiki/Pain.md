@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-100 ～ 200  |  <img decoding="async" src="Sprite/Pain.png" style="width:20px;">有点疼  |  好疼……  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1<br>[勇气](Courage.md)+100  |    
-201 ～ 300  |  <img decoding="async" src="Sprite/Pain.png" style="width:20px;">中度疼痛  |  我好痛。  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2<br>[勇气](Courage.md)+200<br>[食欲](Appetite.md)-25  |    
-301 ～ 400  |  <img decoding="async" src="Sprite/Pain.png" style="width:20px;">剧烈疼痛  |  太痛了！  |  [情绪](Morale.md)加成-4<br>[压力](Stress.md)加成+3<br>[勇气](Courage.md)+400<br>[食欲](Appetite.md)-50<br>[精神失常](MindState.md)加成+0.5  |    
-401 ～ 500  |  <img decoding="async" src="Sprite/Pain.png" style="width:20px;">极度疼痛  |  痛得我都无法思考了！  |  [情绪](Morale.md)加成-8<br>[压力](Stress.md)加成+4<br>[勇气](Courage.md)+800<br>[食欲](Appetite.md)-100<br>[精神失常](MindState.md)加成+1  |    
+100 ～ 200  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">有点疼  |  好疼……  |  [情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+1<br>[勇气](Courage.md)+100  |    
+201 ～ 300  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">中度疼痛  |  我好痛。  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2<br>[勇气](Courage.md)+200<br>[食欲](Appetite.md)-25  |    
+301 ～ 400  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">剧烈疼痛  |  太痛了！  |  [情绪](Morale.md)加成-4<br>[压力](Stress.md)加成+3<br>[勇气](Courage.md)+400<br>[食欲](Appetite.md)-50<br>[精神失常](MindState.md)加成+0.5  |    
+401 ～ 500  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">极度疼痛  |  痛得我都无法思考了！  |  [情绪](Morale.md)加成-8<br>[压力](Stress.md)加成+4<br>[勇气](Courage.md)+800<br>[食欲](Appetite.md)-100<br>[精神失常](MindState.md)加成+1  |    
 ## 关联状态  
 [失实症](Derealization.md)  |  [晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [头疼](Headache.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [足部损伤](FootDamage.md)  |  [手掌损伤](HandDamage.md)  |  [背痛](BackPain.md)  |  [蚊虫叮咬](BugBites.md)  |  [淤青](Bruising.md)  |  [肺部伤害](LungDamage.md)  |  [镇痛](Analgesia.md)  |  [姜效果](GingerEffect.md)  |  [酒精](Alcohol.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [蛇床子素](Psylocibin.md)  |  [食物中毒](FoodPoisoning.md)  |  [蜜蜂蛰刺](BeeStings.md)  
 ## 可被以下操作改变  

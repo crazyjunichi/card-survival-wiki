@@ -4,9 +4,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-900 ～ 2440  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到一丝孤独……  |  [世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-0.25<br>[压力](Stress.md)加成+0.75  |    
-2441 ～ 3660  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到孤独……  |  [世界观](Structure.md)加成-2<br>[情绪](Morale.md)加成-0.75<br>[压力](Stress.md)加成+1.5  |    
-3661 ～ 4880  |  <img decoding="async" src="Sprite/Loneliness.png" style="width:20px;">孤独  |  我感到十分孤独……  |  [世界观](Structure.md)加成-3<br>[情绪](Morale.md)加成-1.5<br>[精神失常](MindState.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5<br>[压力](Stress.md)加成+1.5～+2  |    
+900 ～ 2440  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到一丝孤独……  |  [世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-0.25<br>[压力](Stress.md)加成+0.75  |    
+2441 ～ 3660  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到孤独……  |  [世界观](Structure.md)加成-2<br>[情绪](Morale.md)加成-0.75<br>[压力](Stress.md)加成+1.5  |    
+3661 ～ 4880  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到十分孤独……  |  [世界观](Structure.md)加成-3<br>[情绪](Morale.md)加成-1.5<br>[精神失常](MindState.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5<br>[压力](Stress.md)加成+1.5～+2  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

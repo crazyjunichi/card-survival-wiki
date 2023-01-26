@@ -27,5 +27,5 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-温度<img decoding="async" src="Sprite/Hot.png" style="width:30px;">  |  初始：0<br>最大：800  |  每15分钟-8<br>最多需要：1天1小时  |    
+温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：800  |  每15分钟-8<br>最多需要：1天1小时  |    
 燃料  |  初始：0<br>最大：96  |  -  |    

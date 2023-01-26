@@ -4,12 +4,12 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/RainLight.png" style="width:20px;">少量降水  |    |  [淋雨](RainExposure.md)+1<br>[蚊虫数量](BugPopulation.md)-2  |    
-2 ～ 2  |  <img decoding="async" src="Sprite/RainLight.png" style="width:20px;">少量降水  |    |  [淋雨](RainExposure.md)+2<br>[蚊虫数量](BugPopulation.md)-3  |    
-3 ～ 3  |  <img decoding="async" src="Sprite/RainLight.png" style="width:20px;">少量降水  |    |  [淋雨](RainExposure.md)+3<br>[蚊虫数量](BugPopulation.md)-4  |    
-4 ～ 4  |  <img decoding="async" src="Sprite/RainHeavy.png" style="width:20px;">中等降水  |    |  [淋雨](RainExposure.md)+4<br>[蚊虫数量](BugPopulation.md)-5  |  [探索动作](SlipperyAction.md)<br>时间+1  
-5 ～ 5  |  <img decoding="async" src="Sprite/RainHeavy.png" style="width:20px;">大量降水  |    |  [淋雨](RainExposure.md)+5<br>[蚊虫数量](BugPopulation.md)-6  |  [探索动作](SlipperyAction.md)<br>时间+1  
-0 ～ 0  |  <img decoding="async" src="Sprite/RainLight.png" style="width:20px;">无降水  |    |  [淋雨](RainExposure.md)  |    
+1 ～ 1  |  <img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;">少量降水  |    |  [淋雨](RainExposure.md)+1<br>[蚊虫数量](BugPopulation.md)-2  |    
+2 ～ 2  |  <img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;">少量降水  |    |  [淋雨](RainExposure.md)+2<br>[蚊虫数量](BugPopulation.md)-3  |    
+3 ～ 3  |  <img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;">少量降水  |    |  [淋雨](RainExposure.md)+3<br>[蚊虫数量](BugPopulation.md)-4  |    
+4 ～ 4  |  <img decoding="async" src="Sprite/RainHeavy.png" href="a.md" style="max-width:20px;max-height:20px;">中等降水  |    |  [淋雨](RainExposure.md)+4<br>[蚊虫数量](BugPopulation.md)-5  |  [探索动作](SlipperyAction.md)<br>时间+1  
+5 ～ 5  |  <img decoding="async" src="Sprite/RainHeavy.png" href="a.md" style="max-width:20px;max-height:20px;">大量降水  |    |  [淋雨](RainExposure.md)+5<br>[蚊虫数量](BugPopulation.md)-6  |  [探索动作](SlipperyAction.md)<br>时间+1  
+0 ～ 0  |  <img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;">无降水  |    |  [淋雨](RainExposure.md)  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

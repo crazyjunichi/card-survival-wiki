@@ -4,11 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-50 ～ 100  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">小伤口  |    |  [食欲](Appetite.md)+25  |    
-101 ～ 200  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">轻微伤口  |    |  [食欲](Appetite.md)+50  |    
-201 ～ 600  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">中度伤口  |  好痛！  |  [食欲](Appetite.md)+100  |    
-601 ～ 1000  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">重度伤口  |  太痛啦！！  |  [食欲](Appetite.md)+150  |    
-1001 ～ 1500  |  <img decoding="async" src="Sprite/Laceration.png" style="width:20px;">严重伤口  |  哼啊啊啊！！！  |  [食欲](Appetite.md)+200  |    
+50 ～ 100  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">小伤口  |    |  [食欲](Appetite.md)+25  |    
+101 ～ 200  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">轻微伤口  |    |  [食欲](Appetite.md)+50  |    
+201 ～ 600  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">中度伤口  |  好痛！  |  [食欲](Appetite.md)+100  |    
+601 ～ 1000  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">重度伤口  |  太痛啦！！  |  [食欲](Appetite.md)+150  |    
+1001 ～ 1500  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">严重伤口  |  哼啊啊啊！！！  |  [食欲](Appetite.md)+200  |    
 ## 关联状态  
 [烧伤](Burns.md)  
 ## 可被以下操作改变  

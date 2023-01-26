@@ -5,8 +5,8 @@
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  干燥  |    |    |    
-1 ～ 75  |  <img decoding="async" src="Sprite/Wetness.png" style="width:20px;">潮湿  |    |  [体感温度](TemperaturePerceived.md)-10<br>[晒伤](Sunburn.md)加成-1<br>[皮肤潮湿度](SkinHumidity.md)加成+8  |    
-76 ～ 100  |  <img decoding="async" src="Sprite/Wetness.png" style="width:20px;">湿透了  |    |  [体感温度](TemperaturePerceived.md)-20<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[晒伤](Sunburn.md)加成-2<br>[发烧](Fever.md)-100<br>[皮肤潮湿度](SkinHumidity.md)加成+16  |    
+1 ～ 75  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">潮湿  |    |  [体感温度](TemperaturePerceived.md)-10<br>[晒伤](Sunburn.md)加成-1<br>[皮肤潮湿度](SkinHumidity.md)加成+8  |    
+76 ～ 100  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">湿透了  |    |  [体感温度](TemperaturePerceived.md)-20<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[晒伤](Sunburn.md)加成-2<br>[发烧](Fever.md)-100<br>[皮肤潮湿度](SkinHumidity.md)加成+16  |    
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

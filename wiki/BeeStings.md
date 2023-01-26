@@ -4,10 +4,10 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 48  |  <img decoding="async" src="Sprite/BeeStings.png" style="width:20px;">蜜蜂蛰刺  |  我被蜜蜂蛰了。  |  [疼痛](Pain.md)+50  |    
-49 ～ 96  |  <img decoding="async" src="Sprite/BeeStings.png" style="width:20px;">蜜蜂蛰刺  |  我被许多蜜蜂蛰了。  |  [疼痛](Pain.md)+75  |    
-97 ～ 144  |  <img decoding="async" src="Sprite/BeeStings.png" style="width:20px;">蜜蜂蛰刺  |  我被大量蜜蜂蛰了。  |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-1<br>[恶心](Nausea.md)加成+2<br>[头疼](Headache.md)加成+1.5  |    
-145 ～ 196  |  <img decoding="async" src="Sprite/BeeStings.png" style="width:20px;">蜜蜂蛰刺  |  我被成百上千的蜜蜂蛰了！  |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-2<br>[恶心](Nausea.md)加成+3<br>[头疼](Headache.md)加成+2  |    
+1 ～ 48  |  <img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">蜜蜂蛰刺  |  我被蜜蜂蛰了。  |  [疼痛](Pain.md)+50  |    
+49 ～ 96  |  <img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">蜜蜂蛰刺  |  我被许多蜜蜂蛰了。  |  [疼痛](Pain.md)+75  |    
+97 ～ 144  |  <img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">蜜蜂蛰刺  |  我被大量蜜蜂蛰了。  |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-1<br>[恶心](Nausea.md)加成+2<br>[头疼](Headache.md)加成+1.5  |    
+145 ～ 196  |  <img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">蜜蜂蛰刺  |  我被成百上千的蜜蜂蛰了！  |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-2<br>[恶心](Nausea.md)加成+3<br>[头疼](Headache.md)加成+2  |    
 ## 关联状态  
 [芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  

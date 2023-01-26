@@ -17,4 +17,4 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：8  |  -  |  ** 到达0时： **<br>→ [摘光的芒果树](MangoTreeCleared.md)  
-芒果 成熟度<img decoding="async" src="Sprite/AlarmClock.png" style="width:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br>→ [芒果树](MangoTree.md)  
+芒果 成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br>→ [芒果树](MangoTree.md)  

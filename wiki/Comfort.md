@@ -4,11 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-100 ～ 250  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">最低舒适度  |    |  [世界观](Structure.md)加成+1<br>[压力](Stress.md)加成-0.5  |    
-251 ～ 500  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">低舒适度  |  我应该让这个地方感觉更像一个家。  |  [世界观](Structure.md)加成+2<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成+0.25  |    
-501 ～ 1000  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">中舒适度  |  我应该进一步布置和装饰这个地方。  |  [世界观](Structure.md)加成+3<br>[压力](Stress.md)加成-0.75<br>[情绪](Morale.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5  |    
-1001 ～ 1750  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">高舒适度  |  一个不错的家。我在这里感觉很舒服。  |  [世界观](Structure.md)加成+4<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成+0.75<br>[孤独感](Loneliness.md)加成-1  |    
-1751 ～ 2500  |  <img decoding="async" src="Sprite/Comfort.png" style="width:20px;">最高舒适度  |  快乐老家。任何地方都比不上它。  |  [世界观](Structure.md)加成+5<br>[压力](Stress.md)加成-1.25<br>[情绪](Morale.md)加成+1<br>[孤独感](Loneliness.md)加成-2  |    
+100 ～ 250  |  <img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;">最低舒适度  |    |  [世界观](Structure.md)加成+1<br>[压力](Stress.md)加成-0.5  |    
+251 ～ 500  |  <img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;">低舒适度  |  我应该让这个地方感觉更像一个家。  |  [世界观](Structure.md)加成+2<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成+0.25  |    
+501 ～ 1000  |  <img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;">中舒适度  |  我应该进一步布置和装饰这个地方。  |  [世界观](Structure.md)加成+3<br>[压力](Stress.md)加成-0.75<br>[情绪](Morale.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5  |    
+1001 ～ 1750  |  <img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;">高舒适度  |  一个不错的家。我在这里感觉很舒服。  |  [世界观](Structure.md)加成+4<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成+0.75<br>[孤独感](Loneliness.md)加成-1  |    
+1751 ～ 2500  |  <img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;">最高舒适度  |  快乐老家。任何地方都比不上它。  |  [世界观](Structure.md)加成+5<br>[压力](Stress.md)加成-1.25<br>[情绪](Morale.md)加成+1<br>[孤独感](Loneliness.md)加成-2  |    
 ## 关联状态  
 [不适](Discomfort.md)  |  [遮蔽](Sheltered.md)  
 ## 可被以下操作改变  
