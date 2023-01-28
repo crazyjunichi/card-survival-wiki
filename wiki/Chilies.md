@@ -5,7 +5,7 @@
   
   辣椒  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/Chilies.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“杂食饲料”](tag_FeedOmnivorous.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/Chilies.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

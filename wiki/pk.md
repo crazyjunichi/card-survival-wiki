@@ -65,6 +65,7 @@
 - [永久干旱](Pk_1_FinalDrought.md)  
 - [永久下雨](Pk_1_FinalRain.md)  
 - [永久暴风雨](Pk_1_FinalStorm.md)  
+- [雨天开局](Pk_1_RainStart.md)  
   
 ## 体重  
 - [过瘦](Pk_3_Underweight.md)  
@@ -76,7 +77,6 @@
 - [杀手无人机](Pk_1_KillerDrones.md)  
 - [猕猴诅咒](Pk_1_MacaqueCurse.md)  
 - [夜晚开局](Pk_1_NightStart.md)  
-- [雨天开局](Pk_1_RainStart.md)  
 - [海怪来袭](Pk_1_Seahounds.md)  
 - [真人秀游戏](Pk_1_TVGame.md)  
 - [忠犬相伴](Pk_2_DogFriend.md)  

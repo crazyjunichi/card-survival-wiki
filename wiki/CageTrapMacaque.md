@@ -16,7 +16,7 @@
 [鱼片](FishSlices.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br>** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>** Success **<br>基础权重：50<br><br>** Ouch! **<br>  [(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：50<br>  |    
 [“喂/添加”](tag_Feed.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br>** 使用物: **<br>消失<br>** 获得: **<br>** Success **<br>基础权重：50<br><br>** Ouch! **<br>  [(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：50<br>  |    
 [“储水容器”](tag_WaterContainer.md)  |  喂水  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br>** 使用物: **<br>含水量  -300  |    
-[“切割工具”](tag_Cutter.md)  |  杀害  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [猕猴尸体](MacaqueCarcass.md)<br>** 使用物: **<br>可用次数  -1  |  [污垢](Filth.md)+20  
+[“切割工具”](tag_Cutter.md)  |  杀害  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [诱捕笼](CageTrap.md)<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Macaque **<br>  [猕猴尸体](MacaqueCarcass.md)(+1)<br>  |  [污垢](Filth.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

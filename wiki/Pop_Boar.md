@@ -17,3 +17,5 @@
 [母猪](BoarTiedFemale.md)  |  放生  |  1000  
 [公猪](BoarTiedMale.md)  |  放生  |  1000  
 [小猪](BoarTiedPiglet.md)  |  放生  |  1000  
+[(事件)我拿下它了，但我受伤了。](Event_BoarFightMixedSuccess.md)  |  继续  |  -1000  
+[(事件)野猪倒下了！](Event_BoarFightSuccess.md)  |  继续  |  -1000  

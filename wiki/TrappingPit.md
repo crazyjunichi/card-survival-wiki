@@ -20,6 +20,7 @@
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 [“喂”](tag_Meat.md)  |  捕捉猎物  |  2天  |  [陷坑](TrappingPitTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
+[“杂食饲料”](tag_FeedOmnivorous.md)  |  捕捉猎物  |  2天  |  [陷坑](TrappingPitTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
 [“喂食（草食动物）”](tag_FeedHerb.md)  |  捕捉猎物  |  2天  |  [陷坑](TrappingPitTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
 [“喂/添加”](tag_Feed.md)  |  捕捉猎物  |  2天  |  [陷坑](TrappingPitTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
   |  捕捉猎物  |  2天  |  [陷坑](TrappingPitTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  

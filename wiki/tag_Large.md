@@ -49,6 +49,7 @@
 - [保鲜罐(关)](ClayPotCoolerOff.md)  
 - [保鲜罐](ClayPotCoolerUndeployed.md)  
 - [补给箱](SupplyChestRaft.md)  
+- [小拉车](Travois.md)  
 - [收纳箱](Trunk.md)  
 - [超级生存箱 2000](TrunkPerk.md)  
 - [超级生存箱 2000](TrunkPerkPlaced.md)  

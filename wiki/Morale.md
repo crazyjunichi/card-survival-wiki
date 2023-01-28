@@ -417,6 +417,7 @@
 [咖啡果浆](CoffeeBerryPulp.md)  |  食用  |  1  
 [水煮蛋](EggBoiled.md)  |  食用  |  1  
 [卡瓦根](KavaRoot.md)  |  食用  |  1  
+[忠犬朋友](DogFriend.md)  |  Give Bones  |  1  
 [水椰籽](NipaSeeds.md)  |  食用  |  1  
 [烤虾](PrawnsCooked.md)  |  食用  |  1  
 [马勃菌](Puffballs.md)  |  食用  |  1  

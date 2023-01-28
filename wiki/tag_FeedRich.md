@@ -3,6 +3,7 @@
 - [黄油](Butter.md)  
 - [脂肪](Fat.md)  
 - [鸟食](FeedBird.md)  
+- [压缩干粮](FoodRation.md)  
 - [米饭](RiceCooked.md)  
 - [稻米](RiceGrains.md)  
 - [稻秆](RiceStalks.md)  

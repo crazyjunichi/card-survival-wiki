@@ -108,6 +108,7 @@
 [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  |  蓝图制造  |  -10  
 [畜栏(蓝图)](Bp_Enclosure.md)  |  蓝图制造  |  -10  
 [鸟食(蓝图)](Bp_FeedBird.md)  |  蓝图制造  |  -10  
+[猪食(蓝图)](Bp_FeedBoar.md)  |  蓝图制造  |  -10  
 [山羊饲料(蓝图)](Bp_FeedGoat.md)  |  蓝图制造  |  -10  
 [鱼饵(蓝图)](Bp_FishBait.md)  |  蓝图制造  |  -10  
 [捕鱼陷阱(蓝图)](Bp_FishTrap.md)  |  蓝图制造  |  -10  

@@ -7,6 +7,10 @@
  ----  |  ----:   
  **重量：**75<br><br>**标签：**	[“锤”](tag_Hammer.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/SpearHead.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[铜长矛](SpearCopper.md)  |  拆解  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

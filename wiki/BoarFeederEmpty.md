@@ -19,6 +19,7 @@
 [“诱饵”](tag_Bait.md)  |  添入  |  -  |    |  ** 自身: **<br>→ [猪食槽](BoarFeeder.md)<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>** 使用物: **<br>消失  |    
 [“强效食料”](tag_FeedRich.md)  |  添入  |  -  |    |  ** 自身: **<br>→ [猪食槽](BoarFeeder.md)<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br>** 使用物: **<br>消失  |    
 [“喂/添加”](tag_Feed.md)  |  添入  |  -  |    |  ** 自身: **<br>→ [猪食槽](BoarFeeder.md)<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br>** 使用物: **<br>消失  |    
+[猪食](FeedBoar.md)  |  Feed  |  -  |    |  ** 自身: **<br>→ [猪食槽](BoarFeeder.md)<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 3072<br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

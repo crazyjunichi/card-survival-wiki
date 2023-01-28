@@ -3,7 +3,7 @@
   
   外星结节  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**25<br><br>**标签：**	[“强效食料”](tag_FeedRich.md), [“杂食饲料”](tag_FeedOmnivorous.md), [“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -11,8 +11,6 @@
 - [铜制餐具](EatingUtensilsCopper.md)  
 - [木质餐具](EatingUtensilsWooden.md)  
 - [大海螺](GiantConch.md)  
-- [侏儒牙雕（女）](TuskCarving_GnomeFemale.md)  
-- [侏儒牙雕（男）](TuskCarving_GnomeMale.md)  
 - [山羊木雕](WoodCarving_Goat.md)  
 - [小人木雕（男）](WoodCarving_Man.md)  
 - [神灵木雕](WoodCarving_Monster.md)  

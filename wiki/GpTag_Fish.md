@@ -3,3 +3,5 @@
 - [鹦哥鱼](ParrotFish.md)  
 - [绯鲤](Goatfish.md)  
 - [马鲅鱼肉](ThreadfinMeat.md)  
+- [鲨鱼肉](SharkMeat.md)  
+- [鲱鱼](Herring.md)  

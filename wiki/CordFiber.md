@@ -49,6 +49,7 @@
 [挎包](Satchel.md)  |  拆解  
 [挎包](SatchelHunter.md)  |  拆解  
 [补给箱](SupplyChestRaft.md)  |  拆解  
+[小拉车](Travois.md)  |  Dismantle  
 [铜斧](AxeCopper.md)  |  拆解  
 [废金属斧](AxeScrap.md)  |  拆解  
 [扫帚](Broom.md)  |  拆解  

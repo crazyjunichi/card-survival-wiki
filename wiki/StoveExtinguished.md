@@ -31,7 +31,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  -  |    
+燃料  |  初始：1<br>最大：144  |  -  |    
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  -  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

@@ -50,6 +50,7 @@
 - [烤蛋](EggCooked.md)  
 - [受精蛋](EggPartridgeFertilized.md)  
 - [鸟食](FeedBird.md)  
+- [猪食](FeedBoar.md)  
 - [山羊饲料](FeedGoat.md)  
 - [鱼干](FishDried.md)  
 - [咸鱼](FishSalted.md)  

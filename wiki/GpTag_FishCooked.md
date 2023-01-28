@@ -3,3 +3,5 @@
 - [烤鹦哥鱼](ParrotFishCooked.md)  
 - [烤绯鲤](GoatfishCooked.md)  
 - [烤马鲅鱼](ThreadfinCooked.md)  
+- [烤鲨鱼肉](SharkCooked.md)  
+- [烤鲱鱼](HerringCooked.md)  

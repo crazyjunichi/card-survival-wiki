@@ -34,11 +34,11 @@
 [“一级矛”](tag_Spear.md)  |  [“油”](tag_Oil.md)  |  [“有毒环境”](tag_EnvToxic.md)  |  [“有机的”](tag_Organic.md)  
 [“右臂骨折”](eTag_WArmFractureR.md)  |  [“右臂撕裂伤”](eTag_WArmLacerationR.md)  |  [“右脚踝扭伤”](eTag_WLegSprainedR.md)  |  [“右手腕扭伤”](eTag_WArmSprainedR.md)  
 [“右腿骨折”](eTag_WLegFractureR.md)  |  [“右腿撕裂伤”](eTag_WLegLacerationR.md)  |  [“诱饵”](tag_Bait.md)  |  [“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  
-[“釉面”](tag_Glazed.md)  |  [“鱼肉”](tag_Fish.md)  |  [“鱼杂”](tag_FishScrap.md)  |  [“脏容器（敞口）”](tag_ContainerDirty.md)  
-[“粘土”](tag_Clay.md)  |  [“战斗事件”](tag_FightEvent.md)  |  [“针线”](tag_ThreadedNeedle.md)  |  [“真人秀项圈”](eTag_CollarTV.md)  
-[“止血带”](tag_Tourniquet.md)  |  [“装饰品”](tag_Decoration.md)  |  [“左臂骨折”](eTag_WArmFractureL.md)  |  [“左臂撕裂伤”](eTag_WArmLacerationL.md)  
-[“左脚（内层）”](tag_InnerFeet.md)  |  [“左脚（外层）”](tag_OuterFeet.md)  |  [“左脚踝扭伤”](eTag_WLegSprainedL.md)  |  [“左手”](tag_Hands.md)  
-[“左手腕扭伤”](eTag_WArmSprainedL.md)  |  [“左腿骨折”](eTag_WLegFractureL.md)  |    |    
+[“釉面”](tag_Glazed.md)  |  [“鱼肉”](tag_Fish.md)  |  [“鱼杂”](tag_FishScrap.md)  |  [“杂食饲料”](tag_FeedOmnivorous.md)  
+[“脏容器（敞口）”](tag_ContainerDirty.md)  |  [“粘土”](tag_Clay.md)  |  [“战斗事件”](tag_FightEvent.md)  |  [“针线”](tag_ThreadedNeedle.md)  
+[“真人秀项圈”](eTag_CollarTV.md)  |  [“止血带”](tag_Tourniquet.md)  |  [“装饰品”](tag_Decoration.md)  |  [“左臂骨折”](eTag_WArmFractureL.md)  
+[“左臂撕裂伤”](eTag_WArmLacerationL.md)  |  [“左脚（内层）”](tag_InnerFeet.md)  |  [“左脚（外层）”](tag_OuterFeet.md)  |  [“左脚踝扭伤”](eTag_WLegSprainedL.md)  
+[“左手”](tag_Hands.md)  |  [“左手腕扭伤”](eTag_WArmSprainedL.md)  |  [“左腿骨折”](eTag_WLegFractureL.md)  |    
 ## 组  
 <br>  |  <br>  |  <br>  |  <br>  
  :----:    |   :----:    |   :----:    |   :----:    
@@ -47,11 +47,11 @@
 [锋利的斧子(组)](GpTag_AxeAdv.md)  |  [斧子(组)](GpTag_Axe.md)  |  [姜(组)](GpTag_Ginger.md)  |  [酒精(组)](GpTag_Alcohol.md)  
 [抗裂剂(组)](GpTag_Temper.md)  |  [烤鱼(组)](GpTag_FishCooked.md)  |  [蜡 / 脂肪(组)](GpTag_WaxFat.md)  |  [辣椒(组)](GpTag_Chilli.md)  
 [鸟食(组)](GpTag_FeedBird.md)  |  [凝乳酶 / 醋(组)](GpTag_RennetLike.md)  |  [配菜(组)](GpTag_Filler.md)  |  [配菜(组)](GpTag_SideFood.md)  
-[皮革(组)](GpTag_Leather.md)  |  [切割工具(组)](GpTag_Cutter.md)  |  [容器(组)](GpTag_Containers.md)  |  [沙拉配料(组)](GpTag_SaladToppings.md)  
-[沙拉蔬菜(组)](GpTag_SaladGreens.md)  |  [山羊饲料(组)](GpTag_FeedGoat.md)  |  [兽皮(组)](GpTag_Hide.md)  |  [熟海鲜(组)](GpTag_Seafood.md)  
-[树叶(组)](GpTag_Leaves.md)  |  [水(组)](GpTag_Water.md)  |  [水(组)](GpTag_WaterAny.md)  |  [甜味剂(组)](GpTag_Sweetener.md)  
-[土壤(组)](GpTag_Soil.md)  |  [碗(组)](GpTag_Bowl.md)  |  [油(组)](GpTag_Oil.md)  |  [油/脂肪(组)](GpTag_OilFat.md)  
-[鱼(组)](GpTag_Fish.md)  |  [针(组)](GpTag_Needle.md)  |    |    
+[皮革(组)](GpTag_Leather.md)  |  [切割工具(组)](GpTag_Cutter.md)  |  [容器(组)](GpTag_Containers.md)  |  [肉类猪饲料(组)](GpTag_FeedBoarProtein.md)  
+[沙拉配料(组)](GpTag_SaladToppings.md)  |  [沙拉蔬菜(组)](GpTag_SaladGreens.md)  |  [山羊饲料(组)](GpTag_FeedGoat.md)  |  [兽皮(组)](GpTag_Hide.md)  
+[蔬菜猪饲料(组)](GpTag_FeedBoarVeggies.md)  |  [熟海鲜(组)](GpTag_Seafood.md)  |  [树叶(组)](GpTag_Leaves.md)  |  [水(组)](GpTag_WaterFresh.md)  
+[水(组)](GpTag_WaterAny.md)  |  [甜味剂(组)](GpTag_Sweetener.md)  |  [土壤(组)](GpTag_Soil.md)  |  [碗(组)](GpTag_Bowl.md)  
+[油(组)](GpTag_Oil.md)  |  [油/脂肪(组)](GpTag_OilFat.md)  |  [鱼(组)](GpTag_Fish.md)  |  [针(组)](GpTag_Needle.md)  
 ## 动作  
 <br>  |  <br>  |  <br>  |  <br>  
  :----:    |   :----:    |   :----:    |   :----:    

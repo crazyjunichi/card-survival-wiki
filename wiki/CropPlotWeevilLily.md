@@ -33,18 +33,18 @@
 农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：100  |  每15分钟-1<br>最多需要：1天1小时  |    
-真菌感染<img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
+真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Fertilizer  |  ** 需要属性：**<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～384  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">+0.75<br>成熟度+0.5  |    
 Pesticide  |  ** 需要属性：**<br>农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～288  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">-5  |    
-Fungicide  |  ** 需要属性：**<br>农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～288  |  真菌感染<img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">-5  |    
-Overwatered  |  ** 需要属性：**<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 216～288  |  真菌感染<img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+1.25  |    
+Fungicide  |  ** 需要属性：**<br>农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～288  |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">-5  |    
+Overwatered  |  ** 需要属性：**<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 216～288  |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+1.25  |    
 Underwatered  |  ** 需要属性：**<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～72  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">+1.25  |    
 Mite Infestation  |  ** 需要属性：**<br>螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">: 50～100  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
-Fungal Infestation  |  ** 需要属性：**<br>真菌感染<img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">: 144～288  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
-Humid  |  ** 需要存在卡牌：**<br>[“潮湿环境”](tag_EnvHumid.md)  |  真菌感染<img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+0.5<br>成熟度+0.25  |    
+Fungal Infestation  |  ** 需要属性：**<br>真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">: 144～288  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
+Humid  |  ** 需要存在卡牌：**<br>[“潮湿环境”](tag_EnvHumid.md)  |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+0.5<br>成熟度+0.25  |    
 Dry  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">+0.75<br>成熟度-0.25  |    
 Fertile  |  ** 需要存在卡牌：**<br>[“肥沃环境”](tag_EnvFertile.md)  |  成熟度+0.25  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+25  |    

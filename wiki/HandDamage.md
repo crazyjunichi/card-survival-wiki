@@ -164,4 +164,4 @@
 [铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  5  
 [牡蛎](Oyster.md)  |  打开  |  5  
 [绑手带](HandWrappings.md)  |  被动  |  -200  
-[皮革手套](LeatherGloves.md)  |  被动  |  -200  
+[皮革手套](LeatherGloves.md)  |  被动  |  -300  

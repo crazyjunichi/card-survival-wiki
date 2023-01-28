@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>** Boar Carcass **<br>  [野猪尸体](BoarCarcass.md)(+1)<br>  |  [情绪](Morale.md)+20  
+继续<br>  |  -  |    |  消失<br>** Boar Carcass **<br>  [野猪尸体](BoarCarcass.md)(+1)<br>  |  [情绪](Morale.md)+20<br>[蜂群密度](Pop_Boar.md)-1000  

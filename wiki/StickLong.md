@@ -22,6 +22,7 @@
 [陷坑](TrappingPit.md)  |  拆除陷阱  
 [陷坑](TrappingPitTriggered.md)  |  拆除陷阱  
 [简易的弓](BowRustic.md)  |  拆解  
+[小拉车](Travois.md)  |  Dismantle  
 [扫帚](Broom.md)  |  拆解  
 [铜长矛](SpearCopper.md)  |  拆解  
 [燧石长矛](SpearFlint.md)  |  拆解  

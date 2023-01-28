@@ -3,7 +3,7 @@
   
   皮革手套  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**5376<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+1<br>[手掌损伤](HandDamage.md)-200<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/GlovesLeather.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**5376<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+1<br>[手掌损伤](HandDamage.md)-300<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/GlovesLeather.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

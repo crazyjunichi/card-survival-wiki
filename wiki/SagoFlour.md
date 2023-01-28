@@ -15,6 +15,7 @@
 [猪食槽](BoarFeeder.md), [猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [鸟食(蓝图)](Bp_FeedBird.md)  
+- [猪食(蓝图)](Bp_FeedBoar.md)  
 - [炸香蕉(蓝图)](Bp_FriedBananas.md)  
 - [炖羊肉(蓝图)](Bp_GoatStew.md)  
 - [西米蛋糕(蓝图)](Bp_SagoCake.md)  

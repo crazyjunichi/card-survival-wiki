@@ -5,7 +5,7 @@
   
   大叶仙茅叶片  |   图片   
  ----  |  ----:   
- **重量：**50  |  <img decoding="async" src="Sprite/MolineriaLeaves.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**50<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md)  |  <img decoding="async" src="Sprite/MolineriaLeaves.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -16,7 +16,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 制作绷带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>** Molineria **<br>  [叶片绷带](LeafDressing.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
 ## 可拖至  
-[未栽种的农田(空)](CropPlotEmpty.md)  
+[未栽种的农田(空)](CropPlotEmpty.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

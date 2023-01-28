@@ -17,6 +17,7 @@
 [解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  捡起  
 [诱捕笼(蓝图)](Bp_CageTrap.md)  |  蓝图制造  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  放生  
+[中陷阱的猕猴](CageTrapMacaque.md) , [“切割工具”](tag_Cutter.md)  |  杀害  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

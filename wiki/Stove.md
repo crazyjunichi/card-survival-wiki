@@ -124,7 +124,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>→ [火炉(熄灭)](StoveExtinguished.md)  
+燃料  |  初始：1<br>最大：144  |  每15分钟-1<br>最多需要：1天12小时  |  ** 到达0时： **<br>→ [火炉(熄灭)](StoveExtinguished.md)  
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

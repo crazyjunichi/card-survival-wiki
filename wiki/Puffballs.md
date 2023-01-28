@@ -5,7 +5,7 @@
   
   马勃菌  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/Puffballs.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**75<br><br>**标签：**	[“杂食饲料”](tag_FeedOmnivorous.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/Puffballs.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

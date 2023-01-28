@@ -15,6 +15,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [鱼片](FishSlices.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br>** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>** Success **<br>基础权重：800<br>  |  [孤独感](Loneliness.md)-20～0  
 [“喂”](tag_Meat.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br>** 使用物: **<br>消失<br>** 获得: **<br>** Success **<br>基础权重：800<br>  |    
+[骨头](Bones.md)  |  Give Bones  |  -  |    |  ** 自身: **<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 400<br>** 使用物: **<br>消失<br>** 获得: **<br>** Success **<br>基础权重：800<br>  |  [情绪](Morale.md)+1  
 [“储水容器”](tag_WaterContainer.md)  |  喂水  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br>** 使用物: **<br>含水量  -300  |    
 [“切割工具”](tag_Cutter.md)  |  杀害！  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
 ## 属性   
