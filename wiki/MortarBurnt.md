@@ -1,9 +1,11 @@
 # 煅烧后的砂浆  
 > 可以敲碎获取生石灰。  
+<br>  
+>   
   
   煅烧后的砂浆  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/MortarBurnt.png)   
+ **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MortarBurnt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,7 +15,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎  |  45分  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[生石灰](Quicklime.md)(+1)<br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎  |  45分  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>**  **<br>  [生石灰](Quicklime.md)(+1)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

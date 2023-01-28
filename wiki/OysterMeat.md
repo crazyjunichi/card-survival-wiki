@@ -1,9 +1,11 @@
 # 牡蛎肉  
 > 烤熟它可以增加营养和风味  
+<br>  
+> 牡蛎是双壳纲软体动物，可以在<b>鸟岩岛和海湾</b>找到。<br><br>牡蛎需要石头或其他工具才能打开，且里面有很小几率包含有宝贵的<b>珍珠</b>。  
   
   牡蛎肉  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“喂”](tag_Meat.md)  |  ![](Sprite/OysterMeat.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/OysterMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

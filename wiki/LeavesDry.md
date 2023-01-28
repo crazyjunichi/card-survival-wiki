@@ -1,9 +1,11 @@
 # 枯叶  
 > 可以用作火绒，只需要点燃它。  
+<br>  
+> 用于制作<b>树叶床</b>，干燥后可用作火绒。<br><br>它们可以通过探索<b>丛林</b>的干燥地区或砍伐<b>树木及枣树丛</b>获得。  
   
   枯叶  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md), [“火绒”](tag_Tinder.md)  |  ![](Sprite/Tinder.png)   
+ **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md), [“火绒”](tag_Tinder.md)  |  <img decoding="async" src="Sprite/Tinder.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

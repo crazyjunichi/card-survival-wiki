@@ -9,12 +9,12 @@
 3 ～ 3  |  <img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [表面细菌](BacteriaSurface.md)-3  |    
 2 ～ 2  |  <img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [表面细菌](BacteriaSurface.md)-2  |    
 -20 ～ 1  |  <img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [表面细菌](BacteriaSurface.md)-1  |    
+## 关联状态  
+[晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [蚊虫叮咬](BugBites.md)  |  [蜜蜂蛰刺](BeeStings.md)  |  [手掌损伤](HandDamage.md)  |  [足部损伤](FootDamage.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  加成0  
-## 关联状态  
-[晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [足部损伤](FootDamage.md)  |  [手掌损伤](HandDamage.md)  |  [蚊虫叮咬](BugBites.md)  |  [蜜蜂蛰刺](BeeStings.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 米汤  
 > 能喝，养胃。  
+<br>  
+> 这种水培植物可以在岛屿中心的<b>神秘谷</b>中找到。种植水稻是稳定的碳水来源，同时还能提供喂养<b>山羊</b>的饲料。<br><br>水稻首先需要用<b>切割工具</b>收割。谷物和秸秆可以<b>打谷</b>分离。稻米需要在水中<b>煮熟</b>才能食用。<br><br>煮米饭后留下的<b>米汤</b>对肠胃很好。  
   
   米汤  |   图片   
  ----  |  ----:   
- **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“水”](tag_WaterAny.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

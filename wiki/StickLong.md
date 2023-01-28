@@ -1,9 +1,11 @@
 # 长木棍  
 > 有很多用途，比如搭建庇护所或者削尖成长矛。  
+<br>  
+> 长木棍是你求生路上的好帮手！<br><br>可以在<b>丛林</b>中找到，主要是通过<b>用斧子砍小树</b>。<br><br>它们有许多不同的用途，比如制作<b>长矛</b>或者搭建<b>窝棚和棚屋</b>。<br><br>真可谓是原始技术的支柱！  
   
   长木棍  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“大的”](tag_Large.md)  |  ![](Sprite/StickLong.png)   
+ **重量：**250<br><br>**标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

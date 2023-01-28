@@ -3,7 +3,7 @@
   
   公猪  |   图片   
  ----  |  ----:   
- **标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288<br><br>** 可重命名 **  |  ![](Sprite/BoarEnclosureMale.png)   
+ **标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/BoarEnclosureMale.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

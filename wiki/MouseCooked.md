@@ -1,9 +1,11 @@
 # 烤老鼠  
 > 如果肉多点就好了。  
+<br>  
+> 这些小型啮齿动物会定期席卷你留在地上的任何食物。来袭的频率取决于岛上有多少<b>老鼠</b>以及地上有多少<b>食物</b>。<br><br>老鼠可以用<b>落石陷阱和套索陷阱</b>捕捉。  
   
   烤老鼠  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/MouseRoasted.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/MouseRoasted.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

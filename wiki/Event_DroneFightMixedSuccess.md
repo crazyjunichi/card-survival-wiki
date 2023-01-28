@@ -3,7 +3,7 @@
   
   胜负参半  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Drone.png)   
+   |  <img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -15,4 +15,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>[(事件)无人机伤到了我！](Event_DroneWoundMinor.md)(+1)<br>[金属废料](MetalScrap.md)(+1)<br>  |  [情绪](Morale.md)-20<br>[杀手无人机种群数量](Pop_Drone.md)-1000  
+继续<br>  |  -  |    |  消失<br>** Laceration **<br>  [(事件)无人机伤到了我！](Event_DroneWoundMinor.md)(+1)<br>  [金属废料](MetalScrap.md)(+1)<br>  |  [情绪](Morale.md)-20<br>[杀手无人机种群数量](Pop_Drone.md)-1000  

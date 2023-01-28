@@ -1,9 +1,11 @@
 # 灰水  
 > 可以煮沸制成碱液。  
+<br>  
+> 由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。  
   
   灰水  |   图片   
  ----  |  ----:   
- **标签：**	[“水”](tag_WaterAny.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

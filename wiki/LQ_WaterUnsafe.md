@@ -1,9 +1,11 @@
 # 不安全的水  
 > 可能饱含细菌和寄生虫。  
+<br>  
+>   
   
   不安全的水  |   图片   
  ----  |  ----:   
- **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“弱效清洁剂”](tag_CleanerWeak.md), [“水”](tag_WaterAny.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“弱效清洁剂”](tag_CleanerWeak.md), [“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

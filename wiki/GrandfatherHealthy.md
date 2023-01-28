@@ -1,14 +1,16 @@
 # 祖父(健康)  
 > 他看起来好多了，现在可以照顾自己了。有他的陪伴真好。  
+<br>  
+>   
   
   祖父(健康)  |   图片   
  ----  |  ----:   
- **装备：**[“宠物”](eTag_Pet.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-10<br><br>** 可重命名 **  |  ![](Sprite/GranfatherHealthy.png)   
+ **装备：**[“宠物”](eTag_Pet.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-10<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/GranfatherHealthy.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-陪伴<br>  |  15分  |    |  进度 + 25<br>基础权重：800<br>  |    
+陪伴<br>  |  15分  |    |  进度 + 25<br>** Success **<br>基础权重：800<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

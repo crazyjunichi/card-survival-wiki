@@ -1,9 +1,11 @@
 # 迷幻菇菌床  
 > 我应该让田地保持水分然后等它成熟。  
+<br>  
+>   
   
   迷幻菇菌床  |   图片   
  ----  |  ----:   
- **标签：**	[“农作物”](tag_Crop.md)<br><br>**可使用次数：**0<br><br>** 效果: **<br>[不适](Discomfort.md)+300  |  ![](Sprite/MushroomBedMagic.png)   
+ **标签：**	[“农作物”](tag_Crop.md)<br><br>**可使用次数：**0<br><br>** 效果: **<br>[不适](Discomfort.md)+300  |  <img decoding="async" src="Sprite/MushroomBedMagic.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

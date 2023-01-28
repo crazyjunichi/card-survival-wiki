@@ -1,21 +1,23 @@
 # 繁殖中的蜂群  
 > 这个蜂巢在繁殖，我应该找个布袋把新蜂后抓起来。  
+<br>  
+> <b>蜂箱</b>是一种人工蜂巢，需要由<b>棕榈编织片、泥土和粪便</b>制成，然后需要放入<b>巢脾</b>、蜂王和一些蜜蜂。<br>一旦你有了一个蜂巢，你就要确保该地区长了足够的花，让蜜蜂可以生产足够的蜂蜜来养活自己。你也可以给蜜蜂喂混合了<b>糖或蜂蜜</b>的<b>水</b>，这样它们的蜂蜜储备增长得更快。<br><br>一旦蜜蜂达到最大数量，它们就会<b>繁殖</b>。这时可以用一个袋子捕捉多余的蜜蜂和它们的蜂后，并用它们来制作一个新的蜂箱。<br>处理蜜蜂时，考虑使用<b>熏蜂器和防蜂服</b>，否则你会被蜇得很惨。  
   
   繁殖中的蜂群  |   图片   
  ----  |  ----:   
- **可使用次数：**336  |  ![](Sprite/SkepSwarm.png)   
+ **可使用次数：**336  |  <img decoding="async" src="Sprite/SkepSwarm.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>[巢脾](BeeHoneycomb.md)(+2)<br>[(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>[巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** Beehive **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  [(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** Beehive **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [火把(开)](TorchOn.md)  |  烟熏  |  -  |    |  ** 自身: **<br>休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"> + 6  |    
 [“储水容器”](tag_WaterContainer.md)  |  添入  |  -  |    |  ** 自身: **<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 500<br>** 使用物: **<br>含水量  -300  |    
-[布袋](Sack.md)  |  捕捉蜜蜂  |  15分  |    |  ** 自身: **<br>→ [蜂箱](BeeSkep.md)<br>种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">  -672<br>** 使用物: **<br>含水量  -300<br>** 获得: **<br>[蜂后](QueenBee.md)(+1)<br>[蜜蜂](Bees.md)(+1)<br>- [蜂蛰防护](BeeProtection.md)为6～10时权重+10<br><br>[蜂后](QueenBee.md)(+1)<br>[蜜蜂](Bees.md)(+1)<br>[(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>- [蜂蛰防护](BeeProtection.md)为0时权重+10<br>  |    
+[布袋](Sack.md)  |  捕捉蜜蜂  |  15分  |    |  ** 自身: **<br>→ [蜂箱](BeeSkep.md)<br>种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">  -672<br>** 使用物: **<br>含水量  -300<br>** 获得: **<br>** Protected **<br>  [蜂后](QueenBee.md)(+1)<br>  [蜜蜂](Bees.md)(+1)<br>- [蜂蛰防护](BeeProtection.md)为6～10时权重+10<br><br>** Protected **<br>  [蜂后](QueenBee.md)(+1)<br>  [蜜蜂](Bees.md)(+1)<br>  [(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>- [蜂蛰防护](BeeProtection.md)为0时权重+10<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

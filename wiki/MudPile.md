@@ -1,9 +1,11 @@
 # 泥堆  
 > 可以将它和抗裂剂混合来制作砖块。沙子、贝壳碎片或灰烬都可以。  
+<br>  
+>   
   
   泥堆  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/Mud.png)   
+ **重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Mud.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

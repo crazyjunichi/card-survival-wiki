@@ -1,9 +1,11 @@
 # 轻微撕裂伤  
 > 好痛！  
+<br>  
+> 遭遇<b>野生动物</b>可能导致轻微的开放性伤口。<br><br>在轻微撕裂伤的情况下，通常不需要担心出血。<br>然而<b>感染</b>仍然是一个非常实际的威胁，因此请确保至少用<b>干净的水</b>，或者用<b>蜂蜜、碱液或肥皂更好地清洁伤口</b>。<br><br>伤口清洁后，用<b>敷料</b>包扎伤口，以在伤口愈合时提供保护。<br><br>如果你有<b>线和针</b>并且不怕疼痛，您还可以<b>缝合伤口</b>以帮助它更快愈合。  
   
   轻微撕裂伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“轻微撕裂伤”](eTag_WMinorLaceration.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/LacerationMinor.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“轻微撕裂伤”](eTag_WMinorLaceration.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/LacerationMinor.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

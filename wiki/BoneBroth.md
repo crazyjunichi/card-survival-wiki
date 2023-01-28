@@ -1,9 +1,11 @@
 # 骨头汤  
 > 味道一般但至少能填饱我的肚子。  
+<br>  
+> 用水和骨头熬煮的一份简餐。可以吃饱，但卡路里很少，请在你没有更好的选择时才吃它。<br><br>同时它也可以作为减肥餐，如果你想减肥的话。  
   
   骨头汤  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**2  |  ![](Sprite/ScrappySoup.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**2  |  <img decoding="async" src="Sprite/ScrappySoup.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

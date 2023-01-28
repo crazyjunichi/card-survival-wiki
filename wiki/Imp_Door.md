@@ -1,9 +1,11 @@
 # 门  
 > 一扇合适的门。应该能把不速之客挡在门外。  
+<br>  
+>   
   
   门  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+150<br><br>** 解锁条件: **<br>[木工(技能)](Skill_Woodworking.md): 45-150  |  ![](Sprite/Door.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+150<br><br>** 解锁条件: **<br>[木工(技能)](Skill_Woodworking.md): 45-150  |  <img decoding="async" src="Sprite/Door.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

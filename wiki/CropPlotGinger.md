@@ -1,9 +1,11 @@
 # 姜田  
 > 我应该让田地保持水分然后等它成熟。  
+<br>  
+>   
   
   姜田  |   图片   
  ----  |  ----:   
- **标签：**	[“农作物”](tag_Crop.md)<br><br>**可使用次数：**384  |  ![](Sprite/CropPlotGrowing.png)   
+ **标签：**	[“农作物”](tag_Crop.md)<br><br>**可使用次数：**384  |  <img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 鱼叉  
 > 一柄非常好的鱼叉。能增加抓到鱼的几率。  
+<br>  
+> 用长矛叉鱼可能很棘手，所以可以考虑制作鱼叉，来增加叉鱼的<b>成功率</b>。<br><br>拿一根<b>长木棍</b>，用<b>切割工具</b>把它的末端分成四个尖头，然后用<b>细线</b>保持尖头分散。<br><br>毕竟叉鱼时，四个尖总比一个尖好。  
   
   鱼叉  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**可使用次数：**80  |  ![](Sprite/SpearFishing.png)   
+ **重量：**250<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**可使用次数：**80  |  <img decoding="async" src="Sprite/SpearFishing.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

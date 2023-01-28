@@ -3,7 +3,7 @@
   
   晶石洞穴  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 区域唯一 **  |  ![](Sprite/CrystalChamber.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/CrystalChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  [石头](Stone.md)(+1)<br>基础权重：10<br><br>[方解石晶体](Calcite.md)(+1)<br>基础权重：1<br><br>[晶洞](Geode.md)(+1)<br>基础权重：5<br>  |  [污垢](Filth.md)+2  
+探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** Stone **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br><br>** Calcite **<br>  [方解石晶体](Calcite.md)(+1)<br>基础权重：1<br><br>** Geode **<br>  [晶洞](Geode.md)(+1)<br>基础权重：5<br>  |  [污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

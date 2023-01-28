@@ -1,9 +1,11 @@
 # 熔炉  
 > 专门用来熔炼金属物的建筑，可以用火种点燃它。  
+<br>  
+> 熔炉是设计用来冶炼金属的建筑。它们的最高温度比窑炉高，升温的速度也更快。<br><br>只要把<b>铜矿石</b>放入其中，等到温度达到适宜的时候，金属就会开始熔炼。<br>用铜填充的<b>模具</b>也可以放在里面，来把金属铸造成型。  
   
   熔炉  |   图片   
  ----  |  ----:   
- **槽位：**3<br><br>**过滤器：**[“铜制大物件”](tag_CopperBig.md) , [“铜制小物件”](tag_CopperSmall.md)  |  ![](Sprite/Forge.png)   
+ **槽位：**3<br><br>**过滤器：**[“铜制大物件”](tag_CopperBig.md) , [“铜制小物件”](tag_CopperSmall.md)  |  <img decoding="async" src="Sprite/Forge.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  消失<br>[干土堆](DirtPile.md)(+6)<br>  |    
+拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  消失<br>**  **<br>  [干土堆](DirtPile.md)(+6)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

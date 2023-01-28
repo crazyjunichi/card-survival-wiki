@@ -3,12 +3,12 @@
   
   短裤  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**3000<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+0.5<br>[阳光防护](SunProtection.md)+0.5<br>[世界观](Structure.md)加成+0.1  |  ![](Sprite/Shorts.png)   
+ **重量：**150<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**3000<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+0.5<br>[阳光防护](SunProtection.md)+0.5<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/Shorts.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>[布](Cloth.md)(+1)<br>基础权重：1<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>** Cloth **<br>  [布](Cloth.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 未栽种的稻田  
 > 我应该在这儿种些水稻。  
+<br>  
+> 这些水漫的田地可以用来大规模种植水稻，并保护水稻免受<b>农害</b>的侵害以确保更加高产。<br><br>需要<b>铲子，土壤，灰烬</b>和某种<b>肥料</b>来建造，需要大量<b>水</b>来维持。  
   
   未栽种的稻田  |   图片   
  ----  |  ----:   
- **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**容水量：**2000  |  ![](Sprite/RicePaddyEmpty.png)   
+ **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**容水量：**2000  |  <img decoding="async" src="Sprite/RicePaddyEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

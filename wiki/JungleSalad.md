@@ -1,9 +1,11 @@
 # 丛林沙拉  
 > 精挑细选优质蔬菜！  
+<br>  
+>   
   
   丛林沙拉  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCoconutShell.md)  |  ![](Sprite/JungleSalad.png)   
+ **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCoconutShell.md)  |  <img decoding="async" src="Sprite/JungleSalad.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

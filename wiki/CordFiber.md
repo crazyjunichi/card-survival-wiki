@@ -1,9 +1,11 @@
 # 细线  
 > 我应该用它做点东西，或者多弄点细线，把它纺成线团。  
+<br>  
+> 细线是将从<b>椰子皮和蛇草</b>中提取的<b>纤维</b>编织在一起制成的。<br><br>将细线纺在一起会产生<b>线团</b>，这些线团可以再次纺在一起制成<b>绳子</b>或在<b>织布机上织布</b>。<br><br>细线本身也能用于<b>制作</b>许多东西，比如工具和建筑。<br>它也是在<b>木筏</b>上进行<b>维修</b>的必要资源。  
   
   细线  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“细线”](tag_Cord.md)  |  ![](Sprite/CordFiber.png)   
+ **重量：**10<br><br>**标签：**	[“细线”](tag_Cord.md)  |  <img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

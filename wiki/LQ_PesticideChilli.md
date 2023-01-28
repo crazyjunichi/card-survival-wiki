@@ -1,9 +1,11 @@
 # 辣椒农药  
 > 保护庄稼远离螨虫和动物。  
+<br>  
+> 辣椒可以在岛上的<b>草原</b>地区找到。把辣椒放在<b>晾晒架</b>上晒干后，就可以捣碎成<b>粉</b>，并通过相应的蓝图与<b>肥皂</b>结合以制作辣椒农药。<br>这种农药的制造成本相对较低，可以预防和应对干燥地区常见的<b>螨虫侵害</b>。  
   
   辣椒农药  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

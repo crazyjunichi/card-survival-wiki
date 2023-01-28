@@ -1,9 +1,11 @@
 # 生石灰  
 > 可以做砂浆或者其他东西。  
+<br>  
+> 你可以在将贝壳、石头或大石块放入窑炉中，煅烧完成后将它们磨成生石灰，一种应用性极广的物质。<br><br>生石灰可以用于制作<b>砂浆</b>，用来制作更高级的建筑物，或是制作用于农耕的<b>农药</b>，甚至制作<b>胶水</b>和其他东西。也可以将生石灰浸泡在水中变为<b>熟石灰</b>。  
   
   生石灰  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“抗裂剂”](tag_Temper.md)  |  ![](Sprite/Quicklime.png)   
+ **重量：**50<br><br>**标签：**	[“抗裂剂”](tag_Temper.md)  |  <img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -3,7 +3,7 @@
   
   母猪  |   图片   
  ----  |  ----:   
- **重量：**3000<br><br>**标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288  |  ![](Sprite/BoarFemaleTied.png)   
+ **重量：**3000<br><br>**标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288  |  <img decoding="async" src="Sprite/BoarFemaleTied.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -29,4 +29,4 @@
 口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时：渴死了 **<br>→ [野猪尸体](BoarCarcass.md)  
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-5<br>最多需要：2天2小时  |    
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3000<br>最大：6000  |  每15分钟-2<br>最多需要：31天6小时  |    
-BoarTiedFemale_SpecialDurability2.CardStatName  |  初始：0<br>最大：1344  |  -  |    
+Lactating  |  初始：0<br>最大：1344  |  -  |    

@@ -1,9 +1,11 @@
 # 捣碎的蜘蛛兰  
 > 可以煮制成抗生素汤剂。  
+<br>  
+> 这些花的叶子可以捣碎后加入到一碗开水中，来制成抗生素茶，用来治疗细菌和寄生虫感染。  
   
   捣碎的蜘蛛兰  |   图片   
  ----  |  ----:   
- **重量：**50  |  ![](Sprite/SpiderLilyLeavesGround.png)   
+ **重量：**50  |  <img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

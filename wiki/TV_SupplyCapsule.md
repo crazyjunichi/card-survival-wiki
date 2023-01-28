@@ -3,7 +3,7 @@
   
   补给胶囊  |   图片   
  ----  |  ----:   
- **标签：**	[“袋子”](tag_Bag.md)<br><br>** 区域唯一 **  |  ![](Sprite/TVCrate.png)   
+ **标签：**	[“袋子”](tag_Bag.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/TVCrate.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -25,7 +25,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-打开<br>  |  -  |    |  消失<br>[压缩干粮包](FoodRationsPackage.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[应急水袋](WaterRationsPackage.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[止痛药](Painkillers.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[抗生素](Antibiotics.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[泻立停](AntiDiarrhoeaPills.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[伤口敷料](WoundDressing.md)(+2)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[袜子](Socks.md)(+2)<br>[木炭](Charcoal.md)(+2)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[枪](Gun.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[军刀](KnifeMilitary.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>[胜利手册](TV_Leaflet.md)(+1)<br>[胜利药片](VictoryPillsTV.md)(+1)<br>基础权重：0<br>- [真人秀舞台](TV_Stage.md)为8～10时权重+1000<br>  |  [真人秀舞台](TV_Stage.md)+1<br>[真人秀 - 等待](TV_CounterWait.md)-287<br>[真人秀 - 包裹倒计时](TV_CounterRush.md)-288<br>[真人秀 丛林](TV_Jungle.md)-1<br>[真人秀 丛林 - 探索](TV_JungleExplore.md)-20<br>[真人秀 红树林](TV_Mangroves.md)-1<br>[真人秀 红树林 - 探索](TV_MangrovesExplore.md)-20<br>[真人秀 - 岩滩](TV_Rocks.md)-1<br>[真人秀 石滩 - 探索](TV_RocksExplore.md)-20<br>[真人秀 高地](TV_Highlands.md)-1<br>[真人秀 高地 - 探索](TV_HighlandsExplore.md)-20<br>[真人秀 草原](TV_Grasslands.md)-1<br>[真人秀 草原 - 探索](TV_GrasslandsExplore.md)-20  
+打开<br>  |  -  |    |  消失<br>** Food **<br>  [压缩干粮包](FoodRationsPackage.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Water **<br>  [应急水袋](WaterRationsPackage.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Painkillers **<br>  [止痛药](Painkillers.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Antibiotics **<br>  [抗生素](Antibiotics.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Antidiarrhoea **<br>  [泻立停](AntiDiarrhoeaPills.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Dressings **<br>  [伤口敷料](WoundDressing.md)(+2)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Trash **<br>  [袜子](Socks.md)(+2)<br>  [木炭](Charcoal.md)(+2)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Gun **<br>  [枪](Gun.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Knife **<br>  [军刀](KnifeMilitary.md)(+1)<br>基础权重：1<br>- [真人秀舞台](TV_Stage.md)为8～10时权重-1<br><br>** Victory **<br>  [胜利手册](TV_Leaflet.md)(+1)<br>  [胜利药片](VictoryPillsTV.md)(+1)<br>基础权重：0<br>- [真人秀舞台](TV_Stage.md)为8～10时权重+1000<br>  |  [真人秀舞台](TV_Stage.md)+1<br>[真人秀 - 等待](TV_CounterWait.md)-287<br>[真人秀 - 包裹倒计时](TV_CounterRush.md)-288<br>[真人秀 丛林](TV_Jungle.md)-1<br>[真人秀 丛林 - 探索](TV_JungleExplore.md)-20<br>[真人秀 红树林](TV_Mangroves.md)-1<br>[真人秀 红树林 - 探索](TV_MangrovesExplore.md)-20<br>[真人秀 - 岩滩](TV_Rocks.md)-1<br>[真人秀 石滩 - 探索](TV_RocksExplore.md)-20<br>[真人秀 高地](TV_Highlands.md)-1<br>[真人秀 高地 - 探索](TV_HighlandsExplore.md)-20<br>[真人秀 草原](TV_Grasslands.md)-1<br>[真人秀 草原 - 探索](TV_GrasslandsExplore.md)-20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

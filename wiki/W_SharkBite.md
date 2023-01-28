@@ -1,9 +1,11 @@
 # 鲨鱼咬伤  
 > 一个狰狞的伤口，我需要保持创面洁净。  
+<br>  
+> 虽然<b>鲨鱼袭击</b>很罕见，但在热带水域，尤其是在较大的<b>海湾或开阔海域</b>，鲨鱼袭击仍然是一种威胁。<br><br>鲨鱼咬伤是<b>严重的伤口</b>。确保尽快使用<b>止血带止血</b>。<br>  
   
   鲨鱼咬伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“咬伤”](eTag_WBite.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0  |  ![](Sprite/SharkBite.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“咬伤”](eTag_WBite.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/SharkBite.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

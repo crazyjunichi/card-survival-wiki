@@ -1,9 +1,11 @@
 # 装有燃料的油桶  
 > 里面装满了燃料  
+<br>  
+>   
   
   装有燃料的油桶  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“大的”](tag_Large.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/Jerrycan.png)   
+ **重量：**500<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“大的”](tag_Large.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

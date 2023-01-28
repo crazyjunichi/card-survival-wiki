@@ -3,7 +3,7 @@
   
   母猪  |   图片   
  ----  |  ----:   
- **标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288<br><br>** 可重命名 **  |  ![](Sprite/BoarEnclosureFemale.png)   
+ **标签：**	[“野猪”](tag_Boar.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/BoarEnclosureFemale.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -31,7 +31,7 @@
 怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达上限时： **<br>[小猪尸体](BoarCarcassPiglet.md)0～+3 <br>[小猪](BoarEnclosurePiglet.md)0～+3 <br>[小猪](BoarEnclosurePiglet.md)+3～+6 <br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-4<br>最多需要：2天14小时30分  |    
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6000  |  每15分钟-2<br>最多需要：31天6小时  |    
-BoarEnclosureFemale_SpecialDurability2.CardStatName  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |    
+Lactating  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |    
 便便  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>[粪便](Manure.md)+1   
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
@@ -44,7 +44,7 @@ Drink  |  ** 需要存在卡牌：**<br>[水槽](WateringTrough.md)  |  口渴<i
 Cure Stress  |  ** 需要属性：**<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 288～576<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 144～288  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">+10  |    
 Pregnant  |  ** 需要属性：**<br>怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">: 193～1344  |  怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Impregnate  |  ** 需要属性：**<br>怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～192<br>** 需要存在卡牌：**<br>[公猪](BoarEnclosureMale.md)  |  怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
-Pregnancy Killer  |  ** 需要属性：**<br>BoarEnclosureFemale_SpecialDurability2.CardStatName: 1～1344  |  怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">-4  |    
+Pregnancy Killer  |  ** 需要属性：**<br>Lactating: 1～1344  |  怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">-4  |    
 Overcrowding  |  ** 需要属性：**<br>怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1536<br>** 需要存在卡牌：**<br>[“大型动物”](tag_LargeAnimal.md)  |  怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">-0.5<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.66  |    
 Poop  |  ** 需要存在卡牌：**<br>[粪便](Manure.md)  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.01  |    
 Company  |    |    |  [孤独感](Loneliness.md)加成-1  

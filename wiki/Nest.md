@@ -1,9 +1,11 @@
 # 鸟巢  
 > 可以用作火绒，只需要点燃它。  
+<br>  
+>   
   
   鸟巢  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“树叶”](tag_Leaves.md), [“火绒”](tag_Tinder.md)  |  ![](Sprite/Nest.png)   
+ **重量：**25<br><br>**标签：**	[“树叶”](tag_Leaves.md), [“火绒”](tag_Tinder.md)  |  <img decoding="async" src="Sprite/Nest.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

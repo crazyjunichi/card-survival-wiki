@@ -3,7 +3,7 @@
   
   洞穴上层  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 区域唯一 **  |  ![](Sprite/CaveChamber.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  [石头](Stone.md)(+1)<br>基础权重：10<br><br>[晶洞](Geode.md)(+1)<br>基础权重：3<br><br>[燧石](Flint.md)(+1)<br>基础权重：1<br><br>[燧石板](FlintSlab.md)(+1)<br>基础权重：1<br>  |  [污垢](Filth.md)+2  
+探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** Stone **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br><br>** Geode **<br>  [晶洞](Geode.md)(+1)<br>基础权重：3<br><br>** Flint **<br>  [燧石](Flint.md)(+1)<br>基础权重：1<br><br>** Flint Slab **<br>  [燧石板](FlintSlab.md)(+1)<br>基础权重：1<br>  |  [污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

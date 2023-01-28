@@ -1,9 +1,11 @@
 # 石头  
 > 可以当作锤子使用，也可以用来打磨另一块石头。可置于窑炉内煅烧成生石灰。  
+<br>  
+> 一小块石灰岩。<br><br>它可以在<b>大石块</b>上打磨成<b>石刀</b>。<br>也可以在小石头上打磨，但耗时更久，对你的手损伤也更大。  
   
   石头  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“可烹饪的”](tag_Cookable.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/Stone.png)   
+ **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“可烹饪的”](tag_Cookable.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Stone.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

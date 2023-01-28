@@ -1,9 +1,11 @@
 # 木筏庇护所  
 > 可以为我抵御阳光和恶劣天气。  
+<br>  
+>   
   
   木筏庇护所  |   图片   
  ----  |  ----:   
- **可使用次数：**480<br><br>** 效果: **<br>[舒适度](Comfort.md)+250<br>[雨水防护](RainProtection.md)+2<br>[保温](InsulationCold.md)+5<br>[绝热](InsulationHeat.md)+5<br>[阳光防护](SunProtection.md)+1  |  ![](Sprite/RaftShelter.png)   
+ **可使用次数：**480<br><br>** 效果: **<br>[舒适度](Comfort.md)+250<br>[雨水防护](RainProtection.md)+2<br>[保温](InsulationCold.md)+5<br>[绝热](InsulationHeat.md)+5<br>[阳光防护](SunProtection.md)+1  |  <img decoding="async" src="Sprite/RaftShelter.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

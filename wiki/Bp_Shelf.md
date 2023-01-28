@@ -3,7 +3,7 @@
   
   架子  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[木板](Plank.md)<br><br>** 可重命名 **  |  ![](Sprite/Shelf.png)   
+ ** 解锁需求: **<br>[木板](Plank.md)<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/Shelf.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

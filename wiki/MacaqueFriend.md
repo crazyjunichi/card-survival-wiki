@@ -1,24 +1,26 @@
 # 猕猴朋友  
 > 大多数情况下，它是一个忠诚友好的同伴……  
+<br>  
+> 猕猴出没于岛上森林茂密的地区。当它们觉得你好欺负的时候，就会经常<b>偷</b>你的东西。即使它们战斗力不强，未及时处理的猕猴<b>咬伤</b>也很容易引发感染。<br><br>你可以试着猎杀它们，猕猴肉也是不错的营养来源，同时还能提供一些皮革。<br>如果你只是伤了它们但没有致其死地，你可以照料它们直至其恢复健康，并和它们成为朋友。猕猴朋友会陪伴你，降低你的<b>孤独</b>，送你礼物，甚至帮你剥椰子。注意要保证它们吃饱喝足，否则它们不高兴了，就有可能<b>咬你一口</b>。  
   
   猕猴朋友  |   图片   
  ----  |  ----:   
- **重量：**750<br><br>**装备：**[“宠物”](eTag_Pet.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-2<br><br>** 可重命名 **  |  ![](Sprite/MacaqueFriend.png)   
+ **重量：**750<br><br>**装备：**[“宠物”](eTag_Pet.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-2<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/MacaqueFriend.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br>基础权重：800<br><br>[(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
+抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br>** Success **<br>基础权重：800<br><br>** Ouch! **<br>  [(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[鱼片](FishSlices.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br>** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>基础权重：800<br><br>[(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
-[“喂/添加”](tag_Feed.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br>** 使用物: **<br>消失<br>** 获得: **<br>基础权重：800<br><br>[(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
+[鱼片](FishSlices.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br>** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>** Success **<br>基础权重：800<br><br>** Ouch! **<br>  [(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
+[“喂/添加”](tag_Feed.md)  |  喂食  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br>** 使用物: **<br>消失<br>** 获得: **<br>** Success **<br>基础权重：800<br><br>** Ouch! **<br>  [(事件)啊！！！！](Event_MacaqueFriendAnger.md)(+1)<br>基础权重：0<br>  |    
 [“储水容器”](tag_WaterContainer.md)  |  喂水  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br>** 使用物: **<br>含水量  -300  |    
-[青椰子](CoconutHusked.md)  |  剥椰子  |  -  |    |  ** 使用物: **<br>→ [椰子](Coconut.md)<br>** 获得: **<br>[椰子皮](CoconutHusk.md)(+1)<br>  |    
-[水椰子](NipaFruit.md)  |  剥水椰子  |  -  |    |  ** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[水椰籽](NipaSeeds.md)(+1)<br>  |    
-[热带杏仁](TropicalAlmonds.md)  |  剥热带杏仁  |  -  |    |  ** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>[热带杏仁核](TropicalAlmondKernels.md)(+1)<br>  |    
-[“切割工具”](tag_Cutter.md)  |  杀害！  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [猕猴尸体](MacaqueCarcass.md)<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>基础权重：1<br><br>[猕猴咬伤](W_MacaqueBite.md)(+1)<br>基础权重：3<br>  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
+[青椰子](CoconutHusked.md)  |  剥椰子  |  -  |    |  ** 使用物: **<br>→ [椰子](Coconut.md)<br>** 获得: **<br>** Husk **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |    
+[水椰子](NipaFruit.md)  |  剥水椰子  |  -  |    |  ** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Nipa Seeds **<br>  [水椰籽](NipaSeeds.md)(+1)<br>  |    
+[热带杏仁](TropicalAlmonds.md)  |  剥热带杏仁  |  -  |    |  ** 使用物: **<br>消失<br>可用次数  -1<br>** 获得: **<br>** Tropical Almond **<br>  [热带杏仁核](TropicalAlmondKernels.md)(+1)<br>  |    
+[“切割工具”](tag_Cutter.md)  |  杀害！  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [猕猴尸体](MacaqueCarcass.md)<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** No Bite **<br>基础权重：1<br><br>** Bite **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>基础权重：3<br>  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
 ## 可拖至  
 [椰子树](PalmTreeNew.md)  
 ## 属性   

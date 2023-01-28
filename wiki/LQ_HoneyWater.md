@@ -1,9 +1,11 @@
 # 蜂蜜水  
 > 可以喂给蜜蜂或者让它发酵成蜂蜜酒。  
+<br>  
+> 蜂蜜是一种易于保存、营养丰富的食物，可以通过将<b>蜂巢和蜂箱</b>中的<b>巢脾</b>压入碗里来提取。<br><br>蜂蜜可以用于多个<b>烹饪食谱</b>，也可兑成<b>蜂蜜水</b>，用于喂<b>蜜蜂</b>或发酵成<b>蜂蜜酒</b>，一种可口的酒精饮料。  
   
   蜂蜜水  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

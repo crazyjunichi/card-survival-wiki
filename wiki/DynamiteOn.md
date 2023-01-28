@@ -1,9 +1,11 @@
 # 炸药  
 > 非常危险，要赶紧丢出去。  
+<br>  
+> 能让东西<b>爆炸</b>的先进而危险的工具！<br><br>要制作它，你需要<b>木屑、脂肪、浓硝酸、细线和水</b>。<br><br>能被用于炸<b>坍塌的隧道、铜矿脉、鱼和更多东西</b>！  
   
   炸药  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[光亮](Light.md)+20  |  ![](Sprite/DynamiteOn.png)   
+ **重量：**25<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[光亮](Light.md)+20  |  <img decoding="async" src="Sprite/DynamiteOn.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

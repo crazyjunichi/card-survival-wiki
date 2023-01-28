@@ -1,9 +1,11 @@
 # 黄油焗牡蛎  
 > 噢！美味！  
+<br>  
+> 一道非常可口的美食，由<b>牡蛎、黄油和柠檬草</b>烹饪而成。<br>只有达到非常高的<b>烹饪技能</b>才能烹饪。  
   
   黄油焗牡蛎  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/ButterBakedOyster.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/ButterBakedOyster.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

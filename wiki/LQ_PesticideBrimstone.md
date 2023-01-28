@@ -1,9 +1,11 @@
 # 硫磺农药  
 > 保护庄稼远离农害。  
+<br>  
+> 硫磺可以在岛上的<b>火山</b>地区找到。这种物质的众多用途之一是将其与<b>生石灰</b>混合后，制成强力的<b>农药</b>。<br><br>这种杀虫剂虽然比辣椒更奢侈，但可以同时预防和应对<b>螨虫侵害以及真菌感染</b>。  
   
   硫磺农药  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

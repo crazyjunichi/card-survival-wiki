@@ -3,7 +3,7 @@
   
   野猪伤到了我！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/BoarEvent.png)   
+   |  <img decoding="async" src="Sprite/BoarEvent.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真不错<br>  |  -  |    |  消失<br>[右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：1<br><br>[右手腕扭伤](W_ArmSprainedR.md)(+1)<br>基础权重：1<br><br>[右臂撕裂伤](W_ArmLacerationR.md)(+1)<br>基础权重：2<br><br>[左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：1<br><br>[左手腕扭伤](W_ArmSprainedL.md)(+1)<br>基础权重：1<br><br>[左臂撕裂伤](W_ArmLacerationL.md)(+1)<br>基础权重：2<br><br>[右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>[右脚踝扭伤](W_LegSprainedR.md)(+1)<br>基础权重：1<br><br>[右腿撕裂伤](W_LegLacerationR.md)(+1)<br>基础权重：2<br><br>[左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br>[左脚踝扭伤](W_LegSprainedL.md)(+1)<br>基础权重：1<br><br>[左腿撕裂伤](W_LegLacerationL.md)(+1)<br>基础权重：2<br><br>[轻微撕裂伤](W_MinorLaceration.md)(+1)<br>基础权重：2<br><br>[擦伤](W_Abrasion.md)(+1)<br>基础权重：2<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  
+真不错<br>  |  -  |    |  消失<br>** Arm Fracture R **<br>  [右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：1<br><br>** Arm Sprain R **<br>  [右手腕扭伤](W_ArmSprainedR.md)(+1)<br>基础权重：1<br><br>** Arm Laceration R **<br>  [右臂撕裂伤](W_ArmLacerationR.md)(+1)<br>基础权重：2<br><br>** Arm Fracture L **<br>  [左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：1<br><br>** Arm Sprain L **<br>  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>基础权重：1<br><br>** Arm Laceration L **<br>  [左臂撕裂伤](W_ArmLacerationL.md)(+1)<br>基础权重：2<br><br>** Leg Fracture R **<br>  [右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>** Leg Sprain R **<br>  [右脚踝扭伤](W_LegSprainedR.md)(+1)<br>基础权重：1<br><br>** Leg Laceration R **<br>  [右腿撕裂伤](W_LegLacerationR.md)(+1)<br>基础权重：2<br><br>** Leg Fracture L **<br>  [左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br>** Leg Sprain L **<br>  [左脚踝扭伤](W_LegSprainedL.md)(+1)<br>基础权重：1<br><br>** Leg Laceration L **<br>  [左腿撕裂伤](W_LegLacerationL.md)(+1)<br>基础权重：2<br><br>** Minor Laceration **<br>  [轻微撕裂伤](W_MinorLaceration.md)(+1)<br>基础权重：2<br><br>** Abrasion **<br>  [擦伤](W_Abrasion.md)(+1)<br>基础权重：2<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  

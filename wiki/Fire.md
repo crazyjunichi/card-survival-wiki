@@ -3,7 +3,7 @@
   
   火堆  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+25<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/Fire.png)   
+ **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+25<br>[蚊虫数量](BugPopulation.md)-1  |  <img decoding="async" src="Sprite/Fire.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
+取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>** Embers **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [火堆(熄灭)](FireExtinguished.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

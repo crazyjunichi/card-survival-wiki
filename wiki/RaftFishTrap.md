@@ -1,9 +1,11 @@
 # 捕捞拖网  
 > 我应该稍后再来检查是否有鱼。  
+<br>  
+>   
   
   捕捞拖网  |   图片   
  ----  |  ----:   
- **槽位：**3<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)<br><br>**可使用次数：**480  |  ![](Sprite/RaftFishTrap.png)   
+ **槽位：**3<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)<br><br>**可使用次数：**480  |  <img decoding="async" src="Sprite/RaftFishTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

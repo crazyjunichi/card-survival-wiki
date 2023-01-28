@@ -1,9 +1,11 @@
 # 鸟肉  
 > 生吃时不是特别好吃。  
+<br>  
+> <b>灰山鹑和海鸥</b>的肉。<br><br>可以被烹饪和烟熏，以获得额外的营养、口感和保质期。  
   
   鸟肉  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/SeagullMeat.png)   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/SeagullMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

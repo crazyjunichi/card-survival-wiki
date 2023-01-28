@@ -1,9 +1,11 @@
 # 热带杏仁核  
 > 很好吃，也可试着烤一下。  
+<br>  
+>   
   
   热带杏仁核  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/TropicalAlmondKernels.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/TropicalAlmondKernels.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

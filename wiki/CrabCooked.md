@@ -1,9 +1,11 @@
 # 烤螃蟹  
 > 很好吃，如果肉多点就更好了。  
+<br>  
+> 这些甲壳类动物会在岛屿的海岸出现，特别是<b>岩石区和潮汐池</b>。<br><br>可以用作陷阱的诱饵、在火上烤来吃，或用在烹饪食谱里，如<b>海鲜杂烩</b>。  
   
   烤螃蟹  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md), [“诱饵”](tag_Bait.md)  |  ![](Sprite/CrabCooked.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md), [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/CrabCooked.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 海之荣耀  
 > 记录我海洋探险的装饰品。  
+<br>  
+>   
   
   海之荣耀  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁需求: **<br>[鲨鱼下颚](SharkJaws.md)  |  ![](Sprite/SeaTrophy.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁需求: **<br>[鲨鱼下颚](SharkJaws.md)  |  <img decoding="async" src="Sprite/SeaTrophy.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

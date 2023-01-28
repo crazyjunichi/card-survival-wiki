@@ -1,9 +1,11 @@
 # 碎海螺壳  
 > 可以作为抗裂剂放进窑炉中制作生石灰。  
+<br>  
+> 一种美丽的贝类，其中的螺肉可以食用。用<b>石头或锤打工具</b>将肉与壳分开。<br><br>螺肉很有弹性，如果<b>先用锤击工具锤软</b>，味道会更好。然后可以将其<b>烹饪或用于食谱</b>。<br><br>贝壳可以用作抗裂剂，制作<b>泥砖和粘土制品</b>，也可以在<b>窑炉</b>内煅烧成<b>生石灰</b>。生石灰在工艺制作中有丰富的运用。  
   
   碎海螺壳  |   图片   
  ----  |  ----:   
- **重量：**15<br><br>**标签：**	[“抗裂剂”](tag_Temper.md), [“贝壳”](tag_Seashell.md)  |  ![](Sprite/ConchBroken.png)   
+ **重量：**15<br><br>**标签：**	[“抗裂剂”](tag_Temper.md), [“贝壳”](tag_Seashell.md)  |  <img decoding="async" src="Sprite/ConchBroken.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,14 +1,16 @@
 # 塑料瓶  
 > 垃圾也是宝！  
+<br>  
+>   
   
   塑料瓶  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**容水量：**300  |  ![](Sprite/PlasticBottle.png)   
+ **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**容水量：**300  |  <img decoding="async" src="Sprite/PlasticBottle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000  |    
+收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000<br>** rain **<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

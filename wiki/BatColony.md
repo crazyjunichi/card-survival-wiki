@@ -1,17 +1,19 @@
 # 蝙蝠群  
 > 好多蝙蝠。  
+<br>  
+> 蝙蝠聚居在<b>洞穴</b>内。<br><br>它们生产的<b>海鸟粪</b>可以用作肥料或制作硝床。当然，蝙蝠也是可食用的。  
   
   蝙蝠群  |   图片   
  ----  |  ----:   
- **环境：**[蝙蝠洞(环境)](Env_CaveBats.md)<br><br>**可使用次数：**30<br><br>** 效果: **<br>[不适](Discomfort.md)+2000  |  ![](Sprite/BatColony.png)   
+ **环境：**[蝙蝠洞(环境)](Env_CaveBats.md)<br><br>**可使用次数：**30<br><br>** 效果: **<br>[不适](Discomfort.md)+2000  |  <img decoding="async" src="Sprite/BatColony.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-用弓箭攻击！<br>  |  30分  |  [简易的弓](BowRustic.md)<br>[简易箭矢](ArrowSimple.md)  |  蝙蝠数量  -1<br>[蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [箭术(技能)](Skill_Archery.md)为0～150时权重+1～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>基础权重：30<br><br>** 相关卡牌 **<br>[简易的弓](BowRustic.md)可用次数  -1<br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -3  |  [箭术(技能)](Skill_Archery.md)+1  
-使用投索<br>  |  15分  |  [投石索](Sling.md)  |  蝙蝠数量  -1<br>[蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [投石索(技能)](Skill_Sling.md)为1～150时权重0～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>基础权重：30<br><br>** 相关卡牌 **<br>[投石索](Sling.md)可用次数  -1  |  [投石索(技能)](Skill_Sling.md)+1  
-用枪攻击！<br>  |  30分  |  [枪](Gun.md)  |  蝙蝠数量  -1<br>[蝙蝠尸体](Bat.md)(+1)<br>基础权重：50<br>- [手枪(技能)](Skill_Handguns.md)为0～150时权重+1～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>基础权重：25<br><br>** 相关卡牌 **<br>[枪](Gun.md)可用次数  -1  |  [手枪(技能)](Skill_Handguns.md)+1  
-朝它砸石头<br>  |  15分  |    |  蝙蝠数量  -1<br>[蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [投石(技能)](Skill_RockThrowing.md)为1～150时权重0～+50<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>基础权重：50<br>  |  [投石(技能)](Skill_RockThrowing.md)+0.5  
+用弓箭攻击！<br>  |  30分  |  [简易的弓](BowRustic.md)<br>[简易箭矢](ArrowSimple.md)  |  蝙蝠数量  -1<br>** Success **<br>  [蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [箭术(技能)](Skill_Archery.md)为0～150时权重+1～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>** Failure **<br>基础权重：30<br><br>** 相关卡牌 **<br>[简易的弓](BowRustic.md)可用次数  -1<br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -3  |  [箭术(技能)](Skill_Archery.md)+1  
+使用投索<br>  |  15分  |  [投石索](Sling.md)  |  蝙蝠数量  -1<br>** Success **<br>  [蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [投石索(技能)](Skill_Sling.md)为1～150时权重0～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>** Failure **<br>基础权重：30<br><br>** 相关卡牌 **<br>[投石索](Sling.md)可用次数  -1  |  [投石索(技能)](Skill_Sling.md)+1  
+用枪攻击！<br>  |  30分  |  [枪](Gun.md)  |  蝙蝠数量  -1<br>** Success **<br>  [蝙蝠尸体](Bat.md)(+1)<br>基础权重：50<br>- [手枪(技能)](Skill_Handguns.md)为0～150时权重+1～+150<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>** Failure **<br>基础权重：25<br><br>** 相关卡牌 **<br>[枪](Gun.md)可用次数  -1  |  [手枪(技能)](Skill_Handguns.md)+1  
+朝它砸石头<br>  |  15分  |    |  蝙蝠数量  -1<br>** Success **<br>  [蝙蝠尸体](Bat.md)(+1)<br>基础权重：0<br>- [投石(技能)](Skill_RockThrowing.md)为1～150时权重0～+50<br>- [视力](Myopia.md)为0～3时权重0～-100<br>- [ModifierHand_GameName](ModifierHand.md)为0～3时权重0～-125<br><br>** Failure **<br>基础权重：50<br>  |  [投石(技能)](Skill_RockThrowing.md)+0.5  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

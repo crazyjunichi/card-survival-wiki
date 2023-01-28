@@ -1,9 +1,11 @@
 # 猕猴肉干  
 > 很干，很好吃，能保存一段时间  
+<br>  
+>   
   
   猕猴肉干  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/MonkeyMeat.png)   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/MonkeyMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

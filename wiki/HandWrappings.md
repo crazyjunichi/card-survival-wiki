@@ -1,9 +1,11 @@
 # 绑手带  
 > 保护我的双手。<br><br><b>必须装备在装备栏才能生效</b>  
+<br>  
+>   
   
   绑手带  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+1<br>[手掌损伤](HandDamage.md)-200<br>[世界观](Structure.md)加成+0.1  |  ![](Sprite/Handwraps.png)   
+ **重量：**100<br><br>**标签：**	[“左手”](tag_Hands.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“手套”](eTag_Hands.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+1<br>[手掌损伤](HandDamage.md)-200<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/Handwraps.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>[布片](ClothSmall.md)(+2)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>**  **<br>  [布片](ClothSmall.md)(+2)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

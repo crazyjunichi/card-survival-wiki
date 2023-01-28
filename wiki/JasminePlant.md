@@ -1,9 +1,11 @@
 # 茉莉花  
 > 香气迷人，可以装饰房间，也能沏一杯安神的茶。  
+<br>  
+>   
   
   茉莉花  |   图片   
  ----  |  ----:   
- **标签：**	[“花”](tag_Flower.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)-100  |  ![](Sprite/Jasmine.png)   
+ **标签：**	[“花”](tag_Flower.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)-100  |  <img decoding="async" src="Sprite/Jasmine.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>[茉莉花](JasmineFlowers.md)(+1)<br>基础权重：1<br>  |    
+采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>** Jasmin Flowers **<br>  [茉莉花](JasmineFlowers.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

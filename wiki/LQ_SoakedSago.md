@@ -1,9 +1,11 @@
 # 浸泡的西米  
 > 应该把西米搅拌成浆状。  
+<br>  
+>   
   
   浸泡的西米  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -18,7 +20,7 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[食用蔬菜类动作](VegetarianAction.md)  |  15分  |    |  含水量  -300  |  [饱食](Satiation.md)+25<br>[胃](Stomach.md)+15<br>[水分](Hydration.md)+40<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+35<br>[食物中毒](FoodPoisoning.md)+24<br>[污垢](Filth.md)+2  
-搅拌西米<br>  |  15分  |  [光亮](Light.md): 10-100  |  含水量  -300<br>[西米浆](SagoPulp.md)(+1)<br>  |    
+搅拌西米<br>  |  15分  |  [光亮](Light.md): 10-100  |  含水量  -300<br>** Result **<br>  [西米浆](SagoPulp.md)(+1)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

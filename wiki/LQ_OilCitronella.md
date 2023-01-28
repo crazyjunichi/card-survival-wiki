@@ -1,9 +1,11 @@
 # 香茅精油  
 > 闻起来很香并且有驱虫的功效。  
+<br>  
+> 一种好闻的柠檬味香精油，可用于制作<b>驱虫蜡烛</b>。<br><br>要制作它，你需要捣碎<b>柠檬草</b>，将其与<b>油</b>混合并煮沸，再配合脂肪或蜡，通过对应的蓝图制作蜡烛。  
   
   香茅精油  |   图片   
  ----  |  ----:   
- **标签：**	[“油”](tag_Oil.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“油”](tag_Oil.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

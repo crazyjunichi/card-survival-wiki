@@ -3,16 +3,16 @@
   
   盛开的外星植物  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[外星植物渴求](AlienCravings.md)加成+0.2<br>[舒适度](Comfort.md)+100  |  ![](Sprite/AlienGrowthBlooming.png)   
+ ** 效果: **<br>[外星植物渴求](AlienCravings.md)加成+0.2<br>[舒适度](Comfort.md)+100  |  <img decoding="async" src="Sprite/AlienGrowthBlooming.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  -  |    |  → [外星植物](AlienGrowthCleared.md)<br>[外星结节](AlienNodule.md)(+2～+4)<br>  |    
+采集<br>  |  -  |    |  → [外星植物](AlienGrowthCleared.md)<br>** 1 **<br>  [外星结节](AlienNodule.md)(+2～+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍倒  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍倒  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Sticks **<br>  [外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

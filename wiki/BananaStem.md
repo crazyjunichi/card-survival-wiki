@@ -1,9 +1,11 @@
 # 香蕉树芯  
 > 味道一般，但可以食用  
+<br>  
+> 香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。  
   
   香蕉树芯  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md)  |  ![](Sprite/BananaStem.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md)  |  <img decoding="async" src="Sprite/BananaStem.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

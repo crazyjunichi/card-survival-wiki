@@ -3,7 +3,7 @@
   
   挎包  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[鞣制兽皮](CuredSkin.md)<br>[鞣制巨蜥皮](CuredSkinReptile.md)  |  ![](Sprite/Satchel.png)   
+ ** 解锁需求: **<br>[鞣制兽皮](CuredSkin.md)<br>[鞣制巨蜥皮](CuredSkinReptile.md)  |  <img decoding="async" src="Sprite/Satchel.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

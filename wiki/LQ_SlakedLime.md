@@ -1,9 +1,11 @@
 # 熟石灰  
 > 很适合消毒，也能做很多东西！  
+<br>  
+>   
   
   熟石灰  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可用于蓝图  
 - [胶水(蓝图)](Bp_Glue.md)  

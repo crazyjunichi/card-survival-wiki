@@ -1,9 +1,11 @@
 # 猕猴咬伤  
 > 好痛！  
+<br>  
+> 一个由猕猴咬出的伤口。<br><br>这些动物的嘴可不干净，你必须尽快<b>清洁</b>伤口并确保<b>伤口被包扎</b>以防止感染。  
   
   猕猴咬伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/MacaqueBite.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/MacaqueBite.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

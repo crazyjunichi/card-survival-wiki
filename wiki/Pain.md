@@ -1,4 +1,6 @@
 # 疼痛  
+> 疼痛可能由多种原因引起，如<b>伤口</b>、<b>背痛</b>和<b>晒伤</b>。<br><br>这是一种很不愉快的体验，会极大地降低你的<b>情绪</b>并且增大你的<b>压力</b>。更高程度的疼痛也会增加你的<b>勇气</b>，降低你的<b>食欲</b>甚至改变你的<b>精神状态</b>。<br><br><b>卡瓦茶</b>或<b>酒精饮品</b>能帮助你缓解疼痛，但你仍需处理疼痛源。  
+  
 变化范围: 0 ~ 500  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -9,7 +11,7 @@
 301 ～ 400  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">剧烈疼痛  |  太痛了！  |  [情绪](Morale.md)加成-4<br>[压力](Stress.md)加成+3<br>[勇气](Courage.md)+400<br>[食欲](Appetite.md)-50<br>[精神失常](MindState.md)加成+0.5  |    
 401 ～ 500  |  <img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;">极度疼痛  |  痛得我都无法思考了！  |  [情绪](Morale.md)加成-8<br>[压力](Stress.md)加成+4<br>[勇气](Courage.md)+800<br>[食欲](Appetite.md)-100<br>[精神失常](MindState.md)加成+1  |    
 ## 关联状态  
-[失实症](Derealization.md)  |  [晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [头疼](Headache.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [足部损伤](FootDamage.md)  |  [手掌损伤](HandDamage.md)  |  [背痛](BackPain.md)  |  [蚊虫叮咬](BugBites.md)  |  [淤青](Bruising.md)  |  [肺部伤害](LungDamage.md)  |  [镇痛](Analgesia.md)  |  [姜效果](GingerEffect.md)  |  [酒精](Alcohol.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [蛇床子素](Psylocibin.md)  |  [食物中毒](FoodPoisoning.md)  |  [蜜蜂蛰刺](BeeStings.md)  
+[肺部伤害](LungDamage.md)  |  [失实症](Derealization.md)  |  [晒伤](Sunburn.md)  |  [烧伤](Burns.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [头疼](Headache.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [酒精](Alcohol.md)  |  [背痛](BackPain.md)  |  [蚊虫叮咬](BugBites.md)  |  [蜜蜂蛰刺](BeeStings.md)  |  [淤青](Bruising.md)  |  [手掌损伤](HandDamage.md)  |  [足部损伤](FootDamage.md)  |  [镇痛](Analgesia.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [食物中毒](FoodPoisoning.md)  |  [姜效果](GingerEffect.md)  |  [蛇床子素](Psylocibin.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

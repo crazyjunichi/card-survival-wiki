@@ -3,20 +3,20 @@
   
   椰子树  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/PalmTree.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/PalmTree.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-爬树<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[ModifierClimb_GameName](ModifierClimb.md): 0-2  |  使用次数  -1<br>[(事件)坠落！](Event_FallFracture.md)(+1)<br>基础权重：1<br>- [攀爬(技能)](Skill_Climbing.md)为100～150时权重-1<br><br>[(事件)坠落！](Event_FallSprains.md)(+1)<br>基础权重：2<br>- [攀爬(技能)](Skill_Climbing.md)为100～150时权重-1<br><br>[(事件)坠落！](Event_FallAbrasion.md)(+1)<br>基础权重：3<br><br>[(事件)坠落！](Event_FallBruise.md)(+1)<br>基础权重：6<br><br>[(事件)椰子树](Event_PalmTree4.md)(+1)<br>基础权重：4<br>- [攀爬(技能)](Skill_Climbing.md)为0～150时权重0～+150<br>- [降水值](RainValue.md)为1～5时权重-4～-25<br>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
-练习攀爬<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[ModifierClimb_GameName](ModifierClimb.md): 0-2  |  使用次数  -1<br>[(事件)坠落！](Event_FallAbrasion.md)(+1)<br>基础权重：1<br><br>[(事件)坠落！](Event_FallBruise.md)(+1)<br>基础权重：1<br><br>基础权重：8<br>- [攀爬(技能)](Skill_Climbing.md)为0～150时权重0～+150<br>- [降水值](RainValue.md)为1～5时权重-4～-25<br>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
+爬树<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[ModifierClimb_GameName](ModifierClimb.md): 0-2  |  使用次数  -1<br>** Fall - Fracture **<br>  [(事件)坠落！](Event_FallFracture.md)(+1)<br>基础权重：1<br>- [攀爬(技能)](Skill_Climbing.md)为100～150时权重-1<br><br>** Fall - Sprain **<br>  [(事件)坠落！](Event_FallSprains.md)(+1)<br>基础权重：2<br>- [攀爬(技能)](Skill_Climbing.md)为100～150时权重-1<br><br>** Fall - Abrasion **<br>  [(事件)坠落！](Event_FallAbrasion.md)(+1)<br>基础权重：3<br><br>** Fall - Bruises **<br>  [(事件)坠落！](Event_FallBruise.md)(+1)<br>基础权重：6<br><br>** Success **<br>  [(事件)椰子树](Event_PalmTree4.md)(+1)<br>基础权重：4<br>- [攀爬(技能)](Skill_Climbing.md)为0～150时权重0～+150<br>- [降水值](RainValue.md)为1～5时权重-4～-25<br>- [绳子](Rope.md)在手中权重+6<br>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
+练习攀爬<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[ModifierClimb_GameName](ModifierClimb.md): 0-2  |  使用次数  -1<br>** Fall - Abrasion **<br>  [(事件)坠落！](Event_FallAbrasion.md)(+1)<br>基础权重：1<br><br>** Fall - Bruises **<br>  [(事件)坠落！](Event_FallBruise.md)(+1)<br>基础权重：1<br><br>** Success **<br>基础权重：8<br>- [攀爬(技能)](Skill_Climbing.md)为0～150时权重0～+150<br>- [降水值](RainValue.md)为1～5时权重-4～-25<br>- [绳子](Rope.md)在手中权重+6<br>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石斧](StoneAxe.md)  |  砍倒  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[IGNOREKEY](OnNotAxeAdv.md): 0-0  |  ** 自身: **<br>进度  -10<br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+80<br>[阻止抽到棕榈树](PalmTreeKiller.md)+4<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [“斧状的”](tag_AxeAdv.md)  |  砍倒  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>进度  -25<br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60<br>[阻止抽到棕榈树](PalmTreeKiller.md)+4<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[石头](Stone.md)  |  击中椰子  |  15分  |    |  ** 获得: **<br>基础权重：199<br><br>[(事件)成功了！](Event_CoconutHit.md)(+1)<br>基础权重：2<br>- [投石(技能)](Skill_RockThrowing.md)为0～150时权重0～+25<br>  |    
-[石头](Stone.md)  |  派出猕猴  |  15分  |    |  ** 获得: **<br>[(事件)成功了！](Event_CoconutHit.md)(+1)<br>基础权重：2<br>- [投石(技能)](Skill_RockThrowing.md)为0～150时权重0～+25<br>  |    
+[石头](Stone.md)  |  击中椰子  |  15分  |    |  ** 获得: **<br>** Missed! **<br>基础权重：199<br><br>** Got it! **<br>  [(事件)成功了！](Event_CoconutHit.md)(+1)<br>基础权重：2<br>- [投石(技能)](Skill_RockThrowing.md)为0～150时权重0～+25<br>  |    
+[石头](Stone.md)  |  派出猕猴  |  15分  |    |  ** 获得: **<br>**  **<br>  [(事件)成功了！](Event_CoconutHit.md)(+1)<br>基础权重：2<br>- [投石(技能)](Skill_RockThrowing.md)为0～150时权重0～+25<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

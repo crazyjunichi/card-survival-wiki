@@ -1,4 +1,6 @@
 # 孤独感  
+> 孤独感会随着时间的推移而增加，你的情绪和世界观会随之降低。<br><br>有像韦斯顿或是猕猴这样的朋友可以让你不那么孤独。当你已经在岛上生活了很长时间时，拥有高舒适度的家也会有帮助。  
+  
 变化范围: 0 ~ 4880  
 基础变化率: +1 / 每15分钟  
 ## 阶段  
@@ -7,6 +9,8 @@
 900 ～ 2440  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到一丝孤独……  |  [世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-0.25<br>[压力](Stress.md)加成+0.75  |    
 2441 ～ 3660  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到孤独……  |  [世界观](Structure.md)加成-2<br>[情绪](Morale.md)加成-0.75<br>[压力](Stress.md)加成+1.5  |    
 3661 ～ 4880  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">孤独  |  我感到十分孤独……  |  [世界观](Structure.md)加成-3<br>[情绪](Morale.md)加成-1.5<br>[精神失常](MindState.md)加成+0.5<br>[孤独感](Loneliness.md)加成-0.5<br>[压力](Stress.md)加成+1.5～+2  |    
+## 关联状态  
+[情绪](Morale.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [舒适度](Comfort.md)  |  [娱乐](Entertainment.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [孤立感](Isolation.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -23,8 +27,6 @@
 [猕猴朋友](MacaqueFriend.md)  |  被动  |  加成-2  
 [祖父](Grandfather.md)  |  被动  |  加成-5  
 [祖父(健康)](GrandfatherHealthy.md)  |  被动  |  加成-10  
-## 关联状态  
-[情绪](Morale.md)  |  [娱乐](Entertainment.md)  |  [孤立感](Isolation.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [舒适度](Comfort.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

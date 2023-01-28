@@ -1,9 +1,11 @@
 # 粪池  
 > 我应该用铲子把它清理掉。  
+<br>  
+> 粪池是硝石矿床凝结硝石晶体后剩下的部分。臭气熏天，靠近它就会感觉非常不舒服。<br><br>需要用<b>铲子</b>才能清理。  
   
   粪池  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[不适](Discomfort.md)+750  |  ![](Sprite/Cesspool.png)   
+ ** 效果: **<br>[不适](Discomfort.md)+750  |  <img decoding="async" src="Sprite/Cesspool.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

@@ -1,9 +1,11 @@
 # 绳子  
 > 有很多用途。可以带上绳子用来爬椰子树。  
+<br>  
+>   
   
   绳子  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“细线”](tag_Cord.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)  |  ![](Sprite/Rope.png)   
+ **重量：**250<br><br>**标签：**	[“细线”](tag_Cord.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)  |  <img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -29,7 +31,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>[线团](YarnFiber.md)(+2)<br>  |    
+拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>** yarn **<br>  [线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
 [编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

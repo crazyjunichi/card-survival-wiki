@@ -1,9 +1,11 @@
 # 左脚踝扭伤  
 > 好疼……  
+<br>  
+> 从<b>高处跌落</b>很容易扭伤<b>手腕或脚踝</b>。<br><br>关节扭伤是个大<b>麻烦</b>，某些行动会<b>更费时间</b>。<br><b>手腕扭伤</b>会使所有用手的行动更费力，而<b>脚踝扭伤</b>会让走路更费力。<br><br>要治疗扭伤，最好的办法是用<b>夹板</b>固定住扭伤的肢体，直到痊愈。<br>同时，在伤口处涂抹<b>芦荟膏</b>有助于镇痛。  
   
   左脚踝扭伤  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左脚踝扭伤”](eTag_WLegSprainedL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  ![](Sprite/SprainedAnkle.png)   
+ **重量：**500<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左脚踝扭伤”](eTag_WLegSprainedL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/SprainedAnkle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

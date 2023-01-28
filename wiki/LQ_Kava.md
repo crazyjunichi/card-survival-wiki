@@ -1,9 +1,11 @@
 # 卡瓦汤  
 > 一种可以安神止痛的饮料。  
+<br>  
+> 这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的药用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。  
   
   卡瓦汤  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

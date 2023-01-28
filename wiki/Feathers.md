@@ -1,9 +1,11 @@
 # 羽毛  
 > 一堆羽毛。  
+<br>  
+> 羽毛可以在<b>鸟巢</b>中找到，也可以从<b>鸟类尸体</b>获取。<br><br>它们可以用于许多工艺品，包括<b>拟饵、箭和床</b>。  
   
   羽毛  |   图片   
  ----  |  ----:   
- **重量：**10  |  ![](Sprite/Feathers.png)   
+ **重量：**10  |  <img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -3,7 +3,7 @@
   
   猪食槽  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/BoarFeederEmpty.png)   
+   |  <img decoding="async" src="Sprite/BoarFeederEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  消失<br>[木材](Wood.md)(+6)<br>[细线](CordFiber.md)(+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  消失<br>** Results **<br>  [木材](Wood.md)(+6)<br>  [细线](CordFiber.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -3,13 +3,13 @@
   
   韦斯顿  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Weston.png)   
+   |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [(事件)韦斯顿](Event_WestonSpecial1d.md)  |  能明天再说嘛？  
-[(事件)Event_WestonSpecial2d_CardName](Event_WestonSpecial2d.md)  |  Event_WestonSpecial2d_DismantleActions[0].ActionName  
+[(事件)Event_WestonSpecial2d_CardName](Event_WestonSpecial2d.md)  |  You keep my company...  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 粪便  
 > 可用作肥料。  
+<br>  
+>   
   
   粪便  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  ![](Sprite/Manure.png)   
+ **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/Manure.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

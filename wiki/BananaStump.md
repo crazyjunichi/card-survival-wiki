@@ -1,9 +1,11 @@
 # 香蕉树桩  
 > 我可以在这里放一个储水容器来收集水。  
+<br>  
+> 香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。  
   
   香蕉树桩  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)  |  ![](Sprite/BananaStump.png)   
+ **槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)  |  <img decoding="async" src="Sprite/BananaStump.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

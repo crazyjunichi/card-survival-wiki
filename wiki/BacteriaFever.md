@@ -1,4 +1,6 @@
 # 细菌性发烧  
+> 一旦你体内的细菌水平过高，这种状态就会出现。<br><br>虽然发烧有助于杀死细菌，但其代价是<b>脱水</b>速度大大增加，<b>情绪、耐力和世界观</b>也会下降，特别是当发烧太重时。<br><br>止痛药品如<b>卡瓦或止痛药</b>可以帮助退烧。将自己浸入<b>水中</b>也会暂时有所帮助。  
+  
 变化范围: 0 ~ 1500  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -8,6 +10,8 @@
 301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
 601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
 901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
+## 关联状态  
+[免疫系统](ImmuneSystem.md)  |  [体重](Weight.md)  |  [湿度](Wetness.md)  |  [表面细菌](BacteriaSurface.md)  |  [失温](Hypothermia.md)  |  [污垢](Filth.md)  |  [奎宁](Quinine.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -33,8 +37,6 @@
 [巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成+5  
 [海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成+2  
 [蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成+2  
-## 关联状态  
-[免疫系统](ImmuneSystem.md)  |  [体重](Weight.md)  |  [湿度](Wetness.md)  |  [表面细菌](BacteriaSurface.md)  |  [失温](Hypothermia.md)  |  [污垢](Filth.md)  |  [奎宁](Quinine.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

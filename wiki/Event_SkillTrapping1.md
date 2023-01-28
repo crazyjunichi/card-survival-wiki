@@ -3,9 +3,9 @@
   
   陷阱技能提升了！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/DeadfallTrap.png)   
+   |  <img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真不错！<br>  |  -  |    |  消失<br>- [计数器](TickCounter.md)为0时权重+1<br><br>- [计数器](TickCounter.md)为1～999999时权重+1<br>  |    
+真不错！<br>  |  -  |    |  消失<br>**  **<br>- [计数器](TickCounter.md)为0时权重+1<br><br>**  **<br>- [计数器](TickCounter.md)为1～999999时权重+1<br>  |    

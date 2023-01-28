@@ -3,9 +3,9 @@
   
   Event_WestonTalk1a_CardName  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Weston.png)   
+   |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Event_WestonTalk1a_DismantleActions[0].ActionName<br>  |  -  |    |  消失  |  [韦斯顿的陪伴](WestonCompany.md)+30  
+Talk later!<br>  |  -  |    |  消失  |  [韦斯顿的陪伴](WestonCompany.md)+30  

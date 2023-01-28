@@ -1,11 +1,13 @@
 # 勇气  
+> 勇气不足时将无法执行部分危险或会引起疼痛的行动。<br><br>处于<b>疼痛、虚无感或狂躁</b>的状态能增加你的勇气，饮用<b>酒精</b>或<b>止痛药</b>（如卡瓦）也会。  
+  
 变化范围: 0 ~ 4000  
 基础变化率: -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 ## 关联状态  
-[失实症](Derealization.md)  |  [疼痛](Pain.md)  |  [狂躁](Mania.md)  |  [镇痛](Analgesia.md)  |  [姜效果](GingerEffect.md)  |  [酒精](Alcohol.md)  |  [辣椒素](Capsaicin.md)  |  [虚空灵视](VoidInsight.md)  
+[疼痛](Pain.md)  |  [失实症](Derealization.md)  |  [狂躁](Mania.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [辣椒素](Capsaicin.md)  |  [姜效果](GingerEffect.md)  |  [虚空灵视](VoidInsight.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

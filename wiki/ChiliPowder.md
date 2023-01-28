@@ -1,9 +1,11 @@
 # 辣椒粉  
 > 很辣，可以用来烹饪。  
+<br>  
+> 在岛上的<b>草原</b>可以找到辣椒。它们的植株需要开阔和干燥的地方生长，并且对<b>螨虫</b>有很强的抵抗力。<br><br>它们的果实营养丰富并含有辣椒素（一种能让你出汗和降低体温的化合物）它能用于多种烹饪食谱并且是<b>杀虫剂</b>的必要成分。  
   
   辣椒粉  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md)  |  ![](Sprite/ChiliPowder.png)   
+ **重量：**50<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md)  |  <img decoding="async" src="Sprite/ChiliPowder.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

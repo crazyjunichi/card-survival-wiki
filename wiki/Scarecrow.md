@@ -1,9 +1,11 @@
 # 稻草人  
 > 可以帮忙赶走海鸥。希望如此。  
+<br>  
+>   
   
   稻草人  |   图片   
  ----  |  ----:   
- **可使用次数：**2880<br><br>** 效果: **<br>[海鸥之惧](SeagullFear.md)+3000<br>[害怕猕猴](MacaqueFear.md)+1000<br><br>** 区域唯一 **  |  ![](Sprite/Scarecrow.png)   
+ **可使用次数：**2880<br><br>** 效果: **<br>[海鸥之惧](SeagullFear.md)+3000<br>[害怕猕猴](MacaqueFear.md)+1000<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Scarecrow.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>[长木棍](StickLong.md)(+2)<br>[细线](CordFiber.md)(+1)<br>[布袋](Sack.md)(+1)<br>[椰子](Coconut.md)(+1)<br>[棕榈编织帽](HatWoven.md)(+1)<br>  |    
+拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>** Dismantle **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 海鸥遗骸  
 > 这只海鸥已经死了一段时间了。  
+<br>  
+>   
   
   海鸥遗骸  |   图片   
  ----  |  ----:   
- **重量：**100  |  ![](Sprite/SeagullCarcass.png)   
+ **重量：**100  |  <img decoding="async" src="Sprite/SeagullCarcass.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +16,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-处理<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>[鸟骨](BonesBird.md)(+1)<br>[羽毛](Feathers.md)(+1～+3)<br>  |    
+处理<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>**  **<br>  [鸟骨](BonesBird.md)(+1)<br>  [羽毛](Feathers.md)(+1～+3)<br>  |    

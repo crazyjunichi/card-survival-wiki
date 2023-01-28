@@ -1,9 +1,11 @@
 # 珍珠  
 > 优雅圆润。光滑的质感令人赏心悦目。  
+<br>  
+> 牡蛎是双壳纲软体动物，可以在<b>鸟岩岛和海湾</b>找到。<br><br>牡蛎需要石头或其他工具才能打开，且里面有很小几率包含有宝贵的<b>珍珠</b>。  
   
   珍珠  |   图片   
  ----  |  ----:   
- **重量：**5<br><br>**标签：**	[“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/Pearl.png)   
+ **重量：**5<br><br>**标签：**	[“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/Pearl.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

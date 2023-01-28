@@ -1,9 +1,11 @@
 # 熏蜂器  
 > 一个使蜜蜂镇定的工具。  
+<br>  
+> 这个实用的的工具提供了一个比火把更有效的方法来熏蜜蜂，以免它们在你采集蜂蜜时攻击你。<br>它是由粘土制成，因此需要先在窑里烧制才能工作，燃料耗尽后需要填充火绒。  
   
   熏蜂器  |   图片   
  ----  |  ----:   
- **重量：**150  |  ![](Sprite/BeeSmokerOff.png)   
+ **重量：**150  |  <img decoding="async" src="Sprite/BeeSmokerOff.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 热带杏仁树  
 > 我能在这采集热带杏仁。  
+<br>  
+>   
   
   热带杏仁树  |   图片   
  ----  |  ----:   
- **可使用次数：**6  |  ![](Sprite/TropicalAlmondTree.png)   
+ **可使用次数：**6  |  <img decoding="async" src="Sprite/TropicalAlmondTree.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摘热带杏仁<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>[热带杏仁](TropicalAlmonds.md)(+1)<br>基础权重：1<br>  |    
+摘热带杏仁<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>** Tropical Almonds **<br>  [热带杏仁](TropicalAlmonds.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

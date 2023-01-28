@@ -3,7 +3,7 @@
   
   棕榈编织帽  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[编织篓](Basket.md)  |  ![](Sprite/WovenHat.png)   
+ ** 解锁需求: **<br>[编织篓](Basket.md)  |  <img decoding="async" src="Sprite/WovenHat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

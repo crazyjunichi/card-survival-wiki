@@ -1,9 +1,11 @@
 # 未烹饪的参薯酱  
 > 下一步是放火上烹饪。  
+<br>  
+> 一种用煮过的<b>参薯、糖、椰奶和油或脂肪</b>制成的美味而浓郁的果酱。<br><br>它能保存很长一段时间，可以涂在西米饼上作为美味的早餐。  
   
   未烹饪的参薯酱  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/CookingPotClosed.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

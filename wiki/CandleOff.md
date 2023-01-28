@@ -1,9 +1,11 @@
 # 蜡烛  
 > 一个便携光源。  
+<br>  
+> 蜡烛是非常有效且持久的光源。它可以由油脂或者蜂蜡制成。<br>它们体积小并且持续时间长，便于随身携带以防你在晚上被困在丛林里。<br><br>更高级的香薰蜡烛也可以用一些特殊的油来制作。这些香薰蜡烛可以帮助你驱虫和放松心情。  
   
   蜡烛  |   图片   
  ----  |  ----:   
- **重量：**25  |  ![](Sprite/CandleOff.png)   
+ **重量：**25  |  <img decoding="async" src="Sprite/CandleOff.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

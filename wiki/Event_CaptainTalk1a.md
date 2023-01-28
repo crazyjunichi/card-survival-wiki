@@ -3,7 +3,7 @@
   
   船长  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Skull.png)   
+   |  <img decoding="async" src="Sprite/Skull.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

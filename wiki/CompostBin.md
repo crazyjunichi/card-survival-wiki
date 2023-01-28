@@ -1,9 +1,11 @@
 # 堆肥箱  
 > 把有机物转化为肥料来给我的农作物施肥。  
+<br>  
+> 用<b>长木棍、细线、木材和斧类工具</b>制成。<br><br>一个垃圾箱，可以将有机废物，如<b>树叶、食物或动物粪便</b>扔进去，并随着时间的推移转化为<b>肥料</b>。<br><br>用于种植<b>作物</b>和丢弃不需要的有机物。  
   
   堆肥箱  |   图片   
  ----  |  ----:   
- **槽位：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+150  |  ![](Sprite/CompostBin.png)   
+ **槽位：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+150  |  <img decoding="async" src="Sprite/CompostBin.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  消失<br>[木材](Wood.md)(+6)<br>[细线](CordFiber.md)(+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  消失<br>** Results **<br>  [木材](Wood.md)(+6)<br>  [细线](CordFiber.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

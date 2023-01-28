@@ -1,9 +1,11 @@
 # 香蕉  
 > 是香蕉！  
+<br>  
+> 这种水果，准确讲是浆果，生长在<b>丛林</b>的香蕉树上。<br><br>它营养丰富、味道甜美，也可以用在一些烹饪食谱中。  
   
   香蕉  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/Banana.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/Banana.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

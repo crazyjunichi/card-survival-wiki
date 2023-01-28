@@ -3,7 +3,7 @@
   
   鲨鱼头饰  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**2880<br><br>** 效果: **<br>[矛战(技能)](Skill_SpearFighting.md)+5<br>[叉鱼(技能)](Skill_SpearFishing.md)+5  |  ![](Sprite/SharkHeadpiece.png)   
+ **重量：**100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**2880<br><br>** 效果: **<br>[矛战(技能)](Skill_SpearFighting.md)+5<br>[叉鱼(技能)](Skill_SpearFishing.md)+5  |  <img decoding="async" src="Sprite/SharkHeadpiece.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  15分  |    |  消失<br>[鲨鱼下颚](SharkJaws.md)(+1)<br>[羽毛](Feathers.md)(+3)<br>[细线](CordFiber.md)(+2)<br>  |    
+拆解<br>  |  15分  |    |  消失<br>** 1 **<br>  [鲨鱼下颚](SharkJaws.md)(+1)<br>  [羽毛](Feathers.md)(+3)<br>  [细线](CordFiber.md)(+2)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

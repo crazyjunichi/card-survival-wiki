@@ -1,4 +1,6 @@
 # 清醒度  
+>   
+  
 变化范围: 0 ~ 192  
 基础变化率: -1 / 每15分钟  
 ## 阶段  
@@ -8,11 +10,11 @@
 1 ～ 64  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">熬不住了  |  我需要睡觉（点击时钟或床睡觉）  |  [情绪](Morale.md)加成-2<br>[精神失常](MindState.md)加成+1.5<br>[世界观](Structure.md)加成-1.5<br>[压力](Stress.md)加成+1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">睡着了  |  zzz……  |    |    
 ## 关联状态  
-[体重](Weight.md)  |  [光亮](Light.md)  |  [姜效果](GingerEffect.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [茉莉效果](JasmineEffect.md)  |  [月季效果](ChinaRoseEffect.md)  
+[体重](Weight.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [月季效果](ChinaRoseEffect.md)  |  [光亮](Light.md)  |  [姜效果](GingerEffect.md)  |  [茉莉效果](JasmineEffect.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Event_WestonSpecial2e_DismantleActions[0].ActionName  |  96  
+[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  96  
 [(事件)你昏过去了](Event_FaintDizzy.md)  |  继续  |  40  
 [(事件)你昏过去了](Event_FaintExhaustion.md)  |  继续  |  20  
 [椅子](ChairPlaced.md)  |  休息1小时  |  16  

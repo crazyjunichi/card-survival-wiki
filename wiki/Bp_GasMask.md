@@ -3,7 +3,7 @@
   
   防毒面具  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[火山(环境)](Env_Volcano.md)  |  ![](Sprite/GasMask.png)   
+ ** 解锁需求: **<br>[火山(环境)](Env_Volcano.md)  |  <img decoding="async" src="Sprite/GasMask.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

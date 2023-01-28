@@ -1,9 +1,11 @@
 # 火把  
 > 一个便携光源。  
+<br>  
+> 对于夜间移动或探索黑暗的山洞，<b>便携式光源</b>是必备物品。<br><br>简易火炬可以用<b>木材、油和布</b>制作。  
   
   火把  |   图片   
  ----  |  ----:   
- **重量：**150  |  ![](Sprite/Torch.png)   
+ **重量：**150  |  <img decoding="async" src="Sprite/Torch.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

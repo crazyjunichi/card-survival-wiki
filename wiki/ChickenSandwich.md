@@ -1,9 +1,11 @@
 # 鸡肉三明治  
 > 非常美味！  
+<br>  
+> 由<b>两片西米面包、鸟肉和一些沙拉蔬菜</b>制成。<br><br>一道制作简易的餐点，十分美味。  
   
   鸡肉三明治  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/ChickenSandwitch.png)   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/ChickenSandwitch.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

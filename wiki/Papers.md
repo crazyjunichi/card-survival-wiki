@@ -3,7 +3,7 @@
   
   纸  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“火绒”](tag_Tinder.md)  |  ![](Sprite/Papers.png)   
+ **重量：**25<br><br>**标签：**	[“火绒”](tag_Tinder.md)  |  <img decoding="async" src="Sprite/Papers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

@@ -1,9 +1,11 @@
 # 珍珠项链  
 > 一条珍珠串成的美丽项链！  
+<br>  
+>   
   
   珍珠项链  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**装备：**[“颈部”](eTag_Neck.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[压力](Stress.md)加成-0.25<br>[世界观](Structure.md)加成+0.5  |  ![](Sprite/PearlNecklace.png)   
+ **重量：**100<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**装备：**[“颈部”](eTag_Neck.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[压力](Stress.md)加成-0.25<br>[世界观](Structure.md)加成+0.5  |  <img decoding="async" src="Sprite/PearlNecklace.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |    |  消失<br>[细线](CordFiber.md)(+2)<br>[珍珠](Pearl.md)(+9)<br>基础权重：1<br>  |    
+拆解<br>  |  -  |    |  消失<br>** Break **<br>  [细线](CordFiber.md)(+2)<br>  [珍珠](Pearl.md)(+9)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

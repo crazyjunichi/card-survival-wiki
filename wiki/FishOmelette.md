@@ -1,9 +1,11 @@
 # 鱼肉蛋饼  
 > 太美味了！  
+<br>  
+>   
   
   鱼肉蛋饼  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)  |  ![](Sprite/FishOmelette.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)  |  <img decoding="async" src="Sprite/FishOmelette.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 过路的船只  
 > 一艘经过的船！我得引起它的注意！信号弹亦或是火炬肯定能起作用。  
+<br>  
+>   
   
   过路的船只  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[不适](Discomfort.md)+500  |  ![](Sprite/Ship.png)   
+ ** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/Ship.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

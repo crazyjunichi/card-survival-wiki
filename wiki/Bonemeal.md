@@ -1,9 +1,11 @@
 # 骨粉  
 > 可用作肥料。  
+<br>  
+> 磨碎<b>骨头碎片</b>获得。<br><br>它可以用作农作物的简易<b>肥料</b>。  
   
   骨粉  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)  |  ![](Sprite/Quicklime.png)   
+ **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)  |  <img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

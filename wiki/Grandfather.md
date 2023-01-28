@@ -1,14 +1,16 @@
 # 祖父  
 > 你祖父病了。你需要给他提供吃喝。  
+<br>  
+>   
   
   祖父  |   图片   
  ----  |  ----:   
- **装备：**[“宠物”](eTag_Pet.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-5<br><br>** 可重命名 **  |  ![](Sprite/GranfatherSick.png)   
+ **装备：**[“宠物”](eTag_Pet.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-5<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/GranfatherSick.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-陪伴<br>  |  15分  |    |  基础权重：800<br>  |    
+陪伴<br>  |  15分  |    |  ** Success **<br>基础权重：800<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

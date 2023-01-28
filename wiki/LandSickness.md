@@ -7,6 +7,8 @@
 1 ～ 8  |  <img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;">轻度恶心  |    |  [恶心](Nausea.md)加成+0.5  |    
 9 ～ 48  |  <img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;">恶心  |    |  [恶心](Nausea.md)加成+1  |    
 49 ～ 96  |  <img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;">非常恶心  |    |  [恶心](Nausea.md)加成+1.5  |    
+## 关联状态  
+[海怪寄生虫](ParasitesSeahound.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -27,8 +29,6 @@
 [红树林(环境)](Env_Mangroves.md)  |  被动  |  加成-8  
 [木筏(环境)](Env_Raft.md)  |  被动  |  加成-8  
 [岩滩(环境)](Env_Rocks.md)  |  被动  |  加成-8  
-## 关联状态  
-[海怪寄生虫](ParasitesSeahound.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

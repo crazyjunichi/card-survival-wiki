@@ -1,9 +1,11 @@
 # 泥砖  
 > 可以用它制作东西，比如烧陶器的窑炉。  
+<br>  
+>   
   
   泥砖  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/MudBrick.png)   
+ **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MudBrick.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

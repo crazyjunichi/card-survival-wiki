@@ -1,9 +1,11 @@
 # 硝酸钾  
 > 高效的肥料，也能与硫酸混合后在蒸馏器上制得浓硝酸，制作炸药的必需品！  
+<br>  
+> 研磨<b>硝床</b>产生的<b>硝石晶体</b>可得。<br><br>这种化学物质不止是高效的肥料，也能与<b>硫酸</b>混合后在<b>蒸馏器</b>上制得<b>浓硝酸</b>，是制作<b>炸药</b>的必备材料！  
   
   硝酸钾  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“肥料”](tag_Fertilizer.md)  |  ![](Sprite/Saltpeter.png)   
+ **重量：**50<br><br>**标签：**	[“肥料”](tag_Fertilizer.md)  |  <img decoding="async" src="Sprite/Saltpeter.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -3,7 +3,7 @@
   
   求生斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**50  |  ![](Sprite/SurvivalAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**50  |  <img decoding="async" src="Sprite/SurvivalAxe.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

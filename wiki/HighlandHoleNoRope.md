@@ -3,7 +3,7 @@
   
   坑洞  |   图片   
  ----  |  ----:   
- **环境：**[西部高地](HighlandsWestern.md)<br><br>** 区域唯一 **  |  ![](Sprite/HoleDown.png)   
+ **环境：**[西部高地](HighlandsWestern.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

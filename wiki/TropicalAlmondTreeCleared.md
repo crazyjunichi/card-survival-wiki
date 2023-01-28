@@ -1,9 +1,11 @@
 # 摘光的热带杏仁树  
 > 杏仁还是会长出来的。  
+<br>  
+>   
   
   摘光的热带杏仁树  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/TropicalAlmondTree.png)   
+   |  <img decoding="async" src="Sprite/TropicalAlmondTree.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

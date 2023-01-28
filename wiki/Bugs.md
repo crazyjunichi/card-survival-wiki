@@ -1,9 +1,11 @@
 # 虫子  
 > 可以用作诱饵  
+<br>  
+> 虫子可以在黑暗潮湿的洞穴中被发现，也可以在地下挖到。<br><br>有点恶心，但你饿得不行时还是可以吃的。它们可以提供一定的蛋白质。如果你的<b>烹饪技巧</b>足够高，还可以用它们来制作蛋白棒。<br><br>它们也是<b>灰山鹑</b>的良好饲料。  
   
   虫子  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  ![](Sprite/Bugs.png)   
+ **重量：**25<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

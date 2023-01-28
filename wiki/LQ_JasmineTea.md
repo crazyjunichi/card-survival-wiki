@@ -1,9 +1,11 @@
 # 茉莉花茶  
 > 香气四溢，安神静心。  
+<br>  
+>   
   
   茉莉花茶  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

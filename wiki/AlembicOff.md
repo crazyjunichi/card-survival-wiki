@@ -1,9 +1,11 @@
 # 蒸馏器  
 > 将海水蒸馏成淡水。  
+<br>  
+> 一种实用的装置，通过在蒸馏过程中控制加热温度来提取不同的物质。<br><br>它可以从任何水（包括海水）中蒸馏出<b>饮用水</b>，还能制造<b>浓硝酸</b>：炸药的必备原料。<br>使用它的方式是先把一个空容器放在里面，然后将不适合饮用的水或<b>硝石溶液</b>倒入其中，最后再对其加热。产生的液体会随着时间逐渐滴落在空容器中。  
   
   蒸馏器  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)<br><br>**可使用次数：**0  |  ![](Sprite/AlembicOff.png)   
+ **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/AlembicOff.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>[木炭](Charcoal.md)(+1)<br>[灰烬](Ash.md)(+2)<br>基础权重：1<br>  |    
-取出<br>  |  -  |    |  → [营火(熄灭)](CampfireExtinguished.md)<br>[蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
+取出木炭和灰烬<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>** Charcoal **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1<br>  |    
+取出<br>  |  -  |    |  → [营火(熄灭)](CampfireExtinguished.md)<br>** Alembic **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

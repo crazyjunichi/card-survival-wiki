@@ -3,7 +3,7 @@
   
   人鱼巢  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+100<br><br>** 区域唯一 **  |  ![](Sprite/MermaidNest.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+100<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/MermaidNest.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

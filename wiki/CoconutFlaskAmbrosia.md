@@ -3,7 +3,7 @@
   
   神赐壶  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/CoconutFlask.png)   
+ **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/CoconutFlask.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

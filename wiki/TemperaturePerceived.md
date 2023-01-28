@@ -1,4 +1,6 @@
 # 体感温度  
+>   
+  
 变化范围: -80 ~ 80  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -13,14 +15,14 @@
 -10 ～ -3  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">非常冷  |    |  [失温](Hypothermia.md)加成+28  |    
 -35 ～ -11  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">寒冷  |    |  [失温](Hypothermia.md)加成+32  |    
 -80 ～ -36  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">极端寒冷  |    |  [失温](Hypothermia.md)加成+40  |    
+## 关联状态  
+[耐力](Stamina.md)  |  [湿度](Wetness.md)  |  [辣椒素](Capsaicin.md)  |  [睡眠钟](SleepClock.md)  |  [季节](Seasons.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [椰子凉鞋](CoconutSandals.md)  |  被动  |  加成0  
 [人字拖](Flipflops.md)  |  被动  |  加成0  
 [夏威夷衬衫](HawaiianShirt.md)  |  被动  |  加成0  
-## 关联状态  
-[耐力](Stamina.md)  |  [湿度](Wetness.md)  |  [辣椒素](Capsaicin.md)  |  [睡眠钟](SleepClock.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

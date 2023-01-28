@@ -3,7 +3,7 @@
   
   东部草原  |   图片   
  ----  |  ----:   
- **标签：**	[“干燥环境”](tag_EnvDry.md), [“肥沃环境”](tag_EnvFertile.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md), [“浅水域”](tag_MonitorTerritory.md)<br><br>**初始：**	[东部草原](GrasslandsE.md)<br><br>** 效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10  |  ![](Sprite/Jungle.png)   
+ **标签：**	[“干燥环境”](tag_EnvDry.md), [“肥沃环境”](tag_EnvFertile.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md), [“浅水域”](tag_MonitorTerritory.md)<br><br>**初始：**	[东部草原](GrasslandsE.md)<br><br>** 效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

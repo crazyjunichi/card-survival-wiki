@@ -1,9 +1,11 @@
 # 茉莉蜡烛  
 > 一个便携光源。气味非常非常香。  
+<br>  
+> 芳香蜡烛，可以用来增加一个地区的舒适度。它们美妙的香气有助于遮盖难闻的气味、减轻压力，提升情绪。<br><br>要制作它们，你需要研磨茉莉花，将它们与油混合并煮沸。然后配合脂肪或蜡通过对应的蓝图制作蜡烛。  
   
   茉莉蜡烛  |   图片   
  ----  |  ----:   
- **重量：**25  |  ![](Sprite/CandleOffJasmine.png)   
+ **重量：**25  |  <img decoding="async" src="Sprite/CandleOffJasmine.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

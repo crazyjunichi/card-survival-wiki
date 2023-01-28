@@ -1,4 +1,6 @@
 # 精神失常  
+> 当你的<b>世界观</b>变得低迷，你的精神状态会开始逐渐失常。精神失常也能通过<b>入迷、冥想或者精神药物</b>如<b>迷幻菇</b>来实现。<br><br>如果你的精神状态过于失常，你将需要更长的时间去做大多数的行动，并且有触发强烈的<b>灵性事件</b>的风险。  
+  
 变化范围: 0 ~ 300  
 基础变化率: -1 / 每15分钟  
 ## 阶段  
@@ -8,12 +10,12 @@
 101 ～ 150  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  肯定有什么不对劲。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-2  |    
 151 ～ 250  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  一切都感觉变了样。  |  [关系层](RelationalLayer.md)+1<br>[精神失常](MindState.md)加成-4  |    
 251 ～ 300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">精神失常  |  ……  |  [关系层](RelationalLayer.md)加成+2<br>[精神失常](MindState.md)加成-6  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>时间+1  
+## 关联状态  
+[疼痛](Pain.md)  |  [发烧](Fever.md)  |  [世界观](Structure.md)  |  [失实症](Derealization.md)  |  [狂躁](Mania.md)  |  [清醒度](Wakefulness.md)  |  [野营热病](BacteriaTyphus.md)  |  [孤独感](Loneliness.md)  |  [监视者的凝视](WatchersGlare.md)  |  [猎手接近](HuntersProximity.md)  |  [孤立感](Isolation.md)  |  [蛇床子素](Psylocibin.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [黑暗](DarkChamber.md)  |  条件被动  |  加成+2  
-## 关联状态  
-[发烧](Fever.md)  |  [世界观](Structure.md)  |  [失实症](Derealization.md)  |  [疼痛](Pain.md)  |  [狂躁](Mania.md)  |  [清醒度](Wakefulness.md)  |  [野营热病](BacteriaTyphus.md)  |  [孤独感](Loneliness.md)  |  [孤立感](Isolation.md)  |  [监视者的凝视](WatchersGlare.md)  |  [蛇床子素](Psylocibin.md)  |  [猎手接近](HuntersProximity.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

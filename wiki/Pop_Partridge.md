@@ -9,7 +9,7 @@
 20001 ～ 30000  |  高密度  |    |  [灰山鹑种群数量](Pop_Partridge.md)加成+4  |    
 30001 ～ 40000  |  超高密度  |    |  [灰山鹑种群数量](Pop_Partridge.md)加成+5  |    
 ## 关联状态  
-[眼镜蛇种群数量](Pop_Cobra.md)  |  [巨蜥种群数量](Pop_Monitor.md)  
+[眼镜蛇种群数量](Pop_Cobra.md)  |  [海蛇种群数量](Pop_Krait.md)  |  [巨蜥种群数量](Pop_Monitor.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

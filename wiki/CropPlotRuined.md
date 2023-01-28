@@ -1,9 +1,11 @@
 # 毁坏的田地  
 > 这片植物枯死了，我应该打一些农药来保护它的健康……  
+<br>  
+>   
   
   毁坏的田地  |   图片   
  ----  |  ----:   
- **标签：**	[“农作物”](tag_Crop.md)  |  ![](Sprite/CropPlotRuined.png)   
+ **标签：**	[“农作物”](tag_Crop.md)  |  <img decoding="async" src="Sprite/CropPlotRuined.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

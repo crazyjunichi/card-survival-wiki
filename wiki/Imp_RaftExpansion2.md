@@ -1,9 +1,11 @@
 # 扩建木筏  
 > 有更多的空间来存放东西！  
+<br>  
+>   
   
   扩建木筏  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)  |  ![](Sprite/Expansion.png)   
+ ** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)  |  <img decoding="async" src="Sprite/Expansion.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

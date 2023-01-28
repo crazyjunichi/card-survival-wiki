@@ -1,9 +1,11 @@
 # 棕榈酒  
 > 镇痛解忧，唯有美酒。  
+<br>  
+> 棕榈酒是一种易于制作的酒精饮料，通过让发酵<b>水椰树汁</b>获得。<br><br>味道不错，可以用来提高<b>情绪和勇气</b>，麻痹<b>疼痛</b>，减轻<b>压力</b>。<br><br>不要过度饮酒，因为过量的酒精会导致<b>身体脱水</b>并使你感到<b>恶心</b>。  
   
   棕榈酒  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

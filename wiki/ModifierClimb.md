@@ -4,9 +4,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  ModifierClimb_Statuses[0].GameName  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-1<br>时间+1  
-2 ～ 2  |  ModifierClimb_Statuses[1].GameName  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-2<br>时间+2  
-3 ～ 3  |  ModifierClimb_Statuses[2].GameName  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-4<br>时间+4  
+1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-1<br>时间+1  
+2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-2<br>时间+2  
+3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-4<br>时间+4  
+## 关联状态  
+[怀孕](Pregnancy.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

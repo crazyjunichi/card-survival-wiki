@@ -1,9 +1,11 @@
 # 眼镜蛇尸体  
 > 一条死蛇。应该先给它剥皮。  
+<br>  
+> 在岛上的<b>草原和高地</b>上可以找到这些爬行动物。<br><br>虽然不是特别危险，但如果不用大量的<b>水</b>快速冲洗，它们的喷吐会造成剧烈的疼痛和永久性的眼部损伤。  
   
   眼镜蛇尸体  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/SpittingCobraCarcass.png)   
+ **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/SpittingCobraCarcass.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

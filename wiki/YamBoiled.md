@@ -1,9 +1,11 @@
 # 煮熟的参薯  
 > 可以吃了。  
+<br>  
+> 这些有毒的块茎作物可以在岛上的<b>丛林</b>中找到。<br>它们可以通过切块并浸泡在任何水（盐、新鲜或不安全的水）中然后煮熟来食用。<br><br>如果未经任何加工可以存放更长时间。它营养丰富，可用于多种<b>烹饪食谱</b>中，是非常优秀的主食。  
   
   煮熟的参薯  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/YamBoiled.png)   
+ **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/YamBoiled.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

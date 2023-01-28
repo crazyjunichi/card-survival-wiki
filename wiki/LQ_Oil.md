@@ -1,9 +1,11 @@
 # 油  
 > 膳食结构的重要组成部分。  
+<br>  
+> 油可以通过煮沸<b>椰奶</b>获得，而椰奶可以通过把<b>椰肉</b>放入任何碗里捣碎制成。<br><br>它是很多<b>烹饪食谱</b>的必需品，也可用于制作<b>香薰蜡烛</b>和其他东西。  
   
   油  |   图片   
  ----  |  ----:   
- **标签：**	[“油”](tag_Oil.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“油”](tag_Oil.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

@@ -3,12 +3,12 @@
   
   夏威夷衬衫  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“躯干（内层）”](tag_InnerTorso.md), [“躯干（外层）”](tag_OuterTorso.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“衬衫”](eTag_Shirt.md)<br><br>**可使用次数：**2400<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)<br>[阳光防护](SunProtection.md)+1<br>[蚊虫防护](BugProtection.md)+1<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  ![](Sprite/HawaiianShirt.png)   
+ **重量：**150<br><br>**标签：**	[“躯干（内层）”](tag_InnerTorso.md), [“躯干（外层）”](tag_OuterTorso.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“衬衫”](eTag_Shirt.md)<br><br>**可使用次数：**2400<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)<br>[阳光防护](SunProtection.md)+1<br>[蚊虫防护](BugProtection.md)+1<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  <img decoding="async" src="Sprite/HawaiianShirt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>[布](Cloth.md)(+2)<br>基础权重：1<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  消失<br>** Cloth **<br>  [布](Cloth.md)(+2)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

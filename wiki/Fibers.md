@@ -1,9 +1,11 @@
 # 纤维  
 > 可以把它和更多的纤维编织成细线。也可以用作火绒。  
+<br>  
+> 植物纤维可以从<b>蛇草或椰子皮</b>中提取。<br><br>这是一种生存必需的材料：将两份纤维编织在一起，制成<b>细线</b>，用途非常广泛。<br><br>另外，你也可以使用<b>手钻</b>点燃纤维，并将其用作火绒点燃<b>火源</b>。  
   
   纤维  |   图片   
  ----  |  ----:   
- **重量：**20<br><br>**标签：**	[“抗裂剂”](tag_Temper.md), [“火绒”](tag_Tinder.md)  |  ![](Sprite/FiberBark.png)   
+ **重量：**20<br><br>**标签：**	[“抗裂剂”](tag_Temper.md), [“火绒”](tag_Tinder.md)  |  <img decoding="async" src="Sprite/FiberBark.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

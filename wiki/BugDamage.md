@@ -9,7 +9,7 @@
 4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">很高的蚊虫叮咬  |    |  [蚊虫叮咬](BugBites.md)加成+5<br>[疟疾寄生虫](ParasiteMalaria.md)加成+8  |    
 5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">极高的蚊虫叮咬  |    |  [蚊虫叮咬](BugBites.md)加成+5<br>[疟疾寄生虫](ParasiteMalaria.md)加成+12  |    
 ## 关联状态  
-[蚊虫防护](BugProtection.md)  |  [蚊虫数量](BugPopulation.md)  
+[蚊虫数量](BugPopulation.md)  |  [蚊虫防护](BugProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

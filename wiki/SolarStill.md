@@ -1,9 +1,11 @@
 # 太阳能蒸馏器  
 > 我应该用棕榈叶来填满它，而后在里面放一个储水容器。  
+<br>  
+> 太阳能蒸馏器是一种能让你从<b>新鲜树叶中提取淡水</b>的巧妙的装置。<br><br>你需要<b>塑料布</b>并且用<b>一些小石头</b>来压住来建造。<br><br>建造完毕后你需要往里面放入新鲜树叶或叶片然后在底下放置一个容器来慢慢收集水分。这些树叶需要不断地被填充要不然蒸馏器会停止运作。  
   
   太阳能蒸馏器  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/SolarStill.png)   
+ **槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |  [光亮](Light.md): 10-100  |  消失<br>[塑料布](PlasticSheet.md)(+1)<br>[石头](Stone.md)(+5)<br>基础权重：1<br>  |    
+拆解<br>  |  -  |  [光亮](Light.md): 10-100  |  消失<br>** Plastic Sheet **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [石头](Stone.md)(+5)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

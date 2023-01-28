@@ -3,7 +3,7 @@
   
   风箱  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[窑炉](Kiln.md)<br>[窑炉(熄灭)](KilnExtinguished.md)<br>[高级窑炉](KilnAdvanced.md)<br>[高级窑炉(熄灭)](KilnAdvancedExtinguished.md)<br>[熔炉](Forge.md)<br>[熔炉(熄灭)](ForgeExtinguished.md)  |  ![](Sprite/Bellows.png)   
+ ** 解锁需求: **<br>[窑炉](Kiln.md)<br>[窑炉(熄灭)](KilnExtinguished.md)<br>[高级窑炉](KilnAdvanced.md)<br>[高级窑炉(熄灭)](KilnAdvancedExtinguished.md)<br>[熔炉](Forge.md)<br>[熔炉(熄灭)](ForgeExtinguished.md)  |  <img decoding="async" src="Sprite/Bellows.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

@@ -1,9 +1,11 @@
 # 高级窑炉  
 > 我可以用火种重新引燃它。  
+<br>  
+> 一种高级的窑炉，主要用于烧制粘土。它升温更快，可以达到更高的温度并且内部空间更大。<br>它的高温可以熔炼铜矿石，兼具熔炉的作用。<br><br>要建造高级窑炉，您首先需要准备<b>沙子、砂浆、粘土和泥砖</b>。<br><br>除了烧制粘土之外，窑炉还可以用<b>木材</b>烧制<b>木炭</b>，也可以将<b>石头或海螺</b>烧制成<b>生石灰</b>。  
   
   高级窑炉  |   图片   
  ----  |  ----:   
- **槽位：**6<br><br>**过滤器：**[“粘土”](tag_Clay.md) , [“贝壳”](tag_Seashell.md) , [“铜制大物件”](tag_CopperBig.md) , [“铜制小物件”](tag_CopperSmall.md)  |  ![](Sprite/AdvancedKiln.png)   
+ **槽位：**6<br><br>**过滤器：**[“粘土”](tag_Clay.md) , [“贝壳”](tag_Seashell.md) , [“铜制大物件”](tag_CopperBig.md) , [“铜制小物件”](tag_CopperSmall.md)  |  <img decoding="async" src="Sprite/AdvancedKiln.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  消失<br>[干土堆](DirtPile.md)(+14)<br>  |    
+拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  消失<br>** 1 **<br>  [干土堆](DirtPile.md)(+14)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 临时防毒面具  
 > 这块布有助于稍微抵消有毒气体带来的伤害。尤其是在打湿了之后。<br><br><b>必须装备在装备栏才能生效</b>  
+<br>  
+> 用<b>大块湿布</b>遮住口鼻可以保护自己免受有毒气体的侵害。  
   
   临时防毒面具  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[保温](InsulationCold.md)+2<br>[空气毒性](AirToxicity.md)-2<br>[体感温度](TemperaturePerceived.md)+5  |  ![](Sprite/MakeshiftMask.png)   
+ **重量：**100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**288<br><br>** 效果: **<br>[保温](InsulationCold.md)+2<br>[空气毒性](AirToxicity.md)-2<br>[体感温度](TemperaturePerceived.md)+5  |  <img decoding="async" src="Sprite/MakeshiftMask.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

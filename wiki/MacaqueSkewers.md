@@ -1,9 +1,11 @@
 # 猕猴肉串  
 > 太美味了！  
+<br>  
+>   
   
   猕猴肉串  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)  |  ![](Sprite/MacaqueSkewers.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)  |  <img decoding="async" src="Sprite/MacaqueSkewers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

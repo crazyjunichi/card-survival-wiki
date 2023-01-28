@@ -1,9 +1,11 @@
 # 月季花茶  
 > 安神静心，美味清甜。  
+<br>  
+> 月季可以在该岛的<b>丛林高地</b>中找到。<br><br>它的花是可食用的，也可以浸泡在开水中制成一种特殊的<b>茶</b>，具有放松和增强免疫系统的特性。<br><br>它们也可以<b>穿</b>在你的头发上或被蜜蜂用来制作<b>蜂蜜</b>。<br>  
   
   月季花茶  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

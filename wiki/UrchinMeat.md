@@ -1,9 +1,11 @@
 # 海胆肉  
 > 黏糊糊的，做熟后味道会更好。  
+<br>  
+> 海胆是一种与海星有亲缘关系的带刺动物。它们可以在岛上的<b>岩滩</b>以及<b>潮汐池</b>中找到。<br><br>在它们的栖息地附近拾海时，建议穿戴足部保护装备，因为踩到它们会导致易<b>感染</b>的<b>疼痛</b>伤口，让你<b>行走</b>更加困难。如果你不幸踩到了，请尽快将刺从伤口上取下来。  
   
   海胆肉  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/UrchinMeat.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/UrchinMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

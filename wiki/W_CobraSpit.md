@@ -1,9 +1,11 @@
 # 眼镜蛇毒液  
 > 卧槽疼死了，赶紧用水把它洗掉！  
+<br>  
+> 在岛上的<b>草原和高地</b>上可以找到这些爬行动物。<br><br>虽然不是特别危险，但如果不用大量的<b>水</b>快速冲洗，它们的喷吐会造成剧烈的疼痛和永久性的眼部损伤。  
   
   眼镜蛇毒液  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**装备：**[“眼镜蛇射毒”](eTag_WCobraSpit.md)  |  ![](Sprite/Eyes.png)   
+ **重量：**0<br><br>**装备：**[“眼镜蛇射毒”](eTag_WCobraSpit.md)  |  <img decoding="async" src="Sprite/Eyes.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

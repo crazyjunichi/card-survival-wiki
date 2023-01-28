@@ -1,9 +1,11 @@
 # 木床  
 > 一张结实又舒服的木床。我的背会好受些。  
+<br>  
+> 一张非常舒适的床，由木板和大布毯制成，甚至附带一个羽毛枕头！！对你的背和睡眠质量都非常有好处。  
   
   木床  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  ![](Sprite/Bed.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Bed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

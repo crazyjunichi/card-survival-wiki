@@ -1,9 +1,11 @@
 # 未烹饪的椰子鱼  
 > 下一步是放火上烹饪。  
+<br>  
+> 一道简单、美味、营养丰富的菜肴。需要一个<b>烹饪锅</b>，可以用任何<b>鱼、蔬菜</b>和一些<b>椰奶</b>来制作。  
   
   未烹饪的椰子鱼  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/CookingPotClosed.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

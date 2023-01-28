@@ -3,7 +3,7 @@
   
   坠落！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/WeatherPartiallyCloudy_Full.png)   
+   |  <img decoding="async" src="Sprite/WeatherPartiallyCloudy_Full.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -27,4 +27,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错<br>  |  -  |    |  消失<br>[右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：2<br><br>[左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：2<br><br>[右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>[左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  
+真他妈不错<br>  |  -  |    |  消失<br>** Arm R **<br>  [右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：2<br><br>** Arm L **<br>  [左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：2<br><br>** Leg R **<br>  [右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>** Leg L **<br>  [左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  

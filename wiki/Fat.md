@@ -1,9 +1,11 @@
 # 脂肪  
 > 一大块脂肪  
+<br>  
+> 脂肪是一种非常有用的材料和食物，从大型动物的尸体（如<b>野猪和山羊</b>）中获取。<br><br>它可以用于多种<b>烹饪食谱</b>，和许多手工制品，如<b>蜡烛和水袋</b>。  
   
   脂肪  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂”](tag_Meat.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  ![](Sprite/Fat.png)   
+ **重量：**100<br><br>**标签：**	[“喂”](tag_Meat.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/Fat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

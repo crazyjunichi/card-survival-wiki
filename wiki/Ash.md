@@ -1,9 +1,11 @@
 # 灰烬  
 > 可以用作粘土或者泥巴的抗裂剂。  
+<br>  
+> 灰烬既可以用作粘土或泥的抗裂剂，也可以包在布片中制作伤口敷料，还可以制作碱液：制作肥皂的关键成分。<br>你可以通过碾碎木炭或从熄灭的火堆中得到灰烬。  
   
   灰烬  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“抗裂剂”](tag_Temper.md)  |  ![](Sprite/Ash.png)   
+ **重量：**10<br><br>**标签：**	[“抗裂剂”](tag_Temper.md)  |  <img decoding="async" src="Sprite/Ash.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 左臂骨折  
 > 太痛了……  
+<br>  
+> 骨折最常见于<b>从高处坠落</b>。<br><br>这是一种剧烈疼痛的外伤，会<b>长时间使你的胳膊或腿残废</b>。<br>当你手或者腿骨折时，一些基本的任务，比如<b>手工制作和行走</b>，会花费<b>更多的时间</b>。<br><br>要治疗骨折，最好的方法是<b>用夹板固定肢体</b>直到骨头愈合。<b>芦荟膏</b>涂抹于患处，可以减轻一些疼痛。  
   
   左臂骨折  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左臂骨折”](eTag_WArmFractureL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  ![](Sprite/SprainedWrist.png)   
+ **重量：**0<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左臂骨折”](eTag_WArmFractureL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/SprainedWrist.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

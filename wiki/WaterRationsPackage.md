@@ -3,7 +3,7 @@
   
   应急水袋  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**可使用次数：**6  |  ![](Sprite/WaterRationsPackage.png)   
+ **重量：**500<br><br>**可使用次数：**6  |  <img decoding="async" src="Sprite/WaterRationsPackage.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出应急水包<br>  |  -  |    |  使用次数  -1<br>[应急水包](WaterRation.md)(+1)<br>基础权重：1<br>  |    
+取出应急水包<br>  |  -  |    |  使用次数  -1<br>** Water **<br>  [应急水包](WaterRation.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

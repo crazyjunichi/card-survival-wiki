@@ -1,9 +1,11 @@
 # 树叶  
 > 可以喂动物、堆肥或者干燥后作为火绒。  
+<br>  
+> 用于制作<b>树叶床</b>，干燥后可用作火绒。<br><br>它们可以通过探索<b>丛林</b>的干燥地区或砍伐<b>树木及枣树丛</b>获得。  
   
   树叶  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md)  |  ![](Sprite/Leaves.png)   
+ **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md)  |  <img decoding="async" src="Sprite/Leaves.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

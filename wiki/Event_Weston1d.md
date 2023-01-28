@@ -3,7 +3,7 @@
   
   韦斯顿  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Weston.png)   
+   |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

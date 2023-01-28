@@ -1,9 +1,11 @@
 # 乳清  
 > 一种奶酪副产品。  
+<br>  
+>   
   
   乳清  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

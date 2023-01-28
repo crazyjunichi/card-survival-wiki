@@ -1,9 +1,11 @@
 # 砂浆  
 > 绝佳的建筑材料  
+<br>  
+>   
   
   砂浆  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/Mortar.png)   
+ **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

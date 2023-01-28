@@ -3,7 +3,7 @@
   
   猕猴肉串  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[猕猴肉](MacaqueMeat.md)  |  ![](Sprite/MacaqueSkewers.png)   
+ ** 解锁需求: **<br>[猕猴肉](MacaqueMeat.md)  |  <img decoding="async" src="Sprite/MacaqueSkewers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

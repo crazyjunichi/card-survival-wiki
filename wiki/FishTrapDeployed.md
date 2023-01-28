@@ -1,9 +1,11 @@
 # 捕鱼陷阱  
 > 我应该稍后再来检查是否有鱼。  
+<br>  
+> 一种设计巧妙的篮状的陷阱用来轻松地捕获<b>鱼与贝类</b>。<br><br>这种陷阱并不需要<b>诱饵</b>，然而必须得放置在沿海区域。<br><b>暴风雨</b>会摧毁它们所以要千万记得在<b>湿润季节</b>中把它们捡起来。  
   
   捕鱼陷阱  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/FishTrap.png)   
+ **槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

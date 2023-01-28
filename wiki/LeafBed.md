@@ -1,9 +1,11 @@
 # 叶床  
 > 比窝棚更舒服。<br>需要时不时添加新叶子确保它完好。  
+<br>  
+> 一张由<b>树叶</b>制成的简易床。在睡觉时可以防<b>虫</b>，而且比睡在简单的<b>窝棚</b>上更舒适。<br><br>它也可以与<b>窝棚</b>组合，从而兼具两种寝具的优点。  
   
   叶床  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/LeafBed.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/LeafBed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 石刀  
 > 实用的工具，可以把长木棍削成长矛，或者和木材组合成斧子。  
+<br>  
+> 一把<b>石刀</b>，通常在<b>大石块</b>上打磨而成。<br>你也可以在小一点的石头上打磨它，但这会花费更长的时间，对你的手损伤也更大。<br><br>磨制的石头可以作为切割工具，也可以用来制作<b>石斧</b>。可惜它们并不是特别锋利，无法完成更复杂的任务，比如木工活。  
   
   石刀  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**20  |  ![](Sprite/StoneSharpened.png)   
+ **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**20  |  <img decoding="async" src="Sprite/StoneSharpened.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

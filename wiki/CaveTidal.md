@@ -3,7 +3,7 @@
   
   潮汐洞  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  ![](Sprite/TidalCave.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/TidalCave.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

@@ -3,7 +3,7 @@
   
   木筏  |   图片   
  ----  |  ----:   
- **标签：**	[“干燥环境”](tag_EnvDry.md)<br><br>**容重量：**7000<br><br>**初始：**	[木筏](Raft.md)<br><br>** 效果: **<br>[光亮](Light.md)+10<br>[内陆恐惧症](LandSickness.md)加成-8  |  ![](Sprite/Raft.png)   
+ **标签：**	[“干燥环境”](tag_EnvDry.md)<br><br>**容重量：**7000<br><br>**初始：**	[木筏](Raft.md)<br><br>** 效果: **<br>[光亮](Light.md)+10<br>[内陆恐惧症](LandSickness.md)加成-8  |  <img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

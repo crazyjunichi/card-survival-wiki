@@ -1,9 +1,11 @@
 # 肥料  
 > 可以滋养作物。  
+<br>  
+>   
   
   肥料  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“肥料”](tag_Fertilizer.md)  |  ![](Sprite/FineDirt.png)   
+ **重量：**100<br><br>**标签：**	[“肥料”](tag_Fertilizer.md)  |  <img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

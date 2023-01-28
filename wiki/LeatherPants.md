@@ -1,9 +1,11 @@
 # 皮裤  
 > 穿起来有点热，不过能保护我的腿。<br><br><b>必须装备在装备栏才能生效</b>  
+<br>  
+>   
   
   皮裤  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**5376<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+3<br>[阳光防护](SunProtection.md)+1<br>[蚊虫防护](BugProtection.md)+1<br>[腿部防护](LegProtection.md)+6<br>[护甲](Armor.md)+10<br>[蜂蛰防护](BeeProtection.md)+3<br>[世界观](Structure.md)加成+0.1  |  ![](Sprite/LeatherPants.png)   
+ **重量：**250<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**5376<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+3<br>[阳光防护](SunProtection.md)+1<br>[蚊虫防护](BugProtection.md)+1<br>[腿部防护](LegProtection.md)+6<br>[护甲](Armor.md)+10<br>[蜂蛰防护](BeeProtection.md)+3<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/LeatherPants.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>[鞣制兽皮](CuredSkin.md)(+4)<br>[细线](CordFiber.md)(+6)<br>基础权重：1<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>** Leather **<br>  [鞣制兽皮](CuredSkin.md)(+4)<br>  [细线](CordFiber.md)(+6)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

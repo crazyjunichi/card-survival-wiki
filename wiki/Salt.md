@@ -1,9 +1,11 @@
 # 盐  
 > 可以用来腌鱼和肉来长期保存。  
+<br>  
+> 盐作为一种矿物质，可以通过在营火上煮干海水获得。<br><br>盐可以用于很多<b>烹饪食谱</b>，亦或是腌制保存<b>鱼和肉</b>。  
   
   盐  |   图片   
  ----  |  ----:   
- **重量：**15  |  ![](Sprite/Salt.png)   
+ **重量：**15  |  <img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

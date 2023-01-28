@@ -3,7 +3,7 @@
   
   灰山鹑喂食器  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[雌灰山鹑](PartridgeFemaleEnclosure.md)<br>[雄灰山鹑](PartridgeMaleEnclosure.md)  |  ![](Sprite/Feeder.png)   
+ ** 解锁需求: **<br>[雌灰山鹑](PartridgeFemaleEnclosure.md)<br>[雄灰山鹑](PartridgeMaleEnclosure.md)  |  <img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

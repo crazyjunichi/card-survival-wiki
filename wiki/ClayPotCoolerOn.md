@@ -1,9 +1,11 @@
 # 保鲜罐  
 > 里面的食物可以储藏的更久。  
+<br>  
+> 利用液体蒸发吸热的原理，这种双层陶瓷装置可以保持食物凉爽，从而保鲜更久。<br>确保定期给设备添水，因为它需要<b>水</b>才能工作。<br><br>要制作它，你需要<b>粘土、沙子和一块大布</b>。  
   
   保鲜罐  |   图片   
  ----  |  ----:   
- **标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“喂/添加”](tag_Feed.md) , [“可烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容重量：**1500<br><br>**减重量：**-1500<br><br>** 可重命名 **  |  ![](Sprite/ClayPotCooler.png)   
+ **标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“喂/添加”](tag_Feed.md) , [“可烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容重量：**1500<br><br>**减重量：**-1500<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/ClayPotCooler.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

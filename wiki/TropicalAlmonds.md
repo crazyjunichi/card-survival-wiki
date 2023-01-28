@@ -1,9 +1,11 @@
 # 热带杏仁  
 > 需要一些工具来剥开它们。  
+<br>  
+>   
   
   热带杏仁  |   图片   
  ----  |  ----:   
- **重量：**50  |  ![](Sprite/TropicalAlmond.png)   
+ **重量：**50  |  <img decoding="async" src="Sprite/TropicalAlmond.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

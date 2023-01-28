@@ -3,10 +3,10 @@
   
   一头巨蜥！  |   图片   
  ----  |  ----:   
- **标签：**	[“战斗事件”](tag_FightEvent.md)  |  ![](Sprite/MonitorEvent.png)   
+ **标签：**	[“战斗事件”](tag_FightEvent.md)  |  <img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随它吧<br>  |  -  |    |  消失<br>[(事件)巨蜥](Event_MonitorRummaging.md)(+1)<br>  |    
-嘿！<br>  |  -  |    |  消失<br>[(事件)一头巨蜥！](Event_MonitorFight.md)(+1)<br>  |    
+随它吧<br>  |  -  |    |  消失<br>** Rummage **<br>  [(事件)巨蜥](Event_MonitorRummaging.md)(+1)<br>  |    
+嘿！<br>  |  -  |    |  消失<br>** Fight **<br>  [(事件)一头巨蜥！](Event_MonitorFight.md)(+1)<br>  |    

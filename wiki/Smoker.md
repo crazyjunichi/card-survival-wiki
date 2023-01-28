@@ -3,7 +3,7 @@
   
   烟熏炉  |   图片   
  ----  |  ----:   
- **槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/SmokerFire.png)   
+ **槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  <img decoding="async" src="Sprite/SmokerFire.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,9 +12,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  -  |    |  燃料  -4<br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
+取出火炭<br>  |  -  |    |  燃料  -4<br>** Embers **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [烟熏炉(熄灭)](SmokerExtinguished.md)  |    
-移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br>[烟熏炉(无火)](SmokerNoFire.md)(+1)<br>基础权重：1<br>  |    
+移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br>**  **<br>  [烟熏炉(无火)](SmokerNoFire.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -3,7 +3,7 @@
   
   小猪  |   图片   
  ----  |  ----:   
- **重量：**750<br><br>**标签：**	[“山羊”](tag_Goat.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**192  |  ![](Sprite/BoarPigletTied.png)   
+ **重量：**750<br><br>**标签：**	[“山羊”](tag_Goat.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**192  |  <img decoding="async" src="Sprite/BoarPigletTied.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

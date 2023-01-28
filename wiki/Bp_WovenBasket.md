@@ -3,7 +3,7 @@
   
   编织篓  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[棕榈编织物](WeavePalm.md)  |  ![](Sprite/Basket.png)   
+ ** 解锁需求: **<br>[棕榈编织物](WeavePalm.md)  |  <img decoding="async" src="Sprite/Basket.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

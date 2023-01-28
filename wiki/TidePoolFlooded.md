@@ -1,9 +1,11 @@
 # 被淹没的潮汐池  
 > 可以在落潮时段拾海。  
+<br>  
+> 在<b>多岩的海滩</b>地区，潮水经常会流入岩石围成的水池中。<br><br><b>涨潮</b>时池子将会被淹没，而在退潮时，大量的<b>虾、螃蟹之类的东西</b>将被困在水池的水中。<br><br>因此潮汐池是<b>不错的可再生食物来源</b>。<br><br>不过，海水的气味会引起一些不适，所以不建议在附近安营扎寨。  
   
   被淹没的潮汐池  |   图片   
  ----  |  ----:   
- **环境：**[岩滩](Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[不适](Discomfort.md)+100  |  ![](Sprite/TidePoolFlooded.png)   
+ **环境：**[岩滩](Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[不适](Discomfort.md)+100  |  <img decoding="async" src="Sprite/TidePoolFlooded.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

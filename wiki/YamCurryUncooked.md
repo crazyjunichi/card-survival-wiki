@@ -1,9 +1,11 @@
 # 未烹饪的参薯咖喱  
 > 下一步是放火上烹饪。  
+<br>  
+> 用<b>烹饪锅</b>制作的美味可口菜肴。<br><br>取<b>辣椒和煮好的参薯</b>，搭配以<b>油或脂肪</b>，然后在<b>火炉上烹饪 45 分钟</b>。<br><br>这道菜里的参薯是不错的主食，而辣椒则增加了一丝香辣的口感！  
   
   未烹饪的参薯咖喱  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/CookingPotClosed.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

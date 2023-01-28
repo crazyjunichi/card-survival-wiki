@@ -3,7 +3,7 @@
   
   拿下了！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Seagull.png)   
+   |  <img decoding="async" src="Sprite/Seagull.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -26,4 +26,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>[海鸥尸体](SeagullDead.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  
+继续<br>  |  -  |    |  消失<br>** Seagull Carcass **<br>  [海鸥尸体](SeagullDead.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  

@@ -1,9 +1,11 @@
 # 糖  
 > 水椰糖，很好吃。  
+<br>  
+> 糖可以通过简单地煮沸<b>水椰树汁</b>来制成。<br><br>它是一种用途丰富的食物，可以用于多种<b>烹饪食谱</b>或混合制成<b>糖水</b>，可以用来喂养<b>蜜蜂</b>或发酵成<b>糖酒</b>，一种高烈度的酒精饮料。  
   
   糖  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  ![](Sprite/PalmSugar.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/PalmSugar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

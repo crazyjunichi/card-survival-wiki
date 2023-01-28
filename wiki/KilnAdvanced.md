@@ -1,9 +1,11 @@
 # 高级窑炉  
 > 当温度达到足够高的时候，可以在其中烧制粘土  
+<br>  
+> 一种高级的窑炉，主要用于烧制粘土。它升温更快，可以达到更高的温度并且内部空间更大。<br>它的高温可以熔炼铜矿石，兼具熔炉的作用。<br><br>要建造高级窑炉，您首先需要准备<b>沙子、砂浆、粘土和泥砖</b>。<br><br>除了烧制粘土之外，窑炉还可以用<b>木材</b>烧制<b>木炭</b>，也可以将<b>石头或海螺</b>烧制成<b>生石灰</b>。  
   
   高级窑炉  |   图片   
  ----  |  ----:   
- **槽位：**6<br><br>**过滤器：**[“粘土”](tag_Clay.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  ![](Sprite/AdvancedKilnLit.png)   
+ **槽位：**6<br><br>**过滤器：**[“粘土”](tag_Clay.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  <img decoding="async" src="Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

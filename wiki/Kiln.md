@@ -1,9 +1,11 @@
 # 窑炉  
 > 当温度达到足够高的时候，可以在其中烧制粘土  
+<br>  
+> 一种基本的土窑，主要用于烧制粘土。点燃后会开始升温，当达到足够的温度后，里面的所有物品都会被烧制处理。<br><br>要<b>建造</b>窑炉，你首先需要制作<b>泥砖</b>，可以通过将<b>泥</b>与诸如<b>沙子、纤维、灰烬或碎海螺</b>之类的抗裂剂结合起来制成。<br><br>除了烧制粘土之外，窑还可以用<b>木材</b>烧制<b>木炭</b>，也可以将<b>石头或海螺</b>烧制成<b>生石灰</b>。  
   
   窑炉  |   图片   
  ----  |  ----:   
- **槽位：**3<br><br>**过滤器：**[“粘土”](tag_Clay.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  ![](Sprite/KilnLit.png)   
+ **槽位：**3<br><br>**过滤器：**[“粘土”](tag_Clay.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  <img decoding="async" src="Sprite/KilnLit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

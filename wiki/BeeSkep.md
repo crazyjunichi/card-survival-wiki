@@ -1,9 +1,11 @@
 # 蜂箱  
 > 一个人造蜂巢。喂糖水给蜜蜂们可以帮助它们繁衍生存。  
+<br>  
+> <b>蜂箱</b>是一种人工蜂巢，需要由<b>棕榈编织片、泥土和粪便</b>制成，然后需要放入<b>巢脾</b>、蜂王和一些蜜蜂。<br>一旦你有了一个蜂巢，你就要确保该地区长了足够的花，让蜜蜂可以生产足够的蜂蜜来养活自己。你也可以给蜜蜂喂混合了<b>糖或蜂蜜</b>的<b>水</b>，这样它们的蜂蜜储备增长得更快。<br><br>一旦蜜蜂达到最大数量，它们就会<b>繁殖</b>。这时可以用一个袋子捕捉多余的蜜蜂和它们的蜂后，并用它们来制作一个新的蜂箱。<br>处理蜜蜂时，考虑使用<b>熏蜂器和防蜂服</b>，否则你会被蜇得很惨。  
   
   蜂箱  |   图片   
  ----  |  ----:   
- **可使用次数：**336  |  ![](Sprite/SkepBees.png)   
+ **可使用次数：**336  |  <img decoding="async" src="Sprite/SkepBees.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>[巢脾](BeeHoneycomb.md)(+2)<br>[(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>[巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** Beehive **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  [(事件)一群蜜蜂！](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** Beehive **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -3,7 +3,7 @@
   
   粘土火盆  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[木筏](RaftEntrance.md)  |  ![](Sprite/ClayFirePitExtinguished.png)   
+ ** 解锁需求: **<br>[木筏](RaftEntrance.md)  |  <img decoding="async" src="Sprite/ClayFirePitExtinguished.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

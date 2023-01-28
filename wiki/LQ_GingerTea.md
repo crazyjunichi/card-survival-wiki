@@ -1,9 +1,11 @@
 # 姜茶  
 > 有助于缓解恶心，对健康有诸多好处，有抗生素的功效。  
+<br>  
+> 它的根可以食用，对健康有诸多好处。<br><br>把它捣碎用开水浸泡，就可以泡出一种能够舒缓肠胃的活力姜茶，有助于减少<b>恶心和腹泻</b>，增加<b>食欲</b>，降低对其他食物的<b>厌倦度</b>。  
   
   姜茶  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

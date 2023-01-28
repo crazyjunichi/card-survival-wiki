@@ -3,7 +3,7 @@
   
   巧克力  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/Chocolate.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/Chocolate.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

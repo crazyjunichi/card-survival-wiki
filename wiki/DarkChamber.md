@@ -3,7 +3,7 @@
   
   黑暗  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 区域唯一 **  |  ![](Sprite/Darkness.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

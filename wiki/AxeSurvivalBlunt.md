@@ -3,7 +3,7 @@
   
   钝的求生斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/SurvivalAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/SurvivalAxe.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

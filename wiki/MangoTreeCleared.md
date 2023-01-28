@@ -1,9 +1,11 @@
 # 摘光的芒果树  
 > 芒果还是会生长出来的。  
+<br>  
+>   
   
   摘光的芒果树  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/MangoTreeCleared.png)   
+   |  <img decoding="async" src="Sprite/MangoTreeCleared.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

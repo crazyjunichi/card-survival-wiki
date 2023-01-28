@@ -4,7 +4,7 @@
 
 [角色]()
 
--   [初始角色](character_preset.md)
+-   [可选角色](character_preset.md)
 -   [角色特性](pk.md)
 
 [物品]()

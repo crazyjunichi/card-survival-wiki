@@ -1,9 +1,11 @@
 # 参薯酱  
 > 一大块参薯酱。  
+<br>  
+> 一种用煮过的<b>参薯、糖、椰奶和油或脂肪</b>制成的美味而浓郁的果酱。<br><br>它能保存很长一段时间，可以涂在西米饼上作为美味的早餐。  
   
   参薯酱  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)<br><br>**可使用次数：**3  |  ![](Sprite/YamJam.png)   
+ **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/YamJam.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

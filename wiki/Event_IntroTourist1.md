@@ -3,9 +3,9 @@
   
   坠机  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/PlaneExit.png)   
+   |  <img decoding="async" src="Sprite/PlaneExit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>[(事件)坠机](Event_IntroTourist2.md)(+1)<br>  |    
+继续<br>  |  -  |    |  消失<br>** 1 **<br>  [(事件)坠机](Event_IntroTourist2.md)(+1)<br>  |    

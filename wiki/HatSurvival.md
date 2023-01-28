@@ -3,7 +3,7 @@
   
   求生帽  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“头部（外层）”](tag_OuterHead.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>**可使用次数：**8640<br><br>** 效果: **<br>[绝热](InsulationHeat.md)+2<br>[雨水防护](RainProtection.md)+0.5<br>[阳光防护](SunProtection.md)+1<br>[世界观](Structure.md)加成+0.1  |  ![](Sprite/HatSurvival.png)   
+ **重量：**100<br><br>**标签：**	[“头部（外层）”](tag_OuterHead.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>**可使用次数：**8640<br><br>** 效果: **<br>[绝热](InsulationHeat.md)+2<br>[雨水防护](RainProtection.md)+0.5<br>[阳光防护](SunProtection.md)+1<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/HatSurvival.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

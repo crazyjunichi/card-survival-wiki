@@ -1,9 +1,11 @@
 # 小陶罐  
 > 一个密封的小容器。  
+<br>  
+> 小陶罐是相对气密的小型液体容器。<br><br>它们的盖子能<b>阻止蒸发并减缓腐败</b>，使其成为储存药物的理想容器。<br>由于它们只能容纳半份水，因此非常适合定量配给液体。  
   
   小陶罐  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“粘土”](tag_Clay.md), [“可烹饪的”](tag_Cookable.md), [“容器（密封）”](tag_ContainerSealed.md), [“可泼溅的”](tag_Spillable.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**容水量：**150  |  ![](Sprite/ClayJar.png)   
+ **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“粘土”](tag_Clay.md), [“可烹饪的”](tag_Cookable.md), [“容器（密封）”](tag_ContainerSealed.md), [“可泼溅的”](tag_Spillable.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**容水量：**150  |  <img decoding="async" src="Sprite/ClayJar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000  |    
+收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000<br>** rain **<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

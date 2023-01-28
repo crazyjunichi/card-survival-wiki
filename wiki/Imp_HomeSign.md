@@ -1,9 +1,11 @@
 # 家园标志  
 > 一面木制标牌，象征着我新生活的开始。  
+<br>  
+>   
   
   家园标志  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁条件: **<br>[舒适度](Comfort.md): 1751-2500<br>[计数](Counter.md): 11520-999999<br>[决心](Determination.md): 4000-4000  |  ![](Sprite/HomeSign.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁条件: **<br>[舒适度](Comfort.md): 1751-2500<br>[计数](Counter.md): 11520-999999<br>[决心](Determination.md): 4000-4000  |  <img decoding="async" src="Sprite/HomeSign.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

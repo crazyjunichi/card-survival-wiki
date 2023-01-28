@@ -1,9 +1,11 @@
 # 蜂蜜西米饼  
 > 更美味了。  
+<br>  
+> 西米粉只需放置在<b>营火或火炉</b>中30分钟即可烤成面饼。<br><br>烤好后它可以涂抹上<b>蜂蜜或果酱</b>来做成更有营养的食物，也可以用在一些<b>烹饪食谱</b>中。  
   
   蜂蜜西米饼  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/SagoFlatbreadHoney.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/SagoFlatbreadHoney.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -3,7 +3,7 @@
   
   损坏的帆  |   图片   
  ----  |  ----:   
- **可使用次数：**0  |  ![](Sprite/BrokenSail.png)   
+ **可使用次数：**0  |  <img decoding="async" src="Sprite/BrokenSail.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

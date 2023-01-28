@@ -1,9 +1,11 @@
 # 未浇灌的菌床  
 > 在种植前我需要先浇灌菌床。  
+<br>  
+>   
   
   未浇灌的菌床  |   图片   
  ----  |  ----:   
- **可使用次数：**0<br><br>** 效果: **<br>[不适](Discomfort.md)+150  |  ![](Sprite/MushroomBed.png)   
+ **可使用次数：**0<br><br>** 效果: **<br>[不适](Discomfort.md)+150  |  <img decoding="async" src="Sprite/MushroomBed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

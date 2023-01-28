@@ -1,9 +1,11 @@
 # 晾晒架  
 > 我可以把蔬菜和肉挂在上面风干。  
+<br>  
+> 一种用来挂起肉类或蔬菜，让它们在风吹日晒中晾干的装置。<br><br>它只能放置在岛屿的开阔地区，如<b>海滩、草原和高地</b>，只在<b>不下雨</b>的时候可以工作。<br><br>最好只在<b>旱季</b>使用，否则可能导致晾晒的食物腐烂。  
   
   晾晒架  |   图片   
  ----  |  ----:   
- **槽位：**4<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/DryingRack.png)   
+ **槽位：**4<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/DryingRack.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  45分  |    |  消失<br>[细线](CordFiber.md)(+10)<br>[长木棍](StickLong.md)(+5)<br>  |    
+拆解<br>[手部动作](HandAction.md)<br>[CraftAction](CraftAction.md)  |  45分  |    |  消失<br>** 1 **<br>  [细线](CordFiber.md)(+10)<br>  [长木棍](StickLong.md)(+5)<br>  |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

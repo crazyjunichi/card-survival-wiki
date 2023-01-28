@@ -1,4 +1,6 @@
 # 世界观  
+> 这代表了你的世界观的可预测性和稳定性。<br><br>世界观坚定的人对自己的预测非常自信，他们觉得自己了解世界及其运行方式。他们的思想和行为是稳定的。<br><br>世界观动摇的人会觉得世事难料，不可预测，这会让他们感到<b>焦虑</b>，但也会让他们的思维更开放，精神意识更易受影响。  
+  
 变化范围: 0 ~ 5000  
 基础变化率: +1 / 每15分钟  
 ## 阶段  
@@ -6,6 +8,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 100  |  <img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;">混乱  |    |  [精神失常](MindState.md)加成+4<br>[世界观](Structure.md)加成+6<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+2  |    
 101 ～ 750  |  <img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;">弱  |    |  [精神失常](MindState.md)加成+2<br>[世界观](Structure.md)加成+3<br>[失实症](Derealization.md)加成+0.75<br>[狂躁](Mania.md)加成+0.75<br>[压力](Stress.md)加成+1  |    
+## 关联状态  
+[情绪](Morale.md)  |  [压力](Stress.md)  |  [清醒度](Wakefulness.md)  |  [外星斑点](AlienSpots.md)  |  [孤独感](Loneliness.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [咖啡因](Caffeine.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [光亮](Light.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [神圣灵视](GodInsight.md)  |  [猎手的注视](HunterInsight.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [孤立感](Isolation.md)  |  [哀悼](Mourning.md)  |  [虚空灵视](VoidInsight.md)  |  [监视者的注视](WatcherInsight.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -39,8 +43,6 @@
 [内裤](Underwear.md)  |  被动  |  加成+0.1  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
-## 关联状态  
-[情绪](Morale.md)  |  [压力](Stress.md)  |  [清醒度](Wakefulness.md)  |  [外星斑点](AlienSpots.md)  |  [孤独感](Loneliness.md)  |  [孤立感](Isolation.md)  |  [韦斯顿的陪伴](WestonCompany.md)  |  [韦斯顿亲密关系](WestonPropinquity.md)  |  [船长陪伴](CaptainCompany.md)  |  [船长亲密关系](CaptainPropinquity.md)  |  [光亮](Light.md)  |  [镇痛](Analgesia.md)  |  [酒精](Alcohol.md)  |  [咖啡因](Caffeine.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [猎手的注视](HunterInsight.md)  |  [神圣灵视](GodInsight.md)  |  [虚空灵视](VoidInsight.md)  |  [监视者的注视](WatcherInsight.md)  |  [哀悼](Mourning.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 擦伤  
 > 好痛！  
+<br>  
+> 在野外生存时，轻微的擦伤和破皮很容易发生。<br><br>它们不是很危险，但是最好还是用<b>水、蜂蜜、碱液或肥皂</b>清洗它们，以确保它们不会<b>感染</b>。<br><br>同时使用<b>伤口敷料</b>来保护伤口并加速愈合。  
   
   擦伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/Abrasion.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

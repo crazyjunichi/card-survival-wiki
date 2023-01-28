@@ -1,9 +1,11 @@
 # 干燥的砂浆  
 > 可以重新放进窑炉中制作生石灰。  
+<br>  
+>   
   
   干燥的砂浆  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/MortarDry.png)   
+ **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MortarDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可用于转化  
 转化为  |  容器  

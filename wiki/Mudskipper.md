@@ -1,9 +1,11 @@
 # 弹涂鱼  
 > 我可不想生吃这东西。  
+<br>  
+>   
   
   弹涂鱼  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“生鱼”](tag_RawFish.md), [“鱼肉”](tag_Fish.md)  |  ![](Sprite/Mudskipper.png)   
+ **重量：**75<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“生鱼”](tag_RawFish.md), [“鱼肉”](tag_Fish.md)  |  <img decoding="async" src="Sprite/Mudskipper.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,4 +1,6 @@
 # 蚊虫数量  
+> 指定地区内可发现的虫子（包括蚊子）数量。一般来说，较暗和潮湿的地区（如丛林）蚊虫最多，而较开阔和多风的地区较少。添加人工水体（如蓄水池）也有可能增加蚊虫数量。<br><br>较高的蚊虫数量会导致蚊虫叮咬，如果你的角色没有相应的免疫，蚊虫叮咬有可能传播严重疾病。多穿衣服、涂抹驱虫剂、吃柠檬草或在营火上烧蛇草都有助于预防蚊虫叮咬。  
+  
 变化范围: 0 ~ 5  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -8,12 +10,12 @@
 2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">高蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+2  |    
 4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">很高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+4  |    
 5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">极高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+5  |    
+## 关联状态  
+[泥巴防护](MudProtection.md)  |  [降水值](RainValue.md)  |  [防晒霜](SunScreenApplied.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [坠毁的飞机(环境)](Env_CrashedPlane.md)  |  被动  |  加成0  
-## 关联状态  
-[泥巴防护](MudProtection.md)  |  [防晒霜](SunScreenApplied.md)  |  [降水值](RainValue.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 未烧制的粘土火盆  
 > 它需要在窑炉里烧制。  
+<br>  
+> 便携式<b>营火</b>，前提是你能承受它的重量。<br><br>它能让你在<b>木筏</b>上生火而不引燃木筏。  
   
   未烧制的粘土火盆  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“大的”](tag_Large.md), [“粘土”](tag_Clay.md)  |  ![](Sprite/ClayFirePitUnfired.png)   
+ **重量：**500<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“大的”](tag_Large.md), [“粘土”](tag_Clay.md)  |  <img decoding="async" src="Sprite/ClayFirePitUnfired.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

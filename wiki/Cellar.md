@@ -1,9 +1,11 @@
 # 地窖  
 > 一个地下房间，食物在这里可以储存更久。  
+<br>  
+> 一间凉爽的地下室，特别适合存放易腐物品。<br>储存在这里的食品要更久才会过期。<br><br>要建造它，你需要一把铲子、砂浆、原木、泥土、粘土和皮革。  
   
   地窖  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  ![](Sprite/Cellar.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

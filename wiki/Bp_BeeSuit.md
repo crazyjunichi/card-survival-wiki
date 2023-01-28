@@ -3,7 +3,7 @@
   
   防蜂服  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[熏蜂器(关)](BeeSmokerOff.md)  |  ![](Sprite/BeeSuit.png)   
+ ** 解锁需求: **<br>[熏蜂器(关)](BeeSmokerOff.md)  |  <img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

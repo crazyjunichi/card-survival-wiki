@@ -1,9 +1,11 @@
 # 烤蛋  
 > 美味的蛋  
+<br>  
+> 蛋可以在野外的<b>海鸥或灰山鹑巢</b>里找到，或者捕获并在<b>畜栏</b>中圈养自己的<b>灰山鹑</b>来获得。<br><br>它们是营养丰富且保质期长的食物来源，可用于多种<b>烹饪食谱</b>。  
   
   烤蛋  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/EggRoasted.png)   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/EggRoasted.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

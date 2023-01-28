@@ -1,9 +1,11 @@
 # 香茅油混合物  
 > 下一步是放火上熬煮。  
+<br>  
+> 一种好闻的柠檬味香精油，可用于制作<b>驱虫蜡烛</b>。<br><br>要制作它，你需要捣碎<b>柠檬草</b>，将其与<b>油</b>混合并煮沸，再配合脂肪或蜡，通过对应的蓝图制作蜡烛。  
   
   香茅油混合物  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

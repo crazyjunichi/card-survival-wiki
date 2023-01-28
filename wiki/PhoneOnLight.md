@@ -3,7 +3,7 @@
   
   手机  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>** 效果: **<br>[光亮](Light.md)+25  |  ![](Sprite/PhoneTorch.png)   
+ **重量：**25<br><br>** 效果: **<br>[光亮](Light.md)+25  |  <img decoding="async" src="Sprite/PhoneTorch.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

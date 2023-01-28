@@ -1,9 +1,11 @@
 # 已缝合的左臂撕裂伤  
 > 还是好痛，至少现在伤口缝上了。  
+<br>  
+> 一个很深的切口，很有可能导致一个人由于手臂的主动脉破损而<b>流血而亡</b>。<br>在治疗的时候也会显著降低<b>手部灵活程度</b>。<br><br>一定要用<b>止血带</b>止血，但是一旦失血得到控制，一定要把止血带及时换成<b>敷料</b>。<br><br>撕裂伤也可以用<b>缝合针</b>来加速愈合，尽管这可能需要一点<b>勇气</b>来完成。  
   
   已缝合的左臂撕裂伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**装备：**[“左臂撕裂伤”](eTag_WArmLacerationL.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  ![](Sprite/ArmLacerationStitched.png)   
+ **重量：**0<br><br>**装备：**[“左臂撕裂伤”](eTag_WArmLacerationL.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/ArmLacerationStitched.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

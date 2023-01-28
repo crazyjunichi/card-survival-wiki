@@ -1,9 +1,11 @@
 # 石屋  
 > 非常坚固的屋子。可以完全抵御风暴！  
+<br>  
+> 用<b>石头和砂浆</b>建造的房子。它能够抵御<b>风暴、雨水和日晒</b>。<br><br>石屋可以进行许多升级改进，包括扩展存储容量、屋门、给墙面刷漆等等。<br>石屋坚固的特性可以使其彻底免遭<b>风暴</b>的侵害。  
   
   石屋  |   图片   
  ----  |  ----:   
- **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  ![](Sprite/StoneHut.png)   
+ **标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/StoneHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

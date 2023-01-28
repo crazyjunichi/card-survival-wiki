@@ -1,9 +1,11 @@
 # 母山羊  
 > 一头活山羊。可以通过喂食喂水来维持生命，或者放养在畜栏里。  
+<br>  
+> 这种动物经常出没于该岛的<b>草原和高地</b>。<br><br>可以猎杀它们以获取肉和皮，也可以通过<b>陷坑</b>活捉。<br>可以捕获山羊并圈养在畜栏里，如果公母山羊都在场，就可以繁殖并用于产奶。<br>  
   
   母山羊  |   图片   
  ----  |  ----:   
- **重量：**2000<br><br>**标签：**	[“山羊”](tag_Goat.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288  |  ![](Sprite/GoatTied.png)   
+ **重量：**2000<br><br>**标签：**	[“山羊”](tag_Goat.md), [“大的”](tag_Large.md), [“大型动物”](tag_LargeAnimal.md)<br><br>**可使用次数：**288  |  <img decoding="async" src="Sprite/GoatTied.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

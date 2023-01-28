@@ -1,9 +1,11 @@
 # 醋  
 > 一种烹饪调料。  
+<br>  
+>   
   
   醋  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可用于蓝图  
 - [奶酪(蓝图)](Bp_Cheese.md)  

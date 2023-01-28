@@ -1,9 +1,11 @@
 # 小灰山鹑尸体  
 > 可怜的灰山鹑宝宝。  
+<br>  
+> 这种动物可以在岛上的<b>丛林和草原</b>中找到。<br><br>可以猎杀它们以获取肉、骨头和羽毛，也可以通过<b>套索陷阱</b>活捉。<br>被活捉的灰山鹑可以圈养在畜栏里，之后它们会下蛋。如果雌雄灰山鹑都在场，它们也会产下受精的蛋进而孵出小灰山鹑。<br>  
   
   小灰山鹑尸体  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“弱效食料”](tag_FeedWeak.md)  |  ![](Sprite/PartridgeChickDead.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“弱效食料”](tag_FeedWeak.md)  |  <img decoding="async" src="Sprite/PartridgeChickDead.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 海胆刺伤  
 > 好痛！  
+<br>  
+> 海胆是一种与海星有亲缘关系的带刺动物。它们可以在岛上的<b>岩滩</b>以及<b>潮汐池</b>中找到。<br><br>在它们的栖息地附近拾海时，建议穿戴足部保护装备，因为踩到它们会导致易<b>感染</b>的<b>疼痛</b>伤口，让你<b>行走</b>更加困难。如果你不幸踩到了，请尽快将刺从伤口上取下来。  
   
   海胆刺伤  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/UrchinWound.png)   
+ **重量：**250<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/UrchinWound.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

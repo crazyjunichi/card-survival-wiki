@@ -1,9 +1,11 @@
 # 诱捕笼  
 > 我应该在里面放上诱饵，过段时间再来看看。（更换诱饵会重置陷阱）  
+<br>  
+> 一种先进的，需要<b>长木棍和细线</b>来建造的陷阱。<br><br>可以随身携带并且非常适合用来活捉 <b>猕猴和灰山鹑</b>。<br><br>这些陷阱需要<b>诱饵</b>才能用，并且每次触发后必须<b>重置</b>。<br>除非真的有必要，否则不要更换诱饵，不然会重置陷阱的计时器。  
   
   诱捕笼  |   图片   
  ----  |  ----:   
- **标签：**	[“大的”](tag_Large.md)<br><br>**槽位：**1<br><br>**过滤器：**[“诱饵”](tag_Bait.md) , [“喂/添加”](tag_Feed.md)  |  ![](Sprite/CagePlacedTrap.png)   
+ **标签：**	[“大的”](tag_Large.md)<br><br>**槽位：**1<br><br>**过滤器：**[“诱饵”](tag_Bait.md) , [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/CagePlacedTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

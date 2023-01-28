@@ -1,9 +1,11 @@
 # 右腿撕裂伤  
 > 一道正在流血的深撕裂伤口。好痛……  
+<br>  
+> 与<b>野猪这样的野生动物</b>相遇可能会严重受伤。<br>这种深度的切口带来的主要风险是<b>出血</b>：如果不及时控制，它可以<b>很快致命</b>。<br><br>当务之急是使用<b>止血带</b>止血。一旦控制住失血，尽快把止血带拿掉，以防止<b>对你的肢体造成神经损伤</b>。<br><br>下一步是用<b>水、碱液、蜂蜜或肥皂</b>清洗伤口以防止<b>感染</b>，最后用<b>伤口敷料</b>保护伤口直到愈合。<br>在这段时间里，<b>行走会很困难</b>，有些工作也将需要更长的时间才能完成。<br><br>如果你有<b>针和线</b>，建议<b>缝合伤口</b>来加速愈合过程。  
   
   右腿撕裂伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“右腿撕裂伤”](eTag_WLegLacerationR.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  ![](Sprite/LegLaceration.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“右腿撕裂伤”](eTag_WLegLacerationR.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

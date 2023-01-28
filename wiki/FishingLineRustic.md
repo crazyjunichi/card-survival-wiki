@@ -1,9 +1,11 @@
 # 钓鱼线  
 > 可以用它来钓鱼。如果把其绑在钓竿上或是挂一些诱饵上去，效率会更高。  
+<br>  
+> 用<b>骨钩</b>和一些<b>细线</b>制作的简单钓鱼工具。<br><br>确保使用<b>诱饵</b>（如<b>鱼杂或鱼片</b>）来增加捕获鱼的机会。  
   
   钓鱼线  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“钓鱼线”](tag_FishingLine.md)<br><br>**可使用次数：**15  |  ![](Sprite/FishingLineRustic.png)   
+ **重量：**50<br><br>**标签：**	[“钓鱼线”](tag_FishingLine.md)<br><br>**可使用次数：**15  |  <img decoding="async" src="Sprite/FishingLineRustic.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

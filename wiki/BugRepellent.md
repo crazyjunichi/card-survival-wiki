@@ -1,9 +1,11 @@
 # 驱虫膏  
 > 可以应对蚊虫叮咬并驱赶蚊虫。  
+<br>  
+> 这种凝胶可以涂抹在你的身体上，增强你的蚊虫防护，以避免蚊虫叮咬。<br><br>当你的<b>药草学</b>足够高时，可以用<b>芦荟膏</b>和<b>捣碎的蛇草</b>制作它。  
   
   驱虫膏  |   图片   
  ----  |  ----:   
- **重量：**25  |  ![](Sprite/BugRepellant.png)   
+ **重量：**25  |  <img decoding="async" src="Sprite/BugRepellant.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

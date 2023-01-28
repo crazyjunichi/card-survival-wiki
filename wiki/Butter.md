@@ -1,9 +1,11 @@
 # 黄油  
 > 一块黄油  
+<br>  
+> 在罐子中搅拌奶而制成。这种营养丰富的食物可以在许多烹饪食谱中代替脂肪或油。  
   
   黄油  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  ![](Sprite/Butter.png)   
+ **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“强效食料”](tag_FeedRich.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/Butter.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,4 +1,6 @@
 # 湿度  
+>   
+  
 变化范围: 0 ~ 100  
 基础变化率: -20 / 每15分钟  
 ## 阶段  
@@ -7,6 +9,8 @@
 0 ～ 0  |  干燥  |    |    |    
 1 ～ 75  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">潮湿  |    |  [体感温度](TemperaturePerceived.md)-10<br>[晒伤](Sunburn.md)加成-1<br>[皮肤潮湿度](SkinHumidity.md)加成+8  |    
 76 ～ 100  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">湿透了  |    |  [体感温度](TemperaturePerceived.md)-20<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[晒伤](Sunburn.md)加成-2<br>[发烧](Fever.md)-100<br>[皮肤潮湿度](SkinHumidity.md)加成+16  |    
+## 关联状态  
+[体感温度](TemperaturePerceived.md)  |  [淋雨](RainExposure.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -20,8 +24,6 @@
 [粘土火盆](ClayFirePit.md)  |  被动  |  加成-2  
 [火堆](Fire.md)  |  被动  |  加成-2  
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  加成-2  
-## 关联状态  
-[体感温度](TemperaturePerceived.md)  |  [淋雨](RainExposure.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

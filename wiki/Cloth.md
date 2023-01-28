@@ -1,9 +1,11 @@
 # 布  
 > 一块布，可以直接用它做衣服。或者在织布机上和线团组合一起织成一块更大的布。  
+<br>  
+> 布料可以通过在<b>织机</b>上编织细线制成，可以用于许多服装和实用物品。<br>它有4种不同的尺寸：小、普通、大和超大。每种尺寸都可以在<b>织机</b>上撕成更小的片或扩大。<br><br>布料还可以临时制作成<b>绷带</b>以及<b>绑手带或包脚布</b>，帮助你在这些部位免受伤害。<br>大布也可以当做<b>简易防毒面具</b>，对火山的有毒烟雾提供一定的防护效果。<br>  
   
   布  |   图片   
  ----  |  ----:   
- **重量：**50  |  ![](Sprite/Cloth.png)   
+ **重量：**50  |  <img decoding="async" src="Sprite/Cloth.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -28,7 +30,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  消失<br>[布片](ClothSmall.md)(+2)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  消失<br>** Small Cloth **<br>  [布片](ClothSmall.md)(+2)<br>  |    
 制作绷带<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时绷带](ImprovisedDressing.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 制作包脚布<br>[手部动作](HandAction.md)  |  15分  |    |  → [包脚布](FootWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 制作绑手带<br>[手部动作](HandAction.md)  |  30分  |    |  → [绑手带](HandWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  

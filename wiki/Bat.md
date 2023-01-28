@@ -1,9 +1,11 @@
 # 蝙蝠尸体  
 > 一小只蝙蝠尸体。  
+<br>  
+> 蝙蝠聚居在<b>洞穴</b>内。<br><br>它们生产的<b>海鸟粪</b>可以用作肥料或制作硝床。当然，蝙蝠也是可食用的。  
   
   蝙蝠尸体  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/Bat.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/Bat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

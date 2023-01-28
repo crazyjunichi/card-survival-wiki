@@ -1,9 +1,11 @@
 # 虾  
 > 可以吃，也可以用作诱饵。  
+<br>  
+> 这些小甲壳类生物在靠近大海的<b>岩石区和潮汐池</b>中大量繁殖，是一种不错的食物来源。<br><br>它们可以<b>做成美食</b>，但如果你能忍住不吃它们，它们也可以成为<b>陷阱和钓鱼的良好诱饵</b>。  
   
   虾  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“可烹饪的”](tag_Cookable.md), [“喂”](tag_Meat.md)  |  ![](Sprite/Prawns.png)   
+ **重量：**10<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md), [“诱饵”](tag_Bait.md), [“可烹饪的”](tag_Cookable.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/Prawns.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

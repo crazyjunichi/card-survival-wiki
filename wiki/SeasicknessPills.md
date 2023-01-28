@@ -1,9 +1,11 @@
 # 晕船药  
 > 应该能帮助我缓解晕船症状。  
+<br>  
+> 如果你不习惯于航海，那么海上的风浪越大，你就越会觉得恶心。<br>幸运的是，随着你在海上度过越来越多的时间，你会逐渐习惯海上航行，进而不会再感到恶心。  
   
   晕船药  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**8  |  ![](Sprite/Antibiotics.png)   
+ **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**8  |  <img decoding="async" src="Sprite/Antibiotics.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

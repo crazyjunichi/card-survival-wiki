@@ -3,7 +3,7 @@
   
   高处  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/PointyRock.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

@@ -1,9 +1,11 @@
 # 骨钩  
 > 鱼竿的必要组件。  
+<br>  
+> 用<b>鸟</b>的骨头或较大动物的骨头<b>碎片</b>制成的钩子。<br><br>通过对应的蓝图将其与<b>麻线</b>相结合，你可以制作一根<b>钓鱼线或钓鱼竿</b>，从海里钓鱼。  
   
   骨钩  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“燃料”](tag_Sticks.md)  |  ![](Sprite/HookBone.png)   
+ **重量：**10<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“燃料”](tag_Sticks.md)  |  <img decoding="async" src="Sprite/HookBone.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,9 +1,11 @@
 # 茉莉精油  
 > 香气四溢。  
+<br>  
+> 一种好闻的茉莉花香精油，可用于制作<b>香薰蜡烛</b>。<br><br>要制作它，你需要捣碎<b>茉莉花</b>，将其与<b>油</b>混合并煮沸。然后配合脂肪或蜂蜡通过对应的蓝图制作蜡烛。  
   
   茉莉精油  |   图片   
  ----  |  ----:   
- **标签：**	[“油”](tag_Oil.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“油”](tag_Oil.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

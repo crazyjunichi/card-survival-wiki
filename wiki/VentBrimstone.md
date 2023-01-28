@@ -1,14 +1,16 @@
 # 硫磺喷口  
 > 既不好闻也不好受。  
+<br>  
+>   
   
   硫磺喷口  |   图片   
  ----  |  ----:   
- **环境：**[酸湖](AcidLake.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  ![](Sprite/BrimstoneVent.png)   
+ **环境：**[酸湖](AcidLake.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/BrimstoneVent.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  采集硫磺  |  -  |    |  ** 自身: **<br>使用次数  -1<br>** 获得: **<br>[硫磺](Brimstone.md)(+1)<br>  |    
+[“锤”](tag_Hammer.md)  |  采集硫磺  |  -  |    |  ** 自身: **<br>使用次数  -1<br>** 获得: **<br>** Brimstone **<br>  [硫磺](Brimstone.md)(+1)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

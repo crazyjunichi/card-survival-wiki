@@ -1,9 +1,11 @@
 # 海鲜杂烩  
 > 精挑细选优质海鲜！  
+<br>  
+> 一种盛放在椰子壳上的简单餐点。<br>需要<b>1块海胆肉、2份其他海鲜和1份沙拉蔬菜</b>。<br><br>味道鲜美，清爽可口。  
   
   海鲜杂烩  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCoconutShell.md)  |  ![](Sprite/SeafoodCup.png)   
+ **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCoconutShell.md)  |  <img decoding="async" src="Sprite/SeafoodCup.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

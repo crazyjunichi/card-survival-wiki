@@ -1,9 +1,11 @@
 # 水  
 > 干净的饮用水。  
+<br>  
+>   
   
   水  |   图片   
  ----  |  ----:   
- **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“弱效清洁剂”](tag_CleanerWeak.md), [“水”](tag_WaterAny.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“弱效清洁剂”](tag_CleanerWeak.md), [“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

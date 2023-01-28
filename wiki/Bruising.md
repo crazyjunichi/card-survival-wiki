@@ -1,4 +1,6 @@
 # 淤青  
+> 当从高处坠落或受到动物攻击时，身上偶尔会留下淤青。<br><br>瘀青会产生疼痛。使用<b>芦荟膏或硫磺膏</b>等药膏治疗，可以更快地愈合，同时减轻疼痛。  
+  
 变化范围: 0 ~ 400  
 基础变化率: -1 / 每15分钟  
 ## 阶段  
@@ -7,7 +9,7 @@
 1 ～ 150  |  <img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;">瘀伤  |    |  [疼痛](Pain.md)+50  |    
 151 ～ 400  |  <img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;">严重瘀伤  |  痛……  |  [疼痛](Pain.md)+100  |    
 ## 关联状态  
-[芦荟膏防护](AloeVeraGelProtection.md)  
+[芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

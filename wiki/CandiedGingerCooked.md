@@ -1,9 +1,11 @@
 # 姜糖  
 > 可以吃了。  
+<br>  
+> 一种美味可口的甜食，可以保存相当长的时间。<br>要制作它，你需要姜、糖和水。  
   
   姜糖  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/CookingPotClosed.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -16,7 +18,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br>[姜糖](CandiedGinger.md)(+3)<br>  |    
+取出<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br>** Bars **<br>  [姜糖](CandiedGinger.md)(+3)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -1,9 +1,11 @@
 # 钝斧子头  
 > 想重新使用需要用石头先打磨一下。  
+<br>  
+> 一种耐用而锋利的铜斧。在损坏后只要把金属部分<b>重新打磨</b>就可以重新做成斧子。<br>你能用它更快地砍伐<b>树木</b>，并制作更复杂的<b>木制品</b>。  
   
   钝斧子头  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)  |  ![](Sprite/AxeHeadBlunt.png)   
+ **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)  |  <img decoding="async" src="Sprite/AxeHeadBlunt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

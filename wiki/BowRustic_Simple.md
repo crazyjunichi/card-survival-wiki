@@ -3,7 +3,7 @@
   
   上弦的简易弓  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可使用次数：**75  |  ![](Sprite/StickLong.png)   
+ **重量：**0<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可使用次数：**75  |  <img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

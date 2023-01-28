@@ -1,9 +1,11 @@
 # 硫酸  
 > 硫酸，我需要一个釉面容器来装。  
+<br>  
+>   
   
   硫酸  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

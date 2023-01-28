@@ -1,9 +1,11 @@
 # 野猪肉  
 > 做熟后味道会更好。  
+<br>  
+> 野猪可以在岛上丛林覆盖的地区找到。它们是危险的猎物，所以在试图猎杀它们之前，确保你有足够的治疗用品，尤其是止血带。<br><br>野猪可以为你提供大量的肉、脂肪和兽皮。野猪肉营养丰富，脂肪有多种用途，从烹饪到制作蜡烛或水袋。兽皮可以用来制作衣服和许多有用的物品，甚至它们的獠牙也有用处。  
   
   野猪肉  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  ![](Sprite/PorkRaw.png)   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/PorkRaw.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

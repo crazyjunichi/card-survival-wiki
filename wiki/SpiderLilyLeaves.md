@@ -1,9 +1,11 @@
 # 蜘蛛兰叶  
 > 可以捣碎煮制成抗生素汤剂。  
+<br>  
+> 这些花的叶子可以捣碎后加入到一碗开水中，来制成抗生素茶，用来治疗细菌和寄生虫感染。  
   
   蜘蛛兰叶  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“弱效食料”](tag_FeedWeak.md)  |  ![](Sprite/SpiderLilyLeaves.png)   
+ **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“弱效食料”](tag_FeedWeak.md)  |  <img decoding="async" src="Sprite/SpiderLilyLeaves.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

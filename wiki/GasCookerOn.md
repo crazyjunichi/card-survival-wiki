@@ -3,7 +3,7 @@
   
   瓦斯炉  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md), [“大的”](tag_Large.md)<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+10<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/GasCookerOn.png)   
+ **标签：**	[“火”](tag_Fire.md), [“大的”](tag_Large.md)<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+10<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+20<br>[蚊虫数量](BugPopulation.md)-1  |  <img decoding="async" src="Sprite/GasCookerOn.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

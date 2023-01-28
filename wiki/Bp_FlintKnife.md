@@ -3,7 +3,7 @@
   
   燧石刀  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[石工(技能)](Skill_Knapping.md): 10-150  |  ![](Sprite/FlintKnife.png)   
+ ** 解锁条件: **<br>[石工(技能)](Skill_Knapping.md): 10-150  |  <img decoding="async" src="Sprite/FlintKnife.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

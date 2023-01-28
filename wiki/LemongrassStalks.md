@@ -1,9 +1,11 @@
 # 柠檬草  
 > 可食用，尝起来像柠檬！  
+<br>  
+> 这种可食用的草含有香茅，具有柠檬般的风味和驱虫特性。<br><br>可以从这种植物中提取香茅精油，用于制作驱虫蜡烛。  
   
   柠檬草  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/LemonGrassStalks.png)   
+ **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

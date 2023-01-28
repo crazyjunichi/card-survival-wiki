@@ -1,9 +1,11 @@
 # 熔炉  
 > 专门用来熔炼金属物的建筑。  
+<br>  
+> 熔炉是设计用来冶炼金属的建筑。它们的最高温度比窑炉高，升温的速度也更快。<br><br>只要把<b>铜矿石</b>放入其中，等到温度达到适宜的时候，金属就会开始熔炼。<br>用铜填充的<b>模具</b>也可以放在里面，来把金属铸造成型。  
   
   熔炉  |   图片   
  ----  |  ----:   
- **槽位：**3<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  ![](Sprite/ForgeLit.png)   
+ **槽位：**3<br><br>** 效果: **<br>[保温](InsulationCold.md)+5  |  <img decoding="async" src="Sprite/ForgeLit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

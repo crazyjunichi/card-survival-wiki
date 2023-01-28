@@ -1,9 +1,11 @@
 # 椅子  
 > 可以坐下休息的椅子。  
+<br>  
+> 一件实用的家具，除了提高舒适度外，还能为你提供<b>手工加成</b>，特别是在搭配桌子之后。<br><br>是一个坐下来休息的好地方。  
   
   椅子  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+75<br>[工作区](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  ![](Sprite/Chair.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+75<br>[工作区](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

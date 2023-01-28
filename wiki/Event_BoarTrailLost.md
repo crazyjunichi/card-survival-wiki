@@ -3,7 +3,7 @@
   
   我跟丢了踪迹……  |   图片   
  ----  |  ----:   
- **标签：**	[“战斗事件”](tag_FightEvent.md)  |  ![](Sprite/Jungle.png)   
+ **标签：**	[“战斗事件”](tag_FightEvent.md)  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

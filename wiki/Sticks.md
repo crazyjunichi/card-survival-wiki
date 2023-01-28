@@ -1,9 +1,11 @@
 # 小树枝  
 > 可以作为燃料或者制作一些别的东西，比如手钻什么的。  
+<br>  
+> 树枝几乎可以在任何地方通过<b>搜寻</b>找到。<br><br>它们可以用<b>切割工具</b>雕刻成<b>手钻</b>，一个必要的工具用于<b>生火</b>。<br><br>它们也可以用作<b>燃料</b>，说到火，那是个常见的材料，用作制作各种<b>工具和建筑</b>。  
   
   小树枝  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“燃料”](tag_Sticks.md)  |  ![](Sprite/Kindling.png)   
+ **重量：**150<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“燃料”](tag_Sticks.md)  |  <img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

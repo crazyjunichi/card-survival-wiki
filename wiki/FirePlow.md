@@ -3,12 +3,12 @@
   
   手钻  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**可使用次数：**40  |  ![](Sprite/HandDrill.png)   
+ **重量：**100<br><br>**可使用次数：**40  |  <img decoding="async" src="Sprite/HandDrill.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“火绒”](tag_Tinder.md)  |  点燃火绒  |  15分  |    |  ** 自身: **<br>使用次数  -1<br>** 使用物: **<br>→ [火种](TinderLit.md)<br>** 获得: **<br>[火种](TinderLit.md)(+1)<br>  |  [手掌损伤](HandDamage.md)+40  
+[“火绒”](tag_Tinder.md)  |  点燃火绒  |  15分  |    |  ** 自身: **<br>使用次数  -1<br>** 使用物: **<br>→ [火种](TinderLit.md)<br>** 获得: **<br>**  **<br>  [火种](TinderLit.md)(+1)<br>  |  [手掌损伤](HandDamage.md)+40  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

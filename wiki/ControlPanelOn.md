@@ -3,7 +3,7 @@
   
   控制台  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>** 区域唯一 **  |  ![](Sprite/AloeVera.png)   
+ **槽位：**1<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,7 +13,7 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 关闭引擎<br>  |  -  |    |  → [控制台(关)](ControlPanelOff.md)  |    
-检查无线电室<br>  |  -  |    |    |    
+检查无线电室<br>  |  -  |    |  ** Inventory **<br>  |    
 ## 转化  
 放入  |  动作  |  耗时  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

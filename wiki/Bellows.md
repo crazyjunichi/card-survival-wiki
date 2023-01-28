@@ -1,9 +1,11 @@
 # 风箱  
 > 应该能让窑炉和熔炉升温得更快。<br><br><b>可在装备栏装备</b>  
+<br>  
+> 风箱可以用来加速窑炉和熔炉的温度上升，以便你更快地烧粘土和冶炼金属。<br><br>它可以用皮革、细线、脂肪、针和切割工具来制作。  
   
   风箱  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**30  |  ![](Sprite/Bellows.png)   
+ **重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**30  |  <img decoding="async" src="Sprite/Bellows.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

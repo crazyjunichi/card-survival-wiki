@@ -1,9 +1,11 @@
 # 石斧  
 > 可以用它获取木材。  
+<br>  
+> 斧子是生存必不可少的工具。如果手头没有斧子，你可以<b>磨制一把石刀并把它放进一块木材里</b>来制作一把简易石斧。<br><br>更好的斧头可以由<b>燧石或破烂金属</b>制成，或是<b>铜之类的金属</b>——前提是你有相应的建筑物来加工它们。<br><br>斧子主要用于砍伐植物：砍伐<b>树木和灌木</b>的可以获得重要的制作原料，如<b>木材、长木棍或树叶</b>。<br><br>它们也是很好的<b>锤击工具</b>。  
   
   石斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**20  |  ![](Sprite/StoneAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**20  |  <img decoding="async" src="Sprite/StoneAxe.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

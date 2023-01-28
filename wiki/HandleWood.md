@@ -3,7 +3,7 @@
   
   木斧柄  |   图片   
  ----  |  ----:   
- **重量：**200  |  ![](Sprite/WoodHandle.png)   
+ **重量：**200  |  <img decoding="async" src="Sprite/WoodHandle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

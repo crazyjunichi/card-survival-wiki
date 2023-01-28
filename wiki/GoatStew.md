@@ -1,9 +1,11 @@
 # 炖羊汤  
 > 美味，还顶饱。  
+<br>  
+>   
   
   炖羊汤  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**2  |  ![](Sprite/GoatStew.png)   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**2  |  <img decoding="async" src="Sprite/GoatStew.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

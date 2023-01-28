@@ -3,7 +3,7 @@
   
   婴儿  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“挎包”](tag_Satchel.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-1<br><br>** 可重命名 **  |  ![](Sprite/Baby.png)   
+ **重量：**500<br><br>**标签：**	[“挎包”](tag_Satchel.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-1<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/Baby.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

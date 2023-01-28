@@ -1,4 +1,6 @@
 # 足部损伤  
+>   
+  
 变化范围: 0 ~ 1000  
 基础变化率: -1 / 每15分钟  
 ## 阶段  
@@ -6,6 +8,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">我的脚好疼  |  割伤和水泡使走路更困难。  |  [足茧](CallousesFeet.md)加成+0.25<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/FootDamaged.png" href="a.md" style="max-width:20px;max-height:20px;">我的脚太痛了  |  我的脚上都是割伤和水泡，太疼了。  |  [足茧](CallousesFeet.md)加成+0.5<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
+## 关联状态  
+[足茧](CallousesFeet.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -14,8 +18,6 @@
 [皮革鞋子](LeatherShoes.md)  |  被动  |  加成-3  
 [运动鞋](Sneakers.md)  |  被动  |  加成-3  
 [军靴](MilitaryBoots.md)  |  被动  |  加成-5  
-## 关联状态  
-[足茧](CallousesFeet.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

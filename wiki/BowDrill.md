@@ -3,7 +3,7 @@
   
   弓钻  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**可使用次数：**30  |  ![](Sprite/BowDrill.png)   
+ **重量：**100<br><br>**可使用次数：**30  |  <img decoding="async" src="Sprite/BowDrill.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

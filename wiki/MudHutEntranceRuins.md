@@ -1,9 +1,11 @@
 # 泥屋  
 > 进入泥屋  
+<br>  
+> 用<b>泥砖、原木、细线和棕榈叶</b>建造的房子。它能使人免受<b>风暴、雨水和日晒</b>的影响。<br><br>泥屋可以进行多次升级来改进，包括存储扩展、门、粉刷墙面等。<br>屋顶一旦受损或有倒塌的危险，就应该修理。  
   
   泥屋  |   图片   
  ----  |  ----:   
- ** 可重命名 **  |  ![](Sprite/MudHut.png)   
+ ** 可重命名 **  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,4 +14,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  [泥屋(环境)](Env_MudHutRuins.md)(+1)<br>[离开(泥屋)](MudHutExitRuins.md)(+1)<br>[泥屋](MudHutRuins.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** Exit **<br>  [泥屋(环境)](Env_MudHutRuins.md)(+1)<br>  [离开(泥屋)](MudHutExitRuins.md)(+1)<br>  [泥屋](MudHutRuins.md)(+1)<br>基础权重：1<br>  |    

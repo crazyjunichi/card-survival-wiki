@@ -3,7 +3,7 @@
   
   铜铲  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[铲子头](ShovelHead.md)  |  ![](Sprite/CopperShovel.png)   
+ ** 解锁需求: **<br>[铲子头](ShovelHead.md)  |  <img decoding="async" src="Sprite/CopperShovel.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

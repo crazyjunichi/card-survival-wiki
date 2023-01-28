@@ -1,9 +1,11 @@
 # 纺锤  
 > 我可以用它把纤维缠成细线。  
+<br>  
+>   
   
   纺锤  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)  |  ![](Sprite/Spindle.png)   
+ **重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)  |  <img decoding="async" src="Sprite/Spindle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

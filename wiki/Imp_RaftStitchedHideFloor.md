@@ -1,9 +1,11 @@
 # 皮地毯  
 > 比光秃秃的木头更舒服。  
+<br>  
+> 在地面铺一层皮革可以让双脚更<b>舒适</b>，也更容易保持<b>清洁</b>。<br><br>需要足够的<b>鞣制皮革、麻线</b>来盖住地面，并用足够的<b>针</b>来缝合。  
   
   皮地毯  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)  |  ![](Sprite/StitchedHideFloor.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)  |  <img decoding="async" src="Sprite/StitchedHideFloor.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

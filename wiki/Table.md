@@ -1,9 +1,11 @@
 # 木桌  
 > 方便我进行各类手工制作。看起来也不错！  
+<br>  
+>   
   
   木桌  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+150<br>[工作区](Workplace.md)+600<br><br>** 区域唯一 **  |  ![](Sprite/Table.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)+150<br>[工作区](Workplace.md)+600<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Table.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

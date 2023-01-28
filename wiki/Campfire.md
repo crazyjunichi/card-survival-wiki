@@ -1,9 +1,11 @@
 # 营火  
 > 烹饪和取暖的最佳选择。  
+<br>  
+> 营火对生存至关重要。它们不仅可以让你在寒冷时保持温暖和干燥，而且可以在夜间提供照明，更重要的是，可以烹饪食物使其更安全、美味和更有营养。<br><br>你只需要收集石头、木材和树枝，就可以制作一个像样的营火。搭好后，用一个手钻点燃一些火绒，把它放在营火上使其点燃。<br><br>营火也会产生<b>木炭和灰烬</b>，在熄灭的状态下才可以取出它们。  
   
   营火  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**2<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+25<br>[蚊虫数量](BugPopulation.md)-1  |  ![](Sprite/Campfire.png)   
+ **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**2<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+20<br>[湿度](Wetness.md)加成-2<br>[光亮](Light.md)+25<br>[蚊虫数量](BugPopulation.md)-1  |  <img decoding="async" src="Sprite/Campfire.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -15,9 +17,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
+取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>** Embers **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [营火(熄灭)](CampfireExtinguished.md)  |    
-拆解<br>  |  -  |    |  消失<br>[石头](Stone.md)(+4)<br>  |    
+拆解<br>  |  -  |    |  消失<br>**  **<br>  [石头](Stone.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

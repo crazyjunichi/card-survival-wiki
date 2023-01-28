@@ -1,9 +1,11 @@
 # 草裙  
 > 为了遮羞。<br><br><b>必须装备在装备栏才能生效</b>  
+<br>  
+>   
   
   草裙  |   图片   
  ----  |  ----:   
- **重量：**200<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**1344<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+0.5<br>[阳光防护](SunProtection.md)+0.5<br>[世界观](Structure.md)加成+0.1<br>[情绪](Morale.md)加成+0.25  |  ![](Sprite/PalmFrondSkirt.png)   
+ **重量：**200<br><br>**标签：**	[“腿部（内层）”](tag_InnerLegs.md), [“腿部（外层）”](tag_OuterLegs.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“裤子”](eTag_Pants.md)<br><br>**可使用次数：**1344<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+0.5<br>[阳光防护](SunProtection.md)+0.5<br>[世界观](Structure.md)加成+0.1<br>[情绪](Morale.md)加成+0.25  |  <img decoding="async" src="Sprite/PalmFrondSkirt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |    |  消失<br>[细线](CordFiber.md)(+4)<br>  |    
+拆解<br>  |  -  |    |  消失<br>** Cords **<br>  [细线](CordFiber.md)(+4)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

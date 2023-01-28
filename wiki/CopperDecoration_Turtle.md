@@ -3,7 +3,7 @@
   
   铜制乌龟  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“高级装饰品”](tag_DecorationAdv.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/CopperDecoration_Turtle.png)   
+ **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“高级装饰品”](tag_DecorationAdv.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/CopperDecoration_Turtle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

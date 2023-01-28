@@ -1,9 +1,11 @@
 # 汤力水  
 > 有些人觉得苦，有些人觉得好喝。有助于预防疟疾！  
+<br>  
+> 一种苦涩但美味的饮料，有助于预防<b>疟疾</b>。<br><br>需要足够高的<b>草药技能</b>解锁蓝图，用<b>装满开水的陶罐、奎宁粉、糖和一些柠檬草</b>来制作。  
   
   汤力水  |   图片   
  ----  |  ----:   
- **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“水”](tag_WaterAny.md)  |  ![](Sprite/Thirst.png)   
+ **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

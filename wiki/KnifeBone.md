@@ -1,9 +1,11 @@
 # 骨刀  
 > 非常锋利，可用于切割或刺穿东西。  
+<br>  
+>   
   
   骨刀  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**40  |  ![](Sprite/BoneKnife.png)   
+ **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**40  |  <img decoding="async" src="Sprite/BoneKnife.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

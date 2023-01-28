@@ -1,9 +1,11 @@
 # 蛇草丛  
 > 我应该能从中提取纤维来进行编织。  
+<br>  
+> 一种非常有用的植物，具有<b>驱虫</b>的功效，可以在岛上大部分<b>丛林</b>中找到。<br><br>它的叶子可以用来制作<b>细线和驱虫膏</b>，可以在营火上燃烧来保护你免受昆虫的伤害，还可以用于<b>烹饪食谱</b>甚至更多。  
   
   蛇草丛  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/SnakegrassPatch.png)   
+   |  <img decoding="async" src="Sprite/SnakegrassPatch.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -16,4 +18,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>[蛇草](SnakeGrass.md)(+7～+13)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>** Chilies **<br>  [蛇草](SnakeGrass.md)(+7～+13)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

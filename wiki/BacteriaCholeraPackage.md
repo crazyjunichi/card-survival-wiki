@@ -6,7 +6,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 672  |    |    |  [细菌性霍乱](BacteriaCholera.md)加成+16<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1  |    
 ## 关联状态  
-[污垢](Filth.md)  
+[污垢](Filth.md)  |  [首月次数](FirstMonthCounter.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

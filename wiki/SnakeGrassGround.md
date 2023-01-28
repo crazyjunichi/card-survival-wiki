@@ -1,9 +1,11 @@
 # 捣碎的蛇草  
 > 虫子不喜欢这个。  
+<br>  
+> 一种非常有用的植物，具有<b>驱虫</b>的功效，可以在岛上大部分<b>丛林</b>中找到。<br><br>它的叶子可以用来制作<b>细线和驱虫膏</b>，可以在营火上燃烧来保护你免受昆虫的伤害，还可以用于<b>烹饪食谱</b>甚至更多。  
   
   捣碎的蛇草  |   图片   
  ----  |  ----:   
- **重量：**50  |  ![](Sprite/SpiderLilyLeavesGround.png)   
+ **重量：**50  |  <img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

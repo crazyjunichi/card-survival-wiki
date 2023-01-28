@@ -3,9 +3,9 @@
   
   祖父康复了！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/GranfatherHealthy.png)   
+   |  <img decoding="async" src="Sprite/GranfatherHealthy.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-好！<br>  |  -  |    |  消失<br>[(事件)祖父康复了！](Event_OutroFarmer2.md)(+1)<br>  |    
+好！<br>  |  -  |    |  消失<br>** 1 **<br>  [(事件)祖父康复了！](Event_OutroFarmer2.md)(+1)<br>  |    

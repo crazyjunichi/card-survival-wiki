@@ -3,7 +3,7 @@
   
   地区探索完毕  |   图片   
  ----  |  ----:   
- **环境：**[沙滩](Beach.md)  |  ![](Sprite/Beach.png)   
+ **环境：**[沙滩](Beach.md)  |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

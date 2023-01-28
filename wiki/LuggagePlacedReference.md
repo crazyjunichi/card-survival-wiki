@@ -3,7 +3,7 @@
   
   编织篓  |   图片   
  ----  |  ----:   
- **标签：**	[“袋子”](tag_Bag.md)<br><br>**槽位：**4<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“大的”](tag_Large.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容重量：**1000<br><br>**减重量：**-1000<br><br>** 可重命名 **  |  ![](Sprite/Basket.png)   
+ **标签：**	[“袋子”](tag_Bag.md)<br><br>**槽位：**4<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“大的”](tag_Large.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容重量：**1000<br><br>**减重量：**-1000<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/Basket.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

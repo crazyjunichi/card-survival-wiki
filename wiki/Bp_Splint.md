@@ -3,7 +3,7 @@
   
   夹板  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[长木棍](StickLong.md)  |  ![](Sprite/Splint.png)   
+ ** 解锁需求: **<br>[长木棍](StickLong.md)  |  <img decoding="async" src="Sprite/Splint.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

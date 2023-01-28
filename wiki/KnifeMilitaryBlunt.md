@@ -3,7 +3,7 @@
   
   钝刀  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“军用的”](tag_Military.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)  |  ![](Sprite/MilitaryKnife.png)   
+ **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“军用的”](tag_Military.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/MilitaryKnife.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

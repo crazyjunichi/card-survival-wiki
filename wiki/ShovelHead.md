@@ -1,9 +1,11 @@
 # 铲子头  
 > 可被用来制作铲子。  
+<br>  
+> 铲子是有用的挖掘工具，可以更高效地获取<b>土壤、泥土和沙子</b>。<br><br>它也是修建道路、地窖、水窖和水井的重要工具。<br><br>用<b>泥模具</b>可以制作<b>铜</b>铲。如果你碰巧找到了<b>金属废料</b>也可以做金属铲。<b>木工技能</b>够高的话，你甚至可以用半根原木雕成木铲。  
   
   铲子头  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)  |  ![](Sprite/ShovelHead.png)   
+ **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)  |  <img decoding="async" src="Sprite/ShovelHead.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

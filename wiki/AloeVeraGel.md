@@ -1,9 +1,11 @@
 # 芦荟膏  
 > 适用于几乎各种情况：晒伤、背痛、虫咬、伤口，诸如此类。  
+<br>  
+> 从芦荟叶中提取的凝胶不仅可以用来缓解肌肉和背部疼痛，帮助手伤和脚伤愈合，治疗烧伤和晒伤，应对蚊虫叮咬，还可以用于清洁伤口并加快愈合。<br><br>你也可以吃下它来应急补水，但要注意这有可能会导致腹泻。<br><br>芦荟膏还可用于制作驱虫膏（与磨碎的蛇草结合使用）以及对伤口消毒更有效的硫磺膏。  
   
   芦荟膏  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md), [“有机的”](tag_Organic.md)  |  ![](Sprite/AloeVeraGel.png)   
+ **重量：**25<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md), [“有机的”](tag_Organic.md)  |  <img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

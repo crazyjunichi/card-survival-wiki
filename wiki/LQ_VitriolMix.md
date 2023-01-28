@@ -1,9 +1,11 @@
 # 硫酸盐混合物  
 > 应该在窑炉里熬制它。  
+<br>  
+>   
   
   硫酸盐混合物  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

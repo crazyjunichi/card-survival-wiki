@@ -1,9 +1,11 @@
 # 塑料布  
 > 大块的塑料布，我可以用它搭一个雨水收集器。  
+<br>  
+>   
   
   塑料布  |   图片   
  ----  |  ----:   
- **重量：**250  |  ![](Sprite/plastic sheet.png)   
+ **重量：**250  |  <img decoding="async" src="Sprite/plastic sheet.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

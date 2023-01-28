@@ -1,9 +1,11 @@
 # 月季  
 > 美丽的花，可以吃，也可以戴头上，或是可以拿来沏茶。  
+<br>  
+> 月季可以在该岛的<b>丛林高地</b>中找到。<br><br>它的花是可食用的，也可以浸泡在开水中制成一种特殊的<b>茶</b>，具有放松和增强免疫系统的特性。<br><br>它们也可以<b>穿</b>在你的头发上或被蜜蜂用来制作<b>蜂蜜</b>。<br>  
   
   月季  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  ![](Sprite/ChinaRose.png)   
+ **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  <img decoding="async" src="Sprite/ChinaRose.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

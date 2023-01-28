@@ -1,4 +1,6 @@
 # 阳光强度  
+>   
+  
 变化范围: 0 ~ 6  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -8,6 +10,8 @@
 1 ～ 2  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">阳光强度 - 低  |    |  [阳光辐射](SunExposure.md)+2  |    
 3 ～ 4  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">阳光强度 - 中  |    |  [阳光辐射](SunExposure.md)+4  |    
 5 ～ 6  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">阳光强度 - 高  |    |  [阳光辐射](SunExposure.md)+6  |    
+## 关联状态  
+[晒黑](Tanning.md)  |  [泥巴防护](MudProtection.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -21,8 +25,6 @@
 [暴风雨](TropicalIsland_Storm.md)  |  被动  |  加成0  
 [暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  加成0  
 [暴风雨](TropicalIsland_StormStart.md)  |  被动  |  加成0  
-## 关联状态  
-[晒黑](Tanning.md)  |  [泥巴防护](MudProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

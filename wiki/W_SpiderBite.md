@@ -1,9 +1,11 @@
 # 蜘蛛咬伤  
 > 好痛！  
+<br>  
+> 热带岛屿的丛林中潜伏着危险的蜘蛛，如果你不注意<b>光脚走路或是睡在没有保护的地面上</b>，就会被咬伤。<br><br>蜘蛛的咬伤可是非常痛苦的，需要<b>清洗并用敷料保护</b>来预防<b>感染</b>的风险，就像其他外伤一样。<br><br>对付它们的最好办法就是<b>穿鞋</b>，保护脚不被咬，以及<b>不要直接睡在丛林中的地面上</b>。  
   
   蜘蛛咬伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/SpiderBite.png)   
+ **重量：**0<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/SpiderBite.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

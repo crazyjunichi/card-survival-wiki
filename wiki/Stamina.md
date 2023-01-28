@@ -1,4 +1,6 @@
 # 耐力  
+> 当你干体力活儿时，你的耐力会下降，这会提升<b>卡路里消耗、食欲和体温</b>。<br>因此，如果你的<b>体重或口渴度</b>较低，请不要过度操劳。<br><br>要尽量避免耐力耗尽，否则你会<b>累晕</b>的。  
+  
 变化范围: 0 ~ 32  
 基础变化率: +2 / 每15分钟  
 ## 阶段  
@@ -10,7 +12,7 @@
 26 ～ 31  |  活跃  |    |  [体重](Weight.md)加成-1<br>[食欲](Appetite.md)+50<br>[体感温度](TemperaturePerceived.md)+2  |    
 32 ～ 32  |  休息中  |    |    |    
 ## 关联状态  
-[发烧](Fever.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [肺部伤害](LungDamage.md)  
+[肺部伤害](LungDamage.md)  |  [发烧](Fever.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -20,7 +22,7 @@
 [座椅](SeatAttached.md)  |  休息1小时  |  40  
 [座椅](SeatPlaced.md)  |  休息1小时  |  40  
 [木床](BedWooden.md)  |  睡觉  |  30  
-[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Event_WestonSpecial2e_DismantleActions[0].ActionName  |  30  
+[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  30  
 [椅子](ChairPlaced.md)  |  暂候15分钟  |  15  
 [座椅](SeatAttached.md)  |  暂候15分钟  |  15  
 [座椅](SeatPlaced.md)  |  暂候15分钟  |  15  

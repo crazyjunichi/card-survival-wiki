@@ -3,7 +3,7 @@
   
   后有风暴  |   图片   
  ----  |  ----:   
- **标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+18<br>[风](Wind.md)+3<br>[海风程度](SeaAgitation.md)+4<br>[波次](WaveCounter.md)加成+4<br>[降水值](RainValue.md)+5<br>[阳光强度](SunStrength.md)<br>[光亮](Light.md)-10<br><br>** 区域唯一 **  |  ![](Sprite/WeatherHeavyRain_0.png)   
+ **标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+18<br>[风](Wind.md)+3<br>[海风程度](SeaAgitation.md)+4<br>[波次](WaveCounter.md)加成+4<br>[降水值](RainValue.md)+5<br>[阳光强度](SunStrength.md)<br>[光亮](Light.md)-10<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

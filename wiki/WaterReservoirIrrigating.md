@@ -1,9 +1,11 @@
 # 蓄水池（灌溉中）  
 > 大型储水容器。  
+<br>  
+> 一种由<b>泥砖</b>砌成，内侧覆有<b>粘土</b>的大型设施。它可以储存大量的水并在下雨时自行填满。<br><br>如果被建在升级了<b>灌溉系统</b>的地区，它也可以用于自动灌溉<b>作物</b>。  
   
   蓄水池（灌溉中）  |   图片   
  ----  |  ----:   
- **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**容水量：**12000  |  ![](Sprite/ReservoirEmpty.png)   
+ **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**容水量：**12000  |  <img decoding="async" src="Sprite/ReservoirEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

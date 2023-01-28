@@ -28,7 +28,7 @@
 [(事件)韦斯顿](Event_Weston3b.md)  |  晚点儿再聊！  |  30  
 [(事件)韦斯顿](Event_Weston3c.md)  |  我得走了。  |  30  
 [(事件)韦斯顿](Event_Weston3d.md)  |  拜拜~  |  30  
-[(事件)Event_WestonTalk1a_CardName](Event_WestonTalk1a.md)  |  Event_WestonTalk1a_DismantleActions[0].ActionName  |  30  
+[(事件)Event_WestonTalk1a_CardName](Event_WestonTalk1a.md)  |  Talk later!  |  30  
 [(事件)韦斯顿](Event_Weston0a.md)  |  ……  |  15  
 [(事件)韦斯顿](Event_Weston0b.md)  |  ……  |  15  
 [(事件)韦斯顿](Event_Weston0c.md)  |  ……  |  15  

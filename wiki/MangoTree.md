@@ -1,9 +1,11 @@
 # 芒果树  
 > 我能在上面采集芒果。  
+<br>  
+>   
   
   芒果树  |   图片   
  ----  |  ----:   
- **可使用次数：**8  |  ![](Sprite/MangoTree.png)   
+ **可使用次数：**8  |  <img decoding="async" src="Sprite/MangoTree.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>[芒果](Mango.md)(+1)<br>基础权重：1<br>  |    
+采集<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>** Mango **<br>  [芒果](Mango.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

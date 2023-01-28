@@ -1,9 +1,11 @@
 # 伤口敷料  
 > 无菌伤口敷料，有助于防止伤口感染，并加快伤口愈合。  
+<br>  
+> 敷料可以<b>保护外伤免受感染</b>并加快伤口愈合。<br><br>如果你没有标准的无菌<b>伤口敷料</b>，也可以使用<b>一块中等大小的布</b>做一个。<br>如果可以的话，你还可以<b>将灰附在小块布上</b>用来消毒。<br><br>如果没有布，也可以用某些大叶子制作敷料，例如<b>大叶仙茅</b>。<br><br>请务必在敷上敷料前<b>用水或肥皂清洗伤口</b>，如果出血量很大，请先使用<b>止血带</b>。  
   
   伤口敷料  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“小的”](tag_Tiny.md), [“敷料”](tag_Dressing.md)<br><br>**装备：**  |  ![](Sprite/Dressing.png)   
+ **重量：**25<br><br>**标签：**	[“小的”](tag_Tiny.md), [“敷料”](tag_Dressing.md)<br><br>**装备：**  |  <img decoding="async" src="Sprite/Dressing.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

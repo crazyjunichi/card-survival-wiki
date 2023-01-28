@@ -1,9 +1,11 @@
 # 矛头  
 > 可被用来制作长矛。  
+<br>  
+> 对于长矛来说，一个锋利而坚固的<b>金属矛头</b>可比别的牛鬼蛇神好用，用结实的<b>绳子和细线</b>把它绑在<b>长木棍</b>上吧。<br><br>炼制铜制矛头，你需要找到<b>铜矿</b>，在<b>熔炉</b>上熔炼，并在<b>模具</b>中冷却。<br><br>铜制矛头的其中一个优点是它比其他矛头更耐用，而且只会变<b>钝</b>而不会<b>破损</b>。<br><br>当这种情况发生时，你只需要使用<b>石头打磨矛头</b>，就能够重复使用它。  
   
   矛头  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**150  |  ![](Sprite/SpearHead.png)   
+ **重量：**75<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“锤”](tag_Hammer.md), [“铜制小物件”](tag_CopperSmall.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**150  |  <img decoding="async" src="Sprite/SpearHead.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

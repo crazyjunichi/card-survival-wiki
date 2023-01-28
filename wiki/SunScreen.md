@@ -3,7 +3,7 @@
   
   防晒霜  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**可使用次数：**10  |  ![](Sprite/Sunscreen.png)   
+ **重量：**100<br><br>**可使用次数：**10  |  <img decoding="async" src="Sprite/Sunscreen.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

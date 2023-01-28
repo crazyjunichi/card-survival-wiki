@@ -1,9 +1,11 @@
 # 头骨  
 > 瘆人……  
+<br>  
+> 船长是一位岛上的同伴，它可以陪伴你，帮助你应对孤独。然而，他糟糕的性格和态度会降低你的情绪。<br><br>他可以在高地的某个地方找到，但不建议尝试和他交朋友。  
   
   头骨  |   图片   
  ----  |  ----:   
- **重量：**150  |  ![](Sprite/Skull.png)   
+ **重量：**150  |  <img decoding="async" src="Sprite/Skull.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

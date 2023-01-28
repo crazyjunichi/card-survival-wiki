@@ -1,9 +1,11 @@
 # 钓鱼线（已添加诱饵）  
 > 可以直接拿来钓鱼！  
+<br>  
+> 用<b>骨钩</b>和一些<b>细线</b>制作的简单钓鱼工具。<br><br>确保使用<b>诱饵</b>（如<b>鱼杂或鱼片</b>）来增加捕获鱼的机会。  
   
   钓鱼线（已添加诱饵）  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)<br><br>**可使用次数：**30  |  ![](Sprite/FishingLine.png)   
+ **重量：**50<br><br>**标签：**	[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)<br><br>**可使用次数：**30  |  <img decoding="async" src="Sprite/FishingLine.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

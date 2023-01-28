@@ -3,7 +3,7 @@
   
   屋顶损坏  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)-250  |  ![](Sprite/RoofDamage.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)-250  |  <img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

@@ -1,9 +1,11 @@
 # 未烧制的陶碗  
 > 下一步是把它放进窑炉烧制。  
+<br>  
+> 陶碗可以用来准备多种食物，或用作简易的储水容器。如果你身处在没有<b>椰子树</b>的地区，陶碗则是<b>椰壳碗</b>的完美替代品。<br><br>组合<b>粘土</b>和抗裂剂（如<b>灰烬、纤维或沙子</b>），可以很容易地制作陶碗。<br>作为非常简单的作品，普通的<b>营火</b>就可以烧制陶碗，不需要<b>窑炉</b>。  
   
   未烧制的陶碗  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“粘土”](tag_Clay.md)  |  ![](Sprite/ClayBowlUncooked.png)   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“粘土”](tag_Clay.md)  |  <img decoding="async" src="Sprite/ClayBowlUncooked.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -1,4 +1,6 @@
 # 体重  
+> 如果你摄入的卡路里比消耗的要少，你的体重就会下降，反之亦然。<br><br>如果你的体重过低，你将变得虚弱，<b>免疫系统</b>也更加脆弱。当体重降至0你就会<b>死</b>。<br>如果你的体重过高，你将变得肥胖，它会为你的<b>行动</b>带来阻碍。<br><br>如需增重，你应避免高强度的<b>体力活动</b>，多吃高热量的如富含油脂和碳水化合物的<b>烹饪食物</b>。  
+  
 变化范围: 0 ~ 15000  
 基础变化率: 0 / 每15分钟  
 ## 阶段  
@@ -13,6 +15,8 @@
 75 ～ 288  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">骨瘦嶙峋  |  我感觉身体非常虚弱  |  [免疫系统](ImmuneSystem.md)-100<br>[清醒度](Wakefulness.md)加成-1<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 1 ～ 74  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">快饿死了  |  我没力气动了……我要坚持不住了  |  [清醒度](Wakefulness.md)加成-1<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">死于饥饿  |  你死于饥饿。  |    |    
+## 关联状态  
+[肠道](Intestines.md)  |  [耐力](Stamina.md)  |  [烧伤](Burns.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [血压](Blood.md)  |  [月季效果](ChinaRoseEffect.md)  |  [怀孕](Pregnancy.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -73,8 +77,6 @@
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-1  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-1  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-1  
-## 关联状态  
-[肠道](Intestines.md)  |  [耐力](Stamina.md)  |  [烧伤](Burns.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [血压](Blood.md)  |  [月季效果](ChinaRoseEffect.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

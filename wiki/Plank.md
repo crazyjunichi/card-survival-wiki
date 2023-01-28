@@ -1,9 +1,11 @@
 # 木板  
 > 用于制作更高级的建筑。  
+<br>  
+> 木板可以用来制作木质建筑和家具。<br><br>需要一根<b>原木，一把锋利的斧子和一把锋利的小刀</b>来裁制木板。  
   
   木板  |   图片   
  ----  |  ----:   
- **重量：**200  |  ![](Sprite/Plank.png)   
+ **重量：**200  |  <img decoding="async" src="Sprite/Plank.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

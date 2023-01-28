@@ -1,9 +1,11 @@
 # 火炉  
 > 我可以在这里烹饪或熏制食物。  
+<br>  
+> 一种由泥砖制成的简易厨具，它只能在室内建造。<br><br>它有<b>4个烹饪槽</b>（比营火多2个）而且能够<b>熏制食物</b>使其保存更长时间。<br><br>火炉对体温的影响要低于营火，这使其更适合用于室内烹饪。  
   
   火炉  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+15<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+25  |  ![](Sprite/StoveOn.png)   
+ **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)<br><br>** 效果: **<br>[保温](InsulationCold.md)+15<br>[湿度](Wetness.md)加成-1<br>[光亮](Light.md)+25  |  <img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>[火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
+取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br>** Embers **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
 熄灭火焰<br>  |  -  |    |  → [火炉(熄灭)](StoveExtinguished.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

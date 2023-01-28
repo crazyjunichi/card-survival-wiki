@@ -1,9 +1,11 @@
 # 棕榈叶  
 > 可以用来制作东西或者铺房顶  
+<br>  
+> 在热带岛屿上的很多地方，如<b>沙滩和丛林里</b>都可以找到棕榈叶。<br>它们可以直接在地上捡到，或者在<b>椰子树和灌木丛</b>采集到。<br><br>它们可以被用于制作简单的<b>叶床</b>以保证更舒适的睡眠，同时也是建造<b>小屋和棚屋</b>屋顶的材料。<br><br><b>棕榈叶还可以编织到一起</b>做成各种有用的物品，如<b>编织篓及背篓、帽子或者是简陋的棚屋</b>。  
   
   棕榈叶  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md)  |  ![](Sprite/PalmTreeLeaves.png)   
+ **重量：**100<br><br>**标签：**	[“树叶”](tag_Leaves.md)  |  <img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

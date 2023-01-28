@@ -3,7 +3,7 @@
   
   纺锤  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[纺织(技能)](Skill_Tailoring.md): 45-150  |  ![](Sprite/SpindledCord.png)   
+ ** 解锁条件: **<br>[纺织(技能)](Skill_Tailoring.md): 45-150  |  <img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

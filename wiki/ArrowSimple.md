@@ -1,9 +1,11 @@
 # 简易箭矢  
 > 搭配弓使用。  
+<br>  
+> 基础而简单的羽箭，用磨尖的<b>木棍和羽毛</b>制成。<br><br>必须将其装备在手牌或箭筒里，你才能够使用弓。  
   
   简易箭矢  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“箭矢”](tag_Arrow.md), [“高价值物品”](tag_Valuable.md)<br><br>**可使用次数：**10  |  ![](Sprite/Arrow.png)   
+ **重量：**25<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“箭矢”](tag_Arrow.md), [“高价值物品”](tag_Valuable.md)<br><br>**可使用次数：**10  |  <img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

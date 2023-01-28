@@ -3,7 +3,7 @@
   
   地区探索完毕  |   图片   
  ----  |  ----:   
- **环境：**[丛林深处](DeepJungle.md)  |  ![](Sprite/DeepJungle.png)   
+ **环境：**[丛林深处](DeepJungle.md)  |  <img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

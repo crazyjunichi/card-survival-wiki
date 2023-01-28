@@ -1,9 +1,11 @@
 # 燧石斧  
 > 可以用来砍树。  
+<br>  
+> 和铜制的斧子一样锋利。如果你的<b>石工</b>技能足够高的话，你将学会如何用一块大燧石制作这种斧子。<br><br>燧石斧可以用来做木工活，并且砍伐<b>树木</b>的速度比简单的石斧快得多。  
   
   燧石斧  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**25  |  ![](Sprite/FlintAxe.png)   
+ **重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“锤”](tag_Axe.md), [“斧状的”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可使用次数：**25  |  <img decoding="async" src="Sprite/FlintAxe.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

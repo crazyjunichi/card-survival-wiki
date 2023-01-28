@@ -1,9 +1,11 @@
 # 坍塌的屋顶  
 > 一团糟……  
+<br>  
+> <b>棚屋和泥屋</b>的屋顶有时会出现破洞，特别是在<b>风暴</b>中。<br>当这种情况发生时，一定要尽快修复它们，否则你将面临整个屋顶<b>倒塌</b>的风险。<br><br>屋顶损坏通常会降低你的<b>不适</b>，并加快房屋<b>变脏</b>的速度。倒塌的屋顶影响更大，且不再为你遮挡<b>雨和太阳</b>。  
   
   坍塌的屋顶  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)-2000<br>[雨水防护](RainProtection.md)-5<br>[阳光防护](SunProtection.md)-5<br>[绝热](InsulationHeat.md)-3<br>[遮蔽](Sheltered.md)-1  |  ![](Sprite/CollapsedRoof.png)   
+ ** 效果: **<br>[舒适度](Comfort.md)-2000<br>[雨水防护](RainProtection.md)-5<br>[阳光防护](SunProtection.md)-5<br>[绝热](InsulationHeat.md)-3<br>[遮蔽](Sheltered.md)-1  |  <img decoding="async" src="Sprite/CollapsedRoof.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

@@ -1,9 +1,11 @@
 # 卡瓦根  
 > 可以捣碎后泡入水中调制成一种舒缓茶，有舒缓压力、镇痛和退烧的功效。  
+<br>  
+> 这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的药用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。  
   
   卡瓦根  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/KavaRoots.png)   
+ **重量：**100<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/KavaRoots.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

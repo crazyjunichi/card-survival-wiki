@@ -1,9 +1,11 @@
 # 巢脾  
 > 甜甜的，很美味。把它放在碗里按压可以分离出蜂蜡和蜂蜜。  
+<br>  
+> 巢脾可以从<b>蜂巢或蜂箱</b>中提取。<br><br>可以将它们压在碗上，分离<b>蜂蜜</b>和<b>蜂蜡</b>。蜂蜜可食用，而蜂蜡能用于制作蜡烛。  
   
   巢脾  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/BeeHoneycomb.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

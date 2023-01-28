@@ -3,5 +3,5 @@
   
   项圈  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“真人秀项圈”](eTag_CollarTV.md)  |  ![](Sprite/Collar.png)   
+ **重量：**150<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“真人秀项圈”](eTag_CollarTV.md)  |  <img decoding="async" src="Sprite/Collar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   

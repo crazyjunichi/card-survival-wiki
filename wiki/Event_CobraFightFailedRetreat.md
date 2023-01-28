@@ -3,7 +3,7 @@
   
   那条眼镜蛇喷射了毒液！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/SpittingCobra.png)   
+   |  <img decoding="async" src="Sprite/SpittingCobra.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>[眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  |  [情绪](Morale.md)-20  
+继续<br>  |  -  |    |  消失<br>** Bite **<br>  [眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  |  [情绪](Morale.md)-20  

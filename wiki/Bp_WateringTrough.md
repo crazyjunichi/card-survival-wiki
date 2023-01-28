@@ -3,7 +3,7 @@
   
   水槽  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[母山羊](GoatEnclosureFemale.md)<br>[公山羊](GoatEnclosureMale.md)<br>[母猪](BoarEnclosureFemale.md)<br>[公猪](BoarEnclosureMale.md)  |  ![](Sprite/WateringTrough.png)   
+ ** 解锁需求: **<br>[母山羊](GoatEnclosureFemale.md)<br>[公山羊](GoatEnclosureMale.md)<br>[母猪](BoarEnclosureFemale.md)<br>[公猪](BoarEnclosureMale.md)  |  <img decoding="async" src="Sprite/WateringTrough.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

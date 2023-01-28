@@ -1,9 +1,11 @@
 # 燧石刀  
 > 一把锋利的石刀。  
+<br>  
+> 一把通过<b>石工</b>技能加工<b>燧石</b>而制成的刀。<br><br>足够锋利，可以进行<b>木工</b>，也可以做任何铜刀能做的事情。  
   
   燧石刀  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**15  |  ![](Sprite/FlintKnife.png)   
+ **重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可使用次数：**15  |  <img decoding="async" src="Sprite/FlintKnife.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

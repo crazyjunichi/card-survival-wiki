@@ -1,9 +1,11 @@
 # 捣碎的茉莉花  
 > 它们散发着沁人心脾的芬芳，可以冲泡成一种安神茶。  
+<br>  
+>   
   
   捣碎的茉莉花  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md)  |  ![](Sprite/JasmineFlowers.png)   
+ **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“弱效食料”](tag_FeedWeak.md)  |  <img decoding="async" src="Sprite/JasmineFlowers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

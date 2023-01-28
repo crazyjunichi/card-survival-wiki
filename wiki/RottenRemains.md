@@ -1,9 +1,11 @@
 # 腐烂物  
 > 恶……  
+<br>  
+> 大多数食物变质后就会如此。<br>腐烂物，尽管臭味令人<b>不适</b>，但其实还挺有用的。不仅可以用来制作<b>农田和肥料</b>，也可以作为<b>诱饵</b>用于陷阱和捕鱼，还可以添入<b>堆肥箱</b>中。  
   
   腐烂物  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  ![](Sprite/RottenRemains.png)   
+ **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

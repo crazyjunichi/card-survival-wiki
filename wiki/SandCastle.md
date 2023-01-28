@@ -1,9 +1,11 @@
 # 沙堡  
 > 精致的沙堡，我的得意之作~  
+<br>  
+> 沙子可以在岛上的沙滩地区获取。它在某些蓝图中有一定的用途，也可以用于<b>防止粘土开裂</b>。<br><br>此外，如果你感到无聊，建造<b>沙堡</b>也是一种娱乐方式。  
   
   沙堡  |   图片   
  ----  |  ----:   
- **标签：**	[“大的”](tag_Large.md)  |  ![](Sprite/SandCastle.png)   
+ **标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/SandCastle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

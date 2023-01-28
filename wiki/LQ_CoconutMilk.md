@@ -1,9 +1,11 @@
 # 椰奶  
 > 味道甜美，营养丰富。也可以煮沸提炼出油。  
+<br>  
+> 椰奶可以通过在碗里捣碎<b>椰肉</b>制成。<br><br>它是一种美味且营养丰富的液体，可用于一些<b>烹饪食谱</b>，还可以煮沸以制得<b>油</b>：烹饪时的必需品，也有更多的用途。  
   
   椰奶  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

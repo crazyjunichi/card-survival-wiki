@@ -3,7 +3,7 @@
   
   贝壳项链  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[漂亮贝壳](SeashellsPretty.md)  |  ![](Sprite/SeashellNecklace.png)   
+ ** 解锁需求: **<br>[漂亮贝壳](SeashellsPretty.md)  |  <img decoding="async" src="Sprite/SeashellNecklace.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

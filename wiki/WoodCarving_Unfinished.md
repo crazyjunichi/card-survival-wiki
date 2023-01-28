@@ -1,9 +1,11 @@
 # 未完成的木雕  
 > 一个未完成的木雕。应该继续用刀在上面雕刻。  
+<br>  
+> 如果你有足够的<b>木工技能</b>，可以用<b>木材</b>制作木雕。<br><br>雕刻木雕是一个很好的<b>娱乐</b>来源。如果技能足够高，你还能制作出一些好看的<b>装饰品</b>，放在架子上可以增加你的<b>舒适度</b>。  
   
   未完成的木雕  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“燃料”](tag_Fuel.md)  |  ![](Sprite/WoodCarving.png)   
+ **重量：**150<br><br>**标签：**	[“燃料”](tag_Fuel.md)  |  <img decoding="async" src="Sprite/WoodCarving.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +14,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“高级切割工具”](tag_CutterAdv.md)  |  雕刻  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>进度 + 1<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>[木屑](WoodShavings.md)(0～+1)<br>  |  [木工(技能)](Skill_Woodworking.md)+1<br>[手掌损伤](HandDamage.md)+20<br>[情绪](Morale.md)+5<br>[压力](Stress.md)-10<br>[娱乐](Entertainment.md)+16  
+[“高级切割工具”](tag_CutterAdv.md)  |  雕刻  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>进度 + 1<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>**  **<br>  [木屑](WoodShavings.md)(0～+1)<br>  |  [木工(技能)](Skill_Woodworking.md)+1<br>[手掌损伤](HandDamage.md)+20<br>[情绪](Morale.md)+5<br>[压力](Stress.md)-10<br>[娱乐](Entertainment.md)+16  
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md), [营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆](ClayFirePit.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆](Fire.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [熔炉(熄灭)](ForgeExtinguished.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [高级窑炉(熄灭)](KilnAdvancedExtinguished.md), [窑炉(熄灭)](KilnExtinguished.md), [火炉](Stove.md), [火炉(熄灭)](StoveExtinguished.md)  
 ## 属性   

@@ -3,9 +3,9 @@
   
   晶石洞穴  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/CrystalChamber.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/CrystalChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  [洞穴上层(环境)](Env_CrystalChamber.md)(+1)<br>[洞穴底层](CrystalChamberExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** Exit **<br>  [洞穴上层(环境)](Env_CrystalChamber.md)(+1)<br>  [洞穴底层](CrystalChamberExit.md)(+1)<br>基础权重：1<br>  |    

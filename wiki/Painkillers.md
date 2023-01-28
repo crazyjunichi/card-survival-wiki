@@ -3,7 +3,7 @@
   
   止痛药  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**6  |  ![](Sprite/Painkillers.png)   
+ **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**6  |  <img decoding="async" src="Sprite/Painkillers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

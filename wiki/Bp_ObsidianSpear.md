@@ -3,7 +3,7 @@
   
   黑曜石长矛  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[石工(技能)](Skill_Knapping.md): 75-150  |  ![](Sprite/SpearObsidian.png)   
+ ** 解锁条件: **<br>[石工(技能)](Skill_Knapping.md): 75-150  |  <img decoding="async" src="Sprite/SpearObsidian.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

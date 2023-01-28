@@ -1,9 +1,11 @@
 # 巨蜥咬伤  
 > 我需要保持创面洁净  
+<br>  
+> 一个被<b>巨蜥</b>撕咬出的丑陋伤口，沾满了细菌。<br><br>如果你不幸被巨蜥咬伤，请时刻保持伤口的<b>清洁和防护</b>，因为它很容易感染。<br>考虑服用一些药物来增强你的<b>免疫系统</b>，如果免疫系统不够强大，随着时间推移，伤口中的细菌会让你生病。  
   
   巨蜥咬伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“咬伤”](eTag_WBite.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  ![](Sprite/Abrasion.png)   
+ **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“咬伤”](eTag_WBite.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

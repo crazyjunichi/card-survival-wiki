@@ -1,9 +1,11 @@
 # 钝刀  
 > 想重新使用需要用石头先打磨一下。  
+<br>  
+>   
   
   钝刀  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md), [“铜制小物件”](tag_CopperSmall.md)  |  ![](Sprite/CopperKnifeBlunt.png)   
+ **重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md), [“铜制小物件”](tag_CopperSmall.md)  |  <img decoding="async" src="Sprite/CopperKnifeBlunt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

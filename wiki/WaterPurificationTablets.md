@@ -3,7 +3,7 @@
   
   净水片  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**8  |  ![](Sprite/Seasickness.png)   
+ **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可使用次数：**8  |  <img decoding="async" src="Sprite/Seasickness.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖至  
 [不安全的水](LQ_WaterUnsafe.md)  

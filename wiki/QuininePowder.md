@@ -1,9 +1,11 @@
 # 金鸡纳树皮粉  
 > 有助于治疗疟疾。  
+<br>  
+> 从<b>金鸡纳树</b>干燥的树皮中可以提取奎宁。<br><br>一种用于预防和治疗<b>疟疾</b>的重要药物。奎宁粉可以进一步加工成<b>硫酸奎宁</b>，对疟疾疗效更佳，或制作<b>汤力水</b>饮料。  
   
   金鸡纳树皮粉  |   图片   
  ----  |  ----:   
- **重量：**10  |  ![](Sprite/Quicklime.png)   
+ **重量：**10  |  <img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

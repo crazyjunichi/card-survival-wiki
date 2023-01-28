@@ -1,9 +1,11 @@
 # 姜  
 > 可以捣碎并制成姜茶，能够增强免疫系统并缓解消化问题。  
+<br>  
+> 它的根可以食用，对健康有诸多好处。<br><br>把它捣碎用开水浸泡，就可以泡出一种能够舒缓肠胃的活力姜茶，有助于减少<b>恶心和腹泻</b>，增加<b>食欲</b>，降低对其他食物的<b>厌倦度</b>。  
   
   姜  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/Ginger.png)   
+ **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/Ginger.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

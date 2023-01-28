@@ -3,7 +3,7 @@
   
   丛林沙拉  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[油](LQ_Oil.md)  |  ![](Sprite/JungleSalad.png)   
+ ** 解锁需求: **<br>[油](LQ_Oil.md)  |  <img decoding="async" src="Sprite/JungleSalad.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

@@ -3,7 +3,7 @@
   
   装饰品模具  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“粘土”](tag_Clay.md), [“沉重的”](tag_Heavy.md)  |  ![](Sprite/ClayMold.png)   
+ **重量：**250<br><br>**标签：**	[“粘土”](tag_Clay.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/ClayMold.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-回收<br>  |  -  |    |  消失<br>[粘土](Clay.md)(+2)<br>[铜](Copper.md)(+2)<br>  |    
+回收<br>  |  -  |    |  消失<br>** Copper **<br>  [粘土](Clay.md)(+2)<br>  [铜](Copper.md)(+2)<br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

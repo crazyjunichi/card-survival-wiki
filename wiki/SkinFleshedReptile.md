@@ -1,9 +1,11 @@
 # 刮净的蜥蜴皮  
 > 下一步是等它干燥。  
+<br>  
+> 皮革可以通过剥大型动物（如野猪、山羊或巨蜥）的皮获得。<br>在能使用之前，新鲜兽皮需要用切割工具剔除残留的肉后晾干一段时间。  
   
   刮净的蜥蜴皮  |   图片   
  ----  |  ----:   
- **重量：**250  |  ![](Sprite/ReptileHideFleshed.png)   
+ **重量：**250  |  <img decoding="async" src="Sprite/ReptileHideFleshed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

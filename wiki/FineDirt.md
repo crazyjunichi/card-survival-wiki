@@ -1,9 +1,11 @@
 # 细土  
 > 可以与水混合制成粘土  
+<br>  
+>   
   
   细土  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)  |  ![](Sprite/FineDirt.png)   
+ **重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

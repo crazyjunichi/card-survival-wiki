@@ -3,7 +3,7 @@
   
   扫帚  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[不适](Discomfort.md): 251-1000  |  ![](Sprite/Broom.png)   
+ ** 解锁条件: **<br>[不适](Discomfort.md): 251-1000  |  <img decoding="async" src="Sprite/Broom.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

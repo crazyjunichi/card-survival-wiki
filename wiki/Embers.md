@@ -3,7 +3,7 @@
   
   火炭  |   图片   
  ----  |  ----:   
- **重量：**75  |  ![](Sprite/Embers.png)   
+ **重量：**75  |  <img decoding="async" src="Sprite/Embers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

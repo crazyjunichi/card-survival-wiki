@@ -1,9 +1,11 @@
 # 开水  
 > 可以冲咖啡或泡茶。  
+<br>  
+>   
   
   开水  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖至  
 [月季](ChinaRoseFlowers.md), [烤咖啡豆](CoffeeRoastedBeans.md), [姜末](GingerGround.md), [茉莉花](JasmineFlowers.md), [捣碎的茉莉花](JasmineFlowersGround.md), [稻米](RiceGrains.md), [捣碎的蜘蛛兰](SpiderLilyGround.md)  

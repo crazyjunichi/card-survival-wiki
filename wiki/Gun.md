@@ -3,7 +3,7 @@
   
   枪  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“军用的”](tag_Military.md)<br><br>**可使用次数：**17  |  ![](Sprite/Pistol.png)   
+ **重量：**150<br><br>**标签：**	[“军用的”](tag_Military.md)<br><br>**可使用次数：**17  |  <img decoding="async" src="Sprite/Pistol.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

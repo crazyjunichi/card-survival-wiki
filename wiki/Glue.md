@@ -1,9 +1,11 @@
 # 胶水  
 > 黏糊糊的。  
+<br>  
+> 一种天然粘合剂，在锅中一同煮沸皮革与熟石灰（浸泡的生石灰）制成。<br>它会在一段时间后干燥，但可以再次加热恢复为流体。  
   
   胶水  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  ![](Sprite/AloeVeraGel.png)   
+ **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

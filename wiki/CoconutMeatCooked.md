@@ -1,9 +1,11 @@
 # 烤椰肉  
 > 美味。  
+<br>  
+> <b>椰子</b>内的美味！<br>它的吃法很多：可以生食、烤食，也可以用在各种烹饪食谱中，如<b>丛林沙拉</b>或<b>西米蛋糕</b>。<br><br>把椰肉放入椰子壳或碗内可以制成一种具有许多用途的烹饪配料——<b>椰奶</b>。  
   
   烤椰肉  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/CoconutMeatRoasted.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/CoconutMeatRoasted.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

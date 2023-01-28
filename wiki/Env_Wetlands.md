@@ -3,7 +3,7 @@
   
   湿地  |   图片   
  ----  |  ----:   
- **标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md)<br><br>**初始：**	[湿地丛林](Wetlands.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+3<br>[阳光防护](SunProtection.md)+4<br>[蚊虫数量](BugPopulation.md)+4<br>[猎手接近](HuntersProximity.md)-0.5  |  ![](Sprite/Wetlands.png)   
+ **标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md)<br><br>**初始：**	[湿地丛林](Wetlands.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+3<br>[阳光防护](SunProtection.md)+4<br>[蚊虫数量](BugPopulation.md)+4<br>[猎手接近](HuntersProximity.md)-0.5  |  <img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

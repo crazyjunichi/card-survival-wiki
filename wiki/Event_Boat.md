@@ -3,9 +3,9 @@
   
   罪魁祸首回来了！  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/Beach.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失  |    
+继续<br>  |  -  |    |  消失<br>** Beach Fight **<br>  |    

@@ -3,7 +3,7 @@
   
   肥皂  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[脂肪](Fat.md)<br>[油](LQ_Oil.md)  |  ![](Sprite/SoapWet.png)   
+ ** 解锁需求: **<br>[脂肪](Fat.md)<br>[油](LQ_Oil.md)  |  <img decoding="async" src="Sprite/SoapWet.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

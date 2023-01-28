@@ -1,9 +1,11 @@
 # 浓硝酸  
 >   
+<br>  
+>   
   
   浓硝酸  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Thirst.png)   
+   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可用于蓝图  
 - [炸药(蓝图)](Bp_Dynamite.md)  

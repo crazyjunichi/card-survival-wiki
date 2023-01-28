@@ -1,9 +1,11 @@
 # 水椰籽  
 > 味道不错。  
+<br>  
+> 一大串可食用的水椰树种。<br><br>它们需要在<b>切割工具</b>（或猕猴朋友）的帮助下去除外壳才能食用。<br><br>和椰子类似，吃多了会导致腹泻。  
   
   水椰籽  |   图片   
  ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  ![](Sprite/NipaSeeds.png)   
+ **重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/NipaSeeds.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

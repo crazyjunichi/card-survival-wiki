@@ -3,7 +3,7 @@
   
   获救！  |   图片   
  ----  |  ----:   
-   |  ![](Sprite/Ship.png)   
+   |  <img decoding="async" src="Sprite/Ship.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

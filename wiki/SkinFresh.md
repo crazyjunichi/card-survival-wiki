@@ -1,9 +1,11 @@
 # 新鲜兽皮  
 > 刮除残肉以防止腐坏。  
+<br>  
+> 皮革可以通过剥大型动物（如野猪、山羊或巨蜥）的皮获得。<br>在能使用之前，新鲜兽皮需要用切割工具剔除残留的肉后晾干一段时间。  
   
   新鲜兽皮  |   图片   
  ----  |  ----:   
- **重量：**250  |  ![](Sprite/HideRaw.png)   
+ **重量：**250  |  <img decoding="async" src="Sprite/HideRaw.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

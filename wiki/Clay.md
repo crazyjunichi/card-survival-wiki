@@ -1,9 +1,11 @@
 # 粘土  
 > 一块粘土。  
+<br>  
+> 粘土可以通过粉碎<b>干土</b>然后添加<b>水</b>，或单纯搅拌<b>泥</b>制成。<br><br>它是一种极其有用的材料，可用于制作多种<b>液体容器</b>和建筑。  
   
   粘土  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  ![](Sprite/Clay.png)   
+ **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Clay.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

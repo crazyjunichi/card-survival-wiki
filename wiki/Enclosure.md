@@ -1,9 +1,11 @@
 # 畜栏  
 >   
+<br>  
+> 一个大型畜栏，用于饲养<b>山羊和灰山鹑</b>等动物。<br>它可以用<b>泥砖、细线</b>和大量<b>长木棍</b>建造。<br><br>不同的设施，如<b>灰山鹑喂养器、食槽和水槽</b>可以建造在其中，以帮助你更轻松地照顾动物。  
   
   畜栏  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  ![](Sprite/Coop.png)   
+ ** 区域唯一 **  |  <img decoding="async" src="Sprite/Coop.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

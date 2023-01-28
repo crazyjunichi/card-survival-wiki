@@ -1,9 +1,11 @@
 # 木屑  
 > 完美的火绒，可以用它来生火。  
+<br>  
+> 将一把<b>锋利的刀</b>拖到木材上，或通过对应的蓝图来制造木屑。<br><br>木屑可以用作随意的<b>火绒</b>，是理想的点火材料。<br><br>制作木屑也是一种入门训练<b>木工</b>技能的方法。  
   
   木屑  |   图片   
  ----  |  ----:   
- **重量：**15<br><br>**标签：**	[“火绒”](tag_Tinder.md)  |  ![](Sprite/Shavings.png)   
+ **重量：**15<br><br>**标签：**	[“火绒”](tag_Tinder.md)  |  <img decoding="async" src="Sprite/Shavings.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

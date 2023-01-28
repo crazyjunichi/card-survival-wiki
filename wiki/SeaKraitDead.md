@@ -1,9 +1,11 @@
 # 海蛇尸体  
 > 一条死去的海蛇。应该先剥皮。  
+<br>  
+> 这些海蛇经常出现在食物丰富的海域如<b>海湾和红树林</b>。<br><br>虽然它们的毒液并不是很危险，但是连续中毒依然是致命的。<br>如果你在游泳或叉鱼时被海蛇咬了，适当停止活动并休息直到毒液的影响消散。<br><br>如果海蛇毒积累过多，它会缓慢麻痹你的腿，模糊你的视线，最后让你窒息而死。  
   
   海蛇尸体  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md)  |  ![](Sprite/SeaKraitCarcass.png)   
+ **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/SeaKraitCarcass.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
