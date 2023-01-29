@@ -1,5 +1,5 @@
 # “可用于布置陷阱的树”  
-- [酸湖(区域)](AcidLake.md)  
+- [酸湖(区域)(火山)](AcidLake.md)  
 - [丛林深处(区域)](DeepJungle.md)  
 - [东部草原(区域)](GrasslandsE.md)  
 - [西部草原(区域)](GrasslandsW.md)  
@@ -10,4 +10,4 @@
 - [丛林边缘(区域)](Outskirts.md)  
 - [神秘谷(区域)](SecretValley.md)  
 - [火山(区域)](Volcano.md)  
-- [湿地丛林(区域)](Wetlands.md)  
+- [湿地丛林(区域)(湿地)](Wetlands.md)  

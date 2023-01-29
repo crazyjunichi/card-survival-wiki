@@ -11,14 +11,9 @@
 来源  |  操作  
 ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md) , [营火](Campfire.md)  |  烧开水  
-[“灌溉用水”](tag_WaterFresh.md) , [营火](Campfire.md)  |  烧开水  
-[“灌溉用水”](tag_WaterFresh.md) , [粘土火盆](ClayFirePit.md)  |  烧开水  
 [“灌溉用水”](tag_WaterFresh.md) , [粘土火盆](ClayFirePit.md)  |  烧开水  
 [“灌溉用水”](tag_WaterFresh.md) , [火堆](Fire.md)  |  烧开水  
-[“灌溉用水”](tag_WaterFresh.md) , [火堆](Fire.md)  |  烧开水  
 [“灌溉用水”](tag_WaterFresh.md) , [瓦斯炉(开)](GasCookerOn.md)  |  烧开水  
-[“灌溉用水”](tag_WaterFresh.md) , [瓦斯炉(开)](GasCookerOn.md)  |  烧开水  
-[“灌溉用水”](tag_WaterFresh.md) , [火炉](Stove.md)  |  烧开水  
 [“灌溉用水”](tag_WaterFresh.md) , [火炉](Stove.md)  |  烧开水  
 ## 可拖至  
 [月季](ChinaRoseFlowers.md), [烤咖啡豆](CoffeeRoastedBeans.md), [姜末](GingerGround.md), [茉莉花](JasmineFlowers.md), [捣碎的茉莉花](JasmineFlowersGround.md), [稻米](RiceGrains.md), [捣碎的蜘蛛兰](SpiderLilyGround.md)  

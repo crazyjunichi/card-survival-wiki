@@ -35,7 +35,6 @@
 [纸](Papers.md) , [弓钻](BowDrill.md)  |  钻木取火  
 [纸](Papers.md) , [火把(开)](TorchOn.md)  |  点燃火绒  
 [纸](Papers.md) , [信号镜](SignalingMirror.md)  |  点燃火绒  
-[手钻](FirePlow.md) , [“火绒”](tag_Tinder.md)  |  点燃火绒  
 [木屑](WoodShavings.md) , [手钻](HandDrill.md)  |  钻木取火  
 [木屑](WoodShavings.md) , [弓钻](BowDrill.md)  |  钻木取火  
 [木屑](WoodShavings.md) , [火把(开)](TorchOn.md)  |  点燃火绒  

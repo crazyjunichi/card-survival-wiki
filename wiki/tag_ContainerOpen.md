@@ -9,7 +9,7 @@
 [陶罐](ClayVase.md)  |  1200  
 [椰子壳](CoconutShell.md)  |  300  
 [茉莉花(塑料瓶)](PlasticBottleJasmine.md)  |  300  
-[干涸的小水塘(湿地丛林)](Puddle.md)  |  6000  
+[干涸的小水塘(湿地)](Puddle.md)  |  6000  
 [雨水收集器](RainCatcher.md)  |  3000  
 [蓄水池](WaterReservoir.md)  |  12000  
 [蓄水池(满)](WaterReservoirFull.md)  |  12000  

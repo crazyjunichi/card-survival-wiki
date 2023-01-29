@@ -199,7 +199,7 @@
 [烤老鼠](MouseCooked.md)  |  食用  |  2  
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  2  
 [马勃菌](Puffballs.md)  |  食用  |  2  
-[腐烂物](RottenRemains.md)  |  食用  |  2  
+[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  2  
 [西米树芯](SagoSawdust.md)  |  食用  |  2  
 [烤海胆](UrchinMeatCooked.md)  |  食用  |  2  
 [杂菌](AssortedMushrooms.md)  |  食用  |  1  

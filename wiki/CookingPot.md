@@ -15,7 +15,6 @@
 [未烧制的烹饪锅](CookingPotUnfired.md) , [窑炉](Kiln.md)  |  烧制烹饪锅  
 [未烧制的烹饪锅](CookingPotUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制烹饪锅  
 [骨头汤](BoneBroth.md)  |  转化  
-[骨头汤](BoneBroth.md)  |  转化  
 [未烹饪的骨头汤](BoneBrothUncooked.md)  |  丢弃  
 [未烹饪的骨头汤](BoneBrothUncooked.md)  |  转化  
 [黄油焗牡蛎](ButterBakedOystersCooked.md)  |  取出牡蛎  
@@ -30,7 +29,6 @@
 [醉蟹](DrunkenCrab.md)  |  食用  
 [醉蟹](DrunkenCrab.md)  |  转化  
 [未烹饪的醉蟹](DrunkenCrabUncooked.md)  |  转化  
-[蛋炒饭](EggFriedRice.md)  |  转化  
 [蛋炒饭](EggFriedRice.md)  |  转化  
 [未烹饪的蛋炒饭](EggFriedRiceUncooked.md)  |  转化  
 [炸鱼薯条](FishNChips.md)  |  食用  
@@ -48,7 +46,6 @@
 [熬制好的胶水](GlueCooked.md)  |  取出胶水  
 [未熬制的胶水](GlueUncooked.md)  |  清空  
 [炖羊汤](GoatStew.md)  |  转化  
-[炖羊汤](GoatStew.md)  |  转化  
 [未烹饪的羊汤](GoatStewUncooked.md)  |  丢弃  
 [未烹饪的羊汤](GoatStewUncooked.md)  |  转化  
 [肉食盛宴](HeartyFeast.md)  |  食用  
@@ -64,7 +61,6 @@
 [热带烤鸡](IslandChicken.md)  |  转化  
 [未烹饪的热带烤鸡](IslandChickenUncooked.md)  |  转化  
 [辣炒巨蜥肉](LizardFry.md)  |  转化  
-[辣炒巨蜥肉](LizardFry.md)  |  转化  
 [未烹饪的辣炒巨蜥肉](LizardFryUncooked.md)  |  转化  
 [猕猴肉串](MacaqueSkewers.md)  |  食用  
 [猕猴肉串](MacaqueSkewers.md)  |  转化  
@@ -73,12 +69,10 @@
 [烹饪好的蛋白棒](ProteinBarsCooked.md)  |  取出  
 [烹饪好的蛋白棒](ProteinBarsCooked.md)  |  转化  
 [西米蛋糕](SagoCake.md)  |  转化  
-[西米蛋糕](SagoCake.md)  |  转化  
 [未烹饪的西米蛋糕](SagoCakeUncooked.md)  |  转化  
 [烹饪好的西米糕](SagoSlimeCooked.md)  |  取出西米糕  
 [烹饪好的西米糕](SagoSlimeCooked.md)  |  转化  
 [未烹饪的西米糕](SagoSlimeUncooked.md)  |  转化  
-[参薯咖喱](YamCurry.md)  |  转化  
 [参薯咖喱](YamCurry.md)  |  转化  
 [未烹饪的参薯咖喱](YamCurryUncooked.md)  |  转化  
 [熟参薯酱](YamJamCooked.md)  |  取出  
@@ -89,7 +83,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 收集雨水<br>  |  -  |  [降水值](RainValue.md): 1-5  |  含水量 + 10000<br><br>** 获得： **<br>** [rain] **<br>[水](LQ_Water.md)(+50)<br>  |    
 ## 可拖至  
-[蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [西米饼](SagoFlatbread.md), [应急水包](WaterRation.md), [干涸的小水塘(湿地丛林)](Puddle.md), [蓄水池](WaterReservoir.md), [蓄水池(满)](WaterReservoirFull.md), [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  
+[蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [西米饼](SagoFlatbread.md), [应急水包](WaterRation.md), [干涸的小水塘(湿地)](Puddle.md), [蓄水池](WaterReservoir.md), [蓄水池(满)](WaterReservoirFull.md), [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  
 ## 可用于蓝图  
 - [胶水(蓝图)](Bp_Glue.md)  
 - [骨头汤(蓝图)](Bp_BoneBroth.md)  

@@ -13,7 +13,6 @@
 [后有风暴](OpenSea_StormBehind.md)  |  转化  
 [风向非常有利](OpenSea_VeryFavourable.md)  |  转化  
 [小雨](TropicalIsland_LightRain.md)  |    
-[小雨](TropicalIsland_LightRain.md)  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -5,7 +5,7 @@
   
   沙滩  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Beach.md)<br><br>** 环境效果: **<br>[光亮](Light.md)+10<br>[体感温度](TemperaturePerceived.md)-5<br>[内陆恐惧症](LandSickness.md)加成-8<br><br>** 可前往: **<br>[海湾(区域)](Bay.md)<br>[丛林边缘(区域)](Outskirts.md)<br>[岩滩(区域)](Rocks.md)  |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  

@@ -57,7 +57,7 @@
 [香蕉](Banana.md)  |  种植香蕉树<br>  |  30分  |    |  ** 自身: **<br>→ [香蕉树田](CropPlotBananaTree.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
 [水椰籽](NipaSeeds.md)  |  种植水椰<br>  |  30分  |    |  ** 自身: **<br>→ [水椰树田](CropPlotNipaPalm.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
 [西米树种](SagoSeeds.md)  |  种植西米树<br>  |  30分  |    |  ** 自身: **<br>→ [西米树田](CropPlotSagoPalm.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
-[椰子](Coconut.md)  |  种植椰子树<br>  |  30分  |    |  ** 自身: **<br>→ [椰子树田](CropPlotPalmTree.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
+[椰子(猕猴窝)](Coconut.md)  |  种植椰子树<br>  |  30分  |    |  ** 自身: **<br>→ [椰子树田](CropPlotPalmTree.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
 [芒果](Mango.md)  |  种植芒果树<br>  |  30分  |    |  ** 自身: **<br>→ [芒果树田](CropPlotMangoTree.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
 [棕榈丛种子](PalmBushSeeds.md)  |  种植棕榈丛<br>  |  30分  |    |  ** 自身: **<br>→ [棕榈丛田](CropPlotPalmBush.md)<br><br>** 使用物: **<br>消失  |  [污垢](Filth.md)+10  
 [椰子水](LQ_CoconutWater.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>含水量  -300  |    

@@ -5,7 +5,7 @@
   
   猕猴窝  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-100<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/DarkCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-100<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-4<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 可前往: **<br>[丛林高地(区域)](JungleHighlands.md)  |  <img decoding="async" src="Sprite/DarkCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

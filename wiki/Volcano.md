@@ -5,7 +5,7 @@
   
   火山  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md)  |  <img decoding="async" src="Sprite/Volcano.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[火山(环境)](Env_Volcano.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[体感温度](TemperaturePerceived.md)+10<br>[绝热](InsulationHeat.md)<br>[空气毒性](AirToxicity.md)+3<br><br>** 可改造项目: **<br>[小径](Imp_Path.md)<br><br>** 可前往: **<br>[荒芜沙滩(区域)](DesolateBeach.md)<br>[酸湖(区域)(火山)](AcidLake.md)<br>[东部高地(区域)](HighlandsEastern.md)  |  <img decoding="async" src="Sprite/Volcano.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  

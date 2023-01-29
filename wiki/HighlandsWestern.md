@@ -5,12 +5,12 @@
   
   西部高地  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)  |  <img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[西部高地(环境)](Env_HighlandsWestern.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[蚊虫数量](BugPopulation.md)+2<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)<br><br>** 可前往: **<br>[高地坑洞(区域)(坑洞)](HighlandHole.md)<br>[西部草原(区域)](GrasslandsW.md)<br>[东部高地(区域)](HighlandsEastern.md)<br>[丛林高地(区域)](JungleHighlands.md)  |  <img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
 ----  |  ----  
-25%  |  [坑洞(西部高地)](HighlandHoleNoRope.md)  
+25%  |  [坑洞(无绳子)(西部高地)](HighlandHoleNoRope.md)  
 40%  |  [前往丛林高地(西部高地)](Path_HighlandsWToJungleHighlands.md)  
 55%  |  [前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)  
 70%  |  [前往西部草原(西部高地)](Path_HighlandsWToGrasslandsW.md)  

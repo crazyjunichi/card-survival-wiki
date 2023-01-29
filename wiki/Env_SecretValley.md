@@ -9,8 +9,5 @@
 来源  |  操作  
 ----  |  ----  
 [离开(泥屋)](MudHutExitRuins.md)  |  离开  
-[离开(泥屋)](MudHutExitRuins.md)  |  离开  
 [前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)  |  前往  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  

@@ -17,7 +17,6 @@
 [啊！(事件)](Event_MacaqueFightBadFailure.md)  |  继续  
 [啊！(事件)](Event_MacaqueFightFailedRetreat.md)  |  继续  
 [我拿下它了，但我受伤了。(事件)](Event_MacaqueFightMixedSuccess.md)  |  继续  
-[我拿下它了，但我受伤了。(事件)](Event_MacaqueFightMixedSuccess.md)  |  继续  
 [啊！！！！(事件)](Event_MacaqueFoeAnger.md)  |  继续  
 [啊！！！！(事件)](Event_MacaqueFriendAnger.md)  |  继续  
 [猕猴朋友](MacaqueFriend.md) , [“切割工具”](tag_Cutter.md)  |  杀害！  

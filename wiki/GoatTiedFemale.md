@@ -11,8 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
 [母山羊](GoatEnclosureFemale.md)  |  捆起来  
 [小羊](GoatTiedKid.md)  |  转化  
 ## 动作  

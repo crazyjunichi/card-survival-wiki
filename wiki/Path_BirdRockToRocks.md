@@ -5,7 +5,7 @@
   
   岩滩  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[鸟岩岛(区域)](BirdRock.md)  |  <img decoding="async" src="Sprite/BigIsland.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[鸟岩岛(环境)](Env_BirdRock.md)  |  <img decoding="async" src="Sprite/BigIsland.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

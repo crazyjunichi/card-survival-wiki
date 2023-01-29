@@ -9,7 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [母猪](BoarEnclosureFemale.md)  |  转化  
-[母猪](BoarEnclosureFemale.md)  |  转化  
 [小猪](BoarTiedPiglet.md)  |  圈养在畜栏中  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

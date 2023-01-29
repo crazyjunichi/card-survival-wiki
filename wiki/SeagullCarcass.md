@@ -17,4 +17,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-处理<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>  [鸟骨](BonesBird.md)(+1)<br>  [羽毛](Feathers.md)(+1～+3)<br>  |    
+处理<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>  [鸟骨(猕猴窝)](BonesBird.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1～+3)<br>  |    

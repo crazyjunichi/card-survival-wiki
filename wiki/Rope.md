@@ -27,8 +27,6 @@
 [废金属长矛](SpearScrap.md)  |  长矛坏了  
 [线团](YarnFiber.md) , [线团](YarnFiber.md)  |  制作绳子  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
@@ -39,7 +37,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [yarn] **<br>  [线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
-[编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
+[编织篓](Basket.md), [坑洞(无绳子)(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  
 - [水窖(蓝图)](Bp_Cistern.md)  
 - [铜长矛(蓝图)](Bp_CopperSpear.md)  

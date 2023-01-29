@@ -5,7 +5,7 @@
   
   丛林高地  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[丛林深处(区域)](DeepJungle.md)  |  <img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[丛林深处(环境)](Env_DeepJungle.md)  |  <img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

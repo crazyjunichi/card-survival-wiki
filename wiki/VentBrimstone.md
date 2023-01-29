@@ -5,7 +5,7 @@
   
   硫磺喷口  |   图片   
  ----  |  ----:   
- ** 不可堆叠 **<br><br>**环境：**[酸湖(区域)](AcidLake.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/BrimstoneVent.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**环境：**[火山(环境)](Env_AcidLake.md)<br><br>**可使用次数：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/BrimstoneVent.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

@@ -32,7 +32,7 @@
 [泥屋(损坏)(环境)](Env_MudHutRuins.md)  |  被动  |  1  
 [棚屋(环境)](Env_Shed.md)  |  被动  |  1  
 [石屋(环境)](Env_StoneHut.md)  |  被动  |  1  
-[坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -1  
+[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

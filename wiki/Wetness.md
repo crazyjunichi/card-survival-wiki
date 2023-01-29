@@ -31,11 +31,11 @@
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  200  
 [荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  200  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  200  
-[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  |  200  
+[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  200  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  200  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  200  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  200  
-[水下出口](UnderwaterExit.md)  |  离开  |  200  
+[水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  200  
 [风太大了！(事件)](Event_Flood.md)  |  躲避一会  |  100  
 [风太大了！(事件)](Event_Storm.md)  |  躲避狂风暴雨  |  100  
 [潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  100  
@@ -90,6 +90,6 @@
 [运动鞋](Sneakers.md)  |  条件被动  |  20  
 [袜子](Socks.md)  |  条件被动  |  20  
 [干土堆](DirtPile.md)  |  制作泥巴  |  20  
-[干涸的小水塘(湿地丛林)](Puddle.md)  |  挖泥巴  |  20  
+[干涸的小水塘(湿地)](Puddle.md)  |  挖泥巴  |  20  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  15  
 [草裙](LeafSKirt.md)  |  条件被动  |  10  

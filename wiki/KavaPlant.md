@@ -12,8 +12,6 @@
 ----  |  ----  
 [卡瓦胡椒田](CropPlotKava.md)  |  转化  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林(区域)](Jungle.md)  |  探索  
 [丛林(区域)](Jungle.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

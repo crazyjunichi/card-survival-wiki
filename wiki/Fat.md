@@ -15,10 +15,6 @@
 [剥皮的山羊](GoatSkinned.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
 [剥皮的山羊](GoatSkinned.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
 [海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -54,5 +50,5 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
 使用次数  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  

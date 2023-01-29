@@ -119,8 +119,8 @@
 [草裙(蓝图)](Bp_LeafSkirt.md)  |  蓝图制造  |  0.5  
 [骨头碎片](BoneSplinters.md)  |  制作钩  |  0.5  
 [骨头碎片](BoneSplinters.md)  |  制作针  |  0.5  
-[鸟骨](BonesBird.md)  |  制作钩  |  0.5  
-[鸟骨](BonesBird.md)  |  制作针  |  0.5  
+[鸟骨(猕猴窝)](BonesBird.md)  |  制作钩  |  0.5  
+[鸟骨(猕猴窝)](BonesBird.md)  |  制作针  |  0.5  
 [木材](Wood.md)  |  堆成火堆  |  0.5  
 [草木灰敷料(蓝图)](Bp_AshDressing.md)  |  蓝图制造  |  0.25  
 [弓钻(蓝图)](Bp_BowDrill.md)  |  蓝图制造  |  0.25  

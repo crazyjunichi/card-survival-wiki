@@ -92,8 +92,6 @@
 [线团](YarnFiber.md)  |  拆成细线  
 [废墟(泥屋)](Debris.md)  |  清理  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  

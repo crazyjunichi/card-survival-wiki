@@ -8,6 +8,6 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[离开](CaveSeaExit.md)  |  离开  
+[离开(洞穴)](CaveSeaExit.md)  |  离开  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  
 [前往岩滩(沙滩)](Path_BeachToRocks.md)  |  前往  

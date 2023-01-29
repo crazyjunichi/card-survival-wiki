@@ -18,7 +18,6 @@
 [东部高地(区域)](HighlandsEastern.md)  |  探索  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  
 [丛林边缘(区域)](Outskirts.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

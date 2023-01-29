@@ -15,7 +15,6 @@
 [礼物！(事件)](Event_DogFriendGift.md)  |  看看礼物  
 [礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
 [鼠害(事件)](Event_MouseDamage.md)  |  评估损失  
-[鼠害(事件)](Event_MouseDamage.md)  |  评估损失  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -33,4 +32,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  

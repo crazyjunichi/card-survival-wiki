@@ -11,14 +11,9 @@
 来源  |  操作  
 ----  |  ----  
 [浸泡的米](LQ_SoakedRice.md) , [营火](Campfire.md)  |  煮米饭  
-[浸泡的米](LQ_SoakedRice.md) , [营火](Campfire.md)  |  煮米饭  
-[浸泡的米](LQ_SoakedRice.md) , [粘土火盆](ClayFirePit.md)  |  煮米饭  
 [浸泡的米](LQ_SoakedRice.md) , [粘土火盆](ClayFirePit.md)  |  煮米饭  
 [浸泡的米](LQ_SoakedRice.md) , [火堆](Fire.md)  |  煮米饭  
-[浸泡的米](LQ_SoakedRice.md) , [火堆](Fire.md)  |  煮米饭  
 [浸泡的米](LQ_SoakedRice.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮米饭  
-[浸泡的米](LQ_SoakedRice.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮米饭  
-[浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
 [浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

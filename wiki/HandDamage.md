@@ -17,7 +17,7 @@
 [半根原木](HalfLog.md)  |  切割成木材  |  160  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  |  150  
 [半根原木](HalfLog.md)  |  切割成木材  |  120  
-[铜矿脉(狭窄隧道)](CopperVein.md)  |  采矿  |  100  
+[铜矿脉(洞穴上层)](CopperVein.md)  |  采矿  |  100  
 [原木](Log.md)  |  截成两段  |  80  
 [大树](LargeTree.md)  |  砍树  |  80  
 [倒下的大树](LargeTreeFelled.md)  |  修整原木  |  80  
@@ -59,7 +59,7 @@
 [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖  |  50  
 [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖  |  50  
 [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖  |  50  
-[狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md)  |  挖  |  50  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  挖  |  50  
 [狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖  |  50  
 [火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  40  
 [木屑(蓝图)](Bp_WoodShavings.md)  |  蓝图制造  |  40  
@@ -84,7 +84,7 @@
 [丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  25  
 [红树林(区域)](Mangroves.md)  |  砍伐木材  |  25  
 [丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  25  
-[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  25  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  25  
 [野参薯](YamPlant.md)  |  刨参薯根  |  25  
 [巨浪击中了木筏！(事件)](Event_Wave.md)  |  振作起来！  |  20  
 [燧石](Flint.md)  |  练习石工  |  20  
@@ -121,12 +121,12 @@
 [西部草原(区域)](GrasslandsW.md)  |  挖土  |  20  
 [神秘谷(区域)](SecretValley.md)  |  挖土  |  20  
 [幼年椰子树](PalmTreeYoung.md)  |  砍树  |  20  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  20  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  爬上去  |  20  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  |  20  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  |  20  
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  |  20  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  |  20  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  20  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  20  
 [摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  20  
 [小棕榈树](SmallPalm.md)  |  砍树  |  20  
 [小树](SmallTree.md)  |  砍树  |  20  
@@ -145,11 +145,11 @@
 [木屑](WoodShavings.md)  |  钻木取火  |  10  
 [漂浮的残骸](FloatingDebris.md)  |  采集  |  10  
 [狭窄隧道(洞穴底层)](NarrowTunnelEntrance.md)  |  进入  |  10  
-[洞穴底层](NarrowTunnelExit.md)  |  进入  |  10  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  10  
+[洞穴底层(洞穴上层)](NarrowTunnelExit.md)  |  进入  |  10  
+[竖井(洞穴上层)](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  10  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  10  
 [竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  |  10  
-[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  10  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  爬上去  |  10  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  10  
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  10  
 [摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  10  

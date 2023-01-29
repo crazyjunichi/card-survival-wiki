@@ -5,7 +5,7 @@
   
   腐烂物  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>**重量：**75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -185,7 +185,6 @@
 [参薯](Yam.md)  |  转化  
 [煮熟的参薯](YamBoiled.md)  |  转化  
 [参薯片](YamCut.md)  |  转化  
-[剥皮的巨蜥](MonitorSkinned.md)  |  转化  
 [剥皮的巨蜥](MonitorSkinned.md)  |  转化  
 [新鲜兽皮](SkinFresh.md)  |  皮腐烂了  
 [蜥蜴生皮](SkinFreshReptile.md)  |  皮腐烂了  

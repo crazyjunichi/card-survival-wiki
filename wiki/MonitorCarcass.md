@@ -12,7 +12,6 @@
 ----  |  ----  
 [原木陷阱](LogTrap.md)  |  捕捉猎物  
 [陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
 [我拿下它了，但我受伤了。(事件)](Event_MonitorFightMixedSuccess.md)  |  继续  
 [巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)  |  继续  
 ## 可拖入  
@@ -23,4 +22,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+4)<br>  

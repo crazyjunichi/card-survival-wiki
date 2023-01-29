@@ -34,7 +34,7 @@
 [剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树  |  -1  
 [小芒果树](MangoTreeYoung.md)  |  砍树  |  -1  
 [环礁(区域)](Atoll.md)  |  探索  |  -1  
-[隐秘港湾(区域)](Cove.md)  |  探索  |  -1  
+[隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  |  -1  
 [丛林边缘(区域)](Outskirts.md)  |  探索  |  -1  
 [幼年椰子树](PalmTreeYoung.md)  |  砍树  |  -1  
 [小棕榈树](SmallPalm.md)  |  砍树  |  -1  
@@ -62,7 +62,7 @@
 [水椰子](NipaFruit.md)  |  取得种子  |  -4  
 [鱼镖](HarpoonBone.md)  |  训练  |  -4  
 [废墟(泥屋)](Debris.md)  |  清理  |  -4  
-[酸湖(区域)](AcidLake.md)  |  探索  |  -4  
+[酸湖(区域)(火山)](AcidLake.md)  |  探索  |  -4  
 [鸟岩岛(区域)](BirdRock.md)  |  探索  |  -4  
 [丛林深处(区域)](DeepJungle.md)  |  探索  |  -4  
 [丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  -4  
@@ -87,8 +87,8 @@
 [神秘谷(区域)](SecretValley.md)  |  挖土  |  -4  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  -4  
 [火山(区域)](Volcano.md)  |  探索  |  -4  
-[湿地丛林(区域)](Wetlands.md)  |  探索  |  -4  
-[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  -4  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  |  -4  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  -4  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  -4  
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  |  -4  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  -4  
@@ -126,8 +126,8 @@
 [前往酸湖(火山)](Path_VolcanoToAcidLake.md)  |  前往  |  -4  
 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  |  前往  |  -4  
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  |  -4  
-[前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  |  前往  |  -4  
-[前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  |  -4  
+[前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  |  前往  |  -4  
+[前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  |  -4  
 [水稻](RicePlant.md)  |  采集  |  -4  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  -5  
 [砂浆(蓝图)](Bp_Mortar.md)  |  蓝图制造  |  -5  
@@ -139,23 +139,23 @@
 [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖  |  -5  
 [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖  |  -5  
 [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖  |  -5  
-[狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md)  |  挖  |  -5  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  挖  |  -5  
 [狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖  |  -5  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  -5  
-[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -5  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -5  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -5  
 [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md)  |  挖  |  -5  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  -5  
-[水下出口](UnderwaterExit.md)  |  离开  |  -5  
+[水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  -5  
 [水椰子](NipaFruit.md)  |  取得种子  |  -6  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  |  -6  
-[竖井](ShaftLowChamberToMidChamber.md)  |  练习攀爬  |  -6  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  练习攀爬  |  -6  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  练习攀爬  |  -6  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  练习攀爬  |  -6  
 [前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)  |  前往  |  -6  
 [前往西部高地(西部草原)](Path_GrasslandsWToHighlandsW.md)  |  前往  |  -6  
 [前往西部草原(红树林)](Path_MangrovesToGrasslandsW.md)  |  前往  |  -6  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  练习攀爬  |  -6  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  -6  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  -6  
 [大树](LargeTree.md)  |  砍树  |  -6  
 [倒下的大树](LargeTreeFelled.md)  |  修整原木  |  -6  
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  -6  
@@ -212,11 +212,11 @@
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  -10  
 [荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  -10  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  -10  
-[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  |  -10  
+[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  -10  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  -10  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  -10  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  -10  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  -10  
+[竖井(洞穴上层)](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  -10  
 [竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  |  -10  
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  -10  
 [海(环礁)](Sea_Atoll.md)  |  潜水  |  -10  
@@ -232,34 +232,34 @@
 [原木](Log.md)  |  截成两段  |  -12  
 [水槽](WateringTrough.md)  |  拆除  |  -15  
 [狭窄隧道(洞穴底层)](NarrowTunnelEntrance.md)  |  进入  |  -15  
-[洞穴底层](NarrowTunnelExit.md)  |  进入  |  -15  
+[洞穴底层(洞穴上层)](NarrowTunnelExit.md)  |  进入  |  -15  
 [半根原木](HalfLog.md)  |  切割成木材  |  -16  
 [原木](Log.md)  |  截成两段  |  -16  
-[铜矿脉(狭窄隧道)](CopperVein.md)  |  采矿  |  -20  
+[铜矿脉(洞穴上层)](CopperVein.md)  |  采矿  |  -20  
 [火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  -20  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  |  -20  
 [时候已到！(事件)](Event_Pregnancy.md)  |  分娩！  |  -20  
-[坑洞](HighlandHoleEntrance.md)  |  爬下去  |  -20  
+[坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  |  -20  
 [离开](HighlandHoleExit.md)  |  爬上去  |  -20  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  -20  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  爬上去  |  -20  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  |  -20  
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  |  -20  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  |  -20  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  -20  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  -20  
 [滤水器](WaterFilter.md)  |  拆除  |  -20  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  11 ~ 32  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  11 ~ 32  
+[竖井(洞穴上层)](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  11 ~ 32  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  11 ~ 32  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  |  11 ~ 32  
 [竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  |  11 ~ 32  
-[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  11 ~ 32  
-[竖井](ShaftLowChamberToMidChamber.md)  |  练习攀爬  |  11 ~ 32  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  爬上去  |  11 ~ 32  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  练习攀爬  |  11 ~ 32  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  11 ~ 32  
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  11 ~ 32  
-[坑洞](HighlandHoleEntrance.md)  |  爬下去  |  11 ~ 32  
+[坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  |  11 ~ 32  
 [离开](HighlandHoleExit.md)  |  爬上去  |  11 ~ 32  
 [丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  11 ~ 32  
 [丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  11 ~ 32  
@@ -287,12 +287,12 @@
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  11 ~ 32  
 [神秘谷(区域)](SecretValley.md)  |  挖土  |  11 ~ 32  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  11 ~ 32  
-[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
-[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  11 ~ 32  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  11 ~ 32  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
 [前往丛林高地(丛林深处)](Path_DeepJungleToJungleHighlands.md)  |  前往  |  11 ~ 32  
 [前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)  |  前往  |  11 ~ 32  
 [前往湿地(丛林深处)](Path_DeepJungleToWetlands.md)  |  前往  |  11 ~ 32  
@@ -323,10 +323,10 @@
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
 [前往酸湖(火山)](Path_VolcanoToAcidLake.md)  |  前往  |  11 ~ 32  
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  |  11 ~ 32  
-[前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  |  前往  |  11 ~ 32  
-[前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  |  11 ~ 32  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
+[前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  |  前往  |  11 ~ 32  
+[前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  |  11 ~ 32  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
 [大树](LargeTree.md)  |  砍树  |  11 ~ 32  
 [大树](LargeTree.md)  |  砍树  |  11 ~ 32  
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  11 ~ 32  

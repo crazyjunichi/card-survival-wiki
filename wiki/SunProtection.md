@@ -61,7 +61,7 @@
 [草裙](LeafSKirt.md)  |  被动  |  0.5  
 [布制裤子](PantsCloth.md)  |  被动  |  0.5  
 [短裤](Shorts.md)  |  被动  |  0.5  
-[坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -5  
+[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -5  
 [潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  -50  
 [被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  洗个澡  |  -50  
 [水](LQ_Water.md)  |  洗个澡  |  -50  

@@ -3,7 +3,7 @@
   
   沙滩  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[岩滩(区域)](Rocks.md)  |  <img decoding="async" src="Sprite/BeachPath.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[岩滩(环境)](Env_Rocks.md)  |  <img decoding="async" src="Sprite/BeachPath.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[离开](CaveGrasslandsExit.md)  |  离开  
+[离开(洞穴)](CaveGrasslandsExit.md)  |  离开  
 [前往西部草原(东部草原)](Path_GrasslandsEToGrasslandsW.md)  |  前往  
 [前往西部草原(西部高地)](Path_HighlandsWToGrasslandsW.md)  |  前往  
 [前往西部草原(丛林)](Path_JungleToGrasslandsW.md)  |  前往  

@@ -11,4 +11,4 @@
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  
 [前往丛林小径](Path_GrasslandsWToJungle.md)  |  前往  
 [前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  
-[前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  |  前往  
+[前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  

@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[铜矿脉(狭窄隧道)](CopperVein.md) , [“锤”](tag_Hammer.md)  |  采矿  
-[铜矿脉(狭窄隧道)](CopperVein.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[铜矿脉(洞穴上层)](CopperVein.md) , [“锤”](tag_Hammer.md)  |  采矿  
+[铜矿脉(洞穴上层)](CopperVein.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
 [晶洞](Geode.md) , [“锤”](tag_Hammer.md)  |  敲开  
-[酸湖(区域)](AcidLake.md)  |  探索  
+[酸湖(区域)(火山)](AcidLake.md)  |  探索  
 [东部高地(区域)](HighlandsEastern.md)  |  探索  
 [火山(区域)](Volcano.md)  |  探索  
 ## 可用于转化  

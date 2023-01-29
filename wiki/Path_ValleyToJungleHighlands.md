@@ -11,8 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

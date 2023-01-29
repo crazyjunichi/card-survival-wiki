@@ -40,7 +40,7 @@
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林(区域)](Jungle.md)  |  探索  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md)  |  探索  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
 [幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  

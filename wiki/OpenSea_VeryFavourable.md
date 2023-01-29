@@ -14,7 +14,6 @@
 [后有风暴](OpenSea_StormBehind.md)  |  转化  
 [风向非常有利](OpenSea_VeryFavourable.md)  |  转化  
 [阴天](TropicalIsland_Cloudy.md)  |    
-[阴天](TropicalIsland_Cloudy.md)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

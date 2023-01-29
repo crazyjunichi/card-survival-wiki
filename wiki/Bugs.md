@@ -16,8 +16,8 @@
 [东部草原(区域)](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
 [西部草原(区域)](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
 [神秘谷(区域)](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[干涸的小水塘(湿地丛林)](Puddle.md)  |  挖干土  
-[干涸的小水塘(湿地丛林)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
+[干涸的小水塘(湿地)](Puddle.md)  |  挖干土  
+[干涸的小水塘(湿地)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

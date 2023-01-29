@@ -41,5 +41,5 @@
 - 前往 [前往酸湖(火山)](Path_VolcanoToAcidLake.md)  
 - 前往 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  
 - 前往 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  
-- 前往 [前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  
-- 前往 [前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  
+- 前往 [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  
+- 前往 [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  

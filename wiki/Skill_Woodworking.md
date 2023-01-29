@@ -48,7 +48,7 @@
 [丛林(区域)](Jungle.md)  |  砍伐木材  |  0.5  
 [丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  0.5  
 [丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  0.5  
-[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  0.5  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  0.5  
 [摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  0.5  
 [倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  0.5  
 [椰子树(新)](PalmTreeNew.md)  |  砍倒  |  0.5  

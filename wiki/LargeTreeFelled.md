@@ -13,7 +13,7 @@
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林(区域)](Jungle.md)  |  探索  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md)  |  探索  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
 [大树](LargeTree.md)  |  转化  
 [摘光的芒果树](MangoTreeCleared.md)  |  转化  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  转化  

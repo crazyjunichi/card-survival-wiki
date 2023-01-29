@@ -14,4 +14,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲开<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 获得: **<br>** [Coconut Halves] **<br>  [椰子壳](CoconutShell.md)(+2)<br>  [腐烂物](RottenRemains.md)(+2)<br>基础权重：1<br>  |    
+[“锤”](tag_Hammer.md)  |  敲开<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 获得: **<br>** [Coconut Halves] **<br>  [椰子壳](CoconutShell.md)(+2)<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+2)<br>基础权重：1<br>  |    

@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[离开](CaveBatsExit.md)  |  离开  
+[离开(蝙蝠洞)](CaveBatsExit.md)  |  离开  
 [离开(猕猴窝)](MacaqueDenExit.md)  |  离开  
-[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  爬上去  
 [前往丛林高地(丛林深处)](Path_DeepJungleToJungleHighlands.md)  |  前往  
 [前往丛林高地(西部高地)](Path_HighlandsWToJungleHighlands.md)  |  前往  
-[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  

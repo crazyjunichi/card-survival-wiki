@@ -11,14 +11,9 @@
 来源  |  操作  
 ----  |  ----  
 [浸泡的参薯](LQ_SoakedYam.md) , [营火](Campfire.md)  |  煮参薯  
-[浸泡的参薯](LQ_SoakedYam.md) , [营火](Campfire.md)  |  煮参薯  
-[浸泡的参薯](LQ_SoakedYam.md) , [粘土火盆](ClayFirePit.md)  |  煮参薯  
 [浸泡的参薯](LQ_SoakedYam.md) , [粘土火盆](ClayFirePit.md)  |  煮参薯  
 [浸泡的参薯](LQ_SoakedYam.md) , [火堆](Fire.md)  |  煮参薯  
-[浸泡的参薯](LQ_SoakedYam.md) , [火堆](Fire.md)  |  煮参薯  
 [浸泡的参薯](LQ_SoakedYam.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮参薯  
-[浸泡的参薯](LQ_SoakedYam.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮参薯  
-[浸泡的参薯](LQ_SoakedYam.md) , [火炉](Stove.md)  |  煮参薯  
 [浸泡的参薯](LQ_SoakedYam.md) , [火炉](Stove.md)  |  煮参薯  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -38,7 +33,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

@@ -15,7 +15,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[腐烂物](RottenRemains.md)  |  食用  |  300 ~ 600  
+[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  300 ~ 600  
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  150  
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  食用  |  150  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  食用  |  150  

@@ -5,7 +5,7 @@
   
   鸟岩岛  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[荒芜沙滩(区域)](DesolateBeach.md)  |  <img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[荒芜沙滩(环境)](Env_DesolateBeach.md)  |  <img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

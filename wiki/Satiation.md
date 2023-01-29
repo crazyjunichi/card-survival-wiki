@@ -134,7 +134,7 @@
 [水椰籽](NipaSeeds.md)  |  食用  |  15  
 [黄油焗牡蛎](OysterMeatBaked.md)  |  食用  |  15  
 [鹦哥鱼](ParrotFish.md)  |  食用  |  15  
-[腐烂物](RottenRemains.md)  |  食用  |  15  
+[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  15  
 [西米树芯](SagoSawdust.md)  |  食用  |  15  
 [海藻](Seaweed.md)  |  食用  |  15  
 [鲨鱼肉](SharkMeat.md)  |  食用  |  15  

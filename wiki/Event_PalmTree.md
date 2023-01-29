@@ -9,9 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  
-[椰子树(新)](PalmTreeNew.md)  |  爬树  
-[椰子树(新)](PalmTreeNew.md)  |  爬树  
-[椰子树(新)](PalmTreeNew.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

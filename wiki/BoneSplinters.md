@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[骨头](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
+[骨头(猕猴窝)](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
 [鱼镖](HarpoonBone.md)  |  鱼镖坏了  
 [猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药(开)](DynamiteOn.md)  |  我TM来啦！  
 ## 动作  

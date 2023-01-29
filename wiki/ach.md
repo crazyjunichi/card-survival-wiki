@@ -36,11 +36,11 @@
 ## 使用炸药！  
   
 ** 达成条件： **  
-[铜矿脉(狭窄隧道)](CopperVein.md) Boom!  
+[铜矿脉(洞穴上层)](CopperVein.md) Boom!  
 [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md) Boom!  
 [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md) Boom!  
 [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md) Boom!  
-[狭窄通道(晶石洞穴)](FloodedChamberEntranceClosed.md) Boom!  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md) Boom!  
 [狭窄通道(隧道)](HighChamberEntranceClosed.md) Boom!  
 [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md) Boom!  
 [海(环礁)](Sea_Atoll.md) Boom!  
@@ -113,7 +113,7 @@
 [地区探索完毕(事件)](Event_RocksExplored.md)x 1  
 [地区探索完毕(事件)(神秘谷)](Event_SecretValleyExplored.md)x 1  
 [地区探索完毕(事件)](Event_VolcanoExplored.md)x 1  
-[地区探索完毕(事件)(湿地丛林)](Event_WetlandsExplored.md)x 1  
+[地区探索完毕(事件)(湿地)](Event_WetlandsExplored.md)x 1  
 ## 直面监视者  
   
 ** 达成条件： **  

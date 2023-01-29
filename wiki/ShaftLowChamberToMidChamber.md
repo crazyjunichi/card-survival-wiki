@@ -9,9 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

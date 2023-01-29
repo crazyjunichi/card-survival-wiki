@@ -3,7 +3,7 @@
   
   红树林  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[西部草原(区域)](GrasslandsW.md)  |  <img decoding="async" src="Sprite/Mangroves.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[西部草原(环境)](Env_GrasslandsW.md)  |  <img decoding="async" src="Sprite/Mangroves.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

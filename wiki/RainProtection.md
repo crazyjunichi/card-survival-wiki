@@ -43,4 +43,4 @@
 [木筏庇护所](RaftShelter.md)  |  被动  |  2  
 [求生帽](HatSurvival.md)  |  被动  |  0.5  
 [棕榈编织帽](HatWoven.md)  |  被动  |  0.5  
-[坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -5  
+[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -5  

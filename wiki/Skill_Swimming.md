@@ -13,7 +13,7 @@
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  1  
 [荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  1  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  1  
-[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  |  1  
+[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  1  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  1  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  1  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  1  
@@ -27,12 +27,12 @@
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  1  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  1  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  0.5  
-[水下出口](UnderwaterExit.md)  |  离开  |  0.5  
+[水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [一条海蛇！(事件)](Event_SeaKraitSwim.md)  |  我躲过去了！  |  100 ~ 150  
-[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  |  30 ~ 150  
+[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  30 ~ 150  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  30 ~ 150  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  30 ~ 150  
 [一条海蛇！(事件)](Event_SeaKraitSwim.md)  |  被咬了……  |  0 ~ 99  

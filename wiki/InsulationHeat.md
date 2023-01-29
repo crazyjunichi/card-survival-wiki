@@ -55,4 +55,4 @@
 [丛林高地(环境)](Env_JungleHighlands.md)  |  被动  |  2  
 [红树林(环境)](Env_Mangroves.md)  |  被动  |  2  
 [丛林边缘(环境)](Env_Outskirts.md)  |  被动  |  2  
-[坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -3  
+[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -3  

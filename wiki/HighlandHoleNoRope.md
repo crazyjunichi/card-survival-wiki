@@ -3,7 +3,7 @@
   
   坑洞  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[西部高地(区域)](HighlandsWestern.md)  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[西部高地(环境)](Env_HighlandsWestern.md)  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
@@ -12,4 +12,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>→ [坑洞](HighlandHoleEntrance.md)  
+进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>→ [坑洞(西部高地)](HighlandHoleEntrance.md)  

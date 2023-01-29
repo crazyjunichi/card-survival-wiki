@@ -16,7 +16,6 @@
 [前有风暴](OpenSea_StormFront.md)  |  转化  
 [风向不利](OpenSea_UnFavourable.md)  |  转化  
 [晴朗](TropicalIsland_Clear.md)  |    
-[晴朗](TropicalIsland_Clear.md)  |    
 [晴朗](TropicalIsland_ClearStart.md)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

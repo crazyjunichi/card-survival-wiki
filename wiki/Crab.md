@@ -14,10 +14,6 @@
 [捕鱼陷阱](FishTrapDeployed.md)  |  捕捉猎物  
 [套索陷阱](SnareTrap.md)  |  捕捉猎物  
 [潮汐池(岩滩)](TidePool.md)  |  拾海  
-[潮汐池(岩滩)](TidePool.md)  |  拾海  
-[潮汐池(岩滩)](TidePool.md)  |  拾海  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [覆溺洞穴(区域)](FloodedChamber.md)  |  探索  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  
@@ -25,7 +21,7 @@
 [海湾(区域)](Bay.md)  |  随便逛逛  
 [沙滩(区域)](Beach.md)  |  随便逛逛  
 [鸟岩岛(区域)](BirdRock.md)  |  探索  
-[隐秘港湾(区域)](Cove.md)  |  探索  
+[隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
 [红树林(区域)](Mangroves.md)  |  探索  
 [岩滩(区域)](Rocks.md)  |  探索  
@@ -54,4 +50,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  

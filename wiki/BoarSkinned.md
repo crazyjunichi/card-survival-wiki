@@ -20,5 +20,5 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br>  
-体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6000  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  [野猪牙](Tusk.md)(+2)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+4)<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br>  
+体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6000  |  -  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+4)<br>  [野猪牙](Tusk.md)(+2)<br>  

@@ -9,9 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
 [母猪](BoarEnclosureFemale.md)  |  捡起  
 [小猪](BoarTiedPiglet.md)  |  转化  
 ## 动作  

@@ -3,12 +3,12 @@
   
   洞穴中层  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 可改造项目: **<br>[皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 环境效果: **<br>[降水值](RainValue.md)-5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-6<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[夜晚](IsNight.md)+1<br><br>** 可改造项目: **<br>[皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 可前往: **<br>[黑暗(区域)(阴暗洞穴)](DarkChamber.md)<br>[洞穴底层(区域)](LowChamber.md)  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
 ----  |  ----  
-33%  |  [铜矿脉(狭窄隧道)](CopperVein.md)  
+33%  |  [铜矿脉(洞穴上层)](CopperVein.md)  
 66%  |  [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  
 100%  |  [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  
 ## 动作  

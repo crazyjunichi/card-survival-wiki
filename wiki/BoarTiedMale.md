@@ -9,9 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
-[陷坑](TrappingPit.md)  |  捕捉猎物  
 [公猪](BoarEnclosureMale.md)  |  捡起  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

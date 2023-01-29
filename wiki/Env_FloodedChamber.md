@@ -8,8 +8,5 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
-[竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
+[竖井(洞穴上层)](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  

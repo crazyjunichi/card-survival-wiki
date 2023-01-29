@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  撤退  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  拍照！  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  撤退  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  拍照！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

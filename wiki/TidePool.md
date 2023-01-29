@@ -5,7 +5,7 @@
   
   潮汐池  |   图片   
  ----  |  ----:   
- ** 不可堆叠 **<br><br>**环境：**[岩滩(区域)](Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[不适](Discomfort.md)+250  |  <img decoding="async" src="Sprite/TidePool.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**环境：**[岩滩(环境)](Env_Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[不适](Discomfort.md)+250  |  <img decoding="async" src="Sprite/TidePool.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

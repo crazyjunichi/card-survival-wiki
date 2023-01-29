@@ -5,7 +5,7 @@
   
   海鸟粪  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/Guano.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[蝙蝠洞(环境)](Env_CaveBats.md)<br><br>**重量：**75<br><br>**标签：**	[“低效肥料”](tag_FertilizerWeak.md)<br><br>** 效果: **<br>[不适](Discomfort.md)+50  |  <img decoding="async" src="Sprite/Guano.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

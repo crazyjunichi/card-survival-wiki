@@ -8,5 +8,5 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[狭窄通道](HighChamberEntrance.md)  |  进入  
+[狭窄通道(隧道)](HighChamberEntrance.md)  |  进入  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  

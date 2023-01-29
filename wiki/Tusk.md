@@ -9,7 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [剥皮的野猪](BoarSkinned.md)  |  转化  
-[剥皮的野猪](BoarSkinned.md)  |  转化  
 [剥皮的猪](BoarSkinnedPiglet.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

@@ -12,8 +12,6 @@
 ----  |  ----  
 [木床(蓝图)](Bp_BedWooden.md)  |  蓝图制造  
 [祖父](Grandfather.md)  |  悲报！  
-[祖父](Grandfather.md)  |  悲报！  
-[祖父](Grandfather.md)  |  悲报！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

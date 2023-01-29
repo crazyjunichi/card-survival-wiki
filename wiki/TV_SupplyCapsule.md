@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[酸湖(区域)](AcidLake.md)  |  探索  
+[酸湖(区域)(火山)](AcidLake.md)  |  探索  
 [鸟岩岛(区域)](BirdRock.md)  |  探索  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  

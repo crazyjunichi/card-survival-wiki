@@ -17,7 +17,7 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [猕猴肉](MacaqueMeat.md)  |  食用  |  150 ~ 300  
-[腐烂物](RottenRemains.md)  |  食用  |  50 ~ 100  
+[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  50 ~ 100  
 [鸟肉](BirdMeat.md)  |  食用  |  0 ~ 150  
 [野猪肉](BoarMeat.md)  |  食用  |  0 ~ 150  
 [北梭鱼肉](BonefishMeat.md)  |  食用  |  0 ~ 150  

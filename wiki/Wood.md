@@ -19,14 +19,10 @@
 [半根原木](HalfLog.md) , [“锤”](tag_Axe.md)  |  切割成木材  
 [盾牌](Shield.md)  |  盾牌坏了  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
 [沙滩(区域)](Beach.md)  |  随便逛逛  
-[丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林深处(区域)](DeepJungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林深处(区域)](DeepJungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
 [东部草原(区域)](GrasslandsE.md)  |  探索  
 [西部草原(区域)](GrasslandsW.md)  |  探索  
@@ -37,24 +33,20 @@
 [西部高地(区域)](HighlandsWestern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [西部高地(区域)](HighlandsWestern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林(区域)](Jungle.md)  |  探索  
-[丛林(区域)](Jungle.md)  |  探索  
 [丛林(区域)](Jungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林(区域)](Jungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
-[丛林高地(区域)](JungleHighlands.md)  |  探索  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
 [丛林高地(区域)](JungleHighlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林高地(区域)](JungleHighlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [红树林(区域)](Mangroves.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [红树林(区域)](Mangroves.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [丛林边缘(区域)](Outskirts.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
 [丛林边缘(区域)](Outskirts.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
 [丛林边缘(区域)](Outskirts.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 [神秘谷(区域)](SecretValley.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[湿地丛林(区域)](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
+[湿地丛林(区域)(湿地)](Wetlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
+[湿地丛林(区域)(湿地)](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

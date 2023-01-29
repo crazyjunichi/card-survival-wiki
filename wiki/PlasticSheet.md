@@ -18,8 +18,6 @@
 [雨衣](Raincoat.md)  |  拆解  
 [雨衣](Raincoat.md)  |  转化  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
-[漂浮的残骸](FloatingDebris.md)  |  采集  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
 [雨水收集器](RainCatcher.md)  |  拆解  
 [太阳能蒸馏器](SolarStill.md)  |  拆解  

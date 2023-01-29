@@ -5,7 +5,7 @@
   
   东部高地  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)  |  <img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[东部高地(环境)](Env_HighlandsEastern.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[绝热](InsulationHeat.md)<br>[蚊虫数量](BugPopulation.md)+1<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)<br><br>** 可前往: **<br>[隧道(区域)](Tunnel.md)<br>[东部草原(区域)](GrasslandsE.md)<br>[火山(区域)](Volcano.md)<br>[西部高地(区域)](HighlandsWestern.md)  |  <img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  

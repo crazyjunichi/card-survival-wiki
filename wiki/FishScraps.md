@@ -22,10 +22,6 @@
 [鹦哥鱼](ParrotFish.md) , [盐](Salt.md)  |  腌制  
 [鹦哥鱼](ParrotFish.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
 [海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [鲨鱼尸体](SharkCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
 [鲨鱼尸体](SharkCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
@@ -51,4 +47,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  

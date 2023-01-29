@@ -42,7 +42,7 @@
 [猕猴朋友](MacaqueFriend.md)  |  抚摸  |  6  
 [祖父](Grandfather.md)  |  陪伴  |  5  
 [婴儿](Baby.md)  |  哄哄  |  4  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  拍照！  |  1  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  拍照！  |  1  
 [韦斯顿](Weston.md)  |  拍照！  |  1  
 [海湾(区域)](Bay.md)  |  拍照！  |  1  
 [沙滩(区域)](Beach.md)  |  拍照！  |  1  

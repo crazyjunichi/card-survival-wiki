@@ -13,7 +13,7 @@
 [针线(骨针)](BoneNeedleThreaded.md)  |  取下细线  
 [针线(骨针)](BoneNeedleThreaded.md)  |  转化  
 [骨头碎片](BoneSplinters.md)  |  制作针  
-[鸟骨](BonesBird.md)  |  制作针  
+[鸟骨(猕猴窝)](BonesBird.md)  |  制作针  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

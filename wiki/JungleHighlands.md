@@ -5,7 +5,7 @@
   
   丛林高地  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)  |  <img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[丛林高地(环境)](Env_JungleHighlands.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[阳光防护](SunProtection.md)+2<br>[蚊虫数量](BugPopulation.md)+3<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)<br><br>** 可前往: **<br>[蝙蝠洞(区域)](CaveBats.md)<br>[猕猴窝(区域)](MacaqueDen.md)<br>[丛林深处(区域)](DeepJungle.md)<br>[隐秘港湾(区域)(沙滩)](Cove.md)<br>[西部高地(区域)](HighlandsWestern.md)  |  <img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  

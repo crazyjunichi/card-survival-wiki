@@ -5,7 +5,7 @@
   
   神秘谷  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md)  |  <img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[神秘谷(环境)](Env_SecretValley.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md)<br><br>** 可前往: **<br>[丛林深处(区域)](DeepJungle.md)  |  <img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  

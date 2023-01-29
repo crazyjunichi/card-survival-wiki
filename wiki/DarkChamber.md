@@ -3,7 +3,7 @@
   
   黑暗  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[阴暗洞穴(环境)](Env_DarkChamber.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-6<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[夜晚](IsNight.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [家园标志](Imp_HomeSign.md)<br><br>** 可前往: **<br>[洞穴中层(区域)](MidChamber.md)<br>[高地坑洞(区域)(坑洞)](HighlandHole.md)  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

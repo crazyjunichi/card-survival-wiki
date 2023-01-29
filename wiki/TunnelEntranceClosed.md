@@ -3,7 +3,7 @@
   
   坍塌的隧道入口  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>**环境：**[东部高地(区域)](HighlandsEastern.md)  |  <img decoding="async" src="Sprite/TunnelEntranceCollapsed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**环境：**[东部高地(环境)](Env_HighlandsEastern.md)  |  <img decoding="async" src="Sprite/TunnelEntranceCollapsed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -16,4 +16,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>→ [隧道入口](TunnelEntrance.md)  
+进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>→ [隧道入口(东部高地)](TunnelEntrance.md)  

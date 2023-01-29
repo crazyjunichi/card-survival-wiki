@@ -5,7 +5,7 @@
   
   铜矿脉  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>**环境：**[狭窄隧道(区域)](NarrowTunnel.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/CopperVeinDark.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**环境：**[狭窄通道(环境)](Env_NarrowTunnel.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/CopperVeinDark.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

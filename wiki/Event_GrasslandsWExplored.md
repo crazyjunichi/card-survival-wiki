@@ -3,7 +3,7 @@
   
   地区探索完毕  |   图片   
  ----  |  ----:   
- **环境：**[西部草原(区域)](GrasslandsW.md)  |  <img decoding="async" src="Sprite/Grasslands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[西部草原(环境)](Env_GrasslandsW.md)  |  <img decoding="async" src="Sprite/Grasslands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

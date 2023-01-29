@@ -21,7 +21,7 @@
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
 [红树林(区域)](Mangroves.md)  |  探索  
 [丛林边缘(区域)](Outskirts.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md)  |  探索  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
 [幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 [水椰树](NipaSapStation.md)  |  转化  
 [棕榈丛](PalmBush.md)  |  采集  

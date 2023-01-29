@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[离开](TunnelExit.md)  |  离开  
+[离开(隧道)](TunnelExit.md)  |  离开  
 [前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)  |  前往  
 [前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)  |  前往  
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  

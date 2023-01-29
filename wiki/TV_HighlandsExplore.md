@@ -8,7 +8,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[酸湖(区域)](AcidLake.md)  |  探索  |  1  
+[酸湖(区域)(火山)](AcidLake.md)  |  探索  |  1  
 [东部高地(区域)](HighlandsEastern.md)  |  探索  |  1  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  1  
 [火山(区域)](Volcano.md)  |  探索  |  1  

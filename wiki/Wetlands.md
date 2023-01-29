@@ -5,18 +5,18 @@
   
   湿地丛林  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)  |  <img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[湿地(环境)](Env_Wetlands.md)<br><br>**标签：**	[“可用于布置陷阱的树”](tag_SnareCompatible.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+3<br>[阳光防护](SunProtection.md)+4<br>[蚊虫数量](BugPopulation.md)+4<br>[猎手接近](HuntersProximity.md)-0.5<br><br>** 可改造项目: **<br>[小径](Imp_Path.md) , [灌溉系统](Imp_Irrigation.md) , [陷阱栅栏](Imp_TrappingFences.md)<br><br>** 可前往: **<br>[幽暗洞穴(区域)](DarkCave.md)<br>[丛林深处(区域)](DeepJungle.md)<br>[丛林(区域)](Jungle.md)<br>[丛林高地(区域)](JungleHighlands.md)  |  <img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
 ----  |  ----  
-14%  |  [干涸的小水塘(湿地丛林)](Puddle.md)  
-28%  |  [干涸的小水塘(湿地丛林)](Puddle.md)  
-42%  |  [洞穴(事件)(湿地丛林)](Event_CaveDarkFound.md)  
-56%  |  [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  
-70%  |  [前往丛林小径(湿地丛林)](Path_WetlandsToJungle.md)  
-84%  |  [前往丛林深处(湿地丛林)](Path_WetlandsToDeepJungle.md)  
-100%  |  [地区探索完毕(事件)(湿地丛林)](Event_WetlandsExplored.md)  
+14%  |  [干涸的小水塘(湿地)](Puddle.md)  
+28%  |  [干涸的小水塘(湿地)](Puddle.md)  
+42%  |  [洞穴(事件)(湿地)](Event_CaveDarkFound.md)  
+56%  |  [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  
+70%  |  [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  
+84%  |  [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  
+100%  |  [地区探索完毕(事件)(湿地)](Event_WetlandsExplored.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -11,8 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
-[一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
-[你做到了！(事件)](Event_SeagullNest.md)  |  继续  
 [你做到了！(事件)](Event_SeagullNest.md)  |  继续  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

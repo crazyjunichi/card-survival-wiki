@@ -5,7 +5,7 @@
   
   干涸的小水塘  |   图片   
  ----  |  ----:   
- ** 不可堆叠 **<br><br>**环境：**[湿地丛林(区域)](Wetlands.md)<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**6000  |  <img decoding="async" src="Sprite/PuddleDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**环境：**[湿地(环境)](Env_Wetlands.md)<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**6000  |  <img decoding="async" src="Sprite/PuddleDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

@@ -139,7 +139,7 @@
 [地区探索完毕(事件)](Event_RocksExplored.md)  |  继续  |  25  
 [地区探索完毕(事件)(神秘谷)](Event_SecretValleyExplored.md)  |  继续  |  25  
 [地区探索完毕(事件)](Event_VolcanoExplored.md)  |  继续  |  25  
-[地区探索完毕(事件)(湿地丛林)](Event_WetlandsExplored.md)  |  继续  |  25  
+[地区探索完毕(事件)(湿地)](Event_WetlandsExplored.md)  |  继续  |  25  
 [铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  25  
 [肉食盛宴](HeartyFeast.md)  |  食用  |  25  
 [野猪牙](Tusk.md)  |  雕刻  |  25  
@@ -200,7 +200,7 @@
 [拿下了！(事件)](Event_GoatFightSuccess.md)  |  继续  |  10  
 [拿下了！(事件)](Event_PartridgeFightSuccess.md)  |  继续  |  10  
 [拿下了！(事件)](Event_SeagullFightSuccess.md)  |  继续  |  10  
-[洞穴(事件)(湿地丛林)](Event_CaveDarkFound.md)  |  继续  |  10  
+[洞穴(事件)(湿地)](Event_CaveDarkFound.md)  |  继续  |  10  
 [洞穴(事件)(岩滩)](Event_CaveFound.md)  |  继续  |  10  
 [隐秘港湾(事件)](Event_CoveFound.md)  |  继续  |  10  
 [礼物！(事件)](Event_DogFriendGift.md)  |  看看礼物  |  10  
@@ -303,16 +303,16 @@
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  5  
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  5  
 [蝙蝠洞(区域)](CaveBats.md)  |  打扫  |  5  
-[草原洞穴(区域)](CaveGrasslands.md)  |  打扫  |  5  
-[海蚀洞(区域)](CaveSea.md)  |  打扫  |  5  
-[晶石洞穴(区域)](CrystalChamber.md)  |  打扫  |  5  
+[草原洞穴(区域)(洞穴)](CaveGrasslands.md)  |  打扫  |  5  
+[海蚀洞(区域)(洞穴)](CaveSea.md)  |  打扫  |  5  
+[晶石洞穴(区域)(洞穴上层)](CrystalChamber.md)  |  打扫  |  5  
 [潮湿洞穴(区域)](DampChamber.md)  |  打扫  |  5  
-[黑暗(区域)](DarkChamber.md)  |  打扫  |  5  
+[黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  打扫  |  5  
 [覆溺洞穴(区域)](FloodedChamber.md)  |  打扫  |  5  
 [洞穴上层(区域)](HighChamber.md)  |  打扫  |  5  
 [洞穴底层(区域)](LowChamber.md)  |  打扫  |  5  
 [洞穴中层(区域)](MidChamber.md)  |  打扫  |  5  
-[狭窄隧道(区域)](NarrowTunnel.md)  |  打扫  |  5  
+[狭窄隧道(区域)(洞穴上层)](NarrowTunnel.md)  |  打扫  |  5  
 [隧道(区域)](Tunnel.md)  |  打扫  |  5  
 [潮汐洞(区域)](CaveTidal.md)  |  打扫  |  5  
 [地窖(区域)](Cellar.md)  |  打扫  |  5  
@@ -321,7 +321,7 @@
 [猕猴窝(区域)](MacaqueDen.md)  |  打扫  |  5  
 [泥屋(区域)](MudHut.md)  |  打扫  |  5  
 [泥屋(区域)](MudHutRuins.md)  |  打扫  |  5  
-[飞机残骸(区域)](PlaneCrash.md)  |  打扫  |  5  
+[飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  打扫  |  5  
 [棚屋(区域)](Shed.md)  |  打扫  |  5  
 [石屋(区域)](StoneHut.md)  |  打扫  |  5  
 [婴儿](Baby.md)  |  一起玩耍  |  4  
@@ -624,7 +624,7 @@
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -15  
 [老鼠尸体](Mouse.md)  |  食用  |  -15  
 [剥皮的老鼠](MouseSkinned.md)  |  食用  |  -15  
-[腐烂物](RottenRemains.md)  |  食用  |  -15  
+[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  -15  
 [我被它伤到了……(事件)](Event_BoarFightBadFailure.md)  |  继续  |  -20  
 [那条眼镜蛇喷射了毒液！(事件)](Event_CobraFightFailedRetreat.md)  |  继续  |  -20  
 [我被它伤到了……(事件)](Event_DroneFightBadFailure.md)  |  继续  |  -20  
@@ -647,7 +647,7 @@
 [我感觉到某种“存在”……(事件)](Event_EnemyPresence.md)  |  我还没准备好  |  -50  
 [船长(Special1f)(事件)](Event_CaptainSpecial1f.md)  |  滚吧！  |  -50  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  继续  |  -50  
-[一具骷髅！(事件)](Event_SkeletonSeen.md)  |  继续  |  -50  
+[一具骷髅！(事件)(坑洞)](Event_SkeletonSeen.md)  |  继续  |  -50  
 [噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  -50  
 [一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -50  
 [忠犬朋友](DogFriend.md)  |  杀害！  |  -100  

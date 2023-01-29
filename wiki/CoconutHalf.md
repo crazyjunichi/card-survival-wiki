@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[椰子](Coconut.md) , [“锤”](tag_Hammer.md)  |  敲开椰子  
+[椰子(猕猴窝)](Coconut.md) , [“锤”](tag_Hammer.md)  |  敲开椰子  
 [带孔椰子](CoconutPerforated.md) , [“锤”](tag_Hammer.md)  |  敲开椰子  
 [韦斯顿](Weston.md) , [“锤”](tag_Hammer.md)  |  杀害！  
 ## 动作  
@@ -20,4 +20,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [rot] **<br>[腐烂物](RottenRemains.md)(+1)<br><br>→ [椰子壳](CoconutShell.md)  
+耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [rot] **<br>[腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [椰子壳](CoconutShell.md)  

@@ -46,3 +46,13 @@
     script.src = "./custom.js";
     document.body.appendChild(script);
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RE3Z6GM8B9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RE3Z6GM8B9');
+</script>

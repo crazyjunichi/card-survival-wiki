@@ -33,7 +33,7 @@
 [东部高地(环境)](Env_HighlandsEastern.md)  |  被动  |  1  
 [丛林边缘(环境)](Env_Outskirts.md)  |  被动  |  1  
 [神秘谷(环境)](Env_SecretValley.md)  |  被动  |  1  
-[干涸的小水塘(湿地丛林)](Puddle.md)  |  条件被动  |  1  
+[干涸的小水塘(湿地)](Puddle.md)  |  条件被动  |  1  
 [雨水收集器](RainCatcher.md)  |  条件被动  |  1  
 [蓄水池](WaterReservoir.md)  |  条件被动  |  1  
 [蓄水池(满)](WaterReservoirFull.md)  |  条件被动  |  1  
@@ -45,7 +45,7 @@
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  -1  
 [烟熏炉](Smoker.md)  |  被动  |  -1  
 [香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  -1  
-[干涸的小水塘(湿地丛林)](Puddle.md)  |  条件被动  |  -1  
+[干涸的小水塘(湿地)](Puddle.md)  |  条件被动  |  -1  
 [蓄水池](WaterReservoir.md)  |  条件被动  |  -1  
 [蓄水池(满)](WaterReservoirFull.md)  |  条件被动  |  -1  
 [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  |  条件被动  |  -1  

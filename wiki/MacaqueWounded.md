@@ -11,7 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [原木陷阱](LogTrap.md)  |  捕捉猎物  
-[原木陷阱](LogTrap.md)  |  捕捉猎物  
 [我拿下它了，但我受伤了。(事件)](Event_MacaqueFightMixedSuccess.md)  |  继续  
 [那只猕猴倒下了！(事件)](Event_MacaqueFightSuccess.md)  |  继续  
 [那只猕猴倒下了！(事件)](Event_MacaqueUndeadFightSuccess.md)  |  继续  

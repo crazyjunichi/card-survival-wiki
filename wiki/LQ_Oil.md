@@ -11,14 +11,9 @@
 来源  |  操作  
 ----  |  ----  
 [椰奶](LQ_CoconutMilk.md) , [营火](Campfire.md)  |  熬制油  
-[椰奶](LQ_CoconutMilk.md) , [营火](Campfire.md)  |  熬制油  
-[椰奶](LQ_CoconutMilk.md) , [粘土火盆](ClayFirePit.md)  |  熬制油  
 [椰奶](LQ_CoconutMilk.md) , [粘土火盆](ClayFirePit.md)  |  熬制油  
 [椰奶](LQ_CoconutMilk.md) , [火堆](Fire.md)  |  熬制油  
-[椰奶](LQ_CoconutMilk.md) , [火堆](Fire.md)  |  熬制油  
 [椰奶](LQ_CoconutMilk.md) , [瓦斯炉(开)](GasCookerOn.md)  |  熬制油  
-[椰奶](LQ_CoconutMilk.md) , [瓦斯炉(开)](GasCookerOn.md)  |  熬制油  
-[椰奶](LQ_CoconutMilk.md) , [火炉](Stove.md)  |  熬制油  
 [椰奶](LQ_CoconutMilk.md) , [火炉](Stove.md)  |  熬制油  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

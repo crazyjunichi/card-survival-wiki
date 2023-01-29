@@ -13,7 +13,7 @@
 [香蕉树田](CropPlotBananaTree.md)  |  转化  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林(区域)](Jungle.md)  |  探索  
-[湿地丛林(区域)](Wetlands.md)  |  探索  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

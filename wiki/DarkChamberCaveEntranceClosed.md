@@ -3,7 +3,7 @@
   
   狭窄通道  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>**环境：**[洞穴中层(区域)](MidChamber.md)  |  <img decoding="async" src="Sprite/CaveCollapsed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)  |  <img decoding="async" src="Sprite/CaveCollapsed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
@@ -13,4 +13,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：20  |  -  |  ** 到达上限时： **<br><br>→ [小型通道](DarkChamberCaveEntrance.md)  
+进度  |  初始：0<br>最大：20  |  -  |  ** 到达上限时： **<br><br>→ [小型通道(洞穴中层)](DarkChamberCaveEntrance.md)  

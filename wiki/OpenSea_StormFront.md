@@ -13,14 +13,9 @@
 [前有风暴](OpenSea_StormFront.md)  |  转化  
 [风向非常不利](OpenSea_VeryUnFavourable.md)  |  转化  
 [大雨](TropicalIsland_HeavyRain.md)  |    
-[大雨](TropicalIsland_HeavyRain.md)  |    
-[大雨](TropicalIsland_HeavyRainLong.md)  |    
 [大雨](TropicalIsland_HeavyRainLong.md)  |    
 [大雨](TropicalIsland_HeavyRainStart.md)  |    
-[大雨](TropicalIsland_HeavyRainStart.md)  |    
 [暴风雨](TropicalIsland_Storm.md)  |    
-[暴风雨](TropicalIsland_Storm.md)  |    
-[暴风雨](TropicalIsland_StormStart.md)  |    
 [暴风雨](TropicalIsland_StormStart.md)  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

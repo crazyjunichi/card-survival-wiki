@@ -11,10 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [蜂箱](BeeSkep.md)  |  采集  
-[蜂箱](BeeSkep.md)  |  采集  
 [繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  
-[繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  
-[蜂巢](Beehive.md)  |  采集  
 [蜂巢](Beehive.md)  |  采集  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

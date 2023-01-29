@@ -5,7 +5,7 @@
   
   离开  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/MudHutExit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/MudHutExit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

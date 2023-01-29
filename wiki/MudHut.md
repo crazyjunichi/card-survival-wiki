@@ -5,7 +5,7 @@
   
   泥屋  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [泥屋扩建](Imp_MudHutExpansion.md) , [白墙](Imp_WhiteWashedWalls.md) , [皮地毯](Imp_StitchedHideFloor.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 相关损坏: **<br>[屋顶损坏](Dmg_RoofDamage.md) , [坍塌的屋顶](Dmg_RoofCollapsed.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[泥屋(环境)](Env_MudHut.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-1<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [泥屋扩建](Imp_MudHutExpansion.md) , [白墙](Imp_WhiteWashedWalls.md) , [皮地毯](Imp_StitchedHideFloor.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 相关损坏: **<br>[屋顶损坏](Dmg_RoofDamage.md) , [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -20,7 +20,7 @@
 ----  |  ----  |  ----  |  ----  
 污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟+1<br>最多需要：10天10小时  |    
 屋顶破洞计数  |  初始：0<br>最大：96  |  每15分钟+0.1<br>最多需要：10天  |  ** 到达上限时： **<br>** [Result] **<br>  [屋顶损坏](Dmg_RoofDamage.md)(+1)<br>  
-屋顶坍塌计数  |  初始：0<br>最大：4  |  -  |  ** 到达上限时： **<br>  [坍塌的屋顶](Dmg_RoofCollapsed.md)(+1)<br>  
+屋顶坍塌计数  |  初始：0<br>最大：4  |  -  |  ** 到达上限时： **<br>  [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)(+1)<br>  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

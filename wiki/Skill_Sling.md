@@ -20,7 +20,7 @@
 [一只猕猴！(事件)](Event_MacaqueFight.md)  |  用投石索攻击！  |  1  
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用投石索攻击！  |  1  
 [一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  用投石索攻击！  |  1  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  用投石索攻击！  |  1  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  用投石索攻击！  |  1  
 [一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  使用投索  |  1  
 [一只海鸥！(事件)](Event_SeagullFight.md)  |  使用投索  |  1  
 [一只海鸥！(事件)](Event_SeagullRaid.md)  |  使用投索  |  1  

@@ -8,5 +8,5 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[幽暗洞穴](DarkCaveCaveEntrance.md)  |  进入  
+[幽暗洞穴(潮湿洞穴)](DarkCaveCaveEntrance.md)  |  进入  
 [幽暗洞穴](DarkCaveEntrance.md)  |  进入  

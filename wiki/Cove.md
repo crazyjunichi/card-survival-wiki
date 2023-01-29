@@ -3,13 +3,13 @@
   
   隐秘港湾  |   图片   
  ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/Cove.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Cove.md)<br><br>** 环境效果: **<br>[光亮](Light.md)+10<br>[体感温度](TemperaturePerceived.md)-5<br>[内陆恐惧症](LandSickness.md)加成-8<br><br>** 可前往: **<br>[覆溺洞穴(区域)](FloodedChamber.md)<br>[鸟岩岛(区域)](BirdRock.md)<br>[丛林高地(区域)](JungleHighlands.md)  |  <img decoding="async" src="Sprite/Cove.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
 ----  |  ----  
-50%  |  [前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  
-100%  |  [鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  
+50%  |  [前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  
+100%  |  [鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

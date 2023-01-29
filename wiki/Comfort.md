@@ -48,7 +48,7 @@
 [书架](Bookshelf.md)  |  条件被动  |  10  
 [架子](Shelf.md)  |  条件被动  |  10  
 [蝙蝠洞(区域)](CaveBats.md)  |  被动  |  -100  
-[草原洞穴(区域)](CaveGrasslands.md)  |  被动  |  -100  
+[草原洞穴(区域)(洞穴)](CaveGrasslands.md)  |  被动  |  -100  
 [隧道(区域)](Tunnel.md)  |  被动  |  -100  
 [猕猴窝(区域)](MacaqueDen.md)  |  被动  |  -100  
 [屋顶损坏](Dmg_RaftDamage.md)  |  被动  |  -250  
@@ -65,7 +65,7 @@
 [洞穴上层(区域)](HighChamber.md)  |  被动  |  -500  
 [洞穴底层(区域)](LowChamber.md)  |  被动  |  -500  
 [洞穴中层(区域)](MidChamber.md)  |  被动  |  -500  
-[狭窄隧道(区域)](NarrowTunnel.md)  |  被动  |  -500  
+[狭窄隧道(区域)(洞穴上层)](NarrowTunnel.md)  |  被动  |  -500  
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  -500  
 [潮汐洞(环境)](Env_CaveTidal.md)  |  被动  |  -500  
-[坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -2000  
+[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -2000  

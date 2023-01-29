@@ -40,7 +40,7 @@
 - 剥皮 [巨蜥尸体](MonitorCarcass.md)  
 - 剔肉 [剥皮的巨蜥](MonitorSkinned.md)  
 - 敲碎 [煅烧后的砂浆](MortarBurnt.md)  
-- 研磨 [硝石晶体](NiterCrystals.md)  
+- 研磨 [硝石晶体(蝙蝠洞)](NiterCrystals.md)  
 - 练习石工 [黑曜石](Obsidian.md)  
 - 打开 [牡蛎](Oyster.md)  
 - 编织 [棕榈叶](PalmFronds.md)  

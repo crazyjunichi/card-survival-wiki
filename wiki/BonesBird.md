@@ -5,7 +5,7 @@
   
   鸟骨  |   图片   
  ----  |  ----:   
- **重量：**25  |  <img decoding="async" src="Sprite/BirdBones.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>**重量：**25  |  <img decoding="async" src="Sprite/BirdBones.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

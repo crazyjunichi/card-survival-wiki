@@ -12,7 +12,6 @@
 ----  |  ----  
 [柠檬草田](CropPlotLemonGrass.md)  |  转化  
 [海湾(区域)](Bay.md)  |  随便逛逛  
-[海湾(区域)](Bay.md)  |  随便逛逛  
 [沙滩(区域)](Beach.md)  |  随便逛逛  
 [西部草原(区域)](GrasslandsW.md)  |  探索  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  

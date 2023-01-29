@@ -8,5 +8,5 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[潮湿洞穴(狭窄隧道)](DampChamberEntrance.md)  |  进入  
-[潮湿洞穴](DarkCaveCaveExit.md)  |  进入  
+[潮湿洞穴(洞穴上层)](DampChamberEntrance.md)  |  进入  
+[潮湿洞穴(幽暗洞穴)](DarkCaveCaveExit.md)  |  进入  

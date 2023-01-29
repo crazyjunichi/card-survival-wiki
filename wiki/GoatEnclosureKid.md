@@ -11,7 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [母山羊](GoatEnclosureFemale.md)  |  转化  
-[母山羊](GoatEnclosureFemale.md)  |  转化  
 [小羊](GoatTiedKid.md)  |  圈养在畜栏中  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

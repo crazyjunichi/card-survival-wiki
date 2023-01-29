@@ -5,7 +5,7 @@
   
   骨头  |   图片   
  ----  |  ----:   
- **重量：**150  |  <img decoding="async" src="Sprite/HumanBones.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>**重量：**150  |  <img decoding="async" src="Sprite/HumanBones.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,21 +14,15 @@
 [野猪尸体](BoarCarcass.md)  |  转化  
 [小猪尸体](BoarCarcassPiglet.md)  |  转化  
 [剥皮的野猪](BoarSkinned.md)  |  转化  
-[剥皮的野猪](BoarSkinned.md)  |  转化  
-[剥皮的猪](BoarSkinnedPiglet.md)  |  转化  
 [剥皮的猪](BoarSkinnedPiglet.md)  |  转化  
 [山羊尸体(母)](GoatCarcassFemale.md)  |  转化  
 [小羊尸体](GoatCarcassKid.md)  |  转化  
 [山羊尸体(公)](GoatCarcassMale.md)  |  转化  
 [剥皮的山羊](GoatSkinned.md)  |  转化  
-[剥皮的山羊](GoatSkinned.md)  |  转化  
-[剥皮的小羊](GoatSkinnedKid.md)  |  转化  
 [剥皮的小羊](GoatSkinnedKid.md)  |  转化  
 [猕猴尸体](MacaqueCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
 [猕猴尸体](MacaqueCarcass.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
 [巨蜥尸体](MonitorCarcass.md)  |  转化  
-[剥皮的巨蜥](MonitorSkinned.md)  |  转化  
-[剥皮的巨蜥](MonitorSkinned.md)  |  转化  
 [剥皮的巨蜥](MonitorSkinned.md)  |  转化  
 [骷髅(坑洞)](Skeleton.md)  |  采集  
 ## 可拖入  

@@ -19,8 +19,8 @@
 [一只猕猴！(事件)](Event_MacaqueFight.md)  |  撤退  |  1  
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  撤退  |  1  
 [一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  撤退  |  1  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  撤退  |  1  
-[一头巨蜥！(事件)](Event_MonitorFight.md)  |  拍照！  |  1  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  撤退  |  1  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  拍照！  |  1  
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  撤退  |  1  
 [一条鲨鱼！(事件)](Event_SharkFight.md)  |  撤退  |  1  
 [老旧的踪迹(事件)](Event_BoarTrailOld.md)  |  跟随踪迹  |  0.5  

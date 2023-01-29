@@ -5,15 +5,13 @@
   
   羽毛  |   图片   
  ----  |  ----:   
- **重量：**10  |  <img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>**重量：**10  |  <img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
 [一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
-[一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
-[你做到了！(事件)](Event_SeagullNest.md)  |  继续  
 [你做到了！(事件)](Event_SeagullNest.md)  |  继续  
 [海鸥护符](SeagullCharm.md)  |  转化  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
