@@ -3,7 +3,7 @@
   
   控制台  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**槽位：**1  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,4 +13,4 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md): 1-1  |  → [控制台(开)](ControlPanelOn.md)  |    
-检查无线电室<br>  |  -  |    |  ** Inventory **<br>  |    
+检查无线电室<br>  |  -  |    |  ** 获得： **<br>** [Inventory] **<br>  |    

@@ -18,6 +18,7 @@
 [高级窑炉(熄灭)](KilnAdvancedExtinguished.md)  |  拆除  
 [窑炉(熄灭)](KilnExtinguished.md)  |  拆除  
 [火炉(熄灭)](StoveExtinguished.md) , [“锤”](tag_Hammer.md)  |  拆除  
+[泥堆](MudPile.md)  |  转化  
 [水槽](WateringTrough.md) , [“锤”](tag_Hammer.md)  |  拆除  
 [地窖(蓝图)](Bp_Cellar.md)  |  蓝图制造  
 [水窖(蓝图)](Bp_Cistern.md)  |  蓝图制造  
@@ -25,9 +26,9 @@
 [泥砖](MudBrick.md) , [“锤”](tag_Hammer.md)  |  破坏  
 [废墟(泥屋)](Debris.md)  |  清理  
 [废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
-[东部草原](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[西部草原](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[神秘谷](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[东部草原(区域)](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[西部草原(区域)](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[神秘谷(区域)](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
 [干涸的小水塘(湿地丛林)](Puddle.md)  |  挖干土  
 [干涸的小水塘(湿地丛林)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
 [滤水器](WaterFilter.md) , [“锤”](tag_Hammer.md)  |  拆除  
@@ -39,8 +40,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  制作泥巴  |  -  |    |  ** 自身: **<br>→ [泥堆](MudPile.md)<br>** 使用物: **<br>含水量  -300  |  [污垢](Filth.md)+10<br>[湿度](Wetness.md)+20  
-[“锤”](tag_Hammer.md)  |  碾碎干土  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [细土](FineDirt.md)  |  [污垢](Filth.md)+10  
+[“水”](tag_WaterAny.md)  |  制作泥巴<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身: **<br>→ [泥堆](MudPile.md)<br><br>** 使用物: **<br>含水量  -300  |  [污垢](Filth.md)+10<br>[湿度](Wetness.md)+20  
+[“锤”](tag_Hammer.md)  |  碾碎干土<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [细土](FineDirt.md)  |  [污垢](Filth.md)+10  
 ## 可拖至  
 [蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [西米饼](SagoFlatbread.md), [应急水包](WaterRation.md), [干涸的小水塘(湿地丛林)](Puddle.md), [蓄水池](WaterReservoir.md), [蓄水池(满)](WaterReservoirFull.md), [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  
 ## 可用于蓝图  

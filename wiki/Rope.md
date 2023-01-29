@@ -5,20 +5,26 @@
   
   绳子  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“细线”](tag_Cord.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)  |  <img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**250<br><br>**装备时减重：**-75<br><br>**标签：**	[“细线”](tag_Cord.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)  |  <img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [睡袋](BedRoll.md)  |  拆解  
+[睡袋](BedRoll.md)  |  转化  
 [吊床](Hammock.md)  |  拆解  
 [打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
 [背篓](BackpackBasket.md)  |  解开绳子  
 [补给箱](SupplyChestRaft.md)  |  拆解  
+[鱼镖](HarpoonBone.md)  |  鱼镖坏了  
 [铜长矛](SpearCopper.md)  |  拆解  
+[铜长矛](SpearCopper.md)  |  长矛坏了  
 [燧石长矛](SpearFlint.md)  |  拆解  
+[燧石长矛](SpearFlint.md)  |  长矛坏了  
 [黑曜石长矛](SpearObsidian.md)  |  拆解  
+[黑曜石长矛](SpearObsidian.md)  |  长矛坏了  
 [废金属长矛](SpearScrap.md)  |  拆解  
+[废金属长矛](SpearScrap.md)  |  长矛坏了  
 [线团](YarnFiber.md) , [线团](YarnFiber.md)  |  制作绳子  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
@@ -31,7 +37,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>** yarn **<br>  [线团](YarnFiber.md)(+2)<br>  |    
+拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [yarn] **<br>  [线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
 [编织篓](Basket.md), [坑洞(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

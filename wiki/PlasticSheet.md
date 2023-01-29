@@ -5,7 +5,7 @@
   
   塑料布  |   图片   
  ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/plastic sheet.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/plastic sheet.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -16,6 +16,7 @@
 [打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
 [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)  |  移除塑料布  
 [雨衣](Raincoat.md)  |  拆解  
+[雨衣](Raincoat.md)  |  转化  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [漂浮的残骸](FloatingDebris.md)  |  采集  

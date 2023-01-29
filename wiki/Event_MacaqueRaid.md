@@ -8,5 +8,5 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随它吧<br>  |  -  |    |  消失<br>** Rummage **<br>  [(事件)猕猴](Event_MacaqueRaidRummaging.md)(+1)<br>  |    
-嘿！<br>  |  -  |    |  消失<br>** Fight **<br>  [(事件)一只猕猴！](Event_MacaqueFightRaid.md)(+1)<br>  |    
+随它吧<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Rummage] **<br>  [猕猴(事件)](Event_MacaqueRaidRummaging.md)(+1)<br>  |    
+嘿！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Fight] **<br>  [一只猕猴！(事件)](Event_MacaqueFightRaid.md)(+1)<br>  |    

@@ -7,10 +7,19 @@
  ----  |  ----:   
  **重量：**25<br><br>**可使用次数：**15  |  <img decoding="async" src="Sprite/SoapDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[肥皂混合物](LQ_SoapMix.md) , [营火](Campfire.md)  |  制作肥皂  
+[肥皂混合物](LQ_SoapMix.md) , [粘土火盆](ClayFirePit.md)  |  制作肥皂  
+[肥皂混合物](LQ_SoapMix.md) , [火堆](Fire.md)  |  制作肥皂  
+[肥皂混合物](LQ_SoapMix.md) , [瓦斯炉(开)](GasCookerOn.md)  |  制作肥皂  
+[肥皂混合物](LQ_SoapMix.md) , [火炉](Stove.md)  |  制作肥皂  
+[湿肥皂](SoapWet.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  打湿  |  -  |    |  ** 自身: **<br>→ [湿肥皂](SoapWet.md)<br>耐久 + 4<br>** 使用物: **<br>耐久  -250<br>可用次数  -1<br>含水量  -100  |    
+[“水”](tag_WaterAny.md)  |  打湿<br>  |  -  |    |  ** 自身: **<br>→ [湿肥皂](SoapWet.md)<br>耐久 + 4<br><br>** 使用物: **<br>耐久  -250<br>可用次数  -1<br>含水量  -100  |    
 ## 可用于蓝图  
 - [辣椒农药(蓝图)](Bp_PesticideChilli.md)  
   
@@ -18,4 +27,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：15  |  -  |  ** 到达0时： **  
+使用次数  |  初始：15  |  -  |  ** 到达0时： **<br>  

@@ -8,7 +8,17 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[蒸馏器(开)](AlembicOn.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[营火](Campfire.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[粘土火盆](ClayFirePit.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[火堆](Fire.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[熔炉](Forge.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[瓦斯炉(开)](GasCookerOn.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[窑炉](Kiln.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[高级窑炉](KilnAdvanced.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
+[火炉](Stove.md) , [枯叶](LeavesDry.md)  |  点燃火绒  
 [火炭](Embers.md) , [枯叶](LeavesDry.md)  |  生火  
+[手钻](FirePlow.md) , [“火绒”](tag_Tinder.md)  |  点燃火绒  
 [纤维](Fibers.md) , [手钻](HandDrill.md)  |  钻木取火  
 [纤维](Fibers.md) , [弓钻](BowDrill.md)  |  钻木取火  
 [纤维](Fibers.md) , [火把(开)](TorchOn.md)  |  点燃火绒  
@@ -35,4 +45,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **  
+燃料  |  初始：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **<br>  

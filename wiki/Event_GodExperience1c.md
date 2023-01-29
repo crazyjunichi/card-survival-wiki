@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)神圣灵视](Event_GodExperience1b.md)  |  随祂去吧！  
-[(事件)神圣灵视](Event_HuntedExperience1b.md)  |  我感受到祂了！  
+[神圣灵视(事件)](Event_GodExperience1b.md)  |  随祂去吧！  
+[神圣灵视(事件)](Event_HuntedExperience1b.md)  |  我感受到祂了！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-我即是欢愉……<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)神圣灵视](Event_GodExperience1d.md)(+1)<br>  |    
+我即是欢愉……<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [神圣灵视(事件)](Event_GodExperience1d.md)(+1)<br>  |    

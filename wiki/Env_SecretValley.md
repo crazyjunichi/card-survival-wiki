@@ -3,7 +3,7 @@
   
   神秘谷  |   图片   
  ----  |  ----:   
- **标签：**	[“肥沃环境”](tag_EnvFertile.md), [“丛林”](tag_Jungle.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[神秘谷](SecretValley.md)<br><br>** 效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **标签：**	[“肥沃环境”](tag_EnvFertile.md), [“丛林”](tag_Jungle.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[神秘谷(区域)](SecretValley.md)<br><br>** 效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

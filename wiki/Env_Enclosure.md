@@ -3,7 +3,7 @@
   
   畜栏  |   图片   
  ----  |  ----:   
- **容重量：**60000<br><br>**初始：**	[畜栏](Enclosure.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **容量：**60000<br><br>**初始：**	[畜栏(区域)](Enclosure.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

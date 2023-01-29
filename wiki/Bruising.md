@@ -1,8 +1,9 @@
 # 淤青  
 > 当从高处坠落或受到动物攻击时，身上偶尔会留下淤青。<br><br>瘀青会产生疼痛。使用<b>芦荟膏或硫磺膏</b>等药膏治疗，可以更快地愈合，同时减轻疼痛。  
   
-变化范围: 0 ~ 400  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 400  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -13,7 +14,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)坠落！](Event_FallBruise.md)  |  真他妈不错  |  75 ~ 125  
-[(事件)啊！](Event_MacaqueDenFightBadFailure.md)  |  继续  |  50 ~ 300  
-[(事件)啊！](Event_MacaqueDenFightFailedRetreat.md)  |  继续  |  25 ~ 150  
-[(事件)我进不去！](Event_MacaqueDenFightFailure.md)  |  继续  |  0 ~ 200  
+[坠落！(事件)](Event_FallBruise.md)  |  真他妈不错  |  75 ~ 125  
+[啊！(事件)](Event_MacaqueDenFightBadFailure.md)  |  继续  |  50 ~ 300  
+[啊！(事件)](Event_MacaqueDenFightFailedRetreat.md)  |  继续  |  25 ~ 150  
+[我进不去！(事件)](Event_MacaqueDenFightFailure.md)  |  继续  |  0 ~ 200  

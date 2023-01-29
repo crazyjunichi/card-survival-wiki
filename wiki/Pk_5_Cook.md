@@ -9,3 +9,4 @@
 额外卡牌  |  [烹饪锅(蓝图)](Bp_CookingPot.md)  
 初始状态  |  [烹饪(技能)](Skill_Cooking.md)+75  
 被动状态  |  无  
+效果  |    

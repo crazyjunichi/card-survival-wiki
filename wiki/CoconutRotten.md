@@ -7,7 +7,11 @@
  ----  |  ----:   
  **重量：**100<br><br>** 效果: **<br>[不适](Discomfort.md)+25  |  <img decoding="async" src="Sprite/Coconut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[带孔椰子](CoconutPerforated.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲开  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 获得: **<br>** Coconut Halves **<br>  [椰子壳](CoconutShell.md)(+2)<br>  [腐烂物](RottenRemains.md)(+2)<br>基础权重：1<br>  |    
+[“锤”](tag_Hammer.md)  |  敲开<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 获得: **<br>** [Coconut Halves] **<br>  [椰子壳](CoconutShell.md)(+2)<br>  [腐烂物](RottenRemains.md)(+2)<br>基础权重：1<br>  |    

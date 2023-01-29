@@ -5,7 +5,7 @@
   
   干涸酸湖  |   图片   
  ----  |  ----:   
- **环境：**[火山(环境)](Env_AcidLake.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md), [“釉面”](tag_Glazed.md)<br><br>**容水量：**60000  |  <img decoding="async" src="Sprite/AcidShore.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[火山(环境)](Env_AcidLake.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md), [“釉面”](tag_Glazed.md)<br><br>**储水量：**60000  |  <img decoding="async" src="Sprite/AcidShore.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

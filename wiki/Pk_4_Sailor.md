@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  [决心](Determination.md)+500  
 被动状态  |  [航海技术](SeaSicknessResistance.md)+128～0  
+效果  |    

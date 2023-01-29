@@ -1,15 +1,16 @@
 # 压力  
 >   
   
-变化范围: 0 ~ 240  
-基础变化率: +1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 240  
+#### ** 基础变化率: ** +1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 25  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">放松  |    |  [世界观](Structure.md)加成+1  |    
 97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
-145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-5<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-2<br>时间-2  
-193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md)<br>[腿部动作](LegAction.md)<br>[压力](Stress.md)-10<br>[休息动作](SleepAction.md)<br>[睡眠钟](SleepClock.md)-4<br>时间-4  
+145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>[压力](Stress.md)-5<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)-2<br>时间-2  
+193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>[压力](Stress.md)-10<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)-4<br>时间-4  
 ## 关联状态  
 [疼痛](Pain.md)  |  [水分](Hydration.md)  |  [世界观](Structure.md)  |  [清醒度](Wakefulness.md)  |  [饱食](Satiation.md)  |  [过热](Hyperthermia.md)  |  [外星植物渴求](AlienCravings.md)  |  [孤独感](Loneliness.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [失血](BloodLoss.md)  |  [咖啡因](Caffeine.md)  |  [月季效果](ChinaRoseEffect.md)  |  [监视者的凝视](WatchersGlare.md)  |  [茉莉效果](JasmineEffect.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [宿敌现身](EnemyDefeated.md)  |  [娱乐](Entertainment.md)  |  [神圣灵视](GodInsight.md)  |  [猎手接近](HuntersProximity.md)  |  [虚空灵视](VoidInsight.md)  |  [奎宁](Quinine.md)  
 ## 加成值影响因素  
@@ -17,7 +18,7 @@
 ----  |  ----  |  ----  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成+2  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成+1  
-[狭窄隧道](NarrowTunnel.md)  |  被动  |  加成+1  
+[狭窄隧道(区域)](NarrowTunnel.md)  |  被动  |  加成+1  
 [铜项链](CopperNecklace.md)  |  被动  |  加成-0.25  
 [鲜花项链](FlowerNecklace.md)  |  被动  |  加成-0.25  
 [珍珠项链](PearlNecklace.md)  |  被动  |  加成-0.25  
@@ -26,9 +27,12 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)噩梦！](Event_Nightmare.md)  |  试着冷静下来……  |  50  
-[(事件)一只蜘蛛咬了我！](Event_SpiderNight.md)  |  赶走蜘蛛！  |  50  
-[(事件)船长](Event_CaptainSpecial1f.md)  |  滚吧！  |  10  
+[噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  50  
+[一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  50  
+[船长(Special1f)(事件)](Event_CaptainSpecial1f.md)  |  滚吧！  |  10  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  抚摸  |  10  
+[猕猴朋友](MacaqueFriend.md)  |  抚摸  |  10  
+[受伤的猕猴](MacaqueWounded.md)  |  抚摸  |  10  
 [叶床](LeafBed.md)  |  小憩  |  -1  
 [叶床](LeafBed.md)  |  睡觉  |  -1  
 [人鱼巢](MermaidNest.md)  |  小憩  |  -1  
@@ -46,11 +50,11 @@
 [睡袋](BedRoll.md)  |  睡觉  |  -2  
 [简易床](BedRustic.md)  |  睡觉  |  -2  
 [吊床](Hammock.md)  |  小憩  |  -2  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  -2  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  -2  
 [木床](BedWooden.md)  |  小憩  |  -2.5  
 [木床](BedWooden.md)  |  睡觉  |  -3  
 [吊床](Hammock.md)  |  睡觉  |  -3  
-[黑暗](DarkChamber.md)  |  休息  |  -4  
+[黑暗(区域)](DarkChamber.md)  |  休息  |  -4  
 [蜂箱(蓝图)](Bp_BeeSkep.md)  |  蓝图制造  |  -5  
 [火堆(蓝图)](Bp_Fire.md)  |  蓝图制造  |  -5  
 [野枣](JujubeFruits.md)  |  食用  |  -5  
@@ -68,8 +72,8 @@
 [竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -5  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -5  
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  -5  
-[环礁](Atoll.md)  |  探索  |  -5  
-[隐秘港湾](Cove.md)  |  探索  |  -5  
+[环礁(区域)](Atoll.md)  |  探索  |  -5  
+[隐秘港湾(区域)](Cove.md)  |  探索  |  -5  
 [米饭](RiceCooked.md)  |  食用  |  -7  
 [芦荟膏(蓝图)](Bp_AloeGel.md)  |  蓝图制造  |  -10  
 [箭矢(蓝图)](Bp_Arrow.md)  |  蓝图制造  |  -10  
@@ -248,9 +252,7 @@
 [草裙(蓝图)](Bp_LeafSkirt.md)  |  蓝图制造  |  -10  
 [皮革背包(蓝图)](Bp_LeatherBackpack.md)  |  蓝图制造  |  -10  
 [皮革手套(蓝图)](Bp_LeatherGloves.md)  |  蓝图制造  |  -10  
-[皮革手套(蓝图)](Bp_LeatherGloves.md)  |  蓝图制造  |  -10  
 [皮裤(蓝图)](Bp_LeatherPants.md)  |  蓝图制造  |  -10  
-[皮革鞋子(蓝图)](Bp_LeatherShoes.md)  |  蓝图制造  |  -10  
 [皮革鞋子(蓝图)](Bp_LeatherShoes.md)  |  蓝图制造  |  -10  
 [珍珠项链(蓝图)](Bp_PearlNecklace.md)  |  蓝图制造  |  -10  
 [箭筒(蓝图)](Bp_Quiver.md)  |  蓝图制造  |  -10  
@@ -264,12 +266,10 @@
 [蓑衣(蓝图)](Bp_StrawCape.md)  |  蓝图制造  |  -10  
 [水袋(蓝图)](Bp_Waterskin.md)  |  蓝图制造  |  -10  
 [木针(蓝图)](Bp_WoodenNeedles.md)  |  蓝图制造  |  -10  
-[(事件)韦斯顿](Event_WestonSpecial1e.md)  |  继续  |  -10  
+[韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)  |  继续  |  -10  
 [椰子](Coconut.md)  |  给椰子钻孔  |  -10  
 [椰子](Coconut.md)  |  敲开椰子  |  -10  
 [椰子皮](CoconutHusk.md)  |  提取纤维  |  -10  
-[青椰子](CoconutHusked.md)  |  剥  |  -10  
-[青椰子](CoconutHusked.md)  |  剥  |  -10  
 [青椰子](CoconutHusked.md)  |  剥  |  -10  
 [铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  -10  
 [纤维](Fibers.md)  |  缠起来  |  -10  
@@ -277,6 +277,7 @@
 [香蕉](Banana.md)  |  食用  |  -10  
 [烤野猪肉](BoarMeatCooked.md)  |  食用  |  -10  
 [烟熏野猪肉](BoarMeatSmoked.md)  |  食用  |  -10  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  抚摸  |  -10  
 [烤羊肉](GoatMeatCooked.md)  |  食用  |  -10  
 [烟熏羊肉](GoatMeatSmoked.md)  |  食用  |  -10  
 [卡瓦根](KavaRoot.md)  |  食用  |  -10  
@@ -290,6 +291,7 @@
 [公山羊](GoatEnclosureMale.md)  |  抚摸  |  -10  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  -10  
 [烟熏猕猴肉](MacaqueMeatSmoked.md)  |  食用  |  -10  
+[受伤的猕猴](MacaqueWounded.md)  |  抚摸  |  -10  
 [芒果](Mango.md)  |  食用  |  -10  
 [山羊奶酪](Cheese.md)  |  食用  |  -10  
 [椰子鱼](CoconutFish.md)  |  食用  |  -10  
@@ -317,46 +319,46 @@
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  -10  
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  -10  
 [糖酒](LQ_SugarWine.md)  |  饮用  |  -10  
-[蝙蝠洞](CaveBats.md)  |  打扫  |  -10  
-[草原洞穴](CaveGrasslands.md)  |  打扫  |  -10  
-[海蚀洞](CaveSea.md)  |  打扫  |  -10  
-[晶石洞穴](CrystalChamber.md)  |  打扫  |  -10  
-[潮湿洞穴](DampChamber.md)  |  打扫  |  -10  
-[黑暗](DarkChamber.md)  |  打扫  |  -10  
-[覆溺洞穴](FloodedChamber.md)  |  打扫  |  -10  
-[洞穴上层](HighChamber.md)  |  打扫  |  -10  
-[洞穴底层](LowChamber.md)  |  打扫  |  -10  
-[洞穴中层](MidChamber.md)  |  打扫  |  -10  
-[狭窄隧道](NarrowTunnel.md)  |  打扫  |  -10  
-[隧道](Tunnel.md)  |  打扫  |  -10  
-[潮汐洞](CaveTidal.md)  |  打扫  |  -10  
-[地窖](Cellar.md)  |  打扫  |  -10  
-[幽暗洞穴](DarkCave.md)  |  打扫  |  -10  
-[畜栏](Enclosure.md)  |  打扫  |  -10  
-[猕猴窝](MacaqueDen.md)  |  打扫  |  -10  
-[泥屋](MudHut.md)  |  打扫  |  -10  
-[泥屋](MudHutRuins.md)  |  打扫  |  -10  
-[飞机残骸](PlaneCrash.md)  |  打扫  |  -10  
-[棚屋](Shed.md)  |  打扫  |  -10  
-[石屋](StoneHut.md)  |  打扫  |  -10  
-[酸湖](AcidLake.md)  |  探索  |  -10  
-[海湾](Bay.md)  |  随便逛逛  |  -10  
-[沙滩](Beach.md)  |  随便逛逛  |  -10  
-[鸟岩岛](BirdRock.md)  |  探索  |  -10  
-[丛林深处](DeepJungle.md)  |  探索  |  -10  
-[荒芜沙滩](DesolateBeach.md)  |  探索  |  -10  
-[东部草原](GrasslandsE.md)  |  探索  |  -10  
-[西部草原](GrasslandsW.md)  |  探索  |  -10  
-[东部高地](HighlandsEastern.md)  |  探索  |  -10  
-[西部高地](HighlandsWestern.md)  |  探索  |  -10  
-[丛林](Jungle.md)  |  探索  |  -10  
-[丛林高地](JungleHighlands.md)  |  探索  |  -10  
-[红树林](Mangroves.md)  |  探索  |  -10  
-[丛林边缘](Outskirts.md)  |  探索  |  -10  
-[岩滩](Rocks.md)  |  探索  |  -10  
-[神秘谷](SecretValley.md)  |  探索  |  -10  
-[火山](Volcano.md)  |  探索  |  -10  
-[湿地丛林](Wetlands.md)  |  探索  |  -10  
+[蝙蝠洞(区域)](CaveBats.md)  |  打扫  |  -10  
+[草原洞穴(区域)](CaveGrasslands.md)  |  打扫  |  -10  
+[海蚀洞(区域)](CaveSea.md)  |  打扫  |  -10  
+[晶石洞穴(区域)](CrystalChamber.md)  |  打扫  |  -10  
+[潮湿洞穴(区域)](DampChamber.md)  |  打扫  |  -10  
+[黑暗(区域)](DarkChamber.md)  |  打扫  |  -10  
+[覆溺洞穴(区域)](FloodedChamber.md)  |  打扫  |  -10  
+[洞穴上层(区域)](HighChamber.md)  |  打扫  |  -10  
+[洞穴底层(区域)](LowChamber.md)  |  打扫  |  -10  
+[洞穴中层(区域)](MidChamber.md)  |  打扫  |  -10  
+[狭窄隧道(区域)](NarrowTunnel.md)  |  打扫  |  -10  
+[隧道(区域)](Tunnel.md)  |  打扫  |  -10  
+[潮汐洞(区域)](CaveTidal.md)  |  打扫  |  -10  
+[地窖(区域)](Cellar.md)  |  打扫  |  -10  
+[幽暗洞穴(区域)](DarkCave.md)  |  打扫  |  -10  
+[畜栏(区域)](Enclosure.md)  |  打扫  |  -10  
+[猕猴窝(区域)](MacaqueDen.md)  |  打扫  |  -10  
+[泥屋(区域)](MudHut.md)  |  打扫  |  -10  
+[泥屋(区域)](MudHutRuins.md)  |  打扫  |  -10  
+[飞机残骸(区域)](PlaneCrash.md)  |  打扫  |  -10  
+[棚屋(区域)](Shed.md)  |  打扫  |  -10  
+[石屋(区域)](StoneHut.md)  |  打扫  |  -10  
+[酸湖(区域)](AcidLake.md)  |  探索  |  -10  
+[海湾(区域)](Bay.md)  |  随便逛逛  |  -10  
+[沙滩(区域)](Beach.md)  |  随便逛逛  |  -10  
+[鸟岩岛(区域)](BirdRock.md)  |  探索  |  -10  
+[丛林深处(区域)](DeepJungle.md)  |  探索  |  -10  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  -10  
+[东部草原(区域)](GrasslandsE.md)  |  探索  |  -10  
+[西部草原(区域)](GrasslandsW.md)  |  探索  |  -10  
+[东部高地(区域)](HighlandsEastern.md)  |  探索  |  -10  
+[西部高地(区域)](HighlandsWestern.md)  |  探索  |  -10  
+[丛林(区域)](Jungle.md)  |  探索  |  -10  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  |  -10  
+[红树林(区域)](Mangroves.md)  |  探索  |  -10  
+[丛林边缘(区域)](Outskirts.md)  |  探索  |  -10  
+[岩滩(区域)](Rocks.md)  |  探索  |  -10  
+[神秘谷(区域)](SecretValley.md)  |  探索  |  -10  
+[火山(区域)](Volcano.md)  |  探索  |  -10  
+[湿地丛林(区域)](Wetlands.md)  |  探索  |  -10  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  -10  
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  |  -10  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  -10  
@@ -421,11 +423,14 @@
 [蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  -20  
 [果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  -20  
 [糖](Sugar.md)  |  食用  |  -20  
-[(事件)鼓](Event_DrumMenu.md)  |  练习  |  -24  
+[鼓(事件)](Event_DrumMenu.md)  |  练习  |  -24  
 [鼓](Drum.md)  |  练习  |  -24  
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  -24  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  -25  
+[忠犬朋友](DogFriend.md)  |  抚摸  |  -25  
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -25  
+[祖父](Grandfather.md)  |  陪伴  |  -25  
+[猕猴朋友](MacaqueFriend.md)  |  抚摸  |  -25  
 [手机(开)](PhoneOn.md)  |  玩游戏  |  -25 ~ 5  
 [手机](PhoneOnLight.md)  |  玩游戏  |  -25 ~ 5  
 [姜糖](CandiedGinger.md)  |  食用  |  -30  
@@ -434,9 +439,9 @@
 [椅子](ChairPlaced.md)  |  休息1小时  |  -48  
 [座椅](SeatAttached.md)  |  休息1小时  |  -48  
 [座椅](SeatPlaced.md)  |  休息1小时  |  -48  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  -48  
-[(事件)鼓](Event_DrumMenu.md)  |  跃动的节奏  |  -48  
-[(事件)鼓](Event_DrumMenu.md)  |  激昂的节奏  |  -48  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  -48  
+[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  -48  
+[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  -48  
 [鼓](Drum.md)  |  激昂的节奏  |  -48  
 [蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  -48  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  -48  
@@ -450,27 +455,19 @@
 [海(红树林)](Sea_Mangroves.md)  |  潜水  |  -48  
 [海](Sea_Raft.md)  |  潜水  |  -48  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  -48  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  陪伴  |  -50  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼  |  -50  
 [海(环礁)](Sea_Atoll.md)  |  钓鱼  |  -50  
-[海(环礁)](Sea_Atoll.md)  |  钓鱼  |  -50  
-[海(海湾)](Sea_Bay.md)  |  钓鱼  |  -50  
 [海(海湾)](Sea_Bay.md)  |  钓鱼  |  -50  
 [海(沙滩)](Sea_Beach.md)  |  钓鱼  |  -50  
-[海(沙滩)](Sea_Beach.md)  |  钓鱼  |  -50  
-[海(沙滩)](Sea_Cove.md)  |  钓鱼  |  -50  
 [海(沙滩)](Sea_Cove.md)  |  钓鱼  |  -50  
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼  |  -50  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼  |  -50  
-[海(红树林)](Sea_Mangroves.md)  |  钓鱼  |  -50  
 [海(红树林)](Sea_Mangroves.md)  |  钓鱼  |  -50  
 [海](Sea_Raft.md)  |  钓鱼  |  -50  
-[海](Sea_Raft.md)  |  钓鱼  |  -50  
-[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼  |  -50  
 [海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼  |  -50  
 [鼓](Drum.md)  |  跃动的节奏  |  -60  
 [鼓](Drum.md)  |  入迷击鼓  |  -60  
 [蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  -60  
 [蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  -60  
-[(事件)宿敌被打败了！](Event_EnemyFightSuccess.md)  |  胜利啦！  |  -100  
-[(事件)猎手被击败了！](Event_HunterFightSuccess.md)  |  胜利啦！  |  -100  
+[宿敌被打败了！(事件)](Event_EnemyFightSuccess.md)  |  胜利啦！  |  -100  
+[猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  -100  

@@ -5,7 +5,7 @@
   
   草木灰敷料  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md), [“敷料”](tag_Dressing.md), [“高价值物品”](tag_Valuable.md)<br><br>**装备：**  |  <img decoding="async" src="Sprite/AshDressing.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md), [“敷料”](tag_Dressing.md), [“高价值物品”](tag_Valuable.md)<br><br>**装备：**  |  <img decoding="async" src="Sprite/AshDressing.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -19,4 +19,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  -  |  ** 到达0时： **<br>→ [布片](ClothSmall.md)  
+耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>→ [布片](ClothSmall.md)  

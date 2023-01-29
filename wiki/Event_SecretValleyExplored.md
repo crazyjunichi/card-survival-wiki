@@ -3,7 +3,7 @@
   
   地区探索完毕  |   图片   
  ----  |  ----:   
- **环境：**[神秘谷](SecretValley.md)  |  <img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[神秘谷(区域)](SecretValley.md)  |  <img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

@@ -32,8 +32,6 @@
 [<img decoding="async" src="Sprite/Planks.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[木板(蓝图)](Bp_Planks.md)](Bp_Planks.md)  |  [<img decoding="async" src="Sprite/Treenail.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[木钉(蓝图)](Bp_Treenails.md)](Bp_Treenails.md)  |  [<img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[砂浆(蓝图)](Bp_Mortar.md)](Bp_Mortar.md)  |  [<img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[胶水(蓝图)](Bp_Glue.md)](Bp_Glue.md)  
 [<img decoding="async" src="Sprite/GlazedVase.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[硫酸(蓝图)](Bp_Vitriol.md)](Bp_Vitriol.md)  |    |    |    
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 工具  
 ### 基础  
@@ -59,8 +57,6 @@
  :----:    |   :----:    |   :----:    |   :----:    
 [<img decoding="async" src="Sprite/Broom.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[扫帚(蓝图)](Bp_Broom.md)](Bp_Broom.md)  |  [<img decoding="async" src="Sprite/Travois.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[小拉车(蓝图)](Bp_Travois.md)](Bp_Travois.md)  |  [<img decoding="async" src="Sprite/EatingUtensilsWood.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)](Bp_EatingUtensilsWooden.md)  |  [<img decoding="async" src="Sprite/Drum.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[鼓(蓝图)](Bp_Drum.md)](Bp_Drum.md)  
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 狩猎  
 ### 捕鱼  
@@ -86,8 +82,6 @@
  :----:    |   :----:    |   :----:    |   :----:    
 [<img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[箭矢(蓝图)](Bp_Arrow.md)](Bp_Arrow.md)  |  [<img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[弓(蓝图)](Bp_Bow.md)](Bp_Bow.md)  |  [<img decoding="async" src="Sprite/Quiver.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[箭筒(蓝图)](Bp_Quiver.md)](Bp_Quiver.md)  |  [<img decoding="async" src="Sprite/Sling.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[投石索(蓝图)](Bp_Sling.md)](Bp_Sling.md)  
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 纺织  
 ### 基础  
@@ -113,8 +107,6 @@
  :----:    |   :----:    |   :----:    |   :----:    
 [<img decoding="async" src="Sprite/NeedleWooden.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[木针(蓝图)](Bp_WoodenNeedles.md)](Bp_WoodenNeedles.md)  |  [<img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[纺锤(蓝图)](Bp_Spindle.md)](Bp_Spindle.md)  |  [<img decoding="async" src="Sprite/Loom.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[织布机(蓝图)](Bp_Loom.md)](Bp_Loom.md)  |    
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 冶金 & 制陶  
 ### 容器  
@@ -136,8 +128,6 @@
 [<img decoding="async" src="Sprite/MoldKnife.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[刀模具(蓝图)](Bp_MoldKnife.md)](Bp_MoldKnife.md)  |  [<img decoding="async" src="Sprite/MoldAxe.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[斧头模具(蓝图)](Bp_MoldAxe.md)](Bp_MoldAxe.md)  |  [<img decoding="async" src="Sprite/MoldShovel.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[铲头模具(蓝图)](Bp_MoldShovel.md)](Bp_MoldShovel.md)  |  [<img decoding="async" src="Sprite/MoldSpear.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[矛头模具(蓝图)](Bp_MoldSpear.md)](Bp_MoldSpear.md)  
 [<img decoding="async" src="Sprite/ClayMold.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[装饰品模具(蓝图)](Bp_MoldDecoration.md)](Bp_MoldDecoration.md)  |    |    |    
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 烹饪  
 ### 基础  
@@ -166,8 +156,6 @@
 [<img decoding="async" src="Sprite/CoconutMilk.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[椰奶(蓝图)](Bp_CoconutMilk.md)](Bp_CoconutMilk.md)  |  [<img decoding="async" src="Sprite/CoconutShellHoney.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[蜂蜜(蓝图)](Bp_Honey.md)](Bp_Honey.md)  |  [<img decoding="async" src="Sprite/ClayVase.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[汤力水(蓝图)](Bp_TonicWater.md)](Bp_TonicWater.md)  |  [<img decoding="async" src="Sprite/Cheese.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[奶酪(蓝图)](Bp_Cheese.md)](Bp_Cheese.md)  
 [<img decoding="async" src="Sprite/Butter.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[黄油(蓝图)](Bp_Butter.md)](Bp_Butter.md)  |  [<img decoding="async" src="Sprite/ScrappySoup.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[骨头汤(蓝图)](Bp_BoneBroth.md)](Bp_BoneBroth.md)  |  [<img decoding="async" src="Sprite/ProteinBar.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[蛋白棒(蓝图)](Bp_ProteinBar.md)](Bp_ProteinBar.md)  |    
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 医疗  
 ### 药  
@@ -188,8 +176,6 @@
 [<img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[韦斯顿(蓝图)](Bp_Weston.md)](Bp_Weston.md)  |  [<img decoding="async" src="Sprite/DrumLizard.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[蜥蜴皮手鼓(蓝图)](Bp_LizardDrum.md)](Bp_LizardDrum.md)  |  [<img decoding="async" src="Sprite/SeagullCharm.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[海鸥护符(蓝图)](Bp_SeagullCharm.md)](Bp_SeagullCharm.md)  |  [<img decoding="async" src="Sprite/Ceremonial Dagger.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[仪式匕首(蓝图)](Bp_CeremonialDagger.md)](Bp_CeremonialDagger.md)  
 [<img decoding="async" src="Sprite/SharkHeadpiece.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)](Bp_SharkHeadpiece.md)  |    |    |    
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   
 ## 农牧  
 ### 农业  
@@ -206,6 +192,4 @@
 [<img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[灰山鹑喂食器(蓝图)](Bp_PartridgeFeeder.md)](Bp_PartridgeFeeder.md)  |  [<img decoding="async" src="Sprite/FeedingTrough.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[羊食槽(蓝图)](Bp_GoatFeeder.md)](Bp_GoatFeeder.md)  |  [<img decoding="async" src="Sprite/WateringTrough.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[水槽(蓝图)](Bp_WateringTrough.md)](Bp_WateringTrough.md)  |  [<img decoding="async" src="Sprite/BoarFeeder.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[猪食槽(蓝图)](Bp_BoarFeeder.md)](Bp_BoarFeeder.md)  
 [<img decoding="async" src="Sprite/SkepEmpty.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)](Bp_BeeSkepEmpty.md)  |  [<img decoding="async" src="Sprite/SkepSwarm.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[蜂箱(蓝图)](Bp_BeeSkep.md)](Bp_BeeSkep.md)  |  [<img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[防蜂服(蓝图)](Bp_BeeSuit.md)](Bp_BeeSuit.md)  |  [<img decoding="async" src="Sprite/BeeSmokerOn.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[熏蜂器(蓝图)](Bp_BeeSmoker.md)](Bp_BeeSmoker.md)  
   
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
   

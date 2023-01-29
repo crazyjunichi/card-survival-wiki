@@ -5,15 +5,15 @@
   
   丛林小径  |   图片   
  ----  |  ----:   
- **环境：**[湿地丛林](Wetlands.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[湿地丛林(区域)](Wetlands.md)  |  <img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)丛林](Event_JungleFound.md)  |  继续  
-[(事件)丛林边缘](Event_JungleFoundFromWetlands.md)  |  继续  
+[丛林(事件)](Event_JungleFound.md)  |  继续  
+[丛林边缘(事件)](Event_JungleFoundFromWetlands.md)  |  继续  
 [前往湿地(丛林)](Path_JungleToWetlands.md)  |  前往  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** Shore Path **<br>  [丛林(环境)](Env_Jungle.md)(+1)<br>  [前往湿地(丛林)](Path_JungleToWetlands.md)(+1)<br>基础权重：1<br>  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
+前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Shore Path] **<br>  [丛林(环境)](Env_Jungle.md)(+1)<br>  [前往湿地(丛林)](Path_JungleToWetlands.md)(+1)<br>基础权重：1<br>  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  

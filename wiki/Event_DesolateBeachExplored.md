@@ -3,7 +3,7 @@
   
   地区探索完毕  |   图片   
  ----  |  ----:   
- **环境：**[荒芜沙滩](DesolateBeach.md)  |  <img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[荒芜沙滩(区域)](DesolateBeach.md)  |  <img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

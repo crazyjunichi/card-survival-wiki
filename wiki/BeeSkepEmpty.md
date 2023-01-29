@@ -5,11 +5,12 @@
   
   空蜂箱  |   图片   
  ----  |  ----:   
- **重量：**500  |  <img decoding="async" src="Sprite/SkepEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**重量：**500  |  <img decoding="async" src="Sprite/SkepEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[蜂箱](BeeSkep.md)  |  蜂群死光了！  
 [空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  
 ## 可用于蓝图  
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  

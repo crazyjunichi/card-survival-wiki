@@ -11,13 +11,14 @@
 来源  |  操作  
 ----  |  ----  
 [贝壳项链](SeashellNecklace.md)  |  拆解  
-[环礁](Atoll.md)  |  探索  
-[海湾](Bay.md)  |  随便逛逛  
-[沙滩](Beach.md)  |  随便逛逛  
-[鸟岩岛](BirdRock.md)  |  探索  
-[隐秘港湾](Cove.md)  |  探索  
-[荒芜沙滩](DesolateBeach.md)  |  探索  
-[岩滩](Rocks.md)  |  探索  
+[贝壳项链](SeashellNecklace.md)  |  转化  
+[环礁(区域)](Atoll.md)  |  探索  
+[海湾(区域)](Bay.md)  |  随便逛逛  
+[沙滩(区域)](Beach.md)  |  随便逛逛  
+[鸟岩岛(区域)](BirdRock.md)  |  探索  
+[隐秘港湾(区域)](Cove.md)  |  探索  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
+[岩滩(区域)](Rocks.md)  |  探索  
 ## 可用于蓝图  
 - [鱼饵(蓝图)](Bp_FishBait.md)  
 - [贝壳项链(蓝图)](Bp_SeashellNecklace.md)  

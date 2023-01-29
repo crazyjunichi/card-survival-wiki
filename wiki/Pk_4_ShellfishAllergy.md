@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  无  
+效果  |  [食用海鲜动作](ShellfishAction.md): <br>[腹泻](Diarrhoea.md)+100  

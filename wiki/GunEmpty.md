@@ -5,3 +5,7 @@
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“军用的”](tag_Military.md)  |  <img decoding="async" src="Sprite/Pistol.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[枪](Gun.md)  |  弹药耗尽  

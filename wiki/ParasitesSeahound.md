@@ -1,6 +1,7 @@
 # 海怪寄生虫  
-变化范围: 0 ~ 1500  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 1500  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -13,7 +14,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)我被它伤到了……](Event_SeahoundFightBadFailure.md)  |  继续  |  800 ~ 1600  
-[(事件)海怪攻击了！](Event_SeahoundFightFailedRetreat.md)  |  继续  |  400 ~ 1600  
-[(事件)我拿下它了，但我受伤了。](Event_SeahoundFightMixedSuccess.md)  |  继续  |  400 ~ 800  
+[我被它伤到了……(事件)](Event_SeahoundFightBadFailure.md)  |  继续  |  800 ~ 1600  
+[海怪攻击了！(事件)](Event_SeahoundFightFailedRetreat.md)  |  继续  |  400 ~ 1600  
+[我拿下它了，但我受伤了。(事件)](Event_SeahoundFightMixedSuccess.md)  |  继续  |  400 ~ 800  
 [海怪肉](Seahoundmeat.md)  |  食用  |  0 ~ 75  

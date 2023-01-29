@@ -10,8 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)着陆预警！](Event_Raft_Atoll.md)  |  停在这  
+[着陆预警！(事件)](Event_Raft_Atoll.md)  |  停在这  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-把木筏推下水<br>  |  1小时  |    |  消失<br>**  **<br><br>** 相关卡牌 **<br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  
+把木筏推下水<br>  |  1小时  |    |  消失<br><br>** 相关卡牌 **<br><br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  

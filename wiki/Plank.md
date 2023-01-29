@@ -10,6 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[杂菌菌床](MushroomBedAssorted.md)  |  转化  
+[迷幻菇菌床](MushroomBedMagic.md)  |  转化  
+[马勃菌菌床](MushroomBedPuffballs.md)  |  转化  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  
 [书架](Bookshelf.md)  |  拆解  
 [架子](Shelf.md)  |  拆解  

@@ -9,3 +9,4 @@
 额外卡牌  |  [织布机(蓝图)](Bp_Loom.md)<br>[纺锤(蓝图)](Bp_Spindle.md)  
 初始状态  |  [纺织(技能)](Skill_Tailoring.md)+75  
 被动状态  |  无  
+效果  |    

@@ -5,9 +5,9 @@
   
   木筏  |   图片   
  ----  |  ----:   
- **环境：**[环礁(环境)](Env_Atoll.md)<br><br>** 效果: **<br>[距离](Distance.md)加成-1<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[环礁(环境)](Env_Atoll.md)<br><br>** 效果: **<br>[距离](Distance.md)加成-1  |  <img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-上木筏<br>  |  -  |    |  使用次数 + 1<br>**  **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>基础权重：1<br>  |  [在木筏上](OnRaft.md)+1  
+上木筏<br>  |  -  |    |  使用次数 + 1<br><br>** 获得： **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>基础权重：1<br>  |  [在木筏上](OnRaft.md)+1  

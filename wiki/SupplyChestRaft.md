@@ -5,7 +5,7 @@
   
   补给箱  |   图片   
  ----  |  ----:   
- **标签：**	[“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**容重量：**3000<br><br>**减重量：**-3000<br><br>**可使用次数：**480<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/SupplyChest.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 可重命名 **<br><br>** 不可堆叠 **<br><br>**标签：**	[“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**容量：**3000<br><br>**减重量：**-3000<br><br>**可使用次数：**480  |  <img decoding="async" src="Sprite/SupplyChest.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,12 +14,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  1小时  |    |  消失<br>** Dismantle **<br>  [绳子](Rope.md)(+1)<br>  [细线](CordFiber.md)(+6)<br>  |    
+拆解<br>  |  1小时  |    |  消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [绳子](Rope.md)(+1)<br>  [细线](CordFiber.md)(+6)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  修理  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数 + 96<br>** 使用物: **<br>消失  |    
+[细线](CordFiber.md)  |  修理<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数 + 96<br><br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：480<br>最大：480  |  -  |  ** 到达0时： **  
+使用次数  |  初始：480<br>最大：480  |  -  |  ** 到达0时： **<br>  

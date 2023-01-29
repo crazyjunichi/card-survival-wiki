@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  撤退  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  拍照！  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  撤退  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  拍照！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>** Bite **<br>  [巨蜥咬伤](W_MonitorBite.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20  
+继续<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Bite] **<br>  [巨蜥咬伤](W_MonitorBite.md)(+1)<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20  

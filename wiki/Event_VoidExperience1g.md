@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)虚空灵视](Event_SpiritsEverywhere1f.md)  |  停！  
-[(事件)虚空灵视](Event_VoidExperience1f.md)  |  停！  
+[虚空灵视(事件)](Event_SpiritsEverywhere1f.md)  |  停！  
+[虚空灵视(事件)](Event_VoidExperience1f.md)  |  停！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

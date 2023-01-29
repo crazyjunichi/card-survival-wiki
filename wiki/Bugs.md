@@ -10,12 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)礼物！](Event_MacaqueFriendGift.md)  |  看看礼物  
-[潮湿洞穴](DampChamber.md)  |  探索  
-[幽暗洞穴](DarkCave.md)  |  探索  
-[东部草原](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[西部草原](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[神秘谷](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
+[潮湿洞穴(区域)](DampChamber.md)  |  探索  
+[幽暗洞穴(区域)](DarkCave.md)  |  探索  
+[东部草原(区域)](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[西部草原(区域)](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[神秘谷(区域)](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
 [干涸的小水塘(湿地丛林)](Puddle.md)  |  挖干土  
 [干涸的小水塘(湿地丛林)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
 ## 动作  
@@ -32,4 +32,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **  
+耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br>  

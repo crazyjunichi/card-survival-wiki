@@ -5,7 +5,7 @@
   
   水稻田  |   图片   
  ----  |  ----:   
- **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**容水量：**2000  |  <img decoding="async" src="Sprite/RicePaddyEmptyPlanted.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**储水量：**2000  |  <img decoding="async" src="Sprite/RicePaddyEmptyPlanted.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,7 +14,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br>→ [未栽种的稻田(空)](RicePaddyEmpty.md)  
+进度  |  初始：0<br>最大：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>→ [未栽种的稻田(空)](RicePaddyEmpty.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

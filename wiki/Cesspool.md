@@ -5,9 +5,13 @@
   
   粪池  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[不适](Discomfort.md)+750  |  <img decoding="async" src="Sprite/Cesspool.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>** 效果: **<br>[不适](Discomfort.md)+750  |  <img decoding="async" src="Sprite/Cesspool.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[硝石矿床](NiterBed.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“铲子”](tag_Shovel.md)  |  清理  |  1小时  |    |  ** 自身: **<br>消失  |  [污垢](Filth.md)+50  
+[“铲子”](tag_Shovel.md)  |  清理<br>  |  1小时  |    |  ** 自身: **<br>消失  |  [污垢](Filth.md)+50  

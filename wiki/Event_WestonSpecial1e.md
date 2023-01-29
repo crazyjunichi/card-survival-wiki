@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)韦斯顿](Event_WestonSpecial1d.md)  |  能明天再说嘛？  
-[(事件)Event_WestonSpecial2d_CardName](Event_WestonSpecial2d.md)  |  You keep my company...  
+[韦斯顿(Special1d)(事件)](Event_WestonSpecial1d.md)  |  能明天再说嘛？  
+[Event_WestonSpecial2d_CardName(Special2d)(事件)](Event_WestonSpecial2d.md)  |  You keep my company...  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

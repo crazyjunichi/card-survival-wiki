@@ -1,8 +1,9 @@
 # 孤独感  
 > 孤独感会随着时间的推移而增加，你的情绪和世界观会随之降低。<br><br>有像韦斯顿或是猕猴这样的朋友可以让你不那么孤独。当你已经在岛上生活了很长时间时，拥有高舒适度的家也会有帮助。  
   
-变化范围: 0 ~ 4880  
-基础变化率: +1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 4880  
+#### ** 基础变化率: ** +1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -36,9 +37,7 @@
 [祖父](Grandfather.md)  |  喂食  |  -15  
 [祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -15  
 [船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
-[船长](Captain.md)  |  聊天  |  -20  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  抚摸  |  -20  
 [母猪](BoarEnclosureFemale.md)  |  抚摸  |  -20  
 [公猪](BoarEnclosureMale.md)  |  抚摸  |  -20  
 [小猪](BoarEnclosurePiglet.md)  |  抚摸  |  -20  
@@ -47,17 +46,17 @@
 [小羊](GoatEnclosureKid.md)  |  抚摸  |  -20  
 [哺乳期山羊](GoatEnclosureLactating.md)  |  抚摸  |  -20  
 [公山羊](GoatEnclosureMale.md)  |  抚摸  |  -20  
+[受伤的猕猴](MacaqueWounded.md)  |  抚摸  |  -20  
 [韦斯顿](Weston.md)  |  聊天  |  -20  
-[韦斯顿](Weston.md)  |  聊天  |  -20  
-[韦斯顿](Weston.md)  |  聊天  |  -20  
-[韦斯顿](Weston.md)  |  聊天  |  -20  
+[忠犬朋友](DogFriend.md)  |  抚摸  |  -30  
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -30  
+[祖父](Grandfather.md)  |  陪伴  |  -30  
+[猕猴朋友](MacaqueFriend.md)  |  抚摸  |  -30  
 [祖父](Grandfather.md)  |  喂食  |  -50  
-[祖父](Grandfather.md)  |  喂食  |  -50  
-[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -50  
 [祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -50  
 [手机(开)](PhoneOn.md)  |  看照片  |  -50  
 [手机](PhoneOnLight.md)  |  看照片  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  陪伴  |  -60  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

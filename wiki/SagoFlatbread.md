@@ -10,6 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[烟熏炉](Smoker.md)  |  烹饪蛋糕  
 [西米粉](SagoFlour.md) , [营火](Campfire.md)  |  西米饼  
 [西米粉](SagoFlour.md) , [粘土火盆](ClayFirePit.md)  |  西米饼  
 [西米粉](SagoFlour.md) , [火堆](Fire.md)  |  西米饼  
@@ -24,8 +25,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[参薯酱](YamJam.md)  |  涂抹果酱  |  -  |    |  ** 自身: **<br>→ [果酱西米饼](SagoFlatbreadJam.md)<br>** 使用物: **<br>可用次数  -1  |    
-[“储水容器”](tag_WaterContainer.md)  |  涂抹蜂蜜  |  -  |    |  ** 自身: **<br>→ [蜂蜜西米饼](SagoFlatbreadHoney.md)<br>** 使用物: **<br>含水量  -75  |    
+[参薯酱](YamJam.md)  |  涂抹果酱<br>  |  -  |    |  ** 自身: **<br>→ [果酱西米饼](SagoFlatbreadJam.md)<br><br>** 使用物: **<br>可用次数  -1  |    
+[“储水容器”](tag_WaterContainer.md)  |  涂抹蜂蜜<br>  |  -  |    |  ** 自身: **<br>→ [蜂蜜西米饼](SagoFlatbreadHoney.md)<br><br>** 使用物: **<br>含水量  -75  |    
 ## 可拖至  
 [猪食槽](BoarFeeder.md), [猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md), [猪食槽(空)](BoarFeederEmpty.md), [堆肥箱](CompostBin.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [灰山鹑喂食器](PartridgeFeeder.md), [灰山鹑喂食器(空)](PartridgeFeederEmpty.md), [中陷阱的猕猴](CageTrapMacaque.md), [母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md), [祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md), [猕猴朋友](MacaqueFriend.md), [受伤的猕猴](MacaqueWounded.md), [小灰山鹑](PartridgeChick.md), [雌灰山鹑](PartridgeFemaleEnclosure.md), [雌灰山鹑](PartridgeFemaleLive.md), [雄灰山鹑](PartridgeMaleEnclosure.md), [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
@@ -45,4 +46,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

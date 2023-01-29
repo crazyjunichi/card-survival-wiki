@@ -18,7 +18,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“抗裂剂”](tag_Temper.md)  |  制作碗  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br>** 使用物: **<br>消失  |    
+[“抗裂剂”](tag_Temper.md)  |  制作碗<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br><br>** 使用物: **<br>消失  |    
 ## 可用于蓝图  
 - [熏蜂器(蓝图)](Bp_BeeSmoker.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

@@ -8,12 +8,15 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[外星结节](AlienNodule.md)  |  转化  
+[陨石坑](AlienCrater.md)  |  转化  
 [盛开的外星植物](AlienGrowth.md)  |  采集  
+[盛开的外星植物](AlienGrowth.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍倒  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Sticks **<br>  [外星结节](AlienNodule.md)(+1)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [外星结节](AlienNodule.md)(+1)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-外星植物<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br>→ [盛开的外星植物](AlienGrowth.md)  
+外星植物<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br><br>→ [盛开的外星植物](AlienGrowth.md)  

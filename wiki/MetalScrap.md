@@ -12,12 +12,14 @@
 ----  |  ----  
 [座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
 [座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
-[(事件)胜负参半](Event_DroneFightMixedSuccess.md)  |  继续  
-[(事件)成功！](Event_DroneFightSuccess.md)  |  继续  
+[胜负参半(事件)](Event_DroneFightMixedSuccess.md)  |  继续  
+[成功！(事件)](Event_DroneFightSuccess.md)  |  继续  
 [海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
 [海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
 [废金属斧](AxeScrap.md)  |  拆解  
+[废金属斧](AxeScrap.md)  |  转化  
 [废金属铲](ShovelScrap.md)  |  拆解  
+[废金属铲](ShovelScrap.md)  |  转化  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
 ## 可用于蓝图  
 - [废金属斧(蓝图)](Bp_ScrapAxe.md)  

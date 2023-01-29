@@ -3,12 +3,12 @@
   
   婴儿  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“挎包”](tag_Satchel.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-1<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/Baby.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 可重命名 **<br><br>** 不可删除 **<br><br>**重量：**500<br><br>**标签：**	[“挎包”](tag_Satchel.md)<br><br>** 效果: **<br>[孤独感](Loneliness.md)加成-1  |  <img decoding="async" src="Sprite/Baby.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)时候已到！](Event_Pregnancy.md)  |  分娩！  
+[时候已到！(事件)](Event_Pregnancy.md)  |  分娩！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：150<br>最大：150  |  每15分钟-2<br>最多需要：18小时45分  |  ** 到达0时： **  
+健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：150<br>最大：150  |  每15分钟-2<br>最多需要：18小时45分  |  ** 到达0时： **<br>  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |    
 情绪<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：12<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 ## 被动效果  

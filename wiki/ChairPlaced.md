@@ -5,7 +5,7 @@
   
   椅子  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+75<br>[工作区](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>** 不可删除 **<br><br>** 效果: **<br>[舒适度](Comfort.md)+75<br>[工作区](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

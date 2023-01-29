@@ -5,35 +5,35 @@
   
   右臂撕裂伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“右臂撕裂伤”](eTag_WArmLacerationR.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>** 不可删除 **<br><br>**重量：**0<br><br>**标签：**	[“开放性伤口”](tag_OpenWound.md)<br><br>**装备：**[“右臂撕裂伤”](eTag_WArmLacerationR.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)野猪伤到了我！](Event_BoarWoundMajor.md)  |  真他妈不错  
-[(事件)野猪伤到了我！](Event_BoarWoundMinor.md)  |  真不错  
-[(事件)啊！](Event_DiveLaceration.md)  |  真他妈不错  
-[(事件)无人机伤到了我！](Event_DroneWoundMajor.md)  |  真他妈不错  
-[(事件)无人机伤到了我！](Event_DroneWoundMinor.md)  |  真他妈不错  
+[野猪伤到了我！(事件)](Event_BoarWoundMajor.md)  |  真他妈不错  
+[野猪伤到了我！(事件)](Event_BoarWoundMinor.md)  |  真不错  
+[啊！(事件)](Event_DiveLaceration.md)  |  真他妈不错  
+[无人机伤到了我！(事件)](Event_DroneWoundMajor.md)  |  真他妈不错  
+[无人机伤到了我！(事件)](Event_DroneWoundMinor.md)  |  真他妈不错  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  用海水清理  |  15分  |  [勇气](Courage.md): 400-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)-5  
-[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
-[蜂蜜水](LQ_HoneyWater.md)  |  用蜂蜜水清理  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -250<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
-[碱液](LQ_Lye.md)  |  用碱水清理  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -100  |    
-[湿肥皂](SoapWet.md)  |  用肥皂清理  |  15分  |  [勇气](Courage.md): 200-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** 使用物: **<br>可用次数  -1  |    
-[芦荟膏](AloeVeraGel.md)  |  涂抹  |  15分  |    |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>消失<br>可用次数  -1  |    
-[蜂蜜](LQ_Honey.md)  |  涂抹蜂蜜  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -150  |    
-[“针线”](tag_ThreadedNeedle.md)  |  缝合  |  15分  |  [光亮](Light.md): 10-100<br>[勇气](Courage.md): 800-4000  |  ** 自身: **<br>→ [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 8<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -350<br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[盐水](LQ_WaterSalt.md)  |  用海水清理<br>  |  15分  |  [勇气](Courage.md): 400-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)-5  
+[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
+[蜂蜜水](LQ_HoneyWater.md)  |  用蜂蜜水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -250<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
+[碱液](LQ_Lye.md)  |  用碱水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -100  |    
+[湿肥皂](SoapWet.md)  |  用肥皂清理<br>  |  15分  |  [勇气](Courage.md): 200-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 使用物: **<br>可用次数  -1  |    
+[芦荟膏](AloeVeraGel.md)  |  涂抹<br>  |  15分  |    |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[蜂蜜](LQ_Honey.md)  |  涂抹蜂蜜<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -150  |    
+[“针线”](tag_ThreadedNeedle.md)  |  缝合<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[勇气](Courage.md): 800-4000  |  ** 自身: **<br>→ [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 8<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -350<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 转化  
-放入  |  动作  |  耗时  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-[“敷料”](tag_Dressing.md)<br>[“止血带”](tag_Tourniquet.md)  |  压迫  |  -  |    |    
+放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  |  ----  
+[“敷料”](tag_Dressing.md)<br>[“止血带”](tag_Tourniquet.md)  |  压迫  |  -  |    |  耐久  -1<br>可用次数  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2000  |  每15分钟+1<br>最多需要：20天20小时  |  ** 到达上限时：撕裂伤 **<br>→ [轻微撕裂伤](W_MinorLaceration.md)  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2000  |  每15分钟+1<br>最多需要：20天20小时  |  ** 到达上限时：撕裂伤 **<br><br>→ [轻微撕裂伤](W_MinorLaceration.md)  
 <img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    
 已止血<img decoding="async" src="Sprite/BloodPressure.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    

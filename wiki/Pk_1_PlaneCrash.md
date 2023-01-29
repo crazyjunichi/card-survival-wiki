@@ -9,3 +9,4 @@
 额外卡牌  |  [收纳箱](Trunk.md)<br>[座椅](SeatAttached.md)<br>[座椅](SeatAttached.md)<br>[座椅](SeatAttached.md)<br>[座椅](SeatAttached.md)<br>[座椅](SeatAttached.md)<br>[座椅](SeatAttached.md)<br>[行李箱(A)](LuggageA.md)<br>[行李箱(C)](LuggageC.md)  
 初始状态  |  [污垢](Filth.md)-225  
 被动状态  |  无  
+效果  |    

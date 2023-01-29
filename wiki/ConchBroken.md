@@ -12,8 +12,6 @@
 ----  |  ----  
 [海螺](Conch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
 [大海螺](GiantConch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
-[大海螺](GiantConch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
-[海胆](Urchin.md) , [“锤”](tag_Hammer.md)  |  破开海胆  
 ## 可拖至  
 [泥堆](MudPile.md), [粘土](Clay.md)  
 ## 可用于蓝图  

@@ -10,8 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一个灰山鹑巢！](Event_PartridgeNest.md)  |  继续  
-[(事件)你做到了！](Event_SeagullNest.md)  |  继续  
+[一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
+[你做到了！(事件)](Event_SeagullNest.md)  |  继续  
+[海鸥护符](SeagullCharm.md)  |  转化  
 [灰山鹑遗骸](PartridgeCarcass.md)  |  采集  
 [灰山鹑尸体](PartridgeDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
 [灰山鹑尸体](PartridgeDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  

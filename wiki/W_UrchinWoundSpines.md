@@ -5,12 +5,12 @@
   
   海胆刺伤  |   图片   
  ----  |  ----:   
- **重量：**1000<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/UrchinWoundSpines.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**1000<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/UrchinWoundSpines.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)海胆！！](Event_Urchin.md)  |  检查伤口  
+[海胆！！(事件)](Event_Urchin.md)  |  检查伤口  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,10 +18,10 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+1<br>最多需要：5天5小时  |  ** 到达上限时：擦伤 **  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+1<br>最多需要：5天5小时  |  ** 到达上限时：擦伤 **<br>  
 <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    
-<img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：8<br>最大：8  |  -  |  ** 到达0时：刺已拔除！ **<br>→ [海胆刺伤](W_UrchinWound.md)  
+<img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：8<br>最大：8  |  -  |  ** 到达0时：刺已拔除！ **<br><br>→ [海胆刺伤](W_UrchinWound.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

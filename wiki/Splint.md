@@ -5,7 +5,7 @@
   
   夹板  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**可使用次数：**672  |  <img decoding="async" src="Sprite/Splint.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**250<br><br>**装备时减重：**-50<br><br>**可使用次数：**672  |  <img decoding="async" src="Sprite/Splint.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>[小树枝](Sticks.md)+1 <br>[细线](CordFiber.md)+3   
+使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br>  [细线](CordFiber.md)(+3)<br>  

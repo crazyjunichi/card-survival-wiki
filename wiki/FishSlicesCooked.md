@@ -11,9 +11,14 @@
 来源  |  操作  
 ----  |  ----  
 [鱼片](FishSlices.md) , [营火](Campfire.md)  |  鱼片  
+[鱼片](FishSlices.md) , [营火](Campfire.md)  |  鱼片  
+[鱼片](FishSlices.md) , [粘土火盆](ClayFirePit.md)  |  鱼片  
 [鱼片](FishSlices.md) , [粘土火盆](ClayFirePit.md)  |  鱼片  
 [鱼片](FishSlices.md) , [火堆](Fire.md)  |  鱼片  
+[鱼片](FishSlices.md) , [火堆](Fire.md)  |  鱼片  
 [鱼片](FishSlices.md) , [瓦斯炉(开)](GasCookerOn.md)  |  鱼片  
+[鱼片](FishSlices.md) , [瓦斯炉(开)](GasCookerOn.md)  |  鱼片  
+[鱼片](FishSlices.md) , [火炉](Stove.md)  |  鱼片  
 [鱼片](FishSlices.md) , [火炉](Stove.md)  |  鱼片  
 [烤北梭鱼](BonefishCooked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
 [烟熏北梭鱼](BonefishSmoked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
@@ -44,4 +49,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

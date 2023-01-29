@@ -10,6 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[沙堡](SandCastle.md)  |  转化  
 [沙堆(环礁)](SandSource.md)  |  收集沙子  
 [沙堆(环礁)](SandSource.md) , [“铲子”](tag_Shovel.md)  |  挖沙  
 ## 可拖至  

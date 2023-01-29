@@ -10,11 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)礼物！](Event_MacaqueFriendGift.md)  |  看看礼物  
-[(事件)一个灰山鹑巢！](Event_PartridgeNest.md)  |  继续  
-[(事件)一个灰山鹑巢！](Event_PartridgeNest.md)  |  继续  
-[(事件)你做到了！](Event_SeagullNest.md)  |  继续  
-[(事件)你做到了！](Event_SeagullNest.md)  |  继续  
+[礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
+[一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
+[一个灰山鹑巢！(事件)](Event_PartridgeNest.md)  |  继续  
+[你做到了！(事件)](Event_SeagullNest.md)  |  继续  
+[你做到了！(事件)](Event_SeagullNest.md)  |  继续  
+[海鸥护符](SeagullCharm.md)  |  转化  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
 [灰山鹑遗骸](PartridgeCarcass.md)  |  采集  
 [灰山鹑尸体](PartridgeDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
@@ -26,7 +27,7 @@
 [海鸥遗骸](SeagullCarcass.md)  |  处理  
 [海鸥尸体](SeagullDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
 [海鸥尸体](SeagullDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
-[鸟岩岛](BirdRock.md)  |  探索  
+[鸟岩岛(区域)](BirdRock.md)  |  探索  
 ## 可用于蓝图  
 - [箭矢(蓝图)](Bp_Arrow.md)  
 - [木床(蓝图)](Bp_BedWooden.md)  

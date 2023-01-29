@@ -14,8 +14,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍倒  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Sticks **<br>  [小树枝](Sticks.md)(+4～+8)<br>  [树叶](LeavesFresh.md)(+6～+18)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [小树枝](Sticks.md)(+4～+8)<br>  [树叶](LeavesFresh.md)(+6～+18)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-枣子成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br>→ [野枣丛](WildJujube.md)  
+枣子成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>→ [野枣丛](WildJujube.md)  

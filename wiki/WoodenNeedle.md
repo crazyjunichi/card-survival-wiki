@@ -10,10 +10,11 @@
 ----  |  ----  
 [木针(蓝图)](Bp_WoodenNeedles.md)  |  蓝图制造  
 [针线(木针)](WoodenNeedleThreaded.md)  |  取下细线  
+[针线(木针)](WoodenNeedleThreaded.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  穿线  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [针线(木针)](WoodenNeedleThreaded.md)<br>** 使用物: **<br>消失  |    
+[细线](CordFiber.md)  |  穿线<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [针线(木针)](WoodenNeedleThreaded.md)<br><br>** 使用物: **<br>消失  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  
@@ -37,4 +38,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **  
+<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  

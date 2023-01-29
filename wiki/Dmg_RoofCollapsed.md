@@ -7,6 +7,12 @@
  ----  |  ----:   
  ** 效果: **<br>[舒适度](Comfort.md)-2000<br>[雨水防护](RainProtection.md)-5<br>[阳光防护](SunProtection.md)-5<br>[绝热](InsulationHeat.md)-3<br>[遮蔽](Sheltered.md)-1  |  <img decoding="async" src="Sprite/CollapsedRoof.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[泥屋(区域)](MudHut.md)  |  转化  
+[泥屋(区域)](MudHutRuins.md)  |  转化  
+[棚屋(区域)](Shed.md)  |  转化  
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -14,4 +20,4 @@
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-filthiness  |  [泥屋](MudHut.md)<br>[泥屋](MudHutRuins.md)<br>[棚屋](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
+filthiness  |  [泥屋(区域)](MudHut.md)<br>[泥屋(区域)](MudHutRuins.md)<br>[棚屋(区域)](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    

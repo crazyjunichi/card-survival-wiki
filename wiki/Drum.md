@@ -5,7 +5,7 @@
   
   鼓  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/Drum.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**500<br><br>**标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/Drum.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

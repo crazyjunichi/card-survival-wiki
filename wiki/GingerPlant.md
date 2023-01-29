@@ -10,9 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[红树林](Mangroves.md)  |  探索  
-[湿地丛林](Wetlands.md)  |  探索  
+[姜田](CropPlotGinger.md)  |  转化  
+[红树林(区域)](Mangroves.md)  |  探索  
+[湿地丛林(区域)](Wetlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>** Roots **<br>  [姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集根部<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br><br>** 获得： **<br>** [Roots] **<br>  [姜](Ginger.md)(+2)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

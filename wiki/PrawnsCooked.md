@@ -11,9 +11,14 @@
 来源  |  操作  
 ----  |  ----  
 [虾](Prawns.md) , [营火](Campfire.md)  |  虾  
+[虾](Prawns.md) , [营火](Campfire.md)  |  虾  
+[虾](Prawns.md) , [粘土火盆](ClayFirePit.md)  |  虾  
 [虾](Prawns.md) , [粘土火盆](ClayFirePit.md)  |  虾  
 [虾](Prawns.md) , [火堆](Fire.md)  |  虾  
+[虾](Prawns.md) , [火堆](Fire.md)  |  虾  
 [虾](Prawns.md) , [瓦斯炉(开)](GasCookerOn.md)  |  虾  
+[虾](Prawns.md) , [瓦斯炉(开)](GasCookerOn.md)  |  虾  
+[虾](Prawns.md) , [火炉](Stove.md)  |  虾  
 [虾](Prawns.md) , [火炉](Stove.md)  |  虾  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -37,4 +42,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

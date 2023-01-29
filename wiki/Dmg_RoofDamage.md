@@ -7,6 +7,12 @@
  ----  |  ----:   
  ** 效果: **<br>[舒适度](Comfort.md)-250  |  <img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[泥屋(区域)](MudHut.md)  |  转化  
+[泥屋(区域)](MudHutRuins.md)  |  转化  
+[棚屋(区域)](Shed.md)  |  转化  
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  

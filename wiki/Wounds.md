@@ -1,6 +1,7 @@
 # 受伤  
-变化范围: 0 ~ 1500  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 1500  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -15,21 +16,13 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [左臂骨折](W_ArmFractureL.md)  |  条件被动  |  750  
-[左臂骨折](W_ArmFractureL.md)  |  条件被动  |  750  
-[右臂骨折](W_ArmFractureR.md)  |  条件被动  |  750  
 [右臂骨折](W_ArmFractureR.md)  |  条件被动  |  750  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  750  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  750  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  750  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  750  
 [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  750  
 [左腿骨折](W_LegFractureL.md)  |  条件被动  |  750  
-[左腿骨折](W_LegFractureL.md)  |  条件被动  |  750  
-[右腿骨折](W_LegFractureR.md)  |  条件被动  |  750  
 [右腿骨折](W_LegFractureR.md)  |  条件被动  |  750  
 [左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  750  
-[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  750  
-[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  750  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  750  
 [已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  500  
 [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  500  

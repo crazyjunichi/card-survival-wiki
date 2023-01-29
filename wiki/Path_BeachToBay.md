@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)红树林](Event_MangrovesFoundFromBeach.md)  |  继续  
+[红树林(事件)](Event_MangrovesFoundFromBeach.md)  |  继续  
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |    |  ** Path **<br>  [海湾(环境)](Env_Bay.md)(+1)<br>  [前往沙滩(海湾)](Path_BayToBeach.md)(+1)<br>基础权重：1<br>  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-12  
+前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |    |  ** 获得： **<br>** [Path] **<br>  [海湾(环境)](Env_Bay.md)(+1)<br>  [前往沙滩(海湾)](Path_BayToBeach.md)(+1)<br>基础权重：1<br>  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-12  

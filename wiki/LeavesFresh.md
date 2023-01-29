@@ -13,8 +13,11 @@
 [金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
 [剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[大树](LargeTree.md)  |  转化  
 [倒下的大树](LargeTreeFelled.md) , [石斧](StoneAxe.md)  |  修整原木  
 [倒下的大树](LargeTreeFelled.md) , [“锤”](tag_Axe.md)  |  修整原木  
+[摘光的芒果树](MangoTreeCleared.md)  |  转化  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  转化  
 [小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
 [野枣丛](WildJujube.md) , [“锤”](tag_Axe.md)  |  砍倒  
 [摘光的野枣从](WildJujubeCleared.md) , [“锤”](tag_Axe.md)  |  砍倒  
@@ -28,4 +31,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br>→ [枯叶](LeavesDry.md)  
+耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>→ [枯叶](LeavesDry.md)  

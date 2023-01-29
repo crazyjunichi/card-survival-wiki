@@ -3,7 +3,7 @@
   
   生存指南  |   图片   
  ----  |  ----:   
- **重量：**25  |  <img decoding="async" src="Sprite/SurvivalGuide.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**25  |  <img decoding="async" src="Sprite/SurvivalGuide.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

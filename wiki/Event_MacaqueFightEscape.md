@@ -8,10 +8,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一只猕猴！](Event_MacaqueFightRaid.md)  |  用长矛攻击！  
-[(事件)一只猕猴！](Event_MacaqueFightRaid.md)  |  用弓箭攻击！  
-[(事件)一只猕猴！](Event_MacaqueFightRaid.md)  |  用枪攻击！  
-[(事件)一只猕猴！](Event_MacaqueFightRaid.md)  |  用投石索攻击！  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用长矛攻击！  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用弓箭攻击！  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用枪攻击！  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用投石索攻击！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -10,12 +10,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林深处](DeepJungle.md)  |  探索  
-[丛林](Jungle.md)  |  探索  
-[丛林高地](JungleHighlands.md)  |  探索  
-[红树林](Mangroves.md)  |  探索  
-[湿地丛林](Wetlands.md)  |  探索  
+[蛇草田](CropPlotSnakeGrass.md)  |  转化  
+[丛林深处(区域)](DeepJungle.md)  |  探索  
+[丛林(区域)](Jungle.md)  |  探索  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  
+[红树林(区域)](Mangroves.md)  |  探索  
+[湿地丛林(区域)](Wetlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>** Chilies **<br>  [蛇草](SnakeGrass.md)(+7～+13)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br><br>** 获得： **<br>** [Chilies] **<br>  [蛇草](SnakeGrass.md)(+7～+13)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

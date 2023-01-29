@@ -10,6 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[烟熏炉](Smoker.md) , [蛋](Egg.md)  |  烤蛋  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [蛋](Egg.md)  |  烤蛋  
 [蛋](Egg.md) , [受精蛋](EggPartridgeFertilized.md) , [营火](Campfire.md)  |  蛋  
 [蛋](Egg.md) , [受精蛋](EggPartridgeFertilized.md) , [粘土火盆](ClayFirePit.md)  |  蛋  
 [蛋](Egg.md) , [受精蛋](EggPartridgeFertilized.md) , [火堆](Fire.md)  |  蛋  
@@ -36,4 +38,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

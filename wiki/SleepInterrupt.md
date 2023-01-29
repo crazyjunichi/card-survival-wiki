@@ -1,14 +1,15 @@
 # 睡眠中断  
-变化范围: 0 ~ 1  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 1  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)风太大了！](Event_Flood.md)  |  躲避一会  |  1  
-[(事件)风太大了！](Event_Storm.md)  |  躲避狂风暴雨  |  1  
+[风太大了！(事件)](Event_Flood.md)  |  躲避一会  |  1  
+[风太大了！(事件)](Event_Storm.md)  |  躲避狂风暴雨  |  1  
 [睡袋](BedRoll.md)  |  小憩  |  -1  
 [睡袋](BedRoll.md)  |  睡觉  |  -1  
 [简易床](BedRustic.md)  |  小憩  |  -1  
@@ -27,11 +28,11 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1  
 [帐篷](TentDeployed.md)  |  小憩  |  -1  
 [帐篷](TentDeployed.md)  |  睡觉  |  -1  
-[(事件)船长](Event_CaptainSpecial1a.md)  |  啥？？现在吗？？  |  -1  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  -1  
-[(事件)噩梦！](Event_Nightmare.md)  |  试着冷静下来……  |  -1  
-[(事件)一只蜘蛛咬了我！](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -1  
-[(事件)韦斯顿](Event_WestonSpecial1a.md)  |  唔……我现在醒了。  |  -1  
+[船长(Special1a)(事件)](Event_CaptainSpecial1a.md)  |  啥？？现在吗？？  |  -1  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  -1  
+[噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  -1  
+[一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -1  
+[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  唔……我现在醒了。  |  -1  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  -1  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  -1  
 ## 被以下操作需求  
@@ -55,6 +56,6 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  1  
 [帐篷](TentDeployed.md)  |  小憩  |  1  
 [帐篷](TentDeployed.md)  |  睡觉  |  1  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  1  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  1  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  1  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  1  

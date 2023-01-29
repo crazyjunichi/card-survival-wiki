@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)神圣灵视](Event_GodExperience1a.md)  |  微笑  
-[(事件)神圣灵视](Event_HuntedExperience1a.md)  |  微笑  
+[神圣灵视(事件)](Event_GodExperience1a.md)  |  微笑  
+[神圣灵视(事件)](Event_HuntedExperience1a.md)  |  微笑  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随祂去吧！<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)神圣灵视](Event_GodExperience1c.md)(+1)<br>  |    
+随祂去吧！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [神圣灵视(事件)](Event_GodExperience1c.md)(+1)<br>  |    

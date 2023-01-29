@@ -7,6 +7,12 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[蜂蜜酒](LQ_Mead.md)  |  转化  
+[棕榈酒](LQ_PalmWine.md)  |  转化  
+[糖酒](LQ_SugarWine.md)  |  转化  
 ## 可用于蓝图  
 - [奶酪(蓝图)](Bp_Cheese.md)  
 - [寿司(蓝图)](Bp_Sushi.md)  

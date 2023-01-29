@@ -10,6 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[硝酸钾](Saltpeter.md) , [硫酸](LQ_Vitriol.md)  |  浸泡  
 [硫酸](LQ_Vitriol.md) , [硝酸钾](Saltpeter.md)  |  溶解  
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md)  

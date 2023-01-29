@@ -5,9 +5,9 @@
   
   离开  |   图片   
  ----  |  ----:   
- **环境：**[猕猴窝(环境)](Env_MacaqueDen.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/CaveExit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[猕猴窝(环境)](Env_MacaqueDen.md)  |  <img decoding="async" src="Sprite/CaveExit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开<br>  |  -  |    |  ** Rocks **<br>  [丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>基础权重：1<br>  |    
+离开<br>  |  -  |    |  ** 获得： **<br>** [Rocks] **<br>  [丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>基础权重：1<br>  |    

@@ -1,8 +1,9 @@
 # 监视者的凝视  
 >   
   
-变化范围: 0 ~ 96  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 96  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -15,12 +16,12 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)监视者](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -96  
-[(事件)监视者](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -96  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -96  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -96  
+[监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -96  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -96  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -96  

@@ -10,9 +10,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[稻田](CropPlotRice.md)  |  转化  
+[水稻田](RicePaddy.md)  |  转化  
 [离开(泥屋)](MudHutExitRuins.md)  |  离开  
-[神秘谷](SecretValley.md)  |  探索  
+[神秘谷(区域)](SecretValley.md)  |  探索  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  采集  |  30分  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>**  **<br>  [稻秆](RiceStalks.md)(+4)<br>  |  [耐力](Stamina.md)-4  
+[“切割工具”](tag_Cutter.md)  |  采集<br>  |  30分  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [稻秆](RiceStalks.md)(+4)<br>  |  [耐力](Stamina.md)-4  

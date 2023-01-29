@@ -5,12 +5,15 @@
   
   木床  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/Bed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>** 不可删除 **<br><br>** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/Bed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [木床(蓝图)](Bp_BedWooden.md)  |  蓝图制造  
+[祖父](Grandfather.md)  |  悲报！  
+[祖父](Grandfather.md)  |  悲报！  
+[祖父](Grandfather.md)  |  悲报！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

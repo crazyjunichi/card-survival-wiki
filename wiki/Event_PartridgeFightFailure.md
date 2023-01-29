@@ -8,11 +8,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一只灰山鹑！](Event_PartridgeFight.md)  |  朝它砸石头  
-[(事件)一只灰山鹑！](Event_PartridgeFight.md)  |  使用长矛  
-[(事件)一只灰山鹑！](Event_PartridgeFight.md)  |  使用投索  
-[(事件)一只灰山鹑！](Event_PartridgeFight.md)  |  用弓箭攻击  
-[(事件)一只灰山鹑！](Event_PartridgeFight.md)  |  用枪攻击！  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  朝它砸石头  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  使用长矛  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  使用投索  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  用弓箭攻击  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  用枪攻击！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

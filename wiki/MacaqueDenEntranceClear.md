@@ -7,7 +7,11 @@
  ----  |  ----:   
  ** 区域唯一 **  |  <img decoding="async" src="Sprite/DarkCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  猕猴灭绝  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** Entrance **<br>  [猕猴窝(环境)](Env_MacaqueDen.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Entrance] **<br>  [猕猴窝(环境)](Env_MacaqueDen.md)(+1)<br>基础权重：1<br>  |    

@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  [体重](Weight.md)加成-0.25<br>[体感温度](TemperaturePerceived.md)+1  
+效果  |    

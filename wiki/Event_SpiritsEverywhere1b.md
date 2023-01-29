@@ -8,4 +8,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-好痛！<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)虚空灵视](Event_VoidExperience1c.md)(+1)<br>  |    
+好痛！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [虚空灵视(事件)](Event_VoidExperience1c.md)(+1)<br>  |    

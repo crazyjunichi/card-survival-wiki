@@ -1,12 +1,13 @@
 # ModifierClimb_GameName  
-变化范围: 0 ~ 3  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 3  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-1<br>时间+1  
-2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-2<br>时间+2  
-3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md)<br>[耐力](Stamina.md)-4<br>时间+4  
+1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-1<br>时间+1  
+2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
+3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
 ## 关联状态  
 [怀孕](Pregnancy.md)  
 ## 可被以下操作改变  
@@ -31,8 +32,6 @@
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  1  
 [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  1  
 [左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  1  
-[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  1  
-[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  1  
 [右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  1  
 [左腿骨折](W_LegFractureL.md)  |  条件被动  |  1  
 [右腿骨折](W_LegFractureR.md)  |  条件被动  |  1  
@@ -41,8 +40,6 @@
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  1  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  1  
 [左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  1  
-[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  1  
-[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  1  
 [右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  1  
 [左臂骨折](W_ArmFractureL.md)  |  条件被动  |  0.5  
 [右臂骨折](W_ArmFractureR.md)  |  条件被动  |  0.5  
@@ -80,15 +77,15 @@
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  0 ~ 2  
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  0 ~ 2  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  0 ~ 2  
-[椰子树](PalmTreeNew.md)  |  爬树  |  0 ~ 2  
-[椰子树](PalmTreeNew.md)  |  练习攀爬  |  0 ~ 2  
+[椰子树(新)](PalmTreeNew.md)  |  爬树  |  0 ~ 2  
+[椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  0 ~ 2  
-[椰子树](PalmTreeOld.md)  |  爬树  |  0 ~ 2  
-[椰子树](PalmTreeOld.md)  |  练习攀爬  |  0 ~ 2  
+[椰子树(旧)](PalmTreeOld.md)  |  爬树  |  0 ~ 2  
+[椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  0 ~ 2  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  0 ~ 2  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  0 ~ 2  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  0 ~ 2  

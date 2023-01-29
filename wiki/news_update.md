@@ -1,4 +1,4 @@
-# 游戏更新日志  
+# 版本更新  
 ## Card Survival: Tropical Island - Update 40  
   
 Hello everyone! 

@@ -3,7 +3,7 @@
   
   烟熏炉框架  |   图片   
  ----  |  ----:   
-   |  <img decoding="async" src="Sprite/SmokerIncomplete.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **  |  <img decoding="async" src="Sprite/SmokerIncomplete.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,8 +13,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除树枝<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** Sticks **<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>  |    
+移除树枝<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 获得： **<br>** [Sticks] **<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[塑料布](PlasticSheet.md)  |  覆盖烟熏炉  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)<br>** 使用物: **<br>消失  |    
+[塑料布](PlasticSheet.md)  |  覆盖烟熏炉<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)<br><br>** 使用物: **<br>消失  |    

@@ -9,3 +9,4 @@
 额外卡牌  |  [人鱼巢(蓝图)](Bp_MermaidNest.md)  
 初始状态  |  [湿度](Wetness.md)  
 被动状态  |  [皮肤潮湿度](SkinHumidity.md)加成-3<br>[水分](Hydration.md)加成-1<br>[保温](InsulationCold.md)+15<br>[细菌性发烧](BacteriaFever.md)加成-4  
+效果  |    

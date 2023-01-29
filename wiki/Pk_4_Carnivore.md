@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  无  
+效果  |  [食用蔬菜类动作](VegetarianAction.md): <br>[情绪](Morale.md)-100<br>[恶心](Nausea.md)+24  

@@ -5,30 +5,34 @@
   
   已缝合的轻微撕裂伤  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**装备：**[“轻微撕裂伤”](eTag_WMinorLaceration.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/LacerationMinorStitched.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**0<br><br>**装备：**[“轻微撕裂伤”](eTag_WMinorLaceration.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/LacerationMinorStitched.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  撕裂伤  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  撕裂伤  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  撕裂伤  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  撕裂伤  
 [轻微撕裂伤](W_MinorLaceration.md) , [“针线”](tag_ThreadedNeedle.md)  |  缝合  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  用海水清理  |  15分  |  [勇气](Courage.md): 400-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)-5  
-[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
-[蜂蜜水](LQ_HoneyWater.md)  |  用蜂蜜水清理  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -250<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
-[碱液](LQ_Lye.md)  |  用碱水清理  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -100  |    
-[湿肥皂](SoapWet.md)  |  用肥皂清理  |  15分  |  [勇气](Courage.md): 200-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br>** 使用物: **<br>可用次数  -1  |    
-[芦荟膏](AloeVeraGel.md)  |  涂抹  |  15分  |    |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>消失<br>可用次数  -1  |    
-[蜂蜜](LQ_Honey.md)  |  涂抹蜂蜜  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -150  |    
+[盐水](LQ_WaterSalt.md)  |  用海水清理<br>  |  15分  |  [勇气](Courage.md): 400-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)-5  
+[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
+[蜂蜜水](LQ_HoneyWater.md)  |  用蜂蜜水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -250<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
+[碱液](LQ_Lye.md)  |  用碱水清理<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -100  |    
+[湿肥皂](SoapWet.md)  |  用肥皂清理<br>  |  15分  |  [勇气](Courage.md): 200-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;">  -32<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 使用物: **<br>可用次数  -1  |    
+[芦荟膏](AloeVeraGel.md)  |  涂抹<br>  |  15分  |    |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[蜂蜜](LQ_Honey.md)  |  涂抹蜂蜜<br>[手部动作](HandAction.md)  |  15分  |  [勇气](Courage.md): 50-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -150<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -150  |    
 ## 转化  
-放入  |  动作  |  耗时  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-[“敷料”](tag_Dressing.md)  |  敷料  |  -  |    |    
+放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  |  ----  
+[“敷料”](tag_Dressing.md)  |  敷料  |  -  |    |  耐久  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+2<br>最多需要：2天14小时30分  |  ** 到达上限时：轻微撕裂伤 **  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+2<br>最多需要：2天14小时30分  |  ** 到达上限时：轻微撕裂伤 **<br>  
 <img decoding="async" src="Sprite/DressingApplied.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    
 ## 被动效果  

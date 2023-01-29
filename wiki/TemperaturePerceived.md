@@ -1,8 +1,9 @@
 # 体感温度  
 >   
   
-变化范围: -80 ~ 80  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** -80 ~ 80  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -81,7 +82,7 @@
 [T恤](T-Shirt.md)  |  被动  |  0.5  
 [内裤](Underwear.md)  |  被动  |  0.25  
 [泥屋(环境)](Env_MudHut.md)  |  被动  |  -1  
-[泥屋(环境)](Env_MudHutRuins.md)  |  被动  |  -1  
+[泥屋(损坏)(环境)](Env_MudHutRuins.md)  |  被动  |  -1  
 [石屋(环境)](Env_StoneHut.md)  |  被动  |  -1  
 [隧道(环境)](Env_Tunnel.md)  |  被动  |  -4  
 [蝙蝠洞(环境)](Env_CaveBats.md)  |  被动  |  -4  
@@ -99,10 +100,10 @@
 [沙滩(环境)](Env_Cove.md)  |  被动  |  -5  
 [荒芜沙滩(环境)](Env_DesolateBeach.md)  |  被动  |  -5  
 [岩滩(环境)](Env_Rocks.md)  |  被动  |  -5  
-[洞穴上层(环境)](Env_CrystalChamber.md)  |  被动  |  -6  
+[晶石洞穴(环境)](Env_CrystalChamber.md)  |  被动  |  -6  
 [阴暗洞穴(环境)](Env_DarkChamber.md)  |  被动  |  -6  
-[洞穴上层(环境)](Env_MidChamber.md)  |  被动  |  -6  
+[洞穴中层(环境)](Env_MidChamber.md)  |  被动  |  -6  
 [潮湿洞穴(环境)](Env_DampChamber.md)  |  被动  |  -8  
-[洞穴上层(环境)](Env_LowChamber.md)  |  被动  |  -8  
-[洞穴上层(环境)](Env_NarrowTunnel.md)  |  被动  |  -8  
+[洞穴底层(环境)](Env_LowChamber.md)  |  被动  |  -8  
+[狭窄通道(环境)](Env_NarrowTunnel.md)  |  被动  |  -8  
 [覆溺洞穴(环境)](Env_FloodedChamber.md)  |  被动  |  -10  

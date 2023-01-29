@@ -15,6 +15,6 @@
 - 睡觉 [有遮蔽的叶床](ShelteredLeafBed.md)  
 - 小憩 [帐篷](TentDeployed.md)  
 - 睡觉 [帐篷](TentDeployed.md)  
-- Zzz…… [(事件)你睡着了！](Event_FallingAsleep.md)  
+- Zzz…… [你睡着了！(事件)](Event_FallingAsleep.md)  
 - 小憩 [木筏庇护所](RaftShelter.md)  
 - 睡觉 [木筏庇护所](RaftShelter.md)  

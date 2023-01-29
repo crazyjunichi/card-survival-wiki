@@ -1,8 +1,9 @@
 # 恶心  
 >   
   
-变化范围: 0 ~ 24  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 24  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -41,8 +42,8 @@
 [简易床](BedRustic.md)  |  睡觉  |  -1.75  
 [木床](BedWooden.md)  |  小憩  |  -2  
 [木床](BedWooden.md)  |  睡觉  |  -2  
-[(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -12  
-[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  -20  
+[呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -12  
+[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  -20  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -62,7 +63,7 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  20 ~ 24  
 [帐篷](TentDeployed.md)  |  小憩  |  20 ~ 24  
 [帐篷](TentDeployed.md)  |  睡觉  |  20 ~ 24  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  20 ~ 24  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  20 ~ 24  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  20 ~ 24  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  20 ~ 24  
 [吊床](Hammock.md)  |  小憩  |  13 ~ 24  

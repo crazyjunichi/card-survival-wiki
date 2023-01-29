@@ -1,8 +1,9 @@
 # 舒适度  
 > 住在一个舒适的定居点有助于改善你的<b>情绪</b>和<b>世界观</b>，同时降低你的<b>压力</b>和<b>孤独感</b>。<br><br>安全实用并且舒适的定居点非常重要。可以通过在室内添置<b>家具</b>和<b>装饰品</b>来增加舒适度。用<b>扫帚</b>保持室内环境整洁，否则污垢会增加<b>不适</b>。<br><br><b>鲜花</b>和<b>香薰蜡烛</b>也可以暂时增加舒适度。  
   
-变化范围: 0 ~ 2500  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 2500  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -46,10 +47,10 @@
 [架子](Shelf.md)  |  条件被动  |  15  
 [书架](Bookshelf.md)  |  条件被动  |  10  
 [架子](Shelf.md)  |  条件被动  |  10  
-[蝙蝠洞](CaveBats.md)  |  被动  |  -100  
-[草原洞穴](CaveGrasslands.md)  |  被动  |  -100  
-[隧道](Tunnel.md)  |  被动  |  -100  
-[猕猴窝](MacaqueDen.md)  |  被动  |  -100  
+[蝙蝠洞(区域)](CaveBats.md)  |  被动  |  -100  
+[草原洞穴(区域)](CaveGrasslands.md)  |  被动  |  -100  
+[隧道(区域)](Tunnel.md)  |  被动  |  -100  
+[猕猴窝(区域)](MacaqueDen.md)  |  被动  |  -100  
 [屋顶损坏](Dmg_RaftDamage.md)  |  被动  |  -250  
 [屋顶损坏](Dmg_RoofDamage.md)  |  被动  |  -250  
 [野猪尸体](BoarCarcass.md)  |  被动  |  -250  
@@ -59,12 +60,12 @@
 [山羊尸体(公)](GoatCarcassMale.md)  |  被动  |  -250  
 [巨蜥尸体](MonitorCarcass.md)  |  被动  |  -250  
 [洞穴(环境)](Env_CaveSea.md)  |  被动  |  -250  
-[潮湿洞穴](DampChamber.md)  |  被动  |  -500  
-[覆溺洞穴](FloodedChamber.md)  |  被动  |  -500  
-[洞穴上层](HighChamber.md)  |  被动  |  -500  
-[洞穴底层](LowChamber.md)  |  被动  |  -500  
-[洞穴中层](MidChamber.md)  |  被动  |  -500  
-[狭窄隧道](NarrowTunnel.md)  |  被动  |  -500  
+[潮湿洞穴(区域)](DampChamber.md)  |  被动  |  -500  
+[覆溺洞穴(区域)](FloodedChamber.md)  |  被动  |  -500  
+[洞穴上层(区域)](HighChamber.md)  |  被动  |  -500  
+[洞穴底层(区域)](LowChamber.md)  |  被动  |  -500  
+[洞穴中层(区域)](MidChamber.md)  |  被动  |  -500  
+[狭窄隧道(区域)](NarrowTunnel.md)  |  被动  |  -500  
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  -500  
 [潮汐洞(环境)](Env_CaveTidal.md)  |  被动  |  -500  
 [坍塌的屋顶](Dmg_RoofCollapsed.md)  |  被动  |  -2000  

@@ -9,3 +9,4 @@
 额外卡牌  |  [鱼叉(蓝图)](Bp_FishingSpear.md)<br>[鱼镖(蓝图)](Bp_Harpoon.md)  
 初始状态  |  [叉鱼(技能)](Skill_SpearFishing.md)+75  
 被动状态  |  无  
+效果  |    

@@ -8,11 +8,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林深处](DeepJungle.md)  |  探索  
-[丛林](Jungle.md)  |  探索  
-[丛林高地](JungleHighlands.md)  |  探索  
-[湿地丛林](Wetlands.md)  |  探索  
+[丛林深处(区域)](DeepJungle.md)  |  探索  
+[丛林(区域)](Jungle.md)  |  探索  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  
+[湿地丛林(区域)](Wetlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  15分  |    |  消失<br>** Nest **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1)<br>  [受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br><br>** Nest **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1～+3)<br>  [鸟骨](BonesBird.md)(0～+1)<br>基础权重：1<br>  |    
+继续<br>  |  15分  |    |  消失<br><br>** 获得： **<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1)<br>  [受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br><br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1～+3)<br>  [鸟骨](BonesBird.md)(0～+1)<br>基础权重：1<br>  |    

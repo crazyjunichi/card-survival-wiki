@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)韦斯顿](Event_WestonSpecial1c.md)  |  别客气。  
-[(事件)Event_WestonSpecial2c_CardName](Event_WestonSpecial2c.md)  |  Here we go again...  
+[韦斯顿(Special1c)(事件)](Event_WestonSpecial1c.md)  |  别客气。  
+[Event_WestonSpecial2c_CardName(Special2c)(事件)](Event_WestonSpecial2c.md)  |  Here we go again...  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-能明天再说嘛？<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)韦斯顿](Event_WestonSpecial1e.md)(+1)<br>  |    
+能明天再说嘛？<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)(+1)<br>  |    

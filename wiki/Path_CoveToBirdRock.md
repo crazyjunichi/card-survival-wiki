@@ -5,7 +5,7 @@
   
   鸟岩岛  |   图片   
  ----  |  ----:   
- **环境：**[隐秘港湾](Cove.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[隐秘港湾(区域)](Cove.md)  |  <img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-游泳<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 1-100<br>[游泳(技能)](Skill_Swimming.md): 30-150  |  ** Success **<br>  [鸟岩岛(环境)](Env_BirdRock.md)(+1)<br>  [隐秘港湾](Path_BirdRockToCove.md)(+1)<br>基础权重：10<br><br>** Fail **<br>  [(事件)我游不动了……](Event_SwimFail.md)(+1)<br>基础权重：1000<br>- [游泳(技能)](Skill_Swimming.md)为10～150时权重-900<br>- [游泳(技能)](Skill_Swimming.md)为30～150时权重-90<br>- [游泳(技能)](Skill_Swimming.md)为75～150时权重0～-10<br>  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  
+游泳<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 1-100<br>[游泳(技能)](Skill_Swimming.md): 30-150  |  ** 获得： **<br>** [Success] **<br>  [鸟岩岛(环境)](Env_BirdRock.md)(+1)<br>  [隐秘港湾](Path_BirdRockToCove.md)(+1)<br>[猎手接近](HuntersProximity.md)-24<br>基础权重：10<br><br>** [Fail] **<br>  [我游不动了……(事件)](Event_SwimFail.md)(+1)<br>基础权重：1000<br>- [游泳(技能)](Skill_Swimming.md)为10～150时权重-900<br>- [游泳(技能)](Skill_Swimming.md)为30～150时权重-90<br>- [游泳(技能)](Skill_Swimming.md)为75～150时权重0～-10<br>  |  [湿度](Wetness.md)+200<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  

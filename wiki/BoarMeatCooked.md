@@ -10,6 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[烟熏炉](Smoker.md) , [野猪肉](BoarMeat.md)  |  熏野猪肉  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [野猪肉](BoarMeat.md)  |  熏野猪肉  
 [野猪肉](BoarMeat.md) , [营火](Campfire.md)  |  野猪肉  
 [野猪肉](BoarMeat.md) , [粘土火盆](ClayFirePit.md)  |  野猪肉  
 [野猪肉](BoarMeat.md) , [火堆](Fire.md)  |  野猪肉  
@@ -40,4 +42,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

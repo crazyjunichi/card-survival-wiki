@@ -8,4 +8,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-难以忍受的痛苦！<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)虚空灵视](Event_VoidExperience1e.md)(+1)<br>  |    
+难以忍受的痛苦！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [虚空灵视(事件)](Event_VoidExperience1e.md)(+1)<br>  |    

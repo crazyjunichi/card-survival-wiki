@@ -3,7 +3,7 @@
   
   废墟  |   图片   
  ----  |  ----:   
- **环境：**[泥屋(环境)](Env_MudHutRuins.md)<br><br>**可使用次数：**10<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/Debris.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **环境：**[泥屋(损坏)(环境)](Env_MudHutRuins.md)<br><br>**可使用次数：**10<br><br>** 效果: **<br>[不适](Discomfort.md)+500  |  <img decoding="async" src="Sprite/Debris.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -12,12 +12,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清理<br>  |  1小时  |  [光亮](Light.md): 10-100  |  使用次数  -4<br>** Debris **<br>  [干土堆](DirtPile.md)(0～+4)<br>  [长木棍](StickLong.md)(0～+2)<br>  [小树枝](Sticks.md)(0～+3)<br>  [细线](CordFiber.md)(0～+3)<br>基础权重：1<br>  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+50  
+清理<br>  |  1小时  |  [光亮](Light.md): 10-100  |  使用次数  -4<br><br>** 获得： **<br>** [Debris] **<br>  [干土堆](DirtPile.md)(0～+4)<br>  [长木棍](StickLong.md)(0～+2)<br>  [小树枝](Sticks.md)(0～+3)<br>  [细线](CordFiber.md)(0～+3)<br>基础权重：1<br>  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+50  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“铲子”](tag_Shovel.md)  |  清理  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -4<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Debris **<br>  [干土堆](DirtPile.md)(0～+3)<br>  [长木棍](StickLong.md)(0～+1)<br>  [小树枝](Sticks.md)(0～+3)<br>基础权重：1<br>  |  [耐力](Stamina.md)-4<br>[手掌损伤](HandDamage.md)+25  
+[“铲子”](tag_Shovel.md)  |  清理<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -4<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Debris] **<br>  [干土堆](DirtPile.md)(0～+3)<br>  [长木棍](StickLong.md)(0～+1)<br>  [小树枝](Sticks.md)(0～+3)<br>基础权重：1<br>  |  [耐力](Stamina.md)-4<br>[手掌损伤](HandDamage.md)+25  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：10  |  -  |  ** 到达0时： **<br>→ [摘光的香蕉树](BananaTreeCleared.md)  
+使用次数  |  初始：10  |  -  |  ** 到达0时： **<br><br>→ [摘光的香蕉树](BananaTreeCleared.md)  

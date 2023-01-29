@@ -5,16 +5,22 @@
   
   鞣制兽皮  |   图片   
  ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/HideCured.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/HideCured.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [睡袋](BedRoll.md)  |  拆解  
+[睡袋](BedRoll.md)  |  转化  
+[皮革手套](LeatherGloves.md)  |  转化  
 [皮裤](LeatherPants.md)  |  拆解  
+[皮裤](LeatherPants.md)  |  转化  
 [皮革鞋子](LeatherShoes.md)  |  拆解  
+[皮革鞋子](LeatherShoes.md)  |  转化  
+[风箱](Bellows.md)  |  转化  
 [挎包](Satchel.md)  |  拆解  
-[挎包](SatchelHunter.md)  |  拆解  
+[挎包(猎人专有)](SatchelHunter.md)  |  拆解  
+[刮净的皮](SkinFleshed.md)  |  皮鞣制好了！  
 ## 可用于蓝图  
 - [地窖(蓝图)](Bp_Cellar.md)  
 - [鼓(蓝图)](Bp_Drum.md)  

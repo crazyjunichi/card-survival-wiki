@@ -5,7 +5,7 @@
   
   架子  |   图片   
  ----  |  ----:   
- **标签：**	[“袋子”](tag_Bag.md)<br><br>**容重量：**600<br><br>**减重量：**-600<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/Shelf.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 可重命名 **<br><br>** 不可堆叠 **<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**600<br><br>**减重量：**-600  |  <img decoding="async" src="Sprite/Shelf.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  30分  |    |  消失<br>** Dismantle **<br>  [木板](Plank.md)(+1)<br>  [小树枝](Sticks.md)(+1)<br>  |    
+拆解<br>  |  30分  |    |  消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [木板](Plank.md)(+1)<br>  [小树枝](Sticks.md)(+1)<br>  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

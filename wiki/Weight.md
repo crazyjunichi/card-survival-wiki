@@ -1,8 +1,9 @@
 # 体重  
 > 如果你摄入的卡路里比消耗的要少，你的体重就会下降，反之亦然。<br><br>如果你的体重过低，你将变得虚弱，<b>免疫系统</b>也更加脆弱。当体重降至0你就会<b>死</b>。<br>如果你的体重过高，你将变得肥胖，它会为你的<b>行动</b>带来阻碍。<br><br>如需增重，你应避免高强度的<b>体力活动</b>，多吃高热量的如富含油脂和碳水化合物的<b>烹饪食物</b>。  
   
-变化范围: 0 ~ 15000  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 2500   
+#### ** 变化范围: ** 0 ~ 15000  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -80,7 +81,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)远处有一座大岛……](Event_DistantIsland.md)  |  乘坐木筏到岛上  |  8  
+[远处有一座大岛……(事件)](Event_DistantIsland.md)  |  乘坐木筏到岛上  |  8  
 [没气的救生筏](LifeRaftDeflated.md)  |  切下塑料布  |  -1  
 [打开的降落伞](ParachuteDeployed.md)  |  切下塑料布  |  -1  
 [姜](Ginger.md)  |  捣碎  |  -1  
@@ -94,8 +95,7 @@
 [蛇草](SnakeGrass.md)  |  捣碎  |  -1  
 [摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  -1  
 [摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  -2  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  -2 ~ -1  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  -4  
+[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  -2 ~ -1  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  -4  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  -4  
 [婴儿](Baby.md)  |  喂奶  |  -5  
@@ -104,10 +104,8 @@
 [半根原木](HalfLog.md)  |  切割成木材  |  -8  
 [原木](Log.md)  |  截成两段  |  -8  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  -8  
-[椰子树](PalmTree_IH.md)  |  砍倒  |  -8  
-[椰子树](PalmTree_Unique.md)  |  砍倒  |  -8  
-[椰子树](PalmTree_Unique.md)  |  砍倒  |  -8  
-[(事件)远处有一座大岛……](Event_DistantIsland.md)  |  游向小岛  |  -16  
+[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒  |  -8  
+[远处有一座大岛……(事件)](Event_DistantIsland.md)  |  游向小岛  |  -16  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -129,7 +127,7 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  0 ~ 74  
 [帐篷](TentDeployed.md)  |  小憩  |  0 ~ 74  
 [帐篷](TentDeployed.md)  |  睡觉  |  0 ~ 74  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  0 ~ 74  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 74  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  0 ~ 74  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 74  

@@ -10,8 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[西部草原](GrasslandsW.md)  |  探索  
+[迷幻菇菌床](MushroomBedMagic.md)  |  转化  
+[西部草原(区域)](GrasslandsW.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  消失<br>**  **<br>  [迷幻菇](MagicMushrooms.md)(+1)<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>  |  15分  |    |  消失<br><br>** 获得： **<br>  [迷幻菇](MagicMushrooms.md)(+1)<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

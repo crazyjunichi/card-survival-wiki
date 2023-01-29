@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)滑倒了！](Event_SlipRocks.md)  |  ……  
+[滑倒了！(事件)](Event_SlipRocks.md)  |  ……  
 [竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  
 [竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  
@@ -23,15 +23,15 @@
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
-[椰子树](PalmTreeNew.md)  |  爬树  
+[椰子树(新)](PalmTreeNew.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
-[椰子树](PalmTreeOld.md)  |  爬树  
+[椰子树(旧)](PalmTreeOld.md)  |  爬树  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错<br>  |  -  |    |  消失<br>** Arm L **<br>  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>基础权重：2<br><br>** Arm R **<br>  [右手腕扭伤](W_ArmSprainedR.md)(+1)<br>基础权重：2<br><br>** Leg R **<br>  [右脚踝扭伤](W_LegSprainedR.md)(+1)<br>基础权重：1<br><br>** Leg L **<br>  [左脚踝扭伤](W_LegSprainedL.md)(+1)<br>基础权重：1<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  
+真他妈不错<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Arm L] **<br>  [左手腕扭伤](W_ArmSprainedL.md)(+1)<br>基础权重：2<br><br>** [Arm R] **<br>  [右手腕扭伤](W_ArmSprainedR.md)(+1)<br>基础权重：2<br><br>** [Leg R] **<br>  [右脚踝扭伤](W_LegSprainedR.md)(+1)<br>基础权重：1<br><br>** [Leg L] **<br>  [左脚踝扭伤](W_LegSprainedL.md)(+1)<br>基础权重：1<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  

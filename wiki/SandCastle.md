@@ -5,7 +5,7 @@
   
   沙堡  |   图片   
  ----  |  ----:   
- **标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/SandCastle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**标签：**	[“大的”](tag_Large.md)  |  <img decoding="async" src="Sprite/SandCastle.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -21,4 +21,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>→ [沙子](Sand.md)  
+耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>→ [沙子](Sand.md)  

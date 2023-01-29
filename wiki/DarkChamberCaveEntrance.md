@@ -8,8 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  转化  
 [洞穴中层](DarkChamberCaveExit.md)  |  进入  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** Exit **<br>  [阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>  [洞穴中层](DarkChamberCaveExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>  [洞穴中层](DarkChamberCaveExit.md)(+1)<br>基础权重：1<br>  |    

@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)神圣灵视](Event_GodExperience1f.md)  |  不！  
-[(事件)神圣灵视](Event_HuntedExperience1f.md)  |  然不觉！  
+[神圣灵视(事件)](Event_GodExperience1f.md)  |  不！  
+[神圣灵视(事件)](Event_HuntedExperience1f.md)  |  然不觉！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

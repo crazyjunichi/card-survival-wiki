@@ -16,6 +16,6 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“储水容器”](tag_WaterContainer.md)  |  倒入  |  -  |    |  ** 自身: **<br>消失  |    
+[“储水容器”](tag_WaterContainer.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>消失<br><br>[水](LQ_Water.md)(+300)  |    
 ## 可拖至  
 [椰壶](CoconutFlask.md)  

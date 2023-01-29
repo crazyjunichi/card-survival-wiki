@@ -4,4 +4,4 @@
 - [腰包](BeltBag.md)  
 - [军用皮带](BeltMilitary.md)  
 - [挎包](Satchel.md)  
-- [挎包](SatchelHunter.md)  
+- [挎包(猎人专有)](SatchelHunter.md)  

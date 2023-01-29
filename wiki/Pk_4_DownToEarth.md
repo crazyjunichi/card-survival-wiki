@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  [精神失常](MindState.md)-1000<br>[世界观](Structure.md)加成+10<br>[狂躁](Mania.md)加成-10<br>[失实症](Derealization.md)加成-10  
+效果  |    

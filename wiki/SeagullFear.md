@@ -1,6 +1,7 @@
 # 海鸥之惧  
-变化范围: 0 ~ 10000  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 1500   
+#### ** 变化范围: ** 0 ~ 10000  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -14,7 +15,10 @@
 ----  |  ----  |  ----  
 [稻草人](Scarecrow.md)  |  被动  |  3000  
 [忠犬朋友](DogFriend.md)  |  被动  |  1000  
-[(事件)拿下了！](Event_SeagullFightSuccess.md)  |  继续  |  250  
-[(事件)它逃跑了！](Event_SeagullFightFailure.md)  |  继续  |  -50 ~ 50  
-[(事件)一只海鸥！](Event_SeagullRaid.md)  |  不管它  |  -100  
-[(事件)一只海鸥！](Event_SeagullRaidCrop.md)  |  不管它  |  -100  
+[拿下了！(事件)](Event_SeagullFightSuccess.md)  |  继续  |  250  
+[诱捕笼](CageTrapPlaced.md)  |  陷阱触发了！  |  100  
+[落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  100  
+[套索陷阱](SnareTrap.md)  |  捕捉猎物  |  100  
+[它逃跑了！(事件)](Event_SeagullFightFailure.md)  |  继续  |  -50 ~ 50  
+[一只海鸥！(事件)](Event_SeagullRaid.md)  |  不管它  |  -100  
+[一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  不管它  |  -100  

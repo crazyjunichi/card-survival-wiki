@@ -7,6 +7,14 @@
  ----  |  ----:   
  **标签：**	[“油”](tag_Oil.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[香茅油混合物](LQ_OilCitronellaMix.md) , [营火](Campfire.md)  |  熬制香茅精油  
+[香茅油混合物](LQ_OilCitronellaMix.md) , [粘土火盆](ClayFirePit.md)  |  熬制香茅精油  
+[香茅油混合物](LQ_OilCitronellaMix.md) , [火堆](Fire.md)  |  熬制香茅精油  
+[香茅油混合物](LQ_OilCitronellaMix.md) , [瓦斯炉(开)](GasCookerOn.md)  |  熬制香茅精油  
+[香茅油混合物](LQ_OilCitronellaMix.md) , [火炉](Stove.md)  |  熬制香茅精油  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -31,7 +39,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2880<br>最大：2880  |  每15分钟-0.5<br>最多需要：60天  |  ** 到达0时： **  
+耐久  |  初始：2880<br>最大：2880  |  每15分钟-0.5<br>最多需要：60天  |  ** 到达0时： **<br>  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

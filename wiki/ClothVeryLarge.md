@@ -5,7 +5,7 @@
   
   超大块布  |   图片   
  ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/ClothVeryLarge.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/ClothVeryLarge.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -13,10 +13,11 @@
 [吊床](Hammock.md)  |  拆解  
 [织布机](Loom.md) , [大块的布](ClothLarge.md)  |  扩大布匹  
 [防蜂服](BeeSuit.md)  |  拆解  
+[防蜂服](BeeSuit.md)  |  转化  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [大块的布](ClothLarge.md)<br>** Small Cloth **<br>  [布片](ClothSmall.md)(+1)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [大块的布](ClothLarge.md)<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+1)<br>  |    
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [防蜂服(蓝图)](Bp_BeeSuit.md)  

@@ -9,3 +9,4 @@
 额外卡牌  |  [弓(蓝图)](Bp_Bow.md)<br>[箭矢(蓝图)](Bp_Arrow.md)  
 初始状态  |  [箭术(技能)](Skill_Archery.md)+75  
 被动状态  |  无  
+效果  |    

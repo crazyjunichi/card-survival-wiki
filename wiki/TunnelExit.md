@@ -12,4 +12,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开<br>  |  -  |    |  ** Rocks **<br>  [东部高地(环境)](Env_HighlandsEastern.md)(+1)<br>基础权重：1<br>  |    
+离开<br>  |  -  |    |  ** 获得： **<br>** [Rocks] **<br>  [东部高地(环境)](Env_HighlandsEastern.md)(+1)<br>基础权重：1<br>  |    

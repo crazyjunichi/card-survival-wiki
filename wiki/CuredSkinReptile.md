@@ -5,8 +5,12 @@
   
   鞣制巨蜥皮  |   图片   
  ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/ReptileHideCured.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/ReptileHideCured.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[刮净的蜥蜴皮](SkinFleshedReptile.md)  |  皮鞣制好了！  
 ## 可用于蓝图  
 - [地窖(蓝图)](Bp_Cellar.md)  
 - [鼓(蓝图)](Bp_Drum.md)  

@@ -12,16 +12,17 @@
 ----  |  ----  
 [座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
 [座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
+[椰子凉鞋](CoconutSandals.md)  |  转化  
 [椰子皮](CoconutHusk.md)  |  提取纤维  
 [蛇草](SnakeGrass.md)  |  提取纤维  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[手钻](HandDrill.md)  |  钻木取火  |  30分  |    |  ** 自身: **<br>→ [火种](TinderLit.md)<br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+40  
-[弓钻](BowDrill.md)  |  钻木取火  |  15分  |    |  ** 自身: **<br>→ [火种](TinderLit.md)<br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+10  
-[火把(开)](TorchOn.md)  |  点燃火绒  |  -  |    |  ** 自身: **<br>→ [火种](TinderLit.md)  |  [情绪](Morale.md)+1  
-[信号镜](SignalingMirror.md)  |  点燃火绒  |  45分  |  [降水值](RainValue.md): 0-0<br>[阳光强度](SunStrength.md): 1-6  |  ** 自身: **<br>→ [火种](TinderLit.md)<br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1  
-[纤维](Fibers.md)  |  缠起来  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [细线](CordFiber.md)<br>** 使用物: **<br>消失<br>可用次数  -1  |  [纺织(技能)](Skill_Tailoring.md)+0.5<br>[压力](Stress.md)-10  
+[手钻](HandDrill.md)  |  钻木取火<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身: **<br>→ [火种](TinderLit.md)<br><br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+40  
+[弓钻](BowDrill.md)  |  钻木取火<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>→ [火种](TinderLit.md)<br><br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1<br>[手掌损伤](HandDamage.md)+10  
+[火把(开)](TorchOn.md)  |  点燃火绒<br>  |  -  |    |  ** 自身: **<br>→ [火种](TinderLit.md)  |  [情绪](Morale.md)+1  
+[信号镜](SignalingMirror.md)  |  点燃火绒<br>  |  45分  |  [降水值](RainValue.md): 0-0<br>[阳光强度](SunStrength.md): 1-6  |  ** 自身: **<br>→ [火种](TinderLit.md)<br><br>** 使用物: **<br>可用次数  -1  |  [情绪](Morale.md)+1  
+[纤维](Fibers.md)  |  缠起来<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [细线](CordFiber.md)<br><br>** 使用物: **<br>消失<br>可用次数  -1  |  [纺织(技能)](Skill_Tailoring.md)+0.5<br>[压力](Stress.md)-10  
 ## 可拖至  
 [堆肥箱](CompostBin.md), [泥堆](MudPile.md), [粘土](Clay.md), [纤维](Fibers.md), [熏蜂器(关)](BeeSmokerOff.md), [手钻](FirePlow.md), [纺锤](Spindle.md)  
 ## 可用于蓝图  

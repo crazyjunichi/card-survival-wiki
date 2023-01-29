@@ -14,10 +14,11 @@
 [猕猴朋友](MacaqueFriend.md)  |  抚摸  
 [猕猴朋友](MacaqueFriend.md) , [鱼片](FishSlices.md)  |  喂食  
 [猕猴朋友](MacaqueFriend.md) , [“喂/添加”](tag_Feed.md)  |  喂食  
+[猕猴朋友](MacaqueFriend.md)  |  转化  
 [受伤的猕猴](MacaqueWounded.md)  |  抚摸  
 [受伤的猕猴](MacaqueWounded.md) , [鱼片](FishSlices.md)  |  喂食  
 [受伤的猕猴](MacaqueWounded.md) , [“喂/添加”](tag_Feed.md)  |  喂食  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  15分  |    |  消失<br>** Bite **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>  |  [情绪](Morale.md)-15  
+继续<br>  |  15分  |    |  消失<br><br>** 获得： **<br>** [Bite] **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>  |  [情绪](Morale.md)-15  

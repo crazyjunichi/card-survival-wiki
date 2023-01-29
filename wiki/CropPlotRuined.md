@@ -5,8 +5,33 @@
   
   毁坏的田地  |   图片   
  ----  |  ----:   
- **标签：**	[“农作物”](tag_Crop.md)  |  <img decoding="async" src="Sprite/CropPlotRuined.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**标签：**	[“农作物”](tag_Crop.md)  |  <img decoding="async" src="Sprite/CropPlotRuined.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[杏仁树田](CropPlotAlmondTree.md)  |  作物已死亡！  
+[芦荟田](CropPlotAloeVera.md)  |  作物已死亡！  
+[香蕉树田](CropPlotBananaTree.md)  |  作物已死亡！  
+[辣椒田](CropPlotChilies.md)  |  作物已死亡！  
+[月季田](CropPlotChinaRose.md)  |  作物已死亡！  
+[金鸡纳树田](CropPlotCinchonaTree.md)  |  作物已死亡！  
+[咖啡田](CropPlotCoffee.md)  |  作物已死亡！  
+[姜田](CropPlotGinger.md)  |  作物已死亡！  
+[茉莉花田](CropPlotJasmine.md)  |  作物已死亡！  
+[卡瓦胡椒田](CropPlotKava.md)  |  作物已死亡！  
+[柠檬草田](CropPlotLemonGrass.md)  |  作物已死亡！  
+[芒果树田](CropPlotMangoTree.md)  |  作物已死亡！  
+[水椰树田](CropPlotNipaPalm.md)  |  作物已死亡！  
+[棕榈丛田](CropPlotPalmBush.md)  |  作物已死亡！  
+[椰子树田](CropPlotPalmTree.md)  |  作物已死亡！  
+[稻田](CropPlotRice.md)  |  作物已死亡！  
+[西米树田](CropPlotSagoPalm.md)  |  作物已死亡！  
+[蛇草田](CropPlotSnakeGrass.md)  |  作物已死亡！  
+[蜘蛛兰田](CropPlotSpiderLily.md)  |  作物已死亡！  
+[大叶仙茅田](CropPlotWeevilLily.md)  |  作物已死亡！  
+[野枣田](CropPlotWildJujube.md)  |  作物已死亡！  
+[参薯田](CropPlotYam.md)  |  作物已死亡！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -14,16 +39,16 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子水](LQ_CoconutWater.md)  |  浇水  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br>** 使用物: **<br>含水量  -300  |    
-[“肥料”](tag_Fertilizer.md)  |  施肥  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br>** 使用物: **<br>消失<br>可用次数  -1  |    
-[“低效肥料”](tag_FertilizerWeak.md)  |  施肥  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[椰子水](LQ_CoconutWater.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>含水量  -300  |    
+[“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 可拖至  
 [硫磺农药](LQ_PesticideBrimstone.md), [辣椒农药](LQ_PesticideChilli.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
-水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [未浇灌的农田](CropPlotDry.md)  
+水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [未浇灌的农田](CropPlotDry.md)  
 农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：100  |  每15分钟-1<br>最多需要：1天1小时  |    

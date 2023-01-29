@@ -5,7 +5,7 @@
   
   蝙蝠洞  |   图片   
  ----  |  ----:   
- **环境：**[丛林高地](JungleHighlands.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/BatCave.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[丛林高地(区域)](JungleHighlands.md)  |  <img decoding="async" src="Sprite/BatCave.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** Exit **<br>  [蝙蝠洞(环境)](Env_CaveBats.md)(+1)<br>  [离开](CaveBatsExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [蝙蝠洞(环境)](Env_CaveBats.md)(+1)<br>  [离开](CaveBatsExit.md)(+1)<br>基础权重：1<br>  |    

@@ -5,9 +5,23 @@
   
   小雨  |   图片   
  ----  |  ----:   
- **标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+26<br>[降水值](RainValue.md)+3<br>[阳光强度](SunStrength.md)+2<br>[雨水计数器](RainCounter.md)加成-6～-3<br>[光亮](Light.md)-5<br>[蚊虫数量](BugPopulation.md)-3<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+26<br>[降水值](RainValue.md)+3<br>[阳光强度](SunStrength.md)+2<br>[雨水计数器](RainCounter.md)加成-6～-3<br>[光亮](Light.md)-5<br>[蚊虫数量](BugPopulation.md)-3  |  <img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[风向非常有利](OpenSea_VeryFavourable.md)  |    
+[风向非常不利](OpenSea_VeryUnFavourable.md)  |    
+[阴天](TropicalIsland_Cloudy.md)  |  转化  
+[大雨](TropicalIsland_HeavyRain.md)  |  转化  
+[小雨](TropicalIsland_LightRain.md)  |  转化  
+[暴风雨](TropicalIsland_Storm.md)  |  转化  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>[阴天](TropicalIsland_Cloudy.md)+1 <br>[小雨](TropicalIsland_LightRain.md)+1 <br>[大雨](TropicalIsland_HeavyRain.md)+1 <br>[晴朗](TropicalIsland_Clear.md)+1   
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0～-100<br>- [季节](Seasons.md)为2881～5760时权重0<br>- [季节](Seasons.md)为5761～8640时权重+50<br><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：20<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+100<br>- [季节](Seasons.md)为5761～8640时权重-125<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Heavy Rain] **<br>  [大雨](TropicalIsland_HeavyRain.md)(+1)<br>基础权重：20<br>- [雨水计数器](RainCounter.md)为500～700时权重0～+300<br>- [季节](Seasons.md)为2881～5760时权重+150<br>- [季节](Seasons.md)为5761～8640时权重-275<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Clear] **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0～-200<br>- [季节](Seasons.md)为2881～5760时权重+200<br>- [季节](Seasons.md)为5761～8640时权重+100<br>  
+## 触发器  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+  |  [航行](Sailed.md): 1-1  |  → [后有风暴](OpenSea_StormBehind.md)  
+  |  [航行](Sailed.md): 1-1  |  → [后有风暴](OpenSea_StormBehind.md)  

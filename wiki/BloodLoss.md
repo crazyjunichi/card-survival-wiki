@@ -1,8 +1,9 @@
 # 失血  
 > 你的身体需要维持一定的血压。有些类型的流血伤口会降低你的血压，直到死亡。<br><br>如果你发现自己在流血，你应该优先在伤口上佩戴止血带以止血，然后在止血完成替换为敷料。<br>如果你不再失血，你的血压会自行恢复，并在这个过程中消耗额外的营养。  
   
-变化范围: 0 ~ 20  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 20  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,7 +23,6 @@
 [已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  3  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  3  
 [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  3  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  3  
 [左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  3  
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  3  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  3  
@@ -40,32 +40,13 @@
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  0.5  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  0.5  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  -3  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  -3  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  -3  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  -3  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  -3  
 [已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  -3  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -3  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -3  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -3  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  -3  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  -3  
 [已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  条件被动  |  -3  
 [左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -3  
-[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -3  
-[左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -3  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  -3  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  -3  
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  -3  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -3  
-[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -3  
-[右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -3  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  -3  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  -3  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  -3  
-[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -3  
-[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -3  
-[鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -3  
 [鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -3  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  -6  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -6  

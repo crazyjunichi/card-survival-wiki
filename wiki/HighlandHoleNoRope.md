@@ -3,13 +3,13 @@
   
   坑洞  |   图片   
  ----  |  ----:   
- **环境：**[西部高地](HighlandsWestern.md)<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[西部高地(区域)](HighlandsWestern.md)  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[绳子](Rope.md)  |  系上绳子  |  15分  |    |  ** 自身: **<br>进度 + 1<br>** 使用物: **<br>消失  |    
+[绳子](Rope.md)  |  系上绳子<br>  |  15分  |    |  ** 自身: **<br>进度 + 1<br><br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br>→ [坑洞](HighlandHoleEntrance.md)  
+进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>→ [坑洞](HighlandHoleEntrance.md)  

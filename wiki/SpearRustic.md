@@ -10,6 +10,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[营火](Campfire.md) , [长木棍](StickLong.md)  |  制作简易长矛  
+[粘土火盆](ClayFirePit.md) , [长木棍](StickLong.md)  |  制作简易长矛  
+[火堆](Fire.md) , [长木棍](StickLong.md)  |  制作简易长矛  
+[烟熏炉](Smoker.md) , [长木棍](StickLong.md)  |  制作简易长矛  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [长木棍](StickLong.md)  |  制作简易长矛  
 [简易长矛(蓝图)](Bp_RusticSpear.md)  |  蓝图制造  
 [长木棍](StickLong.md) , [“切割工具”](tag_Cutter.md)  |  削成简易长矛  
 ## 动作  
@@ -21,4 +26,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br><br>→ [小树枝](Sticks.md)  

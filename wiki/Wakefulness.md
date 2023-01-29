@@ -1,8 +1,9 @@
 # 清醒度  
 >   
   
-变化范围: 0 ~ 192  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 188   
+#### ** 变化范围: ** 0 ~ 192  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -14,9 +15,9 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)Event_WestonSpecial2e_CardName](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  96  
-[(事件)你昏过去了](Event_FaintDizzy.md)  |  继续  |  40  
-[(事件)你昏过去了](Event_FaintExhaustion.md)  |  继续  |  20  
+[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  96  
+[你昏过去了(事件)](Event_FaintDizzy.md)  |  继续  |  40  
+[你昏过去了(事件)](Event_FaintExhaustion.md)  |  继续  |  20  
 [椅子](ChairPlaced.md)  |  休息1小时  |  16  
 [座椅](SeatAttached.md)  |  休息1小时  |  16  
 [座椅](SeatPlaced.md)  |  休息1小时  |  16  
@@ -38,8 +39,7 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  6  
 [帐篷](TentDeployed.md)  |  小憩  |  6  
 [帐篷](TentDeployed.md)  |  睡觉  |  6  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  6  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  6  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  6  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  6  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  6  
 [姜茶](LQ_GingerTea.md)  |  饮用  |  5  

@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)韦斯顿](Event_WestonIslandEscape1.md)  |  是啊……  
+[韦斯顿(IslandEscape1)(事件)](Event_WestonIslandEscape1.md)  |  是啊……  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

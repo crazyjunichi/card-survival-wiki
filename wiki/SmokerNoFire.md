@@ -3,7 +3,7 @@
   
   烟熏炉  |   图片   
  ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Smoker.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **  |  <img decoding="async" src="Sprite/Smoker.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>**  **<br>  [烟熏炉框架](SmokerFrame.md)(+1)<br>基础权重：1<br>  |    
+移除布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>  [烟熏炉框架](SmokerFrame.md)(+1)<br>基础权重：1<br>  |    

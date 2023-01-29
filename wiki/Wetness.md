@@ -1,8 +1,9 @@
 # 湿度  
 >   
   
-变化范围: 0 ~ 100  
-基础变化率: -20 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 100  
+#### ** 基础变化率: ** -20 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -14,10 +15,9 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[潮汐洞](CaveTidal.md)  |  条件被动  |  加成+50  
+[潮汐洞(区域)](CaveTidal.md)  |  条件被动  |  加成+50  
 [火炉](Stove.md)  |  被动  |  加成-1  
 [烟熏炉](Smoker.md)  |  被动  |  加成-1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  加成-1  
 [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  加成-1  
 [蒸馏器(开)](AlembicOn.md)  |  被动  |  加成-2  
 [营火](Campfire.md)  |  被动  |  加成-2  
@@ -27,7 +27,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)我游不动了……](Event_SwimFail.md)  |  游回去  |  200  
+[我游不动了……(事件)](Event_SwimFail.md)  |  游回去  |  200  
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  200  
 [荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  200  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  200  
@@ -36,8 +36,8 @@
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  200  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  200  
 [水下出口](UnderwaterExit.md)  |  离开  |  200  
-[(事件)风太大了！](Event_Flood.md)  |  躲避一会  |  100  
-[(事件)风太大了！](Event_Storm.md)  |  躲避狂风暴雨  |  100  
+[风太大了！(事件)](Event_Flood.md)  |  躲避一会  |  100  
+[风太大了！(事件)](Event_Storm.md)  |  躲避狂风暴雨  |  100  
 [潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  100  
 [被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  洗个澡  |  100  
 [水](LQ_Water.md)  |  洗个澡  |  100  

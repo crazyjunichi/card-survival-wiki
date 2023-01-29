@@ -10,8 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[湿地丛林](Wetlands.md)  |  探索  
+[杂菌菌床](MushroomBedAssorted.md)  |  转化  
+[蝙蝠群(蝙蝠洞)](BatColony.md)  |  转化  
+[潮湿洞穴(区域)](DampChamber.md)  |  转化  
+[幽暗洞穴(区域)](DarkCave.md)  |  转化  
+[湿地丛林(区域)](Wetlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |  [光亮](Light.md): 5-100  |  消失<br>**  **<br>  [杂菌](AssortedMushrooms.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>  |  15分  |  [光亮](Light.md): 5-100  |  消失<br><br>** 获得： **<br>  [杂菌](AssortedMushrooms.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+1  

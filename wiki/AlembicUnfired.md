@@ -5,7 +5,7 @@
   
   未烧制的蒸馏器  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**标签：**	[“粘土”](tag_Clay.md)  |  <img decoding="async" src="Sprite/Alembic.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**500<br><br>**装备时减重：**1000<br><br>**标签：**	[“粘土”](tag_Clay.md)  |  <img decoding="async" src="Sprite/Alembic.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

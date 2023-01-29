@@ -5,22 +5,32 @@
   
   布  |   图片   
  ----  |  ----:   
- **重量：**50  |  <img decoding="async" src="Sprite/Cloth.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**50  |  <img decoding="async" src="Sprite/Cloth.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[织布机（空）(空)](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
 [织布机](Loom.md) , [布片](ClothSmall.md)  |  扩大布匹  
 [大块的布](ClothLarge.md)  |  撕开布料  
 [夏威夷衬衫](HawaiianShirt.md)  |  撕开布料  
+[夏威夷衬衫](HawaiianShirt.md)  |  转化  
 [卫衣](HoodieRetromation.md)  |  撕开布料  
+[卫衣](HoodieRetromation.md)  |  转化  
+[临时防毒面具](MaskMakeshift.md)  |  转化  
 [军裤](MilitaryPants.md)  |  撕开布料  
+[军裤](MilitaryPants.md)  |  转化  
 [布制裤子](PantsCloth.md)  |  撕开布料  
 [短裤](Shorts.md)  |  撕开布料  
+[短裤](Shorts.md)  |  转化  
 [T恤](T-Shirt.md)  |  撕开布料  
+[T恤](T-Shirt.md)  |  转化  
 [止血带](Tourniquet.md)  |  拆解  
+[止血带](Tourniquet.md)  |  转化  
 [内裤](Underwear.md)  |  撕开布料  
+[内裤](Underwear.md)  |  转化  
 [临时绷带](ImprovisedDressing.md)  |  还原成布匹  
+[临时绷带](ImprovisedDressing.md)  |  转化  
 [骷髅(坑洞)](Skeleton.md)  |  采集  
 [树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
 [树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
@@ -30,14 +40,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  消失<br>** Small Cloth **<br>  [布片](ClothSmall.md)(+2)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  消失<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+2)<br>  |    
 制作绷带<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时绷带](ImprovisedDressing.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 制作包脚布<br>[手部动作](HandAction.md)  |  15分  |    |  → [包脚布](FootWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 制作绑手带<br>[手部动作](HandAction.md)  |  30分  |    |  → [绑手带](HandWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[小树枝](Sticks.md)  |  制作止血带  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [止血带](Tourniquet.md)<br>** 使用物: **<br>消失  |    
+[小树枝](Sticks.md)  |  制作止血带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [止血带](Tourniquet.md)<br><br>** 使用物: **<br>消失  |    
 ## 可拖至  
 [织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md), [头部（内层）(蓝图)](InnerHeadBlueprint.md), [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md), [左手(蓝图)](LeftHandBlueprint.md), [右手(蓝图)](RightHandBlueprint.md)  
 ## 可用于蓝图  

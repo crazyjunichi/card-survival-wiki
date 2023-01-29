@@ -5,10 +5,10 @@
   
   落石陷阱  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“诱饵”](tag_Bait.md) , [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/DeadfallTrapTriggered.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**1<br><br>**过滤器：**[“诱饵”](tag_Bait.md) , [“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/DeadfallTrapTriggered.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 重置陷阱<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [落石陷阱](DeadfallTrap.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
-拆除陷阱<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>** Materials **<br>  [小树枝](Sticks.md)(+1)<br>  [大石块](StoneHeavy.md)(+1)<br>基础权重：1<br>  |    
+拆除陷阱<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [Materials] **<br>  [小树枝](Sticks.md)(+1)<br>  [大石块](StoneHeavy.md)(+1)<br>基础权重：1<br>  |    

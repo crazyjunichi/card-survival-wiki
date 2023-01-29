@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)船舶救援](Event_ShipRescue.md)  |  继续  
-[(事件)有船来了！](Event_ShipRescueDistance.md)  |  继续  
+[船舶救援(事件)](Event_ShipRescue.md)  |  继续  
+[有船来了！(事件)](Event_ShipRescueDistance.md)  |  继续  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

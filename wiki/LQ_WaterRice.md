@@ -7,6 +7,19 @@
  ----  |  ----:   
  **标签：**	[“灌溉用水”](tag_WaterFresh.md), [“水”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[浸泡的米](LQ_SoakedRice.md) , [营火](Campfire.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [营火](Campfire.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [粘土火盆](ClayFirePit.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [粘土火盆](ClayFirePit.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [火堆](Fire.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [火堆](Fire.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [瓦斯炉(开)](GasCookerOn.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
+[浸泡的米](LQ_SoakedRice.md) , [火炉](Stove.md)  |  煮米饭  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -20,7 +33,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [不安全的水](LQ_WaterUnsafe.md)  
+耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [不安全的水](LQ_WaterUnsafe.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

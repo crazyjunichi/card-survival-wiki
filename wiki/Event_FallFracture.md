@@ -16,15 +16,15 @@
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
-[椰子树](PalmTreeNew.md)  |  爬树  
+[椰子树(新)](PalmTreeNew.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  
-[椰子树](PalmTreeOld.md)  |  爬树  
+[椰子树(旧)](PalmTreeOld.md)  |  爬树  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错<br>  |  -  |    |  消失<br>** Arm R **<br>  [右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：2<br><br>** Arm L **<br>  [左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：2<br><br>** Leg R **<br>  [右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>** Leg L **<br>  [左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  
+真他妈不错<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Arm R] **<br>  [右臂骨折](W_ArmFractureR.md)(+1)<br>基础权重：2<br><br>** [Arm L] **<br>  [左臂骨折](W_ArmFractureL.md)(+1)<br>基础权重：2<br><br>** [Leg R] **<br>  [右腿骨折](W_LegFractureR.md)(+1)<br>基础权重：1<br><br>** [Leg L] **<br>  [左腿骨折](W_LegFractureL.md)(+1)<br>基础权重：1<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  

@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)飞机残骸](Event_PlaneCrashFound.md)  |  继续  
+[飞机残骸(事件)](Event_PlaneCrashFound.md)  |  继续  
 [离开(坠毁的飞机)](PlaneCrashExit.md)  |  离开  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** Exit **<br>  [坠毁的飞机(环境)](Env_CrashedPlane.md)(+1)<br>  [离开(坠毁的飞机)](PlaneCrashExit.md)(+1)<br>  [飞机残骸](PlaneCrash.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [坠毁的飞机(环境)](Env_CrashedPlane.md)(+1)<br>  [离开(坠毁的飞机)](PlaneCrashExit.md)(+1)<br>  [飞机残骸(区域)](PlaneCrash.md)(+1)<br>基础权重：1<br>  |    

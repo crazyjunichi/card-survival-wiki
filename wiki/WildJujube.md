@@ -10,12 +10,14 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[东部草原](GrasslandsE.md)  |  探索  
+[野枣田](CropPlotWildJujube.md)  |  转化  
+[东部草原(区域)](GrasslandsE.md)  |  探索  
+[摘光的野枣从](WildJujubeCleared.md)  |  转化  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  -  |    |  → [摘光的野枣从](WildJujubeCleared.md)<br>** 1 **<br>  [野枣](JujubeFruits.md)(+3～+6)<br>  |    
+采集<br>  |  -  |    |  → [摘光的野枣从](WildJujubeCleared.md)<br><br>** 获得： **<br>** [1] **<br>  [野枣](JujubeFruits.md)(+3～+6)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍倒  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>** Sticks **<br>  [小树枝](Sticks.md)(+4～+8)<br>  [树叶](LeavesFresh.md)(+6～+18)<br>  [野枣](JujubeFruits.md)(+3～+6)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [小树枝](Sticks.md)(+4～+8)<br>  [树叶](LeavesFresh.md)(+6～+18)<br>  [野枣](JujubeFruits.md)(+3～+6)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  

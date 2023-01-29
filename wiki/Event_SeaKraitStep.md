@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[红树林](Mangroves.md)  |  探索  
+[红树林(区域)](Mangroves.md)  |  探索  
 [海(海湾)](Sea_Bay.md) , [“一级矛”](tag_Spear.md)  |  叉鱼  
 [海(红树林)](Sea_Mangroves.md) , [“一级矛”](tag_Spear.md)  |  叉鱼  
 ## 动作  

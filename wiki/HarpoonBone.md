@@ -5,7 +5,7 @@
   
   鱼镖  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**100  |  <img decoding="async" src="Sprite/Harpoon.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**250<br><br>**装备时减重：**-200<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**100  |  <img decoding="async" src="Sprite/Harpoon.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -20,4 +20,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：100  |  -  |  ** 到达0时：鱼镖坏了 **<br>[小树枝](Sticks.md)+1 <br>[骨头碎片](BoneSplinters.md)+1 <br>[绳子](Rope.md)+1 <br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：100  |  -  |  ** 到达0时：鱼镖坏了 **<br>** [Broken Stuff] **<br>  [小树枝](Sticks.md)(+1)<br>  [骨头碎片](BoneSplinters.md)(+1)<br>  [绳子](Rope.md)(+1)<br><br>→ [小树枝](Sticks.md)  

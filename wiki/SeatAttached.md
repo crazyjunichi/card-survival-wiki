@@ -3,7 +3,7 @@
   
   座椅  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/SeatAttached.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 效果: **<br>[舒适度](Comfort.md)+75<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/SeatAttached.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

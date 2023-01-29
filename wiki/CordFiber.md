@@ -11,9 +11,12 @@
 来源  |  操作  
 ----  |  ----  
 [睡袋](BedRoll.md)  |  拆解  
+[睡袋](BedRoll.md)  |  转化  
 [简易床](BedRustic.md)  |  拆解  
 [窝棚](Shelter.md)  |  拆除  
+[窝棚](Shelter.md)  |  转化  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  转化  
 [猪食槽](BoarFeeder.md)  |  拆解  
 [猪食槽(空)](BoarFeederEmpty.md)  |  拆解  
 [诱捕笼](CageTrap.md)  |  拆除  
@@ -30,31 +33,60 @@
 [灰山鹑喂食器](PartridgeFeeder.md)  |  拆解  
 [灰山鹑喂食器(空)](PartridgeFeederEmpty.md)  |  拆解  
 [稻草人](Scarecrow.md)  |  拆除  
+[稻草人](Scarecrow.md)  |  转化  
 [套索陷阱](SnareTrap.md)  |  拆除陷阱  
 [套索陷阱](SnareTrapTriggered.md)  |  拆除陷阱  
 [针线(骨针)](BoneNeedleThreaded.md)  |  取下细线  
 [简易的弓](BowRustic.md)  |  拆解  
+[简易的弓](BowRustic.md)  |  转化  
 [防蜂服](BeeSuit.md)  |  拆解  
+[防蜂服](BeeSuit.md)  |  转化  
+[椰子凉鞋](CoconutSandals.md)  |  转化  
 [鲜花项链](FlowerNecklace.md)  |  拆解  
+[鲜花项链](FlowerNecklace.md)  |  转化  
 [草裙](LeafSKirt.md)  |  拆解  
+[草裙](LeafSKirt.md)  |  转化  
 [皮裤](LeatherPants.md)  |  拆解  
+[皮裤](LeatherPants.md)  |  转化  
 [皮革鞋子](LeatherShoes.md)  |  拆解  
+[皮革鞋子](LeatherShoes.md)  |  转化  
 [珍珠项链](PearlNecklace.md)  |  拆解  
+[珍珠项链](PearlNecklace.md)  |  转化  
 [雨衣](Raincoat.md)  |  拆解  
+[雨衣](Raincoat.md)  |  转化  
+[海鸥护符](SeagullCharm.md)  |  转化  
 [贝壳项链](SeashellNecklace.md)  |  拆解  
+[贝壳项链](SeashellNecklace.md)  |  转化  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
+[衬衫](ShirtFiber.md)  |  转化  
+[夹板](Splint.md)  |  转化  
 [蓑衣](StrawCape.md)  |  拆解  
+[蓑衣](StrawCape.md)  |  转化  
+[简易止血带](TourniquetRustic.md)  |  转化  
+[风箱](Bellows.md)  |  转化  
 [针线(铜针)](CopperNeedleThreaded.md)  |  取下细线  
 [纤维](Fibers.md) , [纤维](Fibers.md)  |  缠起来  
 [挎包](Satchel.md)  |  拆解  
-[挎包](SatchelHunter.md)  |  拆解  
+[挎包(猎人专有)](SatchelHunter.md)  |  拆解  
 [补给箱](SupplyChestRaft.md)  |  拆解  
 [小拉车](Travois.md)  |  Dismantle  
 [铜斧](AxeCopper.md)  |  拆解  
+[铜斧](AxeCopper.md)  |  转化  
+[燧石斧](AxeFlint.md)  |  转化  
 [废金属斧](AxeScrap.md)  |  拆解  
+[废金属斧](AxeScrap.md)  |  转化  
 [扫帚](Broom.md)  |  拆解  
+[钓鱼线](FishingLine.md)  |  转化  
+[钓鱼线（已添加诱饵）](FishingLineBait.md)  |  转化  
+[钓鱼线](FishingLineRustic.md)  |  转化  
+[钓鱼线（已添加诱饵）](FishingLineRusticBait.md)  |  转化  
+[钓鱼竿](FishingRod.md)  |  转化  
+[钓鱼竿（已添加诱饵）](FishingRodBait.md)  |  转化  
 [铜铲](ShovelCopper.md)  |  拆解  
+[铜铲](ShovelCopper.md)  |  转化  
 [废金属铲](ShovelScrap.md)  |  拆解  
+[废金属铲](ShovelScrap.md)  |  转化  
+[木铲](ShovelWooden.md)  |  转化  
 [缠好的纺锤](SpindleFiber.md)  |  纺细线  
 [针线(木针)](WoodenNeedleThreaded.md)  |  取下细线  
 [线团](YarnFiber.md)  |  拆成细线  
@@ -69,7 +101,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  制作线团  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[细线](CordFiber.md)  |  制作线团<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br><br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖至  
 [捕捞拖网](RaftFishTrap.md), [稻草人](Scarecrow.md), [骨针](BoneNeedle.md), [铜针](CopperNeedle.md), [细线](CordFiber.md), [补给箱](SupplyChestRaft.md), [小树枝](Sticks.md), [木针](WoodenNeedle.md), [损坏的帆](SailBroken_Raft.md), [收起的帆](SailDown_Raft.md)  
 ## 可用于蓝图  

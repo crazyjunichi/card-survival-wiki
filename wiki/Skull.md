@@ -5,7 +5,7 @@
   
   头骨  |   图片   
  ----  |  ----:   
- **重量：**150  |  <img decoding="async" src="Sprite/Skull.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**150  |  <img decoding="async" src="Sprite/Skull.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

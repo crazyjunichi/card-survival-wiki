@@ -5,26 +5,26 @@
   
   左臂骨折  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左臂骨折”](eTag_WArmFractureL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/SprainedWrist.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>** 不可删除 **<br><br>**重量：**0<br><br>**标签：**	[“伤口需要夹板”](tag_WoundSplint.md)<br><br>**装备：**[“左臂骨折”](eTag_WArmFractureL.md)<br><br>**槽位：**1<br><br>**可使用次数：**0  |  <img decoding="async" src="Sprite/SprainedWrist.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)野猪伤到了我！](Event_BoarWoundMajor.md)  |  真他妈不错  
-[(事件)野猪伤到了我！](Event_BoarWoundMinor.md)  |  真不错  
-[(事件)坠落！](Event_FallFracture.md)  |  真他妈不错  
+[野猪伤到了我！(事件)](Event_BoarWoundMajor.md)  |  真他妈不错  
+[野猪伤到了我！(事件)](Event_BoarWoundMinor.md)  |  真不错  
+[坠落！(事件)](Event_FallFracture.md)  |  真他妈不错  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[芦荟膏](AloeVeraGel.md)  |  涂抹  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -350<br>** 使用物: **<br>消失<br>可用次数  -1  |    
+[芦荟膏](AloeVeraGel.md)  |  涂抹<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;"> + 16<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">  -350<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 转化  
-放入  |  动作  |  耗时  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-[夹板](Splint.md)  |  夹板  |  -  |    |    
+放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  |  ----  
+[夹板](Splint.md)  |  夹板  |  -  |    |  耐久  -1<br>可用次数  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1500  |  每15分钟+1<br>最多需要：15天15小时  |  ** 到达上限时：骨折 **<br>→ [轻微撕裂伤](W_MinorLaceration.md)  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1500  |  每15分钟+1<br>最多需要：15天15小时  |  ** 到达上限时：骨折 **<br><br>→ [轻微撕裂伤](W_MinorLaceration.md)  
 <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

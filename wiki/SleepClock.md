@@ -1,6 +1,7 @@
 # 睡眠钟  
-变化范围: 0 ~ 999  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 999  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -27,7 +28,7 @@
 [窝棚](Shelter.md)  |  小憩  |  15  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  15  
 [帐篷](TentDeployed.md)  |  小憩  |  15  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  15  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  15  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  15  
-[(事件)噩梦！](Event_Nightmare.md)  |  试着冷静下来……  |  -999  
-[(事件)一只蜘蛛咬了我！](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -999  
+[噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  -999  
+[一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -999  

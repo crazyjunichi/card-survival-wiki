@@ -8,11 +8,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用长矛攻击！  
-[(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用弓箭攻击！  
-[(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用枪攻击！  
-[(事件)喷毒眼镜蛇！](Event_CobraFight.md)  |  用投石索攻击！  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  用长矛攻击！  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  用弓箭攻击！  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  用枪攻击！  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  用投石索攻击！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>** Bite **<br>  [眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  |  [情绪](Morale.md)-10  
+继续<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Bite] **<br>  [眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  |  [情绪](Morale.md)-10  

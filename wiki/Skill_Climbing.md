@@ -1,8 +1,9 @@
 # 攀爬(技能)  
 > 攀爬是一项很有用的技能，能让你从<b>椰子树</b>上摘椰子，也可以攀爬岛屿上各种<b>悬崖</b>捷径。<br><br>这项技能降低了攀爬时受伤的几率，越熟练，成功率越高。  
   
-变化范围: 0 ~ 150  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 150  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,24 +24,18 @@
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  1  
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  1  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  1  
-[椰子树](PalmTreeNew.md)  |  爬树  |  1  
-[椰子树](PalmTreeNew.md)  |  练习攀爬  |  1  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  1  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  1  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  1  
+[椰子树(新)](PalmTreeNew.md)  |  爬树  |  1  
+[椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  1  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  1  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  1  
-[椰子树](PalmTreeOld.md)  |  爬树  |  1  
-[椰子树](PalmTreeOld.md)  |  练习攀爬  |  1  
+[椰子树(旧)](PalmTreeOld.md)  |  爬树  |  1  
+[椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  1  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  1  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  1  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  1  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  1  
 [椰子树](PalmTree_IH.md)  |  爬树  |  1  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
+[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  1  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  1  
 [竖井](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  0.25  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  0.25  
@@ -51,5 +46,5 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  26 ~ 75  
-[椰子树](PalmTree_Unique.md)  |  爬树摘椰子  |  0 ~ 25  
+[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  26 ~ 75  
+[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  0 ~ 25  

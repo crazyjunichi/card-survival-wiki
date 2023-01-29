@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)老旧的踪迹](Event_BoarTrailOld.md)  |  跟随踪迹  
-[(事件)近期的踪迹](Event_BoarTrailRecent.md)  |  跟随踪迹  
+[老旧的踪迹(事件)](Event_BoarTrailOld.md)  |  跟随踪迹  
+[近期的踪迹(事件)](Event_BoarTrailRecent.md)  |  跟随踪迹  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -4,4 +4,4 @@
 - [铜瓶](CopperBottle.md)  
 - [水袋](Waterskin.md)  
 - [挎包](Satchel.md)  
-- [挎包](SatchelHunter.md)  
+- [挎包(猎人专有)](SatchelHunter.md)  

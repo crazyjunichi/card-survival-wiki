@@ -14,7 +14,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  破坏  |  15分  |    |  ** 自身: **<br>→ [干土堆](DirtPile.md)  |    
+[“锤”](tag_Hammer.md)  |  破坏<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>→ [干土堆](DirtPile.md)  |    
 ## 可用于蓝图  
 - [畜栏(蓝图)](Bp_Enclosure.md)  
 - [熔炉(蓝图)](Bp_Forge.md)  

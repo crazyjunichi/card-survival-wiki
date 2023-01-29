@@ -5,7 +5,7 @@
   
   泥屋扩建  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 70-150<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br>[泥屋(环境)](Env_MudHutRuins.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 70-150<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)<br>[泥屋(损坏)(环境)](Env_MudHutRuins.md)  |  <img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

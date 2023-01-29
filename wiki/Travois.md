@@ -5,7 +5,7 @@
   
   小拉车  |   图片   
  ----  |  ----:   
- **重量：**1500<br><br>**标签：**	[“袋子”](tag_Bag.md), [“大的”](tag_Large.md)<br><br>**容重量：**3000<br><br>**减重量：**-2500  |  <img decoding="async" src="Sprite/Travois.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**重量：**1500<br><br>**标签：**	[“袋子”](tag_Bag.md), [“大的”](tag_Large.md)<br><br>**容量：**3000<br><br>**减重量：**-2500  |  <img decoding="async" src="Sprite/Travois.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Dismantle<br>[手部动作](HandAction.md)  |  30分  |    |  消失<br>使用次数  -1<br>**  **<br>  [长木棍](StickLong.md)(+3～+5)<br>  [细线](CordFiber.md)(+6～+9)<br>  |    
+Dismantle<br>[手部动作](HandAction.md)  |  30分  |    |  消失<br>使用次数  -1<br><br>** 获得： **<br>  [长木棍](StickLong.md)(+3～+5)<br>  [细线](CordFiber.md)(+6～+9)<br>  |    

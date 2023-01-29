@@ -5,7 +5,11 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/GranfatherHealthy.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[祖父](Grandfather.md)  |  祖父的回归  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-好！<br>  |  -  |    |  消失<br>** 1 **<br>  [(事件)祖父康复了！](Event_OutroFarmer2.md)(+1)<br>  |    
+好！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [1] **<br>  [祖父康复了！(事件)](Event_OutroFarmer2.md)(+1)<br>  |    

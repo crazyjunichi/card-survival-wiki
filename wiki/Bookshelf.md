@@ -5,7 +5,7 @@
   
   书架  |   图片   
  ----  |  ----:   
- **标签：**	[“袋子”](tag_Bag.md)<br><br>**容重量：**3000<br><br>**减重量：**-3000<br><br>** 效果: **<br>[舒适度](Comfort.md)+50<br><br>** 可重命名 **  |  <img decoding="async" src="Sprite/ShelvingUnit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 可重命名 **<br><br>** 不可堆叠 **<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**3000<br><br>**减重量：**-3000<br><br>** 效果: **<br>[舒适度](Comfort.md)+50  |  <img decoding="async" src="Sprite/ShelvingUnit.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  2小时  |    |  消失<br>** Dismantle **<br>  [木板](Plank.md)(+7)<br>  |    
+拆解<br>  |  2小时  |    |  消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [木板](Plank.md)(+7)<br>  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

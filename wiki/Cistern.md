@@ -5,7 +5,7 @@
   
   水窖  |   图片   
  ----  |  ----:   
- **标签：**	[“容器（密封）”](tag_ContainerSealed.md)<br><br>**容水量：**24000  |  <img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**标签：**	[“容器（密封）”](tag_ContainerSealed.md)<br><br>**储水量：**24000  |  <img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

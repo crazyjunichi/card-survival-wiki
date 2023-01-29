@@ -5,7 +5,7 @@
   
   落石陷阱  |   图片   
  ----  |  ----:   
- **槽位：**1  |  <img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**1  |  <img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -15,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除陷阱<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br>** Materials **<br>  [小树枝](Sticks.md)(+1)<br>  [大石块](StoneHeavy.md)(+1)<br>基础权重：1<br>  |    
+拆除陷阱<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [Materials] **<br>  [小树枝](Sticks.md)(+1)<br>  [大石块](StoneHeavy.md)(+1)<br>基础权重：1<br>  |    
 ## 转化  
-放入  |  动作  |  耗时  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-[“诱饵”](tag_Bait.md)<br>[“喂/添加”](tag_Feed.md)  |  捕捉猎物  |  18小时45分  |  [落石陷阱](DeadfallTrapTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
+放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  |  ----  
+[“诱饵”](tag_Bait.md)<br>[“喂/添加”](tag_Feed.md)  |  捕捉猎物  |  18小时45分  |    |  ** [Fail] **<br>基础权重：100<br>- [陷阱(技能)](Skill_Trapping.md)为0～150时权重0～-50<br>- [陷阱栅栏](Imp_TrappingFences.md)权重-20<br><br>** [Crab] **<br>  [螃蟹](Crab.md)(+1)<br>[螃蟹种群数量](Pop_Crab.md)-1000<br>基础权重：0<br>- [沙滩(环境)](Env_Beach.md)权重0<br>- [海湾(环境)](Env_Bay.md)权重0<br>- [荒芜沙滩(环境)](Env_DesolateBeach.md)权重0<br>- [岩滩(环境)](Env_Rocks.md)权重0<br>- [鸟岩岛(环境)](Env_BirdRock.md)权重0<br>- [红树林(环境)](Env_Mangroves.md)权重0<br><br>** [Seagull] **<br>  [海鸥尸体](SeagullDead.md)(+1)<br>[海鸥种群数量](Pop_Seagull.md)-1000<br>[海鸥之惧](SeagullFear.md)+100<br>基础权重：0<br>- [沙滩(环境)](Env_Beach.md)权重0<br>- [海湾(环境)](Env_Bay.md)权重0<br>- [鸟岩岛(环境)](Env_BirdRock.md)权重0<br>- [岩滩(环境)](Env_Rocks.md)权重0<br>- [荒芜沙滩(环境)](Env_DesolateBeach.md)权重0<br><br>** [Lizard] **<br>  [蜥蜴](Lizard.md)(+1)<br>[蜥蜴种群数量](Pop_Lizard.md)-1000<br>基础权重：0<br>- [丛林边缘(环境)](Env_Outskirts.md)权重0<br>- [西部高地(环境)](Env_HighlandsWestern.md)权重0<br>- [沙滩(环境)](Env_Beach.md)权重0<br>- [海湾(环境)](Env_Bay.md)权重0<br>- [丛林(环境)](Env_Jungle.md)权重0<br>- [西部草原(环境)](Env_GrasslandsW.md)权重0<br>- [东部草原(环境)](Env_GrasslandsE.md)权重0<br>- [荒芜沙滩(环境)](Env_DesolateBeach.md)权重0<br><br>** [Mudskipper] **<br>  [弹涂鱼](Mudskipper.md)(+1)<br>[弹涂鱼种群数量](Pop_Mudskipper.md)-1000<br>基础权重：0<br>- [红树林(环境)](Env_Mangroves.md)权重0<br><br>** [Mouse] **<br>  [老鼠尸体](Mouse.md)(+1)<br>[老鼠种群数量](Pop_Mouse.md)-1000<br>基础权重：0<br>- [沙滩(环境)](Env_Beach.md)权重0<br>- [海湾(环境)](Env_Bay.md)权重0<br>- [丛林边缘(环境)](Env_Outskirts.md)权重0<br>- [西部草原(环境)](Env_GrasslandsW.md)权重0<br>- [东部草原(环境)](Env_GrasslandsE.md)权重0<br>- [神秘谷(环境)](Env_SecretValley.md)权重0<br>- [西部高地(环境)](Env_HighlandsWestern.md)权重0<br>- [丛林高地(环境)](Env_JungleHighlands.md)权重0<br>- [丛林(环境)](Env_Jungle.md)权重0<br>- [丛林深处(环境)](Env_DeepJungle.md)权重0<br>- [湿地(环境)](Env_Wetlands.md)权重0<br>- [红树林(环境)](Env_Mangroves.md)权重0<br><br>** [Partridge] **<br>  [灰山鹑尸体](PartridgeDead.md)(+1)<br>[灰山鹑种群数量](Pop_Partridge.md)-1000<br>基础权重：0<br>- [丛林(环境)](Env_Jungle.md)权重0<br>- [丛林深处(环境)](Env_DeepJungle.md)权重0<br>- [湿地(环境)](Env_Wetlands.md)权重0<br>- [西部高地(环境)](Env_HighlandsWestern.md)权重0<br>- [丛林高地(环境)](Env_JungleHighlands.md)权重0<br>- [西部草原(环境)](Env_GrasslandsW.md)权重0<br>- [东部草原(环境)](Env_GrasslandsE.md)权重0<br>- [神秘谷(环境)](Env_SecretValley.md)权重0<br><br>** [Cobra] **<br>  [眼镜蛇尸体](CobraDead.md)(+1)<br>[眼镜蛇种群数量](Pop_Cobra.md)-1000<br>基础权重：0<br>- [西部高地(环境)](Env_HighlandsWestern.md)权重0<br>- [东部高地(环境)](Env_HighlandsEastern.md)权重0<br>- [西部草原(环境)](Env_GrasslandsW.md)权重0<br>- [东部草原(环境)](Env_GrasslandsE.md)权重0<br><br><br>→ [落石陷阱](DeadfallTrapTriggered.md)  |  [陷阱(技能)](Skill_Trapping.md)+0.5  

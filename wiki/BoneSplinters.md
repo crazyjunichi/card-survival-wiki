@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [骨头](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
-[骨头](Bones.md) , [“锤”](tag_Hammer.md)  |  打碎  
+[鱼镖](HarpoonBone.md)  |  鱼镖坏了  
 [猕猴窝(丛林高地)](MacaqueDenEntrance.md) , [炸药(开)](DynamiteOn.md)  |  我TM来啦！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -21,4 +21,4 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  研磨  |  1小时  |    |  ** 自身: **<br>→ [骨粉](Bonemeal.md)<br>** 使用物: **<br>可用次数  -1  |    
+[“锤”](tag_Hammer.md)  |  研磨<br>  |  1小时  |    |  ** 自身: **<br>→ [骨粉](Bonemeal.md)<br><br>** 使用物: **<br>可用次数  -1  |    

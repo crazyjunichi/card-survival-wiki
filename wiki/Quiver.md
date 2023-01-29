@@ -5,7 +5,7 @@
   
   箭筒  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**6  |  <img decoding="async" src="Sprite/Quiver.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**重量：**150<br><br>**装备时减重：**-125<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**6  |  <img decoding="async" src="Sprite/Quiver.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

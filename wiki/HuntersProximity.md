@@ -1,8 +1,9 @@
 # 猎手接近  
 > 是偏执妄想，又或是邪灵作祟。这个“存在”会在你<b>精神失常</b>时出现，并且会跟踪你直到你面对并击败祂。<br><br>猎手会不断向你逼近，所以如果你还没有准备好要与祂战斗，可以考虑转移<b>地点</b>，或在岛上移动以与祂保持<b>距离</b>。  
   
-变化范围: -96 ~ 96  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** -288   
+#### ** 变化范围: ** -96 ~ 96  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -15,7 +16,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[丛林(环境)](Env_DeepJungle.md)  |  被动  |  -0.5  
+[丛林深处(环境)](Env_DeepJungle.md)  |  被动  |  -0.5  
 [丛林(环境)](Env_Jungle.md)  |  被动  |  -0.5  
 [红树林(环境)](Env_Mangroves.md)  |  被动  |  -0.5  
 [湿地(环境)](Env_Wetlands.md)  |  被动  |  -0.5  
@@ -67,12 +68,24 @@
 [前往荒芜沙滩](Path_MangrovesToDesolateBeach.md)  |  前往  |  -12  
 [前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  |  -12  
 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  |  前往  |  -12  
+[隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  -24  
+[荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  -24  
+[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  -24  
+[鸟岩岛(隐秘港湾)](Path_CoveToBirdRock.md)  |  游泳  |  -24  
+[鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  -24  
+[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  -24  
+[竖井](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -24  
+[竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -24  
+[前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  -24  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  |  -24  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  |  -24  
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  |  -24  
+[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  |  -24  
+[前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  -24  
+[猎手来了(事件)](Event_HunterFight.md)  |  逃跑  |  -48  
 [前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  -48  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  |  -48  
 [前往丛林高地(湿地丛林)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  -48  
-[(事件)我失败了！](Event_HunterFightBadFailure.md)  |  闭眼  |  -999  
-[(事件)我没能逃掉！](Event_HunterFightFailedRetreat.md)  |  闭眼  |  -9999  
-[(事件)猎手被击败了！](Event_HunterFightSuccess.md)  |  胜利啦！  |  -9999  
+[我失败了！(事件)](Event_HunterFightBadFailure.md)  |  闭眼  |  -999  
+[我没能逃掉！(事件)](Event_HunterFightFailedRetreat.md)  |  闭眼  |  -9999  
+[猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  -9999  

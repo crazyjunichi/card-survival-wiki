@@ -5,7 +5,7 @@
   
   止血带  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**672<br><br>** 效果: **<br>[疼痛](Pain.md)+100  |  <img decoding="async" src="Sprite/Tourniquet.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**150<br><br>**装备时减重：**-100<br><br>**标签：**	[“止血带”](tag_Tourniquet.md)<br><br>**可使用次数：**672<br><br>** 效果: **<br>[疼痛](Pain.md)+100  |  <img decoding="async" src="Sprite/Tourniquet.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -15,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |    |  消失<br>** dismantle **<br>  [小树枝](Sticks.md)(+1)<br>  [布](Cloth.md)(+1)<br>  |    
+拆解<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [dismantle] **<br>  [小树枝](Sticks.md)(+1)<br>  [布](Cloth.md)(+1)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>[布](Cloth.md)+1   
+使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>  [布](Cloth.md)(+1)<br>  

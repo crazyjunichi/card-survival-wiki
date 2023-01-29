@@ -10,12 +10,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林高地](JungleHighlands.md)  |  探索  
+[月季田](CropPlotChinaRose.md)  |  转化  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>** Flowers **<br>  [月季](ChinaRoseFlowers.md)(+1)<br>基础权重：1<br>  |    
+采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>** 获得： **<br>** [Flowers] **<br>  [月季](ChinaRoseFlowers.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：4<br>最大：4  |  -  |  ** 到达0时： **<br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+使用次数  |  初始：4<br>最大：4  |  -  |  ** 到达0时： **<br><br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  

@@ -10,12 +10,13 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林深处](DeepJungle.md)  |  探索  
+[茉莉花田](CropPlotJasmine.md)  |  转化  
+[丛林深处(区域)](DeepJungle.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br>** Jasmin Flowers **<br>  [茉莉花](JasmineFlowers.md)(+1)<br>基础权重：1<br>  |    
+采集花朵<br>  |  -  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>** 获得： **<br>** [Jasmin Flowers] **<br>  [茉莉花](JasmineFlowers.md)(+1)<br>基础权重：1<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：4<br>最大：4  |  -  |  ** 到达0时： **<br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+使用次数  |  初始：4<br>最大：4  |  -  |  ** 到达0时： **<br><br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  

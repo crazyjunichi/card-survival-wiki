@@ -12,18 +12,22 @@
 ----  |  ----  
 [简易床](BedRustic.md)  |  拆解  
 [窝棚](Shelter.md)  |  拆除  
+[窝棚](Shelter.md)  |  转化  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  转化  
 [诱捕笼](CageTrap.md)  |  拆除  
 [晾晒架](DryingRack.md)  |  拆解  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  
 [织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  
 [稻草人](Scarecrow.md)  |  拆除  
+[稻草人](Scarecrow.md)  |  转化  
 [陷坑](TrappingPit.md)  |  拆除陷阱  
 [陷坑](TrappingPitTriggered.md)  |  拆除陷阱  
 [简易的弓](BowRustic.md)  |  拆解  
 [小拉车](Travois.md)  |  Dismantle  
 [扫帚](Broom.md)  |  拆解  
+[扫帚](Broom.md)  |  扫帚坏了！  
 [铜长矛](SpearCopper.md)  |  拆解  
 [燧石长矛](SpearFlint.md)  |  拆解  
 [黑曜石长矛](SpearObsidian.md)  |  拆解  
@@ -33,10 +37,10 @@
 [废墟(泥屋)](Debris.md)  |  清理  
 [废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
 [小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
-[丛林深处](DeepJungle.md)  |  探索  
-[丛林](Jungle.md)  |  探索  
-[丛林高地](JungleHighlands.md)  |  探索  
-[湿地丛林](Wetlands.md)  |  探索  
+[丛林深处(区域)](DeepJungle.md)  |  探索  
+[丛林(区域)](Jungle.md)  |  探索  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  
+[湿地丛林(区域)](Wetlands.md)  |  探索  
 [幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
 [小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
@@ -48,7 +52,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  削成简易长矛  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易长矛](SpearRustic.md)<br>** 使用物: **<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
+[“切割工具”](tag_Cutter.md)  |  削成简易长矛<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易长矛](SpearRustic.md)<br><br>** 使用物: **<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
 [营火](Campfire.md), [粘土火盆](ClayFirePit.md), [火堆](Fire.md), [烟熏炉](Smoker.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
 ## 可用于蓝图  

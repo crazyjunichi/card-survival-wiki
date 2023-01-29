@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  [野营热病](BacteriaTyphus.md)加成-100<br>[细菌性霍乱](BacteriaCholera.md)加成-100<br>[疟疾寄生虫](ParasiteMalaria.md)加成-100  
+效果  |    

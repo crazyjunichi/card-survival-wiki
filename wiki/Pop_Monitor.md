@@ -1,6 +1,7 @@
 # 巨蜥种群数量  
-变化范围: 0 ~ 14000  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 14000   
+#### ** 变化范围: ** 0 ~ 14000  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -10,6 +11,8 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)巨蜥](Event_MonitorRummaging.md)  |  无能为力地看着……  |  100  
-[(事件)我拿下它了，但我受伤了。](Event_MonitorFightMixedSuccess.md)  |  继续  |  -1000  
-[(事件)巨蜥倒下了！](Event_MonitorFightSuccess.md)  |  继续  |  -1000  
+[巨蜥(事件)](Event_MonitorRummaging.md)  |  无能为力地看着……  |  100  
+[原木陷阱](LogTrap.md)  |  捕捉猎物  |  -1000  
+[陷坑](TrappingPit.md)  |  捕捉猎物  |  -1000  
+[我拿下它了，但我受伤了。(事件)](Event_MonitorFightMixedSuccess.md)  |  继续  |  -1000  
+[巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)  |  继续  |  -1000  

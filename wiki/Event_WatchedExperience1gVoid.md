@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  解析自我  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  解析自我  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

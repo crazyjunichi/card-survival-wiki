@@ -3,7 +3,7 @@
 - [铜瓶](CopperBottle.md)  
 - [水袋](Waterskin.md)  
 - [挎包](Satchel.md)  
-- [挎包](SatchelHunter.md)  
+- [挎包(猎人专有)](SatchelHunter.md)  
 - [蜥蜴皮手鼓](LizardDrum.md)  
 - [绳子](Rope.md)  
 - [鱼镖](HarpoonBone.md)  

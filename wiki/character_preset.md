@@ -8,11 +8,11 @@
 ### 农夫  
 图像  |  初始特性  |  初始卡  
 ----  |  ----  |  ----  
-![](Sprite/Farmer.png)  |  [皮肤黝黑](Pk_3_DarkSkin.md)<br>[乐观主义](Pk_4_Optimist.md)<br>[独来独往](Pk_4_Loner.md)<br>[药草学者](Pk_5_Herbologist.md)<br>[陷阱能手](Pk_5_Trapper.md)<br>[厨师](Pk_5_Cook.md)<br>[木匠](Pk_5_Woodworker.md)<br>[潜行大师](Pk_5_StealthMaster.md)<br>[天生免疫](Pk_4_Immunized.md)<br>[强免疫系统](Pk_4_ImmuneSystemStrong.md)<br>[抗虫体质](Pk_4_BugResistant.md)<br>[席地而睡](Pk_4_RoughSleeper.md)<br>[祖父](Pk_6_Grandfather.md)  |  [祖父](Grandfather.md)<br>[储物箱](ChestFarmer.md)<br>[(事件)介绍](Event_IntroFarmer.md)  
+![](Sprite/Farmer.png)  |  [皮肤黝黑](Pk_3_DarkSkin.md)<br>[乐观主义](Pk_4_Optimist.md)<br>[独来独往](Pk_4_Loner.md)<br>[药草学者](Pk_5_Herbologist.md)<br>[陷阱能手](Pk_5_Trapper.md)<br>[厨师](Pk_5_Cook.md)<br>[木匠](Pk_5_Woodworker.md)<br>[潜行大师](Pk_5_StealthMaster.md)<br>[天生免疫](Pk_4_Immunized.md)<br>[强免疫系统](Pk_4_ImmuneSystemStrong.md)<br>[抗虫体质](Pk_4_BugResistant.md)<br>[席地而睡](Pk_4_RoughSleeper.md)<br>[祖父](Pk_6_Grandfather.md)  |  [祖父](Grandfather.md)<br>[储物箱(农夫专有)](ChestFarmer.md)<br>[介绍(事件)](Event_IntroFarmer.md)  
 ### 游客  
 图像  |  初始特性  |  初始卡  
 ----  |  ----  |  ----  
-![](Sprite/Tourist.png)  |  [坠机](Pk_1_PlaneCrash.md)<br>[游客](Pk_2_Tourist.md)<br>[过度肥胖](Pk_3_Obese.md)<br>[胃口大开](Pk_4_Gluttonous.md)<br>[正在流血](Pk_3_BleedingWound.md)<br>[皮肤白皙](Pk_3_PaleSkin.md)<br>[免疫系统脆弱](Pk_4_ImmuneSystemWeak.md)<br>[招虫体质](Pk_4_BugAttractant.md)<br>[近视](Pk_3_Shortsighted.md)<br>[钓鱼佬](Pk_5_Fisher.md)<br>[猕猴诅咒](Pk_1_MacaqueCurse.md)  |  [(事件)坠机](Event_IntroTourist1.md)<br>[止血带(蓝图)](Bp_Tourniquet.md)<br>[相机](Camera.md)<br>[腰包](BeltBag.md)<br>[擦伤](W_Abrasion.md)<br>[擦伤](W_Abrasion.md)  
+![](Sprite/Tourist.png)  |  [坠机](Pk_1_PlaneCrash.md)<br>[游客](Pk_2_Tourist.md)<br>[过度肥胖](Pk_3_Obese.md)<br>[胃口大开](Pk_4_Gluttonous.md)<br>[正在流血](Pk_3_BleedingWound.md)<br>[皮肤白皙](Pk_3_PaleSkin.md)<br>[免疫系统脆弱](Pk_4_ImmuneSystemWeak.md)<br>[招虫体质](Pk_4_BugAttractant.md)<br>[近视](Pk_3_Shortsighted.md)<br>[钓鱼佬](Pk_5_Fisher.md)<br>[猕猴诅咒](Pk_1_MacaqueCurse.md)  |  [坠机(事件)](Event_IntroTourist1.md)<br>[止血带(蓝图)](Bp_Tourniquet.md)<br>[相机](Camera.md)<br>[腰包](BeltBag.md)<br>[擦伤](W_Abrasion.md)<br>[擦伤](W_Abrasion.md)  
 ### 人鱼  
 图像  |  初始特性  |  初始卡  
 ----  |  ----  |  ----  

@@ -9,3 +9,4 @@
 额外卡牌  |  [打开的降落伞](ParachuteDeployed.md)  
 初始状态  |  [污垢](Filth.md)-225  
 被动状态  |  无  
+效果  |    

@@ -3,9 +3,9 @@
   
   氧气面罩  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**4  |  <img decoding="async" src="Sprite/Bubble.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**350<br><br>**装备时减重：**-150<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**可使用次数：**4  |  <img decoding="async" src="Sprite/Bubble.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：4  |  -  |  ** 到达0时：氧气耗尽 **<br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：4  |  -  |  ** 到达0时：氧气耗尽 **<br><br>→ [小树枝](Sticks.md)  

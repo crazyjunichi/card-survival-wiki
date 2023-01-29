@@ -1,8 +1,9 @@
 # 世界观  
 > 这代表了你的世界观的可预测性和稳定性。<br><br>世界观坚定的人对自己的预测非常自信，他们觉得自己了解世界及其运行方式。他们的思想和行为是稳定的。<br><br>世界观动摇的人会觉得世事难料，不可预测，这会让他们感到<b>焦虑</b>，但也会让他们的思维更开放，精神意识更易受影响。  
   
-变化范围: 0 ~ 5000  
-基础变化率: +1 / 每15分钟  
+#### ** 基础值: ** 5000   
+#### ** 变化范围: ** 0 ~ 5000  
+#### ** 基础变化率: ** +1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -88,42 +89,42 @@
 [窝棚](Shelter.md)  |  小憩  |  1  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  1  
 [帐篷](TentDeployed.md)  |  小憩  |  1  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  1  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  1  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  1  
 [虫子](Bugs.md)  |  食用  |  -10  
-[(事件)监视者](Event_WatchedExperience1a.md)  |  盯回去  |  -100  
-[(事件)监视者](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1b.md)  |  继续盯回去  |  -100  
-[(事件)监视者](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1c.md)  |  盯着它！  |  -100  
-[(事件)监视者](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1d.md)  |  继续盯着！  |  -100  
-[(事件)监视者](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1e.md)  |  保持凝视！  |  -100  
-[(事件)监视者](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  解析自我  |  -100  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  轻笑  |  -100  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -100  
-[(事件)监视者](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -100  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -100  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -100  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  -250  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  盯回去  |  -100  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  继续盯回去  |  -100  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  盯着它！  |  -100  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  继续盯着！  |  -100  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  保持凝视！  |  -100  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  解析自我  |  -100  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  轻笑  |  -100  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -100  
+[监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -100  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -100  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -100  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  -250  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[(事件)监视者](Event_WatchedExperience1a.md)  |  盯回去  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1b.md)  |  继续盯回去  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1c.md)  |  盯着它！  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1d.md)  |  继续盯着！  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1e.md)  |  保持凝视！  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  解析自我  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  轻笑  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1gGod.md)  |  成为监视者  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  101 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  0 ~ 5000  
-[(事件)监视者](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  盯回去  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  继续盯回去  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  盯着它！  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  继续盯着！  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  保持凝视！  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  解析自我  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  轻笑  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  101 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  0 ~ 5000  
+[监视者(事件)](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  0 ~ 5000  

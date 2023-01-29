@@ -1,6 +1,7 @@
 # 阳光防护  
-变化范围: 0 ~ 6  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 6  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -15,14 +16,14 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[洞穴上层(环境)](Env_CrystalChamber.md)  |  被动  |  6  
+[晶石洞穴(环境)](Env_CrystalChamber.md)  |  被动  |  6  
 [潮湿洞穴(环境)](Env_DampChamber.md)  |  被动  |  6  
 [阴暗洞穴(环境)](Env_DarkChamber.md)  |  被动  |  6  
 [覆溺洞穴(环境)](Env_FloodedChamber.md)  |  被动  |  6  
 [洞穴上层(环境)](Env_HighChamber.md)  |  被动  |  6  
-[洞穴上层(环境)](Env_LowChamber.md)  |  被动  |  6  
-[洞穴上层(环境)](Env_MidChamber.md)  |  被动  |  6  
-[洞穴上层(环境)](Env_NarrowTunnel.md)  |  被动  |  6  
+[洞穴底层(环境)](Env_LowChamber.md)  |  被动  |  6  
+[洞穴中层(环境)](Env_MidChamber.md)  |  被动  |  6  
+[狭窄通道(环境)](Env_NarrowTunnel.md)  |  被动  |  6  
 [隧道(环境)](Env_Tunnel.md)  |  被动  |  6  
 [蝙蝠洞(环境)](Env_CaveBats.md)  |  被动  |  6  
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  6  
@@ -33,14 +34,14 @@
 [坠毁的飞机(环境)](Env_CrashedPlane.md)  |  被动  |  6  
 [猕猴窝(环境)](Env_MacaqueDen.md)  |  被动  |  6  
 [泥屋(环境)](Env_MudHut.md)  |  被动  |  6  
-[泥屋(环境)](Env_MudHutRuins.md)  |  被动  |  6  
+[泥屋(损坏)(环境)](Env_MudHutRuins.md)  |  被动  |  6  
 [棚屋(环境)](Env_Shed.md)  |  被动  |  6  
 [石屋(环境)](Env_StoneHut.md)  |  被动  |  6  
 [防蜂服](BeeSuit.md)  |  被动  |  5  
 [湿地(环境)](Env_Wetlands.md)  |  被动  |  4  
 [坑洞(环境)](Env_HighlandHole.md)  |  被动  |  3  
 [雨衣](Raincoat.md)  |  被动  |  2  
-[丛林(环境)](Env_DeepJungle.md)  |  被动  |  2  
+[丛林深处(环境)](Env_DeepJungle.md)  |  被动  |  2  
 [丛林(环境)](Env_Jungle.md)  |  被动  |  2  
 [丛林高地(环境)](Env_JungleHighlands.md)  |  被动  |  2  
 [红树林(环境)](Env_Mangroves.md)  |  被动  |  2  

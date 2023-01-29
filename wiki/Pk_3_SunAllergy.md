@@ -9,3 +9,4 @@
 额外卡牌  |  无  
 初始状态  |  无  
 被动状态  |  [晒黑](Tanning.md)加成-50<br>[紫外线过敏](SunAllergy.md)加成+100<br>[清醒度](Wakefulness.md)加成+0.25  
+效果  |    

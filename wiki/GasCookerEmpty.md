@@ -3,7 +3,7 @@
   
   营火  |   图片   
  ----  |  ----:   
- **标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**2<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/CampfireExtinguished.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**2<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/CampfireExtinguished.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md)  

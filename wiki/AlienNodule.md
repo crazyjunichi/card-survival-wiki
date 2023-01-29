@@ -3,7 +3,7 @@
   
   外星结节  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“强效食料”](tag_FeedRich.md), [“杂食饲料”](tag_FeedOmnivorous.md), [“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**25<br><br>**标签：**	[“强效食料”](tag_FeedRich.md), [“杂食饲料”](tag_FeedOmnivorous.md), [“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -20,4 +20,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>→ [外星植物](AlienGrowthCleared.md)  
+耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [外星植物](AlienGrowthCleared.md)  

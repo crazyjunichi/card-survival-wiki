@@ -10,6 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[落石陷阱](DeadfallTrap.md)  |  捕捉猎物  
+[捕鱼陷阱](FishTrapDeployed.md)  |  捕捉猎物  
 [海(红树林)](Sea_Mangroves.md) , [“一级矛”](tag_Spear.md)  |  叉鱼  
 [海(红树林)](Sea_Mangroves.md) , [“钓鱼线”](tag_FishingLine.md)  |  钓鱼  
 [海(红树林)](Sea_Mangroves.md) , [“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  钓鱼  
@@ -32,4 +34,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物](RottenRemains.md)  

@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)猎手来了](Event_HunterFight.md)  |  逃跑  
+[猎手来了(事件)](Event_HunterFight.md)  |  逃跑  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼<br>  |  1小时  |    |  消失<br>** Mark **<br>  [鬼掌印](W_HunterMark.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-9999  
+闭眼<br>  |  1小时  |    |  消失<br><br>** 获得： **<br>** [Mark] **<br>  [鬼掌印](W_HunterMark.md)(+1)<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-9999  

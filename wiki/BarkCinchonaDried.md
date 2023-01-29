@@ -11,6 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [金鸡纳树皮](BarkCinchona.md) , [晾晒架](DryingRack.md)  |  金鸡纳树皮  
+[金鸡纳树皮](BarkCinchona.md)  |  转化  
 ## 可用于蓝图  
 - [金鸡纳树皮粉(蓝图)](Bp_Quinine.md)  
   

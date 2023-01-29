@@ -3,17 +3,17 @@
   
   崩解烙印  |   图片   
  ----  |  ----:   
- **重量：**0<br><br>**装备：**[“精神创伤”](eTag_WSpiritual.md)  |  <img decoding="async" src="Sprite/HuntersMark.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**0<br><br>**装备：**[“精神创伤”](eTag_WSpiritual.md)  |  <img decoding="async" src="Sprite/HuntersMark.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)我没能逃掉！](Event_EnemyFightFailedRetreat.md)  |  闭眼  
-[(事件)我失败了！](Event_EnemyFightFailure.md)  |  闭眼  
+[我没能逃掉！(事件)](Event_EnemyFightFailedRetreat.md)  |  闭眼  
+[我失败了！(事件)](Event_EnemyFightFailure.md)  |  闭眼  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |  ** 到达0时：烙印已祛除 **  
+<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |  ** 到达0时：烙印已祛除 **<br>  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

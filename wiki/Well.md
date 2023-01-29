@@ -5,7 +5,7 @@
   
   水井  |   图片   
  ----  |  ----:   
- **标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md)<br><br>**容水量：**6000  |  <img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md)<br><br>**储水量：**6000  |  <img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

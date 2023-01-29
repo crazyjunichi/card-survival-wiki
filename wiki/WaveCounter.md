@@ -1,6 +1,7 @@
 # 波次  
-变化范围: 0 ~ 24  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 24  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,12 +30,12 @@
 [叶床](LeafBed.md)  |  睡觉  |  12 ~ 24  
 [人鱼巢](MermaidNest.md)  |  小憩  |  12 ~ 24  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  12 ~ 24  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  12 ~ 24  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  12 ~ 24  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  12 ~ 24  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  12 ~ 24  
 [睡袋](BedRoll.md)  |  小憩  |  0  
 [睡袋](BedRoll.md)  |  睡觉  |  0  
 [叶床](LeafBed.md)  |  小憩  |  0  
 [叶床](LeafBed.md)  |  睡觉  |  0  
 [人鱼巢](MermaidNest.md)  |  小憩  |  0  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  0  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  0  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0  

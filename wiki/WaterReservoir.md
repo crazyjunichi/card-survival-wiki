@@ -5,12 +5,13 @@
   
   蓄水池  |   图片   
  ----  |  ----:   
- **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**容水量：**12000  |  <img decoding="async" src="Sprite/ReservoirEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**12000  |  <img decoding="async" src="Sprite/ReservoirEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
 [蓄水池(蓝图)](Bp_WaterReservoir.md)  |  蓝图制造  
+[蓄水池(满)](WaterReservoirFull.md)  |  替换  
 [蓄水池（灌溉中）](WaterReservoirIrrigating.md)  |  停止灌溉  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -19,7 +20,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“储水容器”](tag_WaterContainer.md)  |  防蚊  |  15分  |    |  ** 自身: **<br>防蚊<img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;"> + 672<br>** 使用物: **<br>含水量  -50  |    
+[“储水容器”](tag_WaterContainer.md)  |  防蚊<br>  |  15分  |    |  ** 自身: **<br>防蚊<img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;"> + 672<br><br>** 使用物: **<br>含水量  -50  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

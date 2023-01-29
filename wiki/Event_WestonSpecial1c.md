@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)韦斯顿](Event_WestonSpecial1b.md)  |  不客气，小韦。  
-[(事件)Event_WestonSpecial2b_CardName](Event_WestonSpecial2b.md)  |  Not sure I follow, Wes.  
+[韦斯顿(Special1b)(事件)](Event_WestonSpecial1b.md)  |  不客气，小韦。  
+[Event_WestonSpecial2b_CardName(Special2b)(事件)](Event_WestonSpecial2b.md)  |  Not sure I follow, Wes.  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-别客气。<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)韦斯顿](Event_WestonSpecial1d.md)(+1)<br>  |    
+别客气。<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(Special1d)(事件)](Event_WestonSpecial1d.md)(+1)<br>  |    

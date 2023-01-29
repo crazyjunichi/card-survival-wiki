@@ -6,6 +6,7 @@
 解锁价格  |  2月亮  
 分数  |  1500  
 初始装备  |  无  
-额外卡牌  |  [(事件)小行星撞击！](Event_AlienCrater.md)  
+额外卡牌  |  [小行星撞击！(事件)](Event_AlienCrater.md)  
 初始状态  |  无  
 被动状态  |  [外星孢子](AlienSpores.md)加成+1  
+效果  |    

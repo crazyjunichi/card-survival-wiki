@@ -5,9 +5,20 @@
   
   阴天  |   图片   
  ----  |  ----:   
- **标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+30<br>[阳光强度](SunStrength.md)+2<br>[降水值](RainValue.md)<br>[光亮](Light.md)-5<br><br>** 区域唯一 **  |  <img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+30<br>[阳光强度](SunStrength.md)+2<br>[降水值](RainValue.md)<br>[光亮](Light.md)-5  |  <img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[阴天](TropicalIsland_Cloudy.md)  |  转化  
+[小雨](TropicalIsland_LightRain.md)  |  转化  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  转化  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>[多云](TropicalIsland_PartiallyCloudy.md)+1 <br>[阴天](TropicalIsland_Cloudy.md)+1 <br>[小雨](TropicalIsland_LightRain.md)+1 <br>[大雨](TropicalIsland_HeavyRain.md)+1   
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0<br><br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：300<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+300<br>- [季节](Seasons.md)为5761～8640时权重-450<br><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+400<br>- [季节](Seasons.md)为5761～8640时权重-350<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Heavy Rain] **<br>  [大雨](TropicalIsland_HeavyRain.md)(+1)<br>基础权重：10<br>- [雨水计数器](RainCounter.md)为500～700时权重0～+300<br>- [季节](Seasons.md)为2881～5760时权重+400<br>- [季节](Seasons.md)为5761～8640时权重-250<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br>  
+## 触发器  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+  |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourable.md)  
+  |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourable.md)  

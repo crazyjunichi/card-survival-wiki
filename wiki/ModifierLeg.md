@@ -1,12 +1,13 @@
 # ModifierLeg_GameName  
-变化范围: 0 ~ 3  
-基础变化率: 0 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 3  
+#### ** 基础变化率: ** 0 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Leg Modifier 1  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-2<br>时间+1  
-2 ～ 2  |  Leg Modifier 2  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-4<br>时间+2  
-3 ～ 3  |  Leg Modifier 3  |    |    |  [腿部动作](LegAction.md)<br>[耐力](Stamina.md)-8<br>时间+4  
+1 ～ 1  |  Leg Modifier 1  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-2<br>时间+1  
+2 ～ 2  |  Leg Modifier 2  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-4<br>时间+2  
+3 ～ 3  |  Leg Modifier 3  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-8<br>时间+4  
 ## 关联状态  
 [体重](Weight.md)  |  [怀孕](Pregnancy.md)  |  [真人秀直播](TV_Lives.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
@@ -26,8 +27,6 @@
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  1  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  1  
 [左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  1  
-[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  1  
-[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  1  
 [右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  1  
 [巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  1  
 [鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  1  

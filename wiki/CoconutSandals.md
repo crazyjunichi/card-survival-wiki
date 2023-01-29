@@ -5,7 +5,7 @@
   
   椰子凉鞋  |   图片   
  ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)<br>[足部损伤](FootDamage.md)加成-1.5<br>[足部防护](FootProtection.md)+5<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/CoconutSandals.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**250<br><br>**装备时减重：**-250<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)<br>[足部损伤](FootDamage.md)加成-1.5<br>[足部防护](FootProtection.md)+5<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/CoconutSandals.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,4 +14,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2688<br>最大：2688  |  -  |  ** 到达0时： **<br>[纤维](Fibers.md)+2 <br>[细线](CordFiber.md)+2   
+使用次数  |  初始：2688<br>最大：2688  |  -  |  ** 到达0时： **<br>** [Cord] **<br>  [纤维](Fibers.md)(+2)<br>  [细线](CordFiber.md)(+2)<br>  

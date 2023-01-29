@@ -8,12 +8,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一头山羊！](Event_GoatFight.md)  |  朝它砸石头  
-[(事件)一头山羊！](Event_GoatFight.md)  |  使用长矛  
-[(事件)一头山羊！](Event_GoatFight.md)  |  使用投石索  
-[(事件)一头山羊！](Event_GoatFight.md)  |  用弓箭攻击！  
-[(事件)一头山羊！](Event_GoatFight.md)  |  用枪攻击！  
+[一头山羊！(事件)](Event_GoatFight.md)  |  朝它砸石头  
+[一头山羊！(事件)](Event_GoatFight.md)  |  使用长矛  
+[一头山羊！(事件)](Event_GoatFight.md)  |  使用投石索  
+[一头山羊！(事件)](Event_GoatFight.md)  |  用弓箭攻击！  
+[一头山羊！(事件)](Event_GoatFight.md)  |  用枪攻击！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>** Seagull Carcass **<br>  [山羊尸体(母)](GoatCarcassFemale.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  
+继续<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Seagull Carcass] **<br>  [山羊尸体(母)](GoatCarcassFemale.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[山羊种群数量](Pop_Goat.md)-1000  

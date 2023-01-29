@@ -5,7 +5,7 @@
   
   刮净的皮  |   图片   
  ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/HideFleshed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/HideFleshed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -19,4 +19,4 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮鞣制好了！ **<br>→ [鞣制兽皮](CuredSkin.md)  
+耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮鞣制好了！ **<br><br>→ [鞣制兽皮](CuredSkin.md)  

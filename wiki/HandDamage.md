@@ -1,8 +1,9 @@
 # 手掌损伤  
 >   
   
-变化范围: 0 ~ 1000  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 0   
+#### ** 变化范围: ** 0 ~ 1000  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,9 +24,9 @@
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  80  
 [摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  80  
 [倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  80  
-[椰子树](PalmTreeNew.md)  |  砍倒  |  80  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  80  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  80  
-[椰子树](PalmTreeOld.md)  |  砍倒  |  80  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  80  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  80  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  80  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  80  
@@ -42,9 +43,9 @@
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  60  
 [摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  60  
 [倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  60  
-[椰子树](PalmTreeNew.md)  |  砍倒  |  60  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  60  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  60  
-[椰子树](PalmTreeOld.md)  |  砍倒  |  60  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  60  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  60  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  60  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  60  
@@ -76,24 +77,16 @@
 [椅子(蓝图)](Bp_Chair.md)  |  蓝图制造  |  25  
 [木钉(蓝图)](Bp_Treenails.md)  |  蓝图制造  |  25  
 [废墟(泥屋)](Debris.md)  |  清理  |  25  
-[丛林深处](DeepJungle.md)  |  砍伐木材  |  25  
-[丛林深处](DeepJungle.md)  |  砍伐木材  |  25  
-[东部高地](HighlandsEastern.md)  |  砍伐木材  |  25  
-[东部高地](HighlandsEastern.md)  |  砍伐木材  |  25  
-[西部高地](HighlandsWestern.md)  |  砍伐木材  |  25  
-[西部高地](HighlandsWestern.md)  |  砍伐木材  |  25  
-[丛林](Jungle.md)  |  砍伐木材  |  25  
-[丛林](Jungle.md)  |  砍伐木材  |  25  
-[丛林高地](JungleHighlands.md)  |  砍伐木材  |  25  
-[丛林高地](JungleHighlands.md)  |  砍伐木材  |  25  
-[红树林](Mangroves.md)  |  砍伐木材  |  25  
-[红树林](Mangroves.md)  |  砍伐木材  |  25  
-[丛林边缘](Outskirts.md)  |  砍伐木材  |  25  
-[丛林边缘](Outskirts.md)  |  砍伐木材  |  25  
-[湿地丛林](Wetlands.md)  |  砍伐木材  |  25  
-[湿地丛林](Wetlands.md)  |  砍伐木材  |  25  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  25  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  25  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  25  
+[丛林(区域)](Jungle.md)  |  砍伐木材  |  25  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  25  
+[红树林(区域)](Mangroves.md)  |  砍伐木材  |  25  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  25  
+[湿地丛林(区域)](Wetlands.md)  |  砍伐木材  |  25  
 [野参薯](YamPlant.md)  |  刨参薯根  |  25  
-[(事件)巨浪击中了木筏！](Event_Wave.md)  |  振作起来！  |  20  
+[巨浪击中了木筏！(事件)](Event_Wave.md)  |  振作起来！  |  20  
 [燧石](Flint.md)  |  练习石工  |  20  
 [姜](Ginger.md)  |  捣碎  |  20  
 [干姜](GingerDried.md)  |  捣碎  |  20  
@@ -124,9 +117,9 @@
 [金鸡纳树](CinchonaTree.md)  |  砍树  |  20  
 [剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树  |  20  
 [小芒果树](MangoTreeYoung.md)  |  砍树  |  20  
-[东部草原](GrasslandsE.md)  |  挖土  |  20  
-[西部草原](GrasslandsW.md)  |  挖土  |  20  
-[神秘谷](SecretValley.md)  |  挖土  |  20  
+[东部草原(区域)](GrasslandsE.md)  |  挖土  |  20  
+[西部草原(区域)](GrasslandsW.md)  |  挖土  |  20  
+[神秘谷(区域)](SecretValley.md)  |  挖土  |  20  
 [幼年椰子树](PalmTreeYoung.md)  |  砍树  |  20  
 [前往丛林高地(隐秘港湾)](Path_CoveToJungleHighlands.md)  |  爬上去  |  20  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  |  20  

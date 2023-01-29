@@ -5,24 +5,31 @@
   
   布片  |   图片   
  ----  |  ----:   
- **重量：**25  |  <img decoding="async" src="Sprite/ClothSmall.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**重量：**25  |  <img decoding="async" src="Sprite/ClothSmall.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[织布机（空）(空)](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
 [织布机](Loom.md)  |  织布  
 [草木灰敷料](AshDressing.md)  |  去除灰烬  
+[草木灰敷料](AshDressing.md)  |  转化  
 [布](Cloth.md)  |  撕开布料  
 [大块的布](ClothLarge.md)  |  撕开布料  
 [超大块布](ClothVeryLarge.md)  |  撕开布料  
 [包脚布](FootWrappings.md)  |  撕开布料  
+[包脚布](FootWrappings.md)  |  转化  
 [绑手带](HandWrappings.md)  |  撕开布料  
+[绑手带](HandWrappings.md)  |  转化  
+[求生帽](HatSurvival.md)  |  转化  
 [头巾](HeadWrappings.md)  |  撕开布料  
 [袜子](Socks.md)  |  撕开布料  
+[袜子](Socks.md)  |  转化  
+[伤口敷料](WoundDressing.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[灰烬](Ash.md)  |  制作草木灰敷料  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [草木灰敷料](AshDressing.md)<br>** 使用物: **<br>消失  |    
+[灰烬](Ash.md)  |  制作草木灰敷料<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [草木灰敷料](AshDressing.md)<br><br>** 使用物: **<br>消失  |    
 ## 可拖至  
 [织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md)  
 ## 可用于蓝图  

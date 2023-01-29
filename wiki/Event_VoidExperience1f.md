@@ -8,9 +8,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)虚空灵视](Event_SpiritsEverywhere1e.md)  |  逃避现实！  
-[(事件)虚空灵视](Event_VoidExperience1e.md)  |  逃避现实！  
+[虚空灵视(事件)](Event_SpiritsEverywhere1e.md)  |  逃避现实！  
+[虚空灵视(事件)](Event_VoidExperience1e.md)  |  逃避现实！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-停！<br>  |  -  |    |  消失<br>** Next Step **<br>  [(事件)虚空灵视](Event_VoidExperience1g.md)(+1)<br>  |    
+停！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [虚空灵视(事件)](Event_VoidExperience1g.md)(+1)<br>  |    

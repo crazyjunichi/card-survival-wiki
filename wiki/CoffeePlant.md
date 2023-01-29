@@ -10,8 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[丛林高地](JungleHighlands.md)  |  探索  
+[咖啡田](CropPlotCoffee.md)  |  转化  
+[丛林高地(区域)](JungleHighlands.md)  |  探索  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br>** Coffee **<br>  [咖啡果](CoffeeBerries.md)(+2～+3)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  消失<br>使用次数  -1<br><br>** 获得： **<br>** [Coffee] **<br>  [咖啡果](CoffeeBerries.md)(+2～+3)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  

@@ -5,7 +5,7 @@
   
   灌溉系统  |   图片   
  ----  |  ----:   
- ** 效果: **<br>[已灌溉](Irrigated.md)+1<br><br>** 解锁条件: **<br>[药草学(技能)](Skill_Herbology.md): 150-150<br><br>** 解锁需求: **<br>[丛林边缘(环境)](Env_Outskirts.md)<br>[丛林(环境)](Env_DeepJungle.md)<br>[西部草原(环境)](Env_GrasslandsW.md)<br>[西部高地(环境)](Env_HighlandsWestern.md)<br>[丛林(环境)](Env_Jungle.md)<br>[丛林高地(环境)](Env_JungleHighlands.md)<br>[丛林边缘(环境)](Env_Outskirts.md)<br>[神秘谷(环境)](Env_SecretValley.md)<br>[湿地(环境)](Env_Wetlands.md)  |  <img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 效果: **<br>[已灌溉](Irrigated.md)+1<br><br>** 解锁条件: **<br>[药草学(技能)](Skill_Herbology.md): 150-150<br><br>** 解锁需求: **<br>[丛林边缘(环境)](Env_Outskirts.md)<br>[丛林深处(环境)](Env_DeepJungle.md)<br>[西部草原(环境)](Env_GrasslandsW.md)<br>[西部高地(环境)](Env_HighlandsWestern.md)<br>[丛林(环境)](Env_Jungle.md)<br>[丛林高地(环境)](Env_JungleHighlands.md)<br>[丛林边缘(环境)](Env_Outskirts.md)<br>[神秘谷(环境)](Env_SecretValley.md)<br>[湿地(环境)](Env_Wetlands.md)  |  <img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

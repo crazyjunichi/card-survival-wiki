@@ -7,6 +7,10 @@
  ----  |  ----:   
  **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MortarDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[砂浆](Mortar.md)  |  转化  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

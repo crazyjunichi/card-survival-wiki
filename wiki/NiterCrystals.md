@@ -7,7 +7,11 @@
  ----  |  ----:   
  **重量：**50  |  <img decoding="async" src="Sprite/NiterCrystals.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 获取来源  
+来源  |  操作  
+----  |  ----  
+[硝石矿床](NiterBed.md)  |  转化  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  研磨  |  1小时  |    |  ** 自身: **<br>消失<br>** 使用物: **<br>可用次数  -1<br>** 获得: **<br>**  **<br>  [硝酸钾](Saltpeter.md)(+3)<br>  |    
+[“锤”](tag_Hammer.md)  |  研磨<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [硝酸钾](Saltpeter.md)(+3)<br>  |    

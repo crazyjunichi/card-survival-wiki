@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [晶洞](Geode.md) , [“锤”](tag_Hammer.md)  |  敲开  
-[晶石洞穴](CrystalChamber.md)  |  探索  
+[晶石洞穴(区域)](CrystalChamber.md)  |  探索  
 ## 可用于蓝图  
 - [铜项链(蓝图)](Bp_CopperNecklace.md)  
   

@@ -5,7 +5,7 @@
   
   太阳能蒸馏器  |   图片   
  ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,17 +14,17 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |  [光亮](Light.md): 10-100  |  消失<br>** Plastic Sheet **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [石头](Stone.md)(+5)<br>基础权重：1<br>  |    
+拆解<br>  |  -  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [Plastic Sheet] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [石头](Stone.md)(+5)<br>基础权重：1<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[棕榈叶](PalmFronds.md)  |  添加树叶  |  -  |    |  ** 自身: **<br>燃料 + 30<br>** 使用物: **<br>消失  |    
+[棕榈叶](PalmFronds.md)  |  添加树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 30<br><br>** 使用物: **<br>消失  |    
 ## 转化  
-放入  |  动作  |  耗时  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |    
-[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |    
+放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
+----  |  ----  |  ----  |  ----  |  ----  |  ----  
+[“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |  含水量 + 4  |    
+[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water] **<br>[水](LQ_Water.md)(+0.2)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：0<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **  
+燃料  |  初始：0<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  

@@ -8,11 +8,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  用长矛攻击！  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  用弓箭攻击！  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  用枪攻击！  
-[(事件)一头巨蜥！](Event_MonitorFight.md)  |  用投石索攻击！  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  用长矛攻击！  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  用弓箭攻击！  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  用枪攻击！  
+[一头巨蜥！(事件)](Event_MonitorFight.md)  |  用投石索攻击！  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br>** Carcass **<br>  [巨蜥咬伤](W_MonitorBite.md)(+1)<br>  [巨蜥尸体](MonitorCarcass.md)(+1)<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [巨蜥种群数量](Pop_Monitor.md)-1000  
+继续<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Carcass] **<br>  [巨蜥咬伤](W_MonitorBite.md)(+1)<br>  [巨蜥尸体](MonitorCarcass.md)(+1)<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [巨蜥种群数量](Pop_Monitor.md)-1000  

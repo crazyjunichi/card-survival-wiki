@@ -5,13 +5,13 @@
   
   超级生存箱 2000  |   图片   
  ----  |  ----:   
- **重量：**2000<br><br>**标签：**	[“袋子”](tag_Bag.md), [“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**槽位：**25<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容重量：**5000<br><br>**减重量：**-1500  |  <img decoding="async" src="Sprite/Trunk.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可堆叠 **<br><br>**重量：**2000<br><br>**标签：**	[“袋子”](tag_Bag.md), [“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**槽位：**25<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**5000<br><br>**减重量：**-1500  |  <img decoding="async" src="Sprite/Trunk.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[超级生存箱 2000](TrunkPerkPlaced.md)  |  拿起  
+[超级生存箱 2000(已放置)](TrunkPerkPlaced.md)  |  拿起  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  -  |    |  → [超级生存箱 2000](TrunkPerkPlaced.md)  |    
+放置<br>  |  -  |    |  → [超级生存箱 2000(已放置)](TrunkPerkPlaced.md)  |    

@@ -3,7 +3,7 @@
   
   皮革背包  |   图片   
  ----  |  ----:   
- ** 解锁需求: **<br>[挎包](Satchel.md)<br>[挎包](SatchelHunter.md)  |  <img decoding="async" src="Sprite/BackpackLeather.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 解锁需求: **<br>[挎包](Satchel.md)<br>[挎包(猎人专有)](SatchelHunter.md)  |  <img decoding="async" src="Sprite/BackpackLeather.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

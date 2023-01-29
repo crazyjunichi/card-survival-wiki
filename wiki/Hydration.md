@@ -1,8 +1,9 @@
 # 水分  
 >   
   
-变化范围: 0 ~ 288  
-基础变化率: -1 / 每15分钟  
+#### ** 基础值: ** 180   
+#### ** 变化范围: ** 0 ~ 288  
+#### ** 基础变化率: ** -1 / 每15分钟  
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -230,7 +231,7 @@
 [干辣椒](ChiliesDried.md)  |  食用  |  -4  
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -5  
 [西米粉](SagoFlour.md)  |  食用  |  -5  
-[(事件)呕吐！](Event_Vomit.md)  |  呕呕呕……  |  -15  
+[呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -15  
 [木炭](Charcoal.md)  |  食用  |  -15  
 ## 被以下操作需求  
 来源  |  操作  |  值  
@@ -253,7 +254,7 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  0 ~ 30  
 [帐篷](TentDeployed.md)  |  小憩  |  0 ~ 30  
 [帐篷](TentDeployed.md)  |  睡觉  |  0 ~ 30  
-[(事件)无法控制焦虑！](Event_AnxietyAttack.md)  |  继续  |  0 ~ 30  
-[(事件)你睡着了！](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 30  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  0 ~ 30  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 30  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 30  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 30  
