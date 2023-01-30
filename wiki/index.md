@@ -20,7 +20,17 @@
 <!-- <iframe name="nrd_studio_embed" frameborder="0" style="display:block;width:800px; height:600px;" src="https://nrdstudio.cn/view/embed/2ed0dffbd7a54f31526c65ca2b89088d"></iframe> -->
 
 
-<div id="gitalk-container"></div>
+<script src="https://utteranc.es/client.js"
+        repo="crazyjunichi/card-survival-wiki"
+        issue-term="test_index"
+        label="评论"
+        theme="boxy-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+<!-- <div id="gitalk-container"></div>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
 <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script>
@@ -40,4 +50,4 @@
                 clearInterval(interval)
             }
         }, 100);
-</script>
+</script> -->
