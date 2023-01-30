@@ -54,5 +54,5 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-RE3Z6GM8B9');
+  gtag('config', 'G-RE3Z6GM8B9',{'allowAnchor': true});
 </script>
