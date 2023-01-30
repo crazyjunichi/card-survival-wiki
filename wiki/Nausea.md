@@ -66,5 +66,6 @@
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  20 ~ 24  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  20 ~ 24  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  20 ~ 24  
+[呕吐！(事件)](Event_Vomit.md)  |  触发事件  |  20 ~ 24  
 [吊床](Hammock.md)  |  小憩  |  13 ~ 24  
 [吊床](Hammock.md)  |  睡觉  |  13 ~ 24  

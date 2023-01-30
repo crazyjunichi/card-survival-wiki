@@ -19,3 +19,10 @@
 [海(红树林)](Sea_Mangroves.md)  |  钓鱼  |  1  
 [海](Sea_Raft.md)  |  钓鱼  |  1  
 [海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼  |  1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[钓鱼技能提升！(事件)](Event_SkillFishing4.md)  |  触发事件  |  150  
+[钓鱼技能提升！(事件)](Event_SkillFishing3.md)  |  触发事件  |  70 ~ 150  
+[钓鱼技能提升！(事件)](Event_SkillFishing2.md)  |  触发事件  |  30 ~ 150  
+[钓鱼技能提升！(事件)](Event_SkillFishing1.md)  |  触发事件  |  10 ~ 150  

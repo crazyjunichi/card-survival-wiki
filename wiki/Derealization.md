@@ -28,3 +28,7 @@
 [监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -250  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -250  
 [神圣灵视(事件)](Event_GodExperience1g.md)  |  <i>抓！紧！</i>  |  -999  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  101 ~ 1000  

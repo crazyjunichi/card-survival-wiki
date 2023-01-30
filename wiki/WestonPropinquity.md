@@ -14,5 +14,6 @@
 [韦斯顿](Weston.md)  |  聊天  |  3001 ~ 5000  
 [韦斯顿](Weston.md)  |  聊天  |  2001 ~ 3000  
 [韦斯顿](Weston.md)  |  离开这座岛  |  2001 ~ 3000  
+[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  2000 ~ 3000  
 [韦斯顿](Weston.md)  |  聊天  |  1001 ~ 2000  
 [韦斯顿](Weston.md)  |  聊天  |  0 ~ 1000  

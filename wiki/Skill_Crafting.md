@@ -129,3 +129,10 @@
 [简易长矛(蓝图)](Bp_RusticSpear.md)  |  蓝图制造  |  0.25  
 [石刀(蓝图)](Bp_SharpenedStone.md)  |  蓝图制造  |  0.25  
 [小树枝](Sticks.md)  |  制作手钻  |  0.25  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[制作技能提升！(事件)](Event_SkillCrafting4.md)  |  触发事件  |  150  
+[制作技能提升！(事件)](Event_SkillCrafting3.md)  |  触发事件  |  70 ~ 150  
+[制作技能提升！(事件)](Event_SkillCrafting2.md)  |  触发事件  |  30 ~ 150  
+[制作技能提升！(事件)](Event_SkillCrafting1.md)  |  触发事件  |  10 ~ 150  

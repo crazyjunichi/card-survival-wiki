@@ -22,9 +22,6 @@
 [地点]()
 
 -   [区域](area.md)
--   [环境](env.md)
--   [改造](imp.md)
--   [损坏](damage.md)
 
 [蓝图](blueprint.md)
 [状态](stat.md)

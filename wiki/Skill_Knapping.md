@@ -19,3 +19,10 @@
 [燧石](Flint.md)  |  练习石工  |  2  
 [仪式匕首(蓝图)](Bp_CeremonialDagger.md)  |  蓝图制造  |  1  
 [燧石板](FlintSlab.md)  |  砸开  |  1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[石工技能提升！(事件)](Event_SkillKnapping4.md)  |  触发事件  |  150  
+[石工技能提升！(事件)](Event_SkillKnapping3.md)  |  触发事件  |  70 ~ 150  
+[石工技能提升！(事件)](Event_SkillKnapping2.md)  |  触发事件  |  30 ~ 150  
+[石工技能提升！(事件)](Event_SkillKnapping1.md)  |  触发事件  |  10 ~ 150  

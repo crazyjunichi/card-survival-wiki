@@ -21,3 +21,7 @@
 [风向非常有利](OpenSea_VeryFavourable.md)  |  被动  |  2  
 [风向非常有利](OpenSea_VeryFavourableInfinite.md)  |  被动  |  2  
 [风向有利](OpenSea_Favourable.md)  |  被动  |  1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[巨浪击中了木筏！(事件)](Event_Wave.md)  |  触发事件  |  4 ~ 5  

@@ -33,6 +33,10 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[箭术提升了！(事件)](Event_SkillArchery4.md)  |  触发事件  |  150  
+[箭术提升了！(事件)](Event_SkillArchery3.md)  |  触发事件  |  70 ~ 150  
+[箭术提升了！(事件)](Event_SkillArchery2.md)  |  触发事件  |  30 ~ 150  
+[箭术提升了！(事件)](Event_SkillArchery1.md)  |  触发事件  |  10 ~ 150  
 [一头山羊！(事件)](Event_GoatFight.md)  |  影响  |  1 ~ 150  
 [一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  影响  |  1 ~ 150  
 [一只海鸥！(事件)](Event_SeagullFight.md)  |  影响  |  1 ~ 150  

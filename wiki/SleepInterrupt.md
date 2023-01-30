@@ -10,6 +10,11 @@
 ----  |  ----  |  ----  
 [风太大了！(事件)](Event_Flood.md)  |  躲避一会  |  1  
 [风太大了！(事件)](Event_Storm.md)  |  躲避狂风暴雨  |  1  
+[船长(Special1a)(事件)](Event_CaptainSpecial1a.md)  |  触发事件  |  1  
+[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  1  
+[噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  1  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  1  
+[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  1  
 [睡袋](BedRoll.md)  |  小憩  |  -1  
 [睡袋](BedRoll.md)  |  睡觉  |  -1  
 [简易床](BedRustic.md)  |  小憩  |  -1  

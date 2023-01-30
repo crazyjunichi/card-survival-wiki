@@ -70,6 +70,10 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[药草学技能提升了！(事件)](Event_SkillHerbology4.md)  |  触发事件  |  150  
+[药草学技能提升了！(事件)](Event_SkillHerbology3.md)  |  触发事件  |  70 ~ 150  
+[药草学技能提升了！(事件)](Event_SkillHerbology2.md)  |  触发事件  |  30 ~ 150  
+[药草学技能提升了！(事件)](Event_SkillHerbology1.md)  |  触发事件  |  10 ~ 150  
 [杂菌](AssortedMushrooms.md)  |  影响  |  0 ~ 150  
 [海湾(区域)](Bay.md)  |  影响  |  0 ~ 150  
 [沙滩(区域)](Beach.md)  |  影响  |  0 ~ 150  

@@ -22,3 +22,10 @@
 [钝矛头](SpearHeadBlunt.md)  |  磨利  |  0.5  
 [钝的求生斧](AxeSurvivalBlunt.md)  |  磨利  |  0.25  
 [钝刀](KnifeMilitaryBlunt.md)  |  磨利  |  0.25  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[金工技能提升！(事件)](Event_SkillMetalworking4.md)  |  触发事件  |  150  
+[制作技能提升！(事件)](Event_SkillMetalworking3.md)  |  触发事件  |  70 ~ 150  
+[金工技能提升！(事件)](Event_SkillMetalworking2.md)  |  触发事件  |  30 ~ 150  
+[金工技能提升！(事件)](Event_SkillMetalworking1.md)  |  触发事件  |  10 ~ 150  

@@ -25,3 +25,7 @@
 [监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  -96  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  -96  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  -96  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  96  

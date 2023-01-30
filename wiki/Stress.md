@@ -474,5 +474,7 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  触发事件  |  240  
+[噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  193 ~ 240  
 [宿敌来了！(事件)](Event_EnemyFight.md)  |  影响  |  0 ~ 240  
 [猎手来了(事件)](Event_HunterFight.md)  |  影响  |  0 ~ 240  

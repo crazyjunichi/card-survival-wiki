@@ -659,3 +659,7 @@
 [监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -200  
 [监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -200  
 [监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -200  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  350  

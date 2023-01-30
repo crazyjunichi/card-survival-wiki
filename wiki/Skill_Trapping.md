@@ -28,6 +28,10 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[陷阱技能提升了！(事件)](Event_SkillTrapping4.md)  |  触发事件  |  150  
+[陷阱技能提升了！(事件)](Event_SkillTrapping3.md)  |  触发事件  |  70 ~ 150  
+[陷阱技能提升了！(事件)](Event_SkillTrapping2.md)  |  触发事件  |  30 ~ 150  
+[陷阱技能提升了！(事件)](Event_SkillTrapping1.md)  |  触发事件  |  10 ~ 150  
 [诱捕笼](CageTrapPlaced.md)  |  影响  |  0 ~ 150  
 [落石陷阱](DeadfallTrap.md)  |  影响  |  0 ~ 150  
 [捕鱼陷阱](FishTrapDeployed.md)  |  影响  |  0 ~ 150  

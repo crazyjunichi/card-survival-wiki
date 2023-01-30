@@ -18,3 +18,10 @@
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  5  
 [宿敌被打败了！(事件)](Event_EnemyFightSuccess.md)  |  胜利啦！  |  2  
 [猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  2  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[灵视增强！(事件)](Event_SkillInsight1.md)  |  触发事件  |  999  
+[灵视增强！(事件)](Event_SkillInsight2.md)  |  触发事件  |  999  
+[灵视增强！(事件)](Event_SkillInsight3.md)  |  触发事件  |  999  
+[灵视增强！(事件)](Event_SkillInsight4.md)  |  触发事件  |  999  

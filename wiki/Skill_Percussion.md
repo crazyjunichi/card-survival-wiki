@@ -26,15 +26,19 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[击鼓技能提升！(事件)](Event_SkillPercussion4.md)  |  触发事件  |  150  
 [鼓](Drum.md)  |  入迷击鼓  |  75 ~ 150  
 [蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  75 ~ 150  
+[击鼓技能提升！(事件)](Event_SkillPercussion3.md)  |  触发事件  |  70 ~ 150  
 [鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  30 ~ 150  
 [鼓](Drum.md)  |  激昂的节奏  |  30 ~ 150  
 [蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  30 ~ 150  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  30 ~ 150  
+[击鼓技能提升！(事件)](Event_SkillPercussion2.md)  |  触发事件  |  30 ~ 150  
 [鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  10 ~ 150  
 [鼓](Drum.md)  |  跃动的节奏  |  10 ~ 150  
 [蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  10 ~ 150  
+[击鼓技能提升！(事件)](Event_SkillPercussion1.md)  |  触发事件  |  10 ~ 150  
 [鼓(事件)](Event_DrumMenu.md)  |  练习  |  0 ~ 10  
 [鼓](Drum.md)  |  练习  |  0 ~ 30  
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  0 ~ 30  

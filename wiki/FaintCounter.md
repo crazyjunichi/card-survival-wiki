@@ -10,3 +10,8 @@
 ----  |  ----  |  ----  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  继续  |  33  
 [你昏过去了(事件)](Event_FaintExhaustion.md)  |  继续  |  33  
+[你昏过去了(事件)](Event_FaintDizzy.md)  |  触发事件  |  33  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[你昏过去了(事件)](Event_FaintDizzy.md)  |  触发事件  |  0  

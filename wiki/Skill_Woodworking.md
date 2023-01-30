@@ -60,4 +60,8 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[木工技能提升！(事件)](Event_SkillWoodworking4.md)  |  触发事件  |  150  
+[木工技能提升！(事件)](Event_SkillWoodworking3.md)  |  触发事件  |  70 ~ 150  
+[木工技能提升！(事件)](Event_SkillWoodworking2.md)  |  触发事件  |  30 ~ 150  
+[木工技能提升！(事件)](Event_SkillWoodworking1.md)  |  触发事件  |  10 ~ 150  
 [未完成的木雕](WoodCarving_Unfinished.md)  |  影响  |  1 ~ 150  

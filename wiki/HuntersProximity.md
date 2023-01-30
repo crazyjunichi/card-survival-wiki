@@ -89,3 +89,7 @@
 [我失败了！(事件)](Event_HunterFightBadFailure.md)  |  闭眼  |  -999  
 [我没能逃掉！(事件)](Event_HunterFightFailedRetreat.md)  |  闭眼  |  -9999  
 [猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  -9999  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  96  

@@ -17,3 +17,7 @@
 [洞穴中层(环境)](Env_MidChamber.md)  |  被动  |  1  
 [狭窄通道(环境)](Env_NarrowTunnel.md)  |  被动  |  1  
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  1  

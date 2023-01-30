@@ -23,5 +23,9 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[叉鱼技能提升！(事件)](Event_SkillSpearFishing4.md)  |  触发事件  |  150  
+[叉鱼技能提升！(事件)](Event_SkillSpearFishing3.md)  |  触发事件  |  70 ~ 150  
+[叉鱼技能提升！(事件)](Event_SkillSpearFishing2.md)  |  触发事件  |  30 ~ 150  
+[叉鱼技能提升！(事件)](Event_SkillSpearFishing1.md)  |  触发事件  |  10 ~ 150  
 [一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 150  
 [鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  

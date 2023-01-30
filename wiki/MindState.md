@@ -42,3 +42,5 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  151 ~ 300  
+[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  150 ~ 300  
+[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  150 ~ 300  

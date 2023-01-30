@@ -45,3 +45,7 @@
 [姜茶](LQ_GingerTea.md)  |  饮用  |  5  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  -5  
 [茉莉花茶](LQ_JasmineTea.md)  |  饮用  |  -5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  触发事件  |  0  

@@ -15,3 +15,4 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [监视者(事件)](Event_WatchedExperience1f.md)  |  解析自我  |  1  
+[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  0  

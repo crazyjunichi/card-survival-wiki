@@ -41,3 +41,10 @@
 [细线](CordFiber.md)  |  制作线团  |  0.5  
 [纤维](Fibers.md)  |  缠起来  |  0.5  
 [线团](YarnFiber.md)  |  制作绳子  |  0.25  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[纺织技能提升！(事件)](Event_SkillTailoring4.md)  |  触发事件  |  150  
+[纺织技能提升！(事件)](Event_SkillTailoring3.md)  |  触发事件  |  70 ~ 150  
+[纺织技能提升！(事件)](Event_SkillTailoring2.md)  |  触发事件  |  30 ~ 150  
+[纺织技能提升！(事件)](Event_SkillTailoring1.md)  |  触发事件  |  10 ~ 150  

@@ -8,4 +8,15 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  96  
+[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  96  
+[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  96  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  96  
 [猎手来了(事件)](Event_HunterFight.md)  |  逃跑  |  -999  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  0  
+[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  0  
+[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  0  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  0  

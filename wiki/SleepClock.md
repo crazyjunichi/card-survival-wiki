@@ -32,3 +32,9 @@
 [木筏庇护所](RaftShelter.md)  |  小憩  |  15  
 [噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  -999  
 [一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -999  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[船长(Special1a)(事件)](Event_CaptainSpecial1a.md)  |  触发事件  |  1 ~ 999  
+[噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  1 ~ 14  
+[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  1 ~ 999  

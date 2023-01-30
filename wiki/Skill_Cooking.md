@@ -42,3 +42,10 @@
 [蜂蜜(蓝图)](Bp_Honey.md)  |  蓝图制造  |  0.25  
 [椰奶(蓝图)](Bp_CoconutMilk.md)  |  蓝图制造  |  0.25  
 [汤力水(蓝图)](Bp_TonicWater.md)  |  蓝图制造  |  0.25  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[烹饪技能提升！(事件)](Event_SkillCooking4.md)  |  触发事件  |  150  
+[烹饪技能提升！(事件)](Event_SkillCooking3.md)  |  触发事件  |  70 ~ 150  
+[烹饪技能提升！(事件)](Event_SkillCooking2.md)  |  触发事件  |  30 ~ 150  
+[烹饪技能提升！(事件)](Event_SkillCooking1.md)  |  触发事件  |  10 ~ 150  
