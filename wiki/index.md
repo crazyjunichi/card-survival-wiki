@@ -20,22 +20,23 @@
 <!-- <iframe name="nrd_studio_embed" frameborder="0" style="display:block;width:800px; height:600px;" src="https://nrdstudio.cn/view/embed/2ed0dffbd7a54f31526c65ca2b89088d"></iframe> -->
 
 
-<div id="comment"></div>
-<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
-<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
 <script>
         let interval = setInterval(function () {
-            if (typeof (Gitment) != 'undefined') {
-                var gitment = new Gitment({
-                    id: 'test_index', // 可选。默认为 location.href
-                    owner: 'crazyjunichi',
-                    repo: 'card-survival-wiki',
-                    oauth: {
-                      client_id: 'b53ea9bbde439121bb48',
-                      client_secret: '228aa9b976e9800ccc316f8b0ea275af1d9409cc ',
-                    },
-                  });
-                gitment.render('comment')
+            if (typeof (Gitalk) != 'undefined') {
+                  const gitalk = new Gitalk({
+                  clientID: 'b53ea9bbde439121bb48',
+                  clientSecret: '228aa9b976e9800ccc316f8b0ea275af1d9409cc',
+                  repo: 'card-survival-wiki',      // The repository of store comments,
+                  owner: 'crazyjunichi',
+                  admin: ['crazyjunichi'],
+                  id: 'test_index',      // Ensure uniqueness and length less than 50
+                  distractionFreeMode: false  // Facebook-like distraction free mode
+                })
+
+                gitalk.render('gitalk-container')
                 clearInterval(interval)
             }
         }, 100);
