@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[织布机（空）(空)](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
+[织布机（空）](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
 [织布机](Loom.md) , [布片](ClothSmall.md)  |  扩大布匹  
 [大块的布](ClothLarge.md)  |  撕开布料  
 [夏威夷衬衫](HawaiianShirt.md)  |  撕开布料  
@@ -49,7 +49,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [小树枝](Sticks.md)  |  制作止血带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [止血带](Tourniquet.md)<br><br>** 使用物: **<br>消失  |    
 ## 可拖至  
-[织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md), [头部（内层）(蓝图)](InnerHeadBlueprint.md), [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md), [左手(蓝图)](LeftHandBlueprint.md), [右手(蓝图)](RightHandBlueprint.md)  
+[织布机](Loom.md) | [织布机（空）](LoomEmpty.md) | [头部（内层）(蓝图)](InnerHeadBlueprint.md) | [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md) | [左手(蓝图)](LeftHandBlueprint.md) | [右手(蓝图)](RightHandBlueprint.md)  
 ## 可用于蓝图  
 - [火把(蓝图)](Bp_Torch.md)  
 - [止血带(蓝图)](Bp_Tourniquet.md)  

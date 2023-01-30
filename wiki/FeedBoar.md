@@ -10,4 +10,4 @@
 ----  |  ----  
 [猪食(蓝图)](Bp_FeedBoar.md)  |  蓝图制造  
 ## 可拖至  
-[猪食槽](BoarFeeder.md), [猪食槽(空)](BoarFeederEmpty.md)  
+[猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md)  

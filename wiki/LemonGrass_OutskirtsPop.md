@@ -9,9 +9,13 @@
 7501 ～ 15000  |  高密度  |    |  [丛林边缘柠檬草种群数量](LemonGrass_OutskirtsPop.md)加成+1  |    
 15001 ～ 19999  |  超高密度  |    |  [丛林边缘柠檬草种群数量](LemonGrass_OutskirtsPop.md)加成+2  |    
 20000 ～ 20000  |  极高密度  |    |  [沙滩柠檬草种群数量](LemonGrass_BeachPop.md)加成+1  |    
-## 关联状态  
+## 相关卡牌  
 [海湾柠檬草种群数量](LemonGrass_BayPop.md)  |  [沙滩柠檬草种群数量](LemonGrass_BeachPop.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林边缘(区域)](Outskirts.md)  |  探索  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[丛林边缘(区域)](Outskirts.md)  |  影响  |  1000 ~ 20000  

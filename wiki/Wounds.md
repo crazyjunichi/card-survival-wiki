@@ -10,7 +10,7 @@
 201 ～ 600  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">中度伤口  |  好痛！  |  [食欲](Appetite.md)+100  |    
 601 ～ 1000  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">重度伤口  |  太痛啦！！  |  [食欲](Appetite.md)+150  |    
 1001 ～ 1500  |  <img decoding="async" src="Sprite/Laceration.png" href="a.md" style="max-width:20px;max-height:20px;">严重伤口  |  哼啊啊啊！！！  |  [食欲](Appetite.md)+200  |    
-## 关联状态  
+## 相关卡牌  
 [烧伤](Burns.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

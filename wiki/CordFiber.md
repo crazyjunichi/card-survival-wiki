@@ -25,10 +25,10 @@
 [捕鱼陷阱](FishTrap.md)  |  拆除  
 [羊食槽](GoatFeeder.md)  |  拆解  
 [羊食槽(空)](GoatFeederEmpty.md)  |  拆解  
-[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  
-[织布机（空）(空)](LoomEmpty.md) , [布片](ClothSmall.md)  |  解编布匹  
-[织布机（空）(空)](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
-[织布机（空）(空)](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
+[织布机（空）](LoomEmpty.md)  |  拆卸织布机  
+[织布机（空）](LoomEmpty.md) , [布片](ClothSmall.md)  |  解编布匹  
+[织布机（空）](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
+[织布机（空）](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
 [打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
 [灰山鹑喂食器](PartridgeFeeder.md)  |  拆解  
 [灰山鹑喂食器(空)](PartridgeFeederEmpty.md)  |  拆解  
@@ -101,7 +101,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [细线](CordFiber.md)  |  制作线团<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br><br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖至  
-[捕捞拖网](RaftFishTrap.md), [稻草人](Scarecrow.md), [骨针](BoneNeedle.md), [铜针](CopperNeedle.md), [细线](CordFiber.md), [补给箱](SupplyChestRaft.md), [小树枝](Sticks.md), [木针](WoodenNeedle.md), [损坏的帆](SailBroken_Raft.md), [收起的帆](SailDown_Raft.md)  
+[捕捞拖网](RaftFishTrap.md) | [稻草人](Scarecrow.md) | [骨针](BoneNeedle.md) | [铜针](CopperNeedle.md) | [细线](CordFiber.md) | [补给箱](SupplyChestRaft.md) | [小树枝](Sticks.md) | [木针](WoodenNeedle.md) | [损坏的帆](SailBroken_Raft.md) | [收起的帆](SailDown_Raft.md)  
 ## 可用于蓝图  
 - [简易床(蓝图)](Bp_BedRustic.md)  
 - [木床(蓝图)](Bp_BedWooden.md)  

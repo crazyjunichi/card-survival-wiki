@@ -54,5 +54,13 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-RE3Z6GM8B9',{'page_path': location.pathname + location.hash });
+  gtag('config', 'G-RE3Z6GM8B9');
 </script>
+
+<style>
+  .utterances {
+    margin-left:0;
+    margin-top:50px;
+    margin-bottom:50px;
+  }
+</style>

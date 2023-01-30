@@ -12,3 +12,8 @@
 ----  |  ----  |  ----  
 [皮裤](LeatherPants.md)  |  被动  |  10  
 [军裤](MilitaryPants.md)  |  被动  |  5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[我发现了一头野猪！(事件)](Event_BoarFight.md)  |  影响  |  1 ~ 100  
+[攻击无人机！(事件)](Event_DroneFight.md)  |  影响  |  1 ~ 100  

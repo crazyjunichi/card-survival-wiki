@@ -14,4 +14,4 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 我躲过去了！<br>  |  -  |  [游泳(技能)](Skill_Swimming.md): 100-150  |  消失  |    
-被咬了……<br>  |  -  |  [游泳(技能)](Skill_Swimming.md): 0-99  |  消失  |  [VenomKraitInjector_GameName](VenomKraitInjector.md)+6～+16  
+被咬了……<br>  |  -  |  [游泳(技能)](Skill_Swimming.md): 0-99  |  消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16  

@@ -7,6 +7,8 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 672  |  第一周  |    |  [细菌性霍乱并发症](BacteriaCholeraPackage.md)加成+10  |    
 2880 ～ 5760  |  计数器就绪  |    |  [巨蜥袭击计时器](MonitorRaidCounter.md)+1<br>[情绪钟摆](MoodOscillator.md)加成+1  |    
-## 可被以下操作改变  
+## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  0 ~ 672  
+[红树林(区域)](Mangroves.md)  |  影响  |  0 ~ 672  

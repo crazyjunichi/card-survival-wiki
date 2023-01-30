@@ -72,8 +72,25 @@
 [塑料瓶(满)](PlasticBottleFull.md)  |  收集雨水  |  1 ~ 5  
 [茉莉花(塑料瓶)](PlasticBottleJasmine.md)  |  收集雨水  |  1 ~ 5  
 [水袋](Waterskin.md)  |  收集雨水  |  1 ~ 5  
+[竖井](ShaftFloodedChamberToCrystalChamber.md)  |  影响  |  1 ~ 5  
+[竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  影响  |  1 ~ 5  
+[坑洞(西部高地)](HighlandHoleEntrance.md)  |  影响  |  1 ~ 5  
+[离开](HighlandHoleExit.md)  |  影响  |  1 ~ 5  
+[前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  影响  |  1 ~ 5  
+[前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  影响  |  1 ~ 5  
+[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  影响  |  1 ~ 5  
+[前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  影响  |  1 ~ 5  
+[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  影响  |  1 ~ 5  
+[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  影响  |  1 ~ 5  
+[摘完的椰子树](PalmTreeCleared.md)  |  影响  |  1 ~ 5  
+[椰子树(新)](PalmTreeNew.md)  |  影响  |  1 ~ 5  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  影响  |  1 ~ 5  
+[椰子树(旧)](PalmTreeOld.md)  |  影响  |  1 ~ 5  
+[树液收集处](PalmTreeSapStation.md)  |  影响  |  1 ~ 5  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  影响  |  1 ~ 5  
+[椰子树](PalmTree_IH.md)  |  影响  |  1 ~ 5  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  1 ~ 3  
-[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  1 ~ 3  
+[海鸥巢](SeagullNest.md)  |  影响  |  1 ~ 5  
 [纤维](Fibers.md)  |  点燃火绒  |  0  
 [枯叶](LeavesDry.md)  |  点燃火绒  |  0  
 [鸟巢](Nest.md)  |  点燃火绒  |  0  

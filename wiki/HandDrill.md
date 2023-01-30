@@ -13,7 +13,7 @@
 [手钻(蓝图)](Bp_HandDrill.md)  |  蓝图制造  
 [小树枝](Sticks.md) , [“切割工具”](tag_Cutter.md)  |  制作手钻  
 ## 可拖至  
-[纤维](Fibers.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [木屑](WoodShavings.md)  
+[纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

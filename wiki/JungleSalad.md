@@ -16,7 +16,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  → [椰子壳](CoconutShell.md)  |  [饱食](Satiation.md)+45<br>[胃](Stomach.md)+35<br>[水分](Hydration.md)+22<br>[情绪](Morale.md)+5<br>[世界观](Structure.md)+15<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+75<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+35<br>[坚果<nobr>厌倦度</nobr>](SaturationNuts.md)+35<br>[污垢](Filth.md)+15<br>[腹泻](Diarrhoea.md)+30  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
+[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

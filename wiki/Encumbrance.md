@@ -11,6 +11,3 @@
 3001 ～ 3500  |  <img decoding="async" src="Sprite/Weight.png" href="a.md" style="max-width:20px;max-height:20px;">负重高  |  我带的东西太多了……  |    |  [腿部动作](LegAction.md): <br>[攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-4<br>时间+2  
 3501 ～ 3999  |  <img decoding="async" src="Sprite/Weight.png" href="a.md" style="max-width:20px;max-height:20px;">负重极高  |  我带的东西太多了……  |    |  [腿部动作](LegAction.md): <br>[攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-6<br>时间+4  
 4000 ～ 4000  |  <img decoding="async" src="Sprite/Weight.png" href="a.md" style="max-width:20px;max-height:20px;">负重过高无法移动  |  我带的东西太多了……  |    |  [腿部动作](LegAction.md): <br>[攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-8<br>时间+6  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

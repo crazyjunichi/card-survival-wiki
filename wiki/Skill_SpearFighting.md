@@ -37,3 +37,26 @@
 [废金属长矛](SpearScrap.md)  |  训练  |  1  
 [鲨鱼](SharkVisitor.md)  |  用长矛攻击！  |  1  
 [扫帚](Broom.md)  |  训练  |  0.5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[一头山羊！(事件)](Event_GoatFight.md)  |  影响  |  1 ~ 150  
+[一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  影响  |  1 ~ 150  
+[一只海鸥！(事件)](Event_SeagullFight.md)  |  影响  |  1 ~ 150  
+[一只海鸥！(事件)](Event_SeagullRaid.md)  |  影响  |  1 ~ 150  
+[一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  影响  |  1 ~ 150  
+[我发现了一头野猪！(事件)](Event_BoarFight.md)  |  影响  |  0 ~ 150  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  影响  |  0 ~ 150  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  影响  |  0 ~ 100  
+[攻击无人机！(事件)](Event_DroneFight.md)  |  影响  |  0 ~ 150  
+[攻击无人机！(事件)](Event_DroneFight.md)  |  影响  |  0 ~ 100  
+[宿敌来了！(事件)](Event_EnemyFight.md)  |  影响  |  0 ~ 150  
+[猎手来了(事件)](Event_HunterFight.md)  |  影响  |  0 ~ 150  
+[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  影响  |  0 ~ 150  
+[一只猕猴！(事件)](Event_MacaqueFight.md)  |  影响  |  0 ~ 150  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  影响  |  0 ~ 150  
+[一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  影响  |  0 ~ 150  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  影响  |  0 ~ 150  
+[一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 150  
+[一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 150  
+[鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  

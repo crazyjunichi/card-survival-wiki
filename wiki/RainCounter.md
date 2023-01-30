@@ -5,7 +5,7 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-## 关联状态  
+## 相关卡牌  
 [季节](Seasons.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
@@ -22,3 +22,15 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[阴天](TropicalIsland_Cloudy.md)  |  影响  |  500 ~ 700  
+[小雨](TropicalIsland_LightRain.md)  |  影响  |  500 ~ 700  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  500 ~ 700  
+[晴朗](TropicalIsland_Clear.md)  |  影响  |  0 ~ 700  
+[阴天](TropicalIsland_Cloudy.md)  |  影响  |  0 ~ 700  
+[大雨](TropicalIsland_HeavyRain.md)  |  影响  |  0 ~ 700  
+[小雨](TropicalIsland_LightRain.md)  |  影响  |  0 ~ 700  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  0 ~ 700  
+[暴风雨](TropicalIsland_Storm.md)  |  影响  |  0 ~ 700  

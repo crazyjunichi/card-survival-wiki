@@ -15,5 +15,5 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 别想伤到我<br>  |  -  |  [腿部防护](LegProtection.md): 5-10  |  消失  |    
-继续<br>  |  -  |  [腿部防护](LegProtection.md): 1-4.9  |  消失  |  [VenomKraitInjector_GameName](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  
-继续<br>  |  -  |  [腿部防护](LegProtection.md): 0-0  |  消失  |  [VenomKraitInjector_GameName](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  
+继续<br>  |  -  |  [腿部防护](LegProtection.md): 1-4.9  |  消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  
+继续<br>  |  -  |  [腿部防护](LegProtection.md): 0-0  |  消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  

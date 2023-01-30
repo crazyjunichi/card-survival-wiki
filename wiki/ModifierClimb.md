@@ -1,4 +1,4 @@
-# ModifierClimb_GameName  
+# 攀爬动作受限  
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 3  
 #### ** 基础变化率: ** 0 / 每15分钟  
@@ -8,7 +8,7 @@
 1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-1<br>时间+1  
 2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
 3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
-## 关联状态  
+## 相关卡牌  
 [怀孕](Pregnancy.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
@@ -56,6 +56,18 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[我发现了一头野猪！(事件)](Event_BoarFight.md)  |  影响  |  0 ~ 3  
+[喷毒眼镜蛇！(事件)](Event_CobraFight.md)  |  影响  |  0 ~ 3  
+[攻击无人机！(事件)](Event_DroneFight.md)  |  影响  |  0 ~ 3  
+[宿敌来了！(事件)](Event_EnemyFight.md)  |  影响  |  0 ~ 3  
+[猎手来了(事件)](Event_HunterFight.md)  |  影响  |  0 ~ 3  
+[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  影响  |  0 ~ 3  
+[一只猕猴！(事件)](Event_MacaqueFight.md)  |  影响  |  0 ~ 3  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  影响  |  0 ~ 3  
+[一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  影响  |  0 ~ 3  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  影响  |  0 ~ 3  
+[一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 3  
+[一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 3  
 [竖井(洞穴上层)](ShaftCrystalChamberToFloodedChamber.md)  |  爬下去  |  0 ~ 2  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  0 ~ 2  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  |  0 ~ 2  
@@ -80,9 +92,6 @@
 [椰子树(新)](PalmTreeNew.md)  |  爬树  |  0 ~ 2  
 [椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  0 ~ 2  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  0 ~ 2  
 [椰子树(旧)](PalmTreeOld.md)  |  爬树  |  0 ~ 2  
 [椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  0 ~ 2  
@@ -91,3 +100,4 @@
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  0 ~ 2  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  0 ~ 2  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  0 ~ 2  
+[鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 3  

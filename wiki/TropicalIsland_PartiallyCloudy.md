@@ -22,7 +22,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Clear] **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：550<br><br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：500<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+400<br>- [季节](Seasons.md)为5761～8640时权重-600<br><br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：100<br>- [雨水计数器](RainCounter.md)为500～700时权重0～+300<br>- [季节](Seasons.md)为2881～5760时权重+600<br>- [季节](Seasons.md)为5761～8640时权重-350<br>  
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [风向有利](OpenSea_Favourable.md)  

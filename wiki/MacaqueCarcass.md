@@ -32,7 +32,7 @@
 [黑曜石刀](KnifeObsidian.md)  |  剔肉<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Harvest] **<br>  [新鲜兽皮](SkinFresh.md)(+1)<br>  [猕猴肉](MacaqueMeat.md)(+2)<br>  [骨头(猕猴窝)](Bones.md)(+1)<br>  |  [污垢](Filth.md)+35  
 [“切割工具”](tag_Cutter.md)  |  剔肉<br>[手部动作](HandAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Harvest] **<br>  [新鲜兽皮](SkinFresh.md)(+1)<br>  [猕猴肉](MacaqueMeat.md)(+2)<br>  [骨头(猕猴窝)](Bones.md)(+1)<br>  |  [污垢](Filth.md)+35  
 ## 可拖至  
-[母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md)  
+[母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

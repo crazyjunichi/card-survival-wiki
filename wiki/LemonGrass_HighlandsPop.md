@@ -14,3 +14,9 @@
 [西部草原(区域)](GrasslandsW.md)  |  探索  |  -1000  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  -1000  
 [神秘谷(区域)](SecretValley.md)  |  探索  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 20000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 20000  
+[神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 20000  

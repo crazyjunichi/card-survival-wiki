@@ -25,3 +25,13 @@
 [捕捞拖网(蓝图)](Bp_RaftFishTrap.md)  |  蓝图制造  |  0.5  
 [套索陷阱(蓝图)](Bp_SnareTrap.md)  |  蓝图制造  |  0.5  
 [陷坑(蓝图)](Bp_TrappingPit.md)  |  蓝图制造  |  0.5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[诱捕笼](CageTrapPlaced.md)  |  影响  |  0 ~ 150  
+[落石陷阱](DeadfallTrap.md)  |  影响  |  0 ~ 150  
+[捕鱼陷阱](FishTrapDeployed.md)  |  影响  |  0 ~ 150  
+[原木陷阱](LogTrap.md)  |  影响  |  0 ~ 150  
+[捕捞拖网](RaftFishTrap.md)  |  影响  |  0 ~ 150  
+[套索陷阱](SnareTrap.md)  |  影响  |  0 ~ 150  
+[陷坑](TrappingPit.md)  |  影响  |  0 ~ 150  

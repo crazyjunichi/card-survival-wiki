@@ -12,7 +12,7 @@
 250 ～ 349  |  <img decoding="async" src="Sprite/Dirt2.png" href="a.md" style="max-width:20px;max-height:20px;">非常脏  |  我真想洗个澡  |  [表面细菌](BacteriaSurface.md)+3<br>[细菌性发烧](BacteriaFever.md)加成+2<br>[寄生虫](Parasites.md)加成+1  |    
 101 ～ 249  |  <img decoding="async" src="Sprite/Dirt1.png" href="a.md" style="max-width:20px;max-height:20px;">脏  |  我想洗个澡  |  [表面细菌](BacteriaSurface.md)+2<br>[细菌性发烧](BacteriaFever.md)加成+1  |    
 1 ～ 100  |  <img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [表面细菌](BacteriaSurface.md)+1  |    
-## 关联状态  
+## 相关卡牌  
 [失血](BloodLoss.md)  |  [淋雨](RainExposure.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

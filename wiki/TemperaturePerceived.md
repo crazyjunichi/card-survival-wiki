@@ -16,7 +16,7 @@
 -10 ～ -3  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">非常冷  |    |  [失温](Hypothermia.md)加成+28  |    
 -35 ～ -11  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">寒冷  |    |  [失温](Hypothermia.md)加成+32  |    
 -80 ～ -36  |  <img decoding="async" src="Sprite/Cold.png" href="a.md" style="max-width:20px;max-height:20px;">极端寒冷  |    |  [失温](Hypothermia.md)加成+40  |    
-## 关联状态  
+## 相关卡牌  
 [耐力](Stamina.md)  |  [湿度](Wetness.md)  |  [辣椒素](Capsaicin.md)  |  [睡眠钟](SleepClock.md)  |  [季节](Seasons.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

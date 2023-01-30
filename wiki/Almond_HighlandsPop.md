@@ -9,8 +9,5 @@
 3501 ～ 5000  |  高密度  |    |  [高地热带杏仁种群数量](Almond_HighlandsPop.md)加成+0.25  |    
 5001 ～ 5999  |  超高密度  |    |  [高地热带杏仁种群数量](Almond_HighlandsPop.md)加成+0.5  |    
 6000 ～ 6000  |  极高密度  |    |  [草原热带杏仁种群数量](Almond_GrasslandPop.md)加成+0.5  |    
-## 关联状态  
+## 相关卡牌  
 [草原热带杏仁种群数量](Almond_GrasslandPop.md)  |  [草原辣椒种群数量](Chilies_GrasslandPop.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

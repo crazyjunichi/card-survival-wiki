@@ -11,7 +11,7 @@
 2 ～ 3  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">高蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+2  |    
 4 ～ 4  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">很高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+4  |    
 5 ～ 5  |  <img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;">极高的蚊虫数量  |    |  [蚊虫叮咬](BugDamage.md)+5  |    
-## 关联状态  
+## 相关卡牌  
 [泥巴防护](MudProtection.md)  |  [降水值](RainValue.md)  |  [防晒霜](SunScreenApplied.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

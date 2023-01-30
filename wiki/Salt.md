@@ -18,7 +18,7 @@
 [烟熏炉](Smoker.md)  |  蒸发制盐  
 [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  蒸发制盐  
 ## 可拖至  
-[野猪肉](BoarMeat.md), [北梭鱼肉](BonefishMeat.md), [羊肉](GoatMeat.md), [绯鲤](Goatfish.md), [石斑鱼肉](GrouperMeat.md), [鲱鱼](Herring.md), [猕猴肉](MacaqueMeat.md), [鹦哥鱼](ParrotFish.md), [鲨鱼肉](SharkMeat.md), [马鲅鱼肉](ThreadfinMeat.md)  
+[野猪肉](BoarMeat.md) | [北梭鱼肉](BonefishMeat.md) | [羊肉](GoatMeat.md) | [绯鲤](Goatfish.md) | [石斑鱼肉](GrouperMeat.md) | [鲱鱼](Herring.md) | [猕猴肉](MacaqueMeat.md) | [鹦哥鱼](ParrotFish.md) | [鲨鱼肉](SharkMeat.md) | [马鲅鱼肉](ThreadfinMeat.md)  
 ## 可用于蓝图  
 - [黄油(蓝图)](Bp_Butter.md)  
 - [姜糖(蓝图)](Bp_CandiedGinger.md)  

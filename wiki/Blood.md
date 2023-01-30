@@ -11,11 +11,8 @@
 26 ～ 50  |  <img decoding="async" src="Sprite/BloodPressure.png" href="a.md" style="max-width:20px;max-height:20px;">低血压  |  我觉得头晕……  |  [体重](Weight.md)加成-1  |    
 1 ～ 25  |  <img decoding="async" src="Sprite/BloodPressure.png" href="a.md" style="max-width:20px;max-height:20px;">低血压  |  我感觉要晕倒了……  |  [体重](Weight.md)加成-1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/BloodPressure.png" href="a.md" style="max-width:20px;max-height:20px;">失血致死  |  你失血过多了……  |    |    
-## 关联状态  
+## 相关卡牌  
 [失血](BloodLoss.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

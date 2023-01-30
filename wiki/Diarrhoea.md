@@ -10,7 +10,7 @@
 149 ～ 200  |  <img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;">大便稀软  |  感觉不太好……  |  [肠道](Intestines.md)加成-0.5<br>[水分](Hydration.md)加成-1  |    
 201 ～ 250  |  <img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;">腹泻  |  我拉肚子了！  |  [肠道](Intestines.md)加成-1<br>[水分](Hydration.md)加成-2<br>[情绪](Morale.md)加成-0.5  |    
 251 ～ 300  |  <img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;">严重腹泻  |  ……  |  [肠道](Intestines.md)加成-2<br>[水分](Hydration.md)加成-3<br>[情绪](Morale.md)加成-1  |    
-## 关联状态  
+## 相关卡牌  
 [压力](Stress.md)  |  [细菌性腹泻](BacteriaDiarrhoea.md)  |  [野营热病](BacteriaTyphus.md)  |  [细菌性霍乱](BacteriaCholera.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [食物中毒](FoodPoisoning.md)  |  [姜效果](GingerEffect.md)  |  [奎宁](Quinine.md)  |  [米饭效果](RiceEffect.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

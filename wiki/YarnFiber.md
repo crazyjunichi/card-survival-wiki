@@ -22,4 +22,4 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [线团](YarnFiber.md)  |  制作绳子<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [绳子](Rope.md)<br><br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.25  
 ## 可拖至  
-[织布机（空）(空)](LoomEmpty.md), [纺锤](Spindle.md), [线团](YarnFiber.md)  
+[织布机（空）](LoomEmpty.md) | [纺锤](Spindle.md) | [线团](YarnFiber.md)  

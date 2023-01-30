@@ -9,6 +9,18 @@
 2881 ～ 5760  |  湿润季  |    |  [体感温度](TemperaturePerceived.md)-5<br>[雨水计数器](RainCounter.md)加成+5  |    
 5761 ～ 8640  |  干旱季  |    |  [体感温度](TemperaturePerceived.md)+5<br>[雨水计数器](RainCounter.md)加成-1  |    
 8641 ～ 8641  |  季节重启  |    |  [季节](Seasons.md)-8641  |    
-## 可被以下操作改变  
+## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[晴朗](TropicalIsland_Clear.md)  |  影响  |  5761 ~ 8640  
+[阴天](TropicalIsland_Cloudy.md)  |  影响  |  5761 ~ 8640  
+[大雨](TropicalIsland_HeavyRain.md)  |  影响  |  5761 ~ 8640  
+[小雨](TropicalIsland_LightRain.md)  |  影响  |  5761 ~ 8640  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  5761 ~ 8640  
+[暴风雨](TropicalIsland_Storm.md)  |  影响  |  5761 ~ 8640  
+[晴朗](TropicalIsland_Clear.md)  |  影响  |  2881 ~ 5760  
+[阴天](TropicalIsland_Cloudy.md)  |  影响  |  2881 ~ 5760  
+[大雨](TropicalIsland_HeavyRain.md)  |  影响  |  2881 ~ 5760  
+[小雨](TropicalIsland_LightRain.md)  |  影响  |  2881 ~ 5760  
+[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  2881 ~ 5760  
+[暴风雨](TropicalIsland_Storm.md)  |  影响  |  2881 ~ 5760  

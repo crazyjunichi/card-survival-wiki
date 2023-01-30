@@ -19,7 +19,7 @@
 [晾晒架](DryingRack.md)  |  拆解  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  
-[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  
+[织布机（空）](LoomEmpty.md)  |  拆卸织布机  
 [稻草人](Scarecrow.md)  |  拆除  
 [稻草人](Scarecrow.md)  |  转化  
 [陷坑](TrappingPit.md)  |  拆除陷阱  
@@ -54,7 +54,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  削成简易长矛<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易长矛](SpearRustic.md)<br><br>** 使用物: **<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
-[营火](Campfire.md), [粘土火盆](ClayFirePit.md), [火堆](Fire.md), [烟熏炉](Smoker.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
+[营火](Campfire.md) | [粘土火盆](ClayFirePit.md) | [火堆](Fire.md) | [烟熏炉](Smoker.md) | [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
 ## 可用于蓝图  
 - [简易床(蓝图)](Bp_BedRustic.md)  
 - [弓(蓝图)](Bp_Bow.md)  

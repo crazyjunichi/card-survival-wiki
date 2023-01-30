@@ -11,3 +11,7 @@
 ----  |  ----  |  ----  
 [胜利药片](VictoryPillsTV.md)  |  吃药  |  2  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[补给胶囊](TV_SupplyCapsule.md)  |  影响  |  8 ~ 10  

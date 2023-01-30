@@ -9,7 +9,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;">黑暗  |  太黑了，什么都看不见。  |  [清醒度](Wakefulness.md)加成-0.25<br>[世界观](Structure.md)加成-0.5  |    
 1 ～ 100  |  光亮  |    |  [监视者的凝视](WatchersGlare.md)加成-99  |    
-## 关联状态  
+## 相关卡牌  
 [眼部损伤](EyeDamage.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
@@ -67,23 +67,18 @@
 [吊床](Hammock.md)  |  拆解  |  10 ~ 100  
 [叶床](LeafBed.md)  |  修理床  |  10 ~ 100  
 [人鱼巢](MermaidNest.md)  |  浇水  |  10 ~ 100  
-[人鱼巢](MermaidNest.md)  |  浇水  |  10 ~ 100  
 [人鱼巢](MermaidNest.md)  |  修理巢  |  10 ~ 100  
 [窝棚](Shelter.md)  |  拆除  |  10 ~ 100  
 [窝棚](Shelter.md)  |  修理窝棚  |  10 ~ 100  
 [窝棚](Shelter.md)  |  组合  |  10 ~ 100  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  拆除  |  10 ~ 100  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  修理床  |  10 ~ 100  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  修理床  |  10 ~ 100  
 [帐篷](TentDeployed.md)  |  打包  |  10 ~ 100  
 [帐篷](TentDeployed.md)  |  回收塑料  |  10 ~ 100  
 [收起的帐篷](TentPacked.md)  |  组装帐篷  |  10 ~ 100  
 [收起的帐篷](TentPacked.md)  |  回收塑料  |  10 ~ 100  
 [蜂箱](BeeSkep.md)  |  采集  |  10 ~ 100  
-[蜂箱](BeeSkep.md)  |  采集  |  10 ~ 100  
 [繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  |  10 ~ 100  
-[繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  |  10 ~ 100  
-[蜂巢](Beehive.md)  |  采集  |  10 ~ 100  
 [蜂巢](Beehive.md)  |  采集  |  10 ~ 100  
 [诱捕笼](CageTrap.md)  |  放置  |  10 ~ 100  
 [诱捕笼](CageTrap.md)  |  拆除  |  10 ~ 100  
@@ -105,28 +100,21 @@
 [捕鱼陷阱](FishTrap.md)  |  拆除  |  10 ~ 100  
 [捕鱼陷阱](FishTrapDeployed.md)  |  拿起陷阱  |  10 ~ 100  
 [半根原木](HalfLog.md)  |  切割成木材  |  10 ~ 100  
-[半根原木](HalfLog.md)  |  切割成木材  |  10 ~ 100  
 [没气的救生筏](LifeRaftDeflated.md)  |  切下塑料布  |  10 ~ 100  
-[原木](Log.md)  |  截成两段  |  10 ~ 100  
 [原木](Log.md)  |  截成两段  |  10 ~ 100  
 [原木陷阱](LogTrap.md)  |  拆除陷阱  |  10 ~ 100  
 [原木陷阱](LogTrapTriggered.md)  |  重置陷阱  |  10 ~ 100  
 [原木陷阱](LogTrapTriggered.md)  |  拆除陷阱  |  10 ~ 100  
 [织布机](Loom.md)  |  织布  |  10 ~ 100  
 [织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
-[织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
-[织布机](Loom.md)  |  扩大布匹  |  10 ~ 100  
-[织布机（空）(空)](LoomEmpty.md)  |  拆卸织布机  |  10 ~ 100  
-[织布机（空）(空)](LoomEmpty.md)  |  将线放到织布机上  |  10 ~ 100  
-[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
-[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
-[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
+[织布机（空）](LoomEmpty.md)  |  拆卸织布机  |  10 ~ 100  
+[织布机（空）](LoomEmpty.md)  |  将线放到织布机上  |  10 ~ 100  
+[织布机（空）](LoomEmpty.md)  |  解编布匹  |  10 ~ 100  
 [打开的降落伞](ParachuteDeployed.md)  |  切下塑料布  |  10 ~ 100  
 [捕捞拖网](RaftFishTrap.md)  |  修理  |  10 ~ 100  
 [稻草人](Scarecrow.md)  |  拆除  |  10 ~ 100  
 [稻草人](Scarecrow.md)  |  修理  |  10 ~ 100  
 [烟熏炉框架](SmokerFrame.md)  |  移除树枝  |  10 ~ 100  
-[烟熏炉框架](SmokerFrame.md)  |  覆盖烟熏炉  |  10 ~ 100  
 [烟熏炉框架](SmokerFrame.md)  |  覆盖烟熏炉  |  10 ~ 100  
 [烟熏炉(无火)](SmokerNoFire.md)  |  移除布匹  |  10 ~ 100  
 [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)  |  移除塑料布  |  10 ~ 100  
@@ -150,8 +138,6 @@
 [皮裤](LeatherPants.md)  |  拆解  |  10 ~ 100  
 [椰子(猕猴窝)](Coconut.md)  |  给椰子钻孔  |  10 ~ 100  
 [椰子(猕猴窝)](Coconut.md)  |  敲开椰子  |  10 ~ 100  
-[青椰子](CoconutHusked.md)  |  剥  |  10 ~ 100  
-[青椰子](CoconutHusked.md)  |  剥  |  10 ~ 100  
 [青椰子](CoconutHusked.md)  |  剥  |  10 ~ 100  
 [带孔椰子](CoconutPerforated.md)  |  敲开椰子  |  10 ~ 100  
 [腐烂的椰子](CoconutRotten.md)  |  敲开  |  10 ~ 100  
@@ -197,8 +183,6 @@
 [干燥的卡瓦根](KavaRootDried.md)  |  捣碎  |  10 ~ 100  
 [大马鲅鱼](KingThreadfin.md)  |  切割  |  10 ~ 100  
 [野猪尸体](BoarCarcass.md)  |  剥皮  |  10 ~ 100  
-[野猪尸体](BoarCarcass.md)  |  剥皮  |  10 ~ 100  
-[小猪尸体](BoarCarcassPiglet.md)  |  剥皮  |  10 ~ 100  
 [小猪尸体](BoarCarcassPiglet.md)  |  剥皮  |  10 ~ 100  
 [母猪](BoarEnclosureFemale.md)  |  捡起  |  10 ~ 100  
 [母猪](BoarEnclosureFemale.md)  |  宰杀  |  10 ~ 100  
@@ -207,18 +191,13 @@
 [小猪](BoarEnclosurePiglet.md)  |  捡起  |  10 ~ 100  
 [小猪](BoarEnclosurePiglet.md)  |  宰杀  |  10 ~ 100  
 [剥皮的野猪](BoarSkinned.md)  |  剔肉  |  10 ~ 100  
-[剥皮的野猪](BoarSkinned.md)  |  剔肉  |  10 ~ 100  
-[剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉  |  10 ~ 100  
 [剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉  |  10 ~ 100  
 [母猪](BoarTiedFemale.md)  |  宰杀  |  10 ~ 100  
 [公猪](BoarTiedMale.md)  |  宰杀  |  10 ~ 100  
 [小猪](BoarTiedPiglet.md)  |  宰杀  |  10 ~ 100  
 [忠犬朋友](DogFriend.md)  |  杀害！  |  10 ~ 100  
 [山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
-[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  10 ~ 100  
 [小羊尸体](GoatCarcassKid.md)  |  剥皮  |  10 ~ 100  
-[小羊尸体](GoatCarcassKid.md)  |  剥皮  |  10 ~ 100  
-[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
 [山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  10 ~ 100  
 [母山羊](GoatEnclosureFemale.md)  |  捆起来  |  10 ~ 100  
 [母山羊](GoatEnclosureFemale.md)  |  宰杀  |  10 ~ 100  
@@ -230,8 +209,6 @@
 [公山羊](GoatEnclosureMale.md)  |  捆起来  |  10 ~ 100  
 [公山羊](GoatEnclosureMale.md)  |  宰杀  |  10 ~ 100  
 [剥皮的山羊](GoatSkinned.md)  |  剔肉  |  10 ~ 100  
-[剥皮的山羊](GoatSkinned.md)  |  剔肉  |  10 ~ 100  
-[剥皮的小羊](GoatSkinnedKid.md)  |  剔肉  |  10 ~ 100  
 [剥皮的小羊](GoatSkinnedKid.md)  |  剔肉  |  10 ~ 100  
 [母山羊](GoatTiedFemale.md)  |  宰杀  |  10 ~ 100  
 [哺乳期山羊](GoatTiedFemaleLactating.md)  |  宰杀  |  10 ~ 100  
@@ -239,7 +216,6 @@
 [公山羊](GoatTiedMale.md)  |  宰杀  |  10 ~ 100  
 [猕猴朋友](MacaqueFriend.md)  |  杀害！  |  10 ~ 100  
 [柠檬草](LemongrassStalks.md)  |  捣碎  |  10 ~ 100  
-[猕猴尸体](MacaqueCarcass.md)  |  剔肉  |  10 ~ 100  
 [猕猴尸体](MacaqueCarcass.md)  |  剔肉  |  10 ~ 100  
 [猕猴肉](MacaqueMeat.md)  |  腌制  |  10 ~ 100  
 [受伤的猕猴](MacaqueWounded.md)  |  解脱  |  10 ~ 100  
@@ -249,7 +225,6 @@
 [烟熏鹦哥鱼](ParrotFishSmoked.md)  |  制作诱饵  |  10 ~ 100  
 [灰山鹑遗骸](PartridgeCarcass.md)  |  采集  |  10 ~ 100  
 [小灰山鹑](PartridgeChick.md)  |  宰杀  |  10 ~ 100  
-[灰山鹑尸体](PartridgeDead.md)  |  剖开  |  10 ~ 100  
 [灰山鹑尸体](PartridgeDead.md)  |  剖开  |  10 ~ 100  
 [雌灰山鹑](PartridgeFemaleEnclosure.md)  |  宰杀  |  10 ~ 100  
 [雌灰山鹑](PartridgeFemaleEnclosure.md)  |  捆起来  |  10 ~ 100  
@@ -261,10 +236,7 @@
 [雄灰山鹑](PartridgeMaleLive.md)  |  剖开  |  10 ~ 100  
 [海鸥遗骸](SeagullCarcass.md)  |  处理  |  10 ~ 100  
 [海鸥尸体](SeagullDead.md)  |  剖开  |  10 ~ 100  
-[海鸥尸体](SeagullDead.md)  |  剖开  |  10 ~ 100  
 [海怪尸体](SeahoundCarcass.md)  |  切割  |  10 ~ 100  
-[海怪尸体](SeahoundCarcass.md)  |  切割  |  10 ~ 100  
-[鲨鱼尸体](SharkCarcass.md)  |  切割  |  10 ~ 100  
 [鲨鱼尸体](SharkCarcass.md)  |  切割  |  10 ~ 100  
 [烤鲨鱼肉](SharkCooked.md)  |  制作诱饵  |  10 ~ 100  
 [鲨鱼肉](SharkMeat.md)  |  腌制  |  10 ~ 100  
@@ -284,18 +256,13 @@
 [补给箱](SupplyChestRaft.md)  |  修理  |  10 ~ 100  
 [前置步骤](LiferaftBasics.md)  |  阅读手册  |  10 ~ 100  
 [巨蜥尸体](MonitorCarcass.md)  |  剥皮  |  10 ~ 100  
-[巨蜥尸体](MonitorCarcass.md)  |  剥皮  |  10 ~ 100  
 [剥皮的巨蜥](MonitorSkinned.md)  |  剔肉  |  10 ~ 100  
-[剥皮的巨蜥](MonitorSkinned.md)  |  剔肉  |  10 ~ 100  
-[水椰子](NipaFruit.md)  |  取得种子  |  10 ~ 100  
 [水椰子](NipaFruit.md)  |  取得种子  |  10 ~ 100  
 [黑曜石](Obsidian.md)  |  练习石工  |  10 ~ 100  
 [牡蛎](Oyster.md)  |  打开  |  10 ~ 100  
 [棕榈叶](PalmFronds.md)  |  编织  |  10 ~ 100  
 [绳子](Rope.md)  |  拆开  |  10 ~ 100  
 [新鲜兽皮](SkinFresh.md)  |  刮皮  |  10 ~ 100  
-[新鲜兽皮](SkinFresh.md)  |  刮皮  |  10 ~ 100  
-[蜥蜴生皮](SkinFreshReptile.md)  |  刮皮  |  10 ~ 100  
 [蜥蜴生皮](SkinFreshReptile.md)  |  刮皮  |  10 ~ 100  
 [蛇草](SnakeGrass.md)  |  提取纤维  |  10 ~ 100  
 [蛇草](SnakeGrass.md)  |  捣碎  |  10 ~ 100  
@@ -307,7 +274,6 @@
 [大石块](StoneHeavy.md)  |  打磨石头  |  10 ~ 100  
 [硫磺石](StoneHeavyBrimstone.md)  |  打磨石头  |  10 ~ 100  
 [生存指南](SurvivalGuide.md)  |  阅读指南  |  10 ~ 100  
-[纺锤](Spindle.md)  |  缠线  |  10 ~ 100  
 [纺锤](Spindle.md)  |  缠线  |  10 ~ 100  
 [热带杏仁](TropicalAlmonds.md)  |  剥开杏仁  |  10 ~ 100  
 [野猪牙](Tusk.md)  |  雕刻  |  10 ~ 100  
@@ -328,7 +294,6 @@
 [金鸡纳树](CinchonaTree.md)  |  砍树  |  10 ~ 100  
 [金鸡纳树](CinchonaTree.md)  |  采集树皮  |  10 ~ 100  
 [剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树  |  10 ~ 100  
-[废墟(泥屋)](Debris.md)  |  清理  |  10 ~ 100  
 [废墟(泥屋)](Debris.md)  |  清理  |  10 ~ 100  
 [漂浮的残骸](FloatingDebris.md)  |  采集  |  10 ~ 100  
 [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖  |  10 ~ 100  
@@ -353,7 +318,6 @@
 [隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  |  10 ~ 100  
 [丛林深处(区域)](DeepJungle.md)  |  探索  |  10 ~ 100  
 [丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  10 ~ 100  
-[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  10 ~ 100  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  10 ~ 100  
 [东部草原(区域)](GrasslandsE.md)  |  探索  |  10 ~ 100  
 [东部草原(区域)](GrasslandsE.md)  |  挖土  |  10 ~ 100  
@@ -362,21 +326,15 @@
 [高处](HighPoint.md)  |  调查  |  10 ~ 100  
 [东部高地(区域)](HighlandsEastern.md)  |  探索  |  10 ~ 100  
 [东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  10 ~ 100  
-[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  10 ~ 100  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  10 ~ 100  
-[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  10 ~ 100  
 [西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  10 ~ 100  
 [丛林(区域)](Jungle.md)  |  探索  |  10 ~ 100  
 [丛林(区域)](Jungle.md)  |  砍伐木材  |  10 ~ 100  
-[丛林(区域)](Jungle.md)  |  砍伐木材  |  10 ~ 100  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  |  10 ~ 100  
-[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  10 ~ 100  
 [丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  10 ~ 100  
 [红树林(区域)](Mangroves.md)  |  探索  |  10 ~ 100  
 [红树林(区域)](Mangroves.md)  |  砍伐木材  |  10 ~ 100  
-[红树林(区域)](Mangroves.md)  |  砍伐木材  |  10 ~ 100  
 [丛林边缘(区域)](Outskirts.md)  |  探索  |  10 ~ 100  
-[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  10 ~ 100  
 [丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  10 ~ 100  
 [岩滩(区域)](Rocks.md)  |  探索  |  10 ~ 100  
 [沙堆(环礁)](SandSource.md)  |  堆沙堡  |  10 ~ 100  
@@ -405,7 +363,6 @@
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  10 ~ 100  
 [火山(区域)](Volcano.md)  |  探索  |  10 ~ 100  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  |  10 ~ 100  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  10 ~ 100  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  10 ~ 100  
 [幼年椰子树](PalmTreeYoung.md)  |  砍树  |  10 ~ 100  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  10 ~ 100  
@@ -448,7 +405,6 @@
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  10 ~ 100  
 [香蕉树](BananaTree.md)  |  采摘香蕉  |  10 ~ 100  
 [摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  10 ~ 100  
-[摘光的香蕉树](BananaTreeCleared.md)  |  砍树  |  10 ~ 100  
 [辣椒丛](ChiliPlant.md)  |  采集辣椒  |  10 ~ 100  
 [月季丛](ChinaRosePlant.md)  |  采集花朵  |  10 ~ 100  
 [咖啡丛](CoffeePlant.md)  |  采集  |  10 ~ 100  
@@ -456,57 +412,39 @@
 [茉莉花](JasminePlant.md)  |  采集花朵  |  10 ~ 100  
 [卡瓦胡椒株](KavaPlant.md)  |  采集根部  |  10 ~ 100  
 [大树](LargeTree.md)  |  砍树  |  10 ~ 100  
-[大树](LargeTree.md)  |  砍树  |  10 ~ 100  
-[倒下的大树](LargeTreeFelled.md)  |  修整原木  |  10 ~ 100  
 [倒下的大树](LargeTreeFelled.md)  |  修整原木  |  10 ~ 100  
 [芒果树](MangoTree.md)  |  采集  |  10 ~ 100  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  10 ~ 100  
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  10 ~ 100  
 [棕榈丛](PalmBush.md)  |  采集  |  10 ~ 100  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  10 ~ 100  
 [摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  10 ~ 100  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  10 ~ 100  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  10 ~ 100  
 [倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  10 ~ 100  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  |  10 ~ 100  
 [椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  10 ~ 100  
 [椰子树(新)](PalmTreeNew.md)  |  砍倒  |  10 ~ 100  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  10 ~ 100  
 [椰子树(新)](PalmTreeNew.md)  |  扔石头  |  10 ~ 100  
 [椰子树(新)](PalmTreeNew.md)  |  派出猕猴  |  10 ~ 100  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  10 ~ 100  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  10 ~ 100  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  10 ~ 100  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  10 ~ 100  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  10 ~ 100  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  10 ~ 100  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  10 ~ 100  
 [椰子树(旧)](PalmTreeOld.md)  |  爬树  |  10 ~ 100  
 [椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  10 ~ 100  
 [椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  10 ~ 100  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  10 ~ 100  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  10 ~ 100  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  10 ~ 100  
-[树液收集处](PalmTreeSapStation.md)  |  砍倒  |  10 ~ 100  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  10 ~ 100  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  10 ~ 100  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  10 ~ 100  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
-[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  10 ~ 100  
 [椰子树](PalmTree_IH.md)  |  爬树  |  10 ~ 100  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  10 ~ 100  
-[椰子树](PalmTree_IH.md)  |  砍倒  |  10 ~ 100  
 [西米树](SagoPalm.md)  |  砍树  |  10 ~ 100  
-[西米树](SagoPalm.md)  |  砍树  |  10 ~ 100  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  10 ~ 100  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  10 ~ 100  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  10 ~ 100  
 [蛇草丛](SnakegrassPatch.md)  |  采集  |  10 ~ 100  
 [蜘蛛兰](SpiderLily.md)  |  采集  |  10 ~ 100  
 [热带杏仁树](TropicalAlmondTree.md)  |  摘热带杏仁  |  10 ~ 100  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  10 ~ 100  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  10 ~ 100  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  10 ~ 100  
 [倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  10 ~ 100  
 [大叶仙茅](WeevilLily.md)  |  采集  |  10 ~ 100  
 [野参薯](YamPlant.md)  |  刨参薯根  |  10 ~ 100  
@@ -556,7 +494,6 @@
 [杂菌](AssortedMushroomsPlant.md)  |  采集  |  5 ~ 100  
 [泥堆](MudPile.md)  |  制作粘土  |  1 ~ 100  
 [泥堆](MudPile.md)  |  制作泥砖  |  1 ~ 100  
-[泥堆](MudPile.md)  |  制作粘土  |  1 ~ 100  
 [座椅](Seat.md)  |  拆解  |  1 ~ 100  
 [座椅](SeatAttached.md)  |  分离  |  1 ~ 100  
 [座椅](SeatPlaced.md)  |  拆卸  |  1 ~ 100  
@@ -564,5 +501,7 @@
 [鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  1 ~ 100  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  1 ~ 100  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  1 ~ 100  
+[老旧的踪迹(事件)](Event_BoarTrailOld.md)  |  影响  |  0  
+[近期的踪迹(事件)](Event_BoarTrailRecent.md)  |  影响  |  0  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  0  
 [黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  休息  |  0  

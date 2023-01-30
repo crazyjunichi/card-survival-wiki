@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[织布机（空）(空)](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
+[织布机（空）](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
 [织布机](Loom.md)  |  织布  
 [草木灰敷料](AshDressing.md)  |  去除灰烬  
 [草木灰敷料](AshDressing.md)  |  转化  
@@ -31,7 +31,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [灰烬](Ash.md)  |  制作草木灰敷料<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [草木灰敷料](AshDressing.md)<br><br>** 使用物: **<br>消失  |    
 ## 可拖至  
-[织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md)  
+[织布机](Loom.md) | [织布机（空）](LoomEmpty.md)  
 ## 可用于蓝图  
 - [草木灰敷料(蓝图)](Bp_AshDressing.md)  
 - [投石索(蓝图)](Bp_Sling.md)  

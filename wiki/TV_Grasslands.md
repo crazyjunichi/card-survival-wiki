@@ -13,3 +13,9 @@
 [东部草原(区域)](GrasslandsE.md)  |  探索  |  -1  
 [西部草原(区域)](GrasslandsW.md)  |  探索  |  -1  
 [神秘谷(区域)](SecretValley.md)  |  探索  |  -1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  1  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1  
+[神秘谷(区域)](SecretValley.md)  |  影响  |  1  

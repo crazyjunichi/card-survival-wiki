@@ -11,8 +11,5 @@
 2 ～ 2  |  Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[手部动作](HandAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
 3 ～ 3  |  Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[手部动作](HandAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
 1 ～ 2880  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">神经损伤  |  在我取下止血带后就会慢慢恢复。  |    |    
-## 关联状态  
+## 相关卡牌  
 [腿部神经损伤](NerveDamageLegs.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

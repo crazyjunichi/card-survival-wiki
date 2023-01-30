@@ -14,7 +14,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石斧](StoneAxe.md)  |  砍倒<br>  |  1小时  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>→ [原木](Log.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconuts and Leaves] **<br>  [青椰子](CoconutHusked.md)(+1～+2)<br>  [棕榈叶](PalmFronds.md)(+6)<br>基础权重：1<br>  |  [体重](Weight.md)-8<br>[手掌损伤](HandDamage.md)+80  
 [铜斧](AxeCopper.md)  |  砍倒<br>  |  45分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>→ [原木](Log.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconuts and Leaves] **<br>  [青椰子](CoconutHusked.md)(+1～+2)<br>  [棕榈叶](PalmFronds.md)(+6)<br>基础权重：1<br>  |  [体重](Weight.md)-8<br>[手掌损伤](HandDamage.md)+60  
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 摘完的  |  [阻止抽到棕榈树](PalmTreeKiller.md): 1-1  |  → [摘完的椰子树](PalmTreeCleared.md)  

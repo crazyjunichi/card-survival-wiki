@@ -13,7 +13,7 @@
 [海螺](Conch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
 [大海螺](GiantConch.md) , [“锤”](tag_Hammer.md)  |  敲碎海螺  
 ## 可拖至  
-[泥堆](MudPile.md), [粘土](Clay.md)  
+[泥堆](MudPile.md) | [粘土](Clay.md)  
 ## 可用于蓝图  
 - [斧头模具(蓝图)](Bp_MoldAxe.md)  
 - [刀模具(蓝图)](Bp_MoldKnife.md)  

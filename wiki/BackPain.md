@@ -9,7 +9,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 75 ～ 150  |  <img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;">背痛  |    |  [疼痛](Pain.md)+50  |    
 151 ～ 225  |  <img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;">严重的背痛  |  痛……  |  [疼痛](Pain.md)+100  |    
-## 关联状态  
+## 相关卡牌  
 [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

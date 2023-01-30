@@ -12,7 +12,7 @@
 16 ～ 25  |  <img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;">疲惫  |  大量体力活动让我有点累了。  |  [体重](Weight.md)加成-2<br>[食欲](Appetite.md)+75<br>[体感温度](TemperaturePerceived.md)+5  |    
 26 ～ 31  |  活跃  |    |  [体重](Weight.md)加成-1<br>[食欲](Appetite.md)+50<br>[体感温度](TemperaturePerceived.md)+2  |    
 32 ～ 32  |  休息中  |    |    |    
-## 关联状态  
+## 相关卡牌  
 [肺部伤害](LungDamage.md)  |  [发烧](Fever.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
@@ -262,20 +262,13 @@
 [坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  |  11 ~ 32  
 [离开](HighlandHoleExit.md)  |  爬上去  |  11 ~ 32  
 [丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  11 ~ 32  
-[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  11 ~ 32  
 [东部草原(区域)](GrasslandsE.md)  |  挖土  |  11 ~ 32  
 [西部草原(区域)](GrasslandsW.md)  |  挖土  |  11 ~ 32  
 [东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  11 ~ 32  
-[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  11 ~ 32  
-[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  11 ~ 32  
 [西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  11 ~ 32  
 [丛林(区域)](Jungle.md)  |  砍伐木材  |  11 ~ 32  
-[丛林(区域)](Jungle.md)  |  砍伐木材  |  11 ~ 32  
-[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  11 ~ 32  
 [丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  11 ~ 32  
 [红树林(区域)](Mangroves.md)  |  砍伐木材  |  11 ~ 32  
-[红树林(区域)](Mangroves.md)  |  砍伐木材  |  11 ~ 32  
-[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  11 ~ 32  
 [丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  11 ~ 32  
 [海(环礁)](Sea_Atoll.md)  |  潜水  |  11 ~ 32  
 [海(海湾)](Sea_Bay.md)  |  潜水  |  11 ~ 32  
@@ -287,7 +280,6 @@
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  11 ~ 32  
 [神秘谷(区域)](SecretValley.md)  |  挖土  |  11 ~ 32  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  11 ~ 32  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  11 ~ 32  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  11 ~ 32  
@@ -328,55 +320,34 @@
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
 [大树](LargeTree.md)  |  砍树  |  11 ~ 32  
-[大树](LargeTree.md)  |  砍树  |  11 ~ 32  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  11 ~ 32  
 [摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  11 ~ 32  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  11 ~ 32  
 [摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  11 ~ 32  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  11 ~ 32  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  11 ~ 32  
 [倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  砍倒  |  11 ~ 32  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  扔石头  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  派出猕猴  |  11 ~ 32  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  11 ~ 32  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  11 ~ 32  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  11 ~ 32  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  11 ~ 32  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  11 ~ 32  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  11 ~ 32  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  11 ~ 32  
 [椰子树(旧)](PalmTreeOld.md)  |  爬树  |  11 ~ 32  
 [椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  11 ~ 32  
 [椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  11 ~ 32  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  11 ~ 32  
-[树液收集处](PalmTreeSapStation.md)  |  砍倒  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  砍倒  |  11 ~ 32  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  11 ~ 32  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  11 ~ 32  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
-[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  爬树  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  砍倒  |  11 ~ 32  
-[椰子树](PalmTree_IH.md)  |  砍倒  |  11 ~ 32  
-[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  11 ~ 32  
-[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  11 ~ 32  
-[椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  11 ~ 32  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  11 ~ 32  
 [椰子树(特殊)](PalmTree_Unique.md)  |  砍倒  |  11 ~ 32  
-[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒  |  11 ~ 32  
-[西米树](SagoPalm.md)  |  砍树  |  11 ~ 32  
 [西米树](SagoPalm.md)  |  砍树  |  11 ~ 32  
 [倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  11 ~ 32  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  11 ~ 32  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  11 ~ 32  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  11 ~ 32  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  11 ~ 32  
 [倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  11 ~ 32  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  11 ~ 32  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  8 ~ 32  

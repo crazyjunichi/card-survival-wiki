@@ -67,3 +67,21 @@
 [咖啡丛](CoffeePlant.md)  |  采集  |  0.5  
 [水椰](NipaPalm.md)  |  割水椰子  |  0.5  
 [马勃菌](PuffballsPlant.md)  |  采集  |  0.5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[杂菌](AssortedMushrooms.md)  |  影响  |  0 ~ 150  
+[海湾(区域)](Bay.md)  |  影响  |  0 ~ 150  
+[沙滩(区域)](Beach.md)  |  影响  |  0 ~ 150  
+[丛林深处(区域)](DeepJungle.md)  |  影响  |  0 ~ 150  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  0 ~ 150  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  0 ~ 150  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  0 ~ 150  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  0 ~ 150  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  0 ~ 150  
+[丛林(区域)](Jungle.md)  |  影响  |  0 ~ 150  
+[丛林高地(区域)](JungleHighlands.md)  |  影响  |  0 ~ 150  
+[红树林(区域)](Mangroves.md)  |  影响  |  0 ~ 150  
+[丛林边缘(区域)](Outskirts.md)  |  影响  |  0 ~ 150  
+[神秘谷(区域)](SecretValley.md)  |  影响  |  0 ~ 150  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  0 ~ 150  

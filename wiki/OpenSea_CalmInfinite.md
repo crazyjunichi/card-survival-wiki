@@ -9,7 +9,7 @@
 来源  |  操作  
 ----  |  ----  
 [晴朗](TropicalIsland_ClearInfinite.md)  |    
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [晴朗](TropicalIsland_ClearInfinite.md)  

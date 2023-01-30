@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+韦斯顿的特别谈话1  |  [韦斯顿亲密关系](WestonPropinquity.md): 2000-3000<br>[睡眠钟](SleepClock.md): 1-999  |  [睡眠中断](SleepInterrupt.md)+1  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

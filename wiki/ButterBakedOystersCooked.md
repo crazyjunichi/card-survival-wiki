@@ -20,7 +20,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 取出牡蛎<br>  |  -  |    |  → [烹饪锅](CookingPot.md)<br><br>** 获得： **<br>** [Oysters] **<br>  [黄油焗牡蛎](OysterMeatBaked.md)(+4)<br>  |    
 ## 可拖至  
-[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
+[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

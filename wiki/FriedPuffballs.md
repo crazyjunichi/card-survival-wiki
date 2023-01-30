@@ -18,7 +18,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  → [烹饪锅](CookingPot.md)  |  [饱食](Satiation.md)+55<br>[胃](Stomach.md)+70<br>[水分](Hydration.md)+14<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)+30<br>[污垢](Filth.md)+15  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
+[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

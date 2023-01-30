@@ -21,7 +21,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [枯叶](LeavesDry.md)  |  生火<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
 ## 可拖至  
-[蒸馏器(关)](AlembicOff.md), [营火(熄灭)](CampfireExtinguished.md), [粘土火盆(熄灭)](ClayFirePitExtinguished.md), [火堆(熄灭)](FireExtinguished.md), [熔炉](Forge.md), [窑炉](Kiln.md), [高级窑炉](KilnAdvanced.md), [木材](Wood.md)  
+[蒸馏器(关)](AlembicOff.md) | [营火(熄灭)](CampfireExtinguished.md) | [粘土火盆(熄灭)](ClayFirePitExtinguished.md) | [火堆(熄灭)](FireExtinguished.md) | [熔炉](Forge.md) | [窑炉](Kiln.md) | [高级窑炉](KilnAdvanced.md) | [木材](Wood.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

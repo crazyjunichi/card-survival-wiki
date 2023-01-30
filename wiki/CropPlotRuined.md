@@ -43,7 +43,7 @@
 [“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
 [“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>消失<br>可用次数  -1  |    
 ## 可拖至  
-[硫磺农药](LQ_PesticideBrimstone.md), [辣椒农药](LQ_PesticideChilli.md)  
+[硫磺农药](LQ_PesticideBrimstone.md) | [辣椒农药](LQ_PesticideChilli.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

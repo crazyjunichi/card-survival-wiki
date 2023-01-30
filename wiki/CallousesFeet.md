@@ -9,8 +9,5 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [足部损伤](FootDamage.md)-200<br>[足部防护](FootProtection.md)+2  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [足部损伤](FootDamage.md)-500<br>[足部防护](FootProtection.md)+4  |    
-## 关联状态  
+## 相关卡牌  
 [足部损伤](FootDamage.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

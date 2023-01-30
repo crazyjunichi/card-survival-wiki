@@ -16,3 +16,10 @@
 [陷坑](TrappingPit.md)  |  捕捉猎物  |  -1000  
 [我拿下它了，但我受伤了。(事件)](Event_MonitorFightMixedSuccess.md)  |  继续  |  -1000  
 [巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)  |  继续  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 14000  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 14000  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 14000  
+[红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 14000  

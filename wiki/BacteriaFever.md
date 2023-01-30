@@ -11,7 +11,7 @@
 301 ～ 600  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中低  |    |  [发烧](Fever.md)加成+16  |    
 601 ～ 900  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">中高  |    |  [发烧](Fever.md)加成+24  |    
 901 ～ 1500  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">高  |    |  [发烧](Fever.md)加成+40  |    
-## 关联状态  
+## 相关卡牌  
 [免疫系统](ImmuneSystem.md)  |  [体重](Weight.md)  |  [湿度](Wetness.md)  |  [表面细菌](BacteriaSurface.md)  |  [失温](Hypothermia.md)  |  [污垢](Filth.md)  |  [奎宁](Quinine.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

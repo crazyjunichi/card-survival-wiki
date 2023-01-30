@@ -12,4 +12,4 @@
 ----  |  ----  
 [山羊饲料(蓝图)](Bp_FeedGoat.md)  |  蓝图制造  
 ## 可拖至  
-[羊食槽](GoatFeeder.md), [羊食槽](GoatFeeder.md), [羊食槽(空)](GoatFeederEmpty.md), [羊食槽(空)](GoatFeederEmpty.md), [母山羊](GoatEnclosureFemale.md), [小羊](GoatEnclosureKid.md), [哺乳期山羊](GoatEnclosureLactating.md), [公山羊](GoatEnclosureMale.md), [母山羊](GoatTiedFemale.md), [哺乳期山羊](GoatTiedFemaleLactating.md), [小羊](GoatTiedKid.md), [公山羊](GoatTiedMale.md)  
+[羊食槽](GoatFeeder.md) | [羊食槽](GoatFeeder.md) | [羊食槽(空)](GoatFeederEmpty.md) | [羊食槽(空)](GoatFeederEmpty.md) | [母山羊](GoatEnclosureFemale.md) | [小羊](GoatEnclosureKid.md) | [哺乳期山羊](GoatEnclosureLactating.md) | [公山羊](GoatEnclosureMale.md) | [母山羊](GoatTiedFemale.md) | [哺乳期山羊](GoatTiedFemaleLactating.md) | [小羊](GoatTiedKid.md) | [公山羊](GoatTiedMale.md)  

@@ -9,8 +9,5 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [手掌损伤](HandDamage.md)-200  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [手掌损伤](HandDamage.md)-500  |    
-## 关联状态  
+## 相关卡牌  
 [手掌损伤](HandDamage.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

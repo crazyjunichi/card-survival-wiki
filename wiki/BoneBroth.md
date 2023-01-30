@@ -20,7 +20,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 饮用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  使用次数  -1  |  [饱食](Satiation.md)+30<br>[胃](Stomach.md)+5<br>[水分](Hydration.md)+40<br>[污垢](Filth.md)+2<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+15  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
+[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

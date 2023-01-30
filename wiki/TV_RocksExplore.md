@@ -12,3 +12,9 @@
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  1  
 [岩滩(区域)](Rocks.md)  |  探索  |  1  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -20  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[鸟岩岛(区域)](BirdRock.md)  |  影响  |  0 ~ 9  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  0 ~ 9  
+[岩滩(区域)](Rocks.md)  |  影响  |  0 ~ 9  

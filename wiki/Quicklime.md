@@ -20,7 +20,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡<br>  |  -  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>→ [熟石灰](LQ_SlakedLime.md)  |    
 ## 可拖至  
-[泥堆](MudPile.md), [粘土](Clay.md)  
+[泥堆](MudPile.md) | [粘土](Clay.md)  
 ## 可用于蓝图  
 - [水窖(蓝图)](Bp_Cistern.md)  
 - [斧头模具(蓝图)](Bp_MoldAxe.md)  

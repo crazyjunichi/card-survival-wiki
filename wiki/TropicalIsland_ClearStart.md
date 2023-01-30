@@ -16,7 +16,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：48  |  每15分钟-1<br>最多需要：12小时  |  ** 到达0时： **<br>** [Cloudy] **<br>  [阴天](TropicalIsland_CloudyStart.md)(+1)<br>基础权重：1<br><br>→ [平静](OpenSea_Calm.md)  
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [平静](OpenSea_Calm.md)  

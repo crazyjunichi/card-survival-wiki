@@ -33,8 +33,8 @@
 [缠好的纺锤](SpindleFiber.md)  |  纺线团  |  1  
 [织布机](Loom.md)  |  织布  |  0.5  
 [织布机](Loom.md)  |  扩大布匹  |  0.5  
-[织布机（空）(空)](LoomEmpty.md)  |  将线放到织布机上  |  0.5  
-[织布机（空）(空)](LoomEmpty.md)  |  解编布匹  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  将线放到织布机上  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  解编布匹  |  0.5  
 [布](Cloth.md)  |  制作绷带  |  0.5  
 [布](Cloth.md)  |  制作包脚布  |  0.5  
 [布](Cloth.md)  |  制作绑手带  |  0.5  

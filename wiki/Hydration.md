@@ -14,7 +14,7 @@
 31 ～ 60  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">严重脱水  |  我严重脱水了  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2  |    
 1 ～ 30  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">极度脱水  |  我撑不了多久了  |  [情绪](Morale.md)加成-3<br>[压力](Stress.md)加成+3  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">死于口渴  |  你死于脱水。  |    |    
-## 关联状态  
+## 相关卡牌  
 [发烧](Fever.md)  |  [腹泻](Diarrhoea.md)  |  [体感温度](TemperaturePerceived.md)  |  [过热](Hyperthermia.md)  |  [皮肤潮湿度](SkinHumidity.md)  |  [酒精](Alcohol.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [钠](Sodium.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

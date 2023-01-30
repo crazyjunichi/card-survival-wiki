@@ -14,3 +14,10 @@
 [落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  -1000  
 [胜负参半(事件)](Event_CobraFightMixedSuccess.md)  |  继续  |  -1000  
 [成功！(事件)](Event_CobraFightSuccess.md)  |  继续  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 12000  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 12000  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 12000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 12000  

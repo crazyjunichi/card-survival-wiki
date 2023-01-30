@@ -27,7 +27,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  浸泡<br>  |  -  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>→ [灰水](LQ_AshWater.md)  |    
 ## 可拖至  
-[泥堆](MudPile.md), [粘土](Clay.md), [布片](ClothSmall.md)  
+[泥堆](MudPile.md) | [粘土](Clay.md) | [布片](ClothSmall.md)  
 ## 可用于蓝图  
 - [草木灰敷料(蓝图)](Bp_AshDressing.md)  
 - [农田(蓝图)](Bp_CropPlot.md)  

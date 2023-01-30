@@ -1,4 +1,4 @@
-# ModifierLeg_GameName  
+# 腿部动作受限  
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 3  
 #### ** 基础变化率: ** 0 / 每15分钟  
@@ -8,7 +8,7 @@
 1 ～ 1  |  Leg Modifier 1  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-2<br>时间+1  
 2 ～ 2  |  Leg Modifier 2  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-4<br>时间+2  
 3 ～ 3  |  Leg Modifier 3  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-8<br>时间+4  
-## 关联状态  
+## 相关卡牌  
 [体重](Weight.md)  |  [怀孕](Pregnancy.md)  |  [真人秀直播](TV_Lives.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

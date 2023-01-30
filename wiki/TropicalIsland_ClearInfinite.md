@@ -9,7 +9,7 @@
 来源  |  操作  
 ----  |  ----  
 [平静](OpenSea_CalmInfinite.md)  |    
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [平静](OpenSea_CalmInfinite.md)  

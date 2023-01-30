@@ -9,8 +9,5 @@
 1 ～ 2  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">弱阳光辐射  |    |  [晒伤](Sunburn.md)加成+4<br>[晒黑](Tanning.md)加成+1<br>[紫外线过敏](SunAllergy.md)加成+150  |    
 3 ～ 4  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">中等阳光辐射  |    |  [晒伤](Sunburn.md)加成+8<br>[晒黑](Tanning.md)加成+2<br>[紫外线过敏](SunAllergy.md)加成+175<br>[皮肤潮湿度](SkinHumidity.md)加成-1  |    
 5 ～ 6  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">强阳光辐射  |    |  [晒伤](Sunburn.md)加成+16<br>[晒黑](Tanning.md)加成+3<br>[紫外线过敏](SunAllergy.md)加成+200<br>[皮肤潮湿度](SkinHumidity.md)加成-2  |    
-## 关联状态  
+## 相关卡牌  
 [阳光强度](SunStrength.md)  |  [阳光防护](SunProtection.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

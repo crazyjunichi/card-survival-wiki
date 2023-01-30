@@ -20,7 +20,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 食用<br>[食用坚果类动作](NutAction.md)<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  使用次数  -1  |  [饱食](Satiation.md)+45<br>[胃](Stomach.md)+70<br>[水分](Hydration.md)+4<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+30<br>[腹泻](Diarrhoea.md)+5<br>[污垢](Filth.md)+5<br>[压力](Stress.md)-20<br>[情绪](Morale.md)+12<br>[世界观](Structure.md)+25  
 ## 可拖至  
-[祖父](Grandfather.md), [祖父(健康)](GrandfatherHealthy.md)  
+[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

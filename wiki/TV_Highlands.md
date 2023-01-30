@@ -10,3 +10,10 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -1  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[酸湖(区域)(火山)](AcidLake.md)  |  影响  |  1  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1  
+[火山(区域)](Volcano.md)  |  影响  |  1  

@@ -10,7 +10,7 @@
 ----  |  ----  
 [弓钻(蓝图)](Bp_BowDrill.md)  |  蓝图制造  
 ## 可拖至  
-[纤维](Fibers.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [木屑](WoodShavings.md)  
+[纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -13,7 +13,7 @@
 [硝酸钾](Saltpeter.md) , [硫酸](LQ_Vitriol.md)  |  浸泡  
 [硫酸](LQ_Vitriol.md) , [硝酸钾](Saltpeter.md)  |  溶解  
 ## 可拖至  
-[蒸馏器(关)](AlembicOff.md), [蒸馏器(开)](AlembicOn.md)  
+[蒸馏器(关)](AlembicOff.md) | [蒸馏器(开)](AlembicOn.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

@@ -46,7 +46,7 @@
 ----  |  ----  |  ----  |  ----  
 肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
 水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 雨水  |  [降水值](RainValue.md): 1-5  |  → [未栽种的农田(空)](CropPlotEmpty.md)<br>燃料 + 1  

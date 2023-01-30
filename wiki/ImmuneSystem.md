@@ -14,8 +14,5 @@
 176 ～ 225  |  <img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;">强大  |    |  [细菌性发烧](BacteriaFever.md)加成-8<br>[细菌性腹泻](BacteriaDiarrhoea.md)加成-8<br>[细菌性霍乱](BacteriaCholera.md)加成-8<br>[野营热病](BacteriaTyphus.md)加成-8<br>[寄生虫](Parasites.md)加成-6<br>[海怪寄生虫](ParasitesSeahound.md)加成-6<br>[疟疾寄生虫](ParasiteMalaria.md)加成-6<br>[外星斑点](AlienSpots.md)加成-0.75  |    
 226 ～ 275  |  <img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;">非常强大  |    |  [细菌性发烧](BacteriaFever.md)加成-16<br>[细菌性腹泻](BacteriaDiarrhoea.md)加成-16<br>[细菌性霍乱](BacteriaCholera.md)加成-16<br>[野营热病](BacteriaTyphus.md)加成-16<br>[寄生虫](Parasites.md)加成-8<br>[海怪寄生虫](ParasitesSeahound.md)加成-8<br>[疟疾寄生虫](ParasiteMalaria.md)加成-8<br>[外星斑点](AlienSpots.md)加成-1.5  |    
 276 ～ 325  |  <img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;">坚不可摧  |    |  [细菌性发烧](BacteriaFever.md)加成-32<br>[细菌性腹泻](BacteriaDiarrhoea.md)加成-32<br>[细菌性霍乱](BacteriaCholera.md)加成-32<br>[野营热病](BacteriaTyphus.md)加成-32<br>[寄生虫](Parasites.md)加成-12<br>[海怪寄生虫](ParasitesSeahound.md)加成-10<br>[疟疾寄生虫](ParasiteMalaria.md)加成-10<br>[外星斑点](AlienSpots.md)加成-3  |    
-## 关联状态  
+## 相关卡牌  
 [情绪](Morale.md)  |  [发烧](Fever.md)  |  [体重](Weight.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [抗生素](AntibioticsEffect.md)  |  [月季效果](ChinaRoseEffect.md)  |  [姜效果](GingerEffect.md)  |  [蜘蛛兰效果](SpiderLilyEffect.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

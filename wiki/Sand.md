@@ -14,7 +14,7 @@
 [沙堆(环礁)](SandSource.md)  |  收集沙子  
 [沙堆(环礁)](SandSource.md) , [“铲子”](tag_Shovel.md)  |  挖沙  
 ## 可拖至  
-[泥堆](MudPile.md), [粘土](Clay.md)  
+[泥堆](MudPile.md) | [粘土](Clay.md)  
 ## 可用于蓝图  
 - [熔炉(蓝图)](Bp_Forge.md)  
 - [高级窑炉(蓝图)](Bp_KilnAdvanced.md)  

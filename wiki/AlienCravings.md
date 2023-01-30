@@ -8,7 +8,7 @@
 96 ～ 142  |  <img decoding="async" src="Sprite/AlienCravings.png" href="a.md" style="max-width:20px;max-height:20px;">外星食物渴求  |  我可以吃一些外星食物……  |  [压力](Stress.md)加成+0.5  |    
 143 ～ 239  |  <img decoding="async" src="Sprite/AlienCravings.png" href="a.md" style="max-width:20px;max-height:20px;">外星食物渴求  |  我想吃一些外星食物……  |  [情绪](Morale.md)加成-0.5<br>[压力](Stress.md)加成+1.5  |    
 240 ～ 288  |  <img decoding="async" src="Sprite/AlienCravings.png" href="a.md" style="max-width:20px;max-height:20px;">外星食物渴求  |  我非常想吃一些外星食物……  |  [恶心](Nausea.md)加成+1.25<br>[情绪](Morale.md)加成-1<br>[压力](Stress.md)加成+3  |    
-## 关联状态  
+## 相关卡牌  
 [外星斑点](AlienSpots.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

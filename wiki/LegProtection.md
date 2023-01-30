@@ -14,5 +14,14 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  别想伤到我  |  5 ~ 10  
+[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  影响  |  1 ~ 10  
+[一只猕猴！(事件)](Event_MacaqueFight.md)  |  影响  |  1 ~ 10  
+[一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  影响  |  1 ~ 10  
+[一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  影响  |  1 ~ 10  
+[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  影响  |  1 ~ 10  
+[一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  1 ~ 10  
+[一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  1 ~ 10  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  继续  |  1 ~ 4.9  
+[滑倒了！(事件)](Event_SlipRocks.md)  |  影响  |  1 ~ 10  
+[鲨鱼](SharkVisitor.md)  |  影响  |  1 ~ 10  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  继续  |  0  

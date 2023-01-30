@@ -13,3 +13,10 @@
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  1  
 [火山(区域)](Volcano.md)  |  探索  |  1  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -20  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[酸湖(区域)(火山)](AcidLake.md)  |  影响  |  0 ~ 9  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  0 ~ 9  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  0 ~ 9  
+[火山(区域)](Volcano.md)  |  影响  |  0 ~ 9  

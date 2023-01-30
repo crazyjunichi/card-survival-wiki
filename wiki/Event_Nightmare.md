@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Watcher1a.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+梦魇  |  [压力](Stress.md): 193-240<br>[睡眠钟](SleepClock.md): 1-14<br>[梦魇计数器](NightmareCounter.md): 0-0  |  [睡眠中断](SleepInterrupt.md)+1<br>[梦魇计数器](NightmareCounter.md)+36～+144  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

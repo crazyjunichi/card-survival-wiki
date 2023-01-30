@@ -15,7 +15,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [1] **<br>  [晴朗](TropicalIsland_ClearStart.md)(+1)<br><br>→ [前有风暴](OpenSea_StormFront.md)  
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [前有风暴](OpenSea_StormFront.md)  

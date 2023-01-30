@@ -57,3 +57,7 @@
 [东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  0.25  
 [西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  0.25  
 [红树林(区域)](Mangroves.md)  |  砍伐木材  |  0.25  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[未完成的木雕](WoodCarving_Unfinished.md)  |  影响  |  1 ~ 150  

@@ -10,3 +10,25 @@
 ----  |  ----  |  ----  
 [胜负参半(事件)](Event_DroneFightMixedSuccess.md)  |  继续  |  -1000  
 [成功！(事件)](Event_DroneFightSuccess.md)  |  继续  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[酸湖(区域)(火山)](AcidLake.md)  |  影响  |  1000 ~ 4000  
+[海湾(区域)](Bay.md)  |  影响  |  1000 ~ 4000  
+[沙滩(区域)](Beach.md)  |  影响  |  1000 ~ 4000  
+[鸟岩岛(区域)](BirdRock.md)  |  影响  |  1000 ~ 4000  
+[隐秘港湾(区域)(沙滩)](Cove.md)  |  影响  |  1000 ~ 4000  
+[丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 4000  
+[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 4000  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 4000  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 4000  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 4000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 4000  
+[丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 4000  
+[丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 4000  
+[红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 4000  
+[丛林边缘(区域)](Outskirts.md)  |  影响  |  1000 ~ 4000  
+[岩滩(区域)](Rocks.md)  |  影响  |  1000 ~ 4000  
+[神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 4000  
+[火山(区域)](Volcano.md)  |  影响  |  1000 ~ 4000  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  1000 ~ 4000  

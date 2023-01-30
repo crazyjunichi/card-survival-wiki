@@ -17,7 +17,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“锤”](tag_Hammer.md)  |  剥开杏仁<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [热带杏仁核](TropicalAlmondKernels.md)<br><br>** 使用物: **<br>可用次数  -1  |    
 ## 可拖至  
-[未栽种的农田(空)](CropPlotEmpty.md), [猕猴朋友](MacaqueFriend.md)  
+[未栽种的农田(空)](CropPlotEmpty.md) | [猕猴朋友](MacaqueFriend.md)  
 ## 可用于蓝图  
 - [猪食(蓝图)](Bp_FeedBoar.md)  
   

@@ -20,3 +20,8 @@
 [海(红树林)](Sea_Mangroves.md)  |  叉鱼  |  0.5  
 [海](Sea_Raft.md)  |  叉鱼  |  0.5  
 [海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼  |  0.5  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 150  
+[鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  

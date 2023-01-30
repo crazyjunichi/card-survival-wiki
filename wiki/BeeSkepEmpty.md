@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [蜂箱](BeeSkep.md)  |  蜂群死光了！  
-[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  
+[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  |  蓝图制造  
 ## 可用于蓝图  
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  
   

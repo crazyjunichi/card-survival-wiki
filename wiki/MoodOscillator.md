@@ -8,8 +8,5 @@
 0 ～ 288  |    |    |  [情绪](Morale.md)加成+0.5<br>[情绪钟摆](MoodOscillator.md)加成-0.25～+0.25  |    
 289 ～ 575  |    |    |  [情绪](Morale.md)加成-1<br>[情绪钟摆](MoodOscillator.md)加成-0.25～+0.25  |    
 576 ～ 576  |    |    |  [情绪钟摆](MoodOscillator.md)加成-1344  |    
-## 关联状态  
+## 相关卡牌  
 [首月次数](FirstMonthCounter.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

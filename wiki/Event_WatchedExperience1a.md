@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Watcher1.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+监视体验  |  [监视者的凝视](WatchersGlare.md): 96-96<br>[蛇床子素计数](PsychoCounter.md): 0-0  |  [蛇床子素计数](PsychoCounter.md)+96<br>[睡眠中断](SleepInterrupt.md)+1  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

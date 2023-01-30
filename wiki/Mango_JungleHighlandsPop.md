@@ -9,9 +9,13 @@
 3501 ～ 5000  |  高密度  |    |  [丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+0.5  |    
 5001 ～ 5999  |  超高密度  |    |  [丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+1  |    
 6000 ～ 6000  |  极高密度  |    |  [丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+0.5  |    
-## 关联状态  
+## 相关卡牌  
 [丛林芒果种群数量](Mango_JunglePop.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 6000  

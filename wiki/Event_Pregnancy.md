@@ -5,6 +5,10 @@
  ----  |  ----:   
  ** 不可删除 **  |  <img decoding="async" src="Sprite/Baby.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+怀孕  |  [怀孕](Pregnancy.md): 8640-8640  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

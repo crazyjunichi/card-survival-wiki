@@ -7,7 +7,7 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-6721 ～ 15000  |  <img decoding="async" src="Sprite/Perk_Overweight.png" href="a.md" style="max-width:20px;max-height:20px;">过度肥胖  |    |  [体重](Weight.md)加成-4<br>[ModifierLeg_GameName](ModifierLeg.md)+1  |    
+6721 ～ 15000  |  <img decoding="async" src="Sprite/Perk_Overweight.png" href="a.md" style="max-width:20px;max-height:20px;">过度肥胖  |    |  [体重](Weight.md)加成-4<br>[腿部动作受限](ModifierLeg.md)+1  |    
 4033 ～ 6720  |  <img decoding="async" src="Sprite/Perk_Overweight.png" href="a.md" style="max-width:20px;max-height:20px;">超重  |    |  [体重](Weight.md)加成-3  |    
 3001 ～ 4032  |  <img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;">体重正常  |    |  [体重](Weight.md)加成-2  |    
 2001 ～ 3000  |  <img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;">体重正常  |    |  [体重](Weight.md)加成-1  |    
@@ -16,7 +16,7 @@
 75 ～ 288  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">骨瘦嶙峋  |  我感觉身体非常虚弱  |  [免疫系统](ImmuneSystem.md)-100<br>[清醒度](Wakefulness.md)加成-1<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 1 ～ 74  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">快饿死了  |  我没力气动了……我要坚持不住了  |  [清醒度](Wakefulness.md)加成-1<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[食欲](Appetite.md)+100<br>[体重](Weight.md)加成-0.1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Malnourishment.png" href="a.md" style="max-width:20px;max-height:20px;">死于饥饿  |  你死于饥饿。  |    |    
-## 关联状态  
+## 相关卡牌  
 [肠道](Intestines.md)  |  [耐力](Stamina.md)  |  [烧伤](Burns.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [血压](Blood.md)  |  [月季效果](ChinaRoseEffect.md)  |  [怀孕](Pregnancy.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

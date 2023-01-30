@@ -9,7 +9,7 @@
 来源  |  操作  
 ----  |  ----  
 [大雨](TropicalIsland_HeavyRainInfinite.md)  |    
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [大雨](TropicalIsland_HeavyRainInfinite.md)  

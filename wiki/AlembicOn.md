@@ -30,7 +30,7 @@
 [盐水](LQ_WaterSalt.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 1200<br><br>** 使用物: **<br>可用次数 + 300<br>含水量  -1200  |    
 [硝石溶液](LQ_DissolvedNiter.md)  |  倒入<br>  |  -  |    |  <br>** 使用物: **<br>可用次数 + 300<br>含水量  -300  |    
 ## 可拖至  
-[装有燃料的油桶](JerrycanFuel.md), [熏蜂器(关)](BeeSmokerOff.md)  
+[装有燃料的油桶](JerrycanFuel.md) | [熏蜂器(关)](BeeSmokerOff.md)  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

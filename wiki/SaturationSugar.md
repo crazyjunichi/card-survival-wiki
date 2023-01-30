@@ -9,7 +9,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 193 ～ 288  |  <img decoding="async" src="Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;">我讨厌吃甜食……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃甜食了……  |    |  [情绪](Morale.md)加成-0.75  |    
-## 关联状态  
+## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

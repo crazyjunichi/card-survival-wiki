@@ -12,3 +12,9 @@
 [丛林(区域)](Jungle.md)  |  探索  |  1  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  |  1  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -20  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[丛林深处(区域)](DeepJungle.md)  |  影响  |  0 ~ 9  
+[丛林(区域)](Jungle.md)  |  影响  |  0 ~ 9  
+[丛林高地(区域)](JungleHighlands.md)  |  影响  |  0 ~ 9  

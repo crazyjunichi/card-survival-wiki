@@ -18,7 +18,7 @@
 [黑曜石刀](KnifeObsidian.md)  |  切割<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Bonefish Meat] **<br>  [鲨鱼肉](SharkMeat.md)(+8～+12)<br>  [鱼杂](FishScraps.md)(+8～+12)<br>  [鲨鱼下颚](SharkJaws.md)(+1)<br>基础权重：1<br>  |  [污垢](Filth.md)+10  
 [“切割工具”](tag_Cutter.md)  |  切割<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Bonefish Meat] **<br>  [鲨鱼肉](SharkMeat.md)(+8～+12)<br>  [鱼杂](FishScraps.md)(+8～+12)<br>  [鲨鱼下颚](SharkJaws.md)(+1)<br>基础权重：1<br>  |  [污垢](Filth.md)+10  
 ## 可拖至  
-[母猪](BoarEnclosureFemale.md), [公猪](BoarEnclosureMale.md), [小猪](BoarEnclosurePiglet.md), [母猪](BoarTiedFemale.md), [公猪](BoarTiedMale.md), [小猪](BoarTiedPiglet.md), [忠犬朋友](DogFriend.md)  
+[母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

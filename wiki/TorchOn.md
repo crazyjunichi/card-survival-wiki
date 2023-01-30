@@ -16,7 +16,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 熄灭<br>  |  -  |    |  → [火把(关)](TorchOff.md)<br>燃料  -1  |    
 ## 可拖至  
-[蜂箱](BeeSkep.md), [繁殖中的蜂群](BeeSkepSwarming.md), [蜂巢](Beehive.md), [纤维](Fibers.md), [蜜蜂](Bees.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [木屑](WoodShavings.md), [过路的船只](PassingShip.md)  
+[蜂箱](BeeSkep.md) | [繁殖中的蜂群](BeeSkepSwarming.md) | [蜂巢](Beehive.md) | [纤维](Fibers.md) | [蜜蜂](Bees.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md) | [过路的船只](PassingShip.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

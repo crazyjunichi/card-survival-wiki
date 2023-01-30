@@ -11,11 +11,8 @@
 51 ～ 75  |  <img decoding="async" src="Sprite/Snowflake.png" href="a.md" style="max-width:20px;max-height:20px;">失温  |    |  [情绪](Morale.md)加成-2<br>[细菌性发烧](BacteriaFever.md)加成+5  |    
 76 ～ 99  |  <img decoding="async" src="Sprite/Snowflake.png" href="a.md" style="max-width:20px;max-height:20px;">严重失温  |    |  [情绪](Morale.md)加成-2<br>[细菌性发烧](BacteriaFever.md)加成+5  |    
 100 ～ 100  |  <img decoding="async" src="Sprite/Snowflake.png" href="a.md" style="max-width:20px;max-height:20px;">死于寒冷  |  你冻死了。  |    |    
-## 关联状态  
+## 相关卡牌  
 [体感温度](TemperaturePerceived.md)  |  [保温](InsulationCold.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

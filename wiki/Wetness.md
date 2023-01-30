@@ -10,7 +10,7 @@
 0 ～ 0  |  干燥  |    |    |    
 1 ～ 75  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">潮湿  |    |  [体感温度](TemperaturePerceived.md)-10<br>[晒伤](Sunburn.md)加成-1<br>[皮肤潮湿度](SkinHumidity.md)加成+8  |    
 76 ～ 100  |  <img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;">湿透了  |    |  [体感温度](TemperaturePerceived.md)-20<br>[细菌性发烧](BacteriaFever.md)加成+4<br>[晒伤](Sunburn.md)加成-2<br>[发烧](Fever.md)-100<br>[皮肤潮湿度](SkinHumidity.md)加成+16  |    
-## 关联状态  
+## 相关卡牌  
 [体感温度](TemperaturePerceived.md)  |  [淋雨](RainExposure.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
@@ -93,3 +93,7 @@
 [干涸的小水塘(湿地)](Puddle.md)  |  挖泥巴  |  20  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  15  
 [草裙](LeafSKirt.md)  |  条件被动  |  10  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[海鸥巢](SeagullNest.md)  |  影响  |  1 ~ 100  

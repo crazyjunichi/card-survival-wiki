@@ -9,7 +9,7 @@
 来源  |  操作  
 ----  |  ----  
 [风向非常有利](OpenSea_VeryFavourableInfinite.md)  |    
-## 触发器  
+## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourableInfinite.md)  

@@ -14,3 +14,9 @@
 [东部草原(区域)](GrasslandsE.md)  |  探索  |  -1000  
 [东部高地(区域)](HighlandsEastern.md)  |  探索  |  -1000  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 4000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 4000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 6000  

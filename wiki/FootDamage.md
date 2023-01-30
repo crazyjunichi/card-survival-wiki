@@ -9,7 +9,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 250 ～ 500  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">我的脚好疼  |  割伤和水泡使走路更困难。  |  [足茧](CallousesFeet.md)加成+0.25<br>[疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-1  |    
 501 ～ 1000  |  <img decoding="async" src="Sprite/FootDamaged.png" href="a.md" style="max-width:20px;max-height:20px;">我的脚太痛了  |  我的脚上都是割伤和水泡，太疼了。  |  [足茧](CallousesFeet.md)加成+0.5<br>[疼痛](Pain.md)+250<br>[皮肤完整度](SkinIntegrity.md)-3  |    
-## 关联状态  
+## 相关卡牌  
 [足茧](CallousesFeet.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  

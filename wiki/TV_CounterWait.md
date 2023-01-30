@@ -7,7 +7,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 287  |  <img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;">等待补给！  |    |  [真人秀 - 等待](TV_CounterWait.md)加成+1.3  |    
 288 ～ 288  |  包裹送达！  |    |  [真人秀 - 包裹倒计时](TV_CounterRush.md)加成+1.3  |    
-## 关联状态  
+## 相关卡牌  
 [真人秀舞台](TV_Stage.md)  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

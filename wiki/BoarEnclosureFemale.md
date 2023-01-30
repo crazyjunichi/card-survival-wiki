@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [蜂群密度](Pop_Boar.md)+1000  
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [野猪种群数量](Pop_Boar.md)+1000  
 捡起<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  → [母猪](BoarTiedFemale.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
 抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
 ## 可拖入  

@@ -23,7 +23,7 @@
 临时防毒面具<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时防毒面具](MaskMakeshift.md)  |    
 撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [布](Cloth.md)<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+1)<br>  |    
 ## 可拖至  
-[织布机](Loom.md), [织布机（空）(空)](LoomEmpty.md), [腿部（内层）(蓝图)](InnerLegsBlueprint.md), [躯干（内层）(蓝图)](InnerTorsoBlueprint.md)  
+[织布机](Loom.md) | [织布机（空）](LoomEmpty.md) | [腿部（内层）(蓝图)](InnerLegsBlueprint.md) | [躯干（内层）(蓝图)](InnerTorsoBlueprint.md)  
 ## 可用于蓝图  
 - [木床(蓝图)](Bp_BedWooden.md)  
 - [保鲜罐(蓝图)](Bp_ClayPotCooler.md)  

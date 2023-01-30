@@ -14,7 +14,7 @@
 [未烧制的陶碗](ClayBowlUnfired.md)  |  手工陶罐  
 [未烧制的陶罐](ClayVaseUnfinished.md)  |  完成陶罐  
 ## 可拖至  
-[烟熏炉](Smoker.md), [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
+[烟熏炉](Smoker.md) | [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

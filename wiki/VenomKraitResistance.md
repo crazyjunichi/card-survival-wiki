@@ -1,4 +1,4 @@
-# VenomKraitResistance_GameName  
+# 蛇毒抗性  
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 128  
 #### ** 基础变化率: ** -128 / 每15分钟  
@@ -10,8 +10,5 @@
 51 ～ 75  |  <img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">显著抗性  |    |  [蛇毒](VenomKrait.md)加成-3  |    
 76 ～ 100  |  <img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">高度抗性  |    |  [蛇毒](VenomKrait.md)加成-4  |    
 101 ～ 128  |  <img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">完全免疫  |    |  [蛇毒](VenomKrait.md)加成-6  |    
-## 关联状态  
+## 相关卡牌  
 [蛇毒](VenomKrait.md)  
-## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  

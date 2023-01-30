@@ -14,7 +14,7 @@
 -300 ～ -251  |  <img decoding="async" src="Sprite/Depressed.png" href="a.md" style="max-width:20px;max-height:20px;">抑郁  |  撑不下去了……  |  [免疫系统](ImmuneSystem.md)-50<br>[食欲](Appetite.md)-50<br>[情绪](Morale.md)加成+1<br>[世界观](Structure.md)加成-1  |  [休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)+2<br>时间+2  
 -349 ～ -301  |  <img decoding="async" src="Sprite/Depressed.png" href="a.md" style="max-width:20px;max-height:20px;">严重抑郁  |  生活毫无乐趣……  |  [免疫系统](ImmuneSystem.md)-75<br>[食欲](Appetite.md)-75<br>[情绪](Morale.md)加成+1.5<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+0.75  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>时间+1<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)+4<br>时间+4  
 -350 ～ -350  |  <img decoding="async" src="Sprite/Suicidal.png" href="a.md" style="max-width:20px;max-height:20px;">崩溃  |  活着毫无意义……  |  [免疫系统](ImmuneSystem.md)-100<br>[食欲](Appetite.md)-100<br>[情绪](Morale.md)加成+2<br>[世界观](Structure.md)加成-2<br>[失实症](Derealization.md)加成+1.5  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>时间+1<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)+6<br>时间+6  
-## 关联状态  
+## 相关卡牌  
 [疼痛](Pain.md)  |  [发烧](Fever.md)  |  [水分](Hydration.md)  |  [压力](Stress.md)  |  [狂躁](Mania.md)  |  [恶心](Nausea.md)  |  [腹泻](Diarrhoea.md)  |  [清醒度](Wakefulness.md)  |  [饱食](Satiation.md)  |  [香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)  |  [鸟类<nobr>厌倦度</nobr>](SaturationBird.md)  |  [椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)  |  [甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)  |  [乳品<nobr>厌倦度</nobr>](SaturationDairy.md)  |  [蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)  |  [鱼类<nobr>厌倦度</nobr>](SaturationFish.md)  |  [水果<nobr>厌倦度</nobr>](SaturationFruits.md)  |  [肉类<nobr>厌倦度</nobr>](SaturationMeat.md)  |  [软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)  |  [蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)  |  [坚果<nobr>厌倦度</nobr>](SaturationNuts.md)  |  [干粮<nobr>厌倦度</nobr>](SaturationRations.md)  |  [稻米<nobr>厌倦度</nobr>](SaturationRice.md)  |  [爬行类厌倦度](SaturationReptile.md)  |  [西米<nobr>厌倦度</nobr>](SaturationSago.md)  |  [糖<nobr>厌倦度</nobr>](SaturationSugar.md)  |  [蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)  |  [参薯<nobr>厌倦度</nobr>](SaturationYam.md)  |  [过热](Hyperthermia.md)  |  [失温](Hypothermia.md)  |  [外星植物渴求](AlienCravings.md)  |  [孤独感](Loneliness.md)  |  [酒精](Alcohol.md)  |  [失血](BloodLoss.md)  |  [船长陪伴](CaptainCompany.md)  |  [月季效果](ChinaRoseEffect.md)  |  [情绪钟摆](MoodOscillator.md)  |  [茉莉效果](JasmineEffect.md)  |  [舒适度](Comfort.md)  |  [娱乐](Entertainment.md)  |  [神圣灵视](GodInsight.md)  |  [孤立感](Isolation.md)  |  [哀悼](Mourning.md)  |  [蛇床子素](Psylocibin.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
@@ -166,7 +166,7 @@
 [参薯咖喱](YamCurry.md)  |  食用  |  15  
 [西米蛋糕](SagoCake.md)  |  食用  |  12  
 [简易床(蓝图)](Bp_BedRustic.md)  |  蓝图制造  |  10  
-[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  10  
+[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  10  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  10  
 [地窖(蓝图)](Bp_Cellar.md)  |  蓝图制造  |  10  
 [水窖(蓝图)](Bp_Cistern.md)  |  蓝图制造  |  10  

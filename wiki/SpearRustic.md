@@ -22,7 +22,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 训练<br>[手部动作](HandAction.md)  |  1小时  |    |  使用次数  -1  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+20  
 ## 可拖至  
-[海(环礁)](Sea_Atoll.md), [海(海湾)](Sea_Bay.md), [海(沙滩)](Sea_Beach.md), [海(沙滩)](Sea_Cove.md), [海(荒芜沙滩)](Sea_DesolateBeach.md), [海(红树林)](Sea_Mangroves.md), [海(鸟岩岛)](Sea_Rocks.md)  
+[海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海(鸟岩岛)](Sea_Rocks.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

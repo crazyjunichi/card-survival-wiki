@@ -11,3 +11,7 @@
 ----  |  ----  |  ----  
 [我拿下它了，但我受伤了。(事件)](Event_SharkFightMixedSuccess.md)  |  继续  |  -1000  
 [鲨鱼死了！(事件)](Event_SharkFightSuccess.md)  |  继续  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[海(海湾)](Sea_Bay.md)  |  影响  |  1000 ~ 3000  

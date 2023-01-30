@@ -8,4 +8,4 @@
  **重量：**50  |  <img decoding="async" src="Sprite/SignallingMirror.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖至  
-[纤维](Fibers.md), [枯叶](LeavesDry.md), [鸟巢](Nest.md), [纸](Papers.md), [木屑](WoodShavings.md), [过路的船只](PassingShip.md)  
+[纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md) | [过路的船只](PassingShip.md)  

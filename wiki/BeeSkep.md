@@ -27,7 +27,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |    
-种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达0时：蜂群死光了！ **<br><br>→ [空蜂箱(空)](BeeSkepEmpty.md)  
+种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达0时：蜂群死光了！ **<br><br>→ [空蜂箱](BeeSkepEmpty.md)  
 食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟+0.1<br>最多需要：104天4小时  |    
 ## 被动效果  

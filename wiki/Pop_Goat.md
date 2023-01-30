@@ -23,3 +23,10 @@
 [原木陷阱](LogTrap.md)  |  捕捉猎物  |  -1000  
 [陷坑](TrappingPit.md)  |  捕捉猎物  |  -1000  
 [拿下了！(事件)](Event_GoatFightSuccess.md)  |  继续  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 15000  
+[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 15000  
+[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 15000  
+[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 15000  

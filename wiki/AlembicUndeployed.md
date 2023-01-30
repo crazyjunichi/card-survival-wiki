@@ -15,4 +15,4 @@
 [未烧制的蒸馏器](AlembicUnfired.md) , [窑炉](Kiln.md)  |  蒸馏器  
 [未烧制的蒸馏器](AlembicUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  蒸馏器  
 ## 可拖至  
-[营火](Campfire.md), [营火(熄灭)](CampfireExtinguished.md)  
+[营火](Campfire.md) | [营火(熄灭)](CampfireExtinguished.md)  

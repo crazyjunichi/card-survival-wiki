@@ -11,7 +11,7 @@
 97 ～ 144  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">焦虑  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.25  |    
 145 ～ 192  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">紧张  |    |  [世界观](Structure.md)加成-1<br>[恶心](Nausea.md)加成+0.5<br>[腹泻](Diarrhoea.md)加成+0.25<br>[压力](Stress.md)加成-0.5<br>[情绪](Morale.md)加成-0.5  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>[压力](Stress.md)-5<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)-2<br>时间-2  
 193 ～ 240  |  <img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;">极度紧张  |    |  [世界观](Structure.md)加成-2<br>[恶心](Nausea.md)加成+1<br>[腹泻](Diarrhoea.md)加成+0.5<br>[压力](Stress.md)加成-1<br>[情绪](Morale.md)加成-1  |  [手部动作](HandAction.md): <br>[腿部动作](LegAction.md): <br>[压力](Stress.md)-10<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)-4<br>时间-4  
-## 关联状态  
+## 相关卡牌  
 [疼痛](Pain.md)  |  [水分](Hydration.md)  |  [世界观](Structure.md)  |  [清醒度](Wakefulness.md)  |  [饱食](Satiation.md)  |  [过热](Hyperthermia.md)  |  [外星植物渴求](AlienCravings.md)  |  [孤独感](Loneliness.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [失血](BloodLoss.md)  |  [咖啡因](Caffeine.md)  |  [月季效果](ChinaRoseEffect.md)  |  [监视者的凝视](WatchersGlare.md)  |  [茉莉效果](JasmineEffect.md)  |  [舒适度](Comfort.md)  |  [不适](Discomfort.md)  |  [宿敌现身](EnemyDefeated.md)  |  [娱乐](Entertainment.md)  |  [神圣灵视](GodInsight.md)  |  [猎手接近](HuntersProximity.md)  |  [虚空灵视](VoidInsight.md)  |  [奎宁](Quinine.md)  
 ## 加成值影响因素  
 来源  |  操作  |  值  
@@ -80,7 +80,7 @@
 [草木灰敷料(蓝图)](Bp_AshDressing.md)  |  蓝图制造  |  -10  
 [简易床(蓝图)](Bp_BedRustic.md)  |  蓝图制造  |  -10  
 [木床(蓝图)](Bp_BedWooden.md)  |  蓝图制造  |  -10  
-[空蜂箱(蓝图)(空)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  -10  
+[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)  |  蓝图制造  |  -10  
 [熏蜂器(蓝图)](Bp_BeeSmoker.md)  |  蓝图制造  |  -10  
 [猪食槽(蓝图)](Bp_BoarFeeder.md)  |  蓝图制造  |  -10  
 [骨刀(蓝图)](Bp_BoneKnife.md)  |  蓝图制造  |  -10  
@@ -471,3 +471,8 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  -60  
 [宿敌被打败了！(事件)](Event_EnemyFightSuccess.md)  |  胜利啦！  |  -100  
 [猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  -100  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[宿敌来了！(事件)](Event_EnemyFight.md)  |  影响  |  0 ~ 240  
+[猎手来了(事件)](Event_HunterFight.md)  |  影响  |  0 ~ 240  
