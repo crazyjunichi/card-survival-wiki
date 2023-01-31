@@ -51,7 +51,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-RE3Z6GM8B9',{'page_path': location.pathname + location.hash }));
+  gtag('config', 'G-RE3Z6GM8B9',{'page_path': location.pathname + location.hash });
 </script>
 
 <style>
