@@ -12,3 +12,6 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
+
+
+<script>document.title="引擎 - 卡牌生存百科 Card Survival Wiki";</script>

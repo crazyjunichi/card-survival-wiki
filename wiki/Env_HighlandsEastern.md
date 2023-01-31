@@ -12,3 +12,6 @@
 [前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)  |  前往  
 [前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)  |  前往  
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  
+
+
+<script>document.title="东部高地 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 [参薯咖喱](YamCurry.md)  |  食用  |  12  
 [辣炒巨蜥肉](LizardFry.md)  |  食用  |  10  
 [猕猴肉串](MacaqueSkewers.md)  |  食用  |  10  
+
+
+<script>document.title="辣椒素 - 卡牌生存百科 Card Survival Wiki";</script>

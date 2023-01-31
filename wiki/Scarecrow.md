@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子(猕猴窝)](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  |    
+拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子(猕猴窝)](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,3 +23,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：2880<br>最大：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子(猕猴窝)](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  
+
+
+<script>document.title="稻草人 - 卡牌生存百科 Card Survival Wiki";</script>

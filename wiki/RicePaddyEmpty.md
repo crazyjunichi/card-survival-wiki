@@ -21,3 +21,6 @@
 ----  |  ----  |  ----  |  ----  
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [不安全的水](LQ_WaterUnsafe.md)+50  |    
 Evaporate  |    |  含水量-4  |    
+
+
+<script>document.title="未栽种的稻田 - 卡牌生存百科 Card Survival Wiki";</script>

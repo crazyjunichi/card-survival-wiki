@@ -14,3 +14,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Sea Currents  |  ** 需要状态：**<br>[距离](Distance.md): 1-2016  |    |  [距离](Distance.md)加成+1  
+
+
+<script>document.title="木筏 - 卡牌生存百科 Card Survival Wiki";</script>

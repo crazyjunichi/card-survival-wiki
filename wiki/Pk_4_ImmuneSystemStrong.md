@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [免疫系统](ImmuneSystem.md)+100  
 效果  |    
+
+
+<script>document.title="强免疫系统 - 卡牌生存百科 Card Survival Wiki";</script>

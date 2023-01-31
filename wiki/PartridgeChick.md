@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-宰杀<br>  |  15分  |  [光亮](Light.md): 10-100  |  → [小灰山鹑尸体](PartridgeChickDead.md)<br><br>** 相关卡牌 **<br><br>[“灰山鹑”](tag_Partridge.md)能量  -250  |    
+宰杀<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [小灰山鹑尸体](PartridgeChickDead.md)<br><br>** 相关卡牌 **<br>[“灰山鹑”](tag_Partridge.md)能量  -250  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -26,10 +26,13 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [小灰山鹑尸体](PartridgeChickDead.md)  
-<img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：672  |  每15分钟+1<br>最多需要：7天  |  ** 到达上限时： **<br>** [Female] **<br>  [雌灰山鹑](PartridgeFemaleEnclosure.md)(+1)<br>基础权重：3<br><br>** [Male] **<br>  [雄灰山鹑](PartridgeMaleEnclosure.md)(+1)<br>基础权重：1<br>  
+<img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：672  |  每15分钟+1<br>最多需要：7天  |  ** 到达上限时： **<br>** [Female] **<br>  [雌灰山鹑](PartridgeFemaleEnclosure.md)(+1)<br>基础权重：3<br>** [Male] **<br>  [雄灰山鹑](PartridgeMaleEnclosure.md)(+1)<br>基础权重：1  
 <img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：500<br>最大：1000  |  每15分钟-1<br>最多需要：10天10小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Feed  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1536<br>** 需要存在卡牌：**<br>[灰山鹑喂食器](PartridgeFeeder.md)  |  <img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">+2<br><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Overcrowding  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1536<br>** 需要存在卡牌：**<br>[“灰山鹑”](tag_Partridge.md)<br>[灰山鹑喂食器](PartridgeFeeder.md)  |  <img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.1  |    
+
+
+<script>document.title="小灰山鹑 - 卡牌生存百科 Card Survival Wiki";</script>

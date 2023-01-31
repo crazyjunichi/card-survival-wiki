@@ -25,3 +25,6 @@
 [滑倒了！(事件)](Event_SlipRocks.md)  |  影响  |  1 ~ 10  
 [鲨鱼](SharkVisitor.md)  |  影响  |  1 ~ 10  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  继续  |  0  
+
+
+<script>document.title="腿部防护 - 卡牌生存百科 Card Survival Wiki";</script>

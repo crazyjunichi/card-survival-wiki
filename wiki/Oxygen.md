@@ -9,3 +9,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：4  |  -  |  ** 到达0时：氧气耗尽 **<br><br>→ [小树枝](Sticks.md)  
+
+
+<script>document.title="氧气面罩 - 卡牌生存百科 Card Survival Wiki";</script>

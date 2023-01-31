@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[镇痛](Analgesia.md)+25<br>[污垢](Filth.md)+2  
+食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[镇痛](Analgesia.md)+25<br>[污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -34,3 +34,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  进度+1  |    
+
+
+<script>document.title="卡瓦根 - 卡牌生存百科 Card Survival Wiki";</script>

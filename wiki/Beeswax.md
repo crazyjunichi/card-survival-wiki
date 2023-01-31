@@ -18,3 +18,6 @@
 [蜂蜡](Beeswax.md)  |  做蜂蜡块<br>  |  15分  |    |  ** 自身: **<br>→ [蜂蜡块](BeeswaxBlock.md)<br><br>** 使用物: **<br>消失  |    
 ## 可拖至  
 [蜂蜡](Beeswax.md)  
+
+
+<script>document.title="蜂蜡 - 卡牌生存百科 Card Survival Wiki";</script>

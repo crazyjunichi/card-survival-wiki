@@ -64,3 +64,6 @@
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  1  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  1  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  1  
+
+
+<script>document.title="睡眠中断 - 卡牌生存百科 Card Survival Wiki";</script>

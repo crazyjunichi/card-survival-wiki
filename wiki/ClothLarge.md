@@ -20,8 +20,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-临时防毒面具<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时防毒面具](MaskMakeshift.md)  |    
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  → [布](Cloth.md)<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+1)<br>  |    
+临时防毒面具<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [临时防毒面具](MaskMakeshift.md)  |    
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [布](Cloth.md)<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+1)<br>  |    
 ## 可拖至  
 [织布机](Loom.md) | [织布机（空）](LoomEmpty.md) | [腿部（内层）(蓝图)](InnerLegsBlueprint.md) | [躯干（内层）(蓝图)](InnerTorsoBlueprint.md)  
 ## 可用于蓝图  
@@ -30,3 +30,6 @@
 - [衬衫(蓝图)](Bp_Shirt.md)  
   
   
+
+
+<script>document.title="大块的布 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [蚊虫防护](BugProtection.md)-1  
 效果  |    
+
+
+<script>document.title="招虫体质 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** 获得： **<br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br><br>** [Bugs] **<br>  [虫子](Bugs.md)(+3)<br>基础权重：4<br>  |  [污垢](Filth.md)+2  
+探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** 获得： **<br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br>** [Bugs] **<br>  [虫子](Bugs.md)(+3)<br>基础权重：4  |  [污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -33,3 +33,6 @@ Minimal Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprit
 Low Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500  |    |  [不适](Discomfort.md)+375  
 Moderate Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 501～750  |    |  [不适](Discomfort.md)+625  
 Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1000  |    |  [不适](Discomfort.md)+875  
+
+
+<script>document.title="幽暗洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

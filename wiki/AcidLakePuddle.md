@@ -12,3 +12,6 @@
 ----  |  ----  |  ----  |  ----  
 Fill  |    |  [硫酸](LQ_Vitriol.md)+100<br>含水量+100  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [硫酸](LQ_Vitriol.md)+50  |    
+
+
+<script>document.title="干涸酸湖 - 卡牌生存百科 Card Survival Wiki";</script>

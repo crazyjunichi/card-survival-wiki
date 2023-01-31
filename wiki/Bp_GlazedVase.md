@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [粘土](Clay.md) x 4 + [抗裂剂(组)](GpTag_Temper.md) x 3 + [盐](Salt.md) x 6  |  45分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+2  |  [未烧制的釉面陶罐](GlazedVaseUnfired.md)(+1)  
+
+
+<script>document.title="釉面陶罐 - 卡牌生存百科 Card Survival Wiki";</script>

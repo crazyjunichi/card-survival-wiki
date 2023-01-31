@@ -40,3 +40,6 @@
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  1 ~ 150  
 [老旧的踪迹(事件)](Event_BoarTrailOld.md)  |  影响  |  0 ~ 100  
 [近期的踪迹(事件)](Event_BoarTrailRecent.md)  |  影响  |  0 ~ 100  
+
+
+<script>document.title="潜行(技能) - 卡牌生存百科 Card Survival Wiki";</script>

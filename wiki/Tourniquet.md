@@ -15,8 +15,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [dismantle] **<br>  [小树枝](Sticks.md)(+1)<br>  [布](Cloth.md)(+1)<br>  |    
+拆解<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [dismantle] **<br>  [小树枝](Sticks.md)(+1)<br>  [布](Cloth.md)(+1)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>  [布](Cloth.md)(+1)<br>  
+
+
+<script>document.title="止血带 - 卡牌生存百科 Card Survival Wiki";</script>

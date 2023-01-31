@@ -10,3 +10,6 @@
 初始状态  |  [击鼓(技能)](Skill_Percussion.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="鼓手 - 卡牌生存百科 Card Survival Wiki";</script>

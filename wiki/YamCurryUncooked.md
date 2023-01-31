@@ -23,3 +23,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [烹饪锅](CookingPot.md)  
+
+
+<script>document.title="未烹饪的参薯咖喱 - 卡牌生存百科 Card Survival Wiki";</script>

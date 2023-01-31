@@ -17,6 +17,7 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [防蜂服](BeeSuit.md)  |  被动  |  5  
+[抗虫体质](Pk_4_BugResistant.md)  |  特质影响  |  2  
 [夏威夷衬衫](HawaiianShirt.md)  |  被动  |  1  
 [卫衣](HoodieRetromation.md)  |  被动  |  1  
 [皮裤](LeatherPants.md)  |  被动  |  1  
@@ -25,3 +26,7 @@
 [衬衫](ShirtFiber.md)  |  被动  |  1  
 [蓑衣](StrawCape.md)  |  被动  |  1  
 [T恤](T-Shirt.md)  |  被动  |  1  
+[招虫体质](Pk_4_BugAttractant.md)  |  特质影响  |  -1  
+
+
+<script>document.title="蚊虫防护 - 卡牌生存百科 Card Survival Wiki";</script>

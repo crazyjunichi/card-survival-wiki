@@ -25,3 +25,6 @@
 [灵视增强！(事件)](Event_SkillInsight2.md)  |  触发事件  |  999  
 [灵视增强！(事件)](Event_SkillInsight3.md)  |  触发事件  |  999  
 [灵视增强！(事件)](Event_SkillInsight4.md)  |  触发事件  |  999  
+
+
+<script>document.title="灵视(技能) - 卡牌生存百科 Card Survival Wiki";</script>

@@ -24,3 +24,6 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="钝斧子头 - 卡牌生存百科 Card Survival Wiki";</script>

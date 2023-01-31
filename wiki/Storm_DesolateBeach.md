@@ -18,3 +18,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [风暴侵袭(事件)](Event_StormDamage.md)  |  触发事件  |  1  
+
+
+<script>document.title="荒芜沙滩风暴 - 卡牌生存百科 Card Survival Wiki";</script>

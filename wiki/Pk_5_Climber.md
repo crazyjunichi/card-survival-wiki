@@ -10,3 +10,6 @@
 初始状态  |  [攀爬(技能)](Skill_Climbing.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="攀岩者 - 卡牌生存百科 Card Survival Wiki";</script>

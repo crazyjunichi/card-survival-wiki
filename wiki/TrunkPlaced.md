@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拿起<br>  |  -  |    |  → [收纳箱](Trunk.md)  |    
+拿起<br>  |  -  |    |  ** 自身：**<br>→ [收纳箱](Trunk.md)  |    
+
+
+<script>document.title="收纳箱 - 卡牌生存百科 Card Survival Wiki";</script>

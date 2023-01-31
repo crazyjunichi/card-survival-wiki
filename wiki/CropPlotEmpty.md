@@ -74,3 +74,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+25  |    
+
+
+<script>document.title="未栽种的农田 - 卡牌生存百科 Card Survival Wiki";</script>

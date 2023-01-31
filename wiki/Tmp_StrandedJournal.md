@@ -9,3 +9,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 阅读记事本<br>  |  -  |  [光亮](Light.md): 10-100  |    |    
+
+
+<script>document.title="记事本 - 卡牌生存百科 Card Survival Wiki";</script>

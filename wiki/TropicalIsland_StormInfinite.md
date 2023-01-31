@@ -13,3 +13,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [后有风暴](OpenSea_StormBehindInfinite.md)  
+
+
+<script>document.title="暴风雨 - 卡牌生存百科 Card Survival Wiki";</script>

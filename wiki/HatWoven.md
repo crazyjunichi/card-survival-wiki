@@ -22,3 +22,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：4320<br>最大：4320  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="棕榈编织帽 - 卡牌生存百科 Card Survival Wiki";</script>

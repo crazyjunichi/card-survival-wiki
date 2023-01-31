@@ -24,3 +24,6 @@
 ----  |  ----  
 [硫磺](Brimstone.md)  |  [窑炉](Kiln.md)  
 [硫磺](Brimstone.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="硫磺石 - 卡牌生存百科 Card Survival Wiki";</script>

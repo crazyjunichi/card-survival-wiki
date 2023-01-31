@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失  |  [情绪](Morale.md)-10  
+继续<br>  |  -  |    |  ** 自身：**<br>消失  |  [情绪](Morale.md)-10  
+
+
+<script>document.title="它逃跑了！ - 卡牌生存百科 Card Survival Wiki";</script>

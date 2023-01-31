@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [幽暗洞穴(环境)](Env_CaveDark.md)(+1)<br>  [潮湿洞穴(幽暗洞穴)](DarkCaveCaveExit.md)(+1)<br>  [离开(幽暗洞穴)](DarkCaveExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [幽暗洞穴(环境)](Env_CaveDark.md)(+1)<br>  [潮湿洞穴(幽暗洞穴)](DarkCaveCaveExit.md)(+1)<br>  [离开(幽暗洞穴)](DarkCaveExit.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="幽暗洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

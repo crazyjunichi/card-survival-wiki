@@ -21,3 +21,6 @@
 [沙滩(区域)](Beach.md)  |  影响  |  1000 ~ 4000  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 4000  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 4000  
+
+
+<script>document.title="沙滩芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

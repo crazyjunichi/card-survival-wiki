@@ -17,3 +17,6 @@
 [东部高地(区域)](HighlandsEastern.md)  |  影响  |  1  
 [西部高地(区域)](HighlandsWestern.md)  |  影响  |  1  
 [火山(区域)](Volcano.md)  |  影响  |  1  
+
+
+<script>document.title="真人秀 高地 - 卡牌生存百科 Card Survival Wiki";</script>

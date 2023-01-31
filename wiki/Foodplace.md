@@ -11,3 +11,6 @@
 ----  |  ----  |  ----  
 [铜制餐具](EatingUtensilsCopper.md)  |  被动  |  1  
 [木质餐具](EatingUtensilsWooden.md)  |  被动  |  1  
+
+
+<script>document.title="用餐环境 - 卡牌生存百科 Card Survival Wiki";</script>

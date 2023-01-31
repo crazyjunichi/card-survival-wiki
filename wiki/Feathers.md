@@ -36,3 +36,6 @@
 - [鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)  
   
   
+
+
+<script>document.title="羽毛 - 卡牌生存百科 Card Survival Wiki";</script>

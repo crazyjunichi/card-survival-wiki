@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [蜘蛛兰茶](LQ_SpiderLily.md)  |  饮用  |  24  
+
+
+<script>document.title="蜘蛛兰效果 - 卡牌生存百科 Card Survival Wiki";</script>

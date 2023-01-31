@@ -33,3 +33,6 @@
 - [叶床(蓝图)](Bp_Leafbed.md)  
   
   
+
+
+<script>document.title="枯叶 - 卡牌生存百科 Card Survival Wiki";</script>

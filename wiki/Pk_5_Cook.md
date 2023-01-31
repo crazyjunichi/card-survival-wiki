@@ -10,3 +10,6 @@
 初始状态  |  [烹饪(技能)](Skill_Cooking.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="厨师 - 卡牌生存百科 Card Survival Wiki";</script>

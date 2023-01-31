@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-还原成布匹<br>  |  -  |    |  → [大块的布](ClothLarge.md)  |    
+还原成布匹<br>  |  -  |    |  ** 自身：**<br>→ [大块的布](ClothLarge.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -30,3 +30,6 @@
 Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12  |    |  [空气毒性](AirToxicity.md)-2<br>[湿度](Wetness.md)+20  
 FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Acid Damage  |  ** 需要存在卡牌：**<br>[“有毒环境”](tag_EnvToxic.md)  |  使用次数-1  |    
+
+
+<script>document.title="临时防毒面具 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,9 +12,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-回收<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Copper] **<br>  [粘土](Clay.md)(+2)<br>  [铜](Copper.md)(+2)<br>  |    
+回收<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Copper] **<br>  [粘土](Clay.md)(+2)<br>  [铜](Copper.md)(+2)<br>  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
 [铜制装饰品](CopperDecoration_Mold.md)  |  [熔炉](Forge.md)  
 [铜制装饰品](CopperDecoration_Mold.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="装饰品模具 - 卡牌生存百科 Card Survival Wiki";</script>

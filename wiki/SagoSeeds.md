@@ -18,3 +18,6 @@
 - [鸟食(蓝图)](Bp_FeedBird.md)  
   
   
+
+
+<script>document.title="西米树种 - 卡牌生存百科 Card Survival Wiki";</script>

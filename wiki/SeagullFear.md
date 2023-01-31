@@ -22,3 +22,6 @@
 [它逃跑了！(事件)](Event_SeagullFightFailure.md)  |  继续  |  -50 ~ 50  
 [一只海鸥！(事件)](Event_SeagullRaid.md)  |  不管它  |  -100  
 [一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  不管它  |  -100  
+
+
+<script>document.title="海鸥之惧 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -18,3 +18,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  含水量-1  |    
+
+
+<script>document.title="硝石溶液 - 卡牌生存百科 Card Survival Wiki";</script>

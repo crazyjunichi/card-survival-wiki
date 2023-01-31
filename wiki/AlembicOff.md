@@ -16,8 +16,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Charcoal] **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1<br>  |    
-取出<br>  |  -  |    |  → [营火(熄灭)](CampfireExtinguished.md)<br><br>** 获得： **<br>** [Alembic] **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
+取出木炭和灰烬<br>  |  15分  |    |  ** 自身：**<br>燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Charcoal] **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1  |    
+取出<br>  |  -  |    |  ** 自身：**<br>→ [营火(熄灭)](CampfireExtinguished.md)<br><br>** 获得： **<br>** [Alembic] **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -40,3 +40,6 @@
 燃料  |  初始：32<br>最大：96  |  -  |    
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  -  |    
 硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1200  |  -  |    
+
+
+<script>document.title="蒸馏器 - 卡牌生存百科 Card Survival Wiki";</script>

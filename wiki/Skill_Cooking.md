@@ -49,3 +49,6 @@
 [烹饪技能提升！(事件)](Event_SkillCooking3.md)  |  触发事件  |  70 ~ 150  
 [烹饪技能提升！(事件)](Event_SkillCooking2.md)  |  触发事件  |  30 ~ 150  
 [烹饪技能提升！(事件)](Event_SkillCooking1.md)  |  触发事件  |  10 ~ 150  
+
+
+<script>document.title="烹饪(技能) - 卡牌生存百科 Card Survival Wiki";</script>

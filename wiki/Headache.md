@@ -10,3 +10,6 @@
 300 ～ 600  |  <img decoding="async" src="Sprite/Headache.png" href="a.md" style="max-width:20px;max-height:20px;">重度头疼  |  我的头要疼死了！  |  [疼痛](Pain.md)+500  |    
 ## 相关卡牌  
 [野营热病](BacteriaTyphus.md)  |  [疟疾寄生虫](ParasiteMalaria.md)  |  [蜜蜂蛰刺](BeeStings.md)  |  [奎宁](Quinine.md)  
+
+
+<script>document.title="头疼 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -8,4 +8,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[布](Cloth.md)  |  制作头巾<br>  |  -  |    |  <br>** 使用物: **<br>→ [头巾](HeadWrappings.md)<br><br>** 获得: **<br>基础权重：1<br><br>基础权重：1<br><br>基础权重：1<br><br>基础权重：1<br>  |    
+[布](Cloth.md)  |  制作头巾<br>  |  -  |    |  <br>** 使用物: **<br>→ [头巾](HeadWrappings.md)<br><br>** 获得: **<br>基础权重：1<br>基础权重：1<br>基础权重：1<br>基础权重：1  |    
+
+
+<script>document.title="头部（内层） - 卡牌生存百科 Card Survival Wiki";</script>

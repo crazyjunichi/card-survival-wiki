@@ -17,3 +17,6 @@
 ----  |  ----  |  ----  
 [我发现了一头野猪！(事件)](Event_BoarFight.md)  |  影响  |  1 ~ 100  
 [攻击无人机！(事件)](Event_DroneFight.md)  |  影响  |  1 ~ 100  
+
+
+<script>document.title="护甲 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -23,3 +23,6 @@
 - [硫酸(蓝图)](Bp_Vitriol.md)  
   
   
+
+
+<script>document.title="硝酸钾 - 卡牌生存百科 Card Survival Wiki";</script>

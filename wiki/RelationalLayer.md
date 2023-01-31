@@ -14,3 +14,6 @@
 [神圣灵视(事件)](Event_HuntedExperience1g.md)  |  <i>抓！紧！</i>  |  1  
 [虚空灵视(事件)](Event_SpiritsEverywhere1g.md)  |  <b>难以忍受的精神痛苦！</b>  |  1  
 [虚空灵视(事件)](Event_VoidExperience1g.md)  |  我的精神正在崩塌！  |  1  
+
+
+<script>document.title="关系层 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -5,3 +5,6 @@
  ----  |  ----:   
  ** 区域唯一 **<br><br>**环境：**[洞穴(环境)](Env_CaveSea.md)  |  <img decoding="async" src="Sprite/Scratchings.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+
+
+<script>document.title="墙上的划痕 - 卡牌生存百科 Card Survival Wiki";</script>

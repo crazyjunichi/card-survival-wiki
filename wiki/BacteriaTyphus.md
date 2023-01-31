@@ -15,3 +15,13 @@
 3000 ～ 3000  |  <img decoding="async" src="Sprite/CampFever.png" href="a.md" style="max-width:20px;max-height:20px;">野营热病  |  你死于野营热病。  |  [发烧](Fever.md)加成+40<br>[腹泻](Diarrhoea.md)加成+4<br>[头疼](Headache.md)+300  |    
 ## 相关卡牌  
 [免疫系统](ImmuneSystem.md)  |  [细菌性斑疹伤寒](BacteriaTyphusPackage.md)  |  [奎宁](Quinine.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[天生免疫](Pk_4_Immunized.md)  |  特质影响  |  加成-100  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+
+
+<script>document.title="野营热病 - 卡牌生存百科 Card Survival Wiki";</script>

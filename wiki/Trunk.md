@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  -  |    |  → [收纳箱](TrunkPlaced.md)  |    
+放置<br>  |  -  |    |  ** 自身：**<br>→ [收纳箱](TrunkPlaced.md)  |    
+
+
+<script>document.title="收纳箱 - 卡牌生存百科 Card Survival Wiki";</script>

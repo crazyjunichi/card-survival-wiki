@@ -16,3 +16,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：350<br>最大：350  |  -  |  ** 到达0时： **<br>  [细线](CordFiber.md)(+1)<br>  
+
+
+<script>document.title="简易止血带 - 卡牌生存百科 Card Survival Wiki";</script>

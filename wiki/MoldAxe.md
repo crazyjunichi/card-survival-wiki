@@ -16,3 +16,6 @@
 ----  |  ----  
 [斧子头](AxeHead.md)  |  [熔炉](Forge.md)  
 [斧子头](AxeHead.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="斧头模具 - 卡牌生存百科 Card Survival Wiki";</script>

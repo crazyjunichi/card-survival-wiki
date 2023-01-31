@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [外星孢子](AlienSpores.md)加成+1  
 效果  |    
+
+
+<script>document.title="外星生物 - 卡牌生存百科 Card Survival Wiki";</script>

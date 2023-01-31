@@ -25,3 +25,6 @@
 [繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  |  2 ~ 8  
 [蜂巢](Beehive.md)  |  采集  |  2 ~ 8  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  我的衣服保护了我！  |  0 ~ 16  
+
+
+<script>document.title="蜜蜂蛰刺 - 卡牌生存百科 Card Survival Wiki";</script>

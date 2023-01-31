@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  消失<br><br>** 获得： **<br>** [Results] **<br>  [木材](Wood.md)(+6)<br>  [细线](CordFiber.md)(+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Results] **<br>  [木材](Wood.md)(+6)<br>  [细线](CordFiber.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -31,3 +31,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Feed Boars  |  ** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)  |  食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">-1  |    
+
+
+<script>document.title="猪食槽 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -11,3 +11,6 @@
 6000 ～ 6000  |  极高密度  |    |  [丛林参薯种群数量](Yam_JunglePop.md)加成+0.25  |    
 ## 相关卡牌  
 [丛林参薯种群数量](Yam_JunglePop.md)  
+
+
+<script>document.title="湿地参薯种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

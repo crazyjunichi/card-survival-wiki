@@ -11,6 +11,11 @@
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationVegetables.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃蔬菜了……  |    |  [情绪](Morale.md)加成-0.75  |    
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -45,3 +50,6 @@
 [海鲜杂烩](SeafoodCup.md)  |  食用  |  25  
 [猕猴肉串](MacaqueSkewers.md)  |  食用  |  10  
 [参薯咖喱](YamCurry.md)  |  食用  |  10  
+
+
+<script>document.title="蔬菜<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [沙滩(区域)](Beach.md)  |  影响  |  1000 ~ 30000  
+
+
+<script>document.title="沙滩椰子树种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

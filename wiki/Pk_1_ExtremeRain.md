@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [雨水计数器](RainCounter.md)+700  
 效果  |    
+
+
+<script>document.title="极度多雨 - 卡牌生存百科 Card Survival Wiki";</script>

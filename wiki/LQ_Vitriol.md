@@ -23,3 +23,6 @@
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  含水量-1  |    
 Evaporation Large  |    |  含水量-3  |    
+
+
+<script>document.title="硫酸 - 卡牌生存百科 Card Survival Wiki";</script>

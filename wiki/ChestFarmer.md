@@ -7,3 +7,6 @@
  ----  |  ----:   
  ** 可重命名 **<br><br>** 不可堆叠 **<br><br>**标签：**	[“袋子”](tag_Bag.md), [“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**槽位：**20<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**4000<br><br>**减重量：**-4000  |  <img decoding="async" src="Sprite/Chest.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+
+
+<script>document.title="储物箱 - 卡牌生存百科 Card Survival Wiki";</script>

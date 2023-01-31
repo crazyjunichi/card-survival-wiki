@@ -17,3 +17,6 @@
 - [鸟食(蓝图)](Bp_FeedBird.md)  
   
   
+
+
+<script>document.title="棕榈丛种子 - 卡牌生存百科 Card Survival Wiki";</script>

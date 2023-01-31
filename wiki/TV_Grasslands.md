@@ -19,3 +19,6 @@
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1  
 [神秘谷(区域)](SecretValley.md)  |  影响  |  1  
+
+
+<script>document.title="真人秀 草原 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -32,3 +32,6 @@
 [着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  1008 ~ 2016  
 [着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  672 ~ 2016  
 [着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  336 ~ 2016  
+
+
+<script>document.title="距离 - 卡牌生存百科 Card Survival Wiki";</script>

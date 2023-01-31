@@ -13,3 +13,6 @@
 1000 ～ 1000  |  <img decoding="async" src="Sprite/LungDamage.png" href="a.md" style="max-width:20px;max-height:20px;">死于窒息  |    |  [疼痛](Pain.md)+500  |    
 ## 相关卡牌  
 [空气毒性](AirToxicity.md)  
+
+
+<script>document.title="肺部伤害 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -15,3 +15,6 @@
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Raft Expansion 2  |  [木筏(环境)](Env_Raft.md)  |    |  容重量：+3000  |    
+
+
+<script>document.title="扩建木筏 - 卡牌生存百科 Card Survival Wiki";</script>

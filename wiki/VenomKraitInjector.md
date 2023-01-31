@@ -11,3 +11,6 @@
 ----  |  ----  |  ----  
 [一条海蛇！(事件)](Event_SeaKraitStep.md)  |  继续  |  6 ~ 16  
 [一条海蛇！(事件)](Event_SeaKraitSwim.md)  |  被咬了……  |  6 ~ 16  
+
+
+<script>document.title="中蛇毒 - 卡牌生存百科 Card Survival Wiki";</script>

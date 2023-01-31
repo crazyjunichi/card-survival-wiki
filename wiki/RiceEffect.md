@@ -14,3 +14,6 @@
 ----  |  ----  |  ----  
 [米饭](RiceCooked.md)  |  食用  |  4  
 [米汤](LQ_WaterRice.md)  |  饮用  |  4  
+
+
+<script>document.title="米饭效果 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 - [珍珠项链(蓝图)](Bp_PearlNecklace.md)  
   
   
+
+
+<script>document.title="珍珠 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,3 +14,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [红树林(区域)](Mangroves.md)  |  影响  |  1  
+
+
+<script>document.title="真人秀 红树林 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [芦荟叶](AloeVeraLeaf.md) x 2 + [切割工具(组)](GpTag_Cutter.md) x 1  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [药草学(技能)](Skill_Herbology.md)+1<br>[压力](Stress.md)-10  |  [芦荟膏](AloeVeraGel.md)(+3)  
+
+
+<script>document.title="芦荟膏 - 卡牌生存百科 Card Survival Wiki";</script>

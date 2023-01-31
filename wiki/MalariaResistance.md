@@ -8,3 +8,6 @@
 672 ～ 672  |  Immunity Developed  |    |  [疟疾寄生虫](ParasiteMalaria.md)加成-100  |    
 ## 相关卡牌  
 [疟疾寄生虫](ParasiteMalaria.md)  
+
+
+<script>document.title="疟疾寄生虫抗性 - 卡牌生存百科 Card Survival Wiki";</script>

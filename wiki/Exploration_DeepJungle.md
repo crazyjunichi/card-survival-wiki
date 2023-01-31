@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林深处(区域)](DeepJungle.md)  |  探索  |  1  
+
+
+<script>document.title="探索从林深处 - 卡牌生存百科 Card Survival Wiki";</script>

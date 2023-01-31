@@ -76,3 +76,6 @@
 ----  |  ----  
 [木炭](Charcoal.md)  |  [窑炉](Kiln.md)  
 [木炭](Charcoal.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="木材 - 卡牌生存百科 Card Survival Wiki";</script>

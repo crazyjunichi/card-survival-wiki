@@ -10,3 +10,6 @@
 初始状态  |  [矛战(技能)](Skill_SpearFighting.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="长矛手 - 卡牌生存百科 Card Survival Wiki";</script>

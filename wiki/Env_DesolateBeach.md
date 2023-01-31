@@ -13,3 +13,6 @@
 [前往荒芜沙滩(东部草原)](Path_GrasslandsEToDesolateBeach.md)  |  前往  
 [前往荒芜沙滩](Path_MangrovesToDesolateBeach.md)  |  前往  
 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  |  前往  
+
+
+<script>document.title="荒芜沙滩 - 卡牌生存百科 Card Survival Wiki";</script>

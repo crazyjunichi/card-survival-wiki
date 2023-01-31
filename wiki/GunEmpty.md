@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [枪](Gun.md)  |  弹药耗尽  
+
+
+<script>document.title="空的手枪 - 卡牌生存百科 Card Survival Wiki";</script>

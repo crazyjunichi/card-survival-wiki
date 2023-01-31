@@ -37,3 +37,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：20  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="安全刀 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -21,3 +21,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  1  
+
+
+<script>document.title="夜晚 - 卡牌生存百科 Card Survival Wiki";</script>

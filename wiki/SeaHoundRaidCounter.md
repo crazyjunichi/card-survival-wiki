@@ -7,3 +7,10 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 191  |  随机速率  |    |  [海怪入侵计数器](SeaHoundRaidCounter.md)加成+0.25～+0.9  |    
 191 ～ 192  |  最终速率  |    |  [海怪入侵计数器](SeaHoundRaidCounter.md)加成+1  |    
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[海怪来袭](Pk_1_Seahounds.md)  |  特质影响  |  1  
+
+
+<script>document.title="海怪入侵计数器 - 卡牌生存百科 Card Survival Wiki";</script>

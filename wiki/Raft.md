@@ -11,3 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [木筏](RaftEntrance.md)  |  上木筏  
+
+
+<script>document.title="木筏 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [沙滩(区域)](Beach.md)  |  随便逛逛  |  1  
+
+
+<script>document.title="探索海岸 - 卡牌生存百科 Card Survival Wiki";</script>

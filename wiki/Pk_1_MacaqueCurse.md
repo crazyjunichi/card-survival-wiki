@@ -10,3 +10,6 @@
 初始状态  |  [害怕猕猴](MacaqueFear.md)-9999  
 被动状态  |  [害怕猕猴](MacaqueFear.md)加成-10<br>[猕猴入侵计数器](MacaqueRaidCounter.md)加成+2  
 效果  |    
+
+
+<script>document.title="猕猴诅咒 - 卡牌生存百科 Card Survival Wiki";</script>

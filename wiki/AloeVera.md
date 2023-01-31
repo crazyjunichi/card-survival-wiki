@@ -21,8 +21,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  使用次数  -1<br><br>** 获得： **<br>** [Aloe Vera] **<br>  [芦荟叶](AloeVeraLeaf.md)(+1)<br>基础权重：1<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集<br>  |  15分  |    |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Aloe Vera] **<br>  [芦荟叶](AloeVeraLeaf.md)(+1)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：6  |  -  |  ** 到达0时： **<br><br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+
+
+<script>document.title="芦荟 - 卡牌生存百科 Card Survival Wiki";</script>

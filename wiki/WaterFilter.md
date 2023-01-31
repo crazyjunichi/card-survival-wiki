@@ -25,3 +25,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2400  |  每15分钟-39<br>最多需要：15小时23分  |    
+
+
+<script>document.title="滤水器 - 卡牌生存百科 Card Survival Wiki";</script>

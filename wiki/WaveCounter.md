@@ -41,3 +41,6 @@
 [人鱼巢](MermaidNest.md)  |  小憩  |  0  
 [人鱼巢](MermaidNest.md)  |  睡觉  |  0  
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0  
+
+
+<script>document.title="波次 - 卡牌生存百科 Card Survival Wiki";</script>

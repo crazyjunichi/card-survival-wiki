@@ -478,3 +478,6 @@
 [噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  193 ~ 240  
 [宿敌来了！(事件)](Event_EnemyFight.md)  |  影响  |  0 ~ 240  
 [猎手来了(事件)](Event_HunterFight.md)  |  影响  |  0 ~ 240  
+
+
+<script>document.title="压力 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -17,3 +17,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Usage Rate  |    |  使用次数-1  |    
+
+
+<script>document.title="军靴 - 卡牌生存百科 Card Survival Wiki";</script>

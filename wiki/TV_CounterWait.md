@@ -15,3 +15,6 @@
 [表演开始！(事件)](Event_TVIntro.md)  |  继续  |  1  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -1  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -287  
+
+
+<script>document.title="真人秀 - 等待 - 卡牌生存百科 Card Survival Wiki";</script>

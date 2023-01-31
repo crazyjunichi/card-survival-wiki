@@ -38,9 +38,13 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  4  
 [鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  3  
 [鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  2  
+[脚踏实地](Pk_4_DownToEarth.md)  |  特质影响  |  -1000  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  151 ~ 300  
 [神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  150 ~ 300  
 [虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  150 ~ 300  
+
+
+<script>document.title="精神失常 - 卡牌生存百科 Card Survival Wiki";</script>

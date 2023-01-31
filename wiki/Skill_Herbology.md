@@ -89,3 +89,6 @@
 [丛林边缘(区域)](Outskirts.md)  |  影响  |  0 ~ 150  
 [神秘谷(区域)](SecretValley.md)  |  影响  |  0 ~ 150  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="药草学(技能) - 卡牌生存百科 Card Survival Wiki";</script>

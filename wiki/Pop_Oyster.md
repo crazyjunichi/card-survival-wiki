@@ -20,3 +20,6 @@
 ----  |  ----  |  ----  
 [鸟岩岛(区域)](BirdRock.md)  |  影响  |  1000 ~ 30000  
 [海(海湾)](Sea_Bay.md)  |  影响  |  1000 ~ 30000  
+
+
+<script>document.title="牡蛎种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -11,3 +11,6 @@
 [洞穴中层(阴暗洞穴)](DarkChamberCaveExit.md)  |  进入  
 [竖井(洞穴上层)](ShaftHighChamberToMidChamber.md)  |  爬下去  
 [竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  爬上去  
+
+
+<script>document.title="洞穴中层 - 卡牌生存百科 Card Survival Wiki";</script>

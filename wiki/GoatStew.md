@@ -18,7 +18,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  使用次数  -1  |  [饱食](Satiation.md)+40<br>[胃](Stomach.md)+80<br>[水分](Hydration.md)+25<br>[情绪](Morale.md)+5<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+30<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+25<br>[污垢](Filth.md)+5  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>使用次数  -1  |  [饱食](Satiation.md)+40<br>[胃](Stomach.md)+80<br>[水分](Hydration.md)+25<br>[情绪](Morale.md)+5<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)+30<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+25<br>[污垢](Filth.md)+5  
 ## 可拖至  
 [祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
@@ -26,3 +26,6 @@
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [烹饪锅](CookingPot.md)  
 使用次数  |  初始：2  |  -  |  ** 到达0时： **<br><br>→ [烹饪锅](CookingPot.md)  
+
+
+<script>document.title="炖羊汤 - 卡牌生存百科 Card Survival Wiki";</script>

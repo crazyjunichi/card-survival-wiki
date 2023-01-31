@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-你可真是…关心我呢……<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [船长(Special1c)(事件)](Event_CaptainSpecial1c.md)(+1)<br>  |    
+你可真是…关心我呢……<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Next Step] **<br>  [船长(Special1c)(事件)](Event_CaptainSpecial1c.md)(+1)<br>  |    
+
+
+<script>document.title="船长 - 卡牌生存百科 Card Survival Wiki";</script>

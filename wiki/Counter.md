@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [大雨](TropicalIsland_HeavyRain.md)  |  影响  |  0 ~ 2880  
+
+
+<script>document.title="计数 - 卡牌生存百科 Card Survival Wiki";</script>

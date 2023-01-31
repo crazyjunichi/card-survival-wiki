@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-收帆<br>  |  -  |    |  → [收起的帆](SailDown_Raft.md)  |    
+收帆<br>  |  -  |    |  ** 自身：**<br>→ [收起的帆](SailDown_Raft.md)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -28,3 +28,6 @@ Favourable Wind  |  ** 需要状态：**<br>[风](Wind.md): 1-1  |    |  [距离
 Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -1--1  |  使用次数-1  |  [距离](Distance.md)加成-1.5  
 Very Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -2--2  |  使用次数-2  |  [距离](Distance.md)加成-2.5  
 Storm Front  |  ** 需要状态：**<br>[风](Wind.md): -5--3  |  使用次数-4  |  [距离](Distance.md)加成-3.5  
+
+
+<script>document.title="扬起的帆 - 卡牌生存百科 Card Survival Wiki";</script>

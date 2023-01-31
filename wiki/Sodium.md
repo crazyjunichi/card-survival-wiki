@@ -10,6 +10,10 @@
 101 ～ 200  |  <img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;">高钠含量  |    |  [水分](Hydration.md)加成-1<br>[恶心](Nausea.md)加成+1  |    
 201 ～ 300  |  <img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;">超高钠含量  |    |  [水分](Hydration.md)加成-3<br>[恶心](Nausea.md)加成+3  |    
 301 ～ 400  |  <img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;">极高钠含量  |    |  [水分](Hydration.md)加成-6<br>[恶心](Nausea.md)加成+6  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[超级肾脏](Pk_3_SpecializedKidneys.md)  |  特质影响  |  加成-300  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -37,3 +41,6 @@
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  50  
 [腌巨蜥肉](MonitorMeatSalted.md)  |  食用  |  50  
 [呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -10  
+
+
+<script>document.title="钠 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [背痛](BackPain.md)加成-50  
 效果  |    
+
+
+<script>document.title="席地而睡 - 卡牌生存百科 Card Survival Wiki";</script>

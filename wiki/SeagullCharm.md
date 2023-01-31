@@ -12,4 +12,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2688<br>最大：2688  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [细线](CordFiber.md)(+2)<br>  [鸟骨(猕猴窝)](BonesBird.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1～+2)<br>基础权重：1<br>  
+使用次数  |  初始：2688<br>最大：2688  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [细线](CordFiber.md)(+2)<br>  [鸟骨(猕猴窝)](BonesBird.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1～+2)<br>基础权重：1  
+
+
+<script>document.title="海鸥护符 - 卡牌生存百科 Card Survival Wiki";</script>

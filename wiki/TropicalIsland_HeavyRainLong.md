@@ -16,3 +16,6 @@
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [前有风暴](OpenSea_StormFront.md)  
   |  [航行](Sailed.md): 1-1  |  → [前有风暴](OpenSea_StormFront.md)  
+
+
+<script>document.title="大雨 - 卡牌生存百科 Card Survival Wiki";</script>

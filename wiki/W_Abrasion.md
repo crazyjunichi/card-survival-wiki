@@ -49,3 +49,6 @@ Gel Support  |  ** 需要属性：**<br>药品<img decoding="async" src="Sprite/
 Sepsis  |  ** 需要属性：**<br>感染<img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">: 240～288  |  进度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2<br>感染<img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |  [细菌性发烧](BacteriaFever.md)加成+10  
 Abrasion  |  ** 需要属性：**<br>进度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～250  |    |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-2<br>[体重](Weight.md)加成-0.1<br>[受伤](Wounds.md)+100  
 Scrapes  |  ** 需要属性：**<br>进度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500  |    |  [疼痛](Pain.md)+25<br>[皮肤完整度](SkinIntegrity.md)-1<br>[受伤](Wounds.md)+25  
+
+
+<script>document.title="擦伤 - 卡牌生存百科 Card Survival Wiki";</script>

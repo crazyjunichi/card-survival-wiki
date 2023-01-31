@@ -30,3 +30,6 @@
 [船长(0c)(事件)](Event_Captain0c.md)  |  ……  |  15  
 [船长(0d)(事件)](Event_Captain0d.md)  |  ……  |  15  
 [船长(0e)(事件)](Event_Captain0e.md)  |  ……  |  15  
+
+
+<script>document.title="船长陪伴 - 卡牌生存百科 Card Survival Wiki";</script>

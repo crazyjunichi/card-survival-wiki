@@ -96,3 +96,6 @@
 [鸟巢](Nest.md)  |  点燃火绒  |  0  
 [纸](Papers.md)  |  点燃火绒  |  0  
 [木屑](WoodShavings.md)  |  点燃火绒  |  0  
+
+
+<script>document.title="降水值 - 卡牌生存百科 Card Survival Wiki";</script>

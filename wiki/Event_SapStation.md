@@ -8,4 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摘取椰子<br>  |  15分  |    |  消失<br><br>** 获得： **<br>** [Coconuts] **<br>  [青椰子](CoconutHusked.md)(+3～+5)<br>基础权重：1<br>  |  [阻止抽到棕榈树](PalmTreeKiller.md)+1  
+摘取椰子<br>  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Coconuts] **<br>  [青椰子](CoconutHusked.md)(+3～+5)<br>基础权重：1  |  [阻止抽到棕榈树](PalmTreeKiller.md)+1  
+
+
+<script>document.title="树汁补给点 - 卡牌生存百科 Card Survival Wiki";</script>

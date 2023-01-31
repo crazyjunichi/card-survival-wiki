@@ -115,3 +115,6 @@
 - [木匠](Pk_5_Woodworker.md)  
 - [祖父](Pk_6_Grandfather.md)  
 - [怀孕](Pk_6_Pregnancy.md)  
+
+
+<script>document.title="角色特性 - 卡牌生存百科 Card Survival Wiki";</script>

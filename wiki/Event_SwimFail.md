@@ -19,4 +19,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-游回去<br>  |  30分  |    |  消失  |  [情绪](Morale.md)-5<br>[耐力](Stamina.md)-10<br>[湿度](Wetness.md)+200  
+游回去<br>  |  30分  |    |  ** 自身：**<br>消失  |  [情绪](Morale.md)-5<br>[耐力](Stamina.md)-10<br>[湿度](Wetness.md)+200  
+
+
+<script>document.title="我游不动了…… - 卡牌生存百科 Card Survival Wiki";</script>

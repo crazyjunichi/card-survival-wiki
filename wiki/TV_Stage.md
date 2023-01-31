@@ -15,3 +15,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [补给胶囊](TV_SupplyCapsule.md)  |  影响  |  8 ~ 10  
+
+
+<script>document.title="真人秀舞台 - 卡牌生存百科 Card Survival Wiki";</script>

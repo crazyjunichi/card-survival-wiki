@@ -9,3 +9,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 阅读指南<br>  |  -  |  [光亮](Light.md): 10-100  |    |    
+
+
+<script>document.title="生存指南 - 卡牌生存百科 Card Survival Wiki";</script>

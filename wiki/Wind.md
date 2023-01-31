@@ -27,3 +27,6 @@
 [风向不利](OpenSea_UnFavourable.md)  |  被动  |  -1  
 [风向非常不利](OpenSea_VeryUnFavourable.md)  |  被动  |  -2  
 [前有风暴](OpenSea_StormFront.md)  |  被动  |  -3  
+
+
+<script>document.title="风 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -11,3 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [储物箱(蓝图)](Bp_Chest.md)  |  蓝图制造  
+
+
+<script>document.title="储物箱 - 卡牌生存百科 Card Survival Wiki";</script>

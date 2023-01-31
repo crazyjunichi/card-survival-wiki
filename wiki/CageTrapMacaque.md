@@ -12,13 +12,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  → [诱捕笼](CageTrap.md)  |  [猕猴种群数量](Pop_Macaque.md)+1000  
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50<br>  |    
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>→ [诱捕笼](CageTrap.md)  |  [猕猴种群数量](Pop_Macaque.md)+1000  
+抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[鱼片](FishSlices.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br><br>** 使用物: **<br>消失<br>可用次数  -1<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50<br>  |    
-[“喂/添加”](tag_Feed.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50<br>  |    
+[鱼片](FishSlices.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br><br>** 使用物: **<br>消失<br>可用次数  -1<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50  |    
+[“喂/添加”](tag_Feed.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50  |    
 [“储水容器”](tag_WaterContainer.md)  |  喂水<br>  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 使用物: **<br>含水量  -300  |    
 [“切割工具”](tag_Cutter.md)  |  杀害<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [诱捕笼](CageTrap.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Macaque] **<br>  [猕猴尸体](MacaqueCarcass.md)(+1)<br>  |  [污垢](Filth.md)+20  
 ## 属性   
@@ -34,3 +34,6 @@
 ----  |  ----  |  ----  |  ----  
 Cure Stress  |  ** 需要属性：**<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 432～576<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 216～288  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">+10  |    
 Tame  |  ** 需要属性：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">: 250～1000  |  驯服进度<img decoding="async" src="Sprite/Entertainment.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
+
+
+<script>document.title="中陷阱的猕猴 - 卡牌生存百科 Card Survival Wiki";</script>

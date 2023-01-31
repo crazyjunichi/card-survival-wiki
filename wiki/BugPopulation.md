@@ -57,3 +57,6 @@
 [暴风雨](TropicalIsland_Storm.md)  |  被动  |  -3  
 [暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  -3  
 [暴风雨](TropicalIsland_StormStart.md)  |  被动  |  -3  
+
+
+<script>document.title="蚊虫数量 - 卡牌生存百科 Card Survival Wiki";</script>

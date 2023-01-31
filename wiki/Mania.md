@@ -11,8 +11,15 @@
 501 ～ 1000  |  <img decoding="async" src="Sprite/GodState.png" href="a.md" style="max-width:20px;max-height:20px;">狂热  |  我感觉精力充沛！  |  [情绪](Morale.md)加成+0.5<br>[勇气](Courage.md)+2000<br>[精神失常](MindState.md)加成+1  |  [制造动作](CraftAction.md): <br>[情绪](Morale.md)+10<br><br>[休息动作](SleepAction.md): <br>[睡眠钟](SleepClock.md)-8<br>时间-8  
 ## 相关卡牌  
 [情绪](Morale.md)  |  [世界观](Structure.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[脚踏实地](Pk_4_DownToEarth.md)  |  特质影响  |  加成-10  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [神圣灵视(事件)](Event_GodExperience1g.md)  |  <i>抓！紧！</i>  |  48 ~ 480  
 [神圣灵视(事件)](Event_HuntedExperience1g.md)  |  <i>抓！紧！</i>  |  48 ~ 480  
+
+
+<script>document.title="狂躁 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -43,3 +43,6 @@
 [马鲅鱼肉](ThreadfinMeat.md)  |  食用  |  0 ~ 150  
 [海胆肉](UrchinMeat.md)  |  食用  |  0 ~ 75  
 [不安全的水](LQ_WaterUnsafe.md)  |  饮用  |  0 ~ 150  
+
+
+<script>document.title="寄生虫 - 卡牌生存百科 Card Survival Wiki";</script>

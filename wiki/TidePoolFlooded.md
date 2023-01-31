@@ -14,8 +14,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 相关卡牌 **<br><br>[“腿部（内层）”](tag_Clothing.md)燃料 + 12<br><br>** 相关卡牌 **<br><br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
-饮用<br>  |  -  |  [肾脏](IfKidneys.md): 1-1  |  耐久  -250  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+250  
+洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料 + 12<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100 (每15分钟)<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
+饮用<br>  |  -  |  [肾脏](IfKidneys.md): 1-1  |  ** 自身：**<br>耐久  -250  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+250  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -27,3 +27,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 未蓄满的  |  [潮汐](Tides.md): 0-0  |  → [潮汐池(岩滩)](TidePool.md)<br>可用次数 + 1  
+
+
+<script>document.title="被淹没的潮汐池 - 卡牌生存百科 Card Survival Wiki";</script>

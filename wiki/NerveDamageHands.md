@@ -19,3 +19,6 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+
+
+<script>document.title="手部神经损伤 - 卡牌生存百科 Card Survival Wiki";</script>

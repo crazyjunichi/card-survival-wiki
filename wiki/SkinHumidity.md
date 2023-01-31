@@ -11,7 +11,14 @@
 0 ～ 16  |  <img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;">脱水的皮肤  |  疼死了…我需要立马为我的皮肤补充水分。  |  [疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-3  |    
 ## 相关卡牌  
 [湿度](Wetness.md)  |  [阳光辐射](SunExposure.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  |  [泥巴防护](MudProtection.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[鱼人皮肤](Pk_3_PermeableSkin.md)  |  特质影响  |  加成-3  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [人鱼巢](MermaidNest.md)  |  条件被动  |  0.5  
+
+
+<script>document.title="皮肤潮湿度 - 卡牌生存百科 Card Survival Wiki";</script>

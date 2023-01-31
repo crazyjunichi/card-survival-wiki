@@ -16,3 +16,6 @@
 ----  |  ----  
 [铜刀](KnifeCopper.md)  |  [熔炉](Forge.md)  
 [铜刀](KnifeCopper.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="刀模具 - 卡牌生存百科 Card Survival Wiki";</script>

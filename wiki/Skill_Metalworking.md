@@ -29,3 +29,6 @@
 [制作技能提升！(事件)](Event_SkillMetalworking3.md)  |  触发事件  |  70 ~ 150  
 [金工技能提升！(事件)](Event_SkillMetalworking2.md)  |  触发事件  |  30 ~ 150  
 [金工技能提升！(事件)](Event_SkillMetalworking1.md)  |  触发事件  |  10 ~ 150  
+
+
+<script>document.title="金工(技能) - 卡牌生存百科 Card Survival Wiki";</script>

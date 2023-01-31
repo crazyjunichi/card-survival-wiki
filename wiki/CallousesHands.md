@@ -11,3 +11,6 @@
 501 ～ 1000  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">  |    |  [手掌损伤](HandDamage.md)-500  |    
 ## 相关卡牌  
 [手掌损伤](HandDamage.md)  
+
+
+<script>document.title="手茧 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [飞机残骸](PlaneCrashEntrance.md)  |  进入  
+
+
+<script>document.title="坠毁的飞机 - 卡牌生存百科 Card Survival Wiki";</script>

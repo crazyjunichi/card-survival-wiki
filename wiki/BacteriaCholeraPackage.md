@@ -8,3 +8,6 @@
 1 ～ 672  |    |    |  [细菌性霍乱](BacteriaCholera.md)加成+16<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1  |    
 ## 相关卡牌  
 [污垢](Filth.md)  |  [首月次数](FirstMonthCounter.md)  
+
+
+<script>document.title="细菌性霍乱并发症 - 卡牌生存百科 Card Survival Wiki";</script>

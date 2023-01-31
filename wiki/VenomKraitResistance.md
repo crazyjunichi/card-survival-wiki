@@ -12,3 +12,6 @@
 101 ～ 128  |  <img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">完全免疫  |    |  [蛇毒](VenomKrait.md)加成-6  |    
 ## 相关卡牌  
 [蛇毒](VenomKrait.md)  
+
+
+<script>document.title="蛇毒抗性 - 卡牌生存百科 Card Survival Wiki";</script>

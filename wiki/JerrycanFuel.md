@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清空<br>  |  -  |    |  → [油桶](Jerrycan.md)  |    
+清空<br>  |  -  |    |  ** 自身：**<br>→ [油桶](Jerrycan.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,3 +29,6 @@
 [<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)  |  [火堆](Fire.md)  
 [<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)  |  [火炉](Stove.md)  
+
+
+<script>document.title="装有燃料的油桶 - 卡牌生存百科 Card Survival Wiki";</script>

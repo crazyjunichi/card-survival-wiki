@@ -13,3 +13,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Land Sickness Fix  |  ** 需要存在卡牌：**<br>[“可能出现海鸥”](tag_Coastal.md)  |    |  [内陆恐惧症](LandSickness.md)加成-8  
+
+
+<script>document.title="泥屋 - 卡牌生存百科 Card Survival Wiki";</script>

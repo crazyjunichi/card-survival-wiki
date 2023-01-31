@@ -12,5 +12,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-没有什么在监视你<br>  |  30分  |  [世界观](Structure.md): 101-5000  |  消失  |  [世界观](Structure.md)-100<br>[监视者的凝视](WatchersGlare.md)-96<br>[监视者的注视](WatcherInsight.md)+1<br>[灵视(技能)](Skill_Insight.md)+5<br>[精神失常](MindState.md)+50<br>[失实症](Derealization.md)-250  
-惊恐地尖叫<br>  |  4小时  |  [世界观](Structure.md): 0-5000  |  消失  |  [世界观](Structure.md)-100<br>[监视者的凝视](WatchersGlare.md)-96  
+没有什么在监视你<br>  |  30分  |  [世界观](Structure.md): 101-5000  |  ** 自身：**<br>消失  |  [世界观](Structure.md)-100<br>[监视者的凝视](WatchersGlare.md)-96<br>[监视者的注视](WatcherInsight.md)+1<br>[灵视(技能)](Skill_Insight.md)+5<br>[精神失常](MindState.md)+50<br>[失实症](Derealization.md)-250  
+惊恐地尖叫<br>  |  4小时  |  [世界观](Structure.md): 0-5000  |  ** 自身：**<br>消失  |  [世界观](Structure.md)-100<br>[监视者的凝视](WatchersGlare.md)-96 (每15分钟)  
+
+
+<script>document.title="监视者 - 卡牌生存百科 Card Survival Wiki";</script>

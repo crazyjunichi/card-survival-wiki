@@ -7,3 +7,6 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 191  |  随机速率  |    |  [海鸥入侵计数器](SeagullRaidCounter.md)加成+4～+8  |    
 191 ～ 192  |  最终速率  |    |  [海鸥入侵计数器](SeagullRaidCounter.md)加成+1  |    
+
+
+<script>document.title="海鸥入侵计数器 - 卡牌生存百科 Card Survival Wiki";</script>

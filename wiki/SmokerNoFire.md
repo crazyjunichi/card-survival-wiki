@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-移除布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>  [烟熏炉框架](SmokerFrame.md)(+1)<br>基础权重：1<br>  |    
+移除布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [烟熏炉框架](SmokerFrame.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="烟熏炉 - 卡牌生存百科 Card Survival Wiki";</script>

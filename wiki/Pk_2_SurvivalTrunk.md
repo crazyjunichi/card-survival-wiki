@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="超级生存箱 2000 - 卡牌生存百科 Card Survival Wiki";</script>

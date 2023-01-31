@@ -13,9 +13,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [野猪种群数量](Pop_Boar.md)+1000  
-捡起<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  → [公猪](BoarTiedMale.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>消失  |  [野猪种群数量](Pop_Boar.md)+1000  
+捡起<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [公猪](BoarTiedMale.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
+抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -48,3 +48,6 @@ Company  |    |    |  [孤独感](Loneliness.md)加成-1
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Boar Overeating  |  [猪食槽](BoarFeeder.md)  |  ** 需要属性：**<br>特殊1: 4500～6000  |  食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">-1  |    
+
+
+<script>document.title="公猪 - 卡牌生存百科 Card Survival Wiki";</script>

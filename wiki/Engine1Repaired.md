@@ -17,3 +17,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：0<br>最大：96  |  -  |    
+
+
+<script>document.title="引擎（修理） - 卡牌生存百科 Card Survival Wiki";</script>

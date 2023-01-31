@@ -20,3 +20,6 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+
+
+<script>document.title="淋雨 - 卡牌生存百科 Card Survival Wiki";</script>

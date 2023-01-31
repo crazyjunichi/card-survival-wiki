@@ -13,3 +13,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourableInfinite.md)  
+
+
+<script>document.title="大雨 - 卡牌生存百科 Card Survival Wiki";</script>

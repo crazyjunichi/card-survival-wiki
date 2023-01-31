@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林边缘(区域)](Outskirts.md)  |  探索  |  1  
+
+
+<script>document.title="探索丛林边缘 - 卡牌生存百科 Card Survival Wiki";</script>

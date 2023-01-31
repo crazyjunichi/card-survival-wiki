@@ -8,3 +8,6 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
+
+
+<script>document.title="捆好的木头 - 卡牌生存百科 Card Survival Wiki";</script>

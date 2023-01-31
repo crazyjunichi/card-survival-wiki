@@ -18,3 +18,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  采集<br>  |  30分  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [稻秆](RiceStalks.md)(+4)<br>  |  [耐力](Stamina.md)-4  
+
+
+<script>document.title="水稻 - 卡牌生存百科 Card Survival Wiki";</script>

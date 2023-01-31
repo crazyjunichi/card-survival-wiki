@@ -16,3 +16,6 @@
 [船长(Special1a)(事件)](Event_CaptainSpecial1a.md)  |  触发事件  |  2000 ~ 3000  
 [船长](Captain.md)  |  聊天  |  1001 ~ 2000  
 [船长](Captain.md)  |  聊天  |  0 ~ 1000  
+
+
+<script>document.title="船长亲密关系 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -58,3 +58,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br><br>→ [钝的求生斧](AxeSurvivalBlunt.md)  
+
+
+<script>document.title="求生斧 - 卡牌生存百科 Card Survival Wiki";</script>

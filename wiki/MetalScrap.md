@@ -28,3 +28,6 @@
 - [废金属长矛(蓝图)](Bp_ScrapSpear.md)  
   
   
+
+
+<script>document.title="金属废料 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [地窖](CellarEntrance.md)  |  进入  
+
+
+<script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

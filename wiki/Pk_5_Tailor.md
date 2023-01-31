@@ -10,3 +10,6 @@
 初始状态  |  [纺织(技能)](Skill_Tailoring.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="裁缝 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -5,9 +5,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Hand Modifier 1  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-1<br>时间+1  
-2 ～ 2  |  Hand Modifier 2  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
-3 ～ 3  |  Hand Modifier 3  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
+1 ～ 1  |  Hand Modifier 1  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-1 (每15分钟)<br>时间+1  
+2 ～ 2  |  Hand Modifier 2  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-2 (每15分钟)<br>时间+2  
+3 ～ 3  |  Hand Modifier 3  |    |    |  [手部动作](HandAction.md): <br>[耐力](Stamina.md)-4 (每15分钟)<br>时间+4  
 ## 相关卡牌  
 [真人秀直播](TV_Lives.md)  
 ## 可被以下操作改变  
@@ -54,3 +54,6 @@
 [投石索](Sling.md)  |  练习  |  0 ~ 2  
 [石头](Stone.md)  |  练习投石  |  0 ~ 2  
 [大树](LargeTree.md)  |  砍树  |  0 ~ 2  
+
+
+<script>document.title="手部动作受限 - 卡牌生存百科 Card Survival Wiki";</script>

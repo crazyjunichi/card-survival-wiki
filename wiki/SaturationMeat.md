@@ -11,6 +11,11 @@
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃肉了……  |    |  [情绪](Morale.md)加成-0.75  |    
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -44,3 +49,6 @@
 [烤老鼠](MouseCooked.md)  |  食用  |  15  
 [剥皮的老鼠](MouseSkinned.md)  |  食用  |  15  
 [炸香蕉](FriedBanana.md)  |  食用  |  10  
+
+
+<script>document.title="肉类<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

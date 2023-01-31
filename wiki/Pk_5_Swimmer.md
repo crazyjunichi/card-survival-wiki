@@ -10,3 +10,6 @@
 初始状态  |  [游泳(技能)](Skill_Swimming.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="游泳健将 - 卡牌生存百科 Card Survival Wiki";</script>

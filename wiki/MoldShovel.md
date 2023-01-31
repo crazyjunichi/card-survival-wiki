@@ -16,3 +16,6 @@
 ----  |  ----  
 [铲子头](ShovelHead.md)  |  [熔炉](Forge.md)  
 [铲子头](ShovelHead.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="铲头模具 - 卡牌生存百科 Card Survival Wiki";</script>

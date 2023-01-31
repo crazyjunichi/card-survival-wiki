@@ -16,3 +16,6 @@
 - [蜂箱(蓝图)](Bp_BeeSkep.md)  
   
   
+
+
+<script>document.title="空蜂箱 - 卡牌生存百科 Card Survival Wiki";</script>

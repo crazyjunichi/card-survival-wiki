@@ -64,3 +64,6 @@
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 150  
 [一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 150  
 [鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="矛战(技能) - 卡牌生存百科 Card Survival Wiki";</script>

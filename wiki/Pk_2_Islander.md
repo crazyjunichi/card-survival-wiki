@@ -10,3 +10,6 @@
 初始状态  |  [足茧](CallousesFeet.md)+1000<br>[手茧](CallousesHands.md)+500<br>[晒黑](Tanning.md)+1000  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="岛民 - 卡牌生存百科 Card Survival Wiki";</script>

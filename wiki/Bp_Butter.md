@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [全脂羊奶](LQ_MilkWhole.md) x 1 + [小树枝](Sticks.md) x 1 + [盐](Salt.md) x 1  |  3小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [烹饪(技能)](Skill_Cooking.md)+0.5<br>[压力](Stress.md)-10  |  [黄油](Butter.md)(+1)  
+
+
+<script>document.title="黄油 - 卡牌生存百科 Card Survival Wiki";</script>

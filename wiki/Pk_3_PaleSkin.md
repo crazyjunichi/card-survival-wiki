@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [晒黑](Tanning.md)加成-9  
 效果  |    
+
+
+<script>document.title="皮肤白皙 - 卡牌生存百科 Card Survival Wiki";</script>

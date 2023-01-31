@@ -311,3 +311,6 @@
   
 ** 达成条件： **  
 [韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)x 1  
+
+
+<script>document.title="成就 - 卡牌生存百科 Card Survival Wiki";</script>

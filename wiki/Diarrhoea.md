@@ -47,3 +47,6 @@
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -7  
 [木炭](Charcoal.md)  |  食用  |  -50  
 [泻立停](AntiDiarrhoeaPills.md)  |  吃药  |  -100  
+
+
+<script>document.title="腹泻 - 卡牌生存百科 Card Survival Wiki";</script>

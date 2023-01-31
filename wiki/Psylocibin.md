@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [迷幻菇](MagicMushrooms.md)  |  食用  |  4  
+
+
+<script>document.title="蛇床子素 - 卡牌生存百科 Card Survival Wiki";</script>

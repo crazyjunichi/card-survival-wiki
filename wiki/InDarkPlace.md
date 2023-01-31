@@ -18,3 +18,6 @@
 [离开(洞穴上层)](HighChamberExit.md)  |  离开  |  -1  
 [水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  -1  
 [离开(幽暗洞穴)](DarkCaveExit.md)  |  离开  |  -1  
+
+
+<script>document.title="在黑暗环境 - 卡牌生存百科 Card Survival Wiki";</script>

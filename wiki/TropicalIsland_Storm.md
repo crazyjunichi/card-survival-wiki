@@ -16,9 +16,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：24<br>最大：24  |  每15分钟-1<br>最多需要：6小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0～-200<br>- [季节](Seasons.md)为2881～5760时权重-100<br>- [季节](Seasons.md)为5761～8640时权重+100<br><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：300<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+100<br>- [季节](Seasons.md)为5761～8640时权重-100<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Heavy Rain] **<br>  [暴风雨](TropicalIsland_Storm.md)(+1)<br>基础权重：10<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+300<br>- [季节](Seasons.md)为2881～5760时权重+150<br>- [季节](Seasons.md)为5761～8640时权重-150<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Clear] **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：300<br>- [雨水计数器](RainCounter.md)为0～700时权重0～-300<br>- [季节](Seasons.md)为2881～5760时权重-150<br>- [季节](Seasons.md)为5761～8640时权重+150<br><br>→ [前有风暴](OpenSea_StormFront.md)  
+耐久  |  初始：24<br>最大：24  |  每15分钟-1<br>最多需要：6小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：200<li>[雨水计数器](RainCounter.md)为0～700时权重0～-200</li><li>[季节](Seasons.md)为2881～5760时权重-100</li><li>[季节](Seasons.md)为5761～8640时权重+100</li><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：300<li>[雨水计数器](RainCounter.md)为0～700时权重0～+200</li><li>[季节](Seasons.md)为2881～5760时权重+100</li><li>[季节](Seasons.md)为5761～8640时权重-100</li><li>[阻止抽到雨天](RainKiller.md)为+1时权重-9999</li><br>** [Heavy Rain] **<br>  [暴风雨](TropicalIsland_Storm.md)(+1)<br>基础权重：10<li>[雨水计数器](RainCounter.md)为0～700时权重0～+300</li><li>[季节](Seasons.md)为2881～5760时权重+150</li><li>[季节](Seasons.md)为5761～8640时权重-150</li><li>[阻止抽到雨天](RainKiller.md)为+1时权重-9999</li><br>** [Clear] **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：300<li>[雨水计数器](RainCounter.md)为0～700时权重0～-300</li><li>[季节](Seasons.md)为2881～5760时权重-150</li><li>[季节](Seasons.md)为5761～8640时权重+150</li><br>→ [前有风暴](OpenSea_StormFront.md)  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [前有风暴](OpenSea_StormFront.md)  
   |  [航行](Sailed.md): 1-1  |  → [前有风暴](OpenSea_StormFront.md)  
+
+
+<script>document.title="暴风雨 - 卡牌生存百科 Card Survival Wiki";</script>

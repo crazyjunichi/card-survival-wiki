@@ -14,3 +14,6 @@
 [前往丛林高地(丛林深处)](Path_DeepJungleToJungleHighlands.md)  |  前往  
 [前往丛林高地(西部高地)](Path_HighlandsWToJungleHighlands.md)  |  前往  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  
+
+
+<script>document.title="丛林高地 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 - [硫酸(蓝图)](Bp_Vitriol.md)  
   
   
+
+
+<script>document.title="硫磺 - 卡牌生存百科 Card Survival Wiki";</script>

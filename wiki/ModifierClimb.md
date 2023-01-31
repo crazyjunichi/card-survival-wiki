@@ -5,9 +5,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-1<br>时间+1  
-2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
-3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
+1 ～ 1  |  Climb Modifier 1  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-1 (每15分钟)<br>时间+1  
+2 ～ 2  |  Climb Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-2 (每15分钟)<br>时间+2  
+3 ～ 3  |  Climb Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[耐力](Stamina.md)-4 (每15分钟)<br>时间+4  
 ## 相关卡牌  
 [怀孕](Pregnancy.md)  
 ## 可被以下操作改变  
@@ -101,3 +101,6 @@
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  0 ~ 2  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  0 ~ 2  
 [鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 3  
+
+
+<script>document.title="攀爬动作受限 - 卡牌生存百科 Card Survival Wiki";</script>

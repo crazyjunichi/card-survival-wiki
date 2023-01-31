@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清空<br>  |  -  |    |  → [烹饪锅](CookingPot.md)  |    
+清空<br>  |  -  |    |  ** 自身：**<br>→ [烹饪锅](CookingPot.md)  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
@@ -23,3 +23,6 @@
 [熬制好的胶水](GlueCooked.md)  |  [火堆](Fire.md)  
 [熬制好的胶水](GlueCooked.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [熬制好的胶水](GlueCooked.md)  |  [火炉](Stove.md)  
+
+
+<script>document.title="未熬制的胶水 - 卡牌生存百科 Card Survival Wiki";</script>

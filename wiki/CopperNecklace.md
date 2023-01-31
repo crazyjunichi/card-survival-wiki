@@ -14,3 +14,6 @@
 ----  |  ----  
 [铜](Copper.md)  |  [熔炉](Forge.md)  
 [铜](Copper.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="铜项链 - 卡牌生存百科 Card Survival Wiki";</script>

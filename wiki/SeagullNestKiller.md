@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海鸥巢](SeagullNest.md)  |  已被掏过  |  1  
+
+
+<script>document.title="阻止抽到海鸥巢 - 卡牌生存百科 Card Survival Wiki";</script>

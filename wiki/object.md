@@ -178,3 +178,6 @@
 [<img decoding="async" src="Sprite/WeavePalm.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[棕榈编织物](WeavePalm.md)](WeavePalm.md)  |  [<img decoding="async" src="Sprite/PalmBushSeeds.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[棕榈丛种子](PalmBushSeeds.md)](PalmBushSeeds.md)  |  [<img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[棕榈叶](PalmFronds.md)](PalmFronds.md)  |  [<img decoding="async" src="Sprite/SeatDetached.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[座椅](Seat.md)](Seat.md)  
 [NONAME](Duplicator.md)  |    |    |    
   
+
+
+<script>document.title="物品 - 卡牌生存百科 Card Survival Wiki";</script>

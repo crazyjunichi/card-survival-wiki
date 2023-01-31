@@ -55,3 +55,6 @@
 [鸟巢](Nest.md)  |  点燃火绒  |  1 ~ 6  
 [纸](Papers.md)  |  点燃火绒  |  1 ~ 6  
 [木屑](WoodShavings.md)  |  点燃火绒  |  1 ~ 6  
+
+
+<script>document.title="阳光强度 - 卡牌生存百科 Card Survival Wiki";</script>

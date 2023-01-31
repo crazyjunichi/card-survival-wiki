@@ -11,3 +11,6 @@
 [前往红树林](Path_BayToMangroves.md)  |  前往  
 [前往红树林(荒芜沙滩)](Path_DesolateBeachToMangroves.md)  |  前往  
 [前往红树林(西部草原)](Path_GrasslandsWToMangroves.md)  |  前往  
+
+
+<script>document.title="红树林 - 卡牌生存百科 Card Survival Wiki";</script>

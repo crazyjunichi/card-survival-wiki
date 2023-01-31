@@ -16,3 +16,6 @@
 ----  |  ----  |  ----  
 [监视者(事件)](Event_WatchedExperience1f.md)  |  解析自我  |  1  
 [虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  0  
+
+
+<script>document.title="虚空灵视 - 卡牌生存百科 Card Survival Wiki";</script>

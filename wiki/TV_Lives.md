@@ -9,3 +9,6 @@
 2 ～ 2  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  糟了……项圈损伤了我的手部神经。  |  [手部动作受限](ModifierHand.md)+1  |    
 1 ～ 1  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  糟了……项圈电坏了我的腿部神经。  |  [手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1  |    
 0 ～ 0  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  项圈把你的脑子电糊了！  |  [手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1  |    
+
+
+<script>document.title="真人秀直播 - 卡牌生存百科 Card Survival Wiki";</script>

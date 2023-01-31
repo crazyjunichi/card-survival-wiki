@@ -12,3 +12,6 @@
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：32<br>最大：96  |  -  |    
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  -  |    
+
+
+<script>document.title="营火 - 卡牌生存百科 Card Survival Wiki";</script>

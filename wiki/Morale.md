@@ -19,6 +19,7 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[乐观主义](Pk_4_Optimist.md)  |  特质影响  |  加成+0.75  
 [茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  加成+0.5  
 [铜项链](CopperNecklace.md)  |  被动  |  加成+0.25  
 [鲜花项链](FlowerNecklace.md)  |  被动  |  加成+0.25  
@@ -42,6 +43,7 @@
 [糖水](LQ_SugarWater.md)  |  饮用  |  加成0  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
+[悲观主义](Pk_4_Pessimistic.md)  |  特质影响  |  加成-2  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -154,7 +156,7 @@
 [巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)  |  继续  |  20  
 [海怪倒下了！(事件)](Event_SeahoundFightSuccess.md)  |  继续  |  20  
 [鲨鱼死了！(事件)](Event_SharkFightSuccess.md)  |  继续  |  20  
-[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  20  
+[韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  20  
 [椰子鱼](CoconutFish.md)  |  食用  |  15  
 [醉蟹](DrunkenCrab.md)  |  食用  |  15  
 [蛋炒饭](EggFriedRice.md)  |  食用  |  15  
@@ -663,3 +665,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  350  
+
+
+<script>document.title="情绪 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -7,3 +7,6 @@
   
 ## 可拖至  
 [韦斯顿](Weston.md) | [海湾(区域)](Bay.md) | [沙滩(区域)](Beach.md)  
+
+
+<script>document.title="相机 - 卡牌生存百科 Card Survival Wiki";</script>

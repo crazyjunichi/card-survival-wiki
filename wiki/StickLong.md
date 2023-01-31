@@ -48,7 +48,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-折断长木棍<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  → [小树枝](Sticks.md)  |    
+折断长木棍<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [小树枝](Sticks.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -96,3 +96,6 @@
 - [木铲(蓝图)](Bp_WoodenShovel.md)  
   
   
+
+
+<script>document.title="长木棍 - 卡牌生存百科 Card Survival Wiki";</script>

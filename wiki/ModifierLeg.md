@@ -5,9 +5,9 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Leg Modifier 1  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-2<br>时间+1  
-2 ～ 2  |  Leg Modifier 2  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-4<br>时间+2  
-3 ～ 3  |  Leg Modifier 3  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-8<br>时间+4  
+1 ～ 1  |  Leg Modifier 1  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-2 (每15分钟)<br>时间+1  
+2 ～ 2  |  Leg Modifier 2  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-4 (每15分钟)<br>时间+2  
+3 ～ 3  |  Leg Modifier 3  |    |    |  [腿部动作](LegAction.md): <br>[耐力](Stamina.md)-8 (每15分钟)<br>时间+4  
 ## 相关卡牌  
 [体重](Weight.md)  |  [怀孕](Pregnancy.md)  |  [真人秀直播](TV_Lives.md)  |  [蛇毒](VenomKrait.md)  
 ## 可被以下操作改变  
@@ -38,3 +38,6 @@
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  0.5  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  0.5  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  0.5  
+
+
+<script>document.title="腿部动作受限 - 卡牌生存百科 Card Survival Wiki";</script>

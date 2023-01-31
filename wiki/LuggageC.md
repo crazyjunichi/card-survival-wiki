@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  -  |    |  → [行李箱](LuggageCPlaced.md)  |    
+放置<br>  |  -  |    |  ** 自身：**<br>→ [行李箱](LuggageCPlaced.md)  |    
+
+
+<script>document.title="行李箱 - 卡牌生存百科 Card Survival Wiki";</script>

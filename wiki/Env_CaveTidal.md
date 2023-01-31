@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [潮汐洞(荒芜沙滩)](CaveTidalEntrance.md)  |  进入  
+
+
+<script>document.title="潮汐洞 - 卡牌生存百科 Card Survival Wiki";</script>

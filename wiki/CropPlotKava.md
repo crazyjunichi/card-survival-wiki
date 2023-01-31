@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摧毁<br>[手部动作](HandAction.md)  |  30分  |    |  → [未栽种的农田(空)](CropPlotEmpty.md)  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
+摧毁<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身：**<br>→ [未栽种的农田(空)](CropPlotEmpty.md)  |  [药草学(技能)](Skill_Herbology.md)+0.5<br>[污垢](Filth.md)+25  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -53,3 +53,6 @@ Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  水分<img d
 ----  |  ----  |  ----  |  ----  |  ----  
 Mite Infestation  |  [“农作物”](tag_Crop.md)  |  ** 需要属性：**<br>螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">: 50～100  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">+0.75  |    
 Fungal Infestation  |  [“农作物”](tag_Crop.md)  |  ** 需要属性：**<br>真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">: 144～288  |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+0.5  |    
+
+
+<script>document.title="卡瓦胡椒田 - 卡牌生存百科 Card Survival Wiki";</script>

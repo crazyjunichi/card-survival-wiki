@@ -20,8 +20,11 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Clear] **<br>  [平静](OpenSea_Calm.md)(+1)<br>基础权重：2<br><br>** [Fav] **<br>  [风向有利](OpenSea_Favourable.md)(+1)<br>基础权重：1<br><br>** [Unfav] **<br>  [风向不利](OpenSea_UnFavourable.md)(+1)<br>基础权重：1<br>  
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Clear] **<br>  [平静](OpenSea_Calm.md)(+1)<br>基础权重：2<br>** [Fav] **<br>  [风向有利](OpenSea_Favourable.md)(+1)<br>基础权重：1<br>** [Unfav] **<br>  [风向不利](OpenSea_UnFavourable.md)(+1)<br>基础权重：1  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [晴朗](TropicalIsland_Clear.md)  
+
+
+<script>document.title="平静 - 卡牌生存百科 Card Survival Wiki";</script>

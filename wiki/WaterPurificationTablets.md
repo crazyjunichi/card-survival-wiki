@@ -11,3 +11,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：8  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="净水片 - 卡牌生存百科 Card Survival Wiki";</script>

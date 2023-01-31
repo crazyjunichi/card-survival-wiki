@@ -35,3 +35,6 @@
 - [铜罐(蓝图)](Bp_CopperJar.md)  
   
   
+
+
+<script>document.title="钝刀 - 卡牌生存百科 Card Survival Wiki";</script>

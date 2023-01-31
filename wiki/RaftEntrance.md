@@ -14,8 +14,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-上木筏<br>  |  -  |    |  使用次数 + 1<br><br>** 获得： **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>  [离开木筏](RaftExit.md)(+1)<br>  [开始冒险](Start_Raft.md)(+1)<br>  [木筏(区域)](Raft.md)(+1)<br>基础权重：1<br>  |  [在木筏上](OnRaft.md)+1  
+上木筏<br>  |  -  |    |  ** 自身：**<br>使用次数 + 1<br><br>** 获得： **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>  [离开木筏](RaftExit.md)(+1)<br>  [开始冒险](Start_Raft.md)(+1)<br>  [木筏(区域)](Raft.md)(+1)<br>基础权重：1  |  [在木筏上](OnRaft.md)+1  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Determination  |    |    |  [决心](Determination.md)加成+1  
+
+
+<script>document.title="木筏 - 卡牌生存百科 Card Survival Wiki";</script>

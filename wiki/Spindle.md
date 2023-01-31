@@ -22,3 +22,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时：纤维就绪 **<br><br>→ [缠好的纺锤](SpindleFiber.md)  
+
+
+<script>document.title="纺锤 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -24,3 +24,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Lye  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～480  |  进度+1  |    
+
+
+<script>document.title="硝石矿床 - 卡牌生存百科 Card Survival Wiki";</script>

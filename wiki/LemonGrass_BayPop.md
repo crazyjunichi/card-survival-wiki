@@ -16,3 +16,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海湾(区域)](Bay.md)  |  影响  |  1000 ~ 15000  
+
+
+<script>document.title="海湾柠檬草种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

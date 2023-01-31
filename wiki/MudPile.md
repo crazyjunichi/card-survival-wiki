@@ -20,7 +20,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作粘土<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 1-100  |  → [粘土](Clay.md)  |  [污垢](Filth.md)+15  
+制作粘土<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 1-100  |  ** 自身：**<br>→ [粘土](Clay.md)  |  [污垢](Filth.md)+15  
 涂到身上<br>[手部动作](HandAction.md)  |  15分  |    |    |  [污垢](Filth.md)+500<br>[泥巴防护](MudProtection.md)+50  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
@@ -54,3 +54,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  耐久+10  |    
+
+
+<script>document.title="泥堆 - 卡牌生存百科 Card Survival Wiki";</script>

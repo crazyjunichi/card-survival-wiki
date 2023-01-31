@@ -25,3 +25,6 @@
 - [木桌(蓝图)](Bp_Table.md)  
   
   
+
+
+<script>document.title="木板 - 卡牌生存百科 Card Survival Wiki";</script>

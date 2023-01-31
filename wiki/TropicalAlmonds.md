@@ -22,3 +22,6 @@
 - [猪食(蓝图)](Bp_FeedBoar.md)  
   
   
+
+
+<script>document.title="热带杏仁 - 卡牌生存百科 Card Survival Wiki";</script>

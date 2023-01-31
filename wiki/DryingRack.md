@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |    |  消失<br><br>** 获得： **<br>** [1] **<br>  [细线](CordFiber.md)(+10)<br>  [长木棍](StickLong.md)(+5)<br>  |    
+拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [1] **<br>  [细线](CordFiber.md)(+10)<br>  [长木棍](StickLong.md)(+5)<br>  |    
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -27,3 +27,6 @@
 [野猪肉](BoarMeat.md)  |  野猪肉  |  6天6小时  |  ** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  [野猪肉干](BoarMeatDried.md)(+1)<br><br>耐久 + 0.75  |    
 [羊肉](GoatMeat.md)  |  羊肉  |  6天6小时  |  ** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  [羊肉干](GoatMeatDried.md)(+1)<br><br>耐久 + 0.75  |    
 [猕猴肉](MacaqueMeat.md)  |  猕猴肉  |  6天6小时  |  ** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  [猕猴肉干](MacaqueMeatDried.md)(+1)<br><br>耐久 + 0.75  |    
+
+
+<script>document.title="晾晒架 - 卡牌生存百科 Card Survival Wiki";</script>

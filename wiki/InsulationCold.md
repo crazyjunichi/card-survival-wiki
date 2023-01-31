@@ -22,6 +22,7 @@
 [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  被动  |  20  
 [蒸馏器(开)](AlembicOn.md)  |  被动  |  15  
 [火炉](Stove.md)  |  被动  |  15  
+[鱼人皮肤](Pk_3_PermeableSkin.md)  |  特质影响  |  15  
 [瓦斯炉(开)](GasCookerOn.md)  |  被动  |  10  
 [窝棚](Shelter.md)  |  被动  |  5  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  被动  |  5  
@@ -32,3 +33,6 @@
 [木筏庇护所](RaftShelter.md)  |  被动  |  5  
 [防毒面具](GasMaskRustic.md)  |  被动  |  2  
 [临时防毒面具](MaskMakeshift.md)  |  被动  |  2  
+
+
+<script>document.title="保温 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+35<br>[镇痛](Analgesia.md)+75<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+10  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+35<br>[镇痛](Analgesia.md)+75<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+10  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -23,3 +23,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  耐久-0.5<br>含水量-1  |    
+
+
+<script>document.title="卡瓦汤 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -20,3 +20,6 @@
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 20000  
 [西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 20000  
 [神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 20000  
+
+
+<script>document.title="高地柠檬草种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

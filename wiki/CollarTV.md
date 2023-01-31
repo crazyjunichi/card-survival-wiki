@@ -5,3 +5,6 @@
  ----  |  ----:   
  ** 不可删除 **<br><br>**重量：**150<br><br>**装备时减重：**-150<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“真人秀项圈”](eTag_CollarTV.md)  |  <img decoding="async" src="Sprite/Collar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+
+
+<script>document.title="项圈 - 卡牌生存百科 Card Survival Wiki";</script>

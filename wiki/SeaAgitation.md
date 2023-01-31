@@ -25,3 +25,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [巨浪击中了木筏！(事件)](Event_Wave.md)  |  触发事件  |  4 ~ 5  
+
+
+<script>document.title="海风程度 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,3 +12,10 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [捕鱼陷阱](FishTrapDeployed.md)  |  捕捉猎物  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[捕鱼陷阱](FishTrapDeployed.md)  |  转化需要  |  1000 ~ 60000  
+
+
+<script>document.title="虾种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

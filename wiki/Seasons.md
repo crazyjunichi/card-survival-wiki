@@ -24,3 +24,6 @@
 [小雨](TropicalIsland_LightRain.md)  |  影响  |  2881 ~ 5760  
 [多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  2881 ~ 5760  
 [暴风雨](TropicalIsland_Storm.md)  |  影响  |  2881 ~ 5760  
+
+
+<script>document.title="季节 - 卡牌生存百科 Card Survival Wiki";</script>

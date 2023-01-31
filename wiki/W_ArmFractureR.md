@@ -34,3 +34,6 @@ Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/AloeGe
 Fracture Extreme  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～750  |    |  [疼痛](Pain.md)+500<br>[体重](Weight.md)加成-0.5<br>[手部动作受限](ModifierHand.md)+2<br>[攀爬动作受限](ModifierClimb.md)+2<br>[受伤](Wounds.md)+750  
 Fracture Severe  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1250  |    |  [疼痛](Pain.md)+325<br>[体重](Weight.md)加成-0.25<br>[手部动作受限](ModifierHand.md)+1<br>[攀爬动作受限](ModifierClimb.md)+1<br>[受伤](Wounds.md)+750  
 Fracture Moderate  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 1251～1500  |    |  [疼痛](Pain.md)+150<br>[体重](Weight.md)加成-0.1<br>[手部动作受限](ModifierHand.md)+0.5<br>[攀爬动作受限](ModifierClimb.md)+0.5<br>[受伤](Wounds.md)+250  
+
+
+<script>document.title="右臂骨折 - 卡牌生存百科 Card Survival Wiki";</script>

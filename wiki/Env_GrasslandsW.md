@@ -13,3 +13,6 @@
 [前往西部草原(西部高地)](Path_HighlandsWToGrasslandsW.md)  |  前往  
 [前往西部草原(丛林)](Path_JungleToGrasslandsW.md)  |  前往  
 [前往西部草原(红树林)](Path_MangrovesToGrasslandsW.md)  |  前往  
+
+
+<script>document.title="西部草原 - 卡牌生存百科 Card Survival Wiki";</script>

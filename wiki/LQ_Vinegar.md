@@ -22,3 +22,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  含水量-0.25  |    
+
+
+<script>document.title="醋 - 卡牌生存百科 Card Survival Wiki";</script>

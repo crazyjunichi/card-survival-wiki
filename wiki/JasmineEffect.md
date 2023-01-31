@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [茉莉花茶](LQ_JasmineTea.md)  |  饮用  |  24  
+
+
+<script>document.title="茉莉效果 - 卡牌生存百科 Card Survival Wiki";</script>

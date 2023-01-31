@@ -26,9 +26,12 @@
 [韦斯顿(3b)(事件)](Event_Weston3b.md)  |  晚点儿再聊！  |  30  
 [韦斯顿(3c)(事件)](Event_Weston3c.md)  |  我得走了。  |  30  
 [韦斯顿(3d)(事件)](Event_Weston3d.md)  |  拜拜~  |  30  
-[Event_WestonTalk1a_CardName(Talk1a)(事件)](Event_WestonTalk1a.md)  |  Talk later!  |  30  
+[韦斯顿(Talk1a)(事件)](Event_WestonTalk1a.md)  |  Talk later!  |  30  
 [韦斯顿(0a)(事件)](Event_Weston0a.md)  |  ……  |  15  
 [韦斯顿(0b)(事件)](Event_Weston0b.md)  |  ……  |  15  
 [韦斯顿(0c)(事件)](Event_Weston0c.md)  |  ……  |  15  
 [韦斯顿(0d)(事件)](Event_Weston0d.md)  |  ……  |  15  
 [韦斯顿(0e)(事件)](Event_Weston0e.md)  |  ……  |  15  
+
+
+<script>document.title="韦斯顿的陪伴 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -288  
+
+
+<script>document.title="真人秀 - 包裹倒计时 - 卡牌生存百科 Card Survival Wiki";</script>

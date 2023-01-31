@@ -15,3 +15,6 @@
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Shed Expansion  |  [棚屋(环境)](Env_Shed.md)  |    |  容重量：+10000  |    
+
+
+<script>document.title="棚屋扩建 - 卡牌生存百科 Card Survival Wiki";</script>

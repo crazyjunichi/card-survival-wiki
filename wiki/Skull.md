@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-聊聊吧<br>  |  15分  |  [孤独感](Loneliness.md): 900-4880  |  → [船长](Captain.md)  |    
+聊聊吧<br>  |  15分  |  [孤独感](Loneliness.md): 900-4880  |  ** 自身：**<br>→ [船长](Captain.md)  |    
+
+
+<script>document.title="头骨 - 卡牌生存百科 Card Survival Wiki";</script>

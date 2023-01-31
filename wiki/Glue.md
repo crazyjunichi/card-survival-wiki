@@ -32,3 +32,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>→ [干胶水](GlueDry.md)  
+
+
+<script>document.title="胶水 - 卡牌生存百科 Card Survival Wiki";</script>

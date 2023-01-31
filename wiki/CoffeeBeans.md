@@ -22,3 +22,6 @@
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [火堆](Fire.md)  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [烤咖啡豆](CoffeeRoastedBeans.md)  |  [火炉](Stove.md)  
+
+
+<script>document.title="咖啡豆 - 卡牌生存百科 Card Survival Wiki";</script>

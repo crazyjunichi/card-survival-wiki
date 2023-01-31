@@ -26,3 +26,6 @@
 - [蜜汁火腿(蓝图)](Bp_HoneyGlazedPork.md)  
   
   
+
+
+<script>document.title="稻米 - 卡牌生存百科 Card Survival Wiki";</script>

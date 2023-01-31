@@ -76,3 +76,6 @@
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -5  
 [左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -5  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -5  
+
+
+<script>document.title="皮肤完整度 - 卡牌生存百科 Card Survival Wiki";</script>

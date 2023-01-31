@@ -46,4 +46,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：20<br>最大：20  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>  
+使用次数  |  初始：20<br>最大：20  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1  
+
+
+<script>document.title="石斧 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -48,3 +48,6 @@
 [一只猕猴！(事件)](Event_MacaqueUndeadFight.md)  |  影响  |  0 ~ 150  
 [一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  影响  |  0 ~ 150  
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="投石索(技能) - 卡牌生存百科 Card Survival Wiki";</script>

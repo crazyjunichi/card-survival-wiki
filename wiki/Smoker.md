@@ -12,9 +12,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  -  |    |  燃料  -4<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
-熄灭火焰<br>  |  -  |    |  → [烟熏炉(熄灭)](SmokerExtinguished.md)  |    
-移除烟熏炉<br>  |  30分  |    |  → [营火](Campfire.md)<br><br>** 获得： **<br>  [烟熏炉(无火)](SmokerNoFire.md)(+1)<br>基础权重：1<br>  |    
+取出火炭<br>  |  -  |    |  ** 自身：**<br>燃料  -4<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [烟熏炉(熄灭)](SmokerExtinguished.md)  |    
+移除烟熏炉<br>  |  30分  |    |  ** 自身：**<br>→ [营火](Campfire.md)<br><br>** 获得： **<br>  [烟熏炉(无火)](SmokerNoFire.md)(+1)<br>基础权重：1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -68,4 +68,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>  [灰烬](Ash.md)(0～+1)<br>  [木炭](Charcoal.md)(0～+1)<br>  [火炭](Embers.md)(0～+1)<br>基础权重：1<br><br>→ [烟熏炉(熄灭)](SmokerExtinguished.md)  
+燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>  [灰烬](Ash.md)(0～+1)<br>  [木炭](Charcoal.md)(0～+1)<br>  [火炭](Embers.md)(0～+1)<br>基础权重：1<br>→ [烟熏炉(熄灭)](SmokerExtinguished.md)  
+
+
+<script>document.title="烟熏炉 - 卡牌生存百科 Card Survival Wiki";</script>

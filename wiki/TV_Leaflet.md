@@ -13,3 +13,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 阅读<br>  |  -  |    |    |    
+
+
+<script>document.title="胜利手册 - 卡牌生存百科 Card Survival Wiki";</script>

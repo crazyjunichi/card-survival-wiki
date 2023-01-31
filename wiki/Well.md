@@ -16,3 +16,6 @@
 ----  |  ----  |  ----  |  ----  
 Fill  |    |  [不安全的水](LQ_WaterUnsafe.md)+4<br>含水量+2  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [不安全的水](LQ_WaterUnsafe.md)+50  |    
+
+
+<script>document.title="水井 - 卡牌生存百科 Card Survival Wiki";</script>

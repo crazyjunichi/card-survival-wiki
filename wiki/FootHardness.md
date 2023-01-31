@@ -5,3 +5,6 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
+
+
+<script>document.title="脚的硬度 - 卡牌生存百科 Card Survival Wiki";</script>

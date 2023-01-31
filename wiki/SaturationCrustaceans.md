@@ -11,6 +11,12 @@
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationCrabs.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃甲壳动物了……  |    |  [情绪](Morale.md)加成-0.75  |    
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
+[超级肾脏](Pk_3_SpecializedKidneys.md)  |  特质影响  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -20,3 +26,6 @@
 [虫子](Bugs.md)  |  食用  |  10  
 [虾](Prawns.md)  |  食用  |  10  
 [烤虾](PrawnsCooked.md)  |  食用  |  10  
+
+
+<script>document.title="甲壳类<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

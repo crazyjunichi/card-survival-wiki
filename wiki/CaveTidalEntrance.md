@@ -8,4 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [潮汐洞(环境)](Env_CaveTidal.md)(+1)<br>  [离开(潮汐洞)](CaveTidalExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [潮汐洞(环境)](Env_CaveTidal.md)(+1)<br>  [离开(潮汐洞)](CaveTidalExit.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="潮汐洞 - 卡牌生存百科 Card Survival Wiki";</script>

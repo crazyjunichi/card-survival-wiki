@@ -505,3 +505,6 @@
 [近期的踪迹(事件)](Event_BoarTrailRecent.md)  |  影响  |  0  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  0  
 [黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  休息  |  0  
+
+
+<script>document.title="光亮 - 卡牌生存百科 Card Survival Wiki";</script>

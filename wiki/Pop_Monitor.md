@@ -19,7 +19,15 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[诱捕笼](CageTrapPlaced.md)  |  转化需要  |  1000 ~ 14000  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 14000  
+[原木陷阱](LogTrap.md)  |  转化需要  |  1000 ~ 14000  
+[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 14000  
+[陷坑](TrappingPit.md)  |  转化需要  |  1000 ~ 14000  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 14000  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 14000  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 14000  
 [红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 14000  
+
+
+<script>document.title="巨蜥种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

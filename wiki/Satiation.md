@@ -16,6 +16,10 @@
 0 ～ 24  |  <img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">饥肠辘辘  |  我必须要赶紧吃点什么  |  [情绪](Morale.md)加成-2<br>[压力](Stress.md)加成+2<br>[食欲](Appetite.md)加成-0.25<br>[香蕉<nobr>厌倦度</nobr>](SaturationBananas.md)加成-2<br>[鸟类<nobr>厌倦度</nobr>](SaturationBird.md)加成-2<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)加成-2<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)加成-2<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)加成-2<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)加成-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)加成-2<br>[水果<nobr>厌倦度</nobr>](SaturationFruits.md)加成-2<br>[肉类<nobr>厌倦度</nobr>](SaturationMeat.md)加成-2<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)加成-2<br>[蘑菇<nobr>厌倦度</nobr>](SaturationMushrooms.md)加成-2<br>[坚果<nobr>厌倦度</nobr>](SaturationNuts.md)加成-2<br>[干粮<nobr>厌倦度</nobr>](SaturationRations.md)加成-2<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)加成-2<br>[爬行类厌倦度](SaturationReptile.md)加成-2<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)加成-2<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)加成-2<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)加成-2<br>[参薯<nobr>厌倦度</nobr>](SaturationYam.md)加成-2  |    
 ## 相关卡牌  
 [食欲](Appetite.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -202,3 +206,6 @@
 [虫子](Bugs.md)  |  食用  |  2  
 [鱼片](FishSlices.md)  |  食用  |  2  
 [烤鱼片](FishSlicesCooked.md)  |  食用  |  2  
+
+
+<script>document.title="饱食 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [晕船药](SeasicknessPills.md)  |  吃药  |  400  
+
+
+<script>document.title="抗晕船 - 卡牌生存百科 Card Survival Wiki";</script>

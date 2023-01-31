@@ -24,13 +24,18 @@
 -   [区域](area.md)
 
 [蓝图](blueprint.md)
-[状态](stat.md)
+
+[状态]()
+
+-   [状态](stat.md)
+-   [事件](event.md)
+-   [触发器](trigger_list.md)
 
 [其他]()
 
--   [事件](event.md)
 -   [天气](weather.md)
 -   [液体](liquid.md)
+-   [休息](time_skip.md)
 
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css" />
 <link rel="stylesheet" href="./bootstrap.min.css" />
@@ -47,11 +52,12 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-RE3Z6GM8B9"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-RE3Z6GM8B9',{'page_path': location.pathname + location.hash });
+  if (window.location.href.indexOf("localhost")<0){
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-RE3Z6GM8B9',{'page_path': location.pathname + location.hash });
+  }
 </script>
 
 <style>

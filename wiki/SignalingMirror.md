@@ -9,3 +9,6 @@
   
 ## 可拖至  
 [纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md) | [过路的船只](PassingShip.md)  
+
+
+<script>document.title="信号镜 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -38,3 +38,6 @@
 [船长(Special1a)(事件)](Event_CaptainSpecial1a.md)  |  触发事件  |  1 ~ 999  
 [噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  1 ~ 14  
 [韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  1 ~ 999  
+
+
+<script>document.title="睡眠钟 - 卡牌生存百科 Card Survival Wiki";</script>

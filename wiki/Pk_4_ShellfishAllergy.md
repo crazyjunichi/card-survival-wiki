@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  无  
 效果  |  [食用海鲜动作](ShellfishAction.md): <br>[腹泻](Diarrhoea.md)+100  
+
+
+<script>document.title="贝类过敏 - 卡牌生存百科 Card Survival Wiki";</script>

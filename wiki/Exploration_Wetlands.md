@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  |  1  
+
+
+<script>document.title="探索湿地 - 卡牌生存百科 Card Survival Wiki";</script>

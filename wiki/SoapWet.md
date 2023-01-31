@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  耐久  -3<br>使用次数  -1  |  [湿度](Wetness.md)+15<br>[污垢](Filth.md)-300<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50  
+洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>耐久  -3<br>使用次数  -1  |  [湿度](Wetness.md)+15<br>[污垢](Filth.md)-300<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -31,3 +31,6 @@
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br><br>→ [肥皂](SoapDry.md)  
 使用次数  |  初始：15  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="湿肥皂 - 卡牌生存百科 Card Survival Wiki";</script>

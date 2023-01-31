@@ -25,3 +25,6 @@
 [一只蜘蛛！(事件)](Event_Spider.md)  |  检查伤口  |  1 ~ 3.9  
 [一只蜘蛛！(事件)](Event_Spider.md)  |  检查伤口  |  0  
 [海胆！！(事件)](Event_Urchin.md)  |  检查伤口  |  0 ~ 4  
+
+
+<script>document.title="足部防护 - 卡牌生存百科 Card Survival Wiki";</script>

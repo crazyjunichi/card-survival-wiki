@@ -12,6 +12,10 @@
 501 ～ 1000  |  <img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;">现实感丧失  |  现实不真实  |  [精神失常](MindState.md)加成+1.5<br>[勇气](Courage.md)+3000<br>[疼痛](Pain.md)-400<br>[失实症](Derealization.md)加成-0.4  |    
 ## 相关卡牌  
 [情绪](Morale.md)  |  [世界观](Structure.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[脚踏实地](Pk_4_DownToEarth.md)  |  特质影响  |  加成-10  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -32,3 +36,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  101 ~ 1000  
+
+
+<script>document.title="失实症 - 卡牌生存百科 Card Survival Wiki";</script>

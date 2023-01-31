@@ -19,3 +19,6 @@
 [捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  50  
 [卡瓦根](KavaRoot.md)  |  食用  |  25  
 [干燥的卡瓦根](KavaRootDried.md)  |  食用  |  25  
+
+
+<script>document.title="镇痛 - 卡牌生存百科 Card Survival Wiki";</script>

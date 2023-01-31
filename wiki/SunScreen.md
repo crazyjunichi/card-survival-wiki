@@ -8,8 +8,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-涂抹<br>[手部动作](HandAction.md)  |  -  |    |  使用次数  -1  |  [防晒霜](SunScreenApplied.md)+100  
+涂抹<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>使用次数  -1  |  [防晒霜](SunScreenApplied.md)+100  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：10<br>最大：10  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="防晒霜 - 卡牌生存百科 Card Survival Wiki";</script>

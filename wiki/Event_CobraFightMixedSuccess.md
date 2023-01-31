@@ -15,4 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Carcass] **<br>  [眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  [眼镜蛇尸体](CobraDead.md)(+1)<br>  |  [眼镜蛇种群数量](Pop_Cobra.md)-1000  
+继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Carcass] **<br>  [眼镜蛇毒液](W_CobraSpit.md)(+1)<br>  [眼镜蛇尸体](CobraDead.md)(+1)<br>  |  [眼镜蛇种群数量](Pop_Cobra.md)-1000  
+
+
+<script>document.title="胜负参半 - 卡牌生存百科 Card Survival Wiki";</script>

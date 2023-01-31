@@ -10,3 +10,6 @@
 初始状态  |  [光亮](Light.md)+50  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="夜视 - 卡牌生存百科 Card Survival Wiki";</script>

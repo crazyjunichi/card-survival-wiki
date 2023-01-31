@@ -10,3 +10,6 @@
 ----  |  ----  
 [离开(洞穴上层)](HighChamberExit.md)  |  离开  
 [隧道入口(东部高地)](TunnelEntrance.md)  |  进入  
+
+
+<script>document.title="隧道 - 卡牌生存百科 Card Survival Wiki";</script>

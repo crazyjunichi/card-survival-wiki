@@ -54,3 +54,6 @@
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 150  
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 100  
 [蝙蝠群(蝙蝠洞)](BatColony.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="手枪(技能) - 卡牌生存百科 Card Survival Wiki";</script>

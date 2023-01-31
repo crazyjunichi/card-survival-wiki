@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [石头](Stone.md) x 1 + [大石块](StoneHeavy.md) x 1  |  1小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[压力](Stress.md)-10  |  [石刀](StoneSharpened.md)(+1)  
+
+
+<script>document.title="石刀 - 卡牌生存百科 Card Survival Wiki";</script>

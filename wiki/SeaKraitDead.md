@@ -23,3 +23,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+
+
+<script>document.title="海蛇尸体 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -8,3 +8,6 @@
 2000 ～ 6000  |  低密度  |    |  [海蛇种群数量](Pop_Krait.md)加成+0.5  |    
 6001 ～ 10000  |  中等密度  |    |  [海蛇种群数量](Pop_Krait.md)加成+1<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.5  |    
 10001 ～ 12000  |  高密度  |    |  [海蛇种群数量](Pop_Krait.md)加成+2<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.75  |    
+
+
+<script>document.title="海蛇种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

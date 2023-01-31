@@ -15,3 +15,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [岩滩(区域)](Rocks.md)  |  影响  |  0 ~ 9  
+
+
+<script>document.title="探索岩滩 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -42,3 +42,6 @@
 [鼓(事件)](Event_DrumMenu.md)  |  练习  |  0 ~ 10  
 [鼓](Drum.md)  |  练习  |  0 ~ 30  
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  0 ~ 30  
+
+
+<script>document.title="击鼓(技能) - 卡牌生存百科 Card Survival Wiki";</script>

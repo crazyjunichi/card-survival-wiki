@@ -17,8 +17,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  -  |    |  → [编织篓(已放置)](BasketPlaced.md)  |    
+放置<br>  |  -  |    |  ** 自身：**<br>→ [编织篓(已放置)](BasketPlaced.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [绳子](Rope.md)  |  绑上绳子<br>  |  30分  |    |  ** 自身: **<br>→ [背篓](BackpackBasket.md)<br><br>** 使用物: **<br>消失  |    
+
+
+<script>document.title="编织篓 - 卡牌生存百科 Card Survival Wiki";</script>

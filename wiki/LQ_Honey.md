@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  耐久  -300<br>使用次数  -1<br>含水量  -300  |  [水分](Hydration.md)+5<br>[胃](Stomach.md)+24<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+50<br>[饱食](Satiation.md)+30<br>[情绪](Morale.md)+10  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300<br>使用次数  -1<br>含水量  -300  |  [水分](Hydration.md)+5<br>[胃](Stomach.md)+24<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+50<br>[饱食](Satiation.md)+30<br>[情绪](Morale.md)+10  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -30,3 +30,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Spoilage  |    |  耐久-1  |    
+
+
+<script>document.title="蜂蜜 - 卡牌生存百科 Card Survival Wiki";</script>

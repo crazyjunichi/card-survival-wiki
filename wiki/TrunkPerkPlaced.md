@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拿起<br>  |  -  |    |  → [超级生存箱 2000](TrunkPerk.md)  |    
+拿起<br>  |  -  |    |  ** 自身：**<br>→ [超级生存箱 2000](TrunkPerk.md)  |    
+
+
+<script>document.title="超级生存箱 2000 - 卡牌生存百科 Card Survival Wiki";</script>

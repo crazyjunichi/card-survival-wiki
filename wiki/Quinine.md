@@ -17,3 +17,6 @@
 [硫酸奎宁](QuinineSulfate.md)  |  食用  |  32  
 [金鸡纳树皮粉](QuininePowder.md)  |  食用  |  16  
 [汤力水](LQ_TonicWater.md)  |  饮用  |  2  
+
+
+<script>document.title="奎宁 - 卡牌生存百科 Card Survival Wiki";</script>

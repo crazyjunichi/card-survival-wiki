@@ -11,6 +11,11 @@
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationNuts.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃坚果了……  |    |  [情绪](Morale.md)加成-0.75  |    
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -18,3 +23,6 @@
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  35  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  35  
 [蛋白棒](ProteinBar.md)  |  食用  |  25  
+
+
+<script>document.title="坚果<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

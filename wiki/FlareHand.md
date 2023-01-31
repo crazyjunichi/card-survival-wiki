@@ -10,4 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-点燃信号弹<br>  |  -  |    |  → [燃烧的信号弹(开)](FlareHandOn.md)  |    
+点燃信号弹<br>  |  -  |    |  ** 自身：**<br>→ [燃烧的信号弹(开)](FlareHandOn.md)  |    
+
+
+<script>document.title="信号弹 - 卡牌生存百科 Card Survival Wiki";</script>

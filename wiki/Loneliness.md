@@ -26,6 +26,7 @@
 [韦斯顿](Weston.md)  |  被动  |  加成-1  
 [忠犬朋友](DogFriend.md)  |  被动  |  加成-2  
 [猕猴朋友](MacaqueFriend.md)  |  被动  |  加成-2  
+[独来独往](Pk_4_Loner.md)  |  特质影响  |  加成-2  
 [祖父](Grandfather.md)  |  被动  |  加成-5  
 [祖父(健康)](GrandfatherHealthy.md)  |  被动  |  加成-10  
 ## 可被以下操作改变  
@@ -61,3 +62,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [头骨](Skull.md)  |  聊聊吧  |  900 ~ 4880  
+
+
+<script>document.title="孤独感 - 卡牌生存百科 Card Survival Wiki";</script>

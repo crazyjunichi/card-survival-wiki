@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="丛林高地芒果种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -121,3 +121,6 @@
 [木工技能提升！(事件)](Event_SkillWoodworking2.md)  |  影响  |  0  
 [木工技能提升！(事件)](Event_SkillWoodworking3.md)  |  影响  |  0  
 [木工技能提升！(事件)](Event_SkillWoodworking4.md)  |  影响  |  0  
+
+
+<script>document.title="计数器 - 卡牌生存百科 Card Survival Wiki";</script>

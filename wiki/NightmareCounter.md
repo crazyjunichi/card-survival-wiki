@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [噩梦！(事件)](Event_Nightmare.md)  |  触发事件  |  0  
+
+
+<script>document.title="梦魇计数器 - 卡牌生存百科 Card Survival Wiki";</script>

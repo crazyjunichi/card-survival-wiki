@@ -9,3 +9,6 @@
 1751 ～ 2500  |  高密度  |    |  [丛林芒果种群数量](Mango_JunglePop.md)加成+0.5  |    
 2501 ～ 2999  |  超高密度  |    |  [丛林芒果种群数量](Mango_JunglePop.md)加成+1  |    
 3000 ～ 3000  |  极高密度  |    |  [丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+0.25  |    
+
+
+<script>document.title="丛林芒果种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

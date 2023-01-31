@@ -14,9 +14,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  30分  |    |  消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [木板](Plank.md)(+1)<br>  [小树枝](Sticks.md)(+1)<br>  |    
+拆解<br>  |  30分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [木板](Plank.md)(+1)<br>  [小树枝](Sticks.md)(+1)<br>  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Decoration Comfort  |  ** 需要放入：**<br>[“装饰品”](tag_Decoration.md)  |    |  [舒适度](Comfort.md)+10  
 Decoration Advanced Comfort  |  ** 需要放入：**<br>[“高级装饰品”](tag_DecorationAdv.md)  |    |  [舒适度](Comfort.md)+15  
+
+
+<script>document.title="架子 - 卡牌生存百科 Card Survival Wiki";</script>

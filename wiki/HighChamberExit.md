@@ -13,3 +13,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 离开<br>  |  -  |    |  ** 获得： **<br>  [隧道(环境)](Env_Tunnel.md)(+1)<br>  |  [在黑暗环境](InDarkPlace.md)-1  
+
+
+<script>document.title="离开 - 卡牌生存百科 Card Survival Wiki";</script>

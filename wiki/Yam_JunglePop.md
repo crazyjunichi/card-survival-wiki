@@ -21,3 +21,6 @@
 ----  |  ----  |  ----  
 [丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 6000  
 [丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="丛林参薯种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

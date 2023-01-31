@@ -91,3 +91,6 @@
 [椰子树](PalmTree_IH.md)  |  影响  |  0 ~ 100  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  0 ~ 25  
 [海鸥巢](SeagullNest.md)  |  影响  |  0 ~ 100  
+
+
+<script>document.title="攀爬(技能) - 卡牌生存百科 Card Survival Wiki";</script>

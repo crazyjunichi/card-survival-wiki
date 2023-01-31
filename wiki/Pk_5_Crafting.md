@@ -10,3 +10,6 @@
 初始状态  |  [制作(技能)](Skill_Crafting.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="工匠 - 卡牌生存百科 Card Survival Wiki";</script>

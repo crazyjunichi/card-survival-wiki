@@ -11,3 +11,6 @@
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  
 [前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)  |  前往  
 [前往沙滩(岩滩)](Path_RocksToBeach.md)  |  前往  
+
+
+<script>document.title="沙滩 - 卡牌生存百科 Card Survival Wiki";</script>

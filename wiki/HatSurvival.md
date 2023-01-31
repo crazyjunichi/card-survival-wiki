@@ -19,3 +19,6 @@
 ----  |  ----  |  ----  |  ----  
 Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12  |    |  [湿度](Wetness.md)+20  
 FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
+
+
+<script>document.title="求生帽 - 卡牌生存百科 Card Survival Wiki";</script>

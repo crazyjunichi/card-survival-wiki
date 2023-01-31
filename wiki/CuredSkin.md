@@ -40,3 +40,6 @@
 - [水袋(蓝图)](Bp_Waterskin.md)  
   
   
+
+
+<script>document.title="鞣制兽皮 - 卡牌生存百科 Card Survival Wiki";</script>

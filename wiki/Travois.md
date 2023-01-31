@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Dismantle<br>[手部动作](HandAction.md)  |  30分  |    |  消失<br>使用次数  -1<br><br>** 获得： **<br>  [长木棍](StickLong.md)(+3～+5)<br>  [细线](CordFiber.md)(+6～+9)<br>  |    
+Dismantle<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身：**<br>消失<br>使用次数  -1<br><br>** 获得： **<br>  [长木棍](StickLong.md)(+3～+5)<br>  [细线](CordFiber.md)(+6～+9)<br>  |    
+
+
+<script>document.title="小拉车 - 卡牌生存百科 Card Survival Wiki";</script>

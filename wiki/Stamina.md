@@ -23,7 +23,7 @@
 [座椅](SeatAttached.md)  |  休息1小时  |  40  
 [座椅](SeatPlaced.md)  |  休息1小时  |  40  
 [木床](BedWooden.md)  |  睡觉  |  30  
-[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  30  
+[韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  30  
 [椅子](ChairPlaced.md)  |  暂候15分钟  |  15  
 [座椅](SeatAttached.md)  |  暂候15分钟  |  15  
 [座椅](SeatPlaced.md)  |  暂候15分钟  |  15  
@@ -351,3 +351,6 @@
 [倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  11 ~ 32  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  11 ~ 32  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  8 ~ 32  
+
+
+<script>document.title="耐力 - 卡牌生存百科 Card Survival Wiki";</script>

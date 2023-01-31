@@ -13,9 +13,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [野猪种群数量](Pop_Boar.md)+1000  
-捡起<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  → [母猪](BoarTiedFemale.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>消失  |  [野猪种群数量](Pop_Boar.md)+1000  
+捡起<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [母猪](BoarTiedFemale.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
+抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,7 +29,7 @@
 ----  |  ----  |  ----  |  ----  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时：噢不！ **<br><br>→ [野猪尸体](BoarCarcass.md)  
 口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时：渴死了 **<br><br>→ [野猪尸体](BoarCarcass.md)  
-怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达上限时： **<br>** [Bad Pregancy] **<br>  [小猪尸体](BoarCarcassPiglet.md)(0～+3)<br>  [小猪](BoarEnclosurePiglet.md)(0～+3)<br>基础权重：5<br><br>** [Good Pregnancy] **<br>  [小猪](BoarEnclosurePiglet.md)(+3～+6)<br>基础权重：65<br><br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
+怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达上限时： **<br>** [Bad Pregancy] **<br>  [小猪尸体](BoarCarcassPiglet.md)(0～+3)<br>  [小猪](BoarEnclosurePiglet.md)(0～+3)<br>基础权重：5<br>** [Good Pregnancy] **<br>  [小猪](BoarEnclosurePiglet.md)(+3～+6)<br>基础权重：65<br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-4<br>最多需要：2天14小时30分  |    
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6000  |  每15分钟-2<br>最多需要：31天6小时  |    
 Lactating  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |    
@@ -53,3 +53,6 @@ Company  |    |    |  [孤独感](Loneliness.md)加成-1
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Boar Overeating  |  [猪食槽](BoarFeeder.md)  |  ** 需要属性：**<br>特殊1: 4500～6000  |  食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">-1  |    
+
+
+<script>document.title="母猪 - 卡牌生存百科 Card Survival Wiki";</script>

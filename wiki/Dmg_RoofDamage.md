@@ -17,3 +17,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [棕榈叶](PalmFronds.md) x 10  |  1小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
+
+
+<script>document.title="屋顶损坏 - 卡牌生存百科 Card Survival Wiki";</script>

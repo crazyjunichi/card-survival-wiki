@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [决心](Determination.md)加成+1<br>[勇气](Courage.md)+1000  
 效果  |    
+
+
+<script>document.title="勇敢 - 卡牌生存百科 Card Survival Wiki";</script>

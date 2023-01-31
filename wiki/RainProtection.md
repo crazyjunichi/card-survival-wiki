@@ -44,3 +44,6 @@
 [求生帽](HatSurvival.md)  |  被动  |  0.5  
 [棕榈编织帽](HatWoven.md)  |  被动  |  0.5  
 [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -5  
+
+
+<script>document.title="雨水防护 - 卡牌生存百科 Card Survival Wiki";</script>

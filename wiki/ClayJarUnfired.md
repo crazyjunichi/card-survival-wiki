@@ -16,3 +16,6 @@
 ----  |  ----  
 [小陶罐](ClayJar.md)  |  [窑炉](Kiln.md)  
 [小陶罐](ClayJar.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="未烧制的小陶罐 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 ----  |  ----  |  ----  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 6000  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="草原辣椒种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,8 +14,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  → [哺乳期山羊](GoatEnclosureLactating.md)  |    
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [山羊种群数量](Pop_Goat.md)+1000  
+圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>→ [哺乳期山羊](GoatEnclosureLactating.md)  |    
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>消失  |  [山羊种群数量](Pop_Goat.md)+1000  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -30,3 +30,6 @@
 奶量<img decoding="async" src="Sprite/Milk.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：96  |  -  |    
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-5<br>最多需要：2天2小时  |    
 泌乳  |  初始：1344<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达0时：停止泌乳 **<br><br>→ [母山羊](GoatEnclosureFemale.md)  
+
+
+<script>document.title="哺乳期山羊 - 卡牌生存百科 Card Survival Wiki";</script>

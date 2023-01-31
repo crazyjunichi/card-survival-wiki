@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  1小时  |    |  消失<br><br>** 获得： **<br>  [棕榈编织物](WeavePalm.md)(+3)<br>  [细线](CordFiber.md)(+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)  |  1小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [棕榈编织物](WeavePalm.md)(+3)<br>  [细线](CordFiber.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -31,3 +31,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Feed Partridges  |  ** 需要存在卡牌：**<br>[“灰山鹑”](tag_Partridge.md)  |  食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">-1  |    
+
+
+<script>document.title="灰山鹑喂食器 - 卡牌生存百科 Card Survival Wiki";</script>

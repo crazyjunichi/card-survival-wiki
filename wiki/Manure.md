@@ -32,3 +32,6 @@
 - [水稻田(蓝图)](Bp_RicePaddy.md)  
   
   
+
+
+<script>document.title="粪便 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,3 +14,6 @@
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  
 [前往湿地(丛林)](Path_JungleToWetlands.md)  |  前往  
+
+
+<script>document.title="湿地 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -15,3 +15,6 @@
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 WallDustProtection  |  [“室内”](tag_EnvIndoors.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">-0.25  |    
+
+
+<script>document.title="白墙 - 卡牌生存百科 Card Survival Wiki";</script>

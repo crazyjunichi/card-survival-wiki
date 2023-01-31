@@ -20,3 +20,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：16<br>最大：16  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="火把 - 卡牌生存百科 Card Survival Wiki";</script>

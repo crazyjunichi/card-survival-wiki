@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [前往酸湖(火山)](Path_VolcanoToAcidLake.md)  |  前往  
+
+
+<script>document.title="火山 - 卡牌生存百科 Card Survival Wiki";</script>

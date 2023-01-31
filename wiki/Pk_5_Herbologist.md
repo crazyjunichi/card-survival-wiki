@@ -10,3 +10,6 @@
 初始状态  |  [药草学(技能)](Skill_Herbology.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="药草学者 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,7 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-陪伴<br>  |  15分  |    |  ** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-30<br>[压力](Stress.md)-25<br>[娱乐](Entertainment.md)+5<br>基础权重：800<br>  |    
+陪伴<br>  |  15分  |    |  ** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-30<br>[压力](Stress.md)-25<br>[娱乐](Entertainment.md)+5<br>基础权重：800  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -32,3 +32,6 @@
 ----  |  ----  |  ----  |  ----  
 Cure Health  |  ** 需要属性：**<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 432～576<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 216～288  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">+4  |    
 Medicine  |  ** 需要属性：**<br>药: 1～96  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">+4  |    
+
+
+<script>document.title="祖父 - 卡牌生存百科 Card Survival Wiki";</script>

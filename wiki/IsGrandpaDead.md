@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [祖父](Grandfather.md)  |  悲报！  |  1  
+
+
+<script>document.title="祖父去世了么？ - 卡牌生存百科 Card Survival Wiki";</script>

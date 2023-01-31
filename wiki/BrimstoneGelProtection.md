@@ -8,3 +8,6 @@
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 100  |  <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;">硫磺膏已涂抹  |    |  [晒伤](Sunburn.md)加成-16<br>[背痛](BackPain.md)加成-1<br>[蚊虫叮咬](BugBites.md)加成-2<br>[烧伤](Burns.md)加成-1<br>[淤青](Bruising.md)加成-1<br>[手掌损伤](HandDamage.md)加成-0.5<br>[足部损伤](FootDamage.md)加成-0.5<br>[皮肤潮湿度](SkinHumidity.md)加成+0.25  |    
+
+
+<script>document.title="硫磺膏保护 - 卡牌生存百科 Card Survival Wiki";</script>

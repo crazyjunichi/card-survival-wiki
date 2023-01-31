@@ -10,7 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Entrance] **<br>  [猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Entrance] **<br>  [猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)(+1)<br>基础权重：1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -19,3 +19,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 猕猴灭绝  |  [猕猴种群数量](Pop_Macaque.md): 0-1999  |  → [猕猴窝(空)](MacaqueDenEntranceClear.md)  
+
+
+<script>document.title="猕猴窝 - 卡牌生存百科 Card Survival Wiki";</script>

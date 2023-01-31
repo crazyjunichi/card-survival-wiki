@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海湾(区域)](Bay.md)  |  随便逛逛  |  1  
+
+
+<script>document.title="探索海湾 - 卡牌生存百科 Card Survival Wiki";</script>

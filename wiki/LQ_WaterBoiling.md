@@ -25,3 +25,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  含水量-5  |    
+
+
+<script>document.title="开水 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  消失<br><br>** 获得： **<br>** [1] **<br>  [干土堆](DirtPile.md)(+14)<br>  |    
+拆除<br>[攀爬动作](ClimbAction.md)  |  2小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [1] **<br>  [干土堆](DirtPile.md)(+14)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -32,3 +32,6 @@
 ----  |  ----  |  ----  |  ----  
 温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：800  |  每15分钟-8<br>最多需要：1天1小时  |    
 燃料  |  初始：0<br>最大：96  |  -  |    
+
+
+<script>document.title="窑炉 - 卡牌生存百科 Card Survival Wiki";</script>

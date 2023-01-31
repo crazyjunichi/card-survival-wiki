@@ -122,3 +122,6 @@
 - [木针(蓝图)](Bp_WoodenNeedles.md)  
   
   
+
+
+<script>document.title="小树枝 - 卡牌生存百科 Card Survival Wiki";</script>

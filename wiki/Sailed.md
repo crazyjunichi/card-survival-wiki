@@ -40,3 +40,6 @@
 [风向非常有利](OpenSea_VeryFavourable.md)  |    |  0  
 [风向非常有利](OpenSea_VeryFavourableInfinite.md)  |    |  0  
 [风向非常不利](OpenSea_VeryUnFavourable.md)  |    |  0  
+
+
+<script>document.title="航行 - 卡牌生存百科 Card Survival Wiki";</script>

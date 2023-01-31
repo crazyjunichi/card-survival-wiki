@@ -54,3 +54,6 @@ Sepsis  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Bacteria.pn
 Laceration Extreme  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～1000  |    |  [疼痛](Pain.md)+500<br>[皮肤完整度](SkinIntegrity.md)-5<br>[体重](Weight.md)加成-1<br>[失血](BloodLoss.md)+6<br>[腿部动作受限](ModifierLeg.md)+2<br>[攀爬动作受限](ModifierClimb.md)+2<br>[受伤](Wounds.md)+750  
 Laceration Severe  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 1001～1500  |    |  [疼痛](Pain.md)+325<br>[皮肤完整度](SkinIntegrity.md)-4<br>[体重](Weight.md)加成-0.5<br>[失血](BloodLoss.md)+3<br>[腿部动作受限](ModifierLeg.md)+1<br>[攀爬动作受限](ModifierClimb.md)+1<br>[受伤](Wounds.md)+750  
 Laceration Moderate  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 1501～2000  |    |  [疼痛](Pain.md)+150<br>[皮肤完整度](SkinIntegrity.md)-3<br>[体重](Weight.md)加成-0.25<br>[失血](BloodLoss.md)+1<br>[腿部动作受限](ModifierLeg.md)+0.5<br>[攀爬动作受限](ModifierClimb.md)+0.5<br>[受伤](Wounds.md)+250  
+
+
+<script>document.title="左腿撕裂伤 - 卡牌生存百科 Card Survival Wiki";</script>

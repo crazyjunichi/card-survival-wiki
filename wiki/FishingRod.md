@@ -21,4 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：45  |  -  |  ** 到达0时： **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1<br>  
+使用次数  |  初始：45  |  -  |  ** 到达0时： **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1  
+
+
+<script>document.title="钓鱼竿 - 卡牌生存百科 Card Survival Wiki";</script>

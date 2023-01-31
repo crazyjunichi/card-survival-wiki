@@ -10,3 +10,6 @@
 初始状态  |  [视力](Myopia.md)+3  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="近视 - 卡牌生存百科 Card Survival Wiki";</script>

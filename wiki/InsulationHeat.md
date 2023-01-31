@@ -56,3 +56,6 @@
 [红树林(环境)](Env_Mangroves.md)  |  被动  |  2  
 [丛林边缘(环境)](Env_Outskirts.md)  |  被动  |  2  
 [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -3  
+
+
+<script>document.title="绝热 - 卡牌生存百科 Card Survival Wiki";</script>

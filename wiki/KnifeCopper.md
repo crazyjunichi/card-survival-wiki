@@ -89,3 +89,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：40  |  -  |  ** 到达0时： **<br><br>→ [钝刀](KnifeCopperBlunt.md)  
+
+
+<script>document.title="铜刀 - 卡牌生存百科 Card Survival Wiki";</script>

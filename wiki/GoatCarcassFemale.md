@@ -28,9 +28,12 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  剥皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [剥皮的山羊](GoatSkinned.md)<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [新鲜兽皮](SkinFresh.md)(+3)<br>基础权重：1<br>  |  [污垢](Filth.md)+15  
-[“切割工具”](tag_Cutter.md)  |  剥皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [剥皮的山羊](GoatSkinned.md)<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [新鲜兽皮](SkinFresh.md)(+3)<br>基础权重：1<br>  |  [污垢](Filth.md)+15  
+[黑曜石刀](KnifeObsidian.md)  |  剥皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [剥皮的山羊](GoatSkinned.md)<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [新鲜兽皮](SkinFresh.md)(+3)<br>基础权重：1  |  [污垢](Filth.md)+15  
+[“切割工具”](tag_Cutter.md)  |  剥皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [剥皮的山羊](GoatSkinned.md)<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [新鲜兽皮](SkinFresh.md)(+3)<br>基础权重：1  |  [污垢](Filth.md)+15  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  
+
+
+<script>document.title="山羊尸体 - 卡牌生存百科 Card Survival Wiki";</script>

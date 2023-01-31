@@ -13,3 +13,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [平静](OpenSea_CalmInfinite.md)  
+
+
+<script>document.title="晴朗 - 卡牌生存百科 Card Survival Wiki";</script>

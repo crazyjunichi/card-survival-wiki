@@ -11,3 +11,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [釉面陶罐](GlazedVase.md) x 1 + [金鸡纳树皮粉](QuininePowder.md) x 3  |  2小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-10  |  [硫酸奎宁](QuinineSulfate.md)(+9)  
+
+
+<script>document.title="硫酸奎宁 - 卡牌生存百科 Card Survival Wiki";</script>

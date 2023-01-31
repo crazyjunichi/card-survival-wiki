@@ -16,3 +16,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 15000  
+
+
+<script>document.title="丛林高地咖啡种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

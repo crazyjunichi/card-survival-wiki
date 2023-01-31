@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [海藻](Seaweed.md) x 6  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100<br>** 需要卡牌: **<br>~~[人鱼巢](MermaidNest.md)~~<br>~~[人鱼巢(蓝图)](Bp_MermaidNest.md)~~  |  [压力](Stress.md)-10  |  [人鱼巢](MermaidNest.md)(+1)  
+
+
+<script>document.title="人鱼巢 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -13,3 +13,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Comfort  |    |    |  [舒适度](Comfort.md)+75  
+
+
+<script>document.title="陶轮 - 卡牌生存百科 Card Survival Wiki";</script>

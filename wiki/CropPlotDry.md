@@ -50,3 +50,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 雨水  |  [降水值](RainValue.md): 1-5  |  → [未栽种的农田(空)](CropPlotEmpty.md)<br>燃料 + 1  
+
+
+<script>document.title="未浇灌的农田 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -114,3 +114,7 @@
 [鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  -25  
 [蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  -25  
 [海胆刺伤](W_UrchinWound.md)  |  条件被动  |  -25  
+[痛苦耐受](Pk_4_PainTolerance.md)  |  特质影响  |  -100  
+
+
+<script>document.title="疼痛 - 卡牌生存百科 Card Survival Wiki";</script>

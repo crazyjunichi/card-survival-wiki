@@ -11,3 +11,6 @@
 5 ～ 6  |  <img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;">强阳光辐射  |    |  [晒伤](Sunburn.md)加成+16<br>[晒黑](Tanning.md)加成+3<br>[紫外线过敏](SunAllergy.md)加成+200<br>[皮肤潮湿度](SkinHumidity.md)加成-2  |    
 ## 相关卡牌  
 [阳光强度](SunStrength.md)  |  [阳光防护](SunProtection.md)  
+
+
+<script>document.title="阳光辐射 - 卡牌生存百科 Card Survival Wiki";</script>

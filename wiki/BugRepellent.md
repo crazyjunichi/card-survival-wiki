@@ -14,8 +14,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-涂抹<br>[手部动作](HandAction.md)  |  -  |    |  消失  |  [驱虫](BugRepellentApplied.md)+96  
+涂抹<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>消失  |  [驱虫](BugRepellentApplied.md)+96  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：336  |  每15分钟-1<br>最多需要：3天12小时  |  ** 到达0时： **<br>  
+
+
+<script>document.title="驱虫膏 - 卡牌生存百科 Card Survival Wiki";</script>

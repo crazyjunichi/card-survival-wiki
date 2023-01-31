@@ -16,3 +16,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  1000 ~ 9000  
+
+
+<script>document.title="湿地蜘蛛兰种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

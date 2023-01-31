@@ -10,3 +10,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [陶轮](PotteryWheel.md)  |  被动  |  1  
+
+
+<script>document.title="陶艺加成 - 卡牌生存百科 Card Survival Wiki";</script>

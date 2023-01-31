@@ -14,3 +14,6 @@
 [木筏(环礁)](RaftEntranceAtoll.md)  |  上木筏  |  1  
 [离开木筏](RaftExit.md)  |  离开木筏  |  -1  
 [离开木筏](RaftExitAtoll.md)  |  离开木筏  |  -1  
+
+
+<script>document.title="在木筏上 - 卡牌生存百科 Card Survival Wiki";</script>

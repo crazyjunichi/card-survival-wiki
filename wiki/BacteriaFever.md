@@ -38,6 +38,7 @@
 [巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成+5  
 [海怪刺伤](W_SeahoundSting.md)  |  条件被动  |  加成+2  
 [蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  加成+2  
+[鱼人皮肤](Pk_3_PermeableSkin.md)  |  特质影响  |  加成-4  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -91,3 +92,6 @@
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  -50  
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  食用  |  -50  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  食用  |  -50  
+
+
+<script>document.title="细菌性发烧 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -395,3 +395,6 @@
 [海](Sea_Raft.md)  |  洗个澡  |  -150  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  -150  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  -300  
+
+
+<script>document.title="污垢 - 卡牌生存百科 Card Survival Wiki";</script>

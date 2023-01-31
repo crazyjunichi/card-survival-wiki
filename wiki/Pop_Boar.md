@@ -25,7 +25,12 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[原木陷阱](LogTrap.md)  |  转化需要  |  1000 ~ 12000  
+[陷坑](TrappingPit.md)  |  转化需要  |  1000 ~ 12000  
 [丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 12000  
 [丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 12000  
 [丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 12000  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  1000 ~ 12000  
+
+
+<script>document.title="野猪种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

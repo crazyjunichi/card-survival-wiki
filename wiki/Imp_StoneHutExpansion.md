@@ -15,3 +15,6 @@
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 Mud Hut Expansion  |  [石屋(环境)](Env_StoneHut.md)  |    |  容重量：+30000  |    
+
+
+<script>document.title="石屋扩建 - 卡牌生存百科 Card Survival Wiki";</script>

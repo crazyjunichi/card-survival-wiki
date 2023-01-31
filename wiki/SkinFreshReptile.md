@@ -21,3 +21,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮腐烂了 **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+
+
+<script>document.title="蜥蜴生皮 - 卡牌生存百科 Card Survival Wiki";</script>

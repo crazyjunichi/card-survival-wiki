@@ -14,4 +14,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：48  |  每15分钟-1<br>最多需要：12小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：1<br>  
+耐久  |  初始：48  |  每15分钟-1<br>最多需要：12小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：1  
+
+
+<script>document.title="小雨 - 卡牌生存百科 Card Survival Wiki";</script>

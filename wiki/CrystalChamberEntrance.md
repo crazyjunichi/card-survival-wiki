@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [晶石洞穴(环境)](Env_CrystalChamber.md)(+1)<br>  [洞穴底层(洞穴上层)](CrystalChamberExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [晶石洞穴(环境)](Env_CrystalChamber.md)(+1)<br>  [洞穴底层(洞穴上层)](CrystalChamberExit.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="晶石洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

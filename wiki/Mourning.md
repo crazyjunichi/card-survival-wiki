@@ -20,3 +20,6 @@
 [忠犬朋友](DogFriend.md)  |  杀害！  |  288  
 [猕猴朋友](MacaqueFriend.md)  |  杀害！  |  288  
 [韦斯顿](Weston.md)  |  杀害！  |  288  
+
+
+<script>document.title="哀悼 - 卡牌生存百科 Card Survival Wiki";</script>

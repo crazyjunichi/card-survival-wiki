@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-停止灌溉<br>  |  -  |    |  → [蓄水池](WaterReservoir.md)  |    
+停止灌溉<br>  |  -  |    |  ** 自身：**<br>→ [蓄水池](WaterReservoir.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -37,3 +37,6 @@ Irrigate Paddy  |  ** 需要存在卡牌：**<br>[“水稻田”](tag_Paddy.md)
 ----  |  ----  |  ----  |  ----  |  ----  
 Irrigate  |  [“农作物”](tag_Crop.md)  |  ** 需要放入：**<br>[“灌溉用水”](tag_WaterFresh.md)  |  水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Irrigate Paddy  |  [“水稻田”](tag_Paddy.md)  |  ** 需要放入：**<br>[“灌溉用水”](tag_WaterFresh.md)  |  [不安全的水](LQ_WaterUnsafe.md)+15  |    
+
+
+<script>document.title="蓄水池（灌溉中） - 卡牌生存百科 Card Survival Wiki";</script>

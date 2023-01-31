@@ -21,4 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：15<br>最大：15  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1<br>  
+使用次数  |  初始：15<br>最大：15  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1  
+
+
+<script>document.title="钓鱼线 - 卡牌生存百科 Card Survival Wiki";</script>

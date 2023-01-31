@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-滚吧！<br>  |  15分  |    |  消失  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+10<br>[精神失常](MindState.md)+50  
+滚吧！<br>  |  15分  |    |  ** 自身：**<br>消失  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+10<br>[精神失常](MindState.md)+50  
+
+
+<script>document.title="船长 - 卡牌生存百科 Card Survival Wiki";</script>

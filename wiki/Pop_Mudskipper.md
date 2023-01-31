@@ -12,3 +12,10 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 15000  
+
+
+<script>document.title="弹涂鱼种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

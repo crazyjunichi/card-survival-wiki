@@ -14,3 +14,6 @@
 ----  |  ----  |  ----  
 [蓄水池](WaterReservoir.md)  |  开始灌溉  |  1  
 [蓄水池(满)](WaterReservoirFull.md)  |  开始灌溉  |  1  
+
+
+<script>document.title="已灌溉 - 卡牌生存百科 Card Survival Wiki";</script>

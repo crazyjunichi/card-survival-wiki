@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [怀孕](Pregnancy.md)加成+1  
 效果  |    
+
+
+<script>document.title="怀孕 - 卡牌生存百科 Card Survival Wiki";</script>

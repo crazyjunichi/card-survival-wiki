@@ -40,10 +40,10 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  消失<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+2)<br>  |    
-制作绷带<br>[手部动作](HandAction.md)  |  15分  |    |  → [临时绷带](ImprovisedDressing.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
-制作包脚布<br>[手部动作](HandAction.md)  |  15分  |    |  → [包脚布](FootWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
-制作绑手带<br>[手部动作](HandAction.md)  |  30分  |    |  → [绑手带](HandWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
+撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Small Cloth] **<br>  [布片](ClothSmall.md)(+2)<br>  |    
+制作绷带<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [临时绷带](ImprovisedDressing.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
+制作包脚布<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [包脚布](FootWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
+制作绑手带<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身：**<br>→ [绑手带](HandWrappings.md)  |  [情绪](Morale.md)+2<br>[纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -56,3 +56,6 @@
 - [滤水器(蓝图)](Bp_WaterFilter.md)  
   
   
+
+
+<script>document.title="布 - 卡牌生存百科 Card Survival Wiki";</script>

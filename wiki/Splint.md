@@ -15,3 +15,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：672<br>最大：672  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br>  [细线](CordFiber.md)(+3)<br>  
+
+
+<script>document.title="夹板 - 卡牌生存百科 Card Survival Wiki";</script>

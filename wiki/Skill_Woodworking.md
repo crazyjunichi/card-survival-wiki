@@ -65,3 +65,6 @@
 [木工技能提升！(事件)](Event_SkillWoodworking2.md)  |  触发事件  |  30 ~ 150  
 [木工技能提升！(事件)](Event_SkillWoodworking1.md)  |  触发事件  |  10 ~ 150  
 [未完成的木雕](WoodCarving_Unfinished.md)  |  影响  |  1 ~ 150  
+
+
+<script>document.title="木工(技能) - 卡牌生存百科 Card Survival Wiki";</script>

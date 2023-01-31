@@ -25,3 +25,6 @@
 [椰子树(新)](PalmTreeNew.md)  |  摘完的  |  0  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  摘完的  |  0  
 [椰子树(旧)](PalmTreeOld.md)  |  摘完的  |  0  
+
+
+<script>document.title="阻止抽到棕榈树 - 卡牌生存百科 Card Survival Wiki";</script>

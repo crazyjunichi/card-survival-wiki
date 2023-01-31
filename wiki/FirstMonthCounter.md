@@ -12,3 +12,6 @@
 ----  |  ----  |  ----  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  0 ~ 672  
 [红树林(区域)](Mangroves.md)  |  影响  |  0 ~ 672  
+
+
+<script>document.title="首月次数 - 卡牌生存百科 Card Survival Wiki";</script>

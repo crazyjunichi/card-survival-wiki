@@ -26,3 +26,6 @@
 [钓鱼技能提升！(事件)](Event_SkillFishing3.md)  |  触发事件  |  70 ~ 150  
 [钓鱼技能提升！(事件)](Event_SkillFishing2.md)  |  触发事件  |  30 ~ 150  
 [钓鱼技能提升！(事件)](Event_SkillFishing1.md)  |  触发事件  |  10 ~ 150  
+
+
+<script>document.title="钓鱼(技能) - 卡牌生存百科 Card Survival Wiki";</script>

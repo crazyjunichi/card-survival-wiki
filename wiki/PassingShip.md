@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-挥舞双手并呼救！<br>  |  15分  |    |  进度 + 1  |    
+挥舞双手并呼救！<br>  |  15分  |    |  ** 自身：**<br>进度 + 1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -27,3 +27,6 @@
 ----  |  ----  |  ----  |  ----  
 剩余时间<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：6<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |  ** 到达0时： **<br>** [1] **<br>  [错过了船只(事件)](Event_ShipMissed.md)(+1)<br>  
 进度  |  初始：0<br>最大：100  |  -  |  ** 到达上限时： **<br>** [1] **<br>  [船舶救援(事件)](Event_ShipRescue.md)(+1)<br>  
+
+
+<script>document.title="过路的船只 - 卡牌生存百科 Card Survival Wiki";</script>

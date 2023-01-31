@@ -15,3 +15,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Chair Effect  |  ** 需要存在卡牌：**<br>[椅子](ChairPlaced.md)  |    |  [工作区](Workplace.md)+300  
+
+
+<script>document.title="木桌 - 卡牌生存百科 Card Survival Wiki";</script>

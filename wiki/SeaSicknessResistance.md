@@ -14,3 +14,10 @@
 101 ～ 128  |  重度抗性  |    |  [晕船](SeaSickness.md)加成-4  |    
 ## 相关卡牌  
 [晕船](SeaSickness.md)  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[水手](Pk_4_Sailor.md)  |  特质影响  |  128 ~ 0  
+
+
+<script>document.title="航海技术 - 卡牌生存百科 Card Survival Wiki";</script>

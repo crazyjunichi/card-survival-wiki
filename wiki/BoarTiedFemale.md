@@ -14,8 +14,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  → [母猪](BoarEnclosureFemale.md)  |    
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [野猪种群数量](Pop_Boar.md)+1000  
+圈养在畜栏中<br>  |  -  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>→ [母猪](BoarEnclosureFemale.md)  |    
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>消失  |  [野猪种群数量](Pop_Boar.md)+1000  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -32,3 +32,6 @@
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-5<br>最多需要：2天2小时  |    
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3000<br>最大：6000  |  每15分钟-2<br>最多需要：31天6小时  |    
 Lactating  |  初始：0<br>最大：1344  |  -  |    
+
+
+<script>document.title="母猪 - 卡牌生存百科 Card Survival Wiki";</script>

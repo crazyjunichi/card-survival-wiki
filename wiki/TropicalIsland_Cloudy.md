@@ -16,9 +16,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0<br><br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：300<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+300<br>- [季节](Seasons.md)为5761～8640时权重-450<br><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：200<br>- [雨水计数器](RainCounter.md)为0～700时权重0～+200<br>- [季节](Seasons.md)为2881～5760时权重+400<br>- [季节](Seasons.md)为5761～8640时权重-350<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br><br>** [Heavy Rain] **<br>  [大雨](TropicalIsland_HeavyRain.md)(+1)<br>基础权重：10<br>- [雨水计数器](RainCounter.md)为500～700时权重0～+300<br>- [季节](Seasons.md)为2881～5760时权重+400<br>- [季节](Seasons.md)为5761～8640时权重-250<br>- [阻止抽到雨天](RainKiller.md)为+1时权重-9999<br>  
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：200<li>[雨水计数器](RainCounter.md)为0～700时权重0</li><br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：300<li>[雨水计数器](RainCounter.md)为0～700时权重0～+200</li><li>[季节](Seasons.md)为2881～5760时权重+300</li><li>[季节](Seasons.md)为5761～8640时权重-450</li><br>** [Light Rain] **<br>  [小雨](TropicalIsland_LightRain.md)(+1)<br>基础权重：200<li>[雨水计数器](RainCounter.md)为0～700时权重0～+200</li><li>[季节](Seasons.md)为2881～5760时权重+400</li><li>[季节](Seasons.md)为5761～8640时权重-350</li><li>[阻止抽到雨天](RainKiller.md)为+1时权重-9999</li><br>** [Heavy Rain] **<br>  [大雨](TropicalIsland_HeavyRain.md)(+1)<br>基础权重：10<li>[雨水计数器](RainCounter.md)为500～700时权重0～+300</li><li>[季节](Seasons.md)为2881～5760时权重+400</li><li>[季节](Seasons.md)为5761～8640时权重-250</li><li>[阻止抽到雨天](RainKiller.md)为+1时权重-9999</li>  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourable.md)  
   |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourable.md)  
+
+
+<script>document.title="阴天 - 卡牌生存百科 Card Survival Wiki";</script>

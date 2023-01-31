@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [泥屋(环境)](Env_MudHut.md)(+1)<br>  [离开(泥屋)](MudHutExit.md)(+1)<br>  [泥屋(区域)](MudHut.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [泥屋(环境)](Env_MudHut.md)(+1)<br>  [离开(泥屋)](MudHutExit.md)(+1)<br>  [泥屋(区域)](MudHut.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="泥屋 - 卡牌生存百科 Card Survival Wiki";</script>

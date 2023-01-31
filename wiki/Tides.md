@@ -12,3 +12,6 @@
 ----  |  ----  |  ----  
 [潮汐池(岩滩)](TidePool.md)  |  潮汐  |  1  
 [被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  未蓄满的  |  0  
+
+
+<script>document.title="潮汐 - 卡牌生存百科 Card Survival Wiki";</script>

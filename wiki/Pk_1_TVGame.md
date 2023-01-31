@@ -10,3 +10,6 @@
 初始状态  |  [真人秀直播](TV_Lives.md)-1  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="真人秀游戏 - 卡牌生存百科 Card Survival Wiki";</script>

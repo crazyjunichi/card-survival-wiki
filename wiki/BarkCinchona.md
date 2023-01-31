@@ -26,3 +26,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  进度+1  |    
+
+
+<script>document.title="金鸡纳树皮 - 卡牌生存百科 Card Survival Wiki";</script>

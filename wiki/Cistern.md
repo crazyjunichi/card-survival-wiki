@@ -15,3 +15,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [水](LQ_Water.md)+50  |    
+
+
+<script>document.title="水窖 - 卡牌生存百科 Card Survival Wiki";</script>

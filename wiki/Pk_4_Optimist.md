@@ -10,3 +10,6 @@
 初始状态  |  [情绪](Morale.md)+50  
 被动状态  |  [情绪](Morale.md)加成+0.75  
 效果  |    
+
+
+<script>document.title="乐观主义 - 卡牌生存百科 Card Survival Wiki";</script>

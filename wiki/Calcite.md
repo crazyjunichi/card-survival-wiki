@@ -16,3 +16,6 @@
 - [铜项链(蓝图)](Bp_CopperNecklace.md)  
   
   
+
+
+<script>document.title="方解石晶体 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -19,3 +19,6 @@
 - [参薯咖喱(蓝图)](Bp_YamCurry.md)  
   
   
+
+
+<script>document.title="辣椒粉 - 卡牌生存百科 Card Survival Wiki";</script>

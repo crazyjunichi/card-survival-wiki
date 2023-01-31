@@ -121,3 +121,6 @@
 [隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  |  4  
 [包脚布](FootWrappings.md)  |  被动  |  -200  
 [袜子](Socks.md)  |  被动  |  -200  
+
+
+<script>document.title="足部损伤 - 卡牌生存百科 Card Survival Wiki";</script>

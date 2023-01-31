@@ -20,3 +20,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：40<br>最大：40  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="香茅蜡烛 - 卡牌生存百科 Card Survival Wiki";</script>

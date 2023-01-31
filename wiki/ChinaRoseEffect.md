@@ -14,3 +14,6 @@
 ----  |  ----  |  ----  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  24  
 [月季](ChinaRoseFlowers.md)  |  食用  |  2  
+
+
+<script>document.title="月季效果 - 卡牌生存百科 Card Survival Wiki";</script>

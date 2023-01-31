@@ -14,3 +14,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  触发事件  |  0  
+
+
+<script>document.title="焦虑计数 - 卡牌生存百科 Card Survival Wiki";</script>

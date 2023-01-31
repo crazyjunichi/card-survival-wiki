@@ -58,3 +58,6 @@
 [一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  影响  |  0 ~ 3  
 [一头海怪！(事件)](Event_SeahoundFight.md)  |  影响  |  0 ~ 3  
 [蝙蝠群(蝙蝠洞)](BatColony.md)  |  影响  |  0 ~ 3  
+
+
+<script>document.title="视力 - 卡牌生存百科 Card Survival Wiki";</script>

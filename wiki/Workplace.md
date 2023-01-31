@@ -17,3 +17,6 @@
 [木桌](Table.md)  |  条件被动  |  300  
 [椅子](ChairPlaced.md)  |  被动  |  100  
 [座椅](SeatPlaced.md)  |  被动  |  100  
+
+
+<script>document.title="工作区 - 卡牌生存百科 Card Survival Wiki";</script>

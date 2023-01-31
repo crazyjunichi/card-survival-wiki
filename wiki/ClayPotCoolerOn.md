@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清空后搬走<br>  |  15分  |    |  → [保鲜罐](ClayPotCoolerUndeployed.md)  |    
+清空后搬走<br>  |  15分  |    |  ** 自身：**<br>→ [保鲜罐](ClayPotCoolerUndeployed.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,3 +23,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br><br>→ [保鲜罐(关)](ClayPotCoolerOff.md)  
+
+
+<script>document.title="保鲜罐 - 卡牌生存百科 Card Survival Wiki";</script>

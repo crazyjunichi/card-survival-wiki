@@ -16,3 +16,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [外星结节](AlienNodule.md)  |  食用  |  50  
+
+
+<script>document.title="外星斑点 - 卡牌生存百科 Card Survival Wiki";</script>

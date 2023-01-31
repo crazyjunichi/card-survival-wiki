@@ -29,3 +29,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  96  
+
+
+<script>document.title="监视者的凝视 - 卡牌生存百科 Card Survival Wiki";</script>

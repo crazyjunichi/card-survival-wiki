@@ -17,3 +17,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [暴风雨](TropicalIsland_StormInfinite.md)  
+
+
+<script>document.title="后有风暴 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [大块的布](ClothLarge.md)  |  制作布制衬衫<br>  |  1小时30分  |    |    |    
+
+
+<script>document.title="躯干（内层） - 卡牌生存百科 Card Survival Wiki";</script>

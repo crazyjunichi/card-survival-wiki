@@ -13,6 +13,7 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[内陆恐惧症](Pk_4_LandSickness.md)  |  特质影响  |  加成+2  
 [潮湿洞穴(环境)](Env_DampChamber.md)  |  被动  |  加成-8  
 [覆溺洞穴(环境)](Env_FloodedChamber.md)  |  被动  |  加成-8  
 [洞穴(环境)](Env_CaveSea.md)  |  被动  |  加成-8  
@@ -34,3 +35,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [人鱼巢](MermaidNest.md)  |  条件被动  |  -0.5  
+
+
+<script>document.title="内陆恐惧症 - 卡牌生存百科 Card Survival Wiki";</script>

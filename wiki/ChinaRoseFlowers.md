@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  消失  |  [胃](Stomach.md)+0.5<br>[饱食](Satiation.md)+7<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1<br>[月季效果](ChinaRoseEffect.md)+2  
+食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失  |  [胃](Stomach.md)+0.5<br>[饱食](Satiation.md)+7<br>[水分](Hydration.md)+2<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[污垢](Filth.md)+1<br>[月季效果](ChinaRoseEffect.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -38,3 +38,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>  
+
+
+<script>document.title="月季 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,3 +16,6 @@
 - [金鸡纳树皮粉(蓝图)](Bp_Quinine.md)  
   
   
+
+
+<script>document.title="干燥的金鸡纳树皮 - 卡牌生存百科 Card Survival Wiki";</script>

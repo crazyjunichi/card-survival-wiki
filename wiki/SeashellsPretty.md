@@ -29,3 +29,6 @@
 ----  |  ----  
 [生石灰](Quicklime.md)  |  [窑炉](Kiln.md)  
 [生石灰](Quicklime.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="漂亮贝壳 - 卡牌生存百科 Card Survival Wiki";</script>

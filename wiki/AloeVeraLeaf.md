@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-涂抹<br>[手部动作](HandAction.md)  |  -  |    |  耐久  -300  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
+涂抹<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>耐久  -300  |  [芦荟膏防护](AloeVeraGelProtection.md)+8  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于蓝图  
@@ -25,3 +25,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br>  
+
+
+<script>document.title="芦荟叶 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -7,3 +7,10 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 191  |  随机速率  |    |  [无人机袭击计数器](DroneRaidCounter.md)加成+0.25～+0.75  |    
 191 ～ 192  |  最终速率  |    |  [无人机袭击计数器](DroneRaidCounter.md)加成+1  |    
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[杀手无人机](Pk_1_KillerDrones.md)  |  特质影响  |  1  
+
+
+<script>document.title="无人机袭击计数器 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [绳子](Rope.md) x 2 + [超大块布](ClothVeryLarge.md) x 1  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100<br>** 需要卡牌: **<br>~~[吊床](Hammock.md)~~<br>~~[木筏(环境)](Env_Raft.md)~~  |  [纺织(技能)](Skill_Tailoring.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+5  |  [吊床](Hammock.md)(+1)  
+
+
+<script>document.title="吊床 - 卡牌生存百科 Card Survival Wiki";</script>

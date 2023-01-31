@@ -18,3 +18,6 @@
 [海怪攻击了！(事件)](Event_SeahoundFightFailedRetreat.md)  |  继续  |  400 ~ 1600  
 [我拿下它了，但我受伤了。(事件)](Event_SeahoundFightMixedSuccess.md)  |  继续  |  400 ~ 800  
 [海怪肉](Seahoundmeat.md)  |  食用  |  0 ~ 75  
+
+
+<script>document.title="海怪寄生虫 - 卡牌生存百科 Card Survival Wiki";</script>

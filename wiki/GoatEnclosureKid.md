@@ -15,9 +15,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  消失  |  [山羊种群数量](Pop_Goat.md)+1000  
-捆起来<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  → [小羊](GoatTiedKid.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
+放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>消失  |  [山羊种群数量](Pop_Goat.md)+1000  
+捆起来<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [小羊](GoatTiedKid.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
+抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,7 +29,7 @@
 ----  |  ----  |  ----  |  ----  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br><br>→ [小羊尸体](GoatCarcassKid.md)  
 口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时：渴死了 **<br><br>→ [小羊尸体](GoatCarcassKid.md)  
-成熟度<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达上限时： **<br>** [Female] **<br>  [母山羊](GoatEnclosureFemale.md)(+1)<br>基础权重：4<br><br>** [Male] **<br>  [公山羊](GoatEnclosureMale.md)(+1)<br>基础权重：2<br>  
+成熟度<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达上限时： **<br>** [Female] **<br>  [母山羊](GoatEnclosureFemale.md)(+1)<br>基础权重：4<br>** [Male] **<br>  [公山羊](GoatEnclosureMale.md)(+1)<br>基础权重：2  
 压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-4<br>最多需要：2天14小时30分  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
@@ -41,3 +41,6 @@ Drink Milk  |  ** 需要属性：**<br>成熟度<img decoding="async" src="Sprit
 Overcrowding  |  ** 需要属性：**<br>成熟度<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1536<br>** 需要存在卡牌：**<br>[“大型动物”](tag_LargeAnimal.md)  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.66  |    
 Poop  |  ** 需要存在卡牌：**<br>[粪便](Manure.md)  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.01  |    
 Company  |    |    |  [孤独感](Loneliness.md)加成-1  
+
+
+<script>document.title="小羊 - 卡牌生存百科 Card Survival Wiki";</script>

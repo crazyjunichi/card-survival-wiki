@@ -21,7 +21,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  消失  |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)-1<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+40<br>[污垢](Filth.md)+3<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  
+食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+20<br>[胃](Stomach.md)+25<br>[水分](Hydration.md)-1<br>[西米<nobr>厌倦度</nobr>](SaturationSago.md)+40<br>[污垢](Filth.md)+3<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+1  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -47,3 +47,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+
+
+<script>document.title="西米饼 - 卡牌生存百科 Card Survival Wiki";</script>

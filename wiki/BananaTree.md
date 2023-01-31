@@ -17,8 +17,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采摘香蕉<br>  |  15分  |  [光亮](Light.md): 10-100  |  使用次数  -1<br><br>** 获得： **<br>** [Bananas] **<br>  [香蕉](Banana.md)(+5)<br>基础权重：1<br>  |    
+采摘香蕉<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Bananas] **<br>  [香蕉](Banana.md)(+5)<br>基础权重：1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>→ [摘光的香蕉树](BananaTreeCleared.md)  
+
+
+<script>document.title="香蕉树 - 卡牌生存百科 Card Survival Wiki";</script>

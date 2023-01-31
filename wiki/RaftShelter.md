@@ -14,9 +14,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-小憩<br>[休息动作](SleepAction.md)  |  4小时  |  **不能处于以下状态**：<br>[睡眠中断](SleepInterrupt.md): 1-1<br>[水分](Hydration.md): 0-30<br>[过热](Hyperthermia.md): 51-200<br>[血压](Blood.md): 0-30<br>[恶心](Nausea.md): 20-24<br>[体重](Weight.md): 0-74  |    |  [睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)+15<br>[睡眠风险](SleepRisk.md)+15<br>[压力](Stress.md)-1<br>[世界观](Structure.md)+1<br>[情绪](Morale.md)+1.25<br>[恶心](Nausea.md)-1.5<br>[清醒度](Wakefulness.md)+6<br>[背痛](BackPain.md)+5  
-睡觉<br>[休息动作](SleepAction.md)  |  8小时  |  **不能处于以下状态**：<br>[睡眠中断](SleepInterrupt.md): 1-1<br>[水分](Hydration.md): 0-30<br>[过热](Hyperthermia.md): 51-200<br>[血压](Blood.md): 0-30<br>[恶心](Nausea.md): 20-24<br>[体重](Weight.md): 0-74  |    |  [睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)+31<br>[睡眠风险](SleepRisk.md)+31<br>[压力](Stress.md)-1<br>[世界观](Structure.md)+2<br>[情绪](Morale.md)+1.25<br>[恶心](Nausea.md)-1.5<br>[清醒度](Wakefulness.md)+6<br>[背痛](BackPain.md)+5  
+小憩<br>[休息动作](SleepAction.md)  |  4小时  |  **不能处于以下状态**：<br>[睡眠中断](SleepInterrupt.md): 1-1<br>[水分](Hydration.md): 0-30<br>[过热](Hyperthermia.md): 51-200<br>[血压](Blood.md): 0-30<br>[恶心](Nausea.md): 20-24<br>[体重](Weight.md): 0-74  |    |  [睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)+15<br>[睡眠风险](SleepRisk.md)+15<br>[压力](Stress.md)-1 (每15分钟)<br>[世界观](Structure.md)+1 (每15分钟)<br>[情绪](Morale.md)+1.25 (每15分钟)<br>[恶心](Nausea.md)-1.5 (每15分钟)<br>[清醒度](Wakefulness.md)+6 (每15分钟)<br>[背痛](BackPain.md)+5 (每15分钟)  
+睡觉<br>[休息动作](SleepAction.md)  |  8小时  |  **不能处于以下状态**：<br>[睡眠中断](SleepInterrupt.md): 1-1<br>[水分](Hydration.md): 0-30<br>[过热](Hyperthermia.md): 51-200<br>[血压](Blood.md): 0-30<br>[恶心](Nausea.md): 20-24<br>[体重](Weight.md): 0-74  |    |  [睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)+31<br>[睡眠风险](SleepRisk.md)+31<br>[压力](Stress.md)-1 (每15分钟)<br>[世界观](Structure.md)+2 (每15分钟)<br>[情绪](Morale.md)+1.25 (每15分钟)<br>[恶心](Nausea.md)-1.5 (每15分钟)<br>[清醒度](Wakefulness.md)+6 (每15分钟)<br>[背痛](BackPain.md)+5 (每15分钟)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：480<br>最大：480  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="木筏庇护所 - 卡牌生存百科 Card Survival Wiki";</script>

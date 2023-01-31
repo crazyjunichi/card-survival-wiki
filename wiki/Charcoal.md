@@ -26,7 +26,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>  |  15分  |    |  消失  |  [情绪](Morale.md)-10<br>[腹泻](Diarrhoea.md)-50<br>[水分](Hydration.md)-15  
+食用<br>  |  15分  |    |  ** 自身：**<br>消失  |  [情绪](Morale.md)-10<br>[腹泻](Diarrhoea.md)-50<br>[水分](Hydration.md)-15  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -38,3 +38,6 @@
 - [防毒面具(蓝图)](Bp_GasMask.md)  
   
   
+
+
+<script>document.title="木炭 - 卡牌生存百科 Card Survival Wiki";</script>

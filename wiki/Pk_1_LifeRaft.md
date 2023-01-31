@@ -10,3 +10,6 @@
 初始状态  |  [污垢](Filth.md)-225  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="救生筏 - 卡牌生存百科 Card Survival Wiki";</script>

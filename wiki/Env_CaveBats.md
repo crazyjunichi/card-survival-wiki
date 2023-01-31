@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [蝙蝠洞(丛林高地)](CaveBatsEntrance.md)  |  进入  
+
+
+<script>document.title="蝙蝠洞 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -32,3 +32,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>→ [枯叶](LeavesDry.md)  
+
+
+<script>document.title="树叶 - 卡牌生存百科 Card Survival Wiki";</script>

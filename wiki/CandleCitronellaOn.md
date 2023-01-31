@@ -14,8 +14,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-熄灭<br>  |  -  |    |  → [香茅蜡烛(关)](CandleCitronellaOff.md)  |    
+熄灭<br>  |  -  |    |  ** 自身：**<br>→ [香茅蜡烛(关)](CandleCitronellaOff.md)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：40<br>最大：40  |  每15分钟-1<br>最多需要：10小时  |  ** 到达0时： **<br>  
+
+
+<script>document.title="香茅蜡烛 - 卡牌生存百科 Card Survival Wiki";</script>

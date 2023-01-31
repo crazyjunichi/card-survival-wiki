@@ -1,4 +1,4 @@
-# 蛇床子素计数  
+# 精神失常计数器  
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 9999  
 #### ** 基础变化率: ** -1 / 每15分钟  
@@ -20,3 +20,6 @@
 [猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  0  
 [虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  0  
 [监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  0  
+
+
+<script>document.title="精神失常计数器 - 卡牌生存百科 Card Survival Wiki";</script>

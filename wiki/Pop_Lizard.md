@@ -14,3 +14,11 @@
 [落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  -1000  
 [套索陷阱](SnareTrap.md)  |  捕捉猎物  |  -1000  
 [礼物！(事件)](Event_DogFriendGift.md)  |  看看礼物  |  -1000  
+## 被以下操作需求  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 60000  
+[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 60000  
+
+
+<script>document.title="蜥蜴种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

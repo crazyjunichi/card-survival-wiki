@@ -46,3 +46,6 @@
 [韦斯顿](Weston.md)  |  拍照！  |  1  
 [海湾(区域)](Bay.md)  |  拍照！  |  1  
 [沙滩(区域)](Beach.md)  |  拍照！  |  1  
+
+
+<script>document.title="娱乐 - 卡牌生存百科 Card Survival Wiki";</script>

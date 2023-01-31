@@ -14,9 +14,12 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>  |  -  |    |  消失  |  [奎宁](Quinine.md)+16<br>[情绪](Morale.md)-5  
+食用<br>  |  -  |    |  ** 自身：**<br>消失  |  [奎宁](Quinine.md)+16<br>[情绪](Morale.md)-5  
 ## 可用于蓝图  
 - [硫酸奎宁(蓝图)](Bp_QuinineSulfate.md)  
 - [汤力水(蓝图)](Bp_TonicWater.md)  
   
   
+
+
+<script>document.title="金鸡纳树皮粉 - 卡牌生存百科 Card Survival Wiki";</script>

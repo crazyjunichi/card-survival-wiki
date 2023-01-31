@@ -9,3 +9,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [布](Cloth.md)  |  制作包脚布<br>  |  30分  |    |  <br>** 使用物: **<br>→ [包脚布](FootWrappings.md)  |  [情绪](Morale.md)+2  
+
+
+<script>document.title="左脚（内层） - 卡牌生存百科 Card Survival Wiki";</script>

@@ -129,3 +129,7 @@
 [茉莉花](JasminePlant.md)  |  被动  |  -100  
 [香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  -250  
 [茉莉蜡烛(开)](CandleJasmineOn.md)  |  被动  |  -500  
+[野人](Pk_4_Feral.md)  |  特质影响  |  -2500  
+
+
+<script>document.title="不适 - 卡牌生存百科 Card Survival Wiki";</script>

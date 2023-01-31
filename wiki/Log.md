@@ -34,3 +34,6 @@
 - [木筏(蓝图)](Bp_Raft.md)  
   
   
+
+
+<script>document.title="原木 - 卡牌生存百科 Card Survival Wiki";</script>

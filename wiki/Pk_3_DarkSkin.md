@@ -10,3 +10,6 @@
 初始状态  |  [晒黑](Tanning.md)+1000  
 被动状态  |  [晒黑](Tanning.md)加成+1  
 效果  |    
+
+
+<script>document.title="皮肤黝黑 - 卡牌生存百科 Card Survival Wiki";</script>

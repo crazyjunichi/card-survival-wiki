@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摔碎<br>  |  -  |    |  → [粘土](Clay.md)  |    
+摔碎<br>  |  -  |    |  ** 自身：**<br>→ [粘土](Clay.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -30,3 +30,6 @@
 [陶碗](ClayBowl.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [陶碗](ClayBowl.md)  |  [窑炉](Kiln.md)  
 [陶碗](ClayBowl.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="未烧制的陶碗 - 卡牌生存百科 Card Survival Wiki";</script>

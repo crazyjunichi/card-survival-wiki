@@ -10,3 +10,6 @@
 初始状态  |  [杀手无人机种群数量](Pop_Drone.md)+2000  
 被动状态  |  [杀手无人机种群数量](Pop_Drone.md)加成+2<br>[无人机袭击计数器](DroneRaidCounter.md)+1  
 效果  |    
+
+
+<script>document.title="杀手无人机 - 卡牌生存百科 Card Survival Wiki";</script>

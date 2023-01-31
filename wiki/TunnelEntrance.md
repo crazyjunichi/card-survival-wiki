@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [隧道(环境)](Env_Tunnel.md)(+1)<br>  [离开(隧道)](TunnelExit.md)(+1)<br>基础权重：1<br>  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [隧道(环境)](Env_Tunnel.md)(+1)<br>  [离开(隧道)](TunnelExit.md)(+1)<br>基础权重：1  |    
+
+
+<script>document.title="隧道入口 - 卡牌生存百科 Card Survival Wiki";</script>

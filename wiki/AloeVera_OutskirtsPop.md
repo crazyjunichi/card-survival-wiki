@@ -18,3 +18,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林边缘(区域)](Outskirts.md)  |  影响  |  1000 ~ 4000  
+
+
+<script>document.title="丛林边缘芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

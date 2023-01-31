@@ -16,8 +16,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 获得： **<br>** [Beehive] **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  [一群蜜蜂！(事件)](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
-采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 获得： **<br>** [Beehive] **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 获得： **<br>** [Beehive] **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  [一群蜜蜂！(事件)](Event_BeesSwarming.md)(+1)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+4～+16  
+采集<br>  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">  -500<br><br>** 获得： **<br>** [Beehive] **<br>  [巢脾](BeeHoneycomb.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[蜜蜂蛰刺](BeeStings.md)+2～+8  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -39,3 +39,6 @@ Eat Honey  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Spr
 Starve  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
 Hive Competition  |  ** 需要存在卡牌：**<br>[蜂箱](BeeSkep.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">-0.5  |    
 Breed More  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
+
+
+<script>document.title="蜂箱 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -13,3 +13,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：17<br>最大：17  |  -  |  ** 到达0时：弹药耗尽 **<br><br>→ [空的手枪](GunEmpty.md)  
+
+
+<script>document.title="枪 - 卡牌生存百科 Card Survival Wiki";</script>

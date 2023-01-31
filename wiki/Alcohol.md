@@ -22,3 +22,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  触发事件  |  64 ~ 70  
+
+
+<script>document.title="酒精 - 卡牌生存百科 Card Survival Wiki";</script>

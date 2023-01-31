@@ -13,3 +13,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 进入<br>  |  15分  |    |  ** 获得： **<br>  [狭窄通道(环境)](Env_NarrowTunnel.md)(+1)<br>  |    
+
+
+<script>document.title="狭窄隧道 - 卡牌生存百科 Card Survival Wiki";</script>

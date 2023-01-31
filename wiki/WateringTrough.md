@@ -21,3 +21,6 @@
 Hydrate Goats  |  ** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)  |  含水量-2  |    
 Hydrate Boars  |  ** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)  |  含水量-2  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [水](LQ_Water.md)+50  |    
+
+
+<script>document.title="水槽 - 卡牌生存百科 Card Survival Wiki";</script>

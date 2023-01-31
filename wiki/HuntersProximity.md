@@ -93,3 +93,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  96  
+
+
+<script>document.title="猎手接近 - 卡牌生存百科 Card Survival Wiki";</script>

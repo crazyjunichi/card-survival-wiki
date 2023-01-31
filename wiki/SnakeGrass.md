@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-提取纤维<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>** [Fibers] **<br>  [纤维](Fibers.md)(+2)<br>  |    
+提取纤维<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Fibers] **<br>  [纤维](Fibers.md)(+2)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -38,3 +38,6 @@
 - [海鲜杂烩(蓝图)](Bp_SeafoodCup.md)  
   
   
+
+
+<script>document.title="蛇草 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-好！<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [1] **<br>  [祖父康复了！(事件)](Event_OutroFarmer2.md)(+1)<br>  |    
+好！<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [1] **<br>  [祖父康复了！(事件)](Event_OutroFarmer2.md)(+1)<br>  |    
+
+
+<script>document.title="祖父康复了！ - 卡牌生存百科 Card Survival Wiki";</script>

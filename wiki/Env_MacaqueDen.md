@@ -11,3 +11,6 @@
 [我成功了，但我受伤了。(事件)](Event_MacaqueDenFightMixedSuccess.md)  |  继续  
 [我做到啦！(事件)](Event_MacaqueDenFightSuccess.md)  |  继续  
 [猕猴窝(空)](MacaqueDenEntranceClear.md)  |  进入  
+
+
+<script>document.title="猕猴窝 - 卡牌生存百科 Card Survival Wiki";</script>

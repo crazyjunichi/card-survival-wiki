@@ -59,3 +59,6 @@
 [食用坚果类动作](NutAction.md)  |  [食用肉类动作](CarnivorousAction.md)  |  [食用蔬菜类动作](VegetarianAction.md)  |  [手部动作](HandAction.md)  
 [探索动作](SlipperyAction.md)  |  [腿部动作](LegAction.md)  |  [休息动作](SleepAction.md)  |  [制造动作](CraftAction.md)  
 [SaltDrinkingAction](SaltDrinkingAction.md)  |    |    |    
+
+
+<script>document.title="标签 - 卡牌生存百科 Card Survival Wiki";</script>

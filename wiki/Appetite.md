@@ -15,3 +15,11 @@
 226 ～ 250  |  <img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;">食欲极高  |    |  [饱食](Satiation.md)加成-2.5  |    
 ## 相关卡牌  
 [疼痛](Pain.md)  |  [情绪](Morale.md)  |  [发烧](Fever.md)  |  [体重](Weight.md)  |  [饱食](Satiation.md)  |  [耐力](Stamina.md)  |  [受伤](Wounds.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [外星斑点](AlienSpots.md)  |  [辣椒素](Capsaicin.md)  |  [姜效果](GingerEffect.md)  |  [怀孕](Pregnancy.md)  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  100  
+[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  -100  
+
+
+<script>document.title="食欲 - 卡牌生存百科 Card Survival Wiki";</script>

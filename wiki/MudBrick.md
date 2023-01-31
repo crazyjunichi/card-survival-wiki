@@ -27,3 +27,6 @@
 - [水槽(蓝图)](Bp_WateringTrough.md)  
   
   
+
+
+<script>document.title="泥砖 - 卡牌生存百科 Card Survival Wiki";</script>

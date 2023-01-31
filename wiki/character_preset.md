@@ -30,3 +30,6 @@
 图像  |  初始特性  |  初始卡  
 ----  |  ----  |  ----  
 ![](Sprite/WesternGirl.png)  |  [超级生存箱 2000](Pk_2_SurvivalTrunk.md)<br>[生存专家](Pk_2_Survivalist.md)<br>[乐观主义](Pk_4_Optimist.md)<br>[脚踏实地](Pk_4_DownToEarth.md)<br>[独来独往](Pk_4_Loner.md)<br>[攀岩者](Pk_5_Climber.md)<br>[游泳健将](Pk_5_Swimmer.md)<br>[钓鱼佬](Pk_5_Fisher.md)<br>[药草学者](Pk_5_Herbologist.md)<br>[陷阱能手](Pk_5_Trapper.md)<br>[天生免疫](Pk_4_Immunized.md)<br>[强免疫系统](Pk_4_ImmuneSystemStrong.md)<br>[抗虫体质](Pk_4_BugResistant.md)  |  [手机(关)](PhoneOff.md)  
+
+
+<script>document.title="可选角色 - 卡牌生存百科 Card Survival Wiki";</script>

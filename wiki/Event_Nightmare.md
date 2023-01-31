@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-试着冷静下来……<br>  |  15分  |    |  消失  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[精神失常](MindState.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  
+试着冷静下来……<br>  |  15分  |    |  ** 自身：**<br>消失  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[精神失常](MindState.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  
+
+
+<script>document.title="噩梦！ - 卡牌生存百科 Card Survival Wiki";</script>

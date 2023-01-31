@@ -10,4 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-上木筏<br>  |  -  |    |  使用次数 + 1<br><br>** 获得： **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>基础权重：1<br>  |  [在木筏上](OnRaft.md)+1  
+上木筏<br>  |  -  |    |  ** 自身：**<br>使用次数 + 1<br><br>** 获得： **<br>  [木筏(环境)](Env_Raft.md)(+1)<br>基础权重：1  |  [在木筏上](OnRaft.md)+1  
+
+
+<script>document.title="木筏 - 卡牌生存百科 Card Survival Wiki";</script>

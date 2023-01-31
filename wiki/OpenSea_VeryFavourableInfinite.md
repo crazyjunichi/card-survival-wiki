@@ -13,3 +13,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [大雨](TropicalIsland_HeavyRainInfinite.md)  
+
+
+<script>document.title="风向非常有利 - 卡牌生存百科 Card Survival Wiki";</script>

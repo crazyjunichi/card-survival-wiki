@@ -10,3 +10,6 @@
 ----  |  ----  
 [小型通道(洞穴中层)](DarkChamberCaveEntrance.md)  |  进入  
 [阴暗裂隙(坑洞)](DarkChamberEntrance.md)  |  进入  
+
+
+<script>document.title="阴暗洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

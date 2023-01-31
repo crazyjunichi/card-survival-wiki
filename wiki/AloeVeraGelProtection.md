@@ -38,3 +38,6 @@
 [海](Sea_Raft.md)  |  洗个澡  |  -50  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  -50  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  -50  
+
+
+<script>document.title="芦荟膏防护 - 卡牌生存百科 Card Survival Wiki";</script>

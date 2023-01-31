@@ -12,11 +12,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  -  |    |  → [外星植物](AlienGrowthCleared.md)<br><br>** 获得： **<br>** [1] **<br>  [外星结节](AlienNodule.md)(+2～+4)<br>  |    
+采集<br>  |  -  |    |  ** 自身：**<br>→ [外星植物](AlienGrowthCleared.md)<br><br>** 获得： **<br>** [1] **<br>  [外星结节](AlienNodule.md)(+2～+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1<br>  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -26,3 +26,6 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 Fungal Infestation  |  [“农作物”](tag_Crop.md)  |    |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Putrefactin  |  [“人类食物”](tag_HumanFood.md)<br>[“诱饵”](tag_Bait.md)<br>[“喂/添加”](tag_Feed.md)  |    |  耐久-2  |    
+
+
+<script>document.title="盛开的外星植物 - 卡牌生存百科 Card Survival Wiki";</script>

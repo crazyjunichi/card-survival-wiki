@@ -22,3 +22,6 @@
 ----  |  ----  |  ----  |  ----  
 杏仁生长度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>→ [热带杏仁树](TropicalAlmondTree.md)  
 砍伐进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Tree] **<br>  [小树枝](Sticks.md)(+2～+4)<br>  [树叶](LeavesFresh.md)(+6～+18)<br><br>→ [倒下的大树](LargeTreeFelled.md)  
+
+
+<script>document.title="摘光的热带杏仁树 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,3 +14,6 @@
 169 ～ 1000  |  <img decoding="async" src="Sprite/Intestines.png" href="a.md" style="max-width:20px;max-height:20px;">消化  |    |  [肠道](Intestines.md)加成-8<br>[体重](Weight.md)加成+8  |    
 ## 相关卡牌  
 [腹泻](Diarrhoea.md)  |  [胃](Stomach.md)  
+
+
+<script>document.title="肠道 - 卡牌生存百科 Card Survival Wiki";</script>

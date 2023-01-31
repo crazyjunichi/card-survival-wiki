@@ -38,3 +38,6 @@
 [木筏庇护所](RaftShelter.md)  |  小憩  |  51 ~ 200  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  51 ~ 200  
 [无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  27 ~ 100  
+
+
+<script>document.title="过热 - 卡牌生存百科 Card Survival Wiki";</script>

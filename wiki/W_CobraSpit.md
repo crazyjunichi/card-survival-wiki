@@ -32,3 +32,6 @@
 Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～100  |    |  [疼痛](Pain.md)+100<br>[视力](Myopia.md)+1<br>[眼部损伤](EyeDamage.md)加成+1  
 Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～200  |    |  [疼痛](Pain.md)+200<br>[视力](Myopia.md)+2<br>[光亮](Light.md)-25<br>[眼部损伤](EyeDamage.md)加成+1  
 Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～288  |    |  [疼痛](Pain.md)+300<br>[视力](Myopia.md)+3<br>[光亮](Light.md)-50<br>[眼部损伤](EyeDamage.md)加成+2  
+
+
+<script>document.title="眼镜蛇毒液 - 卡牌生存百科 Card Survival Wiki";</script>

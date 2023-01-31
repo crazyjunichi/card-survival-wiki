@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [疼痛](Pain.md)-100  
 效果  |    
+
+
+<script>document.title="痛苦耐受 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -26,9 +26,12 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [碎海螺壳](ConchBroken.md)<br><br>** 获得: **<br>** [Conch Meat] **<br>  [海螺肉](ConchMeat.md)(+1)<br>基础权重：1<br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎海螺<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [碎海螺壳](ConchBroken.md)<br><br>** 获得: **<br>** [Conch Meat] **<br>  [海螺肉](ConchMeat.md)(+1)<br>基础权重：1  |    
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  
 [生石灰](Quicklime.md)  |  [窑炉](Kiln.md)  
 [生石灰](Quicklime.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="海螺 - 卡牌生存百科 Card Survival Wiki";</script>

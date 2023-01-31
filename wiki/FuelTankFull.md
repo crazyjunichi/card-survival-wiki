@@ -15,3 +15,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [控制台(关)](ControlPanelOff.md)  |  启动引擎  |  1  
+
+
+<script>document.title="油箱满的 - 卡牌生存百科 Card Survival Wiki";</script>

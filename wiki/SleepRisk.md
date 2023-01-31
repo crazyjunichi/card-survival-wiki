@@ -15,3 +15,6 @@
 [窝棚](Shelter.md)  |  小憩  |  15  
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  15  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  15  
+
+
+<script>document.title="睡眠风险 - 卡牌生存百科 Card Survival Wiki";</script>

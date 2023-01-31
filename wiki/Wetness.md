@@ -97,3 +97,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海鸥巢](SeagullNest.md)  |  影响  |  1 ~ 100  
+
+
+<script>document.title="湿度 - 卡牌生存百科 Card Survival Wiki";</script>

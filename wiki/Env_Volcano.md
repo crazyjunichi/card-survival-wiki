@@ -11,3 +11,6 @@
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  
 [前往火山(荒芜沙滩)](Path_DesolateBeachToVolcano.md)  |  前往  
 [前往火山(东部高地)](Path_HighlandsEToVolcano.md)  |  前往  
+
+
+<script>document.title="火山 - 卡牌生存百科 Card Survival Wiki";</script>

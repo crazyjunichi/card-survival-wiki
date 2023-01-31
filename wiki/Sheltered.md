@@ -66,3 +66,6 @@
 [蓄水池(蓝图)](Bp_WaterReservoir.md)  |  蓝图制造  |  0  
 [水槽(蓝图)](Bp_WateringTrough.md)  |  蓝图制造  |  0  
 [水井(蓝图)](Bp_Well.md)  |  蓝图制造  |  0  
+
+
+<script>document.title="遮蔽 - 卡牌生存百科 Card Survival Wiki";</script>

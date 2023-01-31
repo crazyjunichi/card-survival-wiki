@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拿起<br>  |  -  |    |  → [编织篓](Basket.md)  |    
+拿起<br>  |  -  |    |  ** 自身：**<br>→ [编织篓](Basket.md)  |    
+
+
+<script>document.title="编织篓 - 卡牌生存百科 Card Survival Wiki";</script>

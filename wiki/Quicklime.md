@@ -39,3 +39,6 @@
 - [釉面陶罐(蓝图)](Bp_GlazedVase.md)  
   
   
+
+
+<script>document.title="生石灰 - 卡牌生存百科 Card Survival Wiki";</script>

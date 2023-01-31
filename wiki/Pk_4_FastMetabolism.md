@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [体重](Weight.md)加成-0.25<br>[体感温度](TemperaturePerceived.md)+1  
 效果  |    
+
+
+<script>document.title="快速代谢 - 卡牌生存百科 Card Survival Wiki";</script>

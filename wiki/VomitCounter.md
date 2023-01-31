@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [呕吐！(事件)](Event_Vomit.md)  |  触发事件  |  0  
+
+
+<script>document.title="呕吐次数 - 卡牌生存百科 Card Survival Wiki";</script>

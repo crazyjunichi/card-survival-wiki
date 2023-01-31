@@ -12,8 +12,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1<br>  |    
-熄灭火焰<br>  |  -  |    |  → [火堆(熄灭)](FireExtinguished.md)  |    
+取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [火堆(熄灭)](FireExtinguished.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -110,9 +110,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：32<br>最大：64  |  每15分钟-1<br>最多需要：16小时  |  ** 到达0时： **<br>** [1] **<br>  [灰烬](Ash.md)(+1)<br>基础权重：1<br><br>→ [火堆(熄灭)](FireExtinguished.md)  
+燃料  |  初始：32<br>最大：64  |  每15分钟-1<br>最多需要：16小时  |  ** 到达0时： **<br>** [1] **<br>  [灰烬](Ash.md)(+1)<br>基础权重：1<br>→ [火堆(熄灭)](FireExtinguished.md)  
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Hot  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 1-1  |    |  [体感温度](TemperaturePerceived.md)+10  
+
+
+<script>document.title="火堆 - 卡牌生存百科 Card Survival Wiki";</script>

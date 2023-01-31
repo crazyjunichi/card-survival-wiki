@@ -26,3 +26,6 @@
 - [矛头模具(蓝图)](Bp_MoldSpear.md)  
   
   
+
+
+<script>document.title="铜 - 卡牌生存百科 Card Survival Wiki";</script>

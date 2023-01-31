@@ -23,3 +23,6 @@
 [人鱼巢](MermaidNest.md)  |  睡觉  |  -1  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1  
+
+
+<script>document.title="蚊虫叮咬 - 卡牌生存百科 Card Survival Wiki";</script>

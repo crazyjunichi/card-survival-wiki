@@ -17,7 +17,11 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 12000  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 12000  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 12000  
 [东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 12000  
 [西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 12000  
+
+
+<script>document.title="眼镜蛇种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

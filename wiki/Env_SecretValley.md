@@ -11,3 +11,6 @@
 [离开(泥屋)](MudHutExitRuins.md)  |  离开  
 [前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)  |  前往  
 [前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
+
+
+<script>document.title="神秘谷 - 卡牌生存百科 Card Survival Wiki";</script>

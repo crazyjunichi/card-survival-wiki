@@ -17,3 +17,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 8000  
+
+
+<script>document.title="红树林水椰种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

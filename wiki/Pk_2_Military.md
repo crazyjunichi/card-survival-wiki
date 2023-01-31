@@ -10,3 +10,6 @@
 初始状态  |  [手枪(技能)](Skill_Handguns.md)+50  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="军人 - 卡牌生存百科 Card Survival Wiki";</script>

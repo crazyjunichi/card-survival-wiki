@@ -77,3 +77,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：30  |  -  |  ** 到达0时： **<br><br>→ [金属废料](MetalScrap.md)  
+
+
+<script>document.title="废金属刀 - 卡牌生存百科 Card Survival Wiki";</script>

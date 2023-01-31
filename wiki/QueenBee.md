@@ -20,3 +20,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+
+
+<script>document.title="蜂后 - 卡牌生存百科 Card Survival Wiki";</script>

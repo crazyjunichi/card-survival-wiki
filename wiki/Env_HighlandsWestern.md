@@ -13,3 +13,6 @@
 [前往西部高地](Path_HighlandsEToHighlandsW.md)  |  前往  
 [前往西部高地(丛林高地)](Path_JungleHighlandsToHighlandsW.md)  |  前往  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
+
+
+<script>document.title="西部高地 - 卡牌生存百科 Card Survival Wiki";</script>

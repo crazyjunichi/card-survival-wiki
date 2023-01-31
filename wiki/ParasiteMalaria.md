@@ -17,3 +17,13 @@
 23143 ～ 32263  |  <img decoding="async" src="Sprite/CampFever.png" href="a.md" style="max-width:20px;max-height:20px;">疟疾  |  我感觉很糟糕。  |  [疟疾寄生虫](ParasiteMalaria.md)加成+19<br>[疟疾寄生虫抗性](MalariaResistance.md)加成+1<br>[发烧](Fever.md)加成+40<br>[耐力](Stamina.md)加成-1.5<br>[腹泻](Diarrhoea.md)加成+2<br>[头疼](Headache.md)+300<br>[疼痛](Pain.md)+100  |    
 ## 相关卡牌  
 [免疫系统](ImmuneSystem.md)  |  [疟疾寄生虫抗性](MalariaResistance.md)  |  [蚊虫叮咬](BugDamage.md)  |  [奎宁](Quinine.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[天生免疫](Pk_4_Immunized.md)  |  特质影响  |  加成-100  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+
+
+<script>document.title="疟疾寄生虫 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,10 +12,14 @@
 0 ～ 0  |  <img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">睡着了  |  zzz……  |    |    
 ## 相关卡牌  
 [体重](Weight.md)  |  [咖啡因](Caffeine.md)  |  [辣椒素](Capsaicin.md)  |  [月季效果](ChinaRoseEffect.md)  |  [光亮](Light.md)  |  [姜效果](GingerEffect.md)  |  [茉莉效果](JasmineEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[紫外线过敏](Pk_3_SunAllergy.md)  |  特质影响  |  加成+0.25  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  96  
+[韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  96  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  继续  |  40  
 [你昏过去了(事件)](Event_FaintExhaustion.md)  |  继续  |  20  
 [椅子](ChairPlaced.md)  |  休息1小时  |  16  
@@ -49,3 +53,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  触发事件  |  0  
+
+
+<script>document.title="清醒度 - 卡牌生存百科 Card Survival Wiki";</script>

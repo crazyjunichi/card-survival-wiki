@@ -9,3 +9,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 调查<br>  |  30分  |  [光亮](Light.md): 10-100  |    |  [情绪](Morale.md)+2  
+
+
+<script>document.title="高处 - 卡牌生存百科 Card Survival Wiki";</script>

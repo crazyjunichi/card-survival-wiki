@@ -31,3 +31,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
 雨水  |  [降水值](RainValue.md): 1-5  |  → [未种植的菌床(空)](MushroomBedEmpty.md)<br>燃料 + 1  
+
+
+<script>document.title="未浇灌的菌床 - 卡牌生存百科 Card Survival Wiki";</script>

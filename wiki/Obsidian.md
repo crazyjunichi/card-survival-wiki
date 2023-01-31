@@ -22,3 +22,6 @@
 - [黑曜石长矛(蓝图)](Bp_ObsidianSpear.md)  
   
   
+
+
+<script>document.title="黑曜石 - 卡牌生存百科 Card Survival Wiki";</script>

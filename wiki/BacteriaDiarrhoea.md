@@ -23,3 +23,6 @@
 [食丸](GastricPellet.md)  |  采集  |  10 ~ 50  
 [鸟肉](BirdMeat.md)  |  食用  |  0 ~ 100  
 [剥皮的蛇](SnakeSkinned.md)  |  食用  |  0 ~ 100  
+
+
+<script>document.title="细菌性腹泻 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -27,3 +27,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  0  
+
+
+<script>document.title="宿敌现身 - 卡牌生存百科 Card Survival Wiki";</script>

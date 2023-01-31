@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  消失  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45<br>[驱虫](BugRepellentApplied.md)+10  
+食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+45<br>[驱虫](BugRepellentApplied.md)+10  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -40,3 +40,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+
+
+<script>document.title="柠檬草 - 卡牌生存百科 Card Survival Wiki";</script>

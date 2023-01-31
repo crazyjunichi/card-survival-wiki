@@ -25,6 +25,7 @@
 [捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  加成0  
 [蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  加成0  
 [果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  加成0  
+[鱼人皮肤](Pk_3_PermeableSkin.md)  |  特质影响  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -258,3 +259,6 @@
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 30  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 30  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 30  
+
+
+<script>document.title="水分 - 卡牌生存百科 Card Survival Wiki";</script>

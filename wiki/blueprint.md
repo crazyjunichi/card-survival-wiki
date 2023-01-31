@@ -193,3 +193,6 @@
 [<img decoding="async" src="Sprite/SkepEmpty.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[空蜂箱(蓝图)](Bp_BeeSkepEmpty.md)](Bp_BeeSkepEmpty.md)  |  [<img decoding="async" src="Sprite/SkepSwarm.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[蜂箱(蓝图)](Bp_BeeSkep.md)](Bp_BeeSkep.md)  |  [<img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[防蜂服(蓝图)](Bp_BeeSuit.md)](Bp_BeeSuit.md)  |  [<img decoding="async" src="Sprite/BeeSmokerOn.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[熏蜂器(蓝图)](Bp_BeeSmoker.md)](Bp_BeeSmoker.md)  
   
   
+
+
+<script>document.title="蓝图 - 卡牌生存百科 Card Survival Wiki";</script>

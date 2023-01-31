@@ -12,3 +12,6 @@
 4481 ～ 6720  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">高孤立感  |    |  [孤独感](Loneliness.md)加成+2<br>[韦斯顿的陪伴](WestonCompany.md)加成-0.5<br>[船长陪伴](CaptainCompany.md)加成-0.5<br>[世界观](Structure.md)加成-2  |    
 6721 ～ 8639  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">非常孤立  |    |  [孤独感](Loneliness.md)加成+2<br>[韦斯顿的陪伴](WestonCompany.md)加成-1<br>[船长陪伴](CaptainCompany.md)加成-1<br>[世界观](Structure.md)加成-3<br>[精神失常](MindState.md)加成+0.5<br>[情绪](Morale.md)加成-0.75  |    
 8640 ～ 8640  |  <img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;">极度孤立  |    |  [孤独感](Loneliness.md)加成+4<br>[韦斯顿的陪伴](WestonCompany.md)加成-2<br>[船长陪伴](CaptainCompany.md)加成-2<br>[世界观](Structure.md)加成-4<br>[精神失常](MindState.md)加成+0.75<br>[情绪](Morale.md)加成-1.5  |    
+
+
+<script>document.title="孤立感 - 卡牌生存百科 Card Survival Wiki";</script>

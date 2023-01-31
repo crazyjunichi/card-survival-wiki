@@ -9,3 +9,6 @@
 191 ～ 192  |  最终速率  |    |  [巨蜥袭击计时器](MonitorRaidCounter.md)加成+1  |    
 ## 相关卡牌  
 [首月次数](FirstMonthCounter.md)  
+
+
+<script>document.title="巨蜥袭击计时器 - 卡牌生存百科 Card Survival Wiki";</script>

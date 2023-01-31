@@ -12,3 +12,6 @@
 49 ～ 96  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">非常恶心  |    |  [航海技术](SeaSicknessResistance.md)加成+0.5<br>[恶心](Nausea.md)加成+2  |    
 ## 相关卡牌  
 [航海技术](SeaSicknessResistance.md)  |  [海风程度](SeaAgitation.md)  
+
+
+<script>document.title="晕船 - 卡牌生存百科 Card Survival Wiki";</script>

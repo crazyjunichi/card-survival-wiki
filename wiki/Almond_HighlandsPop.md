@@ -11,3 +11,6 @@
 6000 ～ 6000  |  极高密度  |    |  [草原热带杏仁种群数量](Almond_GrasslandPop.md)加成+0.5  |    
 ## 相关卡牌  
 [草原热带杏仁种群数量](Almond_GrasslandPop.md)  |  [草原辣椒种群数量](Chilies_GrasslandPop.md)  
+
+
+<script>document.title="高地热带杏仁种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

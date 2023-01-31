@@ -17,3 +17,6 @@
 - [茉莉蜡烛(蓝图)](Bp_CandlesJasmine.md)  
   
   
+
+
+<script>document.title="蜂蜡块 - 卡牌生存百科 Card Survival Wiki";</script>

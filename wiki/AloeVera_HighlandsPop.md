@@ -20,3 +20,6 @@
 [东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 4000  
 [西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 4000  
 [西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="高地芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

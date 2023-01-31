@@ -15,3 +15,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 4000  
+
+
+<script>document.title="东部草原野生枣树种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

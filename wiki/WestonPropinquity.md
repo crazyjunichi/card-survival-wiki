@@ -17,3 +17,6 @@
 [韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  2000 ~ 3000  
 [韦斯顿](Weston.md)  |  聊天  |  1001 ~ 2000  
 [韦斯顿](Weston.md)  |  聊天  |  0 ~ 1000  
+
+
+<script>document.title="韦斯顿亲密关系 - 卡牌生存百科 Card Survival Wiki";</script>

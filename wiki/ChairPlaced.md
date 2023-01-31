@@ -17,4 +17,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 暂候15分钟<br>  |  15分  |    |    |  [耐力](Stamina.md)+15<br>[压力](Stress.md)-12  
 休息1小时<br>  |  1小时  |    |    |  [耐力](Stamina.md)+40<br>[压力](Stress.md)-48<br>[清醒度](Wakefulness.md)+16  
-搬起<br>  |  -  |    |  → [椅子](Chair.md)  |    
+搬起<br>  |  -  |    |  ** 自身：**<br>→ [椅子](Chair.md)  |    
+
+
+<script>document.title="椅子 - 卡牌生存百科 Card Survival Wiki";</script>

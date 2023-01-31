@@ -117,3 +117,6 @@
 ----  |  ----  
 [煅烧后的石头](StoneBurnt.md)  |  [窑炉](Kiln.md)  
 [煅烧后的石头](StoneBurnt.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="石头 - 卡牌生存百科 Card Survival Wiki";</script>

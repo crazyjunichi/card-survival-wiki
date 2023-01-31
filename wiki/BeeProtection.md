@@ -18,3 +18,6 @@
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  我的衣服保护了我！  |  7 ~ 10  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  我的衣服一定程度上保护了我！  |  3 ~ 6.9  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  啊——！  |  0 ~ 2.9  
+
+
+<script>document.title="蜂蛰防护 - 卡牌生存百科 Card Survival Wiki";</script>

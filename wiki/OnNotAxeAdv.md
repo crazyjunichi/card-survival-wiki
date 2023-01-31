@@ -15,3 +15,6 @@
 [椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  0  
 [椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  0  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  0  
+
+
+<script>document.title="IGNOREKEY - 卡牌生存百科 Card Survival Wiki";</script>

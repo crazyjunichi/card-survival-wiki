@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-我得走了！<br>  |  -  |    |  消失  |  [船长陪伴](CaptainCompany.md)+30  
+我得走了！<br>  |  -  |    |  ** 自身：**<br>消失  |  [船长陪伴](CaptainCompany.md)+30  
+
+
+<script>document.title="船长 - 卡牌生存百科 Card Survival Wiki";</script>

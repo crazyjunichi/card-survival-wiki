@@ -15,3 +15,6 @@
 [咖啡](LQ_Coffee.md)  |  饮用  |  12  
 [咖啡果](CoffeeBerries.md)  |  食用  |  2  
 [咖啡果浆](CoffeeBerryPulp.md)  |  食用  |  2  
+
+
+<script>document.title="咖啡因 - 卡牌生存百科 Card Survival Wiki";</script>

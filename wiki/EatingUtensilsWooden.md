@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  |  蓝图制造  
+
+
+<script>document.title="木质餐具 - 卡牌生存百科 Card Survival Wiki";</script>

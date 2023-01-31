@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="草原热带杏仁种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

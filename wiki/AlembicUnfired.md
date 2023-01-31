@@ -16,3 +16,6 @@
 ----  |  ----  
 [蒸馏器](AlembicUndeployed.md)  |  [窑炉](Kiln.md)  
 [蒸馏器](AlembicUndeployed.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="未烧制的蒸馏器 - 卡牌生存百科 Card Survival Wiki";</script>

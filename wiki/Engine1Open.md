@@ -18,3 +18,6 @@
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：0<br>最大：96  |  -  |    
 进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>→ [引擎（修理）](Engine1Repaired.md)  
+
+
+<script>document.title="引擎（启动） - 卡牌生存百科 Card Survival Wiki";</script>

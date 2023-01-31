@@ -27,3 +27,6 @@
 - [防蜂服(蓝图)](Bp_BeeSuit.md)  
   
   
+
+
+<script>document.title="棕榈编织物 - 卡牌生存百科 Card Survival Wiki";</script>

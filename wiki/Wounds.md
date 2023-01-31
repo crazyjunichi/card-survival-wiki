@@ -72,3 +72,6 @@
 [海胆刺伤](W_UrchinWound.md)  |  条件被动  |  25  
 [已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  条件被动  |  10  
 [蜘蛛咬伤](W_SpiderBite.md)  |  条件被动  |  10  
+
+
+<script>document.title="受伤 - 卡牌生存百科 Card Survival Wiki";</script>

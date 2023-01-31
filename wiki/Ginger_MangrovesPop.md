@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 15000  
+
+
+<script>document.title="红树林姜种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -62,6 +62,7 @@
 [卫衣](HoodieRetromation.md)  |  被动  |  6  
 [瓦斯炉(开)](GasCookerOn.md)  |  条件被动  |  5  
 [临时防毒面具](MaskMakeshift.md)  |  被动  |  5  
+[超级代谢](Pk_4_HyperMetabolism.md)  |  特质影响  |  5  
 [防毒面具](GasMaskRustic.md)  |  被动  |  3  
 [皮裤](LeatherPants.md)  |  被动  |  3  
 [军靴](MilitaryBoots.md)  |  被动  |  3  
@@ -73,6 +74,7 @@
 [绑手带](HandWrappings.md)  |  被动  |  1  
 [皮革手套](LeatherGloves.md)  |  被动  |  1  
 [袜子](Socks.md)  |  被动  |  1  
+[快速代谢](Pk_4_FastMetabolism.md)  |  特质影响  |  1  
 [头巾](HeadWrappings.md)  |  被动  |  0.5  
 [草裙](LeafSKirt.md)  |  被动  |  0.5  
 [军裤](MilitaryPants.md)  |  被动  |  0.5  
@@ -84,6 +86,7 @@
 [泥屋(环境)](Env_MudHut.md)  |  被动  |  -1  
 [泥屋(损坏)(环境)](Env_MudHutRuins.md)  |  被动  |  -1  
 [石屋(环境)](Env_StoneHut.md)  |  被动  |  -1  
+[缓慢代谢](Pk_4_SlowMetabolism.md)  |  特质影响  |  -1  
 [隧道(环境)](Env_Tunnel.md)  |  被动  |  -4  
 [蝙蝠洞(环境)](Env_CaveBats.md)  |  被动  |  -4  
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  -4  
@@ -107,3 +110,6 @@
 [洞穴底层(环境)](Env_LowChamber.md)  |  被动  |  -8  
 [狭窄通道(环境)](Env_NarrowTunnel.md)  |  被动  |  -8  
 [覆溺洞穴(环境)](Env_FloodedChamber.md)  |  被动  |  -10  
+
+
+<script>document.title="体感温度 - 卡牌生存百科 Card Survival Wiki";</script>

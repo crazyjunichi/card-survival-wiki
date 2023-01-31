@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1 + [山羊饲料(组)](GpTag_FeedGoat.md) x 1  |  15分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [压力](Stress.md)-10  |  [山羊饲料](FeedGoat.md)(+1)  
+
+
+<script>document.title="山羊饲料 - 卡牌生存百科 Card Survival Wiki";</script>

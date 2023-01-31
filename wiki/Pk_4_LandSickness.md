@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [内陆恐惧症](LandSickness.md)加成+2  
 效果  |    
+
+
+<script>document.title="内陆恐惧症 - 卡牌生存百科 Card Survival Wiki";</script>

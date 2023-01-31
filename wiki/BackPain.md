@@ -11,10 +11,14 @@
 151 ～ 225  |  <img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;">严重的背痛  |  痛……  |  [疼痛](Pain.md)+100  |    
 ## 相关卡牌  
 [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[席地而睡](Pk_4_RoughSleeper.md)  |  特质影响  |  加成-50  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  56 ~ 90  
+[韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  56 ~ 90  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  继续  |  50  
 [你昏过去了(事件)](Event_FaintExhaustion.md)  |  继续  |  25  
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  6  
@@ -38,3 +42,6 @@
 [吊床](Hammock.md)  |  睡觉  |  3  
 [木床](BedWooden.md)  |  小憩  |  2.5  
 [木床](BedWooden.md)  |  睡觉  |  2.5  
+
+
+<script>document.title="背痛 - 卡牌生存百科 Card Survival Wiki";</script>

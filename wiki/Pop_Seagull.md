@@ -22,6 +22,12 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[诱捕笼](CageTrapPlaced.md)  |  转化需要  |  1000 ~ 4500  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 45000  
+[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 4500  
 [鸟岩岛(区域)](BirdRock.md)  |  影响  |  1000 ~ 45000  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 45000  
 [岩滩(区域)](Rocks.md)  |  影响  |  1000 ~ 45000  
+
+
+<script>document.title="海鸥种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 ----  |  ----  
 [幽暗洞穴(潮湿洞穴)](DarkCaveCaveEntrance.md)  |  进入  
 [幽暗洞穴](DarkCaveEntrance.md)  |  进入  
+
+
+<script>document.title="幽暗洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

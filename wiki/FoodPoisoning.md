@@ -18,3 +18,6 @@
 [浸泡的参薯](LQ_SoakedYam.md)  |  食用  |  24  
 [有毒的水](LQ_WaterToxic.md)  |  饮用  |  24  
 [煮熟的参薯](YamBoiled.md)  |  食用  |  2  
+
+
+<script>document.title="食物中毒 - 卡牌生存百科 Card Survival Wiki";</script>

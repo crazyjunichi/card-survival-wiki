@@ -15,3 +15,6 @@
 128 ～ 128  |  <img decoding="async" src="Sprite/Poison.png" href="a.md" style="max-width:20px;max-height:20px;">你不能呼吸了！  |  你死于窒息。  |    |    
 ## 相关卡牌  
 [蛇毒抗性](VenomKraitResistance.md)  |  [中蛇毒](VenomKraitInjector.md)  
+
+
+<script>document.title="蛇毒 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -11,3 +11,6 @@
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  
 [水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  
+
+
+<script>document.title="沙滩 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -201,3 +201,6 @@
 [米汤](LQ_WaterRice.md)  |  饮用  |  1  
 [月季](ChinaRoseFlowers.md)  |  食用  |  0.5  
 [呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -100  
+
+
+<script>document.title="胃 - 卡牌生存百科 Card Survival Wiki";</script>

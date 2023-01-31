@@ -19,3 +19,6 @@
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  回归大海  |  2  
 [海(红树林)](Sea_Mangroves.md)  |  回归大海  |  2  
 [海(鸟岩岛)](Sea_Rocks.md)  |  回归大海  |  2  
+
+
+<script>document.title="美人鱼最终行动 - 卡牌生存百科 Card Survival Wiki";</script>

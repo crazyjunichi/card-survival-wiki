@@ -18,3 +18,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 10000  
+
+
+<script>document.title="蜜蜂种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

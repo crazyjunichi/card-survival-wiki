@@ -9,3 +9,6 @@
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
 1. [蔬菜猪饲料(组)](GpTag_FeedBoarVeggies.md) x 1 + [蔬菜猪饲料(组)](GpTag_FeedBoarVeggies.md) x 1 + [蔬菜猪饲料(组)](GpTag_FeedBoarVeggies.md) x 1 + [蔬菜猪饲料(组)](GpTag_FeedBoarVeggies.md) x 1 + [肉类猪饲料(组)](GpTag_FeedBoarProtein.md) x 1  |  15分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [压力](Stress.md)-10  |  [猪食](FeedBoar.md)(+1)  
+
+
+<script>document.title="猪食 - 卡牌生存百科 Card Survival Wiki";</script>

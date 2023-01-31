@@ -10,3 +10,6 @@
 初始状态  |  [决心](Determination.md)+500  
 被动状态  |  [航海技术](SeaSicknessResistance.md)+128～0  
 效果  |    
+
+
+<script>document.title="水手 - 卡牌生存百科 Card Survival Wiki";</script>

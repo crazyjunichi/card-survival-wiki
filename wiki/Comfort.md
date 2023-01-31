@@ -69,3 +69,6 @@
 [幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  -500  
 [潮汐洞(环境)](Env_CaveTidal.md)  |  被动  |  -500  
 [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  被动  |  -2000  
+
+
+<script>document.title="舒适度 - 卡牌生存百科 Card Survival Wiki";</script>

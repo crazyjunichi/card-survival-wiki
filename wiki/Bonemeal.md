@@ -18,3 +18,6 @@
 - [水稻田(蓝图)](Bp_RicePaddy.md)  
   
   
+
+
+<script>document.title="骨粉 - 卡牌生存百科 Card Survival Wiki";</script>

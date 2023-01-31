@@ -29,3 +29,6 @@
 [一只海鸥！(事件)](Event_SeagullRaid.md)  |  影响  |  1 ~ 150  
 [一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  影响  |  1 ~ 150  
 [蝙蝠群(蝙蝠洞)](BatColony.md)  |  影响  |  1 ~ 150  
+
+
+<script>document.title="投石(技能) - 卡牌生存百科 Card Survival Wiki";</script>

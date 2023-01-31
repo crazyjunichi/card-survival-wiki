@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [离开木筏](RaftExitAtoll.md)  |  离开木筏  
+
+
+<script>document.title="环礁 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -13,3 +13,6 @@
 1 ～ 2880  |  <img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;">神经损伤  |  在我取下止血带后就会慢慢恢复。  |    |    
 ## 相关卡牌  
 [腿部神经损伤](NerveDamageLegs.md)  
+
+
+<script>document.title="左腿神经损伤 - 卡牌生存百科 Card Survival Wiki";</script>

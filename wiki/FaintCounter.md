@@ -15,3 +15,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  触发事件  |  0  
+
+
+<script>document.title="晕倒次数 - 卡牌生存百科 Card Survival Wiki";</script>

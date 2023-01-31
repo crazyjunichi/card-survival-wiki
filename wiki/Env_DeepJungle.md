@@ -11,3 +11,6 @@
 [前往丛林深处(丛林高地)](Path_JungleHighlandsToDeepJungle.md)  |  前往  
 [前往丛林深处(神秘谷)](Path_ValleyToDeepJungle.md)  |  前往  
 [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  |  前往  
+
+
+<script>document.title="丛林深处 - 卡牌生存百科 Card Survival Wiki";</script>

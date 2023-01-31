@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-是啊……<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(IslandEscape2)(事件)](Event_WestonIslandEscape2.md)(+1)<br>  |    
+是啊……<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(IslandEscape2)(事件)](Event_WestonIslandEscape2.md)(+1)<br>  |    
+
+
+<script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

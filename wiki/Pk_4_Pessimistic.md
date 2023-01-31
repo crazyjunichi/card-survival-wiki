@@ -10,3 +10,6 @@
 初始状态  |  [情绪](Morale.md)-100  
 被动状态  |  [情绪](Morale.md)加成-2  
 效果  |    
+
+
+<script>document.title="悲观主义 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [韦斯顿(蓝图)](Bp_Weston.md)  |  蓝图制造  |  0  
+
+
+<script>document.title="韦斯顿还在 - 卡牌生存百科 Card Survival Wiki";</script>

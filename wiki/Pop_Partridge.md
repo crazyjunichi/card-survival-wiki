@@ -28,6 +28,9 @@
 [丛林(区域)](Jungle.md)  |  影响  |  2000 ~ 30000  
 [丛林高地(区域)](JungleHighlands.md)  |  影响  |  2000 ~ 30000  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  2000 ~ 30000  
+[诱捕笼](CageTrapPlaced.md)  |  转化需要  |  1000 ~ 40000  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 40000  
+[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 40000  
 [丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 30000  
 [东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 30000  
 [西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 30000  
@@ -37,3 +40,6 @@
 [神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 30000  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  1000 ~ 30000  
 [礼物！(事件)](Event_DogFriendGift.md)  |  影响  |  0  
+
+
+<script>document.title="灰山鹑种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

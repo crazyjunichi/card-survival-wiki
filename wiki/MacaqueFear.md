@@ -10,6 +10,10 @@
 1001 ～ 1500  |  小心谨慎  |    |    |    
 1501 ～ 2000  |  害怕的  |    |    |    
 2001 ～ 10000  |  恐惧的  |    |    |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[猕猴诅咒](Pk_1_MacaqueCurse.md)  |  特质影响  |  加成-10  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -37,3 +41,6 @@
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用枪攻击！  |  -500  
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用投石索攻击！  |  -500  
 [它逃跑了！(事件)](Event_MacaqueUndeadFightFailure.md)  |  继续  |  -500  
+
+
+<script>document.title="害怕猕猴 - 卡牌生存百科 Card Survival Wiki";</script>

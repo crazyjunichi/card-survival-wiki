@@ -10,3 +10,6 @@
 ----  |  ----  
 [潮湿洞穴(洞穴上层)](DampChamberEntrance.md)  |  进入  
 [潮湿洞穴(幽暗洞穴)](DarkCaveCaveExit.md)  |  进入  
+
+
+<script>document.title="潮湿洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

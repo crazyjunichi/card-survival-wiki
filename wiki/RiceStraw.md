@@ -35,3 +35,6 @@
 - [蓑衣(蓝图)](Bp_StrawCape.md)  
   
   
+
+
+<script>document.title="稻杆 - 卡牌生存百科 Card Survival Wiki";</script>

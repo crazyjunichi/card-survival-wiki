@@ -16,3 +16,6 @@
 ----  |  ----  |  ----  
 [监视者(事件)](Event_WatchedExperience1f.md)  |  轻笑  |  1  
 [神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  0  
+
+
+<script>document.title="神圣灵视 - 卡牌生存百科 Card Survival Wiki";</script>

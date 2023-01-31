@@ -43,7 +43,7 @@
 [木床](BedWooden.md)  |  小憩  |  -2  
 [木床](BedWooden.md)  |  睡觉  |  -2  
 [呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -12  
-[Event_WestonSpecial2e_CardName(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  -20  
+[韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  -20  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -69,3 +69,6 @@
 [呕吐！(事件)](Event_Vomit.md)  |  触发事件  |  20 ~ 24  
 [吊床](Hammock.md)  |  小憩  |  13 ~ 24  
 [吊床](Hammock.md)  |  睡觉  |  13 ~ 24  
+
+
+<script>document.title="恶心 - 卡牌生存百科 Card Survival Wiki";</script>

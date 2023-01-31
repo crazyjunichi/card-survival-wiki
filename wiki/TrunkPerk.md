@@ -14,4 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  -  |    |  → [超级生存箱 2000(已放置)](TrunkPerkPlaced.md)  |    
+放置<br>  |  -  |    |  ** 自身：**<br>→ [超级生存箱 2000(已放置)](TrunkPerkPlaced.md)  |    
+
+
+<script>document.title="超级生存箱 2000 - 卡牌生存百科 Card Survival Wiki";</script>

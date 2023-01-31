@@ -14,9 +14,12 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  采矿<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/CopperOre.png" href="a.md" style="max-width:20px;max-height:20px;">  -1<br><br>** 使用物: **<br>可用次数  -4<br><br>** 获得: **<br>  [铜矿石](CopperOre.md)(+1)<br>基础权重：1<br>  |  [耐力](Stamina.md)-20<br>[手掌损伤](HandDamage.md)+100  
+[“锤”](tag_Hammer.md)  |  采矿<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/CopperOre.png" href="a.md" style="max-width:20px;max-height:20px;">  -1<br><br>** 使用物: **<br>可用次数  -4<br><br>** 获得: **<br>  [铜矿石](CopperOre.md)(+1)<br>基础权重：1  |  [耐力](Stamina.md)-20<br>[手掌损伤](HandDamage.md)+100  
 [炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  -  |    |  ** 自身: **<br>消失<br>进度 + 100<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Debris] **<br>  [石头](Stone.md)(+3～+6)<br>  [铜矿石](CopperOre.md)(+3～+5)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/CopperOre.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="铜矿脉 - 卡牌生存百科 Card Survival Wiki";</script>

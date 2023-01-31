@@ -29,3 +29,6 @@
 - [雨衣(蓝图)](Bp_Raincoat.md)  
   
   
+
+
+<script>document.title="塑料布 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -20,3 +20,6 @@
 [临时防毒面具](MaskMakeshift.md)  |  被动  |  -2  
 [临时防毒面具](MaskMakeshift.md)  |  条件被动  |  -2  
 [防毒面具](GasMaskRustic.md)  |  条件被动  |  -4  
+
+
+<script>document.title="空气毒性 - 卡牌生存百科 Card Survival Wiki";</script>

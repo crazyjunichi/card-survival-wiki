@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  耐久  -250<br>含水量  -300  |  [饱食](Satiation.md)+12<br>[胃](Stomach.md)+24<br>[水分](Hydration.md)+30<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[情绪](Morale.md)+4  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -250<br>含水量  -300  |  [饱食](Satiation.md)+12<br>[胃](Stomach.md)+24<br>[水分](Hydration.md)+30<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[情绪](Morale.md)+4  
 ## 可用于蓝图  
 - [黄油(蓝图)](Bp_Butter.md)  
 - [奶酪(蓝图)](Bp_Cheese.md)  
@@ -28,3 +28,6 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Evaporation  |    |  含水量-0.25  |    
+
+
+<script>document.title="全脂羊奶 - 卡牌生存百科 Card Survival Wiki";</script>

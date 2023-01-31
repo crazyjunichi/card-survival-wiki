@@ -16,3 +16,6 @@
 [未烧制的蒸馏器](AlembicUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  蒸馏器  
 ## 可拖至  
 [营火](Campfire.md) | [营火(熄灭)](CampfireExtinguished.md)  
+
+
+<script>document.title="蒸馏器 - 卡牌生存百科 Card Survival Wiki";</script>

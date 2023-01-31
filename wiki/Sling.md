@@ -15,3 +15,6 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2  |    |  [投石索(技能)](Skill_Sling.md)+1<br>[情绪](Morale.md)+0.25  
+
+
+<script>document.title="投石索 - 卡牌生存百科 Card Survival Wiki";</script>

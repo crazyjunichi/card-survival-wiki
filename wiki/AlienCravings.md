@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [外星结节](AlienNodule.md)  |  食用  |  -48  
+
+
+<script>document.title="外星植物渴求 - 卡牌生存百科 Card Survival Wiki";</script>

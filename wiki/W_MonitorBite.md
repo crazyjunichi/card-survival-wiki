@@ -47,3 +47,6 @@ Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Dressi
 Sepsis  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">: 240～288  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |  [细菌性发烧](BacteriaFever.md)加成+10  
 Open Bite  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～599  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |  [疼痛](Pain.md)+300<br>[皮肤完整度](SkinIntegrity.md)-2<br>[体重](Weight.md)加成-0.5<br>[受伤](Wounds.md)+400<br>[腿部动作受限](ModifierLeg.md)+1<br>[细菌性发烧](BacteriaFever.md)加成+5  
 Healing Bite  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 600～960  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |  [疼痛](Pain.md)+100<br>[皮肤完整度](SkinIntegrity.md)-1<br>[体重](Weight.md)加成-0.1<br>[受伤](Wounds.md)+150  
+
+
+<script>document.title="巨蜥咬伤 - 卡牌生存百科 Card Survival Wiki";</script>

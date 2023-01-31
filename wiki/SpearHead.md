@@ -28,3 +28,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：150<br>最大：150  |  -  |  ** 到达0时： **<br><br>→ [钝矛头](SpearHeadBlunt.md)  
+
+
+<script>document.title="矛头 - 卡牌生存百科 Card Survival Wiki";</script>

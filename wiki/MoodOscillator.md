@@ -10,3 +10,6 @@
 576 ～ 576  |    |    |  [情绪钟摆](MoodOscillator.md)加成-1344  |    
 ## 相关卡牌  
 [首月次数](FirstMonthCounter.md)  
+
+
+<script>document.title="情绪钟摆 - 卡牌生存百科 Card Survival Wiki";</script>

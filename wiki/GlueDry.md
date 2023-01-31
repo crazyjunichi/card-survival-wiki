@@ -24,3 +24,6 @@
 [胶水](Glue.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
 [胶水](Glue.md)  |  [火炉](Stove.md)  
 [胶水](Glue.md)  |  [火炉](Stove.md)  
+
+
+<script>document.title="干胶水 - 卡牌生存百科 Card Survival Wiki";</script>

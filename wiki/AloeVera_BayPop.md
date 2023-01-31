@@ -16,3 +16,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [海湾(区域)](Bay.md)  |  影响  |  1000 ~ 4000  
+
+
+<script>document.title="海湾芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

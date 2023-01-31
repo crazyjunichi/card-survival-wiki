@@ -26,3 +26,6 @@
 [海(红树林)](Sea_Mangroves.md)  |  洗个澡  |  -50  
 [海](Sea_Raft.md)  |  洗个澡  |  -50  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  -50  
+
+
+<script>document.title="泥巴防护 - 卡牌生存百科 Card Survival Wiki";</script>

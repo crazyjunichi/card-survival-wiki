@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [抗生素](Antibiotics.md)  |  吃药  |  96  
+
+
+<script>document.title="抗生素 - 卡牌生存百科 Card Survival Wiki";</script>

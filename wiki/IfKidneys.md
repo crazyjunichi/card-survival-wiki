@@ -7,6 +7,10 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 0 ～ 0  |  无肾脏  |    |    |    
 1 ～ 1  |  有肾脏  |    |    |    
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[超级肾脏](Pk_3_SpecializedKidneys.md)  |  特质影响  |  1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -23,3 +27,6 @@
 [海](Sea_Raft.md)  |  饮用  |  1  
 [海(鸟岩岛)](Sea_Rocks.md)  |  饮用  |  1  
 [盐水](LQ_WaterSalt.md)  |  饮用  |  0  
+
+
+<script>document.title="肾脏 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -18,3 +18,6 @@
 [姜](Ginger.md)  |  食用  |  4  
 [干姜](GingerDried.md)  |  食用  |  4  
 [姜糖](CandiedGinger.md)  |  食用  |  2  
+
+
+<script>document.title="姜效果 - 卡牌生存百科 Card Survival Wiki";</script>

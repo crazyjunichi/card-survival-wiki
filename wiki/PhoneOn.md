@@ -13,11 +13,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-关机<br>  |  -  |    |  → [手机(关)](PhoneOff.md)  |    
-玩游戏<br>  |  30分  |    |  燃料  -2  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5<br>[娱乐](Entertainment.md)+30  
-看照片<br>  |  15分  |    |  燃料  -1  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
-打开手电筒<br>  |  -  |    |  → [手机](PhoneOnLight.md)<br>燃料  -1  |    
+关机<br>  |  -  |    |  ** 自身：**<br>→ [手机(关)](PhoneOff.md)  |    
+玩游戏<br>  |  30分  |    |  ** 自身：**<br>燃料  -2  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5<br>[娱乐](Entertainment.md)+30  
+看照片<br>  |  15分  |    |  ** 自身：**<br>燃料  -1  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
+打开手电筒<br>  |  -  |    |  ** 自身：**<br>→ [手机](PhoneOnLight.md)<br>燃料  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 燃料  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时：电量耗尽 **<br><br>→ [手机(关)](PhoneOff.md)  
+
+
+<script>document.title="手机 - 卡牌生存百科 Card Survival Wiki";</script>

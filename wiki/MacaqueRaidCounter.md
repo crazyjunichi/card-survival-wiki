@@ -7,3 +7,13 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 191  |  随机速率  |    |  [猕猴入侵计数器](MacaqueRaidCounter.md)加成+1～+3  |    
 191 ～ 192  |  最终速率  |    |  [猕猴入侵计数器](MacaqueRaidCounter.md)加成+1  |    
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[猕猴诅咒](Pk_1_MacaqueCurse.md)  |  特质影响  |  加成+2  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+
+
+<script>document.title="猕猴入侵计数器 - 卡牌生存百科 Card Survival Wiki";</script>

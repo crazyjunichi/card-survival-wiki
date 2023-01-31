@@ -11,3 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [海(海湾)](Sea_Bay.md)  |  潜水  
+
+
+<script>document.title="珊瑚 - 卡牌生存百科 Card Survival Wiki";</script>

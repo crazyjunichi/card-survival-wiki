@@ -16,8 +16,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-刮椰肉<br>[手部动作](HandAction.md)  |  15分  |    |  → [椰子壳](CoconutShell.md)<br><br>** 获得： **<br>** [Coconut Meat] **<br>  [椰肉](CoconutMeat.md)(+1)<br>基础权重：1<br>  |    
+刮椰肉<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [椰子壳](CoconutShell.md)<br><br>** 获得： **<br>** [Coconut Meat] **<br>  [椰肉](CoconutMeat.md)(+1)<br>基础权重：1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [rot] **<br>[腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [椰子壳](CoconutShell.md)  
+
+
+<script>document.title="半个椰子 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-谢谢你，小韦……<br>  |  30分  |    |  消失  |  [决心](Determination.md)+50  
+谢谢你，小韦……<br>  |  30分  |    |  ** 自身：**<br>消失  |  [决心](Determination.md)+50  
+
+
+<script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

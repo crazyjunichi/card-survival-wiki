@@ -11,3 +11,6 @@
 [鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  
 [鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  
 [鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  
+
+
+<script>document.title="鸟岩岛 - 卡牌生存百科 Card Survival Wiki";</script>

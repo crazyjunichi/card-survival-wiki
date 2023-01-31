@@ -59,3 +59,6 @@
 ----  |  ----  
 [煅烧后的大石块](StoneHeavyBurnt.md)  |  [窑炉](Kiln.md)  
 [煅烧后的大石块](StoneHeavyBurnt.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="大石块 - 卡牌生存百科 Card Survival Wiki";</script>

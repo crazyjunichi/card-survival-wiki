@@ -52,3 +52,6 @@
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  -6  
 [左腿撕裂伤](W_LegLacerationL.md)  |  条件被动  |  -6  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  -6  
+
+
+<script>document.title="失血 - 卡牌生存百科 Card Survival Wiki";</script>

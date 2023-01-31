@@ -26,3 +26,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：10<br>最大：10  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="简易箭矢 - 卡牌生存百科 Card Survival Wiki";</script>

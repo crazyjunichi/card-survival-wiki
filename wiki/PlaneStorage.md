@@ -5,3 +5,6 @@
  ----  |  ----:   
  **槽位：**7<br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~<br><br>**容量：**2000  |  <img decoding="async" src="Sprite/ContainerBag.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+
+
+<script>document.title="储物箱 - 卡牌生存百科 Card Survival Wiki";</script>

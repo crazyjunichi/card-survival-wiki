@@ -18,3 +18,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)  |  它烧起来了！！  |  750 ~ 1500  
+
+
+<script>document.title="烧伤 - 卡牌生存百科 Card Survival Wiki";</script>

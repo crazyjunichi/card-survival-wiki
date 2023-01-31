@@ -10,3 +10,6 @@
 ----  |  ----  
 [离开(阴暗洞穴)](DarkChamberExit.md)  |  离开  
 [坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  
+
+
+<script>document.title="坑洞 - 卡牌生存百科 Card Survival Wiki";</script>

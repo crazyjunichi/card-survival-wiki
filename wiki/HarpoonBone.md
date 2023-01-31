@@ -14,10 +14,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-训练<br>[手部动作](HandAction.md)  |  30分  |    |  使用次数  -1  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-4  
+训练<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身：**<br>使用次数  -1  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-4  
 ## 可拖至  
 [海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海](Sea_Raft.md) | [海(鸟岩岛)](Sea_Rocks.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：100  |  -  |  ** 到达0时：鱼镖坏了 **<br>** [Broken Stuff] **<br>  [小树枝](Sticks.md)(+1)<br>  [骨头碎片](BoneSplinters.md)(+1)<br>  [绳子](Rope.md)(+1)<br><br>→ [小树枝](Sticks.md)  
+
+
+<script>document.title="鱼镖 - 卡牌生存百科 Card Survival Wiki";</script>

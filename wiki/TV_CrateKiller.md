@@ -9,3 +9,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [补给胶囊](TV_SupplyCapsule.md)  |  自毁  |  1  
+
+
+<script>document.title="阻止抽到陨石坑事件 - 卡牌生存百科 Card Survival Wiki";</script>

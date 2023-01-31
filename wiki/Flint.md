@@ -37,3 +37,6 @@
 - [燧石长矛(蓝图)](Bp_FlintSpear.md)  
   
   
+
+
+<script>document.title="燧石 - 卡牌生存百科 Card Survival Wiki";</script>

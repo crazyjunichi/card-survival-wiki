@@ -9,6 +9,10 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 ## 相关卡牌  
 [疼痛](Pain.md)  |  [失实症](Derealization.md)  |  [狂躁](Mania.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [辣椒素](Capsaicin.md)  |  [姜效果](GingerEffect.md)  |  [虚空灵视](VoidInsight.md)  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[勇敢](Pk_4_Brave.md)  |  特质影响  |  1000  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -99,3 +103,6 @@
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用淡水清理  |  0 ~ 4000  
 [轻微撕裂伤](W_MinorLaceration.md)  |  用淡水清理  |  0 ~ 4000  
 [已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用淡水清理  |  0 ~ 4000  
+
+
+<script>document.title="勇气 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  [海怪种群数量](Pop_Seahounds.md)加成+2<br>[海怪入侵计数器](SeaHoundRaidCounter.md)+1  
 效果  |    
+
+
+<script>document.title="海怪来袭 - 卡牌生存百科 Card Survival Wiki";</script>

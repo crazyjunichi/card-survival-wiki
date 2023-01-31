@@ -18,3 +18,6 @@
 [啊！(事件)](Event_MacaqueDenFightBadFailure.md)  |  继续  |  50 ~ 300  
 [啊！(事件)](Event_MacaqueDenFightFailedRetreat.md)  |  继续  |  25 ~ 150  
 [我进不去！(事件)](Event_MacaqueDenFightFailure.md)  |  继续  |  0 ~ 200  
+
+
+<script>document.title="淤青 - 卡牌生存百科 Card Survival Wiki";</script>

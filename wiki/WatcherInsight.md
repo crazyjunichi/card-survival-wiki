@@ -12,3 +12,6 @@
 ----  |  ----  |  ----  
 [监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  1  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  1  
+
+
+<script>document.title="监视者的注视 - 卡牌生存百科 Card Survival Wiki";</script>

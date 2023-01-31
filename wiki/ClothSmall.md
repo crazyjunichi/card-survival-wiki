@@ -38,3 +38,6 @@
 - [奶酪(蓝图)](Bp_Cheese.md)  
   
   
+
+
+<script>document.title="布片 - 卡牌生存百科 Card Survival Wiki";</script>

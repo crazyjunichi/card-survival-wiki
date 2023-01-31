@@ -13,3 +13,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>→ [坑洞(西部高地)](HighlandHoleEntrance.md)  
+
+
+<script>document.title="坑洞 - 卡牌生存百科 Card Survival Wiki";</script>

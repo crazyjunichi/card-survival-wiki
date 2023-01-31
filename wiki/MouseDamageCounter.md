@@ -7,3 +7,6 @@
 ----  |  ----  |  ----  |  ----  |  ----  
 1 ～ 191  |  随机速率  |    |  [老鼠袭击次数](MouseDamageCounter.md)加成+4～+8  |    
 191 ～ 192  |  最终速率  |    |  [老鼠袭击次数](MouseDamageCounter.md)加成+1  |    
+
+
+<script>document.title="老鼠袭击次数 - 卡牌生存百科 Card Survival Wiki";</script>

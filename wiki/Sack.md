@@ -19,3 +19,6 @@
 - [稻草人(蓝图)](Bp_Scarecrow.md)  
   
   
+
+
+<script>document.title="布袋 - 卡牌生存百科 Card Survival Wiki";</script>

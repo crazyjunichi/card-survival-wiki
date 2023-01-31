@@ -72,3 +72,6 @@
 [海(鸟岩岛)](Sea_Rocks.md)  |  影响  |  0 ~ 150  
 [沉船(鸟岩岛)](Shipwreck.md)  |  影响  |  0 ~ 100  
 [鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="游泳(技能) - 卡牌生存百科 Card Survival Wiki";</script>

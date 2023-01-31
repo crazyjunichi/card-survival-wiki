@@ -10,3 +10,6 @@
 初始状态  |  [叉鱼(技能)](Skill_SpearFishing.md)+75  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="鱼叉手 - 卡牌生存百科 Card Survival Wiki";</script>

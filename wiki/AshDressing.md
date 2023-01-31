@@ -15,8 +15,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-去除灰烬<br>  |  15分  |    |  → [布片](ClothSmall.md)  |    
+去除灰烬<br>  |  15分  |    |  ** 自身：**<br>→ [布片](ClothSmall.md)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>→ [布片](ClothSmall.md)  
+
+
+<script>document.title="草木灰敷料 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,4 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  消失<br><br>** 获得： **<br>  [马勃菌](Puffballs.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+采集<br>  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [马勃菌](Puffballs.md)(+1～+2)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+
+
+<script>document.title="马勃菌 - 卡牌生存百科 Card Survival Wiki";</script>

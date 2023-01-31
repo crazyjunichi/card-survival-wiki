@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-笑话先讲到这里吧。<br>  |  -  |    |  消失  |  [船长陪伴](CaptainCompany.md)+30  
+笑话先讲到这里吧。<br>  |  -  |    |  ** 自身：**<br>消失  |  [船长陪伴](CaptainCompany.md)+30  
+
+
+<script>document.title="船长 - 卡牌生存百科 Card Survival Wiki";</script>

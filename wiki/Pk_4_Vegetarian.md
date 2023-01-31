@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  无  
 效果  |  [食用肉类动作](CarnivorousAction.md): <br>[情绪](Morale.md)-100<br>[恶心](Nausea.md)+24  
+
+
+<script>document.title="素食主义者 - 卡牌生存百科 Card Survival Wiki";</script>

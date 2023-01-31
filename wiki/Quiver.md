@@ -11,3 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [箭筒(蓝图)](Bp_Quiver.md)  |  蓝图制造  
+
+
+<script>document.title="箭筒 - 卡牌生存百科 Card Survival Wiki";</script>

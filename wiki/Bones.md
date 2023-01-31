@@ -38,3 +38,6 @@
 - [骨头汤(蓝图)](Bp_BoneBroth.md)  
   
   
+
+
+<script>document.title="骨头 - 卡牌生存百科 Card Survival Wiki";</script>

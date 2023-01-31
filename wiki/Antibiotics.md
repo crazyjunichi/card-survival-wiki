@@ -14,8 +14,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-吃药<br>  |  -  |    |  使用次数  -1  |  [抗生素](AntibioticsEffect.md)+96  
+吃药<br>  |  -  |    |  ** 自身：**<br>使用次数  -1  |  [抗生素](AntibioticsEffect.md)+96  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 使用次数  |  初始：6  |  -  |  ** 到达0时： **<br>  
+
+
+<script>document.title="抗生素 - 卡牌生存百科 Card Survival Wiki";</script>

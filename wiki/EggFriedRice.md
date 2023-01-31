@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[进食动作](EatingAction.md)  |  15分  |    |  使用次数  -1  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)+40<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+10<br>[污垢](Filth.md)+10<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15  
+食用<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>使用次数  -1  |  [饱食](Satiation.md)+50<br>[胃](Stomach.md)+50<br>[水分](Hydration.md)+4<br>[稻米<nobr>厌倦度</nobr>](SaturationRice.md)+40<br>[蛋类<nobr>厌倦度</nobr>](SaturationEggs.md)+10<br>[污垢](Filth.md)+10<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+15<br>[世界观](Structure.md)+15  
 ## 可拖至  
 [祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
 ## 属性   
@@ -24,3 +24,6 @@
 ----  |  ----  |  ----  |  ----  
 耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [烹饪锅](CookingPot.md)  
 使用次数  |  初始：2  |  -  |  ** 到达0时： **<br><br>→ [烹饪锅](CookingPot.md)  
+
+
+<script>document.title="蛋炒饭 - 卡牌生存百科 Card Survival Wiki";</script>

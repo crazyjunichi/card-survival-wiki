@@ -16,3 +16,6 @@
 ----  |  ----  
 [煅烧后的砂浆](MortarBurnt.md)  |  [窑炉](Kiln.md)  
 [煅烧后的砂浆](MortarBurnt.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="干燥的砂浆 - 卡牌生存百科 Card Survival Wiki";</script>

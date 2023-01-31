@@ -14,6 +14,7 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[脚踏实地](Pk_4_DownToEarth.md)  |  特质影响  |  加成+10  
 [铜项链](CopperNecklace.md)  |  被动  |  加成+0.5  
 [珍珠项链](PearlNecklace.md)  |  被动  |  加成+0.5  
 [鲜花项链](FlowerNecklace.md)  |  被动  |  加成+0.25  
@@ -128,3 +129,6 @@
 [监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  0 ~ 5000  
 [监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  0 ~ 5000  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  惊恐地尖叫  |  0 ~ 5000  
+
+
+<script>document.title="世界观 - 卡牌生存百科 Card Survival Wiki";</script>

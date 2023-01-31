@@ -13,3 +13,6 @@
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
   |  [航行](Sailed.md): 0-0  |  → [晴朗](TropicalIsland_ClearInfinite.md)  
+
+
+<script>document.title="平静 - 卡牌生存百科 Card Survival Wiki";</script>

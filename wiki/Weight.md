@@ -21,6 +21,7 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[缓慢代谢](Pk_4_SlowMetabolism.md)  |  特质影响  |  加成+0.5  
 [左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  加成0  
 [右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  加成0  
 [左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  加成0  
@@ -56,6 +57,7 @@
 [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  条件被动  |  加成-0.25  
 [右腿撕裂伤](W_LegLacerationR.md)  |  条件被动  |  加成-0.25  
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-0.25  
+[快速代谢](Pk_4_FastMetabolism.md)  |  特质影响  |  加成-0.25  
 [左臂骨折](W_ArmFractureL.md)  |  条件被动  |  加成-0.5  
 [右臂骨折](W_ArmFractureR.md)  |  条件被动  |  加成-0.5  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成-0.5  
@@ -70,6 +72,7 @@
 [已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  条件被动  |  加成-0.5  
 [巨蜥咬伤](W_MonitorBite.md)  |  条件被动  |  加成-0.5  
 [鲨鱼咬伤](W_SharkBite.md)  |  条件被动  |  加成-0.5  
+[超级代谢](Pk_4_HyperMetabolism.md)  |  特质影响  |  加成-0.75  
 [左臂撕裂伤](W_ArmLacerationL.md)  |  条件被动  |  加成-1  
 [已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  条件被动  |  加成-1  
 [右臂撕裂伤](W_ArmLacerationR.md)  |  条件被动  |  加成-1  
@@ -131,3 +134,6 @@
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 74  
+
+
+<script>document.title="体重 - 卡牌生存百科 Card Survival Wiki";</script>

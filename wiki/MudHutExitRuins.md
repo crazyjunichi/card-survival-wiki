@@ -19,3 +19,6 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
   |  初始：0<br>最大：2  |  -  |    
+
+
+<script>document.title="离开 - 卡牌生存百科 Card Survival Wiki";</script>

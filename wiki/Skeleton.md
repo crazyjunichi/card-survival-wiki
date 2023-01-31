@@ -8,4 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |  [光亮](Light.md): 10-100  |  消失<br><br>** 获得： **<br>  [头骨](Skull.md)(+1)<br>  [骨头(猕猴窝)](Bones.md)(+2)<br>  [布](Cloth.md)(+2)<br>  |    
+采集<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [头骨](Skull.md)(+1)<br>  [骨头(猕猴窝)](Bones.md)(+2)<br>  [布](Cloth.md)(+2)<br>  |    
+
+
+<script>document.title="骷髅 - 卡牌生存百科 Card Survival Wiki";</script>

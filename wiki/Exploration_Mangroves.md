@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [红树林(区域)](Mangroves.md)  |  影响  |  0 ~ 4  
+
+
+<script>document.title="探索红树林 - 卡牌生存百科 Card Survival Wiki";</script>

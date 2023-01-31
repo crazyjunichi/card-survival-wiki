@@ -17,3 +17,6 @@
 - [鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)  
   
   
+
+
+<script>document.title="鲨鱼下颚 - 卡牌生存百科 Card Survival Wiki";</script>

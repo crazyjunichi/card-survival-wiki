@@ -11,3 +11,6 @@
 来源  |  操作  
 ----  |  ----  
 [皮革背包(蓝图)](Bp_LeatherBackpack.md)  |  蓝图制造  
+
+
+<script>document.title="皮革背包 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 ----  |  ----  |  ----  
 [我拿下它了，但我受伤了。(事件)](Event_SeahoundFightMixedSuccess.md)  |  继续  |  1  
 [海怪倒下了！(事件)](Event_SeahoundFightSuccess.md)  |  继续  |  1  
+
+
+<script>document.title="海怪击杀数 - 卡牌生存百科 Card Survival Wiki";</script>

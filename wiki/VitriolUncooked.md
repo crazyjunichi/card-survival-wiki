@@ -10,4 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-清空<br>  |  -  |    |  → [釉面陶罐](GlazedVase.md)  |    
+清空<br>  |  -  |    |  ** 自身：**<br>→ [釉面陶罐](GlazedVase.md)  |    
+
+
+<script>document.title="硫酸盐混合物 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -9,8 +9,11 @@
 来源  |  操作  
 ----  |  ----  
 [韦斯顿(Special1c)(事件)](Event_WestonSpecial1c.md)  |  别客气。  
-[Event_WestonSpecial2c_CardName(Special2c)(事件)](Event_WestonSpecial2c.md)  |  Here we go again...  
+[韦斯顿(Special2c)(事件)](Event_WestonSpecial2c.md)  |  Here we go again...  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-能明天再说嘛？<br>  |  -  |    |  消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)(+1)<br>  |    
+能明天再说嘛？<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Next Step] **<br>  [韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)(+1)<br>  |    
+
+
+<script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

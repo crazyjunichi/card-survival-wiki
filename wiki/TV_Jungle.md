@@ -16,3 +16,6 @@
 [丛林深处(区域)](DeepJungle.md)  |  影响  |  1  
 [丛林(区域)](Jungle.md)  |  影响  |  1  
 [丛林高地(区域)](JungleHighlands.md)  |  影响  |  1  
+
+
+<script>document.title="真人秀 丛林 - 卡牌生存百科 Card Survival Wiki";</script>

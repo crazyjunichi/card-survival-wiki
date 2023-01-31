@@ -136,3 +136,6 @@
 [制作技能提升！(事件)](Event_SkillCrafting3.md)  |  触发事件  |  70 ~ 150  
 [制作技能提升！(事件)](Event_SkillCrafting2.md)  |  触发事件  |  30 ~ 150  
 [制作技能提升！(事件)](Event_SkillCrafting1.md)  |  触发事件  |  10 ~ 150  
+
+
+<script>document.title="制作(技能) - 卡牌生存百科 Card Survival Wiki";</script>

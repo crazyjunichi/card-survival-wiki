@@ -9,3 +9,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [棕榈编织物](WeavePalm.md)  |  棕榈编织帽<br>  |  45分  |    |  <br>** 使用物: **<br>→ [棕榈编织帽](HatWoven.md)  |    
+
+
+<script>document.title="头部（外层） - 卡牌生存百科 Card Survival Wiki";</script>

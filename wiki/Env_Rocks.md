@@ -11,3 +11,6 @@
 [离开(洞穴)](CaveSeaExit.md)  |  离开  
 [岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  
 [前往岩滩(沙滩)](Path_BeachToRocks.md)  |  前往  
+
+
+<script>document.title="岩滩 - 卡牌生存百科 Card Survival Wiki";</script>

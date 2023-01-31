@@ -15,17 +15,17 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-抚摸<br>  |  15分  |    |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br><br>** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-30<br>[压力](Stress.md)-25<br>[娱乐](Entertainment.md)+6<br>基础权重：800<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0<br>  |    
+抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br><br>** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-30<br>[压力](Stress.md)-25<br>[娱乐](Entertainment.md)+6<br>基础权重：800<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[鱼片](FishSlices.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br><br>** 使用物: **<br>消失<br>可用次数  -1<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：800<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0<br>  |    
-[“喂/添加”](tag_Feed.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：800<br><br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0<br>  |    
+[鱼片](FishSlices.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 50<br><br>** 使用物: **<br>消失<br>可用次数  -1<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：800<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0  |    
+[“喂/添加”](tag_Feed.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：800<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：0  |    
 [“储水容器”](tag_WaterContainer.md)  |  喂水<br>  |  -  |    |  ** 自身: **<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25<br><br>** 使用物: **<br>含水量  -300  |    
 [青椰子](CoconutHusked.md)  |  剥椰子<br>  |  -  |    |  <br>** 使用物: **<br>→ [椰子(猕猴窝)](Coconut.md)<br><br>** 获得: **<br>** [Husk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |    
 [水椰子](NipaFruit.md)  |  剥水椰子<br>  |  -  |    |  <br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nipa Seeds] **<br>  [水椰籽](NipaSeeds.md)(+1)<br>  |    
 [热带杏仁](TropicalAlmonds.md)  |  剥热带杏仁<br>  |  -  |    |  <br>** 使用物: **<br>消失<br>可用次数  -1<br><br>** 获得: **<br>** [Tropical Almond] **<br>  [热带杏仁核](TropicalAlmondKernels.md)(+1)<br>  |    
-[“切割工具”](tag_Cutter.md)  |  杀害！<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [猕猴尸体](MacaqueCarcass.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [No Bite] **<br>基础权重：1<br><br>** [Bite] **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>基础权重：3<br>  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
+[“切割工具”](tag_Cutter.md)  |  杀害！<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [猕猴尸体](MacaqueCarcass.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [No Bite] **<br>基础权重：1<br>** [Bite] **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1)<br>基础权重：3  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
 ## 可拖至  
 [椰子树(新)](PalmTreeNew.md)  
 ## 属性   
@@ -41,3 +41,6 @@
 ----  |  ----  |  ----  |  ----  
 Cure Stress  |  ** 需要属性：**<br>饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 432～576<br>口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 216～288  |  饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">-1<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">+10  |    
 Overcrowding  |  ** 需要属性：**<br>怀孕<img decoding="async" src="Sprite/DeepPregnancy.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1536<br>** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)  |  压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.66  |    
+
+
+<script>document.title="猕猴朋友 - 卡牌生存百科 Card Survival Wiki";</script>

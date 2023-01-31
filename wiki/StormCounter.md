@@ -19,3 +19,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [风太大了！(事件)](Event_Storm.md)  |  触发事件  |  6  
+
+
+<script>document.title="暴风雨次数 - 卡牌生存百科 Card Survival Wiki";</script>

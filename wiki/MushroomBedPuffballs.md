@@ -34,3 +34,6 @@ Humid  |  ** 需要存在卡牌：**<br>[“潮湿环境”](tag_EnvHumid.md)  |
 Dry  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)  |  进度-0.5  |    
 Dark  |  ** 需要状态：**<br>[光亮](Light.md): 0-0  |  进度+0.25  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+25  |    
+
+
+<script>document.title="马勃菌菌床 - 卡牌生存百科 Card Survival Wiki";</script>

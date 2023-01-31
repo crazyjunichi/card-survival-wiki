@@ -10,3 +10,6 @@
 初始状态  |  [体重](Weight.md)-2100  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="过瘦 - 卡牌生存百科 Card Survival Wiki";</script>

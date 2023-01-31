@@ -12,4 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-赶走蜘蛛！<br>  |  15分  |    |  消失<br><br>** 获得： **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  
+赶走蜘蛛！<br>  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |  [情绪](Morale.md)-50<br>[压力](Stress.md)+50<br>[睡眠中断](SleepInterrupt.md)-1<br>[睡眠钟](SleepClock.md)-999  
+
+
+<script>document.title="一只蜘蛛咬了我！ - 卡牌生存百科 Card Survival Wiki";</script>

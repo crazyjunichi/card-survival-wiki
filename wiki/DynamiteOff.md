@@ -17,3 +17,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [火种](TinderLit.md)  |  点燃<br>  |  -  |    |  ** 自身: **<br>→ [炸药(开)](DynamiteOn.md)  |    
+
+
+<script>document.title="炸药 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -15,3 +15,6 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“铲子”](tag_Shovel.md)  |  清理<br>  |  1小时  |    |  ** 自身: **<br>消失  |  [污垢](Filth.md)+50  
+
+
+<script>document.title="粪池 - 卡牌生存百科 Card Survival Wiki";</script>

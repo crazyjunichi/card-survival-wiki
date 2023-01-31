@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拔掉刺<br>  |  15分  |    |  <img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:20px;max-height:20px;">  -4  |  [情绪](Morale.md)-10  
+拔掉刺<br>  |  15分  |    |  ** 自身：**<br><img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:20px;max-height:20px;">  -4  |  [情绪](Morale.md)-10  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -32,3 +32,6 @@ Surface Bacteria 4  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md
 Surface Bacteria 5  |  ** 需要状态：**<br>[表面细菌](BacteriaSurface.md): 5-5  |  <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+16  |    
 Sepsis  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">: 240～288  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2<br><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |  [细菌性发烧](BacteriaFever.md)加成+10  
 Urchin Wound  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～250  |    |  [疼痛](Pain.md)+300<br>[皮肤完整度](SkinIntegrity.md)-1<br>[腿部动作受限](ModifierLeg.md)+3<br>[体重](Weight.md)加成-0.1<br>[受伤](Wounds.md)+100  
+
+
+<script>document.title="海胆刺伤 - 卡牌生存百科 Card Survival Wiki";</script>

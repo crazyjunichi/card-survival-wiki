@@ -16,3 +16,6 @@
 ----  |  ----  
 [矛头](SpearHead.md)  |  [熔炉](Forge.md)  
 [矛头](SpearHead.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="矛头模具 - 卡牌生存百科 Card Survival Wiki";</script>

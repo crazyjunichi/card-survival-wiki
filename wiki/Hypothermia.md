@@ -35,3 +35,6 @@
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  26 ~ 100  
 [帐篷](TentDeployed.md)  |  小憩  |  26 ~ 100  
 [帐篷](TentDeployed.md)  |  睡觉  |  26 ~ 100  
+
+
+<script>document.title="失温 - 卡牌生存百科 Card Survival Wiki";</script>

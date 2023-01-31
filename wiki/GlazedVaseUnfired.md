@@ -16,3 +16,6 @@
 ----  |  ----  
 [釉面陶罐](GlazedVase.md)  |  [窑炉](Kiln.md)  
 [釉面陶罐](GlazedVase.md)  |  [高级窑炉](KilnAdvanced.md)  
+
+
+<script>document.title="未烧制的釉面陶罐 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 初始状态  |  无  
 被动状态  |  无  
 效果  |    
+
+
+<script>document.title="东部高地 - 卡牌生存百科 Card Survival Wiki";</script>

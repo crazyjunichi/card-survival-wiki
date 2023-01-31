@@ -11,3 +11,6 @@
 [前往东部草原(荒芜沙滩)](Path_DesolateBeachToGrasslandsE.md)  |  前往  
 [前往东部草原(西部草原)](Path_GrasslandsWToGrasslandsE.md)  |  前往  
 [前往东部草原(东部高地)](Path_HighlandsEToGrasslandsE.md)  |  前往  
+
+
+<script>document.title="东部草原 - 卡牌生存百科 Card Survival Wiki";</script>

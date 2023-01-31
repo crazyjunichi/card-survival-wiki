@@ -9,6 +9,10 @@
 97 ～ 192  |  <img decoding="async" src="Sprite/SaturationReptile.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃爬行生物了……  |    |  [情绪](Morale.md)加成-0.75  |    
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
+## 加成值影响因素  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -23,3 +27,6 @@
 [腌制中的巨蜥肉](MonitorMeatSaltedDrying.md)  |  食用  |  30  
 [烤蛇肉](SnakeCooked.md)  |  食用  |  30  
 [剥皮的蛇](SnakeSkinned.md)  |  食用  |  30  
+
+
+<script>document.title="爬行类厌倦度 - 卡牌生存百科 Card Survival Wiki";</script>

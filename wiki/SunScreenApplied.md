@@ -10,3 +10,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [防晒霜](SunScreen.md)  |  涂抹  |  100  
+
+
+<script>document.title="防晒霜 - 卡牌生存百科 Card Survival Wiki";</script>

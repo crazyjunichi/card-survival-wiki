@@ -23,4 +23,9 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 100000  
+[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 100000  
 [鼠害(事件)](Event_MouseDamage.md)  |  影响  |  1000 ~ 100000  
+
+
+<script>document.title="老鼠种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

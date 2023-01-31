@@ -29,3 +29,6 @@
 [海(沙滩)](Sea_Cove.md)  |  影响  |  1000 ~ 4000  
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  影响  |  1000 ~ 6000  
 [海(鸟岩岛)](Sea_Rocks.md)  |  影响  |  1000 ~ 6000  
+
+
+<script>document.title="海胆种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

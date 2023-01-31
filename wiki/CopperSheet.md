@@ -17,3 +17,6 @@
 - [铜制餐具(蓝图)](Bp_EatingUtensilsCopper.md)  
   
   
+
+
+<script>document.title="铜板 - 卡牌生存百科 Card Survival Wiki";</script>

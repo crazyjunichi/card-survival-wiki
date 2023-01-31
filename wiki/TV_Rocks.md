@@ -16,3 +16,6 @@
 [鸟岩岛(区域)](BirdRock.md)  |  影响  |  1  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1  
 [岩滩(区域)](Rocks.md)  |  影响  |  1  
+
+
+<script>document.title="真人秀 - 岩滩 - 卡牌生存百科 Card Survival Wiki";</script>

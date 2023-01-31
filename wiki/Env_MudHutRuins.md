@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [泥屋](MudHutEntranceRuins.md)  |  进入  
+
+
+<script>document.title="泥屋 - 卡牌生存百科 Card Survival Wiki";</script>

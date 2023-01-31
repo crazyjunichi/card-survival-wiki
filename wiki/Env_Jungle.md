@@ -12,3 +12,6 @@
 [前往丛林小径](Path_GrasslandsWToJungle.md)  |  前往  
 [前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  
 [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  
+
+
+<script>document.title="丛林 - 卡牌生存百科 Card Survival Wiki";</script>

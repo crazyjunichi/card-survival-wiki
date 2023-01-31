@@ -9,3 +9,6 @@
 来源  |  操作  
 ----  |  ----  
 [洞穴](CaveSeaEntrance.md)  |  进入  
+
+
+<script>document.title="洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

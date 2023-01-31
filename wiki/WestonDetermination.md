@@ -13,3 +13,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [韦斯顿](Weston.md)  |  离开这座岛  |  0  
+
+
+<script>document.title="韦斯顿的决心 - 卡牌生存百科 Card Survival Wiki";</script>

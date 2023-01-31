@@ -11,3 +11,6 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [猎手被击败了！(事件)](Event_HunterFightSuccess.md)  |  胜利啦！  |  1  
+
+
+<script>document.title="猎手的注视 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -15,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-宰杀<br>  |  15分  |  [光亮](Light.md): 10-100  |  → [灰山鹑尸体](PartridgeDead.md)  |    
-捆起来<br>  |  15分  |  [光亮](Light.md): 10-100  |  → [雄灰山鹑](PartridgeMaleLive.md)  |    
+宰杀<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [灰山鹑尸体](PartridgeDead.md)  |    
+捆起来<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [雄灰山鹑](PartridgeMaleLive.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -35,3 +35,6 @@
 ----  |  ----  |  ----  |  ----  
 Feed  |  ** 需要存在卡牌：**<br>[灰山鹑喂食器](PartridgeFeeder.md)  |  <img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">+2<br><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Overcrowding  |  ** 需要属性：**<br>燃料: 1～1536<br>** 需要存在卡牌：**<br>[“灰山鹑”](tag_Partridge.md)<br>[“山羊”](tag_Goat.md)  |  <img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">-0.1  |    
+
+
+<script>document.title="雄灰山鹑 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,3 +10,6 @@
 ----  |  ----  
 [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  |  前往  
 [前往丛林边缘(丛林)](Path_JungleToOutskirts.md)  |  前往  
+
+
+<script>document.title="丛林边缘 - 卡牌生存百科 Card Survival Wiki";</script>

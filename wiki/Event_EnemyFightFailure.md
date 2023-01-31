@@ -15,4 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼<br>  |  1小时  |    |  消失<br><br>** 获得： **<br>** [Mark] **<br>  [崩解烙印](W_UnravellingMark.md)(+1)<br><br><br>** 相关卡牌 **<br><br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  
+闭眼<br>  |  1小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Mark] **<br>  [崩解烙印](W_UnravellingMark.md)(+1)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[宿敌现身](EnemyDefeated.md)-1  
+
+
+<script>document.title="我失败了！ - 卡牌生存百科 Card Survival Wiki";</script>

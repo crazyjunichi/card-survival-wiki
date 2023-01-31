@@ -39,3 +39,6 @@
 [捕捞拖网](RaftFishTrap.md)  |  影响  |  0 ~ 150  
 [套索陷阱](SnareTrap.md)  |  影响  |  0 ~ 150  
 [陷坑](TrappingPit.md)  |  影响  |  0 ~ 150  
+
+
+<script>document.title="陷阱(技能) - 卡牌生存百科 Card Survival Wiki";</script>

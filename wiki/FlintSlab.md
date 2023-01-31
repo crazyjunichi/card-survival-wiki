@@ -29,3 +29,6 @@
 - [燧石斧(蓝图)](Bp_FlintAxe.md)  
   
   
+
+
+<script>document.title="燧石板 - 卡牌生存百科 Card Survival Wiki";</script>

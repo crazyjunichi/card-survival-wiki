@@ -11,3 +11,6 @@
 [前往海湾](Path_BeachToBay.md)  |  前往  
 [前往海湾(丛林)](Path_JungleToBay.md)  |  前往  
 [前往海湾](Path_MangrovesToBay.md)  |  前往  
+
+
+<script>document.title="海湾 - 卡牌生存百科 Card Survival Wiki";</script>
