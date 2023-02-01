@@ -45,7 +45,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：900  |  每15分钟+8<br>最多需要：1天4小时8分  |    
-燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>  [灰烬](Ash.md)(+1)<br>  [木炭](Charcoal.md)(0～+1)<br>基础权重：1<br>→ [窑炉(熄灭)](KilnExtinguished.md)  
+燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>  [灰烬](Ash.md)(+1)<br>  [木炭](Charcoal.md)(+0～+1)<br>基础权重：1<br>→ [窑炉(熄灭)](KilnExtinguished.md)  
 
 
 <script>document.title="窑炉 - 卡牌生存百科 Card Survival Wiki";</script>

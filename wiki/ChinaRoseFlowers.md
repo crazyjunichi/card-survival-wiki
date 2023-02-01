@@ -5,7 +5,7 @@
   
   月季  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**装备时减重：**-75<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  <img decoding="async" src="Sprite/ChinaRose.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**75<br><br>**装备时减重：**-75<br><br>**标签：**	[“饲料”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“头部（外层）”](tag_OuterHead.md), [“弱效食料”](tag_FeedWeak.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[世界观](Structure.md)加成+0.25  |  <img decoding="async" src="Sprite/ChinaRose.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

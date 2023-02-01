@@ -5,7 +5,7 @@
   
   西米树芯  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“喂/添加”](tag_Feed.md)  |  <img decoding="async" src="Sprite/CoconutGround.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**25<br><br>**标签：**	[“饲料”](tag_Feed.md)  |  <img decoding="async" src="Sprite/CoconutGround.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/WeatherClear_Full.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+晕倒  |  [耐力](Stamina.md): 0-0<br>[晕倒次数](FaintCounter.md): 0-0  |  [晕倒次数](FaintCounter.md)+33  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

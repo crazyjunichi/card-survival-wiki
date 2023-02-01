@@ -5,7 +5,7 @@
   
   海螺肉  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/ConchMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“诱饵”](tag_Bait.md), [“肉”](tag_Meat.md)  |  <img decoding="async" src="Sprite/ConchMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用海鲜动作](ShellfishAction.md)<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+3<br>[情绪](Morale.md)-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)+25<br>[污垢](Filth.md)+2～+35<br>[细菌性发烧](BacteriaFever.md)0～+25<br>[寄生虫](Parasites.md)0～+50  
+食用<br>[食用海鲜动作](ShellfishAction.md)<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+3<br>[情绪](Morale.md)-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)+25<br>[污垢](Filth.md)+2～+35<br>[细菌性发烧](BacteriaFever.md)+0～+25<br>[寄生虫](Parasites.md)+0～+50  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

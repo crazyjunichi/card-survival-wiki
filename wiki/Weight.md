@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 2500   
 #### ** 变化范围: ** 0 ~ 15000  
-#### ** 基础变化率: ** 0 / 每15分钟  
+#### ** 基础变化率: ** 无   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,10 +22,10 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [缓慢代谢](Pk_4_SlowMetabolism.md)  |  特质影响  |  加成+0.5  
-[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  加成0  
-[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  加成0  
-[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  加成0  
-[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  加成0  
+[左手腕扭伤](W_ArmSprainedL.md)  |  条件被动  |  加成+0  
+[右手腕扭伤](W_ArmSprainedR.md)  |  条件被动  |  加成+0  
+[左脚踝扭伤](W_LegSprainedL.md)  |  条件被动  |  加成+0  
+[右脚踝扭伤](W_LegSprainedR.md)  |  条件被动  |  加成+0  
 [擦伤](W_Abrasion.md)  |  条件被动  |  加成-0.1  
 [左臂骨折](W_ArmFractureL.md)  |  条件被动  |  加成-0.1  
 [右臂骨折](W_ArmFractureR.md)  |  条件被动  |  加成-0.1  
@@ -134,6 +134,7 @@
 [你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  0 ~ 74  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  0 ~ 74  
+[死亡(事件)](Event_DeathNutrition.md)  |  触发事件  |  0  
 
 
 <script>document.title="体重 - 卡牌生存百科 Card Survival Wiki";</script>

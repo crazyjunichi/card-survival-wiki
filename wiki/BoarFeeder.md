@@ -10,7 +10,7 @@
 ----  |  ----  
 [猪食槽(空)](BoarFeederEmpty.md) , [“诱饵”](tag_Bait.md)  |  添入  
 [猪食槽(空)](BoarFeederEmpty.md) , [“强效食料”](tag_FeedRich.md)  |  添入  
-[猪食槽(空)](BoarFeederEmpty.md) , [“喂/添加”](tag_Feed.md)  |  添入  
+[猪食槽(空)](BoarFeederEmpty.md) , [“饲料”](tag_Feed.md)  |  添入  
 [猪食槽(空)](BoarFeederEmpty.md) , [猪食](FeedBoar.md)  |  Feed  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
@@ -21,7 +21,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“诱饵”](tag_Bait.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 48<br><br>** 使用物: **<br>消失  |    
 [“强效食料”](tag_FeedRich.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br><br>** 使用物: **<br>消失  |    
-[“喂/添加”](tag_Feed.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br><br>** 使用物: **<br>消失  |    
+[“饲料”](tag_Feed.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br><br>** 使用物: **<br>消失  |    
 [猪食](FeedBoar.md)  |  Feed<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 3072<br><br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

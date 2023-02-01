@@ -22,12 +22,12 @@
 [“浅水域”](tag_ShallowWater.md)  |  [“强效清洁剂”](tag_CleanerStrong.md)  |  [“强效食料”](tag_FeedRich.md)  |  [“切割工具”](tag_Cutter.md)  
 [“轻微撕裂伤”](eTag_WMinorLaceration.md)  |  [“躯干（内层）”](tag_InnerTorso.md)  |  [“躯干（外层）”](tag_OuterTorso.md)  |  [“燃料”](tag_Fuel.md)  
 [“燃料”](tag_Sticks.md)  |  [“人类食物”](tag_HumanFood.md)  |  [“容器（敞口）”](tag_ContainerOpen.md)  |  [“容器（密封）”](tag_ContainerSealed.md)  
-[“容器（蓄水池）”](tag_ContainerReservoir.md)  |  [“弱效清洁剂”](tag_CleanerWeak.md)  |  [“弱效食料”](tag_FeedWeak.md)  |  [“山羊”](tag_Goat.md)  
-[“伤口需要夹板”](tag_WoundSplint.md)  |  [“生鱼”](tag_RawFish.md)  |  [“室内”](tag_EnvIndoors.md)  |  [“手套”](eTag_Hands.md)  
-[“树叶”](tag_Leaves.md)  |  [“水”](tag_WaterAny.md)  |  [“水稻田”](tag_Paddy.md)  |  [“天气”](tag_Weather.md)  
-[“铜制大物件”](tag_CopperBig.md)  |  [“铜制小物件”](tag_CopperSmall.md)  |  [“头部”](eTag_Head.md)  |  [“头部（内层）”](tag_InnerHead.md)  
-[“头部（外层）”](tag_OuterHead.md)  |  [“腿部（内层）”](tag_Clothing.md)  |  [“腿部（内层）”](tag_InnerLegs.md)  |  [“腿部（外层）”](tag_OuterLegs.md)  
-[“袜子”](eTag_Socks.md)  |  [“碗（容器）”](tag_ContainerBowl.md)  |  [“喂”](tag_Meat.md)  |  [“喂/添加”](tag_Feed.md)  
+[“容器（蓄水池）”](tag_ContainerReservoir.md)  |  [“肉”](tag_Meat.md)  |  [“弱效清洁剂”](tag_CleanerWeak.md)  |  [“弱效食料”](tag_FeedWeak.md)  
+[“山羊”](tag_Goat.md)  |  [“伤口需要夹板”](tag_WoundSplint.md)  |  [“生鱼”](tag_RawFish.md)  |  [“室内”](tag_EnvIndoors.md)  
+[“手套”](eTag_Hands.md)  |  [“树叶”](tag_Leaves.md)  |  [“水”](tag_WaterAny.md)  |  [“水稻田”](tag_Paddy.md)  
+[“饲料”](tag_Feed.md)  |  [“天气”](tag_Weather.md)  |  [“铜制大物件”](tag_CopperBig.md)  |  [“铜制小物件”](tag_CopperSmall.md)  
+[“头部”](eTag_Head.md)  |  [“头部（内层）”](tag_InnerHead.md)  |  [“头部（外层）”](tag_OuterHead.md)  |  [“腿部（内层）”](tag_Clothing.md)  
+[“腿部（内层）”](tag_InnerLegs.md)  |  [“腿部（外层）”](tag_OuterLegs.md)  |  [“袜子”](eTag_Socks.md)  |  [“碗（容器）”](tag_ContainerBowl.md)  
 [“喂食（草食动物）”](tag_FeedHerb.md)  |  [“西”](tag_West.md)  |  [“细线”](tag_Cord.md)  |  [“小的”](tag_Tiny.md)  
 [“鞋子”](eTag_Shoes.md)  |  [“眼镜”](eTag_Glasses.md)  |  [“眼镜”](tag_Glasses.md)  |  [“眼镜蛇射毒”](eTag_WCobraSpit.md)  
 [“腰带装备”](eTag_Belt.md)  |  [“咬伤”](eTag_WBite.md)  |  [“椰子（会腐败）”](tag_CoconutSpoilable.md)  |  [“野猪”](tag_Boar.md)  
@@ -55,10 +55,10 @@
 ## 动作  
 <br>  |  <br>  |  <br>  |  <br>  
  :----:    |   :----:    |   :----:    |   :----:    
-[进食动作](EatingAction.md)  |  [旅行动作](TravelAction.md)  |  [攀爬动作](ClimbAction.md)  |  [食用海鲜动作](ShellfishAction.md)  
-[食用坚果类动作](NutAction.md)  |  [食用肉类动作](CarnivorousAction.md)  |  [食用蔬菜类动作](VegetarianAction.md)  |  [手部动作](HandAction.md)  
-[探索动作](SlipperyAction.md)  |  [腿部动作](LegAction.md)  |  [休息动作](SleepAction.md)  |  [制造动作](CraftAction.md)  
-[SaltDrinkingAction](SaltDrinkingAction.md)  |    |    |    
+[喝盐水动作](SaltDrinkingAction.md)  |  [进食动作](EatingAction.md)  |  [旅行动作](TravelAction.md)  |  [攀爬动作](ClimbAction.md)  
+[食用海鲜动作](ShellfishAction.md)  |  [食用坚果类动作](NutAction.md)  |  [食用肉类动作](CarnivorousAction.md)  |  [食用蔬菜类动作](VegetarianAction.md)  
+[手部动作](HandAction.md)  |  [探索动作](SlipperyAction.md)  |  [腿部动作](LegAction.md)  |  [休息动作](SleepAction.md)  
+[制造动作](CraftAction.md)  |    |    |    
 
 
 <script>document.title="标签 - 卡牌生存百科 Card Survival Wiki";</script>

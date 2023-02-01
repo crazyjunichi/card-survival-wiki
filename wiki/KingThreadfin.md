@@ -5,7 +5,7 @@
   
   大马鲅鱼  |   图片   
  ----  |  ----:   
- **重量：**400<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/KingThreadfin.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**400<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“肉”](tag_Meat.md)  |  <img decoding="async" src="Sprite/KingThreadfin.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

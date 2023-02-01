@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 240  
-#### ** 基础变化率: ** +1 / 每15分钟  
+#### ** 基础变化率: ** +1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -33,28 +33,28 @@
 [中陷阱的猕猴](CageTrapMacaque.md)  |  抚摸  |  10  
 [猕猴朋友](MacaqueFriend.md)  |  抚摸  |  10  
 [受伤的猕猴](MacaqueWounded.md)  |  抚摸  |  10  
-[叶床](LeafBed.md)  |  小憩  |  -1  
-[叶床](LeafBed.md)  |  睡觉  |  -1  
-[人鱼巢](MermaidNest.md)  |  小憩  |  -1  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  -1  
-[窝棚](Shelter.md)  |  小憩  |  -1  
-[窝棚](Shelter.md)  |  睡觉  |  -1  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1  
-[帐篷](TentDeployed.md)  |  睡觉  |  -1  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  -1  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1  
-[睡袋](BedRoll.md)  |  小憩  |  -1.5  
-[简易床](BedRustic.md)  |  小憩  |  -1.5  
-[帐篷](TentDeployed.md)  |  小憩  |  -1.5  
-[睡袋](BedRoll.md)  |  睡觉  |  -2  
-[简易床](BedRustic.md)  |  睡觉  |  -2  
-[吊床](Hammock.md)  |  小憩  |  -2  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  -2  
-[木床](BedWooden.md)  |  小憩  |  -2.5  
-[木床](BedWooden.md)  |  睡觉  |  -3  
-[吊床](Hammock.md)  |  睡觉  |  -3  
-[黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  休息  |  -4  
+[叶床](LeafBed.md)  |  小憩  |  -1 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  -1 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  -1 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  -1 / 每15分钟  
+[窝棚](Shelter.md)  |  小憩  |  -1 / 每15分钟  
+[窝棚](Shelter.md)  |  睡觉  |  -1 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1 / 每15分钟  
+[帐篷](TentDeployed.md)  |  睡觉  |  -1 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  -1 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1 / 每15分钟  
+[睡袋](BedRoll.md)  |  小憩  |  -1.5 / 每15分钟  
+[简易床](BedRustic.md)  |  小憩  |  -1.5 / 每15分钟  
+[帐篷](TentDeployed.md)  |  小憩  |  -1.5 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  -2 / 每15分钟  
+[简易床](BedRustic.md)  |  睡觉  |  -2 / 每15分钟  
+[吊床](Hammock.md)  |  小憩  |  -2 / 每15分钟  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  -2 / 每15分钟  
+[木床](BedWooden.md)  |  小憩  |  -2.5 / 每15分钟  
+[木床](BedWooden.md)  |  睡觉  |  -3 / 每15分钟  
+[吊床](Hammock.md)  |  睡觉  |  -3 / 每15分钟  
+[黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  休息  |  -4 / 每15分钟  
 [蜂箱(蓝图)](Bp_BeeSkep.md)  |  蓝图制造  |  -5  
 [火堆(蓝图)](Bp_Fire.md)  |  蓝图制造  |  -5  
 [野枣](JujubeFruits.md)  |  食用  |  -5  

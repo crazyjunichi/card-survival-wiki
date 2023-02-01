@@ -71,8 +71,8 @@
 [未烧制的陶碗](ClayBowlUnfired.md)  |  烧制陶碗  |  3小时  |    |  [陶碗](ClayBowl.md)(+1)  |    
 [未烹饪的炸鱼薯条](FishNChipsUncooked.md)  |  炸鱼薯条  |  45分  |    |  [炸鱼薯条](FishNChips.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的鱼肉蛋饼](FishOmeletteUncooked.md)  |  鱼肉煎蛋饼  |  45分  |    |  [鱼肉蛋饼](FishOmelette.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[鱼杂](FishScraps.md)  |  鱼杂  |  30分  |    |  [烤鱼杂](FishScrapsCooked.md)(0)<br><br>→ [烤鱼杂](FishScrapsCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[鱼片](FishSlices.md)  |  鱼片  |  30分  |    |  [烤鱼片](FishSlicesCooked.md)(0)<br><br>→ [烤鱼片](FishSlicesCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
+[鱼杂](FishScraps.md)  |  鱼杂  |  30分  |    |  [烤鱼杂](FishScrapsCooked.md)(+0)<br><br>→ [烤鱼杂](FishScrapsCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
+[鱼片](FishSlices.md)  |  鱼片  |  30分  |    |  [烤鱼片](FishSlicesCooked.md)(+0)<br><br>→ [烤鱼片](FishSlicesCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的炸香蕉](FriedBananasUncooked.md)  |  炸香蕉  |  45分  |    |  [熟的炸香蕉](FriedBananasCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的炒菇球](FriedPuffballsUncooked.md)  |  炒菇球  |  30分  |    |  [炒菇球](FriedPuffballs.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [干胶水](GlueDry.md)  |  加热胶水  |  15分  |    |  [胶水](Glue.md)(+1)  |    
@@ -99,7 +99,7 @@
 [牡蛎肉](OysterMeat.md)  |  牡蛎  |  30分  |    |  [烤牡蛎肉](OysterMeatCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [鹦哥鱼](ParrotFish.md)  |  鹦哥鱼  |  30分  |    |  [烤鹦哥鱼](ParrotFishCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的肉食盛宴](HeartyFeastUncooked.md)  |  猪肉大餐  |  45分  |    |  [肉食盛宴](HeartyFeast.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[虾](Prawns.md)  |  虾  |  30分  |    |  [烤虾](PrawnsCooked.md)(0)<br><br>→ [烤虾](PrawnsCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
+[虾](Prawns.md)  |  虾  |  30分  |    |  [烤虾](PrawnsCooked.md)(+0)<br><br>→ [烤虾](PrawnsCooked.md)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的蛋白棒](ProteinBarUncooked.md)  |  蛋白棒  |  1小时  |    |  [烹饪好的蛋白棒](ProteinBarsCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的西米蛋糕](SagoCakeUncooked.md)  |  西米蛋糕  |  1小时30分  |    |  [西米蛋糕](SagoCake.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [西米粉](SagoFlour.md)  |  西米饼  |  30分  |    |  [西米饼](SagoFlatbread.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  

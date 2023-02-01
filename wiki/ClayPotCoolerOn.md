@@ -5,7 +5,7 @@
   
   保鲜罐  |   图片   
  ----  |  ----:   
- ** 可重命名 **<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“喂/添加”](tag_Feed.md) , [“可烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**1500<br><br>**减重量：**-1500  |  <img decoding="async" src="Sprite/ClayPotCooler.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 可重命名 **<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“可烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**1500<br><br>**减重量：**-1500  |  <img decoding="async" src="Sprite/ClayPotCooler.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 5  
-#### ** 基础变化率: ** 0 / 每15分钟  
+#### ** 基础变化率: ** 无   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -16,13 +16,13 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[平静](OpenSea_Calm.md)  |  被动  |  加成0  
-[平静](OpenSea_CalmInfinite.md)  |  被动  |  加成0  
-[风向有利](OpenSea_Favourable.md)  |  被动  |  加成0  
-[晴朗](TropicalIsland_Clear.md)  |  被动  |  加成0  
-[晴朗](TropicalIsland_ClearInfinite.md)  |  被动  |  加成0  
-[晴朗](TropicalIsland_ClearStart.md)  |  被动  |  加成0  
-[阴天](TropicalIsland_Cloudy.md)  |  被动  |  加成0  
+[平静](OpenSea_Calm.md)  |  被动  |  加成+0  
+[平静](OpenSea_CalmInfinite.md)  |  被动  |  加成+0  
+[风向有利](OpenSea_Favourable.md)  |  被动  |  加成+0  
+[晴朗](TropicalIsland_Clear.md)  |  被动  |  加成+0  
+[晴朗](TropicalIsland_ClearInfinite.md)  |  被动  |  加成+0  
+[晴朗](TropicalIsland_ClearStart.md)  |  被动  |  加成+0  
+[阴天](TropicalIsland_Cloudy.md)  |  被动  |  加成+0  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

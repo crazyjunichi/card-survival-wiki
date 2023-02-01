@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1)<br>  [受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1～+3)<br>  [鸟骨(猕猴窝)](BonesBird.md)(0～+1)<br>基础权重：1  |    
+继续<br>  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1)<br>  [受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛(猕猴窝)](Feathers.md)(+1～+3)<br>  [鸟骨(猕猴窝)](BonesBird.md)(+0～+1)<br>基础权重：1  |    
 
 
 <script>document.title="一个灰山鹑巢！ - 卡牌生存百科 Card Survival Wiki";</script>

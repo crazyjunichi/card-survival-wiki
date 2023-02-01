@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 32   
 #### ** 变化范围: ** 0 ~ 32  
-#### ** 基础变化率: ** +2 / 每15分钟  
+#### ** 基础变化率: ** +2 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -48,14 +48,14 @@
 [沙滩(区域)](Beach.md)  |  随便逛逛  |  -2  
 [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  |  前往  |  -2  
 [前往岩滩(沙滩)](Path_BeachToRocks.md)  |  前往  |  -2  
-[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  -2.5  
-[鼓](Drum.md)  |  跃动的节奏  |  -2.5  
-[鼓](Drum.md)  |  入迷击鼓  |  -2.5  
-[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  -2.5  
-[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  -2.5  
-[鼓(事件)](Event_DrumMenu.md)  |  练习  |  -3  
-[鼓](Drum.md)  |  练习  |  -3  
-[蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  -3  
+[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  -2.5 / 每15分钟  
+[鼓](Drum.md)  |  跃动的节奏  |  -2.5 / 每15分钟  
+[鼓](Drum.md)  |  入迷击鼓  |  -2.5 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  -2.5 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  -2.5 / 每15分钟  
+[鼓(事件)](Event_DrumMenu.md)  |  练习  |  -3 / 每15分钟  
+[鼓](Drum.md)  |  练习  |  -3 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  -3 / 每15分钟  
 [椰子树(新)](PalmTreeNew.md)  |  扔石头  |  -3  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  -3  
 [青椰子](CoconutHusked.md)  |  剥  |  -4  
@@ -132,10 +132,10 @@
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  -5  
 [砂浆(蓝图)](Bp_Mortar.md)  |  蓝图制造  |  -5  
 [架子(蓝图)](Bp_Shelf.md)  |  蓝图制造  |  -5  
-[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  -5  
-[鼓](Drum.md)  |  激昂的节奏  |  -5  
-[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  -5  
-[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  -5  
+[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  -5 / 每15分钟  
+[鼓](Drum.md)  |  激昂的节奏  |  -5 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  -5 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  -5 / 每15分钟  
 [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖  |  -5  
 [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖  |  -5  
 [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖  |  -5  
@@ -351,6 +351,7 @@
 [倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  11 ~ 32  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  11 ~ 32  
 [劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  8 ~ 32  
+[你昏过去了(事件)](Event_FaintExhaustion.md)  |  触发事件  |  0  
 
 
 <script>document.title="耐力 - 卡牌生存百科 Card Survival Wiki";</script>

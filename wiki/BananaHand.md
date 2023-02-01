@@ -5,7 +5,7 @@
   
   一串香蕉  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“喂/添加”](tag_Feed.md)<br><br>**可使用次数：**5  |  <img decoding="async" src="Sprite/BananaHand.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**100<br><br>**标签：**	[“饲料”](tag_Feed.md)<br><br>**可使用次数：**5  |  <img decoding="async" src="Sprite/BananaHand.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

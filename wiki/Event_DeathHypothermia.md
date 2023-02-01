@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+死亡  |  [失温](Hypothermia.md): 100-100  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

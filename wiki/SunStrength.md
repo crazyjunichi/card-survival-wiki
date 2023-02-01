@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 6  
-#### ** 基础变化率: ** 0 / 每15分钟  
+#### ** 基础变化率: ** 无   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -16,16 +16,16 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[后有风暴](OpenSea_StormBehind.md)  |  被动  |  加成0  
-[后有风暴](OpenSea_StormBehindInfinite.md)  |  被动  |  加成0  
-[前有风暴](OpenSea_StormFront.md)  |  被动  |  加成0  
-[大雨](TropicalIsland_HeavyRain.md)  |  被动  |  加成0  
-[大雨](TropicalIsland_HeavyRainInfinite.md)  |  被动  |  加成0  
-[大雨](TropicalIsland_HeavyRainLong.md)  |  被动  |  加成0  
-[大雨](TropicalIsland_HeavyRainStart.md)  |  被动  |  加成0  
-[暴风雨](TropicalIsland_Storm.md)  |  被动  |  加成0  
-[暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  加成0  
-[暴风雨](TropicalIsland_StormStart.md)  |  被动  |  加成0  
+[后有风暴](OpenSea_StormBehind.md)  |  被动  |  加成+0  
+[后有风暴](OpenSea_StormBehindInfinite.md)  |  被动  |  加成+0  
+[前有风暴](OpenSea_StormFront.md)  |  被动  |  加成+0  
+[大雨](TropicalIsland_HeavyRain.md)  |  被动  |  加成+0  
+[大雨](TropicalIsland_HeavyRainInfinite.md)  |  被动  |  加成+0  
+[大雨](TropicalIsland_HeavyRainLong.md)  |  被动  |  加成+0  
+[大雨](TropicalIsland_HeavyRainStart.md)  |  被动  |  加成+0  
+[暴风雨](TropicalIsland_Storm.md)  |  被动  |  加成+0  
+[暴风雨](TropicalIsland_StormInfinite.md)  |  被动  |  加成+0  
+[暴风雨](TropicalIsland_StormStart.md)  |  被动  |  加成+0  
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

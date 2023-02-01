@@ -5,7 +5,7 @@
   
   石屋  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[石屋(环境)](Env_StoneHut.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-1<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [石屋扩建](Imp_StoneHutExpansion.md) , [白墙](Imp_WhiteWashedWalls.md) , [皮地毯](Imp_StitchedHideFloor.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/StoneHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[石屋(环境)](Env_StoneHut.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-1<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 容量： **70000<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [石屋扩建](Imp_StoneHutExpansion.md) , [白墙](Imp_WhiteWashedWalls.md) , [皮地毯](Imp_StitchedHideFloor.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/StoneHut.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

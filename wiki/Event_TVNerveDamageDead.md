@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Collar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+死亡  |  [真人秀直播](TV_Lives.md): 0-0  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

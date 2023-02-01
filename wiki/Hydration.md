@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 180   
 #### ** 变化范围: ** 0 ~ 288  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -19,12 +19,12 @@
 ## 加成值影响因素  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[鱼干](FishDried.md)  |  食用  |  加成0  
-[咸鱼](FishSalted.md)  |  食用  |  加成0  
-[卡瓦根](KavaRoot.md)  |  食用  |  加成0  
-[捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  加成0  
-[蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  加成0  
-[果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  加成0  
+[鱼干](FishDried.md)  |  食用  |  加成+0  
+[咸鱼](FishSalted.md)  |  食用  |  加成+0  
+[卡瓦根](KavaRoot.md)  |  食用  |  加成+0  
+[捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  加成+0  
+[蜂蜜西米饼](SagoFlatbreadHoney.md)  |  食用  |  加成+0  
+[果酱西米饼](SagoFlatbreadJam.md)  |  食用  |  加成+0  
 [鱼人皮肤](Pk_3_PermeableSkin.md)  |  特质影响  |  加成-1  
 ## 可被以下操作改变  
 来源  |  操作  |  值  

@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 300  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,15 +29,15 @@
 [监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  50  
 [监视者(事件)](Event_WatchedExperience1gVoid.md)  |  没有什么在监视你  |  50  
 [韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)  |  继续  |  50  
-[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  50  
-[鼓](Drum.md)  |  入迷击鼓  |  16  
-[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  16  
-[鼓](Drum.md)  |  激昂的节奏  |  8  
-[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  8  
-[鼓](Drum.md)  |  跃动的节奏  |  4  
-[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  4  
-[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  3  
-[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  2  
+[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  50 / 每15分钟  
+[鼓](Drum.md)  |  入迷击鼓  |  16 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  16 / 每15分钟  
+[鼓](Drum.md)  |  激昂的节奏  |  8 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  8 / 每15分钟  
+[鼓](Drum.md)  |  跃动的节奏  |  4 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  4 / 每15分钟  
+[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  3 / 每15分钟  
+[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  2 / 每15分钟  
 [脚踏实地](Pk_4_DownToEarth.md)  |  特质影响  |  -1000  
 ## 被以下操作需求  
 来源  |  操作  |  值  

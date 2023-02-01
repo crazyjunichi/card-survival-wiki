@@ -5,7 +5,7 @@
   
   稻秆  |   图片   
  ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/RiceStalks.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/RiceStalks.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

@@ -5,7 +5,7 @@
   
   火炉  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>**标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md) , [“喂/添加”](tag_Feed.md) , [“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/StoveOff.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>**标签：**	[“火”](tag_Fire.md)<br><br>**槽位：**4<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md) , [“饲料”](tag_Feed.md) , [“肉”](tag_Meat.md)  |  <img decoding="async" src="Sprite/StoveOff.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

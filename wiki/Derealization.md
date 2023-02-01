@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 1000  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -19,12 +19,12 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  50  
-[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  50  
-[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  50  
-[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  50  
-[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  50  
-[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  50  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  50 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  50 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  50 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  50 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  50 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  50 / 每15分钟  
 [虚空灵视(事件)](Event_SpiritsEverywhere1g.md)  |  <b>难以忍受的精神痛苦！</b>  |  48 ~ 480  
 [虚空灵视(事件)](Event_VoidExperience1g.md)  |  我的精神正在崩塌！  |  48 ~ 480  
 [宿敌被打败了！(事件)](Event_EnemyFightSuccess.md)  |  胜利啦！  |  -250  

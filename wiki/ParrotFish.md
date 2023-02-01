@@ -5,7 +5,7 @@
   
   鹦哥鱼  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“生鱼”](tag_RawFish.md), [“鱼肉”](tag_Fish.md)  |  <img decoding="async" src="Sprite/ParrotFish.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“生鱼”](tag_RawFish.md), [“鱼肉”](tag_Fish.md)  |  <img decoding="async" src="Sprite/ParrotFish.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -47,7 +47,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Scraps] **<br>  [鱼杂](FishScraps.md)(+2)<br>  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+14<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)0～+100<br>[寄生虫](Parasites.md)0～+150  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Scraps] **<br>  [鱼杂](FishScraps.md)(+2)<br>  |  [饱食](Satiation.md)+15<br>[胃](Stomach.md)+14<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-2<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+35<br>[污垢](Filth.md)+5<br>[细菌性发烧](BacteriaFever.md)+0～+100<br>[寄生虫](Parasites.md)+0～+150  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Shipwreck.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+海洋探索进度  |  [探索岩滩](Exploration_Rocks.md): 20-20  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

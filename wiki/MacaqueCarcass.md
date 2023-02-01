@@ -5,7 +5,7 @@
   
   猕猴尸体  |   图片   
  ----  |  ----:   
- **重量：**750<br><br>**标签：**	[“喂”](tag_Meat.md)  |  <img decoding="async" src="Sprite/MacaqueCarcass.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**750<br><br>**标签：**	[“肉”](tag_Meat.md)  |  <img decoding="async" src="Sprite/MacaqueCarcass.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

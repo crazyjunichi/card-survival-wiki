@@ -5,6 +5,10 @@
  ----  |  ----:   
  ** 区域唯一 **<br><br>**环境：**[坑洞(环境)](Env_HighlandHole.md)  |  <img decoding="async" src="Sprite/Skeleton.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+一具骷髅！  |  [饱食](Satiation.md): 0-1000  |    
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

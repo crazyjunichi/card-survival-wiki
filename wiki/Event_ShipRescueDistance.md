@@ -5,6 +5,10 @@
  ----  |  ----:   
    |  <img decoding="async" src="Sprite/Ship.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
+## 触发条件  
+名称  |  条件  |  变化  
+----  |  ----  |  ----  
+到达目的地  |  [距离](Distance.md): 2016-2016  |  [睡眠中断](SleepInterrupt.md)+1  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

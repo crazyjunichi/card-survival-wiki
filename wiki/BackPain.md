@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 225  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,27 +21,27 @@
 [韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  56 ~ 90  
 [你昏过去了(事件)](Event_FaintDizzy.md)  |  继续  |  50  
 [你昏过去了(事件)](Event_FaintExhaustion.md)  |  继续  |  25  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  6  
-[窝棚](Shelter.md)  |  小憩  |  5  
-[窝棚](Shelter.md)  |  睡觉  |  5  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  5  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  5  
-[叶床](LeafBed.md)  |  小憩  |  4.5  
-[叶床](LeafBed.md)  |  睡觉  |  4.5  
-[人鱼巢](MermaidNest.md)  |  小憩  |  4.5  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  4.5  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  6 / 每15分钟  
+[窝棚](Shelter.md)  |  小憩  |  5 / 每15分钟  
+[窝棚](Shelter.md)  |  睡觉  |  5 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  5 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  5 / 每15分钟  
+[叶床](LeafBed.md)  |  小憩  |  4.5 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  4.5 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  4.5 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  4.5 / 每15分钟  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  4.5  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  4.5  
-[睡袋](BedRoll.md)  |  小憩  |  4  
-[睡袋](BedRoll.md)  |  睡觉  |  4  
-[帐篷](TentDeployed.md)  |  小憩  |  4  
-[帐篷](TentDeployed.md)  |  睡觉  |  4  
-[简易床](BedRustic.md)  |  小憩  |  3  
-[简易床](BedRustic.md)  |  睡觉  |  3  
-[吊床](Hammock.md)  |  小憩  |  3  
-[吊床](Hammock.md)  |  睡觉  |  3  
-[木床](BedWooden.md)  |  小憩  |  2.5  
-[木床](BedWooden.md)  |  睡觉  |  2.5  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  4.5 / 每15分钟  
+[睡袋](BedRoll.md)  |  小憩  |  4 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  4 / 每15分钟  
+[帐篷](TentDeployed.md)  |  小憩  |  4 / 每15分钟  
+[帐篷](TentDeployed.md)  |  睡觉  |  4 / 每15分钟  
+[简易床](BedRustic.md)  |  小憩  |  3 / 每15分钟  
+[简易床](BedRustic.md)  |  睡觉  |  3 / 每15分钟  
+[吊床](Hammock.md)  |  小憩  |  3 / 每15分钟  
+[吊床](Hammock.md)  |  睡觉  |  3 / 每15分钟  
+[木床](BedWooden.md)  |  小憩  |  2.5 / 每15分钟  
+[木床](BedWooden.md)  |  睡觉  |  2.5 / 每15分钟  
 
 
 <script>document.title="背痛 - 卡牌生存百科 Card Survival Wiki";</script>

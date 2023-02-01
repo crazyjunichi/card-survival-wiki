@@ -5,7 +5,7 @@
   
   木筏  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[木筏(环境)](Env_Raft.md)<br><br>** 环境效果: **<br>[光亮](Light.md)+10<br>[内陆恐惧症](LandSickness.md)加成-8<br><br>** 可改造项目: **<br>[扩建木筏(1)](Imp_RaftExpansion1.md) , [扩建木筏(2)](Imp_RaftExpansion2.md) , [皮地毯(木筏)](Imp_RaftStitchedHideFloor.md)  |  <img decoding="async" src="Sprite/RaftSailed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[木筏(环境)](Env_Raft.md)<br><br>** 环境效果: **<br>[光亮](Light.md)+10<br>[内陆恐惧症](LandSickness.md)加成-8<br><br>** 容量： **7000<br><br>** 可改造项目: **<br>[扩建木筏(1)](Imp_RaftExpansion1.md) , [扩建木筏(2)](Imp_RaftExpansion2.md) , [皮地毯(木筏)](Imp_RaftStitchedHideFloor.md)  |  <img decoding="async" src="Sprite/RaftSailed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

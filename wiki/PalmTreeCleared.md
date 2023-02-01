@@ -20,7 +20,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-练习攀爬<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[攀爬动作受限](ModifierClimb.md): 0-2  |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Fall - Abrasion] **<br>  [坠落！(事件)](Event_FallAbrasion.md)(+1)<br>基础权重：1<br>** [Fall - Bruises] **<br>  [坠落！(事件)](Event_FallBruise.md)(+1)<br>基础权重：1<br>** [Success] **<br>基础权重：8<li>[攀爬(技能)](Skill_Climbing.md)为0～150时权重0～+150</li><li>[降水值](RainValue.md)为1～5时权重-4～-25</li><li>[绳子](Rope.md)存在于*手中*，权重+6</li>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
+练习攀爬<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[攀爬动作受限](ModifierClimb.md): 0-2  |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Fall - Abrasion] **<br>  [坠落！(事件)](Event_FallAbrasion.md)(+1)<br>基础权重：1<br>** [Fall - Bruises] **<br>  [坠落！(事件)](Event_FallBruise.md)(+1)<br>基础权重：1<br>** [Success] **<br>基础权重：8<li>[攀爬(技能)](Skill_Climbing.md)为0～150时权重+0～+150</li><li>[降水值](RainValue.md)为1～5时权重-4～-25</li><li>[绳子](Rope.md)存在于*手中*，权重+6</li>  |  [耐力](Stamina.md)-6<br>[足部损伤](FootDamage.md)+8<br>[污垢](Filth.md)+6<br>[攀爬(技能)](Skill_Climbing.md)+1  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

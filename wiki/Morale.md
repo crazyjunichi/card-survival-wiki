@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** -350 ~ 350  
-#### ** 基础变化率: ** 0 / 每15分钟  
+#### ** 基础变化率: ** 无   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -31,16 +31,16 @@
 [贝壳项链](SeashellNecklace.md)  |  被动  |  加成+0.25  
 [月季](ChinaRoseFlowers.md)  |  被动  |  加成+0.25  
 [香茅蜡烛(开)](CandleCitronellaOn.md)  |  被动  |  加成+0.25  
-[干辣椒](ChiliesDried.md)  |  食用  |  加成0  
-[月季](ChinaRoseFlowers.md)  |  食用  |  加成0  
-[鱼干](FishDried.md)  |  食用  |  加成0  
-[咸鱼](FishSalted.md)  |  食用  |  加成0  
-[柠檬草](LemongrassStalks.md)  |  食用  |  加成0  
-[虾](Prawns.md)  |  食用  |  加成0  
-[煮熟的参薯](YamBoiled.md)  |  食用  |  加成0  
-[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  加成0  
-[蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  加成0  
-[糖水](LQ_SugarWater.md)  |  饮用  |  加成0  
+[干辣椒](ChiliesDried.md)  |  食用  |  加成+0  
+[月季](ChinaRoseFlowers.md)  |  食用  |  加成+0  
+[鱼干](FishDried.md)  |  食用  |  加成+0  
+[咸鱼](FishSalted.md)  |  食用  |  加成+0  
+[柠檬草](LemongrassStalks.md)  |  食用  |  加成+0  
+[虾](Prawns.md)  |  食用  |  加成+0  
+[煮熟的参薯](YamBoiled.md)  |  食用  |  加成+0  
+[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  加成+0  
+[蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  加成+0  
+[糖水](LQ_SugarWater.md)  |  饮用  |  加成+0  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
 [崩解烙印](W_UnravellingMark.md)  |  条件被动  |  加成-1  
 [悲观主义](Pk_4_Pessimistic.md)  |  特质影响  |  加成-2  
@@ -343,11 +343,11 @@
 [海(红树林)](Sea_Mangroves.md)  |  潜水  |  4  
 [海](Sea_Raft.md)  |  潜水  |  4  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  4  
-[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  3  
-[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  3  
-[鼓](Drum.md)  |  跃动的节奏  |  3  
-[鼓](Drum.md)  |  激昂的节奏  |  3  
-[鼓](Drum.md)  |  入迷击鼓  |  3  
+[鼓(事件)](Event_DrumMenu.md)  |  跃动的节奏  |  3 / 每15分钟  
+[鼓(事件)](Event_DrumMenu.md)  |  激昂的节奏  |  3 / 每15分钟  
+[鼓](Drum.md)  |  跃动的节奏  |  3 / 每15分钟  
+[鼓](Drum.md)  |  激昂的节奏  |  3 / 每15分钟  
+[鼓](Drum.md)  |  入迷击鼓  |  3 / 每15分钟  
 [烤鸟肉](BirdMeatCooked.md)  |  食用  |  3  
 [烟熏鸟肉](BirdMeatSmoked.md)  |  食用  |  3  
 [烤北梭鱼](BonefishCooked.md)  |  食用  |  3  
@@ -368,12 +368,12 @@
 [烤蛇肉](SnakeCooked.md)  |  食用  |  3  
 [烤马鲅鱼](ThreadfinCooked.md)  |  食用  |  3  
 [烟熏马鲅鱼](ThreadfinSmoked.md)  |  食用  |  3  
-[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  3  
-[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  3  
-[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  3  
-[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  3  
-[木床](BedWooden.md)  |  小憩  |  2  
-[木床](BedWooden.md)  |  睡觉  |  2  
+[蜥蜴皮手鼓](LizardDrum.md)  |  跃动的节奏  |  3 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  3 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  3 / 每15分钟  
+[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  3 / 每15分钟  
+[木床](BedWooden.md)  |  小憩  |  2 / 每15分钟  
+[木床](BedWooden.md)  |  睡觉  |  2 / 每15分钟  
 [烟熏炉](Smoker.md)  |  烧制陶瓶  |  2  
 [烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶瓶  |  2  
 [鱼饵(蓝图)](Bp_FishBait.md)  |  蓝图制造  |  2  
@@ -389,13 +389,13 @@
 [布袋(蓝图)](Bp_Sack.md)  |  蓝图制造  |  2  
 [左脚（内层）(蓝图)](InnerLeftFootBlueprint.md)  |  制作包脚布  |  2  
 [左脚（外层）(蓝图)](OuterLeftFootBlueprint.md)  |  制作包脚布  |  2  
-[鼓(事件)](Event_DrumMenu.md)  |  练习  |  2  
+[鼓(事件)](Event_DrumMenu.md)  |  练习  |  2 / 每15分钟  
 [布](Cloth.md)  |  制作绷带  |  2  
 [布](Cloth.md)  |  制作包脚布  |  2  
 [布](Cloth.md)  |  制作绑手带  |  2  
 [婴儿](Baby.md)  |  喂奶  |  2  
 [婴儿](Baby.md)  |  哄哄  |  2  
-[鼓](Drum.md)  |  练习  |  2  
+[鼓](Drum.md)  |  练习  |  2 / 每15分钟  
 [香蕉](Banana.md)  |  食用  |  2  
 [烤蝙蝠](BatCooked.md)  |  食用  |  2  
 [鸟肉](BirdMeat.md)  |  食用  |  2  
@@ -411,29 +411,29 @@
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  2  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  2  
 [木斧柄](HandleWood.md)  |  制作石斧  |  2  
-[蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  2  
+[蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  2 / 每15分钟  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  2  
 [茉莉花茶](LQ_JasmineTea.md)  |  饮用  |  2  
 [高处](HighPoint.md)  |  调查  |  2  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  2  
-[吊床](Hammock.md)  |  小憩  |  1.75  
-[吊床](Hammock.md)  |  睡觉  |  1.75  
-[简易床](BedRustic.md)  |  小憩  |  1.5  
-[简易床](BedRustic.md)  |  睡觉  |  1.5  
-[睡袋](BedRoll.md)  |  小憩  |  1.25  
-[睡袋](BedRoll.md)  |  睡觉  |  1.25  
-[叶床](LeafBed.md)  |  小憩  |  1.25  
-[叶床](LeafBed.md)  |  睡觉  |  1.25  
-[人鱼巢](MermaidNest.md)  |  小憩  |  1.25  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  1.25  
-[窝棚](Shelter.md)  |  小憩  |  1.25  
-[窝棚](Shelter.md)  |  睡觉  |  1.25  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  1.25  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  1.25  
-[帐篷](TentDeployed.md)  |  小憩  |  1.25  
-[帐篷](TentDeployed.md)  |  睡觉  |  1.25  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  1.25  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  1.25  
+[吊床](Hammock.md)  |  小憩  |  1.75 / 每15分钟  
+[吊床](Hammock.md)  |  睡觉  |  1.75 / 每15分钟  
+[简易床](BedRustic.md)  |  小憩  |  1.5 / 每15分钟  
+[简易床](BedRustic.md)  |  睡觉  |  1.5 / 每15分钟  
+[睡袋](BedRoll.md)  |  小憩  |  1.25 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  1.25 / 每15分钟  
+[叶床](LeafBed.md)  |  小憩  |  1.25 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  1.25 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  1.25 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  1.25 / 每15分钟  
+[窝棚](Shelter.md)  |  小憩  |  1.25 / 每15分钟  
+[窝棚](Shelter.md)  |  睡觉  |  1.25 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  1.25 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  1.25 / 每15分钟  
+[帐篷](TentDeployed.md)  |  小憩  |  1.25 / 每15分钟  
+[帐篷](TentDeployed.md)  |  睡觉  |  1.25 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  1.25 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  1.25 / 每15分钟  
 [营火](Campfire.md)  |  制作简易长矛  |  1  
 [粘土火盆](ClayFirePit.md)  |  制作简易长矛  |  1  
 [火堆](Fire.md)  |  制作简易长矛  |  1  
@@ -655,12 +655,12 @@
 [忠犬朋友](DogFriend.md)  |  杀害！  |  -100  
 [猕猴朋友](MacaqueFriend.md)  |  杀害！  |  -100  
 [韦斯顿](Weston.md)  |  杀害！  |  -100  
-[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -200  
-[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -200  
-[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -200  
-[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -200  
-[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -200  
-[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -200  
+[监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1d.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1e.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
+[监视者(事件)](Event_WatchedExperience1f.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

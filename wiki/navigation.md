@@ -12,11 +12,11 @@
 -   [可选角色](character_preset.md)
 -   [角色特性](pk.md)
 
-[物品]()
+[物体]()
 
--   [普通](object.md)
--   [特殊](unportable.md)
--   [建筑](building.md)
+-   [普通物品](object.md)
+-   [不可携带](unportable.md)
+-   [区域物体](building.md)
 -   [标签](tag.md)
 
 [地点]()
@@ -25,7 +25,7 @@
 
 [蓝图](blueprint.md)
 
-[状态]()
+[机制]()
 
 -   [状态](stat.md)
 -   [事件](event.md)
@@ -35,6 +35,7 @@
 
 -   [天气](weather.md)
 -   [液体](liquid.md)
+-   [伤口](wound.md)
 -   [休息](time_skip.md)
 
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css" />

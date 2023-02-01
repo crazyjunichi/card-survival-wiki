@@ -5,7 +5,7 @@
   
   西米粉  |   图片   
  ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/SagoFlour.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)  |  <img decoding="async" src="Sprite/SagoFlour.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

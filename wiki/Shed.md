@@ -5,7 +5,7 @@
   
   棚屋  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[棚屋(环境)](Env_Shed.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [棚屋扩建](Imp_ShedExpansion.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 相关损坏: **<br>[屋顶损坏](Dmg_RoofDamage.md) , [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  <img decoding="async" src="Sprite/Shed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[棚屋(环境)](Env_Shed.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 容量： **15000<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [棚屋扩建](Imp_ShedExpansion.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 相关损坏: **<br>[屋顶损坏](Dmg_RoofDamage.md) , [坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)  |  <img decoding="async" src="Sprite/Shed.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

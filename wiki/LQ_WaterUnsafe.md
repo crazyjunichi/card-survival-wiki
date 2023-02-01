@@ -21,7 +21,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+40<br>[细菌性发烧](BacteriaFever.md)0～+350<br>[细菌性腹泻](BacteriaDiarrhoea.md)+50～+350<br>[寄生虫](Parasites.md)0～+150  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -250<br>含水量  -300  |  [水分](Hydration.md)+40<br>[细菌性发烧](BacteriaFever.md)+0～+350<br>[细菌性腹泻](BacteriaDiarrhoea.md)+50～+350<br>[寄生虫](Parasites.md)+0～+150  
 洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>使用次数  -1<br>含水量  -300<br><br>** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料 + 6<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100 (每15分钟)<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

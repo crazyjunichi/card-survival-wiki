@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 100  
-#### ** 基础变化率: ** -20 / 每15分钟  
+#### ** 基础变化率: ** -20 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -28,40 +28,40 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [我游不动了……(事件)](Event_SwimFail.md)  |  游回去  |  200  
-[隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  200  
-[荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  200  
-[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  200  
-[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  200  
-[鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  200  
-[鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  200  
+[隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  200 / 每15分钟  
+[荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)  |  游泳  |  200 / 每15分钟  
+[岩滩(鸟岩岛)](Path_BirdRockToRocks.md)  |  游泳  |  200 / 每15分钟  
+[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  |  200 / 每15分钟  
+[鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  |  200 / 每15分钟  
+[鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  |  200 / 每15分钟  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  200  
 [水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  200  
 [风太大了！(事件)](Event_Flood.md)  |  躲避一会  |  100  
 [风太大了！(事件)](Event_Storm.md)  |  躲避狂风暴雨  |  100  
-[潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  100  
-[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  洗个澡  |  100  
-[水](LQ_Water.md)  |  洗个澡  |  100  
-[盐水](LQ_WaterSalt.md)  |  洗个澡  |  100  
-[有毒的水](LQ_WaterToxic.md)  |  洗个澡  |  100  
-[不安全的水](LQ_WaterUnsafe.md)  |  洗个澡  |  100  
+[潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  100 / 每15分钟  
+[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  洗个澡  |  100 / 每15分钟  
+[水](LQ_Water.md)  |  洗个澡  |  100 / 每15分钟  
+[盐水](LQ_WaterSalt.md)  |  洗个澡  |  100 / 每15分钟  
+[有毒的水](LQ_WaterToxic.md)  |  洗个澡  |  100 / 每15分钟  
+[不安全的水](LQ_WaterUnsafe.md)  |  洗个澡  |  100 / 每15分钟  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  100  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  洗个澡  |  100  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  洗个澡  |  100 / 每15分钟  
 [海(环礁)](Sea_Atoll.md)  |  潜水  |  100  
-[海(环礁)](Sea_Atoll.md)  |  洗个澡  |  100  
+[海(环礁)](Sea_Atoll.md)  |  洗个澡  |  100 / 每15分钟  
 [海(海湾)](Sea_Bay.md)  |  潜水  |  100  
-[海(海湾)](Sea_Bay.md)  |  洗个澡  |  100  
+[海(海湾)](Sea_Bay.md)  |  洗个澡  |  100 / 每15分钟  
 [海(沙滩)](Sea_Beach.md)  |  潜水  |  100  
-[海(沙滩)](Sea_Beach.md)  |  洗个澡  |  100  
+[海(沙滩)](Sea_Beach.md)  |  洗个澡  |  100 / 每15分钟  
 [海(沙滩)](Sea_Cove.md)  |  潜水  |  100  
-[海(沙滩)](Sea_Cove.md)  |  洗个澡  |  100  
+[海(沙滩)](Sea_Cove.md)  |  洗个澡  |  100 / 每15分钟  
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  |  100  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  洗个澡  |  100  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  洗个澡  |  100 / 每15分钟  
 [海(红树林)](Sea_Mangroves.md)  |  潜水  |  100  
-[海(红树林)](Sea_Mangroves.md)  |  洗个澡  |  100  
-[海](Sea_Raft.md)  |  潜水  |  100  
-[海](Sea_Raft.md)  |  洗个澡  |  100  
+[海(红树林)](Sea_Mangroves.md)  |  洗个澡  |  100 / 每15分钟  
+[海](Sea_Raft.md)  |  潜水  |  100 / 每15分钟  
+[海](Sea_Raft.md)  |  洗个澡  |  100 / 每15分钟  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  100  
-[海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  100  
+[海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  100 / 每15分钟  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  100  
 [海(环礁)](Sea_Atoll.md)  |  叉鱼  |  60  
 [海(海湾)](Sea_Bay.md)  |  叉鱼  |  60  

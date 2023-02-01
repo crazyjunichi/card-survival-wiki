@@ -5,7 +5,7 @@
   
   套索陷阱  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**1<br><br>**过滤器：**[“喂/添加”](tag_Feed.md) , [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/SnareTrapTriggered.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**1<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/SnareTrapTriggered.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

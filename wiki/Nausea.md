@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 24  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,26 +22,26 @@
 [茉莉精油](LQ_OilJasmine.md)  |  饮用  |  75  
 [茉莉油混合物](LQ_OilJasmineMix.md)  |  饮用  |  75  
 [灰水](LQ_AshWater.md)  |  饮用  |  50  
-[吊床](Hammock.md)  |  睡觉  |  -1  
-[睡袋](BedRoll.md)  |  小憩  |  -1.5  
-[睡袋](BedRoll.md)  |  睡觉  |  -1.5  
-[吊床](Hammock.md)  |  小憩  |  -1.5  
-[叶床](LeafBed.md)  |  小憩  |  -1.5  
-[叶床](LeafBed.md)  |  睡觉  |  -1.5  
-[人鱼巢](MermaidNest.md)  |  小憩  |  -1.5  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  -1.5  
-[窝棚](Shelter.md)  |  小憩  |  -1.5  
-[窝棚](Shelter.md)  |  睡觉  |  -1.5  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1.5  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1.5  
-[帐篷](TentDeployed.md)  |  小憩  |  -1.5  
-[帐篷](TentDeployed.md)  |  睡觉  |  -1.5  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  -1.5  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1.5  
-[简易床](BedRustic.md)  |  小憩  |  -1.75  
-[简易床](BedRustic.md)  |  睡觉  |  -1.75  
-[木床](BedWooden.md)  |  小憩  |  -2  
-[木床](BedWooden.md)  |  睡觉  |  -2  
+[吊床](Hammock.md)  |  睡觉  |  -1 / 每15分钟  
+[睡袋](BedRoll.md)  |  小憩  |  -1.5 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  -1.5 / 每15分钟  
+[吊床](Hammock.md)  |  小憩  |  -1.5 / 每15分钟  
+[叶床](LeafBed.md)  |  小憩  |  -1.5 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  -1.5 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  -1.5 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  -1.5 / 每15分钟  
+[窝棚](Shelter.md)  |  小憩  |  -1.5 / 每15分钟  
+[窝棚](Shelter.md)  |  睡觉  |  -1.5 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1.5 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1.5 / 每15分钟  
+[帐篷](TentDeployed.md)  |  小憩  |  -1.5 / 每15分钟  
+[帐篷](TentDeployed.md)  |  睡觉  |  -1.5 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  -1.5 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  -1.5 / 每15分钟  
+[简易床](BedRustic.md)  |  小憩  |  -1.75 / 每15分钟  
+[简易床](BedRustic.md)  |  睡觉  |  -1.75 / 每15分钟  
+[木床](BedWooden.md)  |  小憩  |  -2 / 每15分钟  
+[木床](BedWooden.md)  |  睡觉  |  -2 / 每15分钟  
 [呕吐！(事件)](Event_Vomit.md)  |  呕呕呕……  |  -12  
 [韦斯顿(Special2e)(事件)](Event_WestonSpecial2e.md)  |  Thanks Wes.  |  -20  
 ## 被以下操作需求  

@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 5000   
 #### ** 变化范围: ** 0 ~ 5000  
-#### ** 基础变化率: ** +1 / 每15分钟  
+#### ** 基础变化率: ** +1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -70,28 +70,28 @@
 [辣炒巨蜥肉](LizardFry.md)  |  食用  |  15  
 [参薯咖喱](YamCurry.md)  |  食用  |  15  
 [参薯酱](YamJam.md)  |  食用  |  15  
-[木床](BedWooden.md)  |  睡觉  |  6  
+[木床](BedWooden.md)  |  睡觉  |  6 / 每15分钟  
 [蛋白棒](ProteinBar.md)  |  食用  |  5  
-[简易床](BedRustic.md)  |  睡觉  |  4  
-[吊床](Hammock.md)  |  睡觉  |  4  
-[木床](BedWooden.md)  |  小憩  |  3  
-[睡袋](BedRoll.md)  |  睡觉  |  2  
-[简易床](BedRustic.md)  |  小憩  |  2  
-[吊床](Hammock.md)  |  小憩  |  2  
-[叶床](LeafBed.md)  |  睡觉  |  2  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  2  
-[窝棚](Shelter.md)  |  睡觉  |  2  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  2  
-[帐篷](TentDeployed.md)  |  睡觉  |  2  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  2  
-[睡袋](BedRoll.md)  |  小憩  |  1  
-[叶床](LeafBed.md)  |  小憩  |  1  
-[人鱼巢](MermaidNest.md)  |  小憩  |  1  
-[窝棚](Shelter.md)  |  小憩  |  1  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  1  
-[帐篷](TentDeployed.md)  |  小憩  |  1  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  1  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  1  
+[简易床](BedRustic.md)  |  睡觉  |  4 / 每15分钟  
+[吊床](Hammock.md)  |  睡觉  |  4 / 每15分钟  
+[木床](BedWooden.md)  |  小憩  |  3 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  2 / 每15分钟  
+[简易床](BedRustic.md)  |  小憩  |  2 / 每15分钟  
+[吊床](Hammock.md)  |  小憩  |  2 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  2 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  2 / 每15分钟  
+[窝棚](Shelter.md)  |  睡觉  |  2 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  2 / 每15分钟  
+[帐篷](TentDeployed.md)  |  睡觉  |  2 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  睡觉  |  2 / 每15分钟  
+[睡袋](BedRoll.md)  |  小憩  |  1 / 每15分钟  
+[叶床](LeafBed.md)  |  小憩  |  1 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  1 / 每15分钟  
+[窝棚](Shelter.md)  |  小憩  |  1 / 每15分钟  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  1 / 每15分钟  
+[帐篷](TentDeployed.md)  |  小憩  |  1 / 每15分钟  
+[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  1 / 每15分钟  
+[木筏庇护所](RaftShelter.md)  |  小憩  |  1 / 每15分钟  
 [虫子](Bugs.md)  |  食用  |  -10  
 [监视者(事件)](Event_WatchedExperience1a.md)  |  盯回去  |  -100  
 [监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -100  

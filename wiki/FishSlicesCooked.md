@@ -5,7 +5,7 @@
   
   烤鱼片  |   图片   
  ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“喂/添加”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/FishSlicesCooked.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**10<br><br>**标签：**	[“饲料”](tag_Feed.md), [“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/FishSlicesCooked.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

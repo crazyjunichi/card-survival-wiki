@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) , [鸟食](FeedBird.md)  |  添入  
-[灰山鹑喂食器(空)](PartridgeFeederEmpty.md) , [“喂/添加”](tag_Feed.md)  |  添入  
+[灰山鹑喂食器(空)](PartridgeFeederEmpty.md) , [“饲料”](tag_Feed.md)  |  添入  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,7 +22,7 @@
 [蛋](Egg.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 72<br><br>** 使用物: **<br>消失  |    
 [鸟食](FeedBird.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 3072<br><br>** 使用物: **<br>消失  |    
 [“诱饵”](tag_Bait.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>消失  |    
-[“喂/添加”](tag_Feed.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>消失  |    
+[“饲料”](tag_Feed.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

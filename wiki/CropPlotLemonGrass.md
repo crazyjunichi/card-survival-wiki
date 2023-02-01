@@ -45,7 +45,7 @@ Underwatered  |  ** 需要属性：**<br>水分<img decoding="async" src="Sprite
 Mite Infestation  |  ** 需要属性：**<br>螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">: 50～100  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
 Fungal Infestation  |  ** 需要属性：**<br>真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">: 144～288  |  健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
 Humid  |  ** 需要存在卡牌：**<br>[“潮湿环境”](tag_EnvHumid.md)  |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+0.75<br>成熟度-0.25  |    
-Dry  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">0<br>成熟度+0.25  |    
+Dry  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)  |  螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:20px;max-height:20px;">+0<br>成熟度+0.25  |    
 Fertile  |  ** 需要存在卡牌：**<br>[“肥沃环境”](tag_EnvFertile.md)  |  成熟度+0.25  |    
 Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+25  |    
 ## 其他效果  

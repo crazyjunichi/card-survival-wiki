@@ -5,7 +5,7 @@
   
   巨蜥肉干  |   图片   
  ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂/添加”](tag_Feed.md), [“喂”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/MonitorMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/MonitorMeat.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

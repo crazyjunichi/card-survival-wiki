@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Coconuts] **<br>  [青椰子](CoconutHusked.md)(+1)<br>基础权重：1  |  [阻止抽到棕榈树](PalmTreeKiller.md)-1<br>[投石(技能)](Skill_RockThrowing.md)+1  
+继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Coconuts] **<br>  [青椰子](CoconutHusked.md)(+1)<br>可用次数：+1<br>基础权重：1  |  [阻止抽到棕榈树](PalmTreeKiller.md)-1<br>[投石(技能)](Skill_RockThrowing.md)+1  
 
 
 <script>document.title="成功了！ - 卡牌生存百科 Card Survival Wiki";</script>

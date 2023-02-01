@@ -3,7 +3,7 @@
   
   洞穴中层  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 环境效果: **<br>[降水值](RainValue.md)-5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-6<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[夜晚](IsNight.md)+1<br><br>** 可改造项目: **<br>[皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 可前往: **<br>[黑暗(区域)(阴暗洞穴)](DarkChamber.md)<br>[洞穴底层(区域)](LowChamber.md)  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md), [“洞穴系统”](tag_EnvCaveSystem.md)<br><br>** 效果: **<br>[舒适度](Comfort.md)-500<br><br>** 环境效果: **<br>[降水值](RainValue.md)-5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-6<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[夜晚](IsNight.md)+1<br><br>** 容量： **30000<br><br>** 可改造项目: **<br>[皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)<br><br>** 可前往: **<br>[黑暗(区域)(阴暗洞穴)](DarkChamber.md)<br>[洞穴底层(区域)](LowChamber.md)  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 探索  
 进度  |  目的地  
@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** 获得： **<br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br>** [Geode] **<br>  [晶洞](Geode.md)(+1)<br>基础权重：3<br>** [Flint] **<br>  [燧石](Flint.md)(+1)<br>基础权重：1<br>** [Flint Slab] **<br>  [燧石板](FlintSlab.md)(+1)<br>基础权重：1  |  [污垢](Filth.md)+2  
+探索<br>  |  15分  |  [光亮](Light.md): 5-100  |  ** 获得： **<br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：10<br>** [Geode] **<br>  [晶洞](Geode.md)(+1)<br>可用次数：+3<br>基础权重：3<br>** [Flint] **<br>  [燧石](Flint.md)(+1)<br>可用次数：+4<br>基础权重：1<br>** [Flint Slab] **<br>  [燧石板](FlintSlab.md)(+1)<br>可用次数：+1<br>基础权重：1  |  [污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

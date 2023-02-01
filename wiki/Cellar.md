@@ -5,7 +5,7 @@
   
   地窖  |   图片   
  ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[地窖(环境)](Env_Cellar.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-4<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 区域唯一 **<br><br>**环境：**[地窖(环境)](Env_Cellar.md)<br><br>**标签：**	[“室内”](tag_EnvIndoors.md)<br><br>** 环境效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-4<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br><br>** 容量： **30000<br><br>** 可改造项目: **<br>[门](Imp_Door.md) , [皮地毯](Imp_StitchedHideFloor.md) , [白墙](Imp_WhiteWashedWalls.md) , [海之荣耀](Imp_SeaTrophy.md) , [家园标志](Imp_HomeSign.md)  |  <img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -29,7 +29,7 @@ Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprit
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Preserve  |  [“喂/添加”](tag_Feed.md)<br>[“可烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久+0.25  |    
+Preserve  |  [“饲料”](tag_Feed.md)<br>[“可烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久+0.25  |    
 
 
 <script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,7 +3,7 @@
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 384  
-#### ** 基础变化率: ** -1 / 每15分钟  
+#### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -15,14 +15,14 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[睡袋](BedRoll.md)  |  小憩  |  -1  
-[睡袋](BedRoll.md)  |  睡觉  |  -1  
-[叶床](LeafBed.md)  |  小憩  |  -1  
-[叶床](LeafBed.md)  |  睡觉  |  -1  
-[人鱼巢](MermaidNest.md)  |  小憩  |  -1  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  -1  
+[睡袋](BedRoll.md)  |  小憩  |  -1 / 每15分钟  
+[睡袋](BedRoll.md)  |  睡觉  |  -1 / 每15分钟  
+[叶床](LeafBed.md)  |  小憩  |  -1 / 每15分钟  
+[叶床](LeafBed.md)  |  睡觉  |  -1 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  小憩  |  -1 / 每15分钟  
+[人鱼巢](MermaidNest.md)  |  睡觉  |  -1 / 每15分钟  
 [有遮蔽的叶床](ShelteredLeafBed.md)  |  小憩  |  -1  
-[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1  
+[有遮蔽的叶床](ShelteredLeafBed.md)  |  睡觉  |  -1 / 每15分钟  
 
 
 <script>document.title="蚊虫叮咬 - 卡牌生存百科 Card Survival Wiki";</script>
