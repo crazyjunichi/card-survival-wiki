@@ -17,5 +17,5 @@
 
 ---
 
-数据版本： Steam v1.03d
+数据版本： Steam v1.03 正式版
 [Wiki 更新日志](wiki_update.md)

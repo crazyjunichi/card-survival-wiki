@@ -7,11 +7,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 25  |  毫无抵抗力  |    |  [晕船](SeaSickness.md)  |    
-26 ～ 50  |  轻度抗性  |    |  [晕船](SeaSickness.md)加成-0.5  |    
-51 ～ 75  |  中度抗性  |    |  [晕船](SeaSickness.md)加成-1  |    
-76 ～ 100  |  高度抗性  |    |  [晕船](SeaSickness.md)加成-2  |    
-101 ～ 128  |  重度抗性  |    |  [晕船](SeaSickness.md)加成-4  |    
+0 ～ 25  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">毫无抵抗力  |    |  [晕船](SeaSickness.md)  |    
+26 ～ 50  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">轻度抗性  |    |  [晕船](SeaSickness.md)加成-0.5  |    
+51 ～ 75  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">中度抗性  |    |  [晕船](SeaSickness.md)加成-1  |    
+76 ～ 100  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">高度抗性  |    |  [晕船](SeaSickness.md)加成-2  |    
+101 ～ 128  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">重度抗性  |    |  [晕船](SeaSickness.md)加成-4  |    
 ## 相关卡牌  
 [晕船](SeaSickness.md)  
 ## 可被以下操作改变  
