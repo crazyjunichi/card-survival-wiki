@@ -12,11 +12,11 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  -  |    |  ** 自身: **<br>进度 + 100<br><br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Debris] **<br>  [石头](Stone.md)(+3～+6)<br>  |    
+[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  -  |    |  ** 自身: **<br>进度 + 100<br><br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Debris] **<br>  [石头](Stone.md)(+3～+6)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>→ [隧道入口(东部高地)](TunnelEntrance.md)  
+进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>自身→ [隧道入口(东部高地)](TunnelEntrance.md)  
 
 
 <script>document.title="坍塌的隧道入口 - 卡牌生存百科 Card Survival Wiki";</script>

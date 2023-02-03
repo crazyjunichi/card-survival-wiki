@@ -19,9 +19,9 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [驱虫膏](BugRepellent.md)  |  涂抹  |  96  
-[营火](Campfire.md)  |  添入蛇草  |  25  
-[粘土火盆](ClayFirePit.md)  |  添入蛇草  |  25  
-[火堆](Fire.md)  |  添入蛇草  |  25  
+[营火](Campfire.md)  |  添入蛇草<br>** 拖入：**[蛇草](SnakeGrass.md)  |  25  
+[粘土火盆](ClayFirePit.md)  |  添入蛇草<br>** 拖入：**[蛇草](SnakeGrass.md)  |  25  
+[火堆](Fire.md)  |  添入蛇草<br>** 拖入：**[蛇草](SnakeGrass.md)  |  25  
 [柠檬草](LemongrassStalks.md)  |  食用  |  10  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  -50  
 [潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  -50  

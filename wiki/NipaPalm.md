@@ -15,7 +15,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  割水椰子<br>  |  15分  |    |  ** 自身: **<br>→ [水椰树](NipaSapStation.md)<br><br>** 获得: **<br>** [Fruits] **<br>  [水椰子](NipaFruit.md)(+1)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+[“切割工具”](tag_Cutter.md)<br>[“斧”](tag_Axe.md)  |  割水椰子<br>  |  15分  |    |  ** 自身: **<br>→ [水椰树](NipaSapStation.md)<br><br>** 获得: **<br>** [Fruits] **<br>  [水椰子](NipaFruit.md)(+1)<br>  |  [药草学(技能)](Skill_Herbology.md)+0.5  
 
 
 <script>document.title="水椰 - 卡牌生存百科 Card Survival Wiki";</script>

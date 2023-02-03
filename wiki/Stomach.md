@@ -168,7 +168,7 @@
 [弹涂鱼](Mudskipper.md)  |  食用  |  4  
 [牡蛎肉](OysterMeat.md)  |  食用  |  4  
 [小灰山鹑尸体](PartridgeChickDead.md)  |  食用  |  4  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  4  
+[腐烂物](RottenRemains.md)  |  食用  |  4  
 [野枣](JujubeFruits.md)  |  食用  |  3  
 [烤虾](PrawnsCooked.md)  |  食用  |  3  
 [姜茶](LQ_GingerTea.md)  |  饮用  |  3  

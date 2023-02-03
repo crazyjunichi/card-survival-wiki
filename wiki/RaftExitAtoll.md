@@ -18,7 +18,7 @@
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
-  |  [航行](Sailed.md): 1-1  |  消失  
+  |  [航行](Sailed.md): 1-1  |  →消失  
 
 
 <script>document.title="离开木筏 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [草木灰敷料(蓝图)](Bp_AshDressing.md)  |  蓝图制造  
-[布片](ClothSmall.md) , [灰烬](Ash.md)  |  制作草木灰敷料  
+[布片](ClothSmall.md)  |  制作草木灰敷料<br>** 拖入：**[灰烬](Ash.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -19,7 +19,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>→ [布片](ClothSmall.md)  
+耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>自身→ [布片](ClothSmall.md)  
 
 
 <script>document.title="草木灰敷料 - 卡牌生存百科 Card Survival Wiki";</script>

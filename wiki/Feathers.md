@@ -16,15 +16,15 @@
 [海鸥护符](SeagullCharm.md)  |  转化  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
 [灰山鹑遗骸](PartridgeCarcass.md)  |  采集  
-[灰山鹑尸体](PartridgeDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
-[灰山鹑尸体](PartridgeDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
-[雌灰山鹑](PartridgeFemaleEnclosure.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
-[雌灰山鹑](PartridgeFemaleLive.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
-[雄灰山鹑](PartridgeMaleEnclosure.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
-[雄灰山鹑](PartridgeMaleLive.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
+[灰山鹑尸体](PartridgeDead.md)  |  剖开<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[灰山鹑尸体](PartridgeDead.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[雌灰山鹑](PartridgeFemaleEnclosure.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[雌灰山鹑](PartridgeFemaleLive.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[雄灰山鹑](PartridgeMaleEnclosure.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[雄灰山鹑](PartridgeMaleLive.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [海鸥遗骸](SeagullCarcass.md)  |  处理  
-[海鸥尸体](SeagullDead.md) , [黑曜石刀](KnifeObsidian.md)  |  剖开  
-[海鸥尸体](SeagullDead.md) , [“切割工具”](tag_Cutter.md)  |  剖开  
+[海鸥尸体](SeagullDead.md)  |  剖开<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[海鸥尸体](SeagullDead.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [鸟岩岛(区域)](BirdRock.md)  |  探索  
 ## 可用于蓝图  
 - [箭矢(蓝图)](Bp_Arrow.md)  

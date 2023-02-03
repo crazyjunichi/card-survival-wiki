@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[烟熏炉](Smoker.md) , [未烧制的陶罐](ClayVaseUnfired.md)  |  烧制陶瓶  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [未烧制的陶罐](ClayVaseUnfired.md)  |  烧制陶瓶  
 [未烧制的陶罐](ClayVaseUnfired.md) , [窑炉](Kiln.md)  |  烧制陶罐  
 [未烧制的陶罐](ClayVaseUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制陶罐  
+[烟熏炉](Smoker.md)  |  烧制陶瓶<br>** 拖入：**[未烧制的陶罐](ClayVaseUnfired.md)  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶瓶<br>** 拖入：**[未烧制的陶罐](ClayVaseUnfired.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

@@ -5,7 +5,7 @@
   
   金鸡纳树皮粉  |   图片   
  ----  |  ----:   
- ** 解锁条件: **<br>[药草学(技能)](Skill_Herbology.md): 45-150<br><br>** 解锁需求: **<br>[金鸡纳树皮](BarkCinchona.md)  |  <img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 解锁条件: **<br>[药草学(技能)](Skill_Herbology.md): 45-150<br><br>** 解锁需求: **<br>[金鸡纳树皮](BarkCinchona.md)<br><br>** 动作分类: **<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  <img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  

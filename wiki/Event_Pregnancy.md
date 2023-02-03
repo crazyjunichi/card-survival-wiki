@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-分娩！<br>  |  1小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [1] **<br>  [婴儿](Baby.md)(+1)<br>  |  [情绪](Morale.md)+250<br>[耐力](Stamina.md)-20  
+分娩！<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [1] **<br>  [婴儿](Baby.md)(+1)<br>  |  [情绪](Morale.md)+250<br>[耐力](Stamina.md)-20  
 
 
 <script>document.title="时候已到！ - 卡牌生存百科 Card Survival Wiki";</script>

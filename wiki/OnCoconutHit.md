@@ -5,6 +5,11 @@
 ## 阶段  
 范围  |  名称  |  描述  |  影响状态  |  影响动作  
 ----  |  ----  |  ----  |  ----  |  ----  
+## 可被以下操作改变  
+来源  |  操作  |  值  
+----  |  ----  |  ----  
+[椰子树(旧)](PalmTreeOld.md)  |  击中椰子<br>** 拖入：**[石头](Stone.md)  |  1  
+[椰子树(旧)](PalmTreeOld.md)  |  派出猕猴<br>** 拖入：**[石头](Stone.md)  |  1  
 
 
 <script>document.title="击中椰子 - 卡牌生存百科 Card Survival Wiki";</script>

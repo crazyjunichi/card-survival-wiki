@@ -18,10 +18,10 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+1<br>最多需要：5天5小时  |  ** 到达上限时：擦伤 **<br>  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：500  |  每15分钟+1<br>最多需要：5天5小时  |  ** 到达上限时：擦伤 **<br><br>自身→消失  
 <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 <img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |    
-<img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：8<br>最大：8  |  -  |  ** 到达0时：刺已拔除！ **<br><br>→ [海胆刺伤](W_UrchinWound.md)  
+<img decoding="async" src="Sprite/UrchinSpines.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：8<br>最大：8  |  -  |  ** 到达0时：刺已拔除！ **<br><br>自身→ [海胆刺伤](W_UrchinWound.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

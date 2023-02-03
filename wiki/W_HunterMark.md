@@ -13,7 +13,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：168<br>最大：168  |  每15分钟-0.5<br>最多需要：3天12小时  |  ** 到达0时：手印消退 **<br>  
+<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：168<br>最大：168  |  每15分钟-0.5<br>最多需要：3天12小时  |  ** 到达0时：手印消退 **<br><br>自身→消失  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

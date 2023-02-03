@@ -19,7 +19,7 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |    
-进度  |  初始：0<br>最大：1440  |  -  |  ** 到达上限时： **<br>** [Result] **<br>  [硝石晶体(蝙蝠洞)](NiterCrystals.md)(+3)<br><br>→ [粪池](Cesspool.md)  
+进度  |  初始：0<br>最大：1440  |  -  |  ** 到达上限时： **<br>** [Result] **<br>  [硝石晶体](NiterCrystals.md)(+3)<br><br>自身→ [粪池](Cesspool.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

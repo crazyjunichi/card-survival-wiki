@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[蜂蜡](Beeswax.md) , [蜂蜡](Beeswax.md)  |  做蜂蜡块  
+[蜂蜡](Beeswax.md)  |  做蜂蜡块<br>** 拖入：**[蜂蜡](Beeswax.md)  
 ## 可用于蓝图  
 - [蜡烛(蓝图)](Bp_Candles.md)  
 - [香茅蜡烛(蓝图)](Bp_CandlesCitronella.md)  

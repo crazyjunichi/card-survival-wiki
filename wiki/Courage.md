@@ -16,93 +16,93 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  缝合  |  800 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  缝合  |  800 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  缝合  |  800 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  缝合  |  800 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  缝合  |  800 ~ 4000  
-[擦伤](W_Abrasion.md)  |  用海水清理  |  400 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用海水清理  |  400 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用海水清理  |  400 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用海水清理  |  400 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用海水清理  |  400 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用海水清理  |  400 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用海水清理  |  400 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用海水清理  |  400 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用海水清理  |  400 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用海水清理  |  400 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用海水清理  |  400 ~ 4000  
-[擦伤](W_Abrasion.md)  |  用肥皂清理  |  200 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用肥皂清理  |  200 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用肥皂清理  |  200 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用肥皂清理  |  200 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用肥皂清理  |  200 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用肥皂清理  |  200 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用肥皂清理  |  200 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用肥皂清理  |  200 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用肥皂清理  |  200 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用肥皂清理  |  200 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用肥皂清理  |  200 ~ 4000  
-[擦伤](W_Abrasion.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[擦伤](W_Abrasion.md)  |  用碱水清理  |  50 ~ 4000  
-[擦伤](W_Abrasion.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用碱水清理  |  50 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用碱水清理  |  50 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用碱水清理  |  50 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用碱水清理  |  50 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[狗咬伤](W_DogBite.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[狗咬伤](W_DogBite.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用碱水清理  |  50 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用碱水清理  |  50 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用碱水清理  |  50 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用碱水清理  |  50 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[猕猴咬伤](W_MacaqueBite.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[猕猴咬伤](W_MacaqueBite.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用碱水清理  |  50 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用碱水清理  |  50 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[巨蜥咬伤](W_MonitorBite.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[巨蜥咬伤](W_MonitorBite.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[海怪刺伤](W_SeahoundSting.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[海怪刺伤](W_SeahoundSting.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[鲨鱼咬伤](W_SharkBite.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[鲨鱼咬伤](W_SharkBite.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[蜘蛛咬伤](W_SpiderBite.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[蜘蛛咬伤](W_SpiderBite.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[海胆刺伤](W_UrchinWound.md)  |  用蜂蜜水清理  |  50 ~ 4000  
-[海胆刺伤](W_UrchinWound.md)  |  涂抹蜂蜜  |  50 ~ 4000  
-[擦伤](W_Abrasion.md)  |  用淡水清理  |  0 ~ 4000  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用淡水清理  |  0 ~ 4000  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用淡水清理  |  0 ~ 4000  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用淡水清理  |  0 ~ 4000  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用淡水清理  |  0 ~ 4000  
-[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  0 ~ 4000  
-[眼镜蛇毒液](W_CobraSpit.md)  |  用淡水清理  |  0 ~ 4000  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用淡水清理  |  0 ~ 4000  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用淡水清理  |  0 ~ 4000  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用淡水清理  |  0 ~ 4000  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用淡水清理  |  0 ~ 4000  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用淡水清理  |  0 ~ 4000  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用淡水清理  |  0 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  缝合<br>** 拖入：**[“针线”](tag_ThreadedNeedle.md)  |  800 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  缝合<br>** 拖入：**[“针线”](tag_ThreadedNeedle.md)  |  800 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  缝合<br>** 拖入：**[“针线”](tag_ThreadedNeedle.md)  |  800 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  缝合<br>** 拖入：**[“针线”](tag_ThreadedNeedle.md)  |  800 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  缝合<br>** 拖入：**[“针线”](tag_ThreadedNeedle.md)  |  800 ~ 4000  
+[擦伤](W_Abrasion.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  400 ~ 4000  
+[擦伤](W_Abrasion.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用肥皂清理<br>** 拖入：**[湿肥皂](SoapWet.md)  |  200 ~ 4000  
+[擦伤](W_Abrasion.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[擦伤](W_Abrasion.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[擦伤](W_Abrasion.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[狗咬伤](W_DogBite.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[狗咬伤](W_DogBite.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[猕猴咬伤](W_MacaqueBite.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[猕猴咬伤](W_MacaqueBite.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用碱水清理<br>** 拖入：**[碱液](LQ_Lye.md)  |  50 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[巨蜥咬伤](W_MonitorBite.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[巨蜥咬伤](W_MonitorBite.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[海怪刺伤](W_SeahoundSting.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[海怪刺伤](W_SeahoundSting.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[鲨鱼咬伤](W_SharkBite.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[鲨鱼咬伤](W_SharkBite.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[蜘蛛咬伤](W_SpiderBite.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[蜘蛛咬伤](W_SpiderBite.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[海胆刺伤](W_UrchinWound.md)  |  用蜂蜜水清理<br>** 拖入：**[蜂蜜水](LQ_HoneyWater.md)  |  50 ~ 4000  
+[海胆刺伤](W_UrchinWound.md)  |  涂抹蜂蜜<br>** 拖入：**[蜂蜜](LQ_Honey.md)  |  50 ~ 4000  
+[擦伤](W_Abrasion.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  0 ~ 4000  
+[眼镜蛇毒液](W_CobraSpit.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用淡水清理<br>** 拖入：**[“弱效清洁剂”](tag_CleanerWeak.md)  |  0 ~ 4000  
 
 
 <script>document.title="勇气 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,7 +16,9 @@
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  我的衣服保护了我！  |  7 ~ 10  
+[繁殖中的蜂群](BeeSkepSwarming.md)  |  影响  |  6 ~ 10  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  我的衣服一定程度上保护了我！  |  3 ~ 6.9  
+[繁殖中的蜂群](BeeSkepSwarming.md)  |  影响  |  0  
 [一群蜜蜂！(事件)](Event_BeesSwarming.md)  |  啊——！  |  0 ~ 2.9  
 
 

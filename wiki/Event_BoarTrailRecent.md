@@ -13,8 +13,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-跟随踪迹<br>  |  30分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Boar] **<br>  [我发现了一头野猪！(事件)](Event_BoarFight.md)(+1)<br>基础权重：50<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～+150</li><br>** [Recent Trail] **<br>  [近期的踪迹(事件)](Event_BoarTrailRecent.md)(+1)<br>基础权重：100<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～+100</li><br>** [Old Trail] **<br>  [老旧的踪迹(事件)](Event_BoarTrailOld.md)(+1)<br>基础权重：150<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～-50</li><br>** [Lost Trail] **<br>  [我跟丢了踪迹……(事件)](Event_BoarTrailLost.md)(+1)<br>基础权重：150<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～-1250</li><li>[光亮](Light.md)为+0时权重+10000</li>  |  [潜行(技能)](Skill_Stealth.md)+0.5  
-不管它<br>  |  -  |    |  ** 自身：**<br>消失  |    
+跟随踪迹<br>  |  30分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Boar] **<br>  [我发现了一头野猪！(事件)](Event_BoarFight.md)(+1)<br>基础权重：50<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～+150</li><br>** [Recent Trail] **<br>  [近期的踪迹(事件)](Event_BoarTrailRecent.md)(+1)<br>基础权重：100<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～+100</li><br>** [Old Trail] **<br>  [老旧的踪迹(事件)](Event_BoarTrailOld.md)(+1)<br>基础权重：150<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～-50</li><br>** [Lost Trail] **<br>  [我跟丢了踪迹……(事件)](Event_BoarTrailLost.md)(+1)<br>基础权重：150<li>[潜行(技能)](Skill_Stealth.md)为0～100时权重+0～-1250</li><li>[光亮](Light.md)为+0时权重+10000</li>  |  [潜行(技能)](Skill_Stealth.md)+0.5  
+不管它<br>  |  -  |    |  ** 自身：**<br>→消失  |    
 
 
 <script>document.title="近期的踪迹 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,23 +10,23 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[营火](Campfire.md) , [长木棍](StickLong.md)  |  制作简易长矛  
-[粘土火盆](ClayFirePit.md) , [长木棍](StickLong.md)  |  制作简易长矛  
-[火堆](Fire.md) , [长木棍](StickLong.md)  |  制作简易长矛  
-[烟熏炉](Smoker.md) , [长木棍](StickLong.md)  |  制作简易长矛  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [长木棍](StickLong.md)  |  制作简易长矛  
+[营火](Campfire.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  
+[粘土火盆](ClayFirePit.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  
+[火堆](Fire.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  
+[烟熏炉](Smoker.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  
 [简易长矛(蓝图)](Bp_RusticSpear.md)  |  蓝图制造  
-[长木棍](StickLong.md) , [“切割工具”](tag_Cutter.md)  |  削成简易长矛  
+[长木棍](StickLong.md)  |  削成简易长矛<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 训练<br>[手部动作](HandAction.md)  |  1小时  |    |  ** 自身：**<br>使用次数  -1  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+20  
 ## 可拖至  
-[海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海(鸟岩岛)](Sea_Rocks.md)  
+[青椰子](CoconutHusked.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [母山羊](GoatEnclosureFemale.md) | [小羊](GoatEnclosureKid.md) | [哺乳期山羊](GoatEnclosureLactating.md) | [公山羊](GoatEnclosureMale.md) | [母山羊](GoatTiedFemale.md) | [哺乳期山羊](GoatTiedFemaleLactating.md) | [小羊](GoatTiedKid.md) | [公山羊](GoatTiedMale.md) | [猕猴朋友](MacaqueFriend.md) | [海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海(鸟岩岛)](Sea_Rocks.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br><br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br><br>自身→ [小树枝](Sticks.md)  
 
 
 <script>document.title="简易长矛 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -10,18 +10,18 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[猕猴朋友](MacaqueFriend.md) , [青椰子](CoconutHusked.md)  |  剥椰子  
 [稻草人](Scarecrow.md)  |  拆除  
 [稻草人](Scarecrow.md)  |  转化  
 [礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
-[青椰子](CoconutHusked.md) , [“切割工具”](tag_Cutter.md)  |  剥  
-[青椰子](CoconutHusked.md) , [“锤”](tag_Axe.md)  |  剥  
-[青椰子](CoconutHusked.md) , [“锤”](tag_Hammer.md)  |  剥  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“斧”](tag_Axe.md)  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[猕猴朋友](MacaqueFriend.md)  |  剥椰子<br>** 拖入：**[青椰子](CoconutHusked.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  给椰子钻孔<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [带孔椰子](CoconutPerforated.md)<br><br>** 使用物: **<br>可用次数  -1  |  [压力](Stress.md)-10  
-[“锤”](tag_Hammer.md)  |  敲开椰子<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconut Halves] **<br>  [半个椰子](CoconutHalf.md)(+2)<br>基础权重：1  |  [压力](Stress.md)-10  
+[“锤”](tag_Hammer.md)  |  敲开椰子<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconut Halves] **<br>  [半个椰子](CoconutHalf.md)(+2)<br>基础权重：1  |  [压力](Stress.md)-10  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md)  
 ## 可用于蓝图  

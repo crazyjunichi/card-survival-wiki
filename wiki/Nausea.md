@@ -22,6 +22,8 @@
 [茉莉精油](LQ_OilJasmine.md)  |  饮用  |  75  
 [茉莉油混合物](LQ_OilJasmineMix.md)  |  饮用  |  75  
 [灰水](LQ_AshWater.md)  |  饮用  |  50  
+[肉食主义者](Pk_4_Carnivore.md)  |  食用蔬菜类动作  |  24  
+[素食主义者](Pk_4_Vegetarian.md)  |  食用肉类动作  |  24  
 [吊床](Hammock.md)  |  睡觉  |  -1 / 每15分钟  
 [睡袋](BedRoll.md)  |  小憩  |  -1.5 / 每15分钟  
 [睡袋](BedRoll.md)  |  睡觉  |  -1.5 / 每15分钟  

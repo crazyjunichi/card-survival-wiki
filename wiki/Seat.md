@@ -17,7 +17,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Axe.md)  |  拆解<br>[手部动作](HandAction.md)  |  2小时  |  [光亮](Light.md): 1-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Drops] **<br>  [大块的布](ClothLarge.md)(+1)<br>  [纤维](Fibers.md)(+6～+10)<br>  [金属废料](MetalScrap.md)(+1～+2)<br>  |  [污垢](Filth.md)+15  
+[“斧”](tag_Axe.md)  |  拆解<br>[手部动作](HandAction.md)  |  2小时  |  [光亮](Light.md): 1-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Drops] **<br>  [大块的布](ClothLarge.md)(+1)<br>  [纤维](Fibers.md)(+6～+10)<br>  [金属废料](MetalScrap.md)(+1～+2)<br>  |  [污垢](Filth.md)+15  
 
 
 <script>document.title="座椅 - 卡牌生存百科 Card Survival Wiki";</script>

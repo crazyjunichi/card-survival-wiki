@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[山羊尸体(母)](GoatCarcassFemale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体(母)](GoatCarcassFemale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
-[山羊尸体(公)](GoatCarcassMale.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[山羊尸体(公)](GoatCarcassMale.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,8 +22,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+3～+6)<br>  
-肉  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+3)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br><br>自身→消失  
+肉  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+3)<br><br>自身→消失  
 
 
 <script>document.title="剥皮的山羊 - 卡牌生存百科 Card Survival Wiki";</script>

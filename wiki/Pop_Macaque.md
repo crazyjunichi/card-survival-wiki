@@ -25,7 +25,7 @@
 [中陷阱的猕猴](CageTrapMacaque.md)  |  渴死了  |  -1000  
 [受伤的猕猴](MacaqueWounded.md)  |  转化  |  -1000  
 [受伤的猕猴](MacaqueWounded.md)  |  渴死了  |  -1000  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！  |  -20000  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  |  -20000  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [1] **<br>  [细线](CordFiber.md)(+10)<br>  [长木棍](StickLong.md)(+5)<br>  |    
+拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [1] **<br>  [细线](CordFiber.md)(+10)<br>  [长木棍](StickLong.md)(+5)<br>  |    
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

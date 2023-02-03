@@ -21,11 +21,11 @@
 [高级窑炉](KilnAdvanced.md)  |  转化  
 [火炉(熄灭)](StoveExtinguished.md)  |  取出木炭和灰烬  
 [烟熏炉](Smoker.md)  |  转化  
-[木炭](Charcoal.md) , [“锤”](tag_Hammer.md)  |  碾碎  
+[木炭](Charcoal.md)  |  碾碎<br>** 拖入：**[“锤”](tag_Hammer.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  浸泡<br>  |  -  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>→ [灰水](LQ_AshWater.md)  |    
+[“灌溉用水”](tag_WaterFresh.md)  |  浸泡<br>  |  -  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>→ [灰水](LQ_AshWater.md)  |    
 ## 可拖至  
 [泥堆](MudPile.md) | [粘土](Clay.md) | [布片](ClothSmall.md)  
 ## 可用于蓝图  

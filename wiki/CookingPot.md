@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[祖父](Grandfather.md) , [“可烹饪的”](tag_MealCookingpot.md)  |  喂食  
-[祖父(健康)](GrandfatherHealthy.md) , [“可烹饪的”](tag_MealCookingpot.md)  |  喂食  
 [未烧制的烹饪锅](CookingPotUnfired.md) , [窑炉](Kiln.md)  |  烧制烹饪锅  
 [未烧制的烹饪锅](CookingPotUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制烹饪锅  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  
 [骨头汤](BoneBroth.md)  |  转化  
 [未烹饪的骨头汤](BoneBrothUncooked.md)  |  丢弃  
 [未烹饪的骨头汤](BoneBrothUncooked.md)  |  转化  

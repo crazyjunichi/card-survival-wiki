@@ -17,13 +17,13 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  浇水<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 24<br><br>** 使用物: **<br>消失<br>含水量  -300  |    
-[潮汐池(岩滩)](TidePool.md)  |  浇水<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 24  |    
-[海藻](Seaweed.md)  |  修理巢<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>耐久 + 288<br><br>** 使用物: **<br>消失  |    
+[“水(任意)”](tag_WaterAny.md)  |  浇水<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 24<br><br>** 使用物: **<br>→消失<br>含水量  -300  |    
+[潮汐池(岩滩)](TidePool.md)<br>[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  浇水<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 24  |    
+[海藻](Seaweed.md)  |  修理巢<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>耐久 + 288<br><br>** 使用物: **<br>→消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br>  
+耐久  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br><br>自身→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：12<br>最大：24  |  每15分钟-1<br>最多需要：6小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

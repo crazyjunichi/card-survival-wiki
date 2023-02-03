@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
 
 
 <script>document.title="咖啡果 - 卡牌生存百科 Card Survival Wiki";</script>

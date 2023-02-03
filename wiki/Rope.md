@@ -13,7 +13,7 @@
 [睡袋](BedRoll.md)  |  拆解  
 [睡袋](BedRoll.md)  |  转化  
 [吊床](Hammock.md)  |  拆解  
-[打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
+[打开的降落伞](ParachuteDeployed.md)  |  切下塑料布<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [背篓](BackpackBasket.md)  |  解开绳子  
 [补给箱](SupplyChestRaft.md)  |  拆解  
 [鱼镖](HarpoonBone.md)  |  鱼镖坏了  
@@ -25,17 +25,17 @@
 [黑曜石长矛](SpearObsidian.md)  |  长矛坏了  
 [废金属长矛](SpearScrap.md)  |  拆解  
 [废金属长矛](SpearScrap.md)  |  长矛坏了  
-[线团](YarnFiber.md) , [线团](YarnFiber.md)  |  制作绳子  
+[线团](YarnFiber.md)  |  制作绳子<br>** 拖入：**[线团](YarnFiber.md)  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
-[树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [yarn] **<br>  [线团](YarnFiber.md)(+2)<br>  |    
+拆开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [yarn] **<br>  [线团](YarnFiber.md)(+2)<br>  |    
 ## 可拖至  
 [编织篓](Basket.md) | [坑洞(无绳子)(西部高地)](HighlandHoleNoRope.md)  
 ## 可用于蓝图  

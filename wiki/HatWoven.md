@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[头部（外层）(蓝图)](OuterHeadBlueprint.md) , [棕榈编织物](WeavePalm.md)  |  棕榈编织帽  
 [稻草人](Scarecrow.md)  |  拆除  
 [稻草人](Scarecrow.md)  |  转化  
 [棕榈编织帽(蓝图)](Bp_WovenHat.md)  |  蓝图制造  
+[头部（外层）(蓝图)](OuterHeadBlueprint.md)  |  棕榈编织帽<br>** 拖入：**[棕榈编织物](WeavePalm.md)  
 ## 可用于蓝图  
 - [稻草人(蓝图)](Bp_Scarecrow.md)  
   
@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：4320<br>最大：4320  |  -  |  ** 到达0时： **<br>  
+使用次数  |  初始：4320<br>最大：4320  |  -  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="棕榈编织帽 - 卡牌生存百科 Card Survival Wiki";</script>

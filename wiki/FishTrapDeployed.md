@@ -10,11 +10,11 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[海(环礁)](Sea_Atoll.md) , [捕鱼陷阱](FishTrap.md)  |  放置  
-[海(海湾)](Sea_Bay.md) , [捕鱼陷阱](FishTrap.md)  |  放置  
-[海(沙滩)](Sea_Beach.md) , [捕鱼陷阱](FishTrap.md)  |  放置  
-[海(沙滩)](Sea_Cove.md) , [捕鱼陷阱](FishTrap.md)  |  放置  
 [捕鱼陷阱](FishTrap.md)  |  放置  
+[海(环礁)](Sea_Atoll.md)  |  放置<br>** 拖入：**[捕鱼陷阱](FishTrap.md)  
+[海(海湾)](Sea_Bay.md)  |  放置<br>** 拖入：**[捕鱼陷阱](FishTrap.md)  
+[海(沙滩)](Sea_Beach.md)  |  放置<br>** 拖入：**[捕鱼陷阱](FishTrap.md)  
+[海(沙滩)](Sea_Cove.md)  |  放置<br>** 拖入：**[捕鱼陷阱](FishTrap.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

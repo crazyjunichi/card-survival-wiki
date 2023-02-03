@@ -19,7 +19,7 @@
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
-已被掏过  |  [阻止抽到海鸥巢](SeagullNestKiller.md): 1-1  |  消失  
+已被掏过  |  [阻止抽到海鸥巢](SeagullNestKiller.md): 1-1  |  →消失  
 
 
 <script>document.title="海鸥巢 - 卡牌生存百科 Card Survival Wiki";</script>

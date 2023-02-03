@@ -17,7 +17,7 @@
 [解除陷阱(海鸥)](CageTrapPlacedTriggeredSeagull.md)  |  捡起  
 [诱捕笼(蓝图)](Bp_CageTrap.md)  |  蓝图制造  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  放生  
-[中陷阱的猕猴](CageTrapMacaque.md) , [“切割工具”](tag_Cutter.md)  |  杀害  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  杀害<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  转化  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  渴死了  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  已驯服！  
@@ -25,7 +25,7 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 放置<br>[腿部动作](LegAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[遮蔽](Sheltered.md): 0-0  |  ** 自身：**<br>→ [诱捕笼](CageTrapPlaced.md)  |    
-拆除<br>[手部动作](HandAction.md)  |  1小时30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Cord] **<br>  [长木棍](StickLong.md)(+6)<br>  [小树枝](Sticks.md)(+12)<br>  [细线](CordFiber.md)(+16)<br>基础权重：1  |    
+拆除<br>[手部动作](HandAction.md)  |  1小时30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Cord] **<br>  [长木棍](StickLong.md)(+6)<br>  [小树枝](Sticks.md)(+12)<br>  [细线](CordFiber.md)(+16)<br>基础权重：1  |    
 
 
 <script>document.title="诱捕笼 - 卡牌生存百科 Card Survival Wiki";</script>

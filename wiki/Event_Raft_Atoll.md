@@ -16,8 +16,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-停在这<br>  |  1小时  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Drops] **<br>  [离开木筏](RaftExitAtoll.md)(+1)<br>  [开始冒险](Start_RaftAtoll.md)(+1)<br>[航行](Sailed.md)-1<br>  |    
-继续前进<br>  |  1小时  |    |  ** 自身：**<br>消失  |    
+停在这<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Drops] **<br>  [离开木筏](RaftExitAtoll.md)(+1)<br>  [开始冒险](Start_RaftAtoll.md)(+1)<br>[航行](Sailed.md)-1<br>  |    
+继续前进<br>  |  1小时  |    |  ** 自身：**<br>→消失  |    
 
 
 <script>document.title="着陆预警！ - 卡牌生存百科 Card Survival Wiki";</script>

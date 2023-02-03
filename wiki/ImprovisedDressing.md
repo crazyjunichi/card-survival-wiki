@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>→ [布](Cloth.md)  
+耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>自身→ [布](Cloth.md)  
 
 
 <script>document.title="临时绷带 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,2 +1,4 @@
 # “头部（内层）”  
-- [头巾](HeadWrappings.md)  
+名称  |  可使用次数  
+----  |  ----  
+[头巾](HeadWrappings.md)  |  2400  

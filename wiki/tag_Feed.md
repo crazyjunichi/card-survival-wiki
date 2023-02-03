@@ -127,7 +127,7 @@
 - [米饭](RiceCooked.md)  
 - [稻米](RiceGrains.md)  
 - [稻秆](RiceStalks.md)  
-- [腐烂物(猕猴窝)](RottenRemains.md)  
+- [腐烂物](RottenRemains.md)  
 - [西米饼](SagoFlatbread.md)  
 - [蜂蜜西米饼](SagoFlatbreadHoney.md)  
 - [果酱西米饼](SagoFlatbreadJam.md)  

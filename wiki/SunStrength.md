@@ -50,11 +50,11 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[纤维](Fibers.md)  |  点燃火绒  |  1 ~ 6  
-[枯叶](LeavesDry.md)  |  点燃火绒  |  1 ~ 6  
-[鸟巢](Nest.md)  |  点燃火绒  |  1 ~ 6  
-[纸](Papers.md)  |  点燃火绒  |  1 ~ 6  
-[木屑](WoodShavings.md)  |  点燃火绒  |  1 ~ 6  
+[纤维](Fibers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1 ~ 6  
+[枯叶](LeavesDry.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1 ~ 6  
+[鸟巢](Nest.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1 ~ 6  
+[纸](Papers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1 ~ 6  
+[木屑](WoodShavings.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1 ~ 6  
 
 
 <script>document.title="阳光强度 - 卡牌生存百科 Card Survival Wiki";</script>

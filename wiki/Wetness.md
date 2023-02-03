@@ -63,14 +63,14 @@
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  100  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  100 / 每15分钟  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  100  
-[海(环礁)](Sea_Atoll.md)  |  叉鱼  |  60  
-[海(海湾)](Sea_Bay.md)  |  叉鱼  |  60  
-[海(沙滩)](Sea_Beach.md)  |  叉鱼  |  60  
-[海(沙滩)](Sea_Cove.md)  |  叉鱼  |  60  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼  |  60  
-[海(红树林)](Sea_Mangroves.md)  |  叉鱼  |  60  
-[海](Sea_Raft.md)  |  叉鱼  |  60  
-[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼  |  60  
+[海(环礁)](Sea_Atoll.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海(海湾)](Sea_Bay.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海(沙滩)](Sea_Beach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海(沙滩)](Sea_Cove.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海(红树林)](Sea_Mangroves.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
+[海](Sea_Raft.md)  |  叉鱼<br>** 拖入：**[鱼镖](HarpoonBone.md)  |  60  
+[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  60  
 [卫衣](HoodieRetromation.md)  |  条件被动  |  50  
 [衬衫](ShirtFiber.md)  |  条件被动  |  50  
 [T恤](T-Shirt.md)  |  条件被动  |  50  
@@ -89,7 +89,7 @@
 [短裤](Shorts.md)  |  条件被动  |  20  
 [运动鞋](Sneakers.md)  |  条件被动  |  20  
 [袜子](Socks.md)  |  条件被动  |  20  
-[干土堆](DirtPile.md)  |  制作泥巴  |  20  
+[干土堆](DirtPile.md)  |  制作泥巴<br>** 拖入：**[“水(任意)”](tag_WaterAny.md)  |  20  
 [干涸的小水塘(湿地)](Puddle.md)  |  挖泥巴  |  20  
 [湿肥皂](SoapWet.md)  |  洗个澡  |  15  
 [草裙](LeafSKirt.md)  |  条件被动  |  10  

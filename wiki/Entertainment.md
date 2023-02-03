@@ -12,7 +12,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[野猪牙](Tusk.md)  |  雕刻  |  40  
+[野猪牙](Tusk.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  40  
 [手机(开)](PhoneOn.md)  |  玩游戏  |  30  
 [装饰品模具(蓝图)](Bp_MoldDecoration.md)  |  蓝图制造  |  16  
 [鼓](Drum.md)  |  跃动的节奏  |  16  
@@ -23,7 +23,7 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  16  
 [蜥蜴皮手鼓](LizardDrum.md)  |  入迷击鼓  |  16  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  16  
-[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻  |  16  
+[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  16  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  16  
 [沙堆(环礁)](SandSource.md)  |  堆沙堡  |  16  
 [海(环礁)](Sea_Atoll.md)  |  潜水  |  16  
@@ -43,9 +43,9 @@
 [祖父](Grandfather.md)  |  陪伴  |  5  
 [婴儿](Baby.md)  |  哄哄  |  4  
 [一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  拍照！  |  1  
-[韦斯顿](Weston.md)  |  拍照！  |  1  
-[海湾(区域)](Bay.md)  |  拍照！  |  1  
-[沙滩(区域)](Beach.md)  |  拍照！  |  1  
+[韦斯顿](Weston.md)  |  拍照！<br>** 拖入：**[相机](Camera.md)  |  1  
+[海湾(区域)](Bay.md)  |  拍照！<br>** 拖入：**[相机](Camera.md)  |  1  
+[沙滩(区域)](Beach.md)  |  拍照！<br>** 拖入：**[相机](Camera.md)  |  1  
 
 
 <script>document.title="娱乐 - 卡牌生存百科 Card Survival Wiki";</script>

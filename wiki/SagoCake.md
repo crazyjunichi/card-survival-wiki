@@ -5,7 +5,7 @@
   
   西米蛋糕  |   图片   
  ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/SagoCake.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“已烹饪的”](tag_MealCookingpot.md)<br><br>**可使用次数：**3  |  <img decoding="async" src="Sprite/SagoCake.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -24,8 +24,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [烹饪锅](CookingPot.md)  
-使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物](RottenRemains.md)(+1)<br><br>自身→ [烹饪锅](CookingPot.md)  
+使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>自身→ [烹饪锅](CookingPot.md)  
 
 
 <script>document.title="西米蛋糕 - 卡牌生存百科 Card Survival Wiki";</script>

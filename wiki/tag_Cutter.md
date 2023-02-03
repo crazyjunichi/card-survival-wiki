@@ -1,13 +1,15 @@
 # “切割工具”  
-- [斧子头](AxeHead.md)  
-- [仪式匕首](CeremonialDagger.md)  
-- [骨刀](KnifeBone.md)  
-- [铜刀](KnifeCopper.md)  
-- [燧石刀](KnifeFlint.md)  
-- [祖父的刀](KnifeGrandpa.md)  
-- [军刀](KnifeMilitary.md)  
-- [黑曜石刀](KnifeObsidian.md)  
-- [废金属刀](KnifeScrap.md)  
-- [安全刀](SafetyKnife.md)  
-- [矛头](SpearHead.md)  
-- [石刀](StoneSharpened.md)  
+名称  |  可使用次数  
+----  |  ----  
+[斧子头](AxeHead.md)  |  150  
+[仪式匕首](CeremonialDagger.md)  |  15  
+[骨刀](KnifeBone.md)  |  40  
+[铜刀](KnifeCopper.md)  |  40  
+[燧石刀](KnifeFlint.md)  |  15  
+[祖父的刀](KnifeGrandpa.md)  |  40  
+[军刀](KnifeMilitary.md)  |  60  
+[黑曜石刀](KnifeObsidian.md)  |  10  
+[废金属刀](KnifeScrap.md)  |  30  
+[安全刀](SafetyKnife.md)  |  20  
+[矛头](SpearHead.md)  |  150  
+[石刀](StoneSharpened.md)  |  20  

@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[炸药(关)](DynamiteOff.md) , [火种](TinderLit.md)  |  点燃  
+[炸药(关)](DynamiteOff.md)  |  点燃<br>** 拖入：**[火种](TinderLit.md) , [营火](Campfire.md) , [火炉](Stove.md) , [烟熏炉](Smoker.md) , [瓦斯炉(开)](GasCookerOn.md) , [燃烧的信号弹(开)](FlareHandOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br><br>→ [炸药(关)](DynamiteOff.md)  
+燃料  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br><br>自身→ [炸药(关)](DynamiteOff.md)  
 
 
 <script>document.title="炸药 - 卡牌生存百科 Card Survival Wiki";</script>

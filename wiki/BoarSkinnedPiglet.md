@@ -8,8 +8,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[小猪尸体](BoarCarcassPiglet.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[小猪尸体](BoarCarcassPiglet.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[小猪尸体](BoarCarcassPiglet.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[小猪尸体](BoarCarcassPiglet.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,8 +18,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+4)<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br>  
-使用次数  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+1)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br><br>自身→消失  
+使用次数  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+1)<br><br>自身→消失  
 
 
 <script>document.title="剥皮的猪 - 卡牌生存百科 Card Survival Wiki";</script>

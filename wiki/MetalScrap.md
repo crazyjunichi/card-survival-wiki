@@ -10,12 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
-[座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
+[座椅](Seat.md)  |  拆解<br>** 拖入：**[“斧”](tag_Axe.md)  
+[座椅](SeatPlaced.md)  |  拆卸<br>** 拖入：**[“斧”](tag_Axe.md) , [“斧”](tag_Axe.md)  
 [胜负参半(事件)](Event_DroneFightMixedSuccess.md)  |  继续  
 [成功！(事件)](Event_DroneFightSuccess.md)  |  继续  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [废金属斧](AxeScrap.md)  |  拆解  
 [废金属斧](AxeScrap.md)  |  转化  
 [废金属铲](ShovelScrap.md)  |  拆解  

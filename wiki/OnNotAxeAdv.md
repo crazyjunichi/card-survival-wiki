@@ -8,13 +8,13 @@
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[大树](LargeTree.md)  |  砍树  |  0  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  0  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  0  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  0  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  0  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  0  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  0  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  0  
 
 
 <script>document.title="IGNOREKEY - 卡牌生存百科 Card Survival Wiki";</script>

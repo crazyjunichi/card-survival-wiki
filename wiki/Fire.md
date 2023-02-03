@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[火堆(熄灭)](FireExtinguished.md) , [火种](TinderLit.md)  |  点燃  
+[火堆(熄灭)](FireExtinguished.md)  |  点燃<br>** 拖入：**[火种](TinderLit.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -17,17 +17,17 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><br>** 使用物: **<br>消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;"> + 7<br><br>** 使用物: **<br>消失  |    
-[蛇草](SnakeGrass.md)  |  添入蛇草<br>  |  15分  |    |  <br>** 使用物: **<br>消失  |  [驱虫](BugRepellentApplied.md)+25  
-[枯叶](LeavesDry.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;"> + 7<br><br>** 使用物: **<br>→消失  |    
+[蛇草](SnakeGrass.md)  |  添入蛇草<br>  |  15分  |    |  <br>** 使用物: **<br>→消失  |  [驱虫](BugRepellentApplied.md)+25  
+[枯叶](LeavesDry.md)<br>[鸟巢](Nest.md)<br>[木屑](WoodShavings.md)<br>[纤维](Fibers.md)<br>[纸](Papers.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
 [长木棍](StickLong.md)  |  制作简易长矛<br>  |  45分  |    |  <br>** 使用物: **<br>→ [简易长矛](SpearRustic.md)  |  [情绪](Morale.md)+1  
-[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>消失  |    
+[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
 ## 可拖至  
-[装有燃料的油桶](JerrycanFuel.md)  
+[装有燃料的油桶](JerrycanFuel.md) | [熏蜂器(关)](BeeSmokerOff.md) | [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md)  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -110,7 +110,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：32<br>最大：64  |  每15分钟-1<br>最多需要：16小时  |  ** 到达0时： **<br>** [1] **<br>  [灰烬](Ash.md)(+1)<br>基础权重：1<br>→ [火堆(熄灭)](FireExtinguished.md)  
+燃料  |  初始：32<br>最大：64  |  每15分钟-1<br>最多需要：16小时  |  ** 到达0时： **<br>** [1] **<br>  [灰烬](Ash.md)(+1)<br>基础权重：1<br>自身→消失  
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

@@ -15,7 +15,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[石头](Stone.md)  |  练习石工<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1  |  [手掌损伤](HandDamage.md)+20<br>[石工(技能)](Skill_Knapping.md)+3  
+[石头](Stone.md)  |  练习石工<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1  |  [手掌损伤](HandDamage.md)+20<br>[石工(技能)](Skill_Knapping.md)+3  
 ## 可用于蓝图  
 - [仪式匕首(蓝图)](Bp_CeremonialDagger.md)  
 - [黑曜石刀(蓝图)](Bp_ObsidianKnife.md)  

@@ -11,8 +11,8 @@
 来源  |  操作  
 ----  |  ----  
 [鲨鱼头饰](SharkHeadpiece.md)  |  拆解  
-[鲨鱼尸体](SharkCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[鲨鱼尸体](SharkCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
+[鲨鱼尸体](SharkCarcass.md)  |  切割<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[鲨鱼尸体](SharkCarcass.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 可用于蓝图  
 - [鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)  
   

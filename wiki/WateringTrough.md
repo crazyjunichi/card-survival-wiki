@@ -14,7 +14,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  拆除<br>[手部动作](HandAction.md)  |  2小时  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt] **<br>  [干土堆](DirtPile.md)(+8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
+[“锤”](tag_Hammer.md)  |  拆除<br>[手部动作](HandAction.md)  |  2小时  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt] **<br>  [干土堆](DirtPile.md)(+8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

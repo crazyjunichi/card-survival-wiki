@@ -26,7 +26,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Seagull Carcass] **<br>  [海鸥尸体](SeagullDead.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  
+继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Seagull Carcass] **<br>  [海鸥尸体](SeagullDead.md)(+1)<br>  |  [情绪](Morale.md)+10<br>[海鸥之惧](SeagullFear.md)+250  
 
 
 <script>document.title="拿下了！ - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,4 +1,6 @@
 # “钓鱼线”  
-- [钓鱼线](FishingLine.md)  
-- [钓鱼线](FishingLineRustic.md)  
-- [钓鱼竿](FishingRod.md)  
+名称  |  可使用次数  
+----  |  ----  
+[钓鱼线](FishingLine.md)  |  30  
+[钓鱼线](FishingLineRustic.md)  |  15  
+[钓鱼竿](FishingRod.md)  |  45  

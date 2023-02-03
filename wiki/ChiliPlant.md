@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集辣椒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br>使用次数  -1<br><br>** 获得： **<br>** [Chilies] **<br>  [辣椒](Chilies.md)(+2～+3)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1  
+采集辣椒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br>使用次数  -1<br><br>** 获得： **<br>** [Chilies] **<br>  [辣椒](Chilies.md)(+2～+3)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1  
 
 
 <script>document.title="辣椒丛 - 卡牌生存百科 Card Survival Wiki";</script>

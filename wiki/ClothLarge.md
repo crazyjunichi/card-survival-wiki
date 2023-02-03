@@ -10,9 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[织布机](Loom.md) , [布](Cloth.md)  |  扩大布匹  
-[座椅](Seat.md) , [“锤”](tag_Axe.md)  |  拆解  
-[座椅](SeatPlaced.md) , [“锤”](tag_Axe.md)  |  拆卸  
+[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[布](Cloth.md)  
+[座椅](Seat.md)  |  拆解<br>** 拖入：**[“斧”](tag_Axe.md)  
+[座椅](SeatPlaced.md)  |  拆卸<br>** 拖入：**[“斧”](tag_Axe.md) , [“斧”](tag_Axe.md)  
 [超大块布](ClothVeryLarge.md)  |  撕开布料  
 [临时防毒面具](MaskMakeshift.md)  |  还原成布匹  
 [衬衫](ShirtFiber.md)  |  撕开布料  

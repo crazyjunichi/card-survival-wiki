@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Wounds] **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1～+3)<br>  [擦伤](W_Abrasion.md)(+0～+3)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -3  |  [情绪](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)+50～+300  
+继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Wounds] **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1～+3)<br>  [擦伤](W_Abrasion.md)(+0～+3)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -3  |  [情绪](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)+50～+300  
 
 
 <script>document.title="啊！ - 卡牌生存百科 Card Survival Wiki";</script>

@@ -12,7 +12,7 @@
 ----  |  ----  
 [硫磺石](StoneHeavyBrimstone.md) , [窑炉](Kiln.md)  |  煅烧硫磺石  
 [硫磺石](StoneHeavyBrimstone.md) , [高级窑炉](KilnAdvanced.md)  |  煅烧硫磺石  
-[硫磺喷口(火山)](VentBrimstone.md) , [“锤”](tag_Hammer.md)  |  采集硫磺  
+[硫磺喷口(火山)](VentBrimstone.md)  |  采集硫磺<br>** 拖入：**[“锤”](tag_Hammer.md)  
 ## 可用于蓝图  
 - [硫磺膏(蓝图)](Bp_BrimstoneGel.md)  
 - [硫磺农药(蓝图)](Bp_PesticideBrimstone.md)  

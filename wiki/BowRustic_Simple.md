@@ -12,8 +12,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：75<br>最大：75  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br>  
-燃料  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>** [Arrow] **<br>  [简易箭矢](ArrowSimple.md)(+0～+1)<br><br>→ [简易的弓](BowRustic.md)  
+使用次数  |  初始：75<br>最大：75  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br><br>自身→消失  
+燃料  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>** [Arrow] **<br>  [简易箭矢](ArrowSimple.md)(+0～+1)<br><br>自身→ [简易的弓](BowRustic.md)  
 
 
 <script>document.title="上弦的简易弓 - 卡牌生存百科 Card Survival Wiki";</script>

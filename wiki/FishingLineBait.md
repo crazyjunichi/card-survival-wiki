@@ -10,14 +10,14 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[钓鱼线](FishingLine.md) , [“诱饵”](tag_Bait.md)  |  添加诱饵  
+[钓鱼线](FishingLine.md)  |  添加诱饵<br>** 拖入：**[“诱饵”](tag_Bait.md)  
 ## 可拖至  
 [海水(覆溺洞穴)](Sea_Cave.md) | [海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海](Sea_Raft.md) | [海(鸟岩岛)](Sea_Rocks.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1  
-诱饵<img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>→ [钓鱼线](FishingLine.md)  
+使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1<br>自身→消失  
+诱饵<img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>自身→ [钓鱼线](FishingLine.md)  
 
 
 <script>document.title="钓鱼线（已添加诱饵） - 卡牌生存百科 Card Survival Wiki";</script>

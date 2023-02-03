@@ -10,6 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
+[烟熏炉](Smoker.md)  |  烹饪西米糕  
+[烟熏炉](Smoker.md)  |  蒸发制盐  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  蒸发制盐  
+[半个椰子](CoconutHalf.md)  |  刮椰肉  
+[半个椰子](CoconutHalf.md)  |  转化  
+[腐烂的椰子](CoconutRotten.md)  |  敲开<br>** 拖入：**[“锤”](tag_Hammer.md)  
 [椰壶](CoconutFlask.md)  |  倒入椰子水  
 [椰壶](CoconutFlask.md)  |  从椰子倒入  
 [椰壶](CoconutFlask.md)  |  倒入不安全的水  
@@ -18,14 +24,8 @@
 [椰壶](CoconutFlask.md)  |  倒入奶  
 [椰壶](CoconutFlask.md)  |  倒入卡瓦茶  
 [椰壶](CoconutFlask.md)  |  倒入蜘蛛兰茶  
-[祖父](Grandfather.md) , [“可烹饪的”](tag_MealCoconutShell.md)  |  喂食  
-[祖父(健康)](GrandfatherHealthy.md) , [“可烹饪的”](tag_MealCoconutShell.md)  |  喂食  
-[烟熏炉](Smoker.md)  |  烹饪西米糕  
-[烟熏炉](Smoker.md)  |  蒸发制盐  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  蒸发制盐  
-[半个椰子](CoconutHalf.md)  |  刮椰肉  
-[半个椰子](CoconutHalf.md)  |  转化  
-[腐烂的椰子](CoconutRotten.md) , [“锤”](tag_Hammer.md)  |  敲开  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  
 [丛林沙拉](JungleSalad.md)  |  食用  
 [丛林沙拉](JungleSalad.md)  |  转化  
 [海鲜杂烩](SeafoodCup.md)  |  食用  

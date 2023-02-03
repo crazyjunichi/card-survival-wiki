@@ -12,7 +12,7 @@
 ----  |  ----  
 [灰山鹑喂食器](PartridgeFeeder.md)  |  拆解  
 [灰山鹑喂食器(空)](PartridgeFeederEmpty.md)  |  拆解  
-[棕榈叶](PalmFronds.md) , [棕榈叶](PalmFronds.md)  |  编织  
+[棕榈叶](PalmFronds.md)  |  编织<br>** 拖入：**[棕榈叶](PalmFronds.md)  
 ## 可拖至  
 [头部（外层）(蓝图)](OuterHeadBlueprint.md)  
 ## 可用于蓝图  

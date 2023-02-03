@@ -10,10 +10,10 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[引擎（启动）](Engine1Open.md) , [装有燃料的油桶](JerrycanFuel.md)  |  填充  
-[引擎（修理）](Engine1Repaired.md) , [装有燃料的油桶](JerrycanFuel.md)  |  填充  
 [装有燃料的油桶](JerrycanFuel.md)  |  清空  
-[装有燃料的油桶](JerrycanFuel.md) , [“火”](tag_Fire.md)  |  添加燃料  
+[装有燃料的油桶](JerrycanFuel.md)  |  添加燃料<br>** 拖入：**[“火”](tag_Fire.md)  
+[引擎（启动）](Engine1Open.md)  |  填充<br>** 拖入：**[装有燃料的油桶](JerrycanFuel.md)  
+[引擎（修理）](Engine1Repaired.md)  |  填充<br>** 拖入：**[装有燃料的油桶](JerrycanFuel.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

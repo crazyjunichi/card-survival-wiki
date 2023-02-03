@@ -10,8 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[塑料瓶](PlasticBottle.md) , [茉莉花](JasmineFlowers.md)  |  插花  
-[塑料瓶(满)](PlasticBottleFull.md) , [茉莉花](JasmineFlowers.md)  |  插花  
+[塑料瓶](PlasticBottle.md)  |  插花<br>** 拖入：**[茉莉花](JasmineFlowers.md)  
+[塑料瓶(满)](PlasticBottleFull.md)  |  插花<br>** 拖入：**[茉莉花](JasmineFlowers.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,7 +22,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [塑料瓶](PlasticBottle.md)  
+<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>自身→ [塑料瓶](PlasticBottle.md)  
 
 
 <script>document.title="茉莉花 - 卡牌生存百科 Card Survival Wiki";</script>

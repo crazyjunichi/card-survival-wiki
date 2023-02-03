@@ -10,12 +10,12 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[剥皮的野猪](BoarSkinned.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
-[剥皮的野猪](BoarSkinned.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
-[剥皮的山羊](GoatSkinned.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
-[剥皮的山羊](GoatSkinned.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
-[海怪尸体](SeahoundCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  切割  
-[海怪尸体](SeahoundCarcass.md) , [“切割工具”](tag_Cutter.md)  |  切割  
+[剥皮的野猪](BoarSkinned.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[剥皮的野猪](BoarSkinned.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[剥皮的山羊](GoatSkinned.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[剥皮的山羊](GoatSkinned.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -25,7 +25,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [碱液](LQ_Lye.md)  |  浸泡<br>  |  -  |    |  ** 自身: **<br>耐久  -900<br><br>** 使用物: **<br>→ [肥皂混合物](LQ_SoapMix.md)  |    
 ## 可拖至  
-[猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md)  
+[猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md)  
 ## 可用于蓝图  
 - [蜡烛(蓝图)](Bp_Candles.md)  
 - [香茅蜡烛(蓝图)](Bp_CandlesCitronella.md)  
@@ -50,8 +50,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
-使用次数  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  
+耐久  |  初始：2880  |  每15分钟-1<br>最多需要：30天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
+使用次数  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="脂肪 - 卡牌生存百科 Card Survival Wiki";</script>

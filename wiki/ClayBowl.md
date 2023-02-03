@@ -10,15 +10,15 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[烟熏炉](Smoker.md) , [未烧制的陶碗](ClayBowlUnfired.md)  |  烧制陶碗  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md) , [未烧制的陶碗](ClayBowlUnfired.md)  |  烧制陶碗  
-[椰壶](CoconutFlask.md)  |  从陶碗中倒入  
 [未烧制的陶碗](ClayBowlUnfired.md) , [营火](Campfire.md)  |  烧制陶碗  
 [未烧制的陶碗](ClayBowlUnfired.md) , [粘土火盆](ClayFirePit.md)  |  烧制陶碗  
 [未烧制的陶碗](ClayBowlUnfired.md) , [火堆](Fire.md)  |  烧制陶碗  
 [未烧制的陶碗](ClayBowlUnfired.md) , [瓦斯炉(开)](GasCookerOn.md)  |  烧制陶碗  
 [未烧制的陶碗](ClayBowlUnfired.md) , [窑炉](Kiln.md)  |  烧制陶碗  
 [未烧制的陶碗](ClayBowlUnfired.md) , [高级窑炉](KilnAdvanced.md)  |  烧制陶碗  
+[烟熏炉](Smoker.md)  |  烧制陶碗<br>** 拖入：**[未烧制的陶碗](ClayBowlUnfired.md)  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶碗<br>** 拖入：**[未烧制的陶碗](ClayBowlUnfired.md)  
+[椰壶](CoconutFlask.md)  |  从陶碗中倒入  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

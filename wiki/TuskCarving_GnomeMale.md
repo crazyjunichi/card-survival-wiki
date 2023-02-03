@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[野猪牙](Tusk.md) , [“高级切割工具”](tag_CutterAdv.md)  |  雕刻  
+[野猪牙](Tusk.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  
 
 
 <script>document.title="侏儒牙雕（男） - 卡牌生存百科 Card Survival Wiki";</script>

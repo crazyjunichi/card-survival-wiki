@@ -10,8 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[摘光的香蕉树](BananaTreeCleared.md) , [石斧](StoneAxe.md)  |  砍树  
-[摘光的香蕉树](BananaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
+[摘光的香蕉树](BananaTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  
+[摘光的香蕉树](BananaTreeCleared.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：188<br>最大：188  |  每15分钟-1<br>最多需要：1天23小时  |  ** 到达0时： **<br>  
+耐久  |  初始：188<br>最大：188  |  每15分钟-1<br>最多需要：1天23小时  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="香蕉树桩 - 卡牌生存百科 Card Survival Wiki";</script>

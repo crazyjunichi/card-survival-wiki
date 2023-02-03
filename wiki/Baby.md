@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：150<br>最大：150  |  每15分钟-2<br>最多需要：18小时45分  |  ** 到达0时： **<br>  
+健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：150<br>最大：150  |  每15分钟-2<br>最多需要：18小时45分  |  ** 到达0时： **<br><br>自身→消失  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |    
 情绪<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：12<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 ## 被动效果  

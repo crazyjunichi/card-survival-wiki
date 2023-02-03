@@ -11,13 +11,13 @@
 来源  |  操作  
 ----  |  ----  
 [手钻(蓝图)](Bp_HandDrill.md)  |  蓝图制造  
-[小树枝](Sticks.md) , [“切割工具”](tag_Cutter.md)  |  制作手钻  
+[小树枝](Sticks.md)  |  制作手钻<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 可拖至  
 [纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：30  |  -  |  ** 到达0时： **<br>  
+使用次数  |  初始：30  |  -  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="手钻 - 卡牌生存百科 Card Survival Wiki";</script>

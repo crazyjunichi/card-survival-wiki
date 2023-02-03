@@ -15,7 +15,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  300 ~ 600  
+[腐烂物](RottenRemains.md)  |  食用  |  300 ~ 600  
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  150  
 [蜘蛛兰叶](SpiderLilyLeaves.md)  |  食用  |  150  
 [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  食用  |  150  
@@ -24,6 +24,8 @@
 [香茅油混合物](LQ_OilCitronellaMix.md)  |  饮用  |  150  
 [茉莉精油](LQ_OilJasmine.md)  |  饮用  |  150  
 [茉莉油混合物](LQ_OilJasmineMix.md)  |  饮用  |  150  
+[坚果过敏](Pk_4_NutAllergy.md)  |  食用坚果类动作  |  100  
+[贝类过敏](Pk_4_ShellfishAllergy.md)  |  食用海鲜动作  |  100  
 [椰子水](LQ_CoconutWater.md)  |  饮用  |  45  
 [芦荟膏](AloeVeraGel.md)  |  食用  |  35  
 [丛林沙拉](JungleSalad.md)  |  食用  |  30  

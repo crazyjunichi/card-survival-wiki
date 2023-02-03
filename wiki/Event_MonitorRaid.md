@@ -12,8 +12,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-随它吧<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Rummage] **<br>  [巨蜥(事件)](Event_MonitorRummaging.md)(+1)<br>  |    
-嘿！<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Fight] **<br>  [一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)(+1)<br>  |    
+随它吧<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Rummage] **<br>  [巨蜥(事件)](Event_MonitorRummaging.md)(+1)<br>  |    
+嘿！<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Fight] **<br>  [一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)(+1)<br>  |    
 
 
 <script>document.title="一头巨蜥！ - 卡牌生存百科 Card Survival Wiki";</script>

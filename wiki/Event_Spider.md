@@ -14,9 +14,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-别想伤到我<br>  |  -  |  [足部防护](FootProtection.md): 4-10  |  ** 自身：**<br>消失  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 1-3.9  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Bite] **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-0  |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Bite] **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+别想伤到我<br>  |  -  |  [足部防护](FootProtection.md): 4-10  |  ** 自身：**<br>→消失  |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 1-3.9  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite] **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-0  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite] **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
 
 
 <script>document.title="一只蜘蛛！ - 卡牌生存百科 Card Survival Wiki";</script>

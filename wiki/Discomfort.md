@@ -34,7 +34,7 @@
 [畜栏(区域)](Enclosure.md)  |  条件被动  |  875  
 [猕猴窝(区域)](MacaqueDen.md)  |  条件被动  |  875  
 [泥屋(区域)](MudHut.md)  |  条件被动  |  875  
-[泥屋(区域)](MudHutRuins.md)  |  条件被动  |  875  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  条件被动  |  875  
 [飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  条件被动  |  875  
 [棚屋(区域)](Shed.md)  |  条件被动  |  875  
 [石屋(区域)](StoneHut.md)  |  条件被动  |  875  
@@ -58,7 +58,7 @@
 [畜栏(区域)](Enclosure.md)  |  条件被动  |  625  
 [猕猴窝(区域)](MacaqueDen.md)  |  条件被动  |  625  
 [泥屋(区域)](MudHut.md)  |  条件被动  |  625  
-[泥屋(区域)](MudHutRuins.md)  |  条件被动  |  625  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  条件被动  |  625  
 [飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  条件被动  |  625  
 [棚屋(区域)](Shed.md)  |  条件被动  |  625  
 [石屋(区域)](StoneHut.md)  |  条件被动  |  625  
@@ -84,7 +84,7 @@
 [畜栏(区域)](Enclosure.md)  |  条件被动  |  375  
 [猕猴窝(区域)](MacaqueDen.md)  |  条件被动  |  375  
 [泥屋(区域)](MudHut.md)  |  条件被动  |  375  
-[泥屋(区域)](MudHutRuins.md)  |  条件被动  |  375  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  条件被动  |  375  
 [飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  条件被动  |  375  
 [棚屋(区域)](Shed.md)  |  条件被动  |  375  
 [石屋(区域)](StoneHut.md)  |  条件被动  |  375  
@@ -112,7 +112,7 @@
 [畜栏(区域)](Enclosure.md)  |  条件被动  |  175  
 [猕猴窝(区域)](MacaqueDen.md)  |  条件被动  |  175  
 [泥屋(区域)](MudHut.md)  |  条件被动  |  175  
-[泥屋(区域)](MudHutRuins.md)  |  条件被动  |  175  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  条件被动  |  175  
 [飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  条件被动  |  175  
 [棚屋(区域)](Shed.md)  |  条件被动  |  175  
 [石屋(区域)](StoneHut.md)  |  条件被动  |  175  
@@ -120,9 +120,9 @@
 [未浇灌的菌床](MushroomBedDry.md)  |  被动  |  150  
 [硫磺](Brimstone.md)  |  被动  |  100  
 [被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  被动  |  100  
-[海鸟粪(蝙蝠洞)](Guano.md)  |  被动  |  50  
+[海鸟粪](Guano.md)  |  被动  |  50  
 [粪便](Manure.md)  |  被动  |  50  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  被动  |  50  
+[腐烂物](RottenRemains.md)  |  被动  |  50  
 [腐烂的皮](SkinRotten.md)  |  被动  |  50  
 [腐烂的椰子](CoconutRotten.md)  |  被动  |  25  
 [月季丛](ChinaRosePlant.md)  |  被动  |  -100  

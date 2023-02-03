@@ -12,7 +12,7 @@
 ----  |  ----  
 [沙堡](SandCastle.md)  |  转化  
 [沙堆(环礁)](SandSource.md)  |  收集沙子  
-[沙堆(环礁)](SandSource.md) , [“铲子”](tag_Shovel.md)  |  挖沙  
+[沙堆(环礁)](SandSource.md)  |  挖沙<br>** 拖入：**[“铲子”](tag_Shovel.md)  
 ## 可拖至  
 [泥堆](MudPile.md) | [粘土](Clay.md)  
 ## 可用于蓝图  

@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：4  |  -  |  ** 到达上限时：完成了！ **<br>** [Ruined] **<br>  [失败品](WoodCarving_Failed.md)(+1)<br>基础权重：800<li>[木工(技能)](Skill_Woodworking.md)为1～150时权重+0～-790</li><br>** [Goat] **<br>  [山羊木雕](WoodCarving_Goat.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Seagull] **<br>  [海鸥木雕](WoodCarving_Seagull.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Man] **<br>  [小人木雕（男）](WoodCarving_Man.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Woman] **<br>  [小人木雕（女）](WoodCarving_Woman.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Spirit] **<br>  [神灵木雕](WoodCarving_Monster.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50  
+进度  |  初始：0<br>最大：4  |  -  |  ** 到达上限时：完成了！ **<br>** [Ruined] **<br>  [失败品](WoodCarving_Failed.md)(+1)<br>基础权重：800<li>[木工(技能)](Skill_Woodworking.md)为1～150时权重+0～-790</li><br>** [Goat] **<br>  [山羊木雕](WoodCarving_Goat.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Seagull] **<br>  [海鸥木雕](WoodCarving_Seagull.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Man] **<br>  [小人木雕（男）](WoodCarving_Man.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Woman] **<br>  [小人木雕（女）](WoodCarving_Woman.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>** [Spirit] **<br>  [神灵木雕](WoodCarving_Monster.md)(+1)<br>[情绪](Morale.md)+10<br>基础权重：50<br>自身→消失  
 
 
 <script>document.title="未完成的木雕 - 卡牌生存百科 Card Survival Wiki";</script>

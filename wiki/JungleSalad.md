@@ -5,7 +5,7 @@
   
   丛林沙拉  |   图片   
  ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“可烹饪的”](tag_MealCoconutShell.md)  |  <img decoding="async" src="Sprite/JungleSalad.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ **重量：**150<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“椰子壳料理”](tag_MealCoconutShell.md)  |  <img decoding="async" src="Sprite/JungleSalad.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+1)<br><br>→ [椰子壳](CoconutShell.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物](RottenRemains.md)(+1)<br><br>自身→ [椰子壳](CoconutShell.md)  
 
 
 <script>document.title="丛林沙拉 - 卡牌生存百科 Card Survival Wiki";</script>

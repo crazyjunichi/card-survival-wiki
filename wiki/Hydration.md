@@ -72,6 +72,7 @@
 [全脂羊奶](LQ_MilkWhole.md)  |  饮用  |  30  
 [水椰树汁](LQ_Sap.md)  |  饮用  |  30  
 [糖水](LQ_SugarWater.md)  |  饮用  |  30  
+[超级肾脏](Pk_3_SpecializedKidneys.md)  |  喝盐水动作  |  30  
 [炖羊汤](GoatStew.md)  |  食用  |  25  
 [椰子鱼](CoconutFish.md)  |  食用  |  22  
 [肉食盛宴](HeartyFeast.md)  |  食用  |  22  
@@ -200,7 +201,7 @@
 [烤老鼠](MouseCooked.md)  |  食用  |  2  
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  2  
 [马勃菌](Puffballs.md)  |  食用  |  2  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  2  
+[腐烂物](RottenRemains.md)  |  食用  |  2  
 [西米树芯](SagoSawdust.md)  |  食用  |  2  
 [烤海胆](UrchinMeatCooked.md)  |  食用  |  2  
 [杂菌](AssortedMushrooms.md)  |  食用  |  1  

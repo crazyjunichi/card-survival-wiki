@@ -15,7 +15,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [生石灰](Quicklime.md)(+3)<br>  |    
+[“锤”](tag_Hammer.md)  |  敲碎<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [生石灰](Quicklime.md)(+3)<br>  |    
 
 
 <script>document.title="煅烧后的石头 - 卡牌生存百科 Card Survival Wiki";</script>

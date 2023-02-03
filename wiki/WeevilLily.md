@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：6  |  -  |  ** 到达0时： **<br><br>→ [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  
+使用次数  |  初始：6  |  -  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="大叶仙茅 - 卡牌生存百科 Card Survival Wiki";</script>

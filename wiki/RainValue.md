@@ -91,11 +91,11 @@
 [椰子树](PalmTree_IH.md)  |  影响  |  1 ~ 5  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  1 ~ 3  
 [海鸥巢](SeagullNest.md)  |  影响  |  1 ~ 5  
-[纤维](Fibers.md)  |  点燃火绒  |  0  
-[枯叶](LeavesDry.md)  |  点燃火绒  |  0  
-[鸟巢](Nest.md)  |  点燃火绒  |  0  
-[纸](Papers.md)  |  点燃火绒  |  0  
-[木屑](WoodShavings.md)  |  点燃火绒  |  0  
+[纤维](Fibers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  0  
+[枯叶](LeavesDry.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  0  
+[鸟巢](Nest.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  0  
+[纸](Papers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  0  
+[木屑](WoodShavings.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  0  
 
 
 <script>document.title="降水值 - 卡牌生存百科 Card Survival Wiki";</script>

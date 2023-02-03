@@ -8,9 +8,12 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  4  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  4  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  4  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  4  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  4  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  4  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  4  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  4  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  4  
 [树汁补给点(事件)](Event_SapStation.md)  |  摘取椰子  |  1  
 [树液补给点(事件)](Event_SapStationNoCoconuts.md)  |  摘取椰子  |  1  
 [成功了！(事件)](Event_CoconutHit.md)  |  继续  |  -1  

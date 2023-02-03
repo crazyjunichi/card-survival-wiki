@@ -23,7 +23,7 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [相机](Camera.md)  |  拍照！<br>  |  15分  |    |    |  [娱乐](Entertainment.md)+1  
-[“锤”](tag_Hammer.md)  |  杀害！<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [半个椰子](CoconutHalf.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
+[“锤”](tag_Hammer.md)  |  杀害！<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [半个椰子](CoconutHalf.md)(+2)<br>  |  [污垢](Filth.md)+20<br>[情绪](Morale.md)-100<br>[哀悼](Mourning.md)+288  
 
 
 <script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

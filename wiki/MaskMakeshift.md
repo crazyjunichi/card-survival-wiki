@@ -18,11 +18,11 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“水”](tag_WaterAny.md)  |  打湿<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 12<br><br>** 使用物: **<br>含水量  -300  |    
+[“水(任意)”](tag_WaterAny.md)  |  打湿<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 12<br><br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：288<br>最大：288  |  -  |  ** 到达0时： **<br>** [cloth] **<br>  [布](Cloth.md)(+1)<br>  
+使用次数  |  初始：288<br>最大：288  |  -  |  ** 到达0时： **<br>** [cloth] **<br>  [布](Cloth.md)(+1)<br><br>自身→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

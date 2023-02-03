@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Shipwreck] **<br>  [沉船(鸟岩岛)](Shipwreck.md)(+1)<br>基础权重：1  |  [情绪](Morale.md)+10  
+继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Shipwreck] **<br>  [沉船(鸟岩岛)](Shipwreck.md)(+1)<br>基础权重：1  |  [情绪](Morale.md)+10  
 
 
 <script>document.title="沉船 - 卡牌生存百科 Card Survival Wiki";</script>

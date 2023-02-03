@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[窝棚](Shelter.md) , [叶床](LeafBed.md)  |  组合  
+[窝棚](Shelter.md)  |  组合<br>** 拖入：**[叶床](LeafBed.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -20,13 +20,13 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[棕榈叶](PalmFronds.md)  |  修理床<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>消失  |    
-[蛇草](SnakeGrass.md)  |  修理床<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>消失  |    
+[棕榈叶](PalmFronds.md)  |  修理床<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>→消失  |    
+[蛇草](SnakeGrass.md)<br>[枯叶](LeavesDry.md)<br>[树叶](LeavesFresh.md)<br>[稻杆](RiceStraw.md)  |  修理床<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br><img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:20px;max-height:20px;"> + 288<br><br>** 使用物: **<br>→消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：600<br>最大：600  |  每15分钟-1<br>最多需要：6天6小时  |  ** 到达0时： **<br><br>→ [窝棚](Shelter.md)  
-<img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br>  [长木棍](StickLong.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>→ [叶床](LeafBed.md)  
+<img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：600<br>最大：600  |  每15分钟-1<br>最多需要：6天6小时  |  ** 到达0时： **<br><br>自身→ [窝棚](Shelter.md)  
+<img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br>  [长木棍](StickLong.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>自身→ [叶床](LeafBed.md)  
 
 
 <script>document.title="有遮蔽的叶床 - 卡牌生存百科 Card Survival Wiki";</script>

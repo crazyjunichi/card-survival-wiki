@@ -32,19 +32,19 @@
 [燧石长矛](SpearFlint.md)  |  拆解  
 [黑曜石长矛](SpearObsidian.md)  |  拆解  
 [废金属长矛](SpearScrap.md)  |  拆解  
-[金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
-[剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
+[金鸡纳树](CinchonaTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 [废墟(泥屋)](Debris.md)  |  清理  
-[废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
-[小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[废墟(泥屋)](Debris.md)  |  清理<br>** 拖入：**[“铲子”](tag_Shovel.md)  
+[小芒果树](MangoTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
 [丛林(区域)](Jungle.md)  |  探索  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
-[幼年椰子树](PalmTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
-[小棕榈树](SmallPalm.md) , [“锤”](tag_Axe.md)  |  砍树  
-[小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
-[小杏仁树](TropicalAlmondTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[幼年椰子树](PalmTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[小棕榈树](SmallPalm.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[小树](SmallTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[小杏仁树](TropicalAlmondTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  

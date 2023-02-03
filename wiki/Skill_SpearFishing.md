@@ -12,22 +12,31 @@
 ----  |  ----  |  ----  
 [海鸥护符](SeagullCharm.md)  |  被动  |  5  
 [鲨鱼头饰](SharkHeadpiece.md)  |  被动  |  5  
-[海(环礁)](Sea_Atoll.md)  |  叉鱼  |  0.5  
-[海(海湾)](Sea_Bay.md)  |  叉鱼  |  0.5  
-[海(沙滩)](Sea_Beach.md)  |  叉鱼  |  0.5  
-[海(沙滩)](Sea_Cove.md)  |  叉鱼  |  0.5  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼  |  0.5  
-[海(红树林)](Sea_Mangroves.md)  |  叉鱼  |  0.5  
-[海](Sea_Raft.md)  |  叉鱼  |  0.5  
-[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼  |  0.5  
+[海(环礁)](Sea_Atoll.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海(海湾)](Sea_Bay.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海(沙滩)](Sea_Beach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海(沙滩)](Sea_Cove.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海(红树林)](Sea_Mangroves.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
+[海](Sea_Raft.md)  |  叉鱼<br>** 拖入：**[鱼镖](HarpoonBone.md)  |  0.5  
+[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
 [叉鱼技能提升！(事件)](Event_SkillSpearFishing4.md)  |  触发事件  |  150  
 [叉鱼技能提升！(事件)](Event_SkillSpearFishing3.md)  |  触发事件  |  70 ~ 150  
+[海(海湾)](Sea_Bay.md)  |  影响  |  30 ~ 150  
 [叉鱼技能提升！(事件)](Event_SkillSpearFishing2.md)  |  触发事件  |  30 ~ 150  
 [叉鱼技能提升！(事件)](Event_SkillSpearFishing1.md)  |  触发事件  |  10 ~ 150  
 [一条鲨鱼！(事件)](Event_SharkFight.md)  |  影响  |  0 ~ 150  
+[海(环礁)](Sea_Atoll.md)  |  影响  |  0 ~ 150  
+[海(海湾)](Sea_Bay.md)  |  影响  |  0 ~ 150  
+[海(沙滩)](Sea_Beach.md)  |  影响  |  0 ~ 150  
+[海(沙滩)](Sea_Cove.md)  |  影响  |  0 ~ 150  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  影响  |  0 ~ 150  
+[海(红树林)](Sea_Mangroves.md)  |  影响  |  0 ~ 150  
+[海](Sea_Raft.md)  |  影响  |  0 ~ 150  
+[海(鸟岩岛)](Sea_Rocks.md)  |  影响  |  0 ~ 150  
 [鲨鱼](SharkVisitor.md)  |  影响  |  0 ~ 150  
 
 

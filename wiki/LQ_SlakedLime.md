@@ -10,7 +10,9 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[生石灰](Quicklime.md) , [“灌溉用水”](tag_WaterFresh.md)  |  浸泡  
+[生石灰](Quicklime.md)  |  浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)  
+## 可拖至  
+[不安全的水](LQ_WaterUnsafe.md)  
 ## 可用于蓝图  
 - [胶水(蓝图)](Bp_Glue.md)  
   

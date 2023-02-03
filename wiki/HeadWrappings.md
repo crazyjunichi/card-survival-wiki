@@ -10,15 +10,15 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[头部（内层）(蓝图)](InnerHeadBlueprint.md) , [布](Cloth.md)  |  制作头巾  
+[头部（内层）(蓝图)](InnerHeadBlueprint.md)  |  制作头巾<br>** 拖入：**[布](Cloth.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>  [布片](ClothSmall.md)(+2)<br>  |    
+撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [布片](ClothSmall.md)(+2)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br>  
+使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br><br>自身→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

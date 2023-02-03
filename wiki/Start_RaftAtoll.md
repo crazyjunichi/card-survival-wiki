@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-把木筏推下水<br>  |  1小时  |    |  ** 自身：**<br>消失<br><br>** 相关卡牌 **<br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  
+把木筏推下水<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 相关卡牌 **<br>[离开木筏](RaftExitAtoll.md)  |  [航行](Sailed.md)+1  
 
 
 <script>document.title="开始冒险 - 卡牌生存百科 Card Survival Wiki";</script>

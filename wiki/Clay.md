@@ -11,14 +11,14 @@
 来源  |  操作  
 ----  |  ----  
 [泥堆](MudPile.md)  |  制作粘土  
-[泥堆](MudPile.md) , [“锤”](tag_Hammer.md)  |  制作粘土  
+[泥堆](MudPile.md)  |  制作粘土<br>** 拖入：**[“锤”](tag_Hammer.md)  
 [未烧制的陶碗](ClayBowlUnfired.md)  |  摔碎  
-[细土](FineDirt.md) , [“水”](tag_WaterAny.md)  |  加水搅拌  
+[细土](FineDirt.md)  |  加水搅拌<br>** 拖入：**[“水(任意)”](tag_WaterAny.md)  
 [装饰品模具](MoldCopperDecoration.md)  |  回收  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“抗裂剂”](tag_Temper.md)  |  制作碗<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br><br>** 使用物: **<br>消失  |    
+[“抗裂剂”](tag_Temper.md)  |  制作碗<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [未烧制的陶碗](ClayBowlUnfired.md)<br><br>** 使用物: **<br>→消失  |    
 ## 可用于蓝图  
 - [熏蜂器(蓝图)](Bp_BeeSmoker.md)  
 - [地窖(蓝图)](Bp_Cellar.md)  

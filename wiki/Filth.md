@@ -21,12 +21,13 @@
 [啊！(事件)](Event_MacaqueFightBadFailure.md)  |  继续  |  75  
 [啊！(事件)](Event_MacaqueFightFailedRetreat.md)  |  继续  |  75  
 [我拿下它了，但我受伤了。(事件)](Event_MacaqueFightMixedSuccess.md)  |  继续  |  75  
-[粪池](Cesspool.md)  |  清理  |  50  
+[粪池](Cesspool.md)  |  清理<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  50  
 [野参薯](YamPlant.md)  |  刨参薯根  |  40  
-[火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  35  
-[猕猴尸体](MacaqueCarcass.md)  |  剔肉  |  35  
-[滤水器](WaterFilter.md)  |  拆除  |  35  
-[水槽](WateringTrough.md)  |  拆除  |  30  
+[火炉(熄灭)](StoveExtinguished.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  35  
+[猕猴尸体](MacaqueCarcass.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  35  
+[猕猴尸体](MacaqueCarcass.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  35  
+[滤水器](WaterFilter.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  35  
+[水槽](WateringTrough.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  30  
 [野猪伤到了我！(事件)](Event_BoarWoundMajor.md)  |  真他妈不错  |  30  
 [野猪伤到了我！(事件)](Event_BoarWoundMinor.md)  |  真不错  |  30  
 [无人机伤到了我！(事件)](Event_DroneWoundMajor.md)  |  真他妈不错  |  30  
@@ -70,93 +71,109 @@
 [蜂箱](BeeSkep.md)  |  采集  |  20  
 [繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  |  20  
 [蜂巢](Beehive.md)  |  采集  |  20  
-[中陷阱的猕猴](CageTrapMacaque.md)  |  杀害  |  20  
-[母猪](BoarEnclosureFemale.md)  |  宰杀  |  20  
-[公猪](BoarEnclosureMale.md)  |  宰杀  |  20  
-[小猪](BoarEnclosurePiglet.md)  |  宰杀  |  20  
-[母猪](BoarTiedFemale.md)  |  宰杀  |  20  
-[公猪](BoarTiedMale.md)  |  宰杀  |  20  
-[小猪](BoarTiedPiglet.md)  |  宰杀  |  20  
-[忠犬朋友](DogFriend.md)  |  杀害！  |  20  
-[母山羊](GoatEnclosureFemale.md)  |  宰杀  |  20  
-[小羊](GoatEnclosureKid.md)  |  宰杀  |  20  
-[哺乳期山羊](GoatEnclosureLactating.md)  |  宰杀  |  20  
-[公山羊](GoatEnclosureMale.md)  |  宰杀  |  20  
-[母山羊](GoatTiedFemale.md)  |  宰杀  |  20  
-[哺乳期山羊](GoatTiedFemaleLactating.md)  |  宰杀  |  20  
-[小羊](GoatTiedKid.md)  |  宰杀  |  20  
-[公山羊](GoatTiedMale.md)  |  宰杀  |  20  
-[猕猴朋友](MacaqueFriend.md)  |  杀害！  |  20  
-[受伤的猕猴](MacaqueWounded.md)  |  解脱  |  20  
-[灰山鹑尸体](PartridgeDead.md)  |  剖开  |  20  
-[雌灰山鹑](PartridgeFemaleEnclosure.md)  |  剖开  |  20  
-[雌灰山鹑](PartridgeFemaleLive.md)  |  剖开  |  20  
-[雄灰山鹑](PartridgeMaleEnclosure.md)  |  剖开  |  20  
-[雄灰山鹑](PartridgeMaleLive.md)  |  剖开  |  20  
-[海鸥尸体](SeagullDead.md)  |  剖开  |  20  
-[韦斯顿](Weston.md)  |  杀害！  |  20  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  杀害<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[母猪](BoarEnclosureFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[公猪](BoarEnclosureMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[小猪](BoarEnclosurePiglet.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[母猪](BoarTiedFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[公猪](BoarTiedMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[小猪](BoarTiedPiglet.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[忠犬朋友](DogFriend.md)  |  杀害！<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  |  20  
+[母山羊](GoatEnclosureFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[小羊](GoatEnclosureKid.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[哺乳期山羊](GoatEnclosureLactating.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[公山羊](GoatEnclosureMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[母山羊](GoatTiedFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[哺乳期山羊](GoatTiedFemaleLactating.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[小羊](GoatTiedKid.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[公山羊](GoatTiedMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  |  20  
+[猕猴朋友](MacaqueFriend.md)  |  杀害！<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  |  20  
+[受伤的猕猴](MacaqueWounded.md)  |  解脱<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[灰山鹑尸体](PartridgeDead.md)  |  剖开<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  20  
+[灰山鹑尸体](PartridgeDead.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[雌灰山鹑](PartridgeFemaleEnclosure.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[雌灰山鹑](PartridgeFemaleLive.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[雄灰山鹑](PartridgeMaleEnclosure.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[雄灰山鹑](PartridgeMaleLive.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[海鸥尸体](SeagullDead.md)  |  剖开<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  20  
+[海鸥尸体](SeagullDead.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  20  
+[韦斯顿](Weston.md)  |  杀害！<br>** 拖入：**[“锤”](tag_Hammer.md)  |  20  
 [干土堆](DirtPile.md)  |  碾碎干土  |  15  
 [泥堆](MudPile.md)  |  制作粘土  |  15  
-[泥堆](MudPile.md)  |  制作泥砖  |  15  
-[座椅](Seat.md)  |  拆解  |  15  
-[座椅](SeatPlaced.md)  |  拆卸  |  15  
+[泥堆](MudPile.md)  |  制作泥砖<br>** 拖入：**[“抗裂剂”](tag_Temper.md)  |  15  
+[座椅](Seat.md)  |  拆解<br>** 拖入：**[“斧”](tag_Axe.md)  |  15  
+[座椅](SeatPlaced.md)  |  拆卸<br>** 拖入：**[“斧”](tag_Axe.md) , [“斧”](tag_Axe.md)  |  15  
 [滑倒了！(事件)](Event_SlipRocks.md)  |  ……  |  15  
-[细土](FineDirt.md)  |  加水搅拌  |  15  
-[野猪尸体](BoarCarcass.md)  |  剥皮  |  15  
-[小猪尸体](BoarCarcassPiglet.md)  |  剥皮  |  15  
-[剥皮的野猪](BoarSkinned.md)  |  剔肉  |  15  
-[剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉  |  15  
-[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮  |  15  
-[小羊尸体](GoatCarcassKid.md)  |  剥皮  |  15  
-[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮  |  15  
-[剥皮的山羊](GoatSkinned.md)  |  剔肉  |  15  
-[剥皮的小羊](GoatSkinnedKid.md)  |  剔肉  |  15  
+[细土](FineDirt.md)  |  加水搅拌<br>** 拖入：**[“水(任意)”](tag_WaterAny.md)  |  15  
+[野猪尸体](BoarCarcass.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[野猪尸体](BoarCarcass.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[小猪尸体](BoarCarcassPiglet.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[小猪尸体](BoarCarcassPiglet.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[剥皮的野猪](BoarSkinned.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[剥皮的野猪](BoarSkinned.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[剥皮的猪](BoarSkinnedPiglet.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[山羊尸体(母)](GoatCarcassFemale.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[小羊尸体](GoatCarcassKid.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[小羊尸体](GoatCarcassKid.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[山羊尸体(公)](GoatCarcassMale.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[剥皮的山羊](GoatSkinned.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[剥皮的山羊](GoatSkinned.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[剥皮的小羊](GoatSkinnedKid.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[剥皮的小羊](GoatSkinnedKid.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
 [醉蟹](DrunkenCrab.md)  |  食用  |  15  
 [炒菇球](FriedPuffballs.md)  |  食用  |  15  
 [热带烤鸡](IslandChicken.md)  |  食用  |  15  
 [丛林沙拉](JungleSalad.md)  |  食用  |  15  
-[巨蜥尸体](MonitorCarcass.md)  |  剥皮  |  15  
-[剥皮的巨蜥](MonitorSkinned.md)  |  剔肉  |  15  
-[野参薯](YamPlant.md)  |  刨参薯根  |  15  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植金鸡纳树  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植野枣  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水稻  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植咖啡  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植柠檬草  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蛇草  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芦荟  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植卡瓦胡椒  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蜘蛛兰  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植姜  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植参薯  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植大叶仙茅  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植辣椒  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植茉莉花  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植月季花  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植热带杏仁  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植香蕉树  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水椰  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植西米树  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植椰子树  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芒果树  |  10  
-[未栽种的农田(空)](CropPlotEmpty.md)  |  种植棕榈丛  |  10  
-[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植马勃菌  |  10  
-[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植迷幻菇  |  10  
-[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植杂菌  |  10  
+[巨蜥尸体](MonitorCarcass.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[巨蜥尸体](MonitorCarcass.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[剥皮的巨蜥](MonitorSkinned.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  15  
+[剥皮的巨蜥](MonitorSkinned.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  15  
+[野参薯](YamPlant.md)  |  刨参薯根<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  15  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植金鸡纳树<br>** 拖入：**[金鸡纳树皮](BarkCinchona.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植野枣<br>** 拖入：**[野枣](JujubeFruits.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水稻<br>** 拖入：**[稻米](RiceGrains.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植咖啡<br>** 拖入：**[咖啡豆](CoffeeBeans.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植柠檬草<br>** 拖入：**[柠檬草](LemongrassStalks.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蛇草<br>** 拖入：**[蛇草](SnakeGrass.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芦荟<br>** 拖入：**[芦荟叶](AloeVeraLeaf.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植卡瓦胡椒<br>** 拖入：**[卡瓦根](KavaRoot.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植蜘蛛兰<br>** 拖入：**[蜘蛛兰叶](SpiderLilyLeaves.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植姜<br>** 拖入：**[姜](Ginger.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植参薯<br>** 拖入：**[参薯](Yam.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植大叶仙茅<br>** 拖入：**[大叶仙茅叶片](WeevilLilyLeaves.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植辣椒<br>** 拖入：**[辣椒](Chilies.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植茉莉花<br>** 拖入：**[茉莉花](JasmineFlowers.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植月季花<br>** 拖入：**[月季](ChinaRoseFlowers.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植热带杏仁<br>** 拖入：**[热带杏仁](TropicalAlmonds.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植香蕉树<br>** 拖入：**[香蕉](Banana.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植水椰<br>** 拖入：**[水椰籽](NipaSeeds.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植西米树<br>** 拖入：**[西米树种](SagoSeeds.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植椰子树<br>** 拖入：**[椰子](Coconut.md) , [青椰子](CoconutHusked.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植芒果树<br>** 拖入：**[芒果](Mango.md)  |  10  
+[未栽种的农田(空)](CropPlotEmpty.md)  |  种植棕榈丛<br>** 拖入：**[棕榈丛种子](PalmBushSeeds.md)  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植马勃菌<br>** 拖入：**[马勃菌](Puffballs.md)  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植迷幻菇<br>** 拖入：**[迷幻菇](MagicMushrooms.md)  |  10  
+[未种植的菌床(空)](MushroomBedEmpty.md)  |  种植杂菌<br>** 拖入：**[杂菌](AssortedMushrooms.md)  |  10  
 [干土堆](DirtPile.md)  |  制作泥巴  |  10  
-[干土堆](DirtPile.md)  |  碾碎干土  |  10  
-[泥堆](MudPile.md)  |  制作粘土  |  10  
+[干土堆](DirtPile.md)  |  制作泥巴<br>** 拖入：**[“水(任意)”](tag_WaterAny.md)  |  10  
+[干土堆](DirtPile.md)  |  碾碎干土<br>** 拖入：**[“锤”](tag_Hammer.md)  |  10  
+[泥堆](MudPile.md)  |  制作粘土<br>** 拖入：**[“锤”](tag_Hammer.md)  |  10  
 [它逃跑了！(事件)](Event_MacaqueFightFailure.md)  |  继续  |  10  
 [它逃跑了！(事件)](Event_MacaqueUndeadFightFailure.md)  |  继续  |  10  
-[北梭鱼](Bonefish.md)  |  剖开  |  10  
+[北梭鱼](Bonefish.md)  |  剖开<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  10  
 [食丸](GastricPellet.md)  |  采集  |  10 ~ 25  
-[大马鲅鱼](KingThreadfin.md)  |  切割  |  10  
+[大马鲅鱼](KingThreadfin.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  10  
 [蛋炒饭](EggFriedRice.md)  |  食用  |  10  
 [辣炒巨蜥肉](LizardFry.md)  |  食用  |  10  
 [海鲜杂烩](SeafoodCup.md)  |  食用  |  10  
 [参薯咖喱](YamCurry.md)  |  食用  |  10  
-[海怪尸体](SeahoundCarcass.md)  |  切割  |  10  
-[鲨鱼尸体](SharkCarcass.md)  |  切割  |  10  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  10  
+[海怪尸体](SeahoundCarcass.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  10  
+[鲨鱼尸体](SharkCarcass.md)  |  切割<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  |  10  
+[鲨鱼尸体](SharkCarcass.md)  |  切割<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  10  
 [泥滩](MudDeposit.md)  |  挖泥巴  |  10  
 [干涸的小水塘(湿地)](Puddle.md)  |  挖泥巴  |  10  
 [干涸的小水塘(湿地)](Puddle.md)  |  挖干土  |  10  
@@ -233,7 +250,7 @@
 [鲱鱼](Herring.md)  |  食用  |  5  
 [烤鲱鱼](HerringCooked.md)  |  食用  |  5  
 [烟熏鲱鱼](HerringSmoked.md)  |  食用  |  5  
-[哺乳期山羊](GoatEnclosureLactating.md)  |  挤奶  |  5  
+[哺乳期山羊](GoatEnclosureLactating.md)  |  挤奶<br>** 拖入：**[“储水容器”](tag_WaterContainer.md)  |  5  
 [猕猴肉](MacaqueMeat.md)  |  食用  |  5  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  5  
 [猕猴肉干](MacaqueMeatDried.md)  |  食用  |  5  
@@ -264,7 +281,7 @@
 [烤鹦哥鱼](ParrotFishCooked.md)  |  食用  |  5  
 [烟熏鹦哥鱼](ParrotFishSmoked.md)  |  食用  |  5  
 [米饭](RiceCooked.md)  |  食用  |  5  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  5  
+[腐烂物](RottenRemains.md)  |  食用  |  5  
 [烤海怪肉](SeahoundCooked.md)  |  食用  |  5  
 [海怪肉](Seahoundmeat.md)  |  食用  |  5  
 [烤鲨鱼肉](SharkCooked.md)  |  食用  |  5  
@@ -282,15 +299,15 @@
 [螃蟹](Crab.md)  |  食用  |  4  
 [烤螃蟹](CrabCooked.md)  |  食用  |  4  
 [烤鱼杂](FishScrapsCooked.md)  |  食用  |  4  
-[姜](Ginger.md)  |  捣碎  |  4  
-[干姜](GingerDried.md)  |  捣碎  |  4  
+[姜](Ginger.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
+[干姜](GingerDried.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
 [姜末](GingerGround.md)  |  食用  |  4  
-[茉莉花](JasmineFlowers.md)  |  捣碎  |  4  
-[卡瓦根](KavaRoot.md)  |  捣碎  |  4  
-[干燥的卡瓦根](KavaRootDried.md)  |  捣碎  |  4  
+[茉莉花](JasmineFlowers.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
+[卡瓦根](KavaRoot.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
+[干燥的卡瓦根](KavaRootDried.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
 [捣碎的卡瓦根](KavaRootGround.md)  |  食用  |  4  
 [捣碎的柠檬草](LemonGrassGround.md)  |  食用  |  4  
-[柠檬草](LemongrassStalks.md)  |  捣碎  |  4  
+[柠檬草](LemongrassStalks.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
 [蜥蜴](Lizard.md)  |  食用  |  4  
 [烤蜥蜴](LizardCooked.md)  |  食用  |  4  
 [老鼠尸体](Mouse.md)  |  食用  |  4  
@@ -301,9 +318,9 @@
 [小灰山鹑尸体](PartridgeChickDead.md)  |  食用  |  4  
 [捣碎的蛇草](SnakeGrassGround.md)  |  食用  |  4  
 [捣碎的蜘蛛兰](SpiderLilyGround.md)  |  食用  |  4  
-[蜘蛛兰叶](SpiderLilyLeaves.md)  |  捣碎叶子  |  4  
-[干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  捣碎叶子  |  4  
-[蛇草](SnakeGrass.md)  |  捣碎  |  4  
+[蜘蛛兰叶](SpiderLilyLeaves.md)  |  捣碎叶子<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
+[干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md)  |  捣碎叶子<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
+[蛇草](SnakeGrass.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  |  4  
 [黄油](Butter.md)  |  食用  |  3  
 [脂肪](Fat.md)  |  食用  |  3  
 [野枣](JujubeFruits.md)  |  食用  |  3  

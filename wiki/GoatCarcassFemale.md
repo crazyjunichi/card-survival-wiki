@@ -12,17 +12,17 @@
 ----  |  ----  
 [原木陷阱](LogTrap.md)  |  捕捉猎物  
 [拿下了！(事件)](Event_GoatFightSuccess.md)  |  继续  
-[母山羊](GoatEnclosureFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[母山羊](GoatEnclosureFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [母山羊](GoatEnclosureFemale.md)  |  噢不！  
 [母山羊](GoatEnclosureFemale.md)  |  渴死了  
-[哺乳期山羊](GoatEnclosureLactating.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[哺乳期山羊](GoatEnclosureLactating.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [哺乳期山羊](GoatEnclosureLactating.md)  |  转化  
 [哺乳期山羊](GoatEnclosureLactating.md)  |  渴死了  
-[公山羊](GoatEnclosureMale.md) , [大石块](StoneHeavy.md)  |  宰杀  
-[母山羊](GoatTiedFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[公山羊](GoatEnclosureMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
+[母山羊](GoatTiedFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [母山羊](GoatTiedFemale.md)  |  转化  
 [母山羊](GoatTiedFemale.md)  |  渴死了  
-[哺乳期山羊](GoatTiedFemaleLactating.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[哺乳期山羊](GoatTiedFemaleLactating.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [哺乳期山羊](GoatTiedFemaleLactating.md)  |  转化  
 [哺乳期山羊](GoatTiedFemaleLactating.md)  |  渴死了  
 ## 可拖入  
@@ -33,7 +33,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头](Bones.md)(+3)<br><br>自身→消失  
 
 
 <script>document.title="山羊尸体 - 卡牌生存百科 Card Survival Wiki";</script>

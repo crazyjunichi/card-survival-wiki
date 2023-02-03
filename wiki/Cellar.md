@@ -29,7 +29,7 @@ Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprit
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Preserve  |  [“饲料”](tag_Feed.md)<br>[“可烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久+0.25  |    
+Preserve  |  [“饲料”](tag_Feed.md)<br>[“已烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久+0.25  |    
 
 
 <script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

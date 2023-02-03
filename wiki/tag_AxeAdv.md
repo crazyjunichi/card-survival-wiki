@@ -1,5 +1,7 @@
-# “斧状的”  
-- [铜斧](AxeCopper.md)  
-- [燧石斧](AxeFlint.md)  
-- [废金属斧](AxeScrap.md)  
-- [求生斧](AxeSurvival.md)  
+# “高级斧”  
+名称  |  可使用次数  
+----  |  ----  
+[铜斧](AxeCopper.md)  |  50  
+[燧石斧](AxeFlint.md)  |  25  
+[废金属斧](AxeScrap.md)  |  40  
+[求生斧](AxeSurvival.md)  |  50  

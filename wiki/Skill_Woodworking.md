@@ -22,14 +22,19 @@
 [弓(蓝图)](Bp_Bow.md)  |  蓝图制造  |  1  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  |  1  
 [木铲(蓝图)](Bp_WoodenShovel.md)  |  蓝图制造  |  1  
-[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻  |  1  
-[大树](LargeTree.md)  |  砍树  |  1  
-[倒下的大树](LargeTreeFelled.md)  |  修整原木  |  1  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  1  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  1  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  1  
-[半根原木](HalfLog.md)  |  切割成木材  |  0.5  
-[原木](Log.md)  |  截成两段  |  0.5  
+[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  1  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  1  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  1  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[石斧](StoneAxe.md)  |  1  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[“斧”](tag_Axe.md)  |  1  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  1  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  1  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  1  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  1  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[石斧](StoneAxe.md)  |  1  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[“斧”](tag_Axe.md)  |  1  
+[半根原木](HalfLog.md)  |  切割成木材<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[原木](Log.md)  |  截成两段<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
 [箭矢(蓝图)](Bp_Arrow.md)  |  蓝图制造  |  0.5  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  0.5  
 [弓钻(蓝图)](Bp_BowDrill.md)  |  蓝图制造  |  0.5  
@@ -41,22 +46,35 @@
 [木雕(蓝图)](Bp_WoodCarvings.md)  |  蓝图制造  |  0.5  
 [木屑(蓝图)](Bp_WoodShavings.md)  |  蓝图制造  |  0.5  
 [木针(蓝图)](Bp_WoodenNeedles.md)  |  蓝图制造  |  0.5  
-[小树枝](Sticks.md)  |  制作手钻  |  0.5  
-[野猪牙](Tusk.md)  |  雕刻  |  0.5  
-[木材](Wood.md)  |  刨花  |  0.5  
-[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  0.5  
-[丛林(区域)](Jungle.md)  |  砍伐木材  |  0.5  
-[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  0.5  
-[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  0.5  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  0.5  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  0.5  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  0.5  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  0.5  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  0.5  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  0.5  
-[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  0.25  
-[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  0.25  
-[红树林(区域)](Mangroves.md)  |  砍伐木材  |  0.25  
+[小树枝](Sticks.md)  |  制作手钻<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  0.5  
+[野猪牙](Tusk.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  0.5  
+[木材](Wood.md)  |  刨花<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  0.5  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.5  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  0.5  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.5  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.25  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.25  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.25  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.25  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0.25  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  0.25  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -64,6 +82,7 @@
 [木工技能提升！(事件)](Event_SkillWoodworking3.md)  |  触发事件  |  70 ~ 150  
 [木工技能提升！(事件)](Event_SkillWoodworking2.md)  |  触发事件  |  30 ~ 150  
 [木工技能提升！(事件)](Event_SkillWoodworking1.md)  |  触发事件  |  10 ~ 150  
+[野猪牙](Tusk.md)  |  影响  |  1 ~ 150  
 [未完成的木雕](WoodCarving_Unfinished.md)  |  影响  |  1 ~ 150  
 
 

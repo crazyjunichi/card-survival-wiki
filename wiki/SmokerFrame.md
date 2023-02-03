@@ -17,7 +17,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[塑料布](PlasticSheet.md)  |  覆盖烟熏炉<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)<br><br>** 使用物: **<br>消失  |    
+[塑料布](PlasticSheet.md)  |  覆盖烟熏炉<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [烟熏炉(塑料布)(无火)](SmokerNoFirePlastic.md)<br><br>** 使用物: **<br>→消失  |    
 
 
 <script>document.title="烟熏炉框架 - 卡牌生存百科 Card Survival Wiki";</script>

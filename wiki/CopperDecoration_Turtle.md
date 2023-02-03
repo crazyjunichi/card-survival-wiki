@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[铜制装饰品](CopperDecoration_Mold.md) , [“锤”](tag_Hammer.md)  |  敲开  
+[铜制装饰品](CopperDecoration_Mold.md)  |  敲开<br>** 拖入：**[“锤”](tag_Hammer.md)  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

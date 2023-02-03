@@ -13,15 +13,15 @@
 [礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
 [潮湿洞穴(区域)](DampChamber.md)  |  探索  
 [幽暗洞穴(区域)](DarkCave.md)  |  探索  
-[东部草原(区域)](GrasslandsE.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[西部草原(区域)](GrasslandsW.md) , [“铲子”](tag_Shovel.md)  |  挖土  
-[神秘谷(区域)](SecretValley.md) , [“铲子”](tag_Shovel.md)  |  挖土  
+[东部草原(区域)](GrasslandsE.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  
+[西部草原(区域)](GrasslandsW.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  
+[神秘谷(区域)](SecretValley.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  
 [干涸的小水塘(湿地)](Puddle.md)  |  挖干土  
-[干涸的小水塘(湿地)](Puddle.md) , [“铲子”](tag_Shovel.md)  |  挖干土  
+[干涸的小水塘(湿地)](Puddle.md)  |  挖干土<br>** 拖入：**[“铲子”](tag_Shovel.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用肉类动作](CarnivorousAction.md)<br>[食用海鲜动作](ShellfishAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>消失<br>使用次数  -1  |  [饱食](Satiation.md)+2<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+1<br>[情绪](Morale.md)-10<br>[世界观](Structure.md)-10<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)+10  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[食用海鲜动作](ShellfishAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>→消失<br>使用次数  -1  |  [饱食](Satiation.md)+2<br>[胃](Stomach.md)+1<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+1<br>[情绪](Morale.md)-10<br>[世界观](Structure.md)-10<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)+10  
 ## 可拖至  
 [猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md) | [钓鱼线](FishingLine.md) | [钓鱼线](FishingLineRustic.md) | [钓鱼竿](FishingRod.md)  
 ## 可用于蓝图  
@@ -32,7 +32,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br>  
+耐久  |  初始：278  |  每15分钟-1<br>最多需要：2天21小时30分  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="虫子 - 卡牌生存百科 Card Survival Wiki";</script>

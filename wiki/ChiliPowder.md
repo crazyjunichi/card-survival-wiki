@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[干辣椒](ChiliesDried.md) , [“锤”](tag_Hammer.md)  |  捣碎  
+[干辣椒](ChiliesDried.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  
 ## 可用于蓝图  
 - [辣椒农药(蓝图)](Bp_PesticideChilli.md)  
 - [鱼肉塔可(蓝图)](Bp_FishTaco.md)  

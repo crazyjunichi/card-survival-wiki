@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[铜针](CopperNeedle.md) , [细线](CordFiber.md)  |  穿线  
+[铜针](CopperNeedle.md)  |  穿线<br>** 拖入：**[细线](CordFiber.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>→ [铜针](CopperNeedle.md)  
+  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>自身→ [铜针](CopperNeedle.md)  
 
 
 <script>document.title="针线 - 卡牌生存百科 Card Survival Wiki";</script>

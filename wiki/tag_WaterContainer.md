@@ -1,17 +1,17 @@
 # “储水容器”  
 名称  |  储水量  
 ----  |  ----  
-[干土堆](DirtPile.md)  |  0  
-[泥堆](MudPile.md)  |  0  
+[干土堆](DirtPile.md)  |    
+[泥堆](MudPile.md)  |    
 [带孔椰子](CoconutPerforated.md)  |  300  
-[风箱](Bellows.md)  |  0  
+[风箱](Bellows.md)  |    
 [水壶](Canteen.md)  |  600  
 [陶碗](ClayBowl.md)  |  300  
 [小陶罐](ClayJar.md)  |  150  
 [茉莉花(陶罐)](ClayJarJasmine.md)  |  150  
 [陶罐](ClayVase.md)  |  1200  
-[椰壶](CoconutFlask.md)  |  0  
-[神赐壶](CoconutFlaskAmbrosia.md)  |  0  
+[椰壶](CoconutFlask.md)  |    
+[神赐壶](CoconutFlaskAmbrosia.md)  |    
 [椰子壳](CoconutShell.md)  |  300  
 [烹饪锅](CookingPot.md)  |  600  
 [铜瓶](CopperBottle.md)  |  600  
@@ -19,9 +19,9 @@
 [釉面陶罐](GlazedVase.md)  |  900  
 [葫芦瓶](GourdBottle.md)  |  600  
 [油桶](Jerrycan.md)  |  2400  
-[装有燃料的油桶](JerrycanFuel.md)  |  0  
+[装有燃料的油桶](JerrycanFuel.md)  |    
 [塑料瓶](PlasticBottle.md)  |  300  
 [塑料瓶(满)](PlasticBottleFull.md)  |  300  
 [茉莉花(塑料瓶)](PlasticBottleJasmine.md)  |  300  
 [水袋](Waterskin.md)  |  900  
-[细土](FineDirt.md)  |  0  
+[细土](FineDirt.md)  |    

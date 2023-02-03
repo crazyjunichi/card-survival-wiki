@@ -10,8 +10,8 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[小羊尸体](GoatCarcassKid.md) , [黑曜石刀](KnifeObsidian.md)  |  剥皮  
-[小羊尸体](GoatCarcassKid.md) , [“切割工具”](tag_Cutter.md)  |  剥皮  
+[小羊尸体](GoatCarcassKid.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[小羊尸体](GoatCarcassKid.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -20,8 +20,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  [腐烂物(猕猴窝)](RottenRemains.md)(+3～+6)<br>  
-肉  |  初始：2<br>最大：2  |  -  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+2)<br>  [凝乳酶](Rennet.md)(+1)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+3)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br><br>自身→消失  
+肉  |  初始：2<br>最大：2  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+2)<br>  [凝乳酶](Rennet.md)(+1)<br><br>自身→消失  
 
 
 <script>document.title="剥皮的小羊 - 卡牌生存百科 Card Survival Wiki";</script>

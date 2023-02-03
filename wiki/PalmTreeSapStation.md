@@ -14,7 +14,7 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石斧](StoneAxe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>→ [倒下的棕榈树](PalmTreeFelled.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconuts and Leaves] **<br>  [棕榈叶](PalmFronds.md)(+3～+6)<br>  [细线](CordFiber.md)(+3)<br>  [布](Cloth.md)(+3)<br>  [绳子](Rope.md)(+2)<br>基础权重：1  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+80  
-[“锤”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  45分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>→ [倒下的棕榈树](PalmTreeFelled.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconuts and Leaves] **<br>  [棕榈叶](PalmFronds.md)(+3～+6)<br>  [细线](CordFiber.md)(+3)<br>  [布](Cloth.md)(+3)<br>  [绳子](Rope.md)(+2)<br>基础权重：1  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60  
+[“斧”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  45分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>→ [倒下的棕榈树](PalmTreeFelled.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Coconuts and Leaves] **<br>  [棕榈叶](PalmFronds.md)(+3～+6)<br>  [细线](CordFiber.md)(+3)<br>  [布](Cloth.md)(+3)<br>  [绳子](Rope.md)(+2)<br>基础权重：1  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -23,7 +23,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>→ [树液补给点(空)](PalmTreeSapStationEmpty.md)  
+<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>自身→ [树液补给点(空)](PalmTreeSapStationEmpty.md)  
 
 
 <script>document.title="树液收集处 - 卡牌生存百科 Card Survival Wiki";</script>

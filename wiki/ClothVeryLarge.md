@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [吊床](Hammock.md)  |  拆解  
-[织布机](Loom.md) , [大块的布](ClothLarge.md)  |  扩大布匹  
+[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[大块的布](ClothLarge.md)  
 [防蜂服](BeeSuit.md)  |  拆解  
 [防蜂服](BeeSuit.md)  |  转化  
 ## 动作  

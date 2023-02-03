@@ -53,7 +53,8 @@
 [燧石](Flint.md)  |  练习投石  |  0 ~ 2  
 [投石索](Sling.md)  |  练习  |  0 ~ 2  
 [石头](Stone.md)  |  练习投石  |  0 ~ 2  
-[大树](LargeTree.md)  |  砍树  |  0 ~ 2  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  0 ~ 2  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  0 ~ 2  
 
 
 <script>document.title="手部动作受限 - 卡牌生存百科 Card Survival Wiki";</script>

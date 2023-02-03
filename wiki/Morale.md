@@ -38,7 +38,7 @@
 [柠檬草](LemongrassStalks.md)  |  食用  |  加成+0  
 [虾](Prawns.md)  |  食用  |  加成+0  
 [煮熟的参薯](YamBoiled.md)  |  食用  |  加成+0  
-[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理  |  加成+0  
+[眼镜蛇毒液](W_CobraSpit.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  加成+0  
 [蜂蜜水](LQ_HoneyWater.md)  |  饮用  |  加成+0  
 [糖水](LQ_SugarWater.md)  |  饮用  |  加成+0  
 [鬼掌印](W_HunterMark.md)  |  条件被动  |  加成-1  
@@ -108,7 +108,7 @@
 [木工技能提升！(事件)](Event_SkillWoodworking3.md)  |  真不错！  |  100  
 [木工技能提升！(事件)](Event_SkillWoodworking4.md)  |  真不错！  |  100  
 [监视者(事件)](Event_WatchedExperience1gGod.md)  |  成为监视者  |  100  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！  |  100  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  |  100  
 [泥屋(蓝图)](Bp_MudHut.md)  |  蓝图制造  |  50  
 [石屋(蓝图)](Bp_StoneHut.md)  |  蓝图制造  |  50  
 [韦斯顿(Special1e)(事件)](Event_WestonSpecial1e.md)  |  继续  |  50  
@@ -142,9 +142,9 @@
 [地区探索完毕(事件)(神秘谷)](Event_SecretValleyExplored.md)  |  继续  |  25  
 [地区探索完毕(事件)](Event_VolcanoExplored.md)  |  继续  |  25  
 [地区探索完毕(事件)(湿地)](Event_WetlandsExplored.md)  |  继续  |  25  
-[铜制装饰品](CopperDecoration_Mold.md)  |  敲开  |  25  
+[铜制装饰品](CopperDecoration_Mold.md)  |  敲开<br>** 拖入：**[“锤”](tag_Hammer.md)  |  25  
 [肉食盛宴](HeartyFeast.md)  |  食用  |  25  
-[野猪牙](Tusk.md)  |  雕刻  |  25  
+[野猪牙](Tusk.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  25  
 [棚屋(蓝图)](Bp_Shed.md)  |  蓝图制造  |  20  
 [野猪倒下了！(事件)](Event_BoarFightSuccess.md)  |  继续  |  20  
 [成功！(事件)](Event_CobraFightSuccess.md)  |  继续  |  20  
@@ -280,8 +280,10 @@
 [腌羊肉](GoatMeatSalted.md)  |  食用  |  5  
 [腌制中的羊肉](GoatMeatSaltedDrying.md)  |  食用  |  5  
 [烟熏羊肉](GoatMeatSmoked.md)  |  食用  |  5  
-[祖父](Grandfather.md)  |  喂食  |  5  
-[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  5  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  |  5  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  |  5  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  |  5  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  |  5  
 [烤猕猴肉](MacaqueMeatCooked.md)  |  食用  |  5  
 [猕猴肉干](MacaqueMeatDried.md)  |  食用  |  5  
 [腌猕猴肉](MacaqueMeatSalted.md)  |  食用  |  5  
@@ -301,31 +303,31 @@
 [烤海怪肉](SeahoundCooked.md)  |  食用  |  5  
 [手机(开)](PhoneOn.md)  |  玩游戏  |  5  
 [手机](PhoneOnLight.md)  |  玩游戏  |  5  
-[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻  |  5  
+[未完成的木雕](WoodCarving_Unfinished.md)  |  雕刻<br>** 拖入：**[“高级切割工具”](tag_CutterAdv.md)  |  5  
 [蜂蜜酒](LQ_Mead.md)  |  饮用  |  5  
 [棕榈酒](LQ_PalmWine.md)  |  饮用  |  5  
-[蝙蝠洞(区域)](CaveBats.md)  |  打扫  |  5  
-[草原洞穴(区域)(洞穴)](CaveGrasslands.md)  |  打扫  |  5  
-[海蚀洞(区域)(洞穴)](CaveSea.md)  |  打扫  |  5  
-[晶石洞穴(区域)(洞穴上层)](CrystalChamber.md)  |  打扫  |  5  
-[潮湿洞穴(区域)](DampChamber.md)  |  打扫  |  5  
-[黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  打扫  |  5  
-[覆溺洞穴(区域)](FloodedChamber.md)  |  打扫  |  5  
-[洞穴上层(区域)](HighChamber.md)  |  打扫  |  5  
-[洞穴底层(区域)](LowChamber.md)  |  打扫  |  5  
-[洞穴中层(区域)](MidChamber.md)  |  打扫  |  5  
-[狭窄隧道(区域)(洞穴上层)](NarrowTunnel.md)  |  打扫  |  5  
-[隧道(区域)](Tunnel.md)  |  打扫  |  5  
-[潮汐洞(区域)](CaveTidal.md)  |  打扫  |  5  
-[地窖(区域)](Cellar.md)  |  打扫  |  5  
-[幽暗洞穴(区域)](DarkCave.md)  |  打扫  |  5  
-[畜栏(区域)](Enclosure.md)  |  打扫  |  5  
-[猕猴窝(区域)](MacaqueDen.md)  |  打扫  |  5  
-[泥屋(区域)](MudHut.md)  |  打扫  |  5  
-[泥屋(区域)](MudHutRuins.md)  |  打扫  |  5  
-[飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  打扫  |  5  
-[棚屋(区域)](Shed.md)  |  打扫  |  5  
-[石屋(区域)](StoneHut.md)  |  打扫  |  5  
+[蝙蝠洞(区域)](CaveBats.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[草原洞穴(区域)(洞穴)](CaveGrasslands.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[海蚀洞(区域)(洞穴)](CaveSea.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[晶石洞穴(区域)(洞穴上层)](CrystalChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[潮湿洞穴(区域)](DampChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[黑暗(区域)(阴暗洞穴)](DarkChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[覆溺洞穴(区域)](FloodedChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[洞穴上层(区域)](HighChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[洞穴底层(区域)](LowChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[洞穴中层(区域)](MidChamber.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[狭窄隧道(区域)(洞穴上层)](NarrowTunnel.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[隧道(区域)](Tunnel.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[潮汐洞(区域)](CaveTidal.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[地窖(区域)](Cellar.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[幽暗洞穴(区域)](DarkCave.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[畜栏(区域)](Enclosure.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[猕猴窝(区域)](MacaqueDen.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[泥屋(区域)](MudHut.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[飞机残骸(区域)(坠毁的飞机)](PlaneCrash.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[棚屋(区域)](Shed.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
+[石屋(区域)](StoneHut.md)  |  打扫<br>** 拖入：**[扫帚](Broom.md)  |  5  
 [婴儿](Baby.md)  |  一起玩耍  |  4  
 [鱼肉塔可](FishTaco.md)  |  食用  |  4  
 [烤海胆](UrchinMeatCooked.md)  |  食用  |  4  
@@ -374,8 +376,8 @@
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  3 / 每15分钟  
 [木床](BedWooden.md)  |  小憩  |  2 / 每15分钟  
 [木床](BedWooden.md)  |  睡觉  |  2 / 每15分钟  
-[烟熏炉](Smoker.md)  |  烧制陶瓶  |  2  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶瓶  |  2  
+[烟熏炉](Smoker.md)  |  烧制陶瓶<br>** 拖入：**[未烧制的陶罐](ClayVaseUnfired.md)  |  2  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶瓶<br>** 拖入：**[未烧制的陶罐](ClayVaseUnfired.md)  |  2  
 [鱼饵(蓝图)](Bp_FishBait.md)  |  蓝图制造  |  2  
 [木筏庇护所(蓝图)](Bp_RaftShelter.md)  |  蓝图制造  |  2  
 [稻草人(蓝图)](Bp_Scarecrow.md)  |  蓝图制造  |  2  
@@ -387,7 +389,7 @@
 [烹饪锅(蓝图)](Bp_CookingPot.md)  |  蓝图制造  |  2  
 [釉面陶罐(蓝图)](Bp_GlazedVase.md)  |  蓝图制造  |  2  
 [布袋(蓝图)](Bp_Sack.md)  |  蓝图制造  |  2  
-[左脚（内层）(蓝图)](InnerLeftFootBlueprint.md)  |  制作包脚布  |  2  
+[左脚（内层）(蓝图)](InnerLeftFootBlueprint.md)  |  制作包脚布<br>** 拖入：**[布](Cloth.md)  |  2  
 [左脚（外层）(蓝图)](OuterLeftFootBlueprint.md)  |  制作包脚布  |  2  
 [鼓(事件)](Event_DrumMenu.md)  |  练习  |  2 / 每15分钟  
 [布](Cloth.md)  |  制作绷带  |  2  
@@ -410,7 +412,7 @@
 [烤老鼠](MouseCooked.md)  |  食用  |  2  
 [烤弹涂鱼](MudskipperCooked.md)  |  食用  |  2  
 [烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  2  
-[木斧柄](HandleWood.md)  |  制作石斧  |  2  
+[木斧柄](HandleWood.md)  |  制作石斧<br>** 拖入：**[石刀](StoneSharpened.md)  |  2  
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  2 / 每15分钟  
 [月季花茶](LQ_ChinaRoseTea.md)  |  饮用  |  2  
 [茉莉花茶](LQ_JasmineTea.md)  |  饮用  |  2  
@@ -434,46 +436,48 @@
 [帐篷](TentDeployed.md)  |  睡觉  |  1.25 / 每15分钟  
 [木筏庇护所](RaftShelter.md)  |  小憩  |  1.25 / 每15分钟  
 [木筏庇护所](RaftShelter.md)  |  睡觉  |  1.25 / 每15分钟  
-[营火](Campfire.md)  |  制作简易长矛  |  1  
-[粘土火盆](ClayFirePit.md)  |  制作简易长矛  |  1  
-[火堆](Fire.md)  |  制作简易长矛  |  1  
-[烟熏炉](Smoker.md)  |  制作简易长矛  |  1  
-[烟熏炉](Smoker.md)  |  烹饪绯鲤  |  1  
-[烟熏炉](Smoker.md)  |  烤蛋  |  1  
-[烟熏炉](Smoker.md)  |  熏石斑鱼  |  1  
-[烟熏炉](Smoker.md)  |  熏野猪肉  |  1  
-[烟熏炉](Smoker.md)  |  熏梭鱼肉  |  1  
-[烟熏炉](Smoker.md)  |  烤螃蟹  |  1  
-[烟熏炉](Smoker.md)  |  烤海螺肉  |  1  
-[烟熏炉](Smoker.md)  |  烤松软的海螺肉  |  1  
-[烟熏炉](Smoker.md)  |  烧制陶碗  |  1  
-[烟熏炉](Smoker.md)  |  熏鹦哥鱼  |  1  
-[烟熏炉](Smoker.md)  |  烤杏仁  |  1  
+[营火](Campfire.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  |  1  
+[粘土火盆](ClayFirePit.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  |  1  
+[火堆](Fire.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  |  1  
+[烟熏炉](Smoker.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  |  1  
+[烟熏炉](Smoker.md)  |  烹饪绯鲤<br>** 拖入：**[绯鲤](Goatfish.md)  |  1  
+[烟熏炉](Smoker.md)  |  烤蛋<br>** 拖入：**[蛋](Egg.md)  |  1  
+[烟熏炉](Smoker.md)  |  熏石斑鱼<br>** 拖入：**[石斑鱼肉](GrouperMeat.md)  |  1  
+[烟熏炉](Smoker.md)  |  熏野猪肉<br>** 拖入：**[野猪肉](BoarMeat.md)  |  1  
+[烟熏炉](Smoker.md)  |  熏梭鱼肉<br>** 拖入：**[北梭鱼肉](BonefishMeat.md)  |  1  
+[烟熏炉](Smoker.md)  |  烤螃蟹<br>** 拖入：**[螃蟹](Crab.md)  |  1  
+[烟熏炉](Smoker.md)  |  烤海螺肉<br>** 拖入：**[海螺肉](ConchMeat.md)  |  1  
+[烟熏炉](Smoker.md)  |  烤松软的海螺肉<br>** 拖入：**[松软的海螺肉](ConchMeatSoft.md)  |  1  
+[烟熏炉](Smoker.md)  |  烧制陶碗<br>** 拖入：**[未烧制的陶碗](ClayBowlUnfired.md)  |  1  
+[烟熏炉](Smoker.md)  |  熏鹦哥鱼<br>** 拖入：**[鹦哥鱼](ParrotFish.md)  |  1  
+[烟熏炉](Smoker.md)  |  烤杏仁<br>** 拖入：**[热带杏仁核](TropicalAlmondKernels.md)  |  1  
 [烟熏炉](Smoker.md)  |  烹饪蛋糕  |  1  
 [烟熏炉](Smoker.md)  |  烹饪西米糕  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  制作简易长矛  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤蛋  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烹饪绯鲤  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏石斑鱼  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏野猪肉  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏梭鱼肉  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤螃蟹  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤海螺肉  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤松软的海螺肉  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶碗  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏鹦哥鱼  |  1  
-[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤杏仁  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  制作简易长矛<br>** 拖入：**[长木棍](StickLong.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤蛋<br>** 拖入：**[蛋](Egg.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烹饪绯鲤<br>** 拖入：**[绯鲤](Goatfish.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏石斑鱼<br>** 拖入：**[石斑鱼肉](GrouperMeat.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏野猪肉<br>** 拖入：**[野猪肉](BoarMeat.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏梭鱼肉<br>** 拖入：**[北梭鱼肉](BonefishMeat.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤螃蟹<br>** 拖入：**[螃蟹](Crab.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤海螺肉<br>** 拖入：**[海螺肉](ConchMeat.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤松软的海螺肉<br>** 拖入：**[松软的海螺肉](ConchMeatSoft.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烧制陶碗<br>** 拖入：**[未烧制的陶碗](ClayBowlUnfired.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  熏鹦哥鱼<br>** 拖入：**[鹦哥鱼](ParrotFish.md)  |  1  
+[烟熏炉(塑料布)(点燃)](SmokerPlastic.md)  |  烤杏仁<br>** 拖入：**[热带杏仁核](TropicalAlmondKernels.md)  |  1  
 [椰子凉鞋(蓝图)](Bp_CoconutSandals.md)  |  蓝图制造  |  1  
 [未烧制的陶碗](ClayBowlUnfired.md)  |  手工陶罐  |  1  
 [未烧制的陶罐](ClayVaseUnfinished.md)  |  完成陶罐  |  1  
-[纤维](Fibers.md)  |  钻木取火  |  1  
-[纤维](Fibers.md)  |  点燃火绒  |  1  
+[纤维](Fibers.md)  |  钻木取火<br>** 拖入：**[手钻](HandDrill.md)  |  1  
+[纤维](Fibers.md)  |  钻木取火<br>** 拖入：**[弓钻](BowDrill.md)  |  1  
+[纤维](Fibers.md)  |  点燃火绒<br>** 拖入：**[火把(开)](TorchOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)  |  1  
+[纤维](Fibers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1  
 [巢脾](BeeHoneycomb.md)  |  食用  |  1  
 [咖啡果](CoffeeBerries.md)  |  食用  |  1  
 [咖啡果浆](CoffeeBerryPulp.md)  |  食用  |  1  
 [水煮蛋](EggBoiled.md)  |  食用  |  1  
 [卡瓦根](KavaRoot.md)  |  食用  |  1  
-[忠犬朋友](DogFriend.md)  |  Give Bones  |  1  
+[忠犬朋友](DogFriend.md)  |  Give Bones<br>** 拖入：**[骨头](Bones.md)  |  1  
 [水椰籽](NipaSeeds.md)  |  食用  |  1  
 [烤虾](PrawnsCooked.md)  |  食用  |  1  
 [马勃菌](Puffballs.md)  |  食用  |  1  
@@ -481,16 +485,24 @@
 [西米饼](SagoFlatbread.md)  |  食用  |  1  
 [糖](Sugar.md)  |  食用  |  1  
 [热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  1  
-[枯叶](LeavesDry.md)  |  钻木取火  |  1  
-[枯叶](LeavesDry.md)  |  点燃火绒  |  1  
-[鸟巢](Nest.md)  |  钻木取火  |  1  
-[鸟巢](Nest.md)  |  点燃火绒  |  1  
-[纸](Papers.md)  |  钻木取火  |  1  
-[纸](Papers.md)  |  点燃火绒  |  1  
+[枯叶](LeavesDry.md)  |  钻木取火<br>** 拖入：**[手钻](HandDrill.md)  |  1  
+[枯叶](LeavesDry.md)  |  钻木取火<br>** 拖入：**[弓钻](BowDrill.md)  |  1  
+[枯叶](LeavesDry.md)  |  点燃火绒<br>** 拖入：**[火把(开)](TorchOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)  |  1  
+[枯叶](LeavesDry.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1  
+[鸟巢](Nest.md)  |  钻木取火<br>** 拖入：**[手钻](HandDrill.md)  |  1  
+[鸟巢](Nest.md)  |  钻木取火<br>** 拖入：**[弓钻](BowDrill.md)  |  1  
+[鸟巢](Nest.md)  |  点燃火绒<br>** 拖入：**[火把(开)](TorchOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)  |  1  
+[鸟巢](Nest.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1  
+[纸](Papers.md)  |  钻木取火<br>** 拖入：**[手钻](HandDrill.md)  |  1  
+[纸](Papers.md)  |  钻木取火<br>** 拖入：**[弓钻](BowDrill.md)  |  1  
+[纸](Papers.md)  |  点燃火绒<br>** 拖入：**[火把(开)](TorchOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md) , [燃烧的信号弹(开)](FlareHandOn.md) , [火炭](Embers.md)  |  1  
+[纸](Papers.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1  
 [潮汐池(岩滩)](TidePool.md)  |  洗个澡  |  1  
 [被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  洗个澡  |  1  
-[木屑](WoodShavings.md)  |  钻木取火  |  1  
-[木屑](WoodShavings.md)  |  点燃火绒  |  1  
+[木屑](WoodShavings.md)  |  钻木取火<br>** 拖入：**[手钻](HandDrill.md)  |  1  
+[木屑](WoodShavings.md)  |  钻木取火<br>** 拖入：**[弓钻](BowDrill.md)  |  1  
+[木屑](WoodShavings.md)  |  点燃火绒<br>** 拖入：**[火把(开)](TorchOn.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)  |  1  
+[木屑](WoodShavings.md)  |  点燃火绒<br>** 拖入：**[信号镜](SignalingMirror.md) , [眼镜](Glasses.md)  |  1  
 [姜茶](LQ_GingerTea.md)  |  饮用  |  1  
 [水椰树汁](LQ_Sap.md)  |  饮用  |  1  
 [水](LQ_Water.md)  |  洗个澡  |  1  
@@ -498,31 +510,40 @@
 [有毒的水](LQ_WaterToxic.md)  |  洗个澡  |  1  
 [不安全的水](LQ_WaterUnsafe.md)  |  洗个澡  |  1  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  洗个澡  |  1  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼  |  1  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(环礁)](Sea_Atoll.md)  |  洗个澡  |  1  
-[海(环礁)](Sea_Atoll.md)  |  叉鱼  |  1  
-[海(环礁)](Sea_Atoll.md)  |  钓鱼  |  1  
+[海(环礁)](Sea_Atoll.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(环礁)](Sea_Atoll.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(环礁)](Sea_Atoll.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(海湾)](Sea_Bay.md)  |  洗个澡  |  1  
-[海(海湾)](Sea_Bay.md)  |  叉鱼  |  1  
-[海(海湾)](Sea_Bay.md)  |  钓鱼  |  1  
+[海(海湾)](Sea_Bay.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(海湾)](Sea_Bay.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(海湾)](Sea_Bay.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(沙滩)](Sea_Beach.md)  |  洗个澡  |  1  
-[海(沙滩)](Sea_Beach.md)  |  叉鱼  |  1  
-[海(沙滩)](Sea_Beach.md)  |  钓鱼  |  1  
+[海(沙滩)](Sea_Beach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(沙滩)](Sea_Beach.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(沙滩)](Sea_Beach.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(沙滩)](Sea_Cove.md)  |  洗个澡  |  1  
-[海(沙滩)](Sea_Cove.md)  |  叉鱼  |  1  
-[海(沙滩)](Sea_Cove.md)  |  钓鱼  |  1  
+[海(沙滩)](Sea_Cove.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(沙滩)](Sea_Cove.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(沙滩)](Sea_Cove.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(荒芜沙滩)](Sea_DesolateBeach.md)  |  洗个澡  |  1  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼  |  1  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼  |  1  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(红树林)](Sea_Mangroves.md)  |  洗个澡  |  1  
-[海(红树林)](Sea_Mangroves.md)  |  叉鱼  |  1  
-[海(红树林)](Sea_Mangroves.md)  |  钓鱼  |  1  
+[海(红树林)](Sea_Mangroves.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(红树林)](Sea_Mangroves.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(红树林)](Sea_Mangroves.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海](Sea_Raft.md)  |  洗个澡  |  1  
-[海](Sea_Raft.md)  |  叉鱼  |  1  
-[海](Sea_Raft.md)  |  钓鱼  |  1  
+[海](Sea_Raft.md)  |  叉鱼<br>** 拖入：**[鱼镖](HarpoonBone.md)  |  1  
+[海](Sea_Raft.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海](Sea_Raft.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [海(鸟岩岛)](Sea_Rocks.md)  |  洗个澡  |  1  
-[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼  |  1  
-[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼  |  1  
+[海(鸟岩岛)](Sea_Rocks.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  |  1  
+[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 [燧石](Flint.md)  |  练习投石  |  0.25  
 [投石索](Sling.md)  |  练习  |  0.25  
 [石头](Stone.md)  |  练习投石  |  0.25  
@@ -561,24 +582,24 @@
 [西米粉](SagoFlour.md)  |  食用  |  -5  
 [金鸡纳树皮粉](QuininePowder.md)  |  食用  |  -5  
 [硫酸奎宁](QuinineSulfate.md)  |  食用  |  -5  
-[擦伤](W_Abrasion.md)  |  用海水清理  |  -5  
-[左臂撕裂伤](W_ArmLacerationL.md)  |  用海水清理  |  -5  
-[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用海水清理  |  -5  
-[右臂撕裂伤](W_ArmLacerationR.md)  |  用海水清理  |  -5  
-[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用海水清理  |  -5  
-[狗咬伤](W_DogBite.md)  |  用海水清理  |  -5  
-[左腿撕裂伤](W_LegLacerationL.md)  |  用海水清理  |  -5  
-[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用海水清理  |  -5  
-[右腿撕裂伤](W_LegLacerationR.md)  |  用海水清理  |  -5  
-[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用海水清理  |  -5  
-[猕猴咬伤](W_MacaqueBite.md)  |  用海水清理  |  -5  
-[轻微撕裂伤](W_MinorLaceration.md)  |  用海水清理  |  -5  
-[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用海水清理  |  -5  
-[巨蜥咬伤](W_MonitorBite.md)  |  用海水清理  |  -5  
-[海怪刺伤](W_SeahoundSting.md)  |  用海水清理  |  -5  
-[鲨鱼咬伤](W_SharkBite.md)  |  用海水清理  |  -5  
-[蜘蛛咬伤](W_SpiderBite.md)  |  用海水清理  |  -5  
-[海胆刺伤](W_UrchinWound.md)  |  用海水清理  |  -5  
+[擦伤](W_Abrasion.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[左臂撕裂伤](W_ArmLacerationL.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[右臂撕裂伤](W_ArmLacerationR.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[狗咬伤](W_DogBite.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[左腿撕裂伤](W_LegLacerationL.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[右腿撕裂伤](W_LegLacerationR.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[已缝合的右腿撕裂伤](W_LegLacerationRStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[猕猴咬伤](W_MacaqueBite.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[轻微撕裂伤](W_MinorLaceration.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[巨蜥咬伤](W_MonitorBite.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[海怪刺伤](W_SeahoundSting.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[鲨鱼咬伤](W_SharkBite.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[蜘蛛咬伤](W_SpiderBite.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
+[海胆刺伤](W_UrchinWound.md)  |  用海水清理<br>** 拖入：**[盐水](LQ_WaterSalt.md)  |  -5  
 [糖酒](LQ_SugarWine.md)  |  饮用  |  -5  
 [鱼杂](FishScraps.md)  |  食用  |  -6  
 [蜥蜴](Lizard.md)  |  食用  |  -6  
@@ -626,7 +647,7 @@
 [烧焦物](CharredRemains.md)  |  吃烧焦物  |  -15  
 [老鼠尸体](Mouse.md)  |  食用  |  -15  
 [剥皮的老鼠](MouseSkinned.md)  |  食用  |  -15  
-[腐烂物(猕猴窝)](RottenRemains.md)  |  食用  |  -15  
+[腐烂物](RottenRemains.md)  |  食用  |  -15  
 [我被它伤到了……(事件)](Event_BoarFightBadFailure.md)  |  继续  |  -20  
 [那条眼镜蛇喷射了毒液！(事件)](Event_CobraFightFailedRetreat.md)  |  继续  |  -20  
 [我被它伤到了……(事件)](Event_DroneFightBadFailure.md)  |  继续  |  -20  
@@ -652,9 +673,11 @@
 [一具骷髅！(事件)(坑洞)](Event_SkeletonSeen.md)  |  继续  |  -50  
 [噩梦！(事件)](Event_Nightmare.md)  |  试着冷静下来……  |  -50  
 [一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)  |  赶走蜘蛛！  |  -50  
-[忠犬朋友](DogFriend.md)  |  杀害！  |  -100  
-[猕猴朋友](MacaqueFriend.md)  |  杀害！  |  -100  
-[韦斯顿](Weston.md)  |  杀害！  |  -100  
+[忠犬朋友](DogFriend.md)  |  杀害！<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  |  -100  
+[猕猴朋友](MacaqueFriend.md)  |  杀害！<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  |  -100  
+[韦斯顿](Weston.md)  |  杀害！<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -100  
+[肉食主义者](Pk_4_Carnivore.md)  |  食用蔬菜类动作  |  -100  
+[素食主义者](Pk_4_Vegetarian.md)  |  食用肉类动作  |  -100  
 [监视者(事件)](Event_WatchedExperience1a.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
 [监视者(事件)](Event_WatchedExperience1b.md)  |  惊恐地尖叫  |  -200 / 每15分钟  
 [监视者(事件)](Event_WatchedExperience1c.md)  |  惊恐地尖叫  |  -200 / 每15分钟  

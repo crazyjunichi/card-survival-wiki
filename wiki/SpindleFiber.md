@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[纺锤](Spindle.md) , [线团](YarnFiber.md)  |  缠线  
+[纺锤](Spindle.md)  |  缠线<br>** 拖入：**[线团](YarnFiber.md)  
 [纺锤](Spindle.md)  |  纤维就绪  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  

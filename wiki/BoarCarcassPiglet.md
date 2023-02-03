@@ -9,10 +9,10 @@
 来源  |  操作  
 ----  |  ----  
 [母猪](BoarEnclosureFemale.md)  |  转化  
-[小猪](BoarEnclosurePiglet.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[小猪](BoarEnclosurePiglet.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [小猪](BoarEnclosurePiglet.md)  |  转化  
 [小猪](BoarEnclosurePiglet.md)  |  渴死了  
-[小猪](BoarTiedPiglet.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[小猪](BoarTiedPiglet.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [小猪](BoarTiedPiglet.md)  |  转化  
 [小猪](BoarTiedPiglet.md)  |  渴死了  
 ## 可拖入  
@@ -23,7 +23,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头(猕猴窝)](Bones.md)(+3)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头](Bones.md)(+3)<br><br>自身→消失  
 
 
 <script>document.title="小猪尸体 - 卡牌生存百科 Card Survival Wiki";</script>

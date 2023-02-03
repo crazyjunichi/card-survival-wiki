@@ -10,15 +10,24 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼  |  1  
-[海(环礁)](Sea_Atoll.md)  |  钓鱼  |  1  
-[海(海湾)](Sea_Bay.md)  |  钓鱼  |  1  
-[海(沙滩)](Sea_Beach.md)  |  钓鱼  |  1  
-[海(沙滩)](Sea_Cove.md)  |  钓鱼  |  1  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼  |  1  
-[海(红树林)](Sea_Mangroves.md)  |  钓鱼  |  1  
-[海](Sea_Raft.md)  |  钓鱼  |  1  
-[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼  |  1  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(环礁)](Sea_Atoll.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(环礁)](Sea_Atoll.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(海湾)](Sea_Bay.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(海湾)](Sea_Bay.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(沙滩)](Sea_Beach.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(沙滩)](Sea_Beach.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(沙滩)](Sea_Cove.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(沙滩)](Sea_Cove.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(红树林)](Sea_Mangroves.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(红树林)](Sea_Mangroves.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海](Sea_Raft.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海](Sea_Raft.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
+[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼<br>** 拖入：**[“钓鱼线”](tag_FishingLine.md)  |  1  
+[海(鸟岩岛)](Sea_Rocks.md)  |  钓鱼<br>** 拖入：**[“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -26,6 +35,15 @@
 [钓鱼技能提升！(事件)](Event_SkillFishing3.md)  |  触发事件  |  70 ~ 150  
 [钓鱼技能提升！(事件)](Event_SkillFishing2.md)  |  触发事件  |  30 ~ 150  
 [钓鱼技能提升！(事件)](Event_SkillFishing1.md)  |  触发事件  |  10 ~ 150  
+[海水(覆溺洞穴)](Sea_Cave.md)  |  影响  |  0 ~ 150  
+[海(环礁)](Sea_Atoll.md)  |  影响  |  0 ~ 150  
+[海(海湾)](Sea_Bay.md)  |  影响  |  0 ~ 150  
+[海(沙滩)](Sea_Beach.md)  |  影响  |  0 ~ 150  
+[海(沙滩)](Sea_Cove.md)  |  影响  |  0 ~ 150  
+[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  影响  |  0 ~ 150  
+[海(红树林)](Sea_Mangroves.md)  |  影响  |  0 ~ 150  
+[海](Sea_Raft.md)  |  影响  |  0 ~ 150  
+[海(鸟岩岛)](Sea_Rocks.md)  |  影响  |  0 ~ 150  
 
 
 <script>document.title="钓鱼(技能) - 卡牌生存百科 Card Survival Wiki";</script>

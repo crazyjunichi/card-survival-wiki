@@ -23,24 +23,24 @@
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
 [丛林边缘(区域)](Outskirts.md)  |  探索  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  
-[椰子树(新)](PalmTreeNew.md) , [石头](Stone.md)  |  扔石头  
-[椰子树(新)](PalmTreeNew.md) , [猕猴朋友](MacaqueFriend.md)  |  派出猕猴  
+[椰子树(新)](PalmTreeNew.md)  |  扔石头<br>** 拖入：**[石头](Stone.md)  
+[椰子树(新)](PalmTreeNew.md)  |  派出猕猴<br>** 拖入：**[猕猴朋友](MacaqueFriend.md)  
 [椰子树(新)](PalmTreeNew.md)  |  转化  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  转化  
 [椰子树(旧)](PalmTreeOld.md)  |  转化  
-[椰子树](PalmTree_IH.md) , [石斧](StoneAxe.md)  |  砍倒  
-[椰子树](PalmTree_IH.md) , [铜斧](AxeCopper.md)  |  砍倒  
+[椰子树](PalmTree_IH.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[椰子树](PalmTree_IH.md)  |  砍倒<br>** 拖入：**[铜斧](AxeCopper.md)  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  
-[椰子树(特殊)](PalmTree_Unique.md) , [石斧](StoneAxe.md)  |  砍倒  
-[椰子树(特殊)](PalmTree_Unique.md) , [铜斧](AxeCopper.md)  |  砍倒  
+[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒<br>** 拖入：**[铜斧](AxeCopper.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  剥<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子(猕猴窝)](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
-[“锤”](tag_Axe.md)  |  剥<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子(猕猴窝)](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
-[“锤”](tag_Hammer.md)  |  剥<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子(猕猴窝)](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-4<br>[压力](Stress.md)-10  
+[“切割工具”](tag_Cutter.md)<br>[“一级矛”](tag_Spear.md)  |  剥<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+[“斧”](tag_Axe.md)  |  剥<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+[“锤”](tag_Hammer.md)  |  剥<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [椰子](Coconut.md)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [HUsk] **<br>  [椰子皮](CoconutHusk.md)(+1)<br>  |  [耐力](Stamina.md)-4<br>[压力](Stress.md)-10  
 ## 可拖至  
-[猕猴朋友](MacaqueFriend.md)  
+[未栽种的农田(空)](CropPlotEmpty.md) | [猕猴朋友](MacaqueFriend.md)  
 
 
 <script>document.title="青椰子 - 卡牌生存百科 Card Survival Wiki";</script>

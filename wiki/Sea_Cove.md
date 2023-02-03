@@ -21,7 +21,9 @@
 [“钓鱼线”](tag_FishingLine.md)  |  钓鱼<br>  |  1小时  |    |  <br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nothing] **<br>基础权重：30<li>[钓鱼(技能)](Skill_Fishing.md)为0～150时权重+0～-15</li><li>[钓鱼竿](FishingRod.md)存在于*手中*，权重-5</li><br>** [Parrot Fish] **<br>  [鹦哥鱼](ParrotFish.md)(+1)<br>基础权重：3<br>** [Goat Fish] **<br>  [绯鲤](Goatfish.md)(+1)<br>基础权重：3  |  [情绪](Morale.md)+1<br>[钓鱼(技能)](Skill_Fishing.md)+1<br>[压力](Stress.md)-50  
 [“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  钓鱼<br>  |  1小时  |    |  <br>** 使用物: **<br>可用次数  -1<br>燃料  -1<br><br>** 获得: **<br>** [Nothing] **<br>基础权重：15<li>[钓鱼(技能)](Skill_Fishing.md)为0～150时权重+0～-10</li><li>[钓鱼竿（已添加诱饵）](FishingRodBait.md)存在于*手中*，权重-4</li><br>** [Parrot Fish] **<br>  [鹦哥鱼](ParrotFish.md)(+1)<br>基础权重：10<br>** [Goat Fish] **<br>  [绯鲤](Goatfish.md)(+1)<br>基础权重：10  |  [情绪](Morale.md)+1<br>[钓鱼(技能)](Skill_Fishing.md)+1<br>[压力](Stress.md)-50  
 [捕鱼陷阱](FishTrap.md)  |  放置<br>  |  15分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [捕鱼陷阱](FishTrapDeployed.md)  |    
-[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  30分  |    |  <br>** 使用物: **<br>消失<br><br>** 获得: **<br>** [Debris] **<br>  [绯鲤](Goatfish.md)(+8～+16)<br>  [鹦哥鱼](ParrotFish.md)(+8～+16)<br>  |    
+[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  30分  |    |  <br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Debris] **<br>  [绯鲤](Goatfish.md)(+8～+16)<br>  [鹦哥鱼](ParrotFish.md)(+8～+16)<br>  |    
+## 可拖至  
+[肥皂](SoapDry.md) | [湿肥皂](SoapWet.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

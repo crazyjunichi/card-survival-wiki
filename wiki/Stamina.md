@@ -27,22 +27,23 @@
 [椅子](ChairPlaced.md)  |  暂候15分钟  |  15  
 [座椅](SeatAttached.md)  |  暂候15分钟  |  15  
 [座椅](SeatPlaced.md)  |  暂候15分钟  |  15  
-[盛开的外星植物](AlienGrowth.md)  |  砍倒  |  -1  
-[外星植物](AlienGrowthCleared.md)  |  砍倒  |  -1  
-[金鸡纳树](CinchonaTree.md)  |  砍树  |  -1  
-[金鸡纳树](CinchonaTree.md)  |  采集树皮  |  -1  
-[剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树  |  -1  
-[小芒果树](MangoTreeYoung.md)  |  砍树  |  -1  
+[盛开的外星植物](AlienGrowth.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[外星植物](AlienGrowthCleared.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[金鸡纳树](CinchonaTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[金鸡纳树](CinchonaTree.md)  |  采集树皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  -1  
+[剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[小芒果树](MangoTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
 [环礁(区域)](Atoll.md)  |  探索  |  -1  
 [隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  |  -1  
 [丛林边缘(区域)](Outskirts.md)  |  探索  |  -1  
-[幼年椰子树](PalmTreeYoung.md)  |  砍树  |  -1  
-[小棕榈树](SmallPalm.md)  |  砍树  |  -1  
-[小树](SmallTree.md)  |  砍树  |  -1  
-[小杏仁树](TropicalAlmondTreeYoung.md)  |  砍树  |  -1  
-[野枣丛](WildJujube.md)  |  砍倒  |  -1  
-[摘光的野枣从](WildJujubeCleared.md)  |  砍倒  |  -1  
-[青椰子](CoconutHusked.md)  |  剥  |  -2  
+[幼年椰子树](PalmTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[小棕榈树](SmallPalm.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[小树](SmallTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[小杏仁树](TropicalAlmondTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[野枣丛](WildJujube.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[摘光的野枣从](WildJujubeCleared.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -1  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“一级矛”](tag_Spear.md)  |  -2  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“斧”](tag_Axe.md)  |  -2  
 [稻秆](RiceStalks.md)  |  打谷  |  -2  
 [海湾(区域)](Bay.md)  |  随便逛逛  |  -2  
 [沙滩(区域)](Beach.md)  |  随便逛逛  |  -2  
@@ -56,39 +57,47 @@
 [鼓(事件)](Event_DrumMenu.md)  |  练习  |  -3 / 每15分钟  
 [鼓](Drum.md)  |  练习  |  -3 / 每15分钟  
 [蜥蜴皮手鼓](LizardDrum.md)  |  练习  |  -3 / 每15分钟  
-[椰子树(新)](PalmTreeNew.md)  |  扔石头  |  -3  
-[劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  -3  
-[青椰子](CoconutHusked.md)  |  剥  |  -4  
-[水椰子](NipaFruit.md)  |  取得种子  |  -4  
+[椰子树(新)](PalmTreeNew.md)  |  扔石头<br>** 拖入：**[石头](Stone.md)  |  -3  
+[劈开的西米树干](SagoSplitLog.md)  |  刮取树芯<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md)  |  -3  
+[青椰子](CoconutHusked.md)  |  剥<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -4  
+[水椰子](NipaFruit.md)  |  取得种子<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [鱼镖](HarpoonBone.md)  |  训练  |  -4  
-[废墟(泥屋)](Debris.md)  |  清理  |  -4  
+[废墟(泥屋)](Debris.md)  |  清理<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  -4  
 [酸湖(区域)(火山)](AcidLake.md)  |  探索  |  -4  
 [鸟岩岛(区域)](BirdRock.md)  |  探索  |  -4  
 [丛林深处(区域)](DeepJungle.md)  |  探索  |  -4  
-[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  -4  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  -4  
 [东部草原(区域)](GrasslandsE.md)  |  探索  |  -4  
-[东部草原(区域)](GrasslandsE.md)  |  挖土  |  -4  
+[东部草原(区域)](GrasslandsE.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  -4  
 [西部草原(区域)](GrasslandsW.md)  |  探索  |  -4  
-[西部草原(区域)](GrasslandsW.md)  |  挖土  |  -4  
+[西部草原(区域)](GrasslandsW.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  -4  
 [东部高地(区域)](HighlandsEastern.md)  |  探索  |  -4  
-[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  -4  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  |  -4  
-[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  -4  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [丛林(区域)](Jungle.md)  |  探索  |  -4  
-[丛林(区域)](Jungle.md)  |  砍伐木材  |  -4  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  |  -4  
-[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  -4  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [红树林(区域)](Mangroves.md)  |  探索  |  -4  
-[红树林(区域)](Mangroves.md)  |  砍伐木材  |  -4  
-[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  -4  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [岩滩(区域)](Rocks.md)  |  探索  |  -4  
 [神秘谷(区域)](SecretValley.md)  |  探索  |  -4  
-[神秘谷(区域)](SecretValley.md)  |  挖土  |  -4  
+[神秘谷(区域)](SecretValley.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  -4  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  -4  
 [火山(区域)](Volcano.md)  |  探索  |  -4  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  |  -4  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  -4  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -4  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -4  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  -4  
 [前往沙滩(海湾)](Path_BayToBeach.md)  |  前往  |  -4  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  -4  
@@ -128,7 +137,7 @@
 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  |  -4  
 [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  |  前往  |  -4  
 [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  |  -4  
-[水稻](RicePlant.md)  |  采集  |  -4  
+[水稻](RicePlant.md)  |  采集<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  -4  
 [书架(蓝图)](Bp_Bookshelf.md)  |  蓝图制造  |  -5  
 [砂浆(蓝图)](Bp_Mortar.md)  |  蓝图制造  |  -5  
 [架子(蓝图)](Bp_Shelf.md)  |  蓝图制造  |  -5  
@@ -136,18 +145,18 @@
 [鼓](Drum.md)  |  激昂的节奏  |  -5 / 每15分钟  
 [蜥蜴皮手鼓](LizardDrum.md)  |  激昂的节奏  |  -5 / 每15分钟  
 [蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  |  -5 / 每15分钟  
-[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖  |  -5  
-[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖  |  -5  
-[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖  |  -5  
-[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  挖  |  -5  
-[狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖  |  -5  
+[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -5  
+[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -5  
+[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -5  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -5  
+[狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -5  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  爬上去  |  -5  
 [竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  爬上去  |  -5  
 [竖井](ShaftMidChamberToHighChamber.md)  |  爬上去  |  -5  
 [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md)  |  挖  |  -5  
 [水下洞穴](UnderwaterEntrance.md)  |  进入  |  -5  
 [水下出口(覆溺洞穴)](UnderwaterExit.md)  |  离开  |  -5  
-[水椰子](NipaFruit.md)  |  取得种子  |  -6  
+[水椰子](NipaFruit.md)  |  取得种子<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  -6  
 [竖井](ShaftFloodedChamberToCrystalChamber.md)  |  练习攀爬  |  -6  
 [竖井(洞穴中层)](ShaftLowChamberToMidChamber.md)  |  练习攀爬  |  -6  
 [前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  练习攀爬  |  -6  
@@ -156,33 +165,33 @@
 [前往西部草原(红树林)](Path_MangrovesToGrasslandsW.md)  |  前往  |  -6  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  练习攀爬  |  -6  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  -6  
-[大树](LargeTree.md)  |  砍树  |  -6  
-[倒下的大树](LargeTreeFelled.md)  |  修整原木  |  -6  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  -6  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  -6  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  -6  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  -6  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  |  -6  
 [椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  -6  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  -6  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  -6  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  -6  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  -6  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
 [椰子树(旧)](PalmTreeOld.md)  |  爬树  |  -6  
 [椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  -6  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  -6  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  -6  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  -6  
-[树液收集处](PalmTreeSapStation.md)  |  砍倒  |  -6  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  -6  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  -6  
-[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  -6  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
 [椰子树](PalmTree_IH.md)  |  爬树  |  -6  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  -6  
-[西米树](SagoPalm.md)  |  砍树  |  -6  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  -6  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  -6  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  -6  
+[西米树](SagoPalm.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
+[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  -6  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[“斧”](tag_Axe.md)  |  -6  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  -6  
 [扫帚](Broom.md)  |  训练  |  -8  
 [铜长矛](SpearCopper.md)  |  训练  |  -8  
@@ -193,20 +202,20 @@
 [废金属长矛](SpearScrap.md)  |  训练  |  -8  
 [废墟(泥屋)](Debris.md)  |  清理  |  -8  
 [漂浮的残骸](FloatingDebris.md)  |  采集  |  -8  
-[大树](LargeTree.md)  |  砍树  |  -8  
-[倒下的大树](LargeTreeFelled.md)  |  修整原木  |  -8  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  -8  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  -8  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  -8  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  -8  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  -8  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  -8  
-[树液收集处](PalmTreeSapStation.md)  |  砍倒  |  -8  
-[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  -8  
-[西米树](SagoPalm.md)  |  砍树  |  -8  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  -8  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  -8  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  -8  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[西米树](SagoPalm.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[石斧](StoneAxe.md)  |  -8  
 [我游不动了……(事件)](Event_SwimFail.md)  |  游回去  |  -10  
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -10  
 [隐秘港湾](Path_BirdRockToCove.md)  |  游泳  |  -10  
@@ -228,15 +237,15 @@
 [海](Sea_Raft.md)  |  潜水  |  -10  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  -10  
 [前往隐秘港湾(丛林高地)](Path_JungleHighlandsToCove.md)  |  爬下去  |  -10  
-[半根原木](HalfLog.md)  |  切割成木材  |  -12  
-[原木](Log.md)  |  截成两段  |  -12  
-[水槽](WateringTrough.md)  |  拆除  |  -15  
+[半根原木](HalfLog.md)  |  切割成木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  -12  
+[原木](Log.md)  |  截成两段<br>** 拖入：**[“斧”](tag_Axe.md)  |  -12  
+[水槽](WateringTrough.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -15  
 [狭窄隧道(洞穴底层)](NarrowTunnelEntrance.md)  |  进入  |  -15  
 [洞穴底层(洞穴上层)](NarrowTunnelExit.md)  |  进入  |  -15  
-[半根原木](HalfLog.md)  |  切割成木材  |  -16  
-[原木](Log.md)  |  截成两段  |  -16  
-[铜矿脉(洞穴上层)](CopperVein.md)  |  采矿  |  -20  
-[火炉(熄灭)](StoveExtinguished.md)  |  拆除  |  -20  
+[半根原木](HalfLog.md)  |  切割成木材<br>** 拖入：**[石斧](StoneAxe.md)  |  -16  
+[原木](Log.md)  |  截成两段<br>** 拖入：**[石斧](StoneAxe.md)  |  -16  
+[铜矿脉(洞穴上层)](CopperVein.md)  |  采矿<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -20  
+[火炉(熄灭)](StoveExtinguished.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -20  
 [木板(蓝图)](Bp_Planks.md)  |  蓝图制造  |  -20  
 [时候已到！(事件)](Event_Pregnancy.md)  |  分娩！  |  -20  
 [坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  |  -20  
@@ -246,7 +255,7 @@
 [前往湿地悬崖](Path_JungleHighlandsToWetlands.md)  |  攀爬  |  -20  
 [前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  |  -20  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  -20  
-[滤水器](WaterFilter.md)  |  拆除  |  -20  
+[滤水器](WaterFilter.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  |  -20  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
@@ -261,15 +270,22 @@
 [竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  |  11 ~ 32  
 [坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  |  11 ~ 32  
 [离开](HighlandHoleExit.md)  |  爬上去  |  11 ~ 32  
-[丛林深处(区域)](DeepJungle.md)  |  砍伐木材  |  11 ~ 32  
-[东部草原(区域)](GrasslandsE.md)  |  挖土  |  11 ~ 32  
-[西部草原(区域)](GrasslandsW.md)  |  挖土  |  11 ~ 32  
-[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材  |  11 ~ 32  
-[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材  |  11 ~ 32  
-[丛林(区域)](Jungle.md)  |  砍伐木材  |  11 ~ 32  
-[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材  |  11 ~ 32  
-[红树林(区域)](Mangroves.md)  |  砍伐木材  |  11 ~ 32  
-[丛林边缘(区域)](Outskirts.md)  |  砍伐木材  |  11 ~ 32  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[东部草原(区域)](GrasslandsE.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  11 ~ 32  
+[西部草原(区域)](GrasslandsW.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  11 ~ 32  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [海(环礁)](Sea_Atoll.md)  |  潜水  |  11 ~ 32  
 [海(海湾)](Sea_Bay.md)  |  潜水  |  11 ~ 32  
 [海(沙滩)](Sea_Beach.md)  |  潜水  |  11 ~ 32  
@@ -278,9 +294,10 @@
 [海(红树林)](Sea_Mangroves.md)  |  潜水  |  11 ~ 32  
 [海](Sea_Raft.md)  |  潜水  |  11 ~ 32  
 [海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  11 ~ 32  
-[神秘谷(区域)](SecretValley.md)  |  挖土  |  11 ~ 32  
+[神秘谷(区域)](SecretValley.md)  |  挖土<br>** 拖入：**[“铲子”](tag_Shovel.md)  |  11 ~ 32  
 [沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  |  11 ~ 32  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材  |  11 ~ 32  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [前往火山](Path_AcidLakeToVolcano.md)  |  前往  |  11 ~ 32  
 [前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  |  11 ~ 32  
 [前往丛林高地(沙滩)](Path_CoveToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
@@ -319,38 +336,53 @@
 [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  |  11 ~ 32  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  爬上去  |  11 ~ 32  
 [前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)  |  练习攀爬  |  11 ~ 32  
-[大树](LargeTree.md)  |  砍树  |  11 ~ 32  
-[摘光的芒果树](MangoTreeCleared.md)  |  砍树  |  11 ~ 32  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[大树](LargeTree.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[摘光的芒果树](MangoTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
 [摘完的椰子树](PalmTreeCleared.md)  |  练习攀爬  |  11 ~ 32  
-[摘完的椰子树](PalmTreeCleared.md)  |  砍倒  |  11 ~ 32  
-[倒下的棕榈树](PalmTreeFelled.md)  |  清除  |  11 ~ 32  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[摘完的椰子树](PalmTreeCleared.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[倒下的棕榈树](PalmTreeFelled.md)  |  清除<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  爬树  |  11 ~ 32  
 [椰子树(新)](PalmTreeNew.md)  |  练习攀爬  |  11 ~ 32  
-[椰子树(新)](PalmTreeNew.md)  |  砍倒  |  11 ~ 32  
-[椰子树(新)](PalmTreeNew.md)  |  扔石头  |  11 ~ 32  
-[椰子树(新)](PalmTreeNew.md)  |  派出猕猴  |  11 ~ 32  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[椰子树(新)](PalmTreeNew.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[椰子树(新)](PalmTreeNew.md)  |  扔石头<br>** 拖入：**[石头](Stone.md)  |  11 ~ 32  
+[椰子树(新)](PalmTreeNew.md)  |  派出猕猴<br>** 拖入：**[猕猴朋友](MacaqueFriend.md)  |  11 ~ 32  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  爬树  |  11 ~ 32  
 [椰子树](PalmTreeNewMultiEventOld.md)  |  练习攀爬  |  11 ~ 32  
-[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒  |  11 ~ 32  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[椰子树](PalmTreeNewMultiEventOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
 [椰子树(旧)](PalmTreeOld.md)  |  爬树  |  11 ~ 32  
 [椰子树(旧)](PalmTreeOld.md)  |  练习攀爬  |  11 ~ 32  
-[椰子树(旧)](PalmTreeOld.md)  |  砍倒  |  11 ~ 32  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[椰子树(旧)](PalmTreeOld.md)  |  砍倒<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  爬树  |  11 ~ 32  
 [树液收集处](PalmTreeSapStation.md)  |  练习攀爬  |  11 ~ 32  
-[树液收集处](PalmTreeSapStation.md)  |  砍倒  |  11 ~ 32  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  爬树  |  11 ~ 32  
 [树液补给点(空)](PalmTreeSapStationEmpty.md)  |  练习攀爬  |  11 ~ 32  
-[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [椰子树](PalmTree_IH.md)  |  爬树  |  11 ~ 32  
-[椰子树](PalmTree_IH.md)  |  砍倒  |  11 ~ 32  
+[椰子树](PalmTree_IH.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[椰子树](PalmTree_IH.md)  |  砍倒<br>** 拖入：**[铜斧](AxeCopper.md)  |  11 ~ 32  
 [椰子树(特殊)](PalmTree_Unique.md)  |  爬树摘椰子  |  11 ~ 32  
-[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒  |  11 ~ 32  
-[西米树](SagoPalm.md)  |  砍树  |  11 ~ 32  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开  |  11 ~ 32  
-[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树  |  11 ~ 32  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝  |  11 ~ 32  
+[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[椰子树(特殊)](PalmTree_Unique.md)  |  砍倒<br>** 拖入：**[铜斧](AxeCopper.md)  |  11 ~ 32  
+[西米树](SagoPalm.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[西米树](SagoPalm.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  砍树<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  |  11 ~ 32  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[石斧](StoneAxe.md)  |  11 ~ 32  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[“斧”](tag_Axe.md)  |  11 ~ 32  
 [海鸥巢](SeagullNest.md)  |  攀爬  |  11 ~ 32  
-[劈开的西米树干](SagoSplitLog.md)  |  刮取树芯  |  8 ~ 32  
+[劈开的西米树干](SagoSplitLog.md)  |  刮取树芯<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md)  |  8 ~ 32  
 [你昏过去了(事件)](Event_FaintExhaustion.md)  |  触发事件  |  0  
 
 

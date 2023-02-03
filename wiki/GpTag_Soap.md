@@ -1,3 +1,5 @@
 # 肥皂(组)  
-- [肥皂](SoapDry.md)  
-- [湿肥皂](SoapWet.md)  
+名称  |  可使用次数  
+----  |  ----  
+[肥皂](SoapDry.md)  |  15  
+[湿肥皂](SoapWet.md)  |  15  

@@ -18,7 +18,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[开水](LQ_WaterBoiling.md)  |  制作咖啡<br>  |  -  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>→ [咖啡](LQ_Coffee.md)  |    
+[开水](LQ_WaterBoiling.md)  |  制作咖啡<br>  |  -  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>→ [咖啡](LQ_Coffee.md)  |    
 
 
 <script>document.title="烤咖啡豆 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,3 +1,5 @@
 # “左脚（内层）”  
-- [包脚布](FootWrappings.md)  
-- [袜子](Socks.md)  
+名称  |  可使用次数  
+----  |  ----  
+[包脚布](FootWrappings.md)  |  2688  
+[袜子](Socks.md)  |  1344  

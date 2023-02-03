@@ -9,8 +9,8 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[引擎（启动）](Engine1Open.md)  |  填充  |  1  
-[引擎（修理）](Engine1Repaired.md)  |  填充  |  1  
+[引擎（启动）](Engine1Open.md)  |  填充<br>** 拖入：**[装有燃料的油桶](JerrycanFuel.md)  |  1  
+[引擎（修理）](Engine1Repaired.md)  |  填充<br>** 拖入：**[装有燃料的油桶](JerrycanFuel.md)  |  1  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

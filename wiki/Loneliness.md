@@ -35,26 +35,37 @@
 [婴儿](Baby.md)  |  喂奶  |  -5  
 [婴儿](Baby.md)  |  哄哄  |  -5  
 [婴儿](Baby.md)  |  一起玩耍  |  -10  
-[祖父](Grandfather.md)  |  喂食  |  -15  
-[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -15  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“人类食物”](tag_HumanFood.md)  |  -15  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“人类食物”](tag_HumanFood.md)  |  -15  
 [船长](Captain.md)  |  聊天  |  -20  
 [中陷阱的猕猴](CageTrapMacaque.md)  |  抚摸  |  -20  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  喂食<br>** 拖入：**[鱼片](FishSlices.md) , [烤鱼片](FishSlicesCooked.md) , [虾](Prawns.md) , [烤虾](PrawnsCooked.md) , [鱼杂](FishScraps.md) , [烤鱼杂](FishScrapsCooked.md)  |  -20  
+[中陷阱的猕猴](CageTrapMacaque.md)  |  喂食<br>** 拖入：**[“饲料”](tag_Feed.md)  |  -20  
 [母猪](BoarEnclosureFemale.md)  |  抚摸  |  -20  
 [公猪](BoarEnclosureMale.md)  |  抚摸  |  -20  
 [小猪](BoarEnclosurePiglet.md)  |  抚摸  |  -20  
-[忠犬朋友](DogFriend.md)  |  喂食  |  -20 ~ 0  
+[忠犬朋友](DogFriend.md)  |  喂食<br>** 拖入：**[鱼片](FishSlices.md) , [烤鱼片](FishSlicesCooked.md) , [虾](Prawns.md) , [烤虾](PrawnsCooked.md) , [鱼杂](FishScraps.md) , [烤鱼杂](FishScrapsCooked.md) , [螃蟹](Crab.md) , [烤螃蟹](CrabCooked.md)  |  -20 ~ 0  
+[忠犬朋友](DogFriend.md)  |  喂食<br>** 拖入：**[鱼片](FishSlices.md) , [烤鱼片](FishSlicesCooked.md) , [虾](Prawns.md) , [烤虾](PrawnsCooked.md) , [鱼杂](FishScraps.md) , [烤鱼杂](FishScrapsCooked.md) , [螃蟹](Crab.md) , [烤螃蟹](CrabCooked.md)  |  -20  
+[忠犬朋友](DogFriend.md)  |  喂食<br>** 拖入：**[“肉”](tag_Meat.md) , [“鱼肉”](tag_Fish.md)  |  -20  
+[忠犬朋友](DogFriend.md)  |  Give Bones<br>** 拖入：**[骨头](Bones.md)  |  -20  
 [母山羊](GoatEnclosureFemale.md)  |  抚摸  |  -20  
 [小羊](GoatEnclosureKid.md)  |  抚摸  |  -20  
 [哺乳期山羊](GoatEnclosureLactating.md)  |  抚摸  |  -20  
 [公山羊](GoatEnclosureMale.md)  |  抚摸  |  -20  
+[猕猴朋友](MacaqueFriend.md)  |  喂食<br>** 拖入：**[鱼片](FishSlices.md) , [烤鱼片](FishSlicesCooked.md) , [虾](Prawns.md) , [烤虾](PrawnsCooked.md) , [鱼杂](FishScraps.md) , [烤鱼杂](FishScrapsCooked.md)  |  -20  
+[猕猴朋友](MacaqueFriend.md)  |  喂食<br>** 拖入：**[“饲料”](tag_Feed.md)  |  -20  
 [受伤的猕猴](MacaqueWounded.md)  |  抚摸  |  -20  
+[受伤的猕猴](MacaqueWounded.md)  |  喂食<br>** 拖入：**[鱼片](FishSlices.md) , [烤鱼片](FishSlicesCooked.md) , [虾](Prawns.md) , [烤虾](PrawnsCooked.md) , [鱼杂](FishScraps.md) , [烤鱼杂](FishScrapsCooked.md)  |  -20  
+[受伤的猕猴](MacaqueWounded.md)  |  喂食<br>** 拖入：**[“饲料”](tag_Feed.md)  |  -20  
 [韦斯顿](Weston.md)  |  聊天  |  -20  
 [忠犬朋友](DogFriend.md)  |  抚摸  |  -30  
 [忠犬朋友](DogFriend.md)  |  一起玩耍  |  -30  
 [祖父](Grandfather.md)  |  陪伴  |  -30  
 [猕猴朋友](MacaqueFriend.md)  |  抚摸  |  -30  
-[祖父](Grandfather.md)  |  喂食  |  -50  
-[祖父(健康)](GrandfatherHealthy.md)  |  喂食  |  -50  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  |  -50  
+[祖父](Grandfather.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“椰子壳料理”](tag_MealCoconutShell.md)  |  -50  
+[祖父(健康)](GrandfatherHealthy.md)  |  喂食<br>** 拖入：**[“已烹饪的”](tag_MealCookingpot.md)  |  -50  
 [手机(开)](PhoneOn.md)  |  看照片  |  -50  
 [手机](PhoneOnLight.md)  |  看照片  |  -50  
 [祖父(健康)](GrandfatherHealthy.md)  |  陪伴  |  -60  

@@ -19,16 +19,18 @@
 [一只海鸥！(事件)](Event_SeagullRaid.md)  |  朝它砸石头  |  0.5  
 [一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  朝它砸石头  |  0.5  
 [蝙蝠群(蝙蝠洞)](BatColony.md)  |  朝它砸石头  |  0.5  
-[椰子树(新)](PalmTreeNew.md)  |  扔石头  |  0.5  
+[椰子树(新)](PalmTreeNew.md)  |  扔石头<br>** 拖入：**[石头](Stone.md)  |  0.5  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
+[椰子树(新)](PalmTreeNew.md)  |  影响  |  25 ~ 150  
 [一头山羊！(事件)](Event_GoatFight.md)  |  影响  |  1 ~ 150  
 [一只灰山鹑！(事件)](Event_PartridgeFight.md)  |  影响  |  1 ~ 150  
 [一只海鸥！(事件)](Event_SeagullFight.md)  |  影响  |  1 ~ 150  
 [一只海鸥！(事件)](Event_SeagullRaid.md)  |  影响  |  1 ~ 150  
 [一只海鸥！(事件)](Event_SeagullRaidCrop.md)  |  影响  |  1 ~ 150  
 [蝙蝠群(蝙蝠洞)](BatColony.md)  |  影响  |  1 ~ 150  
+[椰子树(旧)](PalmTreeOld.md)  |  影响  |  0 ~ 150  
 
 
 <script>document.title="投石(技能) - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+4<br>[污垢](Filth.md)+2  
+食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>→消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+4<br>[水分](Hydration.md)+1<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[姜效果](GingerEffect.md)+4<br>[污垢](Filth.md)+2  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -33,8 +33,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
-进度  |  初始：0<br>最大：336  |  -  |  ** 到达上限时： **<br><br>→ [干姜](GingerDried.md)  
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
+进度  |  初始：0<br>最大：336  |  -  |  ** 到达上限时： **<br><br>自身→ [干姜](GingerDried.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

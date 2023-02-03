@@ -17,7 +17,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Fav] **<br>  [风向有利](OpenSea_Favourable.md)(+1)<br>基础权重：1<br>** [Very Fav] **<br>  [风向非常有利](OpenSea_VeryFavourable.md)(+1)<br>基础权重：1<br>** [Storm] **<br>  [后有风暴](OpenSea_StormBehind.md)(+1)<br>基础权重：1  
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Fav] **<br>  [风向有利](OpenSea_Favourable.md)(+1)<br>基础权重：1<br>** [Very Fav] **<br>  [风向非常有利](OpenSea_VeryFavourable.md)(+1)<br>基础权重：1<br>** [Storm] **<br>  [后有风暴](OpenSea_StormBehind.md)(+1)<br>基础权重：1<br>自身→消失  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  

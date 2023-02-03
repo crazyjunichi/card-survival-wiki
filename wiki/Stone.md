@@ -10,33 +10,33 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[铜矿脉(洞穴上层)](CopperVein.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[铜矿脉(洞穴上层)](CopperVein.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [营火](Campfire.md)  |  拆解  
 [营火(熄灭)](CampfireExtinguished.md)  |  拆解  
 [陷坑](TrappingPit.md)  |  拆除陷阱  
 [陷坑](TrappingPitTriggered.md)  |  拆除陷阱  
 [礼物！(事件)](Event_MacaqueFriendGift.md)  |  看看礼物  
-[晶洞](Geode.md) , [“锤”](tag_Hammer.md)  |  敲开  
+[晶洞](Geode.md)  |  敲开<br>** 拖入：**[“锤”](tag_Hammer.md)  
 [晶石洞穴(区域)(洞穴上层)](CrystalChamber.md)  |  探索  
-[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md) , [“锤”](tag_Hammer.md)  |  挖  
-[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [潮湿洞穴(区域)](DampChamber.md)  |  探索  
-[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md) , [“锤”](tag_Hammer.md)  |  挖  
-[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
-[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md) , [“锤”](tag_Hammer.md)  |  挖  
-[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
+[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [覆溺洞穴(区域)](FloodedChamber.md)  |  探索  
-[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md) , [“锤”](tag_Hammer.md)  |  挖  
-[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [洞穴上层(区域)](HighChamber.md)  |  探索  
-[狭窄通道(隧道)](HighChamberEntranceClosed.md) , [“锤”](tag_Hammer.md)  |  挖  
-[狭窄通道(隧道)](HighChamberEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  挖<br>** 拖入：**[“锤”](tag_Hammer.md)  
+[狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [洞穴底层(区域)](LowChamber.md)  |  探索  
 [洞穴中层(区域)](MidChamber.md)  |  探索  
 [狭窄隧道(区域)(洞穴上层)](NarrowTunnel.md)  |  探索  
 [海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  
 [坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md)  |  挖  
-[坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md) , [炸药(开)](DynamiteOn.md)  |  轰隆！  
+[坍塌的隧道入口(东部高地)](TunnelEntranceClosed.md)  |  轰隆！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
 [幽暗洞穴(区域)](DarkCave.md)  |  探索  
 [酸湖(区域)(火山)](AcidLake.md)  |  探索  
 [环礁(区域)](Atoll.md)  |  探索  
@@ -66,7 +66,7 @@
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
 [雨水收集器](RainCatcher.md)  |  拆解  
 [太阳能蒸馏器](SolarStill.md)  |  拆解  
-[滤水器](WaterFilter.md) , [“锤”](tag_Hammer.md)  |  拆除  
+[滤水器](WaterFilter.md)  |  拆除<br>** 拖入：**[“锤”](tag_Hammer.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -76,7 +76,7 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石头](Stone.md)  |  打磨石头<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  2小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [石刀](StoneSharpened.md)<br><br>** 使用物: **<br>可用次数  -1  |  [手掌损伤](HandDamage.md)+40<br>[制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
-[铜矿脉(洞穴上层)](CopperVein.md) | [干土堆](DirtPile.md) | [火炉(熄灭)](StoveExtinguished.md) | [泥堆](MudPile.md) | [水槽](WateringTrough.md) | [骨头碎片](BoneSplinters.md) | [骨头(猕猴窝)](Bones.md) | [木炭](Charcoal.md) | [椰子(猕猴窝)](Coconut.md) | [青椰子](CoconutHusked.md) | [带孔椰子](CoconutPerforated.md) | [腐烂的椰子](CoconutRotten.md) | [海螺](Conch.md) | [铜制装饰品](CopperDecoration_Mold.md) | [燧石](Flint.md) | [燧石板](FlintSlab.md) | [干辣椒](ChiliesDried.md) | [海螺肉](ConchMeat.md) | [姜](Ginger.md) | [干姜](GingerDried.md) | [茉莉花](JasmineFlowers.md) | [卡瓦根](KavaRoot.md) | [干燥的卡瓦根](KavaRootDried.md) | [柠檬草](LemongrassStalks.md) | [蜘蛛兰叶](SpiderLilyLeaves.md) | [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md) | [晶洞](Geode.md) | [大海螺](GiantConch.md) | [煅烧后的砂浆](MortarBurnt.md) | [泥砖](MudBrick.md) | [硝石晶体(蝙蝠洞)](NiterCrystals.md) | [黑曜石](Obsidian.md) | [牡蛎](Oyster.md) | [蛇草](SnakeGrass.md) | [石头](Stone.md) | [煅烧后的石头](StoneBurnt.md) | [大石块](StoneHeavy.md) | [硫磺石](StoneHeavyBrimstone.md) | [煅烧后的大石块](StoneHeavyBurnt.md) | [钝斧子头](AxeHeadBlunt.md) | [求生斧](AxeSurvival.md) | [钝的求生斧](AxeSurvivalBlunt.md) | [铜刀](KnifeCopper.md) | [钝刀](KnifeCopperBlunt.md) | [祖父的刀](KnifeGrandpa.md) | [祖父的钝刀](KnifeGrandpaBlunt.md) | [军刀](KnifeMilitary.md) | [钝刀](KnifeMilitaryBlunt.md) | [钝矛头](SpearHeadBlunt.md) | [热带杏仁](TropicalAlmonds.md) | [海胆](Urchin.md) | [硫磺喷口(火山)](VentBrimstone.md) | [韦斯顿](Weston.md) | [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md) | [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md) | [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md) | [狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md) | [狭窄通道(隧道)](HighChamberEntranceClosed.md) | [椰子树(新)](PalmTreeNew.md) | [椰子树(旧)](PalmTreeOld.md) | [椰子树(旧)](PalmTreeOld.md) | [滤水器](WaterFilter.md)  
+[铜矿脉(洞穴上层)](CopperVein.md) | [干土堆](DirtPile.md) | [火炉(熄灭)](StoveExtinguished.md) | [泥堆](MudPile.md) | [水槽](WateringTrough.md) | [骨头碎片](BoneSplinters.md) | [骨头](Bones.md) | [木炭](Charcoal.md) | [椰子](Coconut.md) | [青椰子](CoconutHusked.md) | [带孔椰子](CoconutPerforated.md) | [腐烂的椰子](CoconutRotten.md) | [海螺](Conch.md) | [铜制装饰品](CopperDecoration_Mold.md) | [燧石](Flint.md) | [燧石板](FlintSlab.md) | [干辣椒](ChiliesDried.md) | [海螺肉](ConchMeat.md) | [姜](Ginger.md) | [干姜](GingerDried.md) | [茉莉花](JasmineFlowers.md) | [卡瓦根](KavaRoot.md) | [干燥的卡瓦根](KavaRootDried.md) | [柠檬草](LemongrassStalks.md) | [蜘蛛兰叶](SpiderLilyLeaves.md) | [干燥的蜘蛛兰叶](SpiderLilyLeavesDried.md) | [晶洞](Geode.md) | [大海螺](GiantConch.md) | [煅烧后的砂浆](MortarBurnt.md) | [泥砖](MudBrick.md) | [硝石晶体](NiterCrystals.md) | [黑曜石](Obsidian.md) | [牡蛎](Oyster.md) | [蛇草](SnakeGrass.md) | [石头](Stone.md) | [煅烧后的石头](StoneBurnt.md) | [大石块](StoneHeavy.md) | [硫磺石](StoneHeavyBrimstone.md) | [煅烧后的大石块](StoneHeavyBurnt.md) | [钝斧子头](AxeHeadBlunt.md) | [求生斧](AxeSurvival.md) | [钝的求生斧](AxeSurvivalBlunt.md) | [铜刀](KnifeCopper.md) | [钝刀](KnifeCopperBlunt.md) | [祖父的刀](KnifeGrandpa.md) | [祖父的钝刀](KnifeGrandpaBlunt.md) | [军刀](KnifeMilitary.md) | [钝刀](KnifeMilitaryBlunt.md) | [钝矛头](SpearHeadBlunt.md) | [热带杏仁](TropicalAlmonds.md) | [海胆](Urchin.md) | [硫磺喷口(火山)](VentBrimstone.md) | [韦斯顿](Weston.md) | [狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md) | [狭窄通道(潮湿洞穴)](DarkCaveCaveEntranceClosed.md) | [狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md) | [狭窄通道(洞穴上层)](FloodedChamberEntranceClosed.md) | [狭窄通道(隧道)](HighChamberEntranceClosed.md) | [椰子树(新)](PalmTreeNew.md) | [椰子树(旧)](PalmTreeOld.md) | [椰子树(旧)](PalmTreeOld.md) | [滤水器](WaterFilter.md)  
 ## 可用于蓝图  
 - [硫磺膏(蓝图)](Bp_BrimstoneGel.md)  
 - [驱虫膏(蓝图)](Bp_BugRepellent.md)  

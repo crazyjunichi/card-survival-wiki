@@ -14,13 +14,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-制作绷带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>消失<br>使用次数  -1<br><br>** 获得： **<br>** [Molineria] **<br>  [叶片绷带](LeafDressing.md)(+1)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+0.5  
+制作绷带<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br>使用次数  -1<br><br>** 获得： **<br>** [Molineria] **<br>  [叶片绷带](LeafDressing.md)(+1)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+0.5  
 ## 可拖至  
 [未栽种的农田(空)](CropPlotEmpty.md) | [羊食槽](GoatFeeder.md) | [羊食槽(空)](GoatFeederEmpty.md) | [母山羊](GoatEnclosureFemale.md) | [小羊](GoatEnclosureKid.md) | [哺乳期山羊](GoatEnclosureLactating.md) | [公山羊](GoatEnclosureMale.md) | [母山羊](GoatTiedFemale.md) | [哺乳期山羊](GoatTiedFemaleLactating.md) | [小羊](GoatTiedKid.md) | [公山羊](GoatTiedMale.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br>  
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="大叶仙茅叶片 - 卡牌生存百科 Card Survival Wiki";</script>

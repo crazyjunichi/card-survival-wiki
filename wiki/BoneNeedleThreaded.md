@@ -10,7 +10,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[骨针](BoneNeedle.md) , [细线](CordFiber.md)  |  穿线  
+[骨针](BoneNeedle.md)  |  穿线<br>** 拖入：**[细线](CordFiber.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -20,8 +20,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br>  
-  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>→ [骨针](BoneNeedle.md)  
+<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br><br>自身→消失  
+  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>自身→ [骨针](BoneNeedle.md)  
 
 
 <script>document.title="针线 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -17,7 +17,7 @@
 ## 可被以下操作改变  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！  |  10000  
+[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  |  10000  
 [稻草人](Scarecrow.md)  |  被动  |  1000  
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用长矛攻击！  |  1000  
 [一只猕猴！(事件)](Event_MacaqueFightRaid.md)  |  用弓箭攻击！  |  1000  

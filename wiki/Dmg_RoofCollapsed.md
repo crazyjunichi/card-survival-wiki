@@ -11,7 +11,7 @@
 来源  |  操作  
 ----  |  ----  
 [泥屋(区域)](MudHut.md)  |  转化  
-[泥屋(区域)](MudHutRuins.md)  |  转化  
+[泥屋(损坏)(区域)](MudHutRuins.md)  |  转化  
 [棚屋(区域)](Shed.md)  |  转化  
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
@@ -20,7 +20,7 @@
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-filthiness  |  [泥屋(区域)](MudHut.md)<br>[泥屋(区域)](MudHutRuins.md)<br>[棚屋(区域)](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
+filthiness  |  [泥屋(区域)](MudHut.md)<br>[泥屋(损坏)(区域)](MudHutRuins.md)<br>[棚屋(区域)](Shed.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
 
 
 <script>document.title="坍塌的屋顶 - 卡牌生存百科 Card Survival Wiki";</script>

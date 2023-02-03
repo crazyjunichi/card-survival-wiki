@@ -63,3 +63,6 @@
 - 前往 [前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  
 - 前往 [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  
 - 前往 [前往丛林小径(湿地)](Path_WetlandsToJungle.md)  
+- 放置 [诱捕笼](CageTrap.md)  
+- 放置 [捕鱼陷阱](FishTrap.md)  
+- 拿起陷阱 [捕鱼陷阱](FishTrapDeployed.md)  

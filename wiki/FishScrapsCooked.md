@@ -16,23 +16,23 @@
 [鱼杂](FishScraps.md) , [瓦斯炉(开)](GasCookerOn.md)  |  鱼杂汤  
 [鱼杂](FishScraps.md) , [火炉](Stove.md)  |  鱼杂  
 [烤绯鲤](GoatfishCooked.md)  |  食用  
-[烤绯鲤](GoatfishCooked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烤绯鲤](GoatfishCooked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [烟熏绯鲤](GoatfishSmoked.md)  |  食用  
-[烟熏绯鲤](GoatfishSmoked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烟熏绯鲤](GoatfishSmoked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [烤鲱鱼](HerringCooked.md)  |  食用  
-[烤鲱鱼](HerringCooked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烤鲱鱼](HerringCooked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [烟熏鲱鱼](HerringSmoked.md)  |  食用  
-[烟熏鲱鱼](HerringSmoked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烟熏鲱鱼](HerringSmoked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [烤鹦哥鱼](ParrotFishCooked.md)  |  食用  
-[烤鹦哥鱼](ParrotFishCooked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烤鹦哥鱼](ParrotFishCooked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [烟熏鹦哥鱼](ParrotFishSmoked.md)  |  食用  
-[烟熏鹦哥鱼](ParrotFishSmoked.md) , [“切割工具”](tag_Cutter.md)  |  制作诱饵  
+[烟熏鹦哥鱼](ParrotFishSmoked.md)  |  制作诱饵<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>消失  |  [饱食](Satiation.md)+2.5<br>[胃](Stomach.md)+1.5<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+4<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+5<br>[情绪](Morale.md)-3  
+食用<br>[食用肉类动作](CarnivorousAction.md)<br>[进食动作](EatingAction.md)  |  -  |    |  ** 自身：**<br>→消失  |  [饱食](Satiation.md)+2.5<br>[胃](Stomach.md)+1.5<br>[水分](Hydration.md)+0.25<br>[污垢](Filth.md)+4<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)+5<br>[情绪](Morale.md)-3  
 ## 可拖至  
-[猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md) | [钓鱼线](FishingLine.md) | [钓鱼线](FishingLineRustic.md) | [钓鱼竿](FishingRod.md)  
+[猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [忠犬朋友](DogFriend.md) | [猕猴朋友](MacaqueFriend.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md) | [雄灰山鹑](PartridgeMaleLive.md) | [钓鱼线](FishingLine.md) | [钓鱼线](FishingLineRustic.md) | [钓鱼竿](FishingRod.md)  
 ## 可用于蓝图  
 - [农田(蓝图)](Bp_CropPlot.md)  
 - [水稻田(蓝图)](Bp_RicePaddy.md)  
@@ -49,7 +49,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>→ [腐烂物(猕猴窝)](RottenRemains.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>自身→消失  
 
 
 <script>document.title="烤鱼杂 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -26,10 +26,10 @@
 [羊食槽](GoatFeeder.md)  |  拆解  
 [羊食槽(空)](GoatFeederEmpty.md)  |  拆解  
 [织布机（空）](LoomEmpty.md)  |  拆卸织布机  
-[织布机（空）](LoomEmpty.md) , [布片](ClothSmall.md)  |  解编布匹  
-[织布机（空）](LoomEmpty.md) , [布](Cloth.md)  |  解编布匹  
-[织布机（空）](LoomEmpty.md) , [大块的布](ClothLarge.md)  |  解编布匹  
-[打开的降落伞](ParachuteDeployed.md) , [“切割工具”](tag_Cutter.md)  |  切下塑料布  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[布片](ClothSmall.md)  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[布](Cloth.md)  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[大块的布](ClothLarge.md)  
+[打开的降落伞](ParachuteDeployed.md)  |  切下塑料布<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [灰山鹑喂食器](PartridgeFeeder.md)  |  拆解  
 [灰山鹑喂食器(空)](PartridgeFeederEmpty.md)  |  拆解  
 [稻草人](Scarecrow.md)  |  拆除  
@@ -65,7 +65,7 @@
 [简易止血带](TourniquetRustic.md)  |  转化  
 [风箱](Bellows.md)  |  转化  
 [针线(铜针)](CopperNeedleThreaded.md)  |  取下细线  
-[纤维](Fibers.md) , [纤维](Fibers.md)  |  缠起来  
+[纤维](Fibers.md)  |  缠起来<br>** 拖入：**[纤维](Fibers.md)  
 [挎包](Satchel.md)  |  拆解  
 [挎包(猎人专有)](SatchelHunter.md)  |  拆解  
 [补给箱](SupplyChestRaft.md)  |  拆解  
@@ -92,14 +92,14 @@
 [线团](YarnFiber.md)  |  拆成细线  
 [废墟(泥屋)](Debris.md)  |  清理  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[树液收集处](PalmTreeSapStation.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液收集处](PalmTreeSapStation.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[树液补给点(空)](PalmTreeSapStationEmpty.md) , [石斧](StoneAxe.md)  |  砍倒  
-[树液补给点(空)](PalmTreeSapStationEmpty.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[树液收集处](PalmTreeSapStation.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[石斧](StoneAxe.md)  
+[树液补给点(空)](PalmTreeSapStationEmpty.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  制作线团<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br><br>** 使用物: **<br>消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[细线](CordFiber.md)  |  制作线团<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [线团](YarnFiber.md)<br><br>** 使用物: **<br>→消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 ## 可拖至  
 [捕捞拖网](RaftFishTrap.md) | [稻草人](Scarecrow.md) | [骨针](BoneNeedle.md) | [铜针](CopperNeedle.md) | [细线](CordFiber.md) | [补给箱](SupplyChestRaft.md) | [小树枝](Sticks.md) | [木针](WoodenNeedle.md) | [损坏的帆](SailBroken_Raft.md) | [收起的帆](SailDown_Raft.md)  
 ## 可用于蓝图  

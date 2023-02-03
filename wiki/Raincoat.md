@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>消失<br><br>** 获得： **<br>** [Plastic] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+2～+4)<br>基础权重：1  |    
+拆解<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Plastic] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+2～+4)<br>基础权重：1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -22,7 +22,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1  
+使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1<br>自身→消失  
 
 
 <script>document.title="雨衣 - 卡牌生存百科 Card Survival Wiki";</script>

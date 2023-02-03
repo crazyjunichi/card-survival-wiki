@@ -1,4 +1,4 @@
-# 水(组)  
+# 水(任意)(组)  
 - [水](LQ_Water.md)  
 - [不安全的水](LQ_WaterUnsafe.md)  
 - [有毒的水](LQ_WaterToxic.md)  

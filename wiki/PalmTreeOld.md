@@ -14,13 +14,13 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [石斧](StoneAxe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[IGNOREKEY](OnNotAxeAdv.md): 0-0  |  ** 自身: **<br>进度  -10<br><br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+80<br>[阻止抽到棕榈树](PalmTreeKiller.md)+4<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[“斧状的”](tag_AxeAdv.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>进度  -25<br><br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60<br>[阻止抽到棕榈树](PalmTreeKiller.md)+4<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“高级斧”](tag_AxeAdv.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>进度  -25<br><br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60<br>[阻止抽到棕榈树](PalmTreeKiller.md)+4<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [石头](Stone.md)  |  击中椰子<br>[手部动作](HandAction.md)  |  15分  |    |  <br>** 获得: **<br>** [Missed!] **<br>基础权重：199<br>** [Got it!] **<br>  [成功了！(事件)](Event_CoconutHit.md)(+1)<br>[击中椰子](OnCoconutHit.md)+1<br>基础权重：2<li>[投石(技能)](Skill_RockThrowing.md)为0～150时权重+0～+25</li>  |    
 [石头](Stone.md)  |  派出猕猴<br>[手部动作](HandAction.md)  |  15分  |    |  <br>** 获得: **<br>  [成功了！(事件)](Event_CoconutHit.md)(+1)<br>[击中椰子](OnCoconutHit.md)+1<br>基础权重：2<li>[投石(技能)](Skill_RockThrowing.md)为0～150时权重+0～+25</li>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [青椰子](CoconutHusked.md)(+4)<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>→ [倒下的棕榈树](PalmTreeFelled.md)  
+进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [青椰子](CoconutHusked.md)(+4)<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>自身→ [倒下的棕榈树](PalmTreeFelled.md)  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  

@@ -14,16 +14,16 @@
 [陷坑](TrappingPit.md)  |  捕捉猎物  
 [我拿下它了，但我受伤了。(事件)](Event_BoarFightMixedSuccess.md)  |  继续  
 [野猪倒下了！(事件)](Event_BoarFightSuccess.md)  |  继续  
-[母猪](BoarEnclosureFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[母猪](BoarEnclosureFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [母猪](BoarEnclosureFemale.md)  |  噢不！  
 [母猪](BoarEnclosureFemale.md)  |  渴死了  
-[公猪](BoarEnclosureMale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[公猪](BoarEnclosureMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [公猪](BoarEnclosureMale.md)  |  转化  
 [公猪](BoarEnclosureMale.md)  |  渴死了  
-[母猪](BoarTiedFemale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[母猪](BoarTiedFemale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [母猪](BoarTiedFemale.md)  |  转化  
 [母猪](BoarTiedFemale.md)  |  渴死了  
-[公猪](BoarTiedMale.md) , [大石块](StoneHeavy.md)  |  宰杀  
+[公猪](BoarTiedMale.md)  |  宰杀<br>** 拖入：**[大石块](StoneHeavy.md) , [“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md) , [“一级矛”](tag_Spear.md)  
 [公猪](BoarTiedMale.md)  |  转化  
 [公猪](BoarTiedMale.md)  |  渴死了  
 ## 可拖入  
@@ -34,7 +34,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头(猕猴窝)](Bones.md)(+4)<br>  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br><br>自身→消失  
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3000<br>最大：6000  |  -  |    
 
 

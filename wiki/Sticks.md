@@ -44,56 +44,56 @@
 [简易长矛](SpearRustic.md)  |  长矛坏了  
 [废金属长矛](SpearScrap.md)  |  长矛坏了  
 [石斧](StoneAxe.md)  |  转化  
-[金鸡纳树](CinchonaTree.md) , [“锤”](tag_Axe.md)  |  砍树  
-[剥净的金鸡纳树](CinchonaTreeCleared.md) , [“锤”](tag_Axe.md)  |  砍树  
+[金鸡纳树](CinchonaTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[剥净的金鸡纳树](CinchonaTreeCleared.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 [废墟(泥屋)](Debris.md)  |  清理  
-[废墟(泥屋)](Debris.md) , [“铲子”](tag_Shovel.md)  |  清理  
+[废墟(泥屋)](Debris.md)  |  清理<br>** 拖入：**[“铲子”](tag_Shovel.md)  
 [漂浮的残骸](FloatingDebris.md)  |  采集  
-[小芒果树](MangoTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
+[小芒果树](MangoTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
 [海湾(区域)](Bay.md)  |  随便逛逛  
 [沙滩(区域)](Beach.md)  |  随便逛逛  
 [丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林深处(区域)](DeepJungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[丛林深处(区域)](DeepJungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[丛林深处(区域)](DeepJungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
 [东部草原(区域)](GrasslandsE.md)  |  探索  
 [西部草原(区域)](GrasslandsW.md)  |  探索  
-[东部高地(区域)](HighlandsEastern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[东部高地(区域)](HighlandsEastern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[东部高地(区域)](HighlandsEastern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [西部高地(区域)](HighlandsWestern.md)  |  探索  
-[西部高地(区域)](HighlandsWestern.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[西部高地(区域)](HighlandsWestern.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[西部高地(区域)](HighlandsWestern.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [丛林(区域)](Jungle.md)  |  探索  
-[丛林(区域)](Jungle.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[丛林(区域)](Jungle.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[丛林(区域)](Jungle.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [丛林高地(区域)](JungleHighlands.md)  |  探索  
-[丛林高地(区域)](JungleHighlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[丛林高地(区域)](JungleHighlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
-[红树林(区域)](Mangroves.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[红树林(区域)](Mangroves.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[丛林高地(区域)](JungleHighlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[红树林(区域)](Mangroves.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [丛林边缘(区域)](Outskirts.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[丛林边缘(区域)](Outskirts.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[丛林边缘(区域)](Outskirts.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [神秘谷(区域)](SecretValley.md)  |  探索  
 [湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
-[湿地丛林(区域)(湿地)](Wetlands.md) , [“斧状的”](tag_AxeAdv.md)  |  砍伐木材  
-[湿地丛林(区域)(湿地)](Wetlands.md) , [“锤”](tag_Axe.md)  |  砍伐木材  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“高级斧”](tag_AxeAdv.md)  
+[湿地丛林(区域)(湿地)](Wetlands.md)  |  砍伐木材<br>** 拖入：**[“斧”](tag_Axe.md)  
 [大树](LargeTree.md)  |  转化  
-[倒下的大树](LargeTreeFelled.md) , [石斧](StoneAxe.md)  |  修整原木  
-[倒下的大树](LargeTreeFelled.md) , [“锤”](tag_Axe.md)  |  修整原木  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[石斧](StoneAxe.md)  
+[倒下的大树](LargeTreeFelled.md)  |  修整原木<br>** 拖入：**[“斧”](tag_Axe.md)  
 [摘光的芒果树](MangoTreeCleared.md)  |  转化  
 [摘光的热带杏仁树](TropicalAlmondTreeCleared.md)  |  转化  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md) , [石斧](StoneAxe.md)  |  清理树枝  
-[倒下的热带杏仁树](TropicalAlmondTreeFelled.md) , [“锤”](tag_Axe.md)  |  清理树枝  
-[小树](SmallTree.md) , [“锤”](tag_Axe.md)  |  砍树  
-[小杏仁树](TropicalAlmondTreeYoung.md) , [“锤”](tag_Axe.md)  |  砍树  
-[野枣丛](WildJujube.md) , [“锤”](tag_Axe.md)  |  砍倒  
-[摘光的野枣从](WildJujubeCleared.md) , [“锤”](tag_Axe.md)  |  砍倒  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[石斧](StoneAxe.md)  
+[倒下的热带杏仁树](TropicalAlmondTreeFelled.md)  |  清理树枝<br>** 拖入：**[“斧”](tag_Axe.md)  
+[小树](SmallTree.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[小杏仁树](TropicalAlmondTreeYoung.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+[野枣丛](WildJujube.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
+[摘光的野枣从](WildJujubeCleared.md)  |  砍倒<br>** 拖入：**[“斧”](tag_Axe.md)  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“切割工具”](tag_Cutter.md)  |  制作手钻<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [手钻](HandDrill.md)<br><br>** 使用物: **<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+0.25<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[细线](CordFiber.md)  |  制作止血带<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易止血带](TourniquetRustic.md)<br><br>** 使用物: **<br>消失<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
+[细线](CordFiber.md)  |  制作止血带<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [简易止血带](TourniquetRustic.md)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |  [制作(技能)](Skill_Crafting.md)+1  
 ## 可拖至  
 [蒸馏器(关)](AlembicOff.md) | [蒸馏器(开)](AlembicOn.md) | [营火](Campfire.md) | [营火(熄灭)](CampfireExtinguished.md) | [粘土火盆](ClayFirePit.md) | [粘土火盆(熄灭)](ClayFirePitExtinguished.md) | [火堆](Fire.md) | [火堆(熄灭)](FireExtinguished.md) | [熔炉](Forge.md) | [熔炉(熄灭)](ForgeExtinguished.md) | [窑炉](Kiln.md) | [高级窑炉](KilnAdvanced.md) | [高级窑炉(熄灭)](KilnAdvancedExtinguished.md) | [窑炉(熄灭)](KilnExtinguished.md) | [火炉](Stove.md) | [火炉(熄灭)](StoveExtinguished.md) | [烟熏炉](Smoker.md) | [烟熏炉(熄灭)](SmokerExtinguished.md) | [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md) | [烟熏炉(塑料布)(点燃)](SmokerPlastic.md) | [布](Cloth.md) | [木材](Wood.md)  
 ## 可用于蓝图  

@@ -48,3 +48,6 @@
 - 爬树 [树液补给点(空)](PalmTreeSapStationEmpty.md)  
 - 练习攀爬 [树液补给点(空)](PalmTreeSapStationEmpty.md)  
 - 攀爬 [海鸥巢](SeagullNest.md)  
+- 拆除 [熔炉(熄灭)](ForgeExtinguished.md)  
+- 拆除 [高级窑炉(熄灭)](KilnAdvancedExtinguished.md)  
+- 拆除 [窑炉(熄灭)](KilnExtinguished.md)  

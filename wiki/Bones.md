@@ -20,15 +20,15 @@
 [山羊尸体(公)](GoatCarcassMale.md)  |  转化  
 [剥皮的山羊](GoatSkinned.md)  |  转化  
 [剥皮的小羊](GoatSkinnedKid.md)  |  转化  
-[猕猴尸体](MacaqueCarcass.md) , [黑曜石刀](KnifeObsidian.md)  |  剔肉  
-[猕猴尸体](MacaqueCarcass.md) , [“切割工具”](tag_Cutter.md)  |  剔肉  
+[猕猴尸体](MacaqueCarcass.md)  |  剔肉<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
+[猕猴尸体](MacaqueCarcass.md)  |  剔肉<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
 [巨蜥尸体](MonitorCarcass.md)  |  转化  
 [剥皮的巨蜥](MonitorSkinned.md)  |  转化  
 [骷髅(坑洞)](Skeleton.md)  |  采集  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  打碎<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身: **<br>消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Splinters] **<br>  [骨头碎片](BoneSplinters.md)(+2)<br>  |    
+[“锤”](tag_Hammer.md)  |  打碎<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Splinters] **<br>  [骨头碎片](BoneSplinters.md)(+2)<br>  |    
 ## 可拖至  
 [忠犬朋友](DogFriend.md)  
 ## 可用于蓝图  

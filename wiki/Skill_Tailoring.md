@@ -32,15 +32,19 @@
 [缠好的纺锤](SpindleFiber.md)  |  纺细线  |  1  
 [缠好的纺锤](SpindleFiber.md)  |  纺线团  |  1  
 [织布机](Loom.md)  |  织布  |  0.5  
-[织布机](Loom.md)  |  扩大布匹  |  0.5  
-[织布机（空）](LoomEmpty.md)  |  将线放到织布机上  |  0.5  
-[织布机（空）](LoomEmpty.md)  |  解编布匹  |  0.5  
+[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[布片](ClothSmall.md)  |  0.5  
+[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[布](Cloth.md)  |  0.5  
+[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[大块的布](ClothLarge.md)  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  将线放到织布机上<br>** 拖入：**[线团](YarnFiber.md)  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[布片](ClothSmall.md)  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[布](Cloth.md)  |  0.5  
+[织布机（空）](LoomEmpty.md)  |  解编布匹<br>** 拖入：**[大块的布](ClothLarge.md)  |  0.5  
 [布](Cloth.md)  |  制作绷带  |  0.5  
 [布](Cloth.md)  |  制作包脚布  |  0.5  
 [布](Cloth.md)  |  制作绑手带  |  0.5  
-[细线](CordFiber.md)  |  制作线团  |  0.5  
-[纤维](Fibers.md)  |  缠起来  |  0.5  
-[线团](YarnFiber.md)  |  制作绳子  |  0.25  
+[细线](CordFiber.md)  |  制作线团<br>** 拖入：**[细线](CordFiber.md)  |  0.5  
+[纤维](Fibers.md)  |  缠起来<br>** 拖入：**[纤维](Fibers.md)  |  0.5  
+[线团](YarnFiber.md)  |  制作绳子<br>** 拖入：**[线团](YarnFiber.md)  |  0.25  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  

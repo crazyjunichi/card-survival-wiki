@@ -8,7 +8,7 @@
 ## 获取来源  
 来源  |  操作  
 ----  |  ----  
-[烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md) , [火种](TinderLit.md)  |  点燃  
+[烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)  |  点燃<br>** 拖入：**[火种](TinderLit.md)  
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
@@ -18,10 +18,10 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 25<br><br>** 使用物: **<br>消失  |    
-[小树枝](Sticks.md)  |  添入火种<br>  |  -  |    |  ** 自身: **<br>燃料 + 4<br><br>** 使用物: **<br>消失  |    
-[枯叶](LeavesDry.md)  |  添入火绒<br>  |  -  |    |  ** 自身: **<br>燃料 + 1<br><br>** 使用物: **<br>消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 25<br><br>** 使用物: **<br>→消失  |    
+[小树枝](Sticks.md)  |  添入火种<br>  |  -  |    |  ** 自身: **<br>燃料 + 4<br><br>** 使用物: **<br>→消失  |    
+[枯叶](LeavesDry.md)<br>[火种](TinderLit.md)<br>[纤维](Fibers.md)  |  添入火绒<br>  |  -  |    |  ** 自身: **<br>燃料 + 1<br><br>** 使用物: **<br>→消失  |    
 [长木棍](StickLong.md)  |  制作简易长矛<br>  |  45分  |    |  <br>** 使用物: **<br>→ [简易长矛](SpearRustic.md)  |  [情绪](Morale.md)+1  
 [蛋](Egg.md)  |  烤蛋<br>  |  15分  |    |  <br>** 使用物: **<br>→ [烤蛋](EggCooked.md)  |  [情绪](Morale.md)+1  
 [绯鲤](Goatfish.md)  |  烹饪绯鲤<br>  |  30分  |    |  <br>** 使用物: **<br>→ [烤绯鲤](GoatfishCooked.md)  |  [情绪](Morale.md)+1  
@@ -35,8 +35,8 @@
 [未烧制的陶罐](ClayVaseUnfired.md)  |  烧制陶瓶<br>  |  2小时  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→ [陶罐](ClayVase.md)  |  [情绪](Morale.md)+2  
 [鹦哥鱼](ParrotFish.md)  |  熏鹦哥鱼<br>  |  30分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤鹦哥鱼](ParrotFishCooked.md)  |  [情绪](Morale.md)+1  
 [热带杏仁核](TropicalAlmondKernels.md)  |  烤杏仁<br>  |  15分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤热带杏仁](TropicalAlmondsRoasted.md)  |  [情绪](Morale.md)+1  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>消失  |    
-[棕榈叶](PalmFronds.md)  |  添入棕榈叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
+[棕榈叶](PalmFronds.md)  |  添入棕榈叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -66,7 +66,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>→ [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)  
+燃料  |  初始：1<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>自身→ [烟熏炉(塑料布)(熄灭)](SmokerExtinguishedPlastic.md)  
 
 
 <script>document.title="烟熏炉 - 卡牌生存百科 Card Survival Wiki";</script>

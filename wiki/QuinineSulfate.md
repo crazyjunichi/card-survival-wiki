@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-食用<br>  |  -  |    |  ** 自身：**<br>消失  |  [奎宁](Quinine.md)+32<br>[情绪](Morale.md)-5  
+食用<br>  |  -  |    |  ** 自身：**<br>→消失  |  [奎宁](Quinine.md)+32<br>[情绪](Morale.md)-5  
 
 
 <script>document.title="硫酸奎宁 - 卡牌生存百科 Card Survival Wiki";</script>

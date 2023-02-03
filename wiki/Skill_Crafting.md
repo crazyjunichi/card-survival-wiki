@@ -92,12 +92,12 @@
 [珍珠项链(蓝图)](Bp_PearlNecklace.md)  |  蓝图制造  |  1  
 [海鸥护符(蓝图)](Bp_SeagullCharm.md)  |  蓝图制造  |  1  
 [贝壳项链(蓝图)](Bp_SeashellNecklace.md)  |  蓝图制造  |  1  
-[木斧柄](HandleWood.md)  |  制作石斧  |  1  
-[长木棍](StickLong.md)  |  削成简易长矛  |  1  
-[小树枝](Sticks.md)  |  制作止血带  |  1  
-[石头](Stone.md)  |  打磨石头  |  1  
-[大石块](StoneHeavy.md)  |  打磨石头  |  1  
-[硫磺石](StoneHeavyBrimstone.md)  |  打磨石头  |  1  
+[木斧柄](HandleWood.md)  |  制作石斧<br>** 拖入：**[石刀](StoneSharpened.md)  |  1  
+[长木棍](StickLong.md)  |  削成简易长矛<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  1  
+[小树枝](Sticks.md)  |  制作止血带<br>** 拖入：**[细线](CordFiber.md)  |  1  
+[石头](Stone.md)  |  打磨石头<br>** 拖入：**[石头](Stone.md)  |  1  
+[大石块](StoneHeavy.md)  |  打磨石头<br>** 拖入：**[石头](Stone.md)  |  1  
+[硫磺石](StoneHeavyBrimstone.md)  |  打磨石头<br>** 拖入：**[石头](Stone.md)  |  1  
 [箭矢(蓝图)](Bp_Arrow.md)  |  蓝图制造  |  0.5  
 [诱捕笼(蓝图)](Bp_CageTrap.md)  |  蓝图制造  |  0.5  
 [落石陷阱(蓝图)](Bp_DeadfallTrap.md)  |  蓝图制造  |  0.5  
@@ -119,16 +119,16 @@
 [草裙(蓝图)](Bp_LeafSkirt.md)  |  蓝图制造  |  0.5  
 [骨头碎片](BoneSplinters.md)  |  制作钩  |  0.5  
 [骨头碎片](BoneSplinters.md)  |  制作针  |  0.5  
-[鸟骨(猕猴窝)](BonesBird.md)  |  制作钩  |  0.5  
-[鸟骨(猕猴窝)](BonesBird.md)  |  制作针  |  0.5  
-[木材](Wood.md)  |  堆成火堆  |  0.5  
+[鸟骨](BonesBird.md)  |  制作钩  |  0.5  
+[鸟骨](BonesBird.md)  |  制作针  |  0.5  
+[木材](Wood.md)  |  堆成火堆<br>** 拖入：**[小树枝](Sticks.md)  |  0.5  
 [草木灰敷料(蓝图)](Bp_AshDressing.md)  |  蓝图制造  |  0.25  
 [弓钻(蓝图)](Bp_BowDrill.md)  |  蓝图制造  |  0.25  
 [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  |  蓝图制造  |  0.25  
 [手钻(蓝图)](Bp_HandDrill.md)  |  蓝图制造  |  0.25  
 [简易长矛(蓝图)](Bp_RusticSpear.md)  |  蓝图制造  |  0.25  
 [石刀(蓝图)](Bp_SharpenedStone.md)  |  蓝图制造  |  0.25  
-[小树枝](Sticks.md)  |  制作手钻  |  0.25  
+[小树枝](Sticks.md)  |  制作手钻<br>** 拖入：**[“切割工具”](tag_Cutter.md)  |  0.25  
 ## 被以下操作需求  
 来源  |  操作  |  值  
 ----  |  ----  |  ----  
