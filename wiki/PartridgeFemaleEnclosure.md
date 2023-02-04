@@ -28,7 +28,7 @@
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-  |  下蛋  |  1天  |    |  ** [Nothing] **<br>基础权重：1000<br>** [Egg] **<br>  [蛋](Egg.md)(+1)<br>基础权重：1000<br>** [Fertilized Egg] **<br>  [受精蛋](EggPartridgeFertilized.md)(+1)<br>基础权重：-1000<li>[雄灰山鹑](PartridgeMaleEnclosure.md)存在，权重+2000(最多x99次)</li><li>[雌灰山鹑](PartridgeFemaleEnclosure.md)存在，权重-100(最多x99次)</li>  |    
+  |  下蛋  |  1天  |    |  ** [Nothing] **<br>基础权重：1000<br>** [Egg] **<br>  [蛋](Egg.md)(+1)<br>基础权重：1000<br>** [Fertilized Egg] **<br>  [受精蛋](EggPartridgeFertilized.md)(+1)<br>基础权重：-1000<li>[雄灰山鹑](PartridgeMaleEnclosure.md)存在于*手中/面板*，权重+2000(最多x99次)</li><li>[雌灰山鹑](PartridgeFemaleEnclosure.md)存在于*手中/面板*，权重-100(最多x99次)</li>  |    
 [受精蛋](EggPartridgeFertilized.md)  |  孵蛋  |  15分  |    |  能量 + 1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
