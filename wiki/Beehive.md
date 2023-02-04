@@ -19,7 +19,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[火把(开)](TorchOn.md)<br>[熏蜂器(开)](BeeSmokerOn.md)  |  烟熏<br>  |  -  |    |  ** 自身: **<br>休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"> + 6  |    
+[火把(开)](TorchOn.md)<br>[熏蜂器(开)](BeeSmokerOn.md)  |  烟熏<br>  |  -  |    |  ** 自身: **<br>休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">  +6(100%)  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

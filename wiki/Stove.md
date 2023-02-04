@@ -14,17 +14,17 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-11%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
 熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [火炉(熄灭)](StoveExtinguished.md)  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;"> + 7<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(2%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(19%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(5%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(5%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(44%)<br><br>** 使用物: **<br>→消失  |    
 [枯叶](LeavesDry.md)<br>[鸟巢](Nest.md)<br>[木屑](WoodShavings.md)<br>[纤维](Fibers.md)<br>[纸](Papers.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(1%)<br><br>** 使用物: **<br>→消失  |    
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md) | [熏蜂器(关)](BeeSmokerOff.md) | [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md) | [炸药(关)](DynamiteOff.md) | [火把(关)](TorchOff.md)  
 ## 转化  
@@ -45,7 +45,7 @@
 [水椰树汁](LQ_Sap.md)  |  熬煮树汁  |  1小时  |  ** 需要属性：**<br>含水量: 250～999999  |  [糖](Sugar.md)(+2)<br><br>含水量  -300  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  15分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  → [开水](LQ_WaterBoiling.md)  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  30分  |    |  → [开水](LQ_WaterBoiling.md)  |    
-[开水](LQ_WaterBoiling.md)  |  烧开水  |  15分  |    |  燃料 + 2  |    
+[开水](LQ_WaterBoiling.md)  |  烧开水  |  15分  |    |  燃料  +2  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  45分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  1小时  |    |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |    |  [烤北梭鱼](BonefishCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
@@ -60,11 +60,11 @@
 [装有燃料的油桶](JerrycanFuel.md)  |  加热油桶  |  30分  |    |  [<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)(+1)  |    
 [螃蟹](Crab.md)  |  螃蟹  |  30分  |    |  [烤螃蟹](CrabCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的醉蟹](DrunkenCrabUncooked.md)  |  醉蟹  |  30分  |    |  [醉蟹](DrunkenCrab.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
-[辣椒](Chilies.md)  |  烘干辣椒  |  15分  |    |  能量 + 4  |    
-[金鸡纳树皮](BarkCinchona.md)  |  烘干金鸡纳树皮  |  15分  |    |  能量 + 4  |    
-[姜](Ginger.md)  |  烘干生姜  |  15分  |    |  能量 + 4  |    
-[蜘蛛兰叶](SpiderLilyLeaves.md)  |  烘干蜘蛛兰叶  |  15分  |    |  能量 + 4  |    
-[卡瓦根](KavaRoot.md)  |  烘干卡瓦根  |  15分  |    |  能量 + 4  |    
+[辣椒](Chilies.md)  |  烘干辣椒  |  15分  |    |  能量  +4  |    
+[金鸡纳树皮](BarkCinchona.md)  |  烘干金鸡纳树皮  |  15分  |    |  能量  +4  |    
+[姜](Ginger.md)  |  烘干生姜  |  15分  |    |  能量  +4  |    
+[蜘蛛兰叶](SpiderLilyLeaves.md)  |  烘干蜘蛛兰叶  |  15分  |    |  能量  +4  |    
+[卡瓦根](KavaRoot.md)  |  烘干卡瓦根  |  15分  |    |  能量  +4  |    
 [蛋](Egg.md)<br>[受精蛋](EggPartridgeFertilized.md)  |  蛋  |  15分  |    |  [烤蛋](EggCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的炸鱼薯条](FishNChipsUncooked.md)  |  炸鱼薯条  |  45分  |    |  [炸鱼薯条](FishNChips.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  
 [未烹饪的鱼肉蛋饼](FishOmeletteUncooked.md)  |  鱼肉煎蛋饼  |  30分  |    |  [鱼肉蛋饼](FishOmelette.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  

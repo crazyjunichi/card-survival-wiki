@@ -17,7 +17,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Mark  |  ** 需要属性：**<br><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～168  |    |  [疼痛](Pain.md)+100<br>[压力](Stress.md)加成+1<br>[世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-1  
+Mark  |  ** 需要属性：**<br><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～168(1%～100%)  |    |  [疼痛](Pain.md)+100<br>[压力](Stress.md)加成+1<br>[世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-1  
 Healing  |  ** 需要状态：**<br>[精神失常](MindState.md): 151-300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
 
 

@@ -8,7 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>→消失<br>耐久  -250  |  [木工(技能)](Skill_Woodworking.md)+150  
+饮用<br>  |  -  |    |  ** 自身：**<br>→消失  |  [木工(技能)](Skill_Woodworking.md)+150  
 清空<br>  |  -  |    |  ** 自身：**<br>→ [椰壶](CoconutFlask.md)  |    
 技能<br>  |  15分  |    |  ** 自身：**<br>→ [椰壶](CoconutFlask.md)  |  [击鼓(技能)](Skill_Percussion.md)+150  
 ## 可拖至  

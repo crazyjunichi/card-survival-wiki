@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-刨参薯根<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br>使用次数  -1<br><br>** 获得： **<br>** [Wild Yam Tubers] **<br>  [参薯](Yam.md)(+2～+4)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1<br>[污垢](Filth.md)+40<br>[手掌损伤](HandDamage.md)+25  
+刨参薯根<br>[手部动作](HandAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Wild Yam Tubers] **<br>  [参薯](Yam.md)(+2～+4)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1<br>[污垢](Filth.md)+40<br>[手掌损伤](HandDamage.md)+25  
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

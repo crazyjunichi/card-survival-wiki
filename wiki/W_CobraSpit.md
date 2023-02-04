@@ -16,8 +16,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)  |  用海水清理<br>  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">  -75<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)  
-[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理<br>  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">  -75<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
+[盐水](LQ_WaterSalt.md)  |  用海水清理<br>  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">  -75(-52%)<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |  [情绪](Morale.md)  
+[“弱效清洁剂”](tag_CleanerWeak.md)  |  用淡水清理<br>  |  15分  |  [勇气](Courage.md): 0-4000  |  ** 自身: **<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">  -75(-52%)<br><br>** 使用物: **<br>耐久  -300<br>可用次数  -1<br>含水量  -300  |    
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -29,9 +29,9 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～100  |    |  [疼痛](Pain.md)+100<br>[视力](Myopia.md)+1<br>[眼部损伤](EyeDamage.md)加成+1  
-Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～200  |    |  [疼痛](Pain.md)+200<br>[视力](Myopia.md)+2<br>[光亮](Light.md)-25<br>[眼部损伤](EyeDamage.md)加成+1  
-Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～288  |    |  [疼痛](Pain.md)+300<br>[视力](Myopia.md)+3<br>[光亮](Light.md)-50<br>[眼部损伤](EyeDamage.md)加成+2  
+Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～100(0%～69%)  |    |  [疼痛](Pain.md)+100<br>[视力](Myopia.md)+1<br>[眼部损伤](EyeDamage.md)加成+1  
+Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～200(70%～139%)  |    |  [疼痛](Pain.md)+200<br>[视力](Myopia.md)+2<br>[光亮](Light.md)-25<br>[眼部损伤](EyeDamage.md)加成+1  
+Minor Venom Dose  |  ** 需要属性：**<br><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;">: 101～288(70%～200%)  |    |  [疼痛](Pain.md)+300<br>[视力](Myopia.md)+3<br>[光亮](Light.md)-50<br>[眼部损伤](EyeDamage.md)加成+2  
 
 
 <script>document.title="眼镜蛇毒液 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -17,22 +17,22 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-17%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
 熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [营火(熄灭)](CampfireExtinguished.md)  |    
 拆解<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [石头](Stone.md)(+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;"> + 7<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(44%)<br><br>** 使用物: **<br>→消失  |    
 [蛇草](SnakeGrass.md)  |  添入蛇草<br>  |  15分  |    |  <br>** 使用物: **<br>→消失  |  [驱虫](BugRepellentApplied.md)+25  
 [枯叶](LeavesDry.md)<br>[鸟巢](Nest.md)<br>[木屑](WoodShavings.md)<br>[纤维](Fibers.md)<br>[纸](Papers.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
 [长木棍](StickLong.md)  |  制作简易长矛<br>  |  45分  |    |  <br>** 使用物: **<br>→ [简易长矛](SpearRustic.md)  |  [情绪](Morale.md)+1  
-[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
-[蒸馏器](AlembicUndeployed.md)  |  放置蒸馏器<br>  |  -  |    |  ** 自身: **<br>→ [蒸馏器(开)](AlembicOn.md)<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
+[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
+[蒸馏器](AlembicUndeployed.md)  |  放置蒸馏器<br>  |  -  |    |  ** 自身: **<br>→ [蒸馏器(开)](AlembicOn.md)<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md) | [熏蜂器(关)](BeeSmokerOff.md) | [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md) | [炸药(关)](DynamiteOff.md) | [火把(关)](TorchOff.md)  
 ## 转化  
@@ -51,7 +51,7 @@
 [水椰树汁](LQ_Sap.md)  |  熬煮树汁  |  1小时  |  ** 需要属性：**<br>含水量: 250～999999  |  [糖](Sugar.md)(+2)<br><br>含水量  -300  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  15分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  → [开水](LQ_WaterBoiling.md)  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  30分  |    |  → [开水](LQ_WaterBoiling.md)  |    
-[开水](LQ_WaterBoiling.md)  |  烧开水  |  15分  |    |  燃料 + 2  |    
+[开水](LQ_WaterBoiling.md)  |  烧开水  |  15分  |    |  燃料  +2  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  45分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  1小时  |    |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |    |  [烤北梭鱼](BonefishCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  

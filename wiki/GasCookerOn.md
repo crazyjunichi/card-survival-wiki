@@ -34,7 +34,7 @@
 [水椰树汁](LQ_Sap.md)  |  熬煮树汁  |  1小时  |  ** 需要属性：**<br>含水量: 250～999999  |  [糖](Sugar.md)(+2)<br><br>含水量  -300  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  15分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  → [开水](LQ_WaterBoiling.md)  |    
 [“灌溉用水”](tag_WaterFresh.md)  |  烧开水  |  30分  |    |  → [开水](LQ_WaterBoiling.md)  |    
-[开水](LQ_WaterBoiling.md)  |  烧开水  |  30分  |    |  燃料 + 2  |    
+[开水](LQ_WaterBoiling.md)  |  烧开水  |  30分  |    |  燃料  +2  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  45分  |  ** 需要容器：**<br>[“金属容器”](tag_ContainerMetal.md)  |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [浸泡的参薯](LQ_SoakedYam.md)  |  煮参薯  |  1小时  |    |  [煮熟的参薯](YamBoiled.md)(+1)<br><br>含水量  -300  |    
 [北梭鱼肉](BonefishMeat.md)  |  北梭鱼  |  30分  |    |  [烤北梭鱼](BonefishCooked.md)(+1)  |  [烹饪(技能)](Skill_Cooking.md)+0.25  

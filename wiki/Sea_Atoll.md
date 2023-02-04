@@ -8,9 +8,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |  [肾脏](IfKidneys.md): 1-1  |  ** 自身：**<br>耐久  -250  |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+250  
-潜水<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Conch] **<br>  [海螺](Conch.md)(+1)<br>[海螺种群数量](Pop_Conch.md)-1000<br>基础权重：0<li>[海螺种群数量](Pop_Conch.md)为1000～30000时权重+1～+60</li><br>** [Urchin] **<br>  [海胆](Urchin.md)(+1)<br>[海胆种群数量](Pop_Urchin.md)-1000<br>基础权重：0<li>[海胆种群数量](Pop_Urchin.md)为1000～6000时权重+1～+10</li><br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：30<br>** [Nothing] **<br>基础权重：225<li>[游泳(技能)](Skill_Swimming.md)为0～150时权重+0～-200</li><br><br>** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料 + 12  |  [湿度](Wetness.md)+100<br>[耐力](Stamina.md)-10<br>[情绪](Morale.md)+4<br>[压力](Stress.md)-48<br>[娱乐](Entertainment.md)+16<br>[污垢](Filth.md)-75<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[游泳(技能)](Skill_Swimming.md)+1  
-洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料 + 12<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100 (每15分钟)<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
+饮用<br>  |  -  |  [肾脏](IfKidneys.md): 1-1  |    |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+250  
+潜水<br>[攀爬动作](ClimbAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Conch] **<br>  [海螺](Conch.md)(+1)<br>[海螺种群数量](Pop_Conch.md)-1000<br>基础权重：0<li>[海螺种群数量](Pop_Conch.md)为1000～30000时权重+1～+60</li><br>** [Urchin] **<br>  [海胆](Urchin.md)(+1)<br>[海胆种群数量](Pop_Urchin.md)-1000<br>基础权重：0<li>[海胆种群数量](Pop_Urchin.md)为1000～6000时权重+1～+10</li><br>** [Stone] **<br>  [石头](Stone.md)(+1)<br>基础权重：30<br>** [Nothing] **<br>基础权重：225<li>[游泳(技能)](Skill_Swimming.md)为0～150时权重+0～-200</li><br><br>** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料  +12  |  [湿度](Wetness.md)+100<br>[耐力](Stamina.md)-10<br>[情绪](Morale.md)+4<br>[压力](Stress.md)-48<br>[娱乐](Entertainment.md)+16<br>[污垢](Filth.md)-75<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[游泳(技能)](Skill_Swimming.md)+1  
+洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料  +12<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100 (每15分钟)<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
 回归大海<br>  |  -  |  [美人鱼最终行动](MermaidFinalAction.md): 2-2  |    |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
@@ -19,7 +19,7 @@
 [“钓鱼线”](tag_FishingLine.md)  |  钓鱼<br>  |  1小时  |    |  <br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nothing] **<br>基础权重：30<li>[钓鱼(技能)](Skill_Fishing.md)为0～150时权重+0～-15</li><li>[钓鱼竿](FishingRod.md)存在于*手中*，权重-5(可叠加)</li><br>** [Parrot Fish] **<br>  [鹦哥鱼](ParrotFish.md)(+1)<br>基础权重：3<br>** [Goat Fish] **<br>  [绯鲤](Goatfish.md)(+1)<br>基础权重：3  |  [情绪](Morale.md)+1<br>[钓鱼(技能)](Skill_Fishing.md)+1<br>[压力](Stress.md)-50  
 [“诱饵（用于钓鱼线）”](tag_FishingLineBait.md)  |  钓鱼<br>  |  1小时  |    |  <br>** 使用物: **<br>可用次数  -1<br>燃料  -1<br><br>** 获得: **<br>** [Nothing] **<br>基础权重：15<li>[钓鱼(技能)](Skill_Fishing.md)为0～150时权重+0～-10</li><li>[钓鱼竿（已添加诱饵）](FishingRodBait.md)存在于*手中*，权重-4(可叠加)</li><br>** [Parrot Fish] **<br>  [鹦哥鱼](ParrotFish.md)(+1)<br>基础权重：10<br>** [Goat Fish] **<br>  [绯鲤](Goatfish.md)(+1)<br>基础权重：10  |  [情绪](Morale.md)+1<br>[钓鱼(技能)](Skill_Fishing.md)+1<br>[压力](Stress.md)-50  
 [捕鱼陷阱](FishTrap.md)  |  放置<br>  |  15分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [捕鱼陷阱](FishTrapDeployed.md)  |    
-[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  30分  |    |  <br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Debris] **<br>  [绯鲤](Goatfish.md)(+8～+16)<br>  [鹦哥鱼](ParrotFish.md)(+8～+16)<br>  |    
+[炸药(开)](DynamiteOn.md)  |  轰隆！<br>  |  30分  |    |  ** 自身: **<br>洋流冲刷  +500(50%)<br><br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Debris] **<br>  [绯鲤](Goatfish.md)(+8～+16)<br>  [鹦哥鱼](ParrotFish.md)(+8～+16)<br>  |    
 ## 可拖至  
 [肥皂](SoapDry.md) | [湿肥皂](SoapWet.md)  
 ## 属性   

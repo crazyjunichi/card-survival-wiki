@@ -12,31 +12,31 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  -  |    |  ** 自身：**<br>燃料  -4<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+取出火炭<br>  |  -  |    |  ** 自身：**<br>燃料  -4(-4%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
 熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [烟熏炉(熄灭)](SmokerExtinguished.md)  |    
 移除烟熏炉<br>  |  30分  |    |  ** 自身：**<br>→ [营火](Campfire.md)<br><br>** 获得： **<br>  [烟熏炉(无火)](SmokerNoFire.md)(+1)<br>基础权重：1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 25<br><br>** 使用物: **<br>→消失  |    
-[小树枝](Sticks.md)  |  添加小树枝<br>  |  -  |    |  ** 自身: **<br>燃料 + 4<br><br>** 使用物: **<br>→消失  |    
-[枯叶](LeavesDry.md)<br>[火种](TinderLit.md)<br>[纤维](Fibers.md)  |  添入火绒<br>  |  -  |    |  ** 自身: **<br>燃料 + 1<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +25(26%)<br><br>** 使用物: **<br>→消失  |    
+[小树枝](Sticks.md)  |  添加小树枝<br>  |  -  |    |  ** 自身: **<br>燃料  +4(4%)<br><br>** 使用物: **<br>→消失  |    
+[枯叶](LeavesDry.md)<br>[火种](TinderLit.md)<br>[纤维](Fibers.md)  |  添入火绒<br>  |  -  |    |  ** 自身: **<br>燃料  +1(1%)<br><br>** 使用物: **<br>→消失  |    
 [长木棍](StickLong.md)  |  制作简易长矛<br>  |  45分  |    |  <br>** 使用物: **<br>→ [简易长矛](SpearRustic.md)  |  [情绪](Morale.md)+1  
 [绯鲤](Goatfish.md)  |  烹饪绯鲤<br>  |  30分  |    |  <br>** 使用物: **<br>→ [烤绯鲤](GoatfishCooked.md)  |  [情绪](Morale.md)+1  
 [蛋](Egg.md)  |  烤蛋<br>  |  15分  |    |  <br>** 使用物: **<br>→ [烤蛋](EggCooked.md)  |  [情绪](Morale.md)+1  
 [石斑鱼肉](GrouperMeat.md)  |  熏石斑鱼<br>  |  30分  |    |  <br>** 使用物: **<br>→ [烤石斑鱼](GrouperMeatCooked.md)  |  [情绪](Morale.md)+1  
 [野猪肉](BoarMeat.md)  |  熏野猪肉<br>  |  30分  |    |  <br>** 使用物: **<br>→ [烤野猪肉](BoarMeatCooked.md)  |  [情绪](Morale.md)+1  
 [北梭鱼肉](BonefishMeat.md)  |  熏梭鱼肉<br>  |  30分  |    |  <br>** 使用物: **<br>→ [烤北梭鱼](BonefishCooked.md)  |  [情绪](Morale.md)+1  
-[螃蟹](Crab.md)  |  烤螃蟹<br>  |  30分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤螃蟹](CrabCooked.md)  |  [情绪](Morale.md)+1  
-[海螺肉](ConchMeat.md)  |  烤海螺肉<br>  |  30分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤海螺肉](ConchMeatCooked.md)  |  [情绪](Morale.md)+1  
-[松软的海螺肉](ConchMeatSoft.md)  |  烤松软的海螺肉<br>  |  30分  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→ [松软的烤海螺肉](ConchMeatSoftCooked.md)  |  [情绪](Morale.md)+1  
-[未烧制的陶碗](ClayBowlUnfired.md)  |  烧制陶碗<br>  |  1小时  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→ [陶碗](ClayBowl.md)  |  [情绪](Morale.md)+1  
-[未烧制的陶罐](ClayVaseUnfired.md)  |  烧制陶瓶<br>  |  2小时  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→ [陶罐](ClayVase.md)  |  [情绪](Morale.md)+2  
-[鹦哥鱼](ParrotFish.md)  |  熏鹦哥鱼<br>  |  30分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤鹦哥鱼](ParrotFishCooked.md)  |  [情绪](Morale.md)+1  
-[热带杏仁核](TropicalAlmondKernels.md)  |  烤杏仁<br>  |  15分  |    |  ** 自身: **<br>燃料  0<br><br>** 使用物: **<br>→ [烤热带杏仁](TropicalAlmondsRoasted.md)  |  [情绪](Morale.md)+1  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
-[棕榈叶](PalmFronds.md)  |  添入棕榈叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
+[螃蟹](Crab.md)  |  烤螃蟹<br>  |  30分  |    |  ** 自身: **<br>燃料  0～2(0%～2%)<br><br>** 使用物: **<br>→ [烤螃蟹](CrabCooked.md)  |  [情绪](Morale.md)+1  
+[海螺肉](ConchMeat.md)  |  烤海螺肉<br>  |  30分  |    |  ** 自身: **<br>燃料  0～2(0%～2%)<br><br>** 使用物: **<br>→ [烤海螺肉](ConchMeatCooked.md)  |  [情绪](Morale.md)+1  
+[松软的海螺肉](ConchMeatSoft.md)  |  烤松软的海螺肉<br>  |  30分  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→ [松软的烤海螺肉](ConchMeatSoftCooked.md)  |  [情绪](Morale.md)+1  
+[未烧制的陶碗](ClayBowlUnfired.md)  |  烧制陶碗<br>  |  1小时  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→ [陶碗](ClayBowl.md)  |  [情绪](Morale.md)+1  
+[未烧制的陶罐](ClayVaseUnfired.md)  |  烧制陶瓶<br>  |  2小时  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→ [陶罐](ClayVase.md)  |  [情绪](Morale.md)+2  
+[鹦哥鱼](ParrotFish.md)  |  熏鹦哥鱼<br>  |  30分  |    |  ** 自身: **<br>燃料  0～2(0%～2%)<br><br>** 使用物: **<br>→ [烤鹦哥鱼](ParrotFishCooked.md)  |  [情绪](Morale.md)+1  
+[热带杏仁核](TropicalAlmondKernels.md)  |  烤杏仁<br>  |  15分  |    |  ** 自身: **<br>燃料  0～2(0%～2%)<br><br>** 使用物: **<br>→ [烤热带杏仁](TropicalAlmondsRoasted.md)  |  [情绪](Morale.md)+1  
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
+[棕榈叶](PalmFronds.md)  |  添入棕榈叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
 ## 可拖至  
 [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md) | [炸药(关)](DynamiteOff.md) | [火把(关)](TorchOff.md)  
 ## 转化  

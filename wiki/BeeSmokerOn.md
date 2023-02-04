@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-熄灭<br>  |  -  |    |  ** 自身：**<br>→ [熏蜂器(关)](BeeSmokerOff.md)<br>燃料  -1  |    
+熄灭<br>  |  -  |    |  ** 自身：**<br>→ [熏蜂器(关)](BeeSmokerOff.md)<br>燃料  -1(-6%)  |    
 ## 可拖至  
 [蜂箱](BeeSkep.md) | [繁殖中的蜂群](BeeSkepSwarming.md) | [蜂巢](Beehive.md) | [蜜蜂](Bees.md)  
 ## 属性   

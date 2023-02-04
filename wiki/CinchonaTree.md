@@ -17,7 +17,7 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“斧”](tag_Axe.md)  |  砍树<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [小树枝](Sticks.md)(+1～+2)<br>  [长木棍](StickLong.md)(+1)<br>  [树叶](LeavesFresh.md)(+4～+12)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
-[“切割工具”](tag_Cutter.md)  |  采集树皮<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Bark] **<br>  [金鸡纳树皮](BarkCinchona.md)(+3)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+15  
+[“切割工具”](tag_Cutter.md)  |  采集树皮<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -1(-8%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Bark] **<br>  [金鸡纳树皮](BarkCinchona.md)(+3)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+15  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -14,27 +14,27 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料 + 3<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料 + 28<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料 + 7<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 16<br><br>** 使用物: **<br>→消失  |    
-[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料 + 16<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +16(17%)<br><br>** 使用物: **<br>→消失  |    
+[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料  +16(17%)<br><br>** 使用物: **<br>→消失  |    
 [枯叶](LeavesDry.md)<br>[鸟巢](Nest.md)<br>[木屑](WoodShavings.md)<br>[纤维](Fibers.md)<br>[纸](Papers.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料 + 2<br><br>** 使用物: **<br>→消失  |    
-[风箱](Bellows.md)  |  提升温度<br>  |  30分  |    |  ** 自身: **<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"> + 300<br><br>** 使用物: **<br>可用次数  -1  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
+[风箱](Bellows.md)  |  提升温度<br>  |  30分  |    |  ** 自身: **<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(20%)<br><br>** 使用物: **<br>可用次数  -1  |    
 ## 可拖至  
 [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md)  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[铜矿石](CopperOre.md)  |  炼铜  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铜](Copper.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
-[“铜制小物件”](tag_CopperSmall.md)  |  熔炼小型工具  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铜](Copper.md)(+2)  |  [金工(技能)](Skill_Metalworking.md)+1  
-[“铜制大物件”](tag_CopperBig.md)  |  熔炼大型工具  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铜](Copper.md)(+5)  |  [金工(技能)](Skill_Metalworking.md)+1  
-[斧头模具](MoldAxe.md)  |  斧子头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [斧子头](AxeHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+2  
-[铲头模具](MoldShovel.md)  |  铲子头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铲子头](ShovelHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+2  
-[矛头模具](MoldSpear.md)  |  矛头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [矛头](SpearHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
-[刀模具](MoldKnife.md)  |  刀  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铜刀](KnifeCopper.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
-[装饰品模具](MoldCopperDecoration.md)  |  装饰品  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000  |  [铜制装饰品](CopperDecoration_Mold.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[铜矿石](CopperOre.md)  |  炼铜  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铜](Copper.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[“铜制小物件”](tag_CopperSmall.md)  |  熔炼小型工具  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铜](Copper.md)(+2)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[“铜制大物件”](tag_CopperBig.md)  |  熔炼大型工具  |  8小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铜](Copper.md)(+5)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[斧头模具](MoldAxe.md)  |  斧子头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [斧子头](AxeHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+2  
+[铲头模具](MoldShovel.md)  |  铲子头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铲子头](ShovelHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+2  
+[矛头模具](MoldSpear.md)  |  矛头  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [矛头](SpearHead.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[刀模具](MoldKnife.md)  |  刀  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铜刀](KnifeCopper.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
+[装饰品模具](MoldCopperDecoration.md)  |  装饰品  |  6小时  |  ** 需要属性：**<br>温度<img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;">: 1100～3000(73%～200%)  |  [铜制装饰品](CopperDecoration_Mold.md)(+1)  |  [金工(技能)](Skill_Metalworking.md)+1  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

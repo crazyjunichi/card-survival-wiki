@@ -23,7 +23,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)  |  制作诱饵<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br>使用次数  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Slices] **<br>  [鱼片](FishSlices.md)(+1)<br>基础权重：1  |    
+[“切割工具”](tag_Cutter.md)  |  制作诱饵<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Slices] **<br>  [鱼片](FishSlices.md)(+1)<br>基础权重：1  |    
 ## 可拖至  
 [猪食槽](BoarFeeder.md) | [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [猪食槽(空)](BoarFeederEmpty.md) | [堆肥箱](CompostBin.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [灰山鹑喂食器(空)](PartridgeFeederEmpty.md) | [中陷阱的猕猴](CageTrapMacaque.md) | [母猪](BoarEnclosureFemale.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [忠犬朋友](DogFriend.md) | [猕猴朋友](MacaqueFriend.md) | [受伤的猕猴](MacaqueWounded.md) | [小灰山鹑](PartridgeChick.md) | [雌灰山鹑](PartridgeFemaleEnclosure.md) | [雌灰山鹑](PartridgeFemaleLive.md) | [雄灰山鹑](PartridgeMaleEnclosure.md) | [雄灰山鹑](PartridgeMaleLive.md)  
 ## 属性   

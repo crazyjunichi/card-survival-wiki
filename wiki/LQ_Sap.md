@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300<br>使用次数  -1<br>含水量  -300  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+15<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+15<br>[腹泻](Diarrhoea.md)+10<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)+1  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300(-3750%)  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+15<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+15<br>[腹泻](Diarrhoea.md)+10<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)+1  
 ## 可用于转化  
 转化为  |  容器  
 ----  |  ----  

@@ -18,9 +18,9 @@
 [马勃菌](Puffballs.md)  |  种植马勃菌<br>  |  30分  |    |  ** 自身: **<br>→ [马勃菌菌床](MushroomBedPuffballs.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
 [迷幻菇](MagicMushrooms.md)  |  种植迷幻菇<br>  |  30分  |    |  ** 自身: **<br>→ [迷幻菇菌床](MushroomBedMagic.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
 [杂菌](AssortedMushrooms.md)  |  种植杂菌<br>  |  30分  |    |  ** 自身: **<br>→ [杂菌菌床](MushroomBedAssorted.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
-[椰子水](LQ_CoconutWater.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>含水量  -300  |    
-[“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
-[“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
+[椰子水](LQ_CoconutWater.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +96(33%)<br><br>** 使用物: **<br>含水量  -300  |    
+[“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;">  +384(100%)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
+[“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;">  +96(25%)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
 ## 可拖至  
 [硫磺农药](LQ_PesticideBrimstone.md) | [辣椒农药](LQ_PesticideChilli.md)  
 ## 属性   

@@ -20,9 +20,9 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[山羊饲料](FeedGoat.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 3072<br><br>** 使用物: **<br>→消失  |    
-[“喂食（草食动物）”](tag_FeedHerb.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br><br>** 使用物: **<br>→消失  |    
-[“树叶”](tag_Leaves.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>→消失  |    
+[山羊饲料](FeedGoat.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +3072(100%)<br><br>** 使用物: **<br>→消失  |    
+[“喂食（草食动物）”](tag_FeedHerb.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +192(6%)<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +96(3%)<br><br>** 使用物: **<br>→消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

@@ -60,9 +60,9 @@
 [椰子](Coconut.md)<br>[青椰子](CoconutHusked.md)  |  种植椰子树<br>  |  30分  |    |  ** 自身: **<br>→ [椰子树田](CropPlotPalmTree.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
 [芒果](Mango.md)  |  种植芒果树<br>  |  30分  |    |  ** 自身: **<br>→ [芒果树田](CropPlotMangoTree.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
 [棕榈丛种子](PalmBushSeeds.md)  |  种植棕榈丛<br>  |  30分  |    |  ** 自身: **<br>→ [棕榈丛田](CropPlotPalmBush.md)<br><br>** 使用物: **<br>→消失  |  [污垢](Filth.md)+10  
-[椰子水](LQ_CoconutWater.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>含水量  -300  |    
-[“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 384<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
-[“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;"> + 96<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
+[椰子水](LQ_CoconutWater.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  浇水<br>  |  -  |    |  ** 自身: **<br>水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +96(33%)<br><br>** 使用物: **<br>含水量  -300  |    
+[“肥料”](tag_Fertilizer.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;">  +384(100%)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
+[“低效肥料”](tag_FertilizerWeak.md)  |  施肥<br>  |  15分  |    |  ** 自身: **<br>肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:20px;max-height:20px;">  +96(25%)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
 ## 可拖至  
 [硫磺农药](LQ_PesticideBrimstone.md) | [辣椒农药](LQ_PesticideChilli.md)  
 ## 属性   

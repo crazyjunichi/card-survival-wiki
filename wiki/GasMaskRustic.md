@@ -14,7 +14,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[木炭](Charcoal.md)  |  重新装填过滤器<br>  |  15分  |    |  ** 自身: **<br>使用次数 + 96<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  重新装填过滤器<br>  |  15分  |    |  ** 自身: **<br>使用次数  +96(150%)<br><br>** 使用物: **<br>→消失  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -23,7 +23,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Filter  |  ** 需要属性：**<br>使用次数: 1～96  |    |  [空气毒性](AirToxicity.md)-4  
+Filter  |  ** 需要属性：**<br>使用次数: 1～96(2%～150%)  |    |  [空气毒性](AirToxicity.md)-4  
 FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  湿度<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 Acid Damage  |  ** 需要存在卡牌：**<br>[“有毒环境”](tag_EnvToxic.md)  |  使用次数-1  |    
 

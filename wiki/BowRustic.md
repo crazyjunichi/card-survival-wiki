@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2<br>[光亮](Light.md): 10-100<br><br>[简易箭矢](ArrowSimple.md)存在于手中  |  ** 自身：**<br>使用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1  |  [箭术(技能)](Skill_Archery.md)+1  
+练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2<br>[光亮](Light.md): 10-100<br><br>[简易箭矢](ArrowSimple.md)存在于手中  |  ** 自身：**<br>使用次数  -1(-1%)<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1  |  [箭术(技能)](Skill_Archery.md)+1  
 拆解<br>  |  30分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [长木棍](StickLong.md)(+1)<br>  [细线](CordFiber.md)(+2)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

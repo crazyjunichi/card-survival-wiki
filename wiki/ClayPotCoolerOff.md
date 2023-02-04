@@ -19,7 +19,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[盐水](LQ_WaterSalt.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>→ [保鲜罐(开)](ClayPotCoolerOn.md)<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> + 192<br><br>** 使用物: **<br>含水量  -300  |    
+[盐水](LQ_WaterSalt.md)<br>[“灌溉用水”](tag_WaterFresh.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>→ [保鲜罐(开)](ClayPotCoolerOn.md)<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +192(28%)<br><br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

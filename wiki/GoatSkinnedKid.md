@@ -15,8 +15,8 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  剔肉<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>肉  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Meat] **<br>  [羊肉](GoatMeat.md)(+2)<br>基础权重：1  |  [污垢](Filth.md)+15  
-[“切割工具”](tag_Cutter.md)  |  剔肉<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>肉  -1<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Meat] **<br>  [羊肉](GoatMeat.md)(+2)<br>基础权重：1  |  [污垢](Filth.md)+15  
+[黑曜石刀](KnifeObsidian.md)  |  剔肉<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>肉  -1(-50%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Meat] **<br>  [羊肉](GoatMeat.md)(+2)<br>基础权重：1  |  [污垢](Filth.md)+15  
+[“切割工具”](tag_Cutter.md)  |  剔肉<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>肉  -1(-50%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Meat] **<br>  [羊肉](GoatMeat.md)(+2)<br>基础权重：1  |  [污垢](Filth.md)+15  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

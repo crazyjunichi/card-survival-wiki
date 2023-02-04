@@ -12,7 +12,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数 + 800<br><br>** 使用物: **<br>可用次数  -1  |    
+[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(33%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
@@ -21,7 +21,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12  |    |  [湿度](Wetness.md)+40  
+Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12(8%～100%)  |    |  [湿度](Wetness.md)+40  
 FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
 
 
