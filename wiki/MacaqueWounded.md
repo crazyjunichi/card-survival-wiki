@@ -18,7 +18,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放它走<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>→消失  |    
+放它走<br>  |  15分  |  ~~[畜栏(环境)](Env_Enclosure.md)存在于手中/面板~~  |  ** 自身：**<br>→消失  |    
 抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 250<br><br>** 获得： **<br>** [Success] **<br>[孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10<br>基础权重：50<br>** [Ouch!] **<br>  [啊！！！！(事件)](Event_MacaqueFriendAnger.md)(+1)<br>[压力](Stress.md)+10<br>基础权重：50  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

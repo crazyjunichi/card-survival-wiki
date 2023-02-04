@@ -5,7 +5,7 @@
   
   简易的弓  |   图片   
  ----  |  ----:   
- ** 不可删除 **<br><br>**重量：**250<br><br>**装备时减重：**-150<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“后背装备”](eTag_Backpack.md)<br><br>**可使用次数：**75  |  <img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 不可删除 **<br><br>** 装备时等效于拿在手上 **<br><br>**重量：**250<br><br>**装备时减重：**-150<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“后背装备”](eTag_Backpack.md)<br><br>**可使用次数：**75  |  <img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  
@@ -16,7 +16,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2<br>[光亮](Light.md): 10-100<br><br>[简易箭矢](ArrowSimple.md)  |  ** 自身：**<br>使用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1  |  [箭术(技能)](Skill_Archery.md)+1  
+练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2<br>[光亮](Light.md): 10-100<br><br>[简易箭矢](ArrowSimple.md)存在于手中  |  ** 自身：**<br>使用次数  -1<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1  |  [箭术(技能)](Skill_Archery.md)+1  
 拆解<br>  |  30分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [长木棍](StickLong.md)(+1)<br>  [细线](CordFiber.md)(+2)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

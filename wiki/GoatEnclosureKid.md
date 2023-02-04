@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放生<br>  |  15分  |  [畜栏(环境)](Env_Enclosure.md)  |  ** 自身：**<br>→消失  |  [山羊种群数量](Pop_Goat.md)+1000  
+放生<br>  |  15分  |  ~~[畜栏(环境)](Env_Enclosure.md)存在于手中/面板~~  |  ** 自身：**<br>→消失  |  [山羊种群数量](Pop_Goat.md)+1000  
 捆起来<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [小羊](GoatTiedKid.md)<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  -250  |    
 抚摸<br>  |  15分  |    |  ** 自身：**<br>压力<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"> + 25  |  [孤独感](Loneliness.md)-20<br>[压力](Stress.md)-10  
 ## 可拖入  

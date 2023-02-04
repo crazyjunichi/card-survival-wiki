@@ -5,7 +5,7 @@
   
   盾牌  |   图片   
  ----  |  ----:   
- **重量：**500<br><br>**装备时减重：**-250<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“盾牌”](eTag_Shield.md)<br><br>**可使用次数：**100  |  <img decoding="async" src="Sprite/Shield.png" href="a.md" style="max-width:300px;max-height:300px;">   
+ ** 装备时等效于拿在手上 **<br><br>**重量：**500<br><br>**装备时减重：**-250<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“盾牌”](eTag_Shield.md)<br><br>**可使用次数：**100  |  <img decoding="async" src="Sprite/Shield.png" href="a.md" style="max-width:300px;max-height:300px;">   
   
 ## 获取来源  
 来源  |  操作  

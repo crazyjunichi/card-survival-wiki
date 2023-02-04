@@ -17,7 +17,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-放置<br>  |  15分  |  [木筏(环境)](Env_Raft.md)  |  ** 自身：**<br>→ [保鲜罐(关)](ClayPotCoolerOff.md)  |    
+放置<br>  |  15分  |  ~~[木筏(环境)](Env_Raft.md)存在于手中/面板~~  |  ** 自身：**<br>→ [保鲜罐(关)](ClayPotCoolerOff.md)  |    
 
 
 <script>document.title="保鲜罐 - 卡牌生存百科 Card Survival Wiki";</script>
