@@ -16,19 +16,19 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-17%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Charcoal] **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1  |    
+取出木炭和灰烬<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Charcoal] **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1  |    
 取出<br>  |  -  |    |  ** 自身：**<br>→ [营火(熄灭)](CampfireExtinguished.md)<br><br>** 获得： **<br>** [Alembic] **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29%)<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(44%)<br><br>** 使用物: **<br>→消失  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
-[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料  +14(15%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +14(88%)<br><br>** 使用物: **<br>→消失  |    
-[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
-[火种](TinderLit.md)  |  点燃<br>  |  -  |    |  ** 自身: **<br>→ [蒸馏器(开)](AlembicOn.md)<br>燃料  +1(1%)<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3.13%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29.17%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7.29%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7.29%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(43.75%)<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2.08%)<br><br>** 使用物: **<br>→消失  |    
+[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料  +14(14.58%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +14(87.5%)<br><br>** 使用物: **<br>→消失  |    
+[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3.13%)<br><br>** 使用物: **<br>→消失  |    
+[火种](TinderLit.md)  |  点燃<br>  |  -  |    |  ** 自身: **<br>→ [蒸馏器(开)](AlembicOn.md)<br>燃料  +1(1.04%)<br><br>** 使用物: **<br>→消失  |    
 [盐水](LQ_WaterSalt.md)<br>[有毒的水](LQ_WaterToxic.md)<br>[不安全的水](LQ_WaterUnsafe.md)<br>[灰水](LQ_AshWater.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +1200(100%)<br><br>** 使用物: **<br>可用次数  +300<br>含水量  -1200  |    
 [硝石溶液](LQ_DissolvedNiter.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(25%)<br><br>** 使用物: **<br>可用次数  +300<br>含水量  -300  |    
 ## 可拖至  

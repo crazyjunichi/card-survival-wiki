@@ -24,7 +24,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：20<br>最大：20  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [细线](CordFiber.md)(+2)<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>自身→消失  
+使用次数  |  初始：20<br>最大：20  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [细线](CordFiber.md)(+2)<br>  [小树枝](Sticks.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失  
 
 
 <script>document.title="木铲 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -18,16 +18,16 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>自身→ [损坏的帆](SailBroken_Raft.md)  
+使用次数  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [损坏的帆](SailBroken_Raft.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Storm Back  |  ** 需要状态：**<br>[风](Wind.md): 3-5  |  使用次数-3  |  [距离](Distance.md)加成+3  
-Very Favourable Wind  |  ** 需要状态：**<br>[风](Wind.md): 2-2  |  使用次数-1  |  [距离](Distance.md)加成+2  
+Storm Back  |  ** 需要状态：**<br>[风](Wind.md): 3-5  |  使用次数 -3(-0.63%)  |  [距离](Distance.md)加成+3  
+Very Favourable Wind  |  ** 需要状态：**<br>[风](Wind.md): 2-2  |  使用次数 -1(-0.21%)  |  [距离](Distance.md)加成+2  
 Favourable Wind  |  ** 需要状态：**<br>[风](Wind.md): 1-1  |    |  [距离](Distance.md)加成+1  
-Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -1--1  |  使用次数-1  |  [距离](Distance.md)加成-1.5  
-Very Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -2--2  |  使用次数-2  |  [距离](Distance.md)加成-2.5  
-Storm Front  |  ** 需要状态：**<br>[风](Wind.md): -5--3  |  使用次数-4  |  [距离](Distance.md)加成-3.5  
+Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -1--1  |  使用次数 -1(-0.21%)  |  [距离](Distance.md)加成-1.5  
+Very Unfavourable Wind  |  ** 需要状态：**<br>[风](Wind.md): -2--2  |  使用次数 -2(-0.42%)  |  [距离](Distance.md)加成-2.5  
+Storm Front  |  ** 需要状态：**<br>[风](Wind.md): -5--3  |  使用次数 -4(-0.84%)  |  [距离](Distance.md)加成-3.5  
 
 
 <script>document.title="扬起的帆 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -33,12 +33,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
-进度  |  初始：0<br>最大：336  |  -  |  ** 到达上限时： **<br><br>自身→ [干姜](GingerDried.md)  
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [腐烂物](RottenRemains.md)  
+进度  |  初始：0<br>最大：336  |  -  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [干姜](GingerDried.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  进度+1  |    
+Drying  |  ** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[降水值](RainValue.md): 0-0  |  进度+1(0.29%)  |    
 
 
 <script>document.title="姜 - 卡牌生存百科 Card Survival Wiki";</script>

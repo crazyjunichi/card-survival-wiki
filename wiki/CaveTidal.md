@@ -17,14 +17,14 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Minimal Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 100～250(10%～25%)  |    |  [不适](Discomfort.md)+175  
-Low Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500(25%～50%)  |    |  [不适](Discomfort.md)+375  
-Moderate Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 501～750(50%～75%)  |    |  [不适](Discomfort.md)+625  
-Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1000(75%～100%)  |    |  [不适](Discomfort.md)+875  
+Low Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500(25.1%～50%)  |    |  [不适](Discomfort.md)+375  
+Moderate Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 501～750(50.1%～75%)  |    |  [不适](Discomfort.md)+625  
+Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1000(75.1%～100%)  |    |  [不适](Discomfort.md)+875  
 High Tide  |  ** 需要状态：**<br>[潮汐](Tides.md): 1-1  |    |  [湿度](Wetness.md)加成+50  
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-  |  [“腿部（内层）”](tag_Clothing.md)  |  ** 需要状态：**<br>[潮汐](Tides.md): 1-1  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+4  |    
+  |  [“腿部（内层）”](tag_Clothing.md)  |  ** 需要状态：**<br>[潮汐](Tides.md): 1-1  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> +4(33.33%)  |    
 
 
 <script>document.title="潮汐洞 - 卡牌生存百科 Card Survival Wiki";</script>

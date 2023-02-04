@@ -24,8 +24,8 @@
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Fungal Infestation  |  [“农作物”](tag_Crop.md)  |    |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
-Putrefactin  |  [“人类食物”](tag_HumanFood.md)<br>[“诱饵”](tag_Bait.md)<br>[“饲料”](tag_Feed.md)  |    |  耐久-2  |    
+Fungal Infestation  |  [“农作物”](tag_Crop.md)  |    |  真菌感染<img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;"> +2(0.69%)  |    
+Putrefactin  |  [“人类食物”](tag_HumanFood.md)<br>[“诱饵”](tag_Bait.md)<br>[“饲料”](tag_Feed.md)  |    |  耐久 -2  |    
 
 
 <script>document.title="盛开的外星植物 - 卡牌生存百科 Card Survival Wiki";</script>

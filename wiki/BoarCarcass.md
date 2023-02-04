@@ -34,7 +34,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br><br>自身→消失  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br><br>** 自身 **<br>→消失  
 体重<img decoding="async" src="Sprite/SaturationMeat.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3000<br>最大：6000  |  -  |    
 
 

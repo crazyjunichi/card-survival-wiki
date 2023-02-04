@@ -14,11 +14,11 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300(-22%)  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+24<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+30<br>[腹泻](Diarrhoea.md)+5<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)  
+饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300(-22.32%)  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+24<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+30<br>[腹泻](Diarrhoea.md)+5<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：1344<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达0时： **<br><br>自身→ [糖酒](LQ_SugarWine.md)  
+耐久  |  初始：1344<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [糖酒](LQ_SugarWine.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

@@ -28,7 +28,7 @@
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  
-未蓄满的  |  [潮汐](Tides.md): 0-0  |  → [潮汐池(岩滩)](TidePool.md)<br>可用次数  1～3  
+未蓄满的  |  [潮汐](Tides.md): 0-0  |  → [潮汐池(岩滩)](TidePool.md)<br>可用次数  +1～+3  
 
 
 <script>document.title="被淹没的潮汐池 - 卡牌生存百科 Card Survival Wiki";</script>

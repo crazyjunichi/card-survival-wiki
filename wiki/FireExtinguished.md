@@ -18,14 +18,14 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(5%)<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(44%)<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(11%)<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(11%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(44%)<br><br>** 使用物: **<br>→消失  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(3%)<br><br>** 使用物: **<br>→消失  |    
-[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料  +12(19%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +8(50%)<br><br>** 使用物: **<br>→消失  |    
-[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料  +3(5%)<br><br>** 使用物: **<br>→消失  |    
-[火种](TinderLit.md)  |  点燃<br>  |  -  |    |  ** 自身: **<br>→ [火堆](Fire.md)<br>燃料  +1(2%)<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(4.69%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(43.75%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(10.94%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(10.94%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(43.75%)<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(3.13%)<br><br>** 使用物: **<br>→消失  |    
+[火炭](Embers.md)  |  添入火炭<br>  |  -  |    |  ** 自身: **<br>燃料  +12(18.75%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +8(50%)<br><br>** 使用物: **<br>→消失  |    
+[椰子皮](CoconutHusk.md)  |  添入椰子皮<br>  |  -  |    |  ** 自身: **<br>燃料  +3(4.69%)<br><br>** 使用物: **<br>→消失  |    
+[火种](TinderLit.md)  |  点燃<br>  |  -  |    |  ** 自身: **<br>→ [火堆](Fire.md)<br>燃料  +1(1.56%)<br><br>** 使用物: **<br>→消失  |    
 ## 可拖至  
 [装有燃料的油桶](JerrycanFuel.md)  
 ## 属性   

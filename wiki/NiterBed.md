@@ -19,11 +19,11 @@
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 <img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |    
-进度  |  初始：0<br>最大：1440  |  -  |  ** 到达上限时： **<br>** [Result] **<br>  [硝石晶体](NiterCrystals.md)(+3)<br><br>自身→ [粪池](Cesspool.md)  
+进度  |  初始：0<br>最大：1440  |  -  |  ** 到达上限时： **<br>** [Result] **<br>  [硝石晶体](NiterCrystals.md)(+3)<br><br>** 自身 **<br>→ [粪池](Cesspool.md)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Lye  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～480(0%～100%)  |  进度+1  |    
+Lye  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～480(0.21%～100%)  |  进度+1(0.06%)  |    
 
 
 <script>document.title="硝石矿床 - 卡牌生存百科 Card Survival Wiki";</script>

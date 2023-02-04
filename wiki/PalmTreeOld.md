@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [青椰子](CoconutHusked.md)(+4)<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>自身→ [倒下的棕榈树](PalmTreeFelled.md)  
+进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [青椰子](CoconutHusked.md)(+4)<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>** 自身 **<br>→ [倒下的棕榈树](PalmTreeFelled.md)  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  

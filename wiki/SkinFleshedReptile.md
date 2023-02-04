@@ -15,7 +15,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮鞣制好了！ **<br><br>自身→ [鞣制巨蜥皮](CuredSkinReptile.md)  
+耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮鞣制好了！ **<br><br>** 自身 **<br>→ [鞣制巨蜥皮](CuredSkinReptile.md)  
 
 
 <script>document.title="刮净的蜥蜴皮 - 卡牌生存百科 Card Survival Wiki";</script>

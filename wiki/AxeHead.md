@@ -27,7 +27,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：150<br>最大：150  |  -  |  ** 到达0时： **<br><br>自身→ [钝斧子头](AxeHeadBlunt.md)  
+使用次数  |  初始：150<br>最大：150  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [钝斧子头](AxeHeadBlunt.md)  
 
 
 <script>document.title="斧子头 - 卡牌生存百科 Card Survival Wiki";</script>

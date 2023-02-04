@@ -15,18 +15,18 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-17%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
 熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [蒸馏器(关)](AlembicOff.md)  |    
 取出<br>  |  -  |    |  ** 自身：**<br>→ [营火](Campfire.md)<br><br>** 获得： **<br>** [Alembic] **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3%)<br><br>** 使用物: **<br>→消失  |    
-[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29%)<br><br>** 使用物: **<br>→消失  |    
-[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><br>** 使用物: **<br>→消失  |    
-[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(44%)<br><br>** 使用物: **<br>→消失  |    
+[椰子壳](CoconutShell.md)  |  添入椰子壳<br>  |  -  |    |  ** 自身: **<br>燃料  +3(3.13%)<br><br>** 使用物: **<br>→消失  |    
+[木材](Wood.md)  |  添入柴火<br>  |  -  |    |  ** 自身: **<br>燃料  +28(29.17%)<br><br>** 使用物: **<br>→消失  |    
+[“燃料”](tag_Fuel.md)  |  添入燃料<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7.29%)<br><br>** 使用物: **<br>→消失  |    
+[木炭](Charcoal.md)<br>[火炭](Embers.md)  |  添入木炭<br>  |  -  |    |  ** 自身: **<br>燃料  +7(7.29%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  +7(43.75%)<br><br>** 使用物: **<br>→消失  |    
 [枯叶](LeavesDry.md)<br>[鸟巢](Nest.md)<br>[木屑](WoodShavings.md)<br>[纤维](Fibers.md)<br>[纸](Papers.md)  |  点燃火绒<br>  |  -  |    |  <br>** 使用物: **<br>→ [火种](TinderLit.md)  |    
-[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2%)<br><br>** 使用物: **<br>→消失  |    
+[“树叶”](tag_Leaves.md)  |  添入树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +2(2.08%)<br><br>** 使用物: **<br>→消失  |    
 [盐水](LQ_WaterSalt.md)<br>[有毒的水](LQ_WaterToxic.md)<br>[不安全的水](LQ_WaterUnsafe.md)<br>[灰水](LQ_AshWater.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +1200(100%)<br><br>** 使用物: **<br>可用次数  +300<br>含水量  -1200  |    
 [硝石溶液](LQ_DissolvedNiter.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(25%)<br><br>** 使用物: **<br>可用次数  +300<br>含水量  -300  |    
 ## 可拖至  
@@ -34,15 +34,15 @@
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0%～100%)  |  含水量  +19  |    
-[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏水的液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0%～100%)  |  ** [water] **<br>[水](LQ_Water.md)(+1)<br>  |    
-[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏硝酸的液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0%～100%)  |  ** [Aqua Fortis] **<br>[浓硝酸](LQ_AquaFortis.md)(+1)<br>  |    
-[浓硝酸](LQ_AquaFortis.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0%～100%)  |  含水量  +19  |    
+[“灌溉用水”](tag_WaterFresh.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  含水量  +19  |    
+[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏水的液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [water] **<br>[水](LQ_Water.md)(+1)<br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏硝酸的液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [Aqua Fortis] **<br>[浓硝酸](LQ_AquaFortis.md)(+1)<br>  |    
+[浓硝酸](LQ_AquaFortis.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  含水量  +19  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1200  |  每15分钟-38<br>最多需要：7小时54分  |    
-燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>自身→ [蒸馏器(关)](AlembicOff.md)  
+燃料  |  初始：32<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [蒸馏器(关)](AlembicOff.md)  
 <img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：16  |  每15分钟+1<br>最多需要：4小时  |    
 硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1200  |  每15分钟-38<br>最多需要：7小时54分  |    
 ## 被动效果  

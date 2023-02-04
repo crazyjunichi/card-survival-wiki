@@ -23,13 +23,13 @@
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
 Minimal Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 100～250(10%～25%)  |    |  [不适](Discomfort.md)+175  
-Low Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500(25%～50%)  |    |  [不适](Discomfort.md)+375  
-Moderate Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 501～750(50%～75%)  |    |  [不适](Discomfort.md)+625  
-Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1000(75%～100%)  |    |  [不适](Discomfort.md)+875  
+Low Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 251～500(25.1%～50%)  |    |  [不适](Discomfort.md)+375  
+Moderate Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 501～750(50.1%～75%)  |    |  [不适](Discomfort.md)+625  
+Extreme Filth  |  ** 需要属性：**<br>污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1000(75.1%～100%)  |    |  [不适](Discomfort.md)+875  
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-Preserve  |  [“饲料”](tag_Feed.md)<br>[“已烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久+0.25  |    
+Preserve  |  [“饲料”](tag_Feed.md)<br>[“已烹饪的”](tag_MealCookingpot.md)<br>[“有机的”](tag_Organic.md)<br>[“可烹饪的”](tag_Cookable.md)  |    |  耐久 +0.25(0.08%)  |    
 
 
 <script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

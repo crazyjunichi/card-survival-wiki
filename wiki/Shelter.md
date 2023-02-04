@@ -26,7 +26,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br>  [长木棍](StickLong.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>自身→消失  
+使用次数  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br>  [长木棍](StickLong.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="窝棚 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -22,23 +22,23 @@
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [火把(开)](TorchOn.md)<br>[熏蜂器(开)](BeeSmokerOn.md)  |  烟熏<br>  |  -  |    |  ** 自身: **<br>休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;">  +6(100%)  |    
-[“储水容器”](tag_WaterContainer.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +500(174%)<br><br>** 使用物: **<br>含水量  -300  |    
+[“储水容器”](tag_WaterContainer.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +500(173.61%)<br><br>** 使用物: **<br>含水量  -300  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
 休眠<img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：6  |  每15分钟-1<br>最多需要：1小时30分  |    
-种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达0时：蜂群死光了！ **<br><br>自身→ [空蜂箱](BeeSkepEmpty.md)  
+种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：1344  |  每15分钟+1<br>最多需要：14天  |  ** 到达0时：蜂群死光了！ **<br><br>** 自身 **<br>→ [空蜂箱](BeeSkepEmpty.md)  
 食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟+0.1<br>最多需要：104天4小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Make Honey  |  ** 需要存在卡牌：**<br>[“花”](tag_Flower.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">+0.1  |    
-Honey Enviromental Boost  |  ** 需要存在卡牌：**<br>[“肥沃环境”](tag_EnvFertile.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">+0.5  |    
-Eat Honey  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0%)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">-1  |    
-Starve  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0%)<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0%)  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
-Hive Competition  |  ** 需要存在卡牌：**<br>[蜂箱](BeeSkep.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">-0.5  |    
-Breed More  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1(0%～0%)<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1(0%～0%)  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
+Make Honey  |  ** 需要存在卡牌：**<br>[“花”](tag_Flower.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">+0.1(0.01%)  |    
+Honey Enviromental Boost  |  ** 需要存在卡牌：**<br>[“肥沃环境”](tag_EnvFertile.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">+0.5(0.05%)  |    
+Eat Honey  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0.03%)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">-1(-0.1%)  |    
+Starve  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0.03%)<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～0.1(0%～0.01%)  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"> -2(-0.15%)  |    
+Hive Competition  |  ** 需要存在卡牌：**<br>[蜂箱](BeeSkep.md)  |  蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">-0.5(-0.05%)  |    
+Breed More  |  ** 需要属性：**<br>食物储备<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1(0.17%～0.35%)<br>蜂蜜<img decoding="async" src="Sprite/BeeHoneycomb.png" href="a.md" style="max-width:20px;max-height:20px;">: 0.5～1(0.05%～0.1%)  |  种群数量<img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"> +1(0.07%)  |    
 
 
 <script>document.title="蜂箱 - 卡牌生存百科 Card Survival Wiki";</script>

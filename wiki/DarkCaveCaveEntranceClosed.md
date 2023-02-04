@@ -13,7 +13,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：20  |  -  |  ** 到达上限时： **<br><br>自身→ [幽暗洞穴(潮湿洞穴)](DarkCaveCaveEntrance.md)  
+进度  |  初始：0<br>最大：20  |  -  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [幽暗洞穴(潮湿洞穴)](DarkCaveCaveEntrance.md)  
 
 
 <script>document.title="狭窄通道 - 卡牌生存百科 Card Survival Wiki";</script>

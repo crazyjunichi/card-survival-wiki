@@ -18,11 +18,11 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(6%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
+[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(5.95%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：13440<br>最大：13440  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [鞣制兽皮](CuredSkin.md)(+1)<br>  [细线](CordFiber.md)(+2)<br><br><br>自身→消失  
+使用次数  |  初始：13440<br>最大：13440  |  -  |  ** 到达0时： **<br>** [Remains] **<br>  [鞣制兽皮](CuredSkin.md)(+1)<br>  [细线](CordFiber.md)(+2)<br><br><br>** 自身 **<br>→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 
 

@@ -15,13 +15,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-熄灭<br>  |  -  |    |  ** 自身：**<br>→ [熏蜂器(关)](BeeSmokerOff.md)<br>燃料  -1(-6%)  |    
+熄灭<br>  |  -  |    |  ** 自身：**<br>→ [熏蜂器(关)](BeeSmokerOff.md)<br>燃料  -1(-6.25%)  |    
 ## 可拖至  
 [蜂箱](BeeSkep.md) | [繁殖中的蜂群](BeeSkepSwarming.md) | [蜂巢](Beehive.md) | [蜜蜂](Bees.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br><br>自身→ [熏蜂器(关)](BeeSmokerOff.md)  
+燃料  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br><br>** 自身 **<br>→ [熏蜂器(关)](BeeSmokerOff.md)  
 
 
 <script>document.title="熏蜂器 - 卡牌生存百科 Card Survival Wiki";</script>

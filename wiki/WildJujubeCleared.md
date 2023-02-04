@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-枣子成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>自身→ [野枣丛](WildJujube.md)  
+枣子成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [野枣丛](WildJujube.md)  
 
 
 <script>document.title="摘光的野枣从 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -20,13 +20,13 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-训练<br>[手部动作](HandAction.md)  |  1小时  |    |  ** 自身：**<br>使用次数  -1(-2%)  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+20  
+训练<br>[手部动作](HandAction.md)  |  1小时  |    |  ** 自身：**<br>使用次数  -1(-1.67%)  |  [矛战(技能)](Skill_SpearFighting.md)+1<br>[耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+20  
 ## 可拖至  
 [青椰子](CoconutHusked.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md) | [母山羊](GoatEnclosureFemale.md) | [小羊](GoatEnclosureKid.md) | [哺乳期山羊](GoatEnclosureLactating.md) | [公山羊](GoatEnclosureMale.md) | [母山羊](GoatTiedFemale.md) | [哺乳期山羊](GoatTiedFemaleLactating.md) | [小羊](GoatTiedKid.md) | [公山羊](GoatTiedMale.md) | [猕猴朋友](MacaqueFriend.md) | [海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md) | [海(荒芜沙滩)](Sea_DesolateBeach.md) | [海(红树林)](Sea_Mangroves.md) | [海(鸟岩岛)](Sea_Rocks.md)  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br><br>自身→ [小树枝](Sticks.md)  
+使用次数  |  初始：60<br>最大：60  |  -  |  ** 到达0时：长矛坏了 **<br><br>** 自身 **<br>→ [小树枝](Sticks.md)  
 
 
 <script>document.title="简易长矛 - 卡牌生存百科 Card Survival Wiki";</script>

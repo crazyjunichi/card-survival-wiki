@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[食用坚果类动作](NutAction.md)  |  -  |    |  ** 自身：**<br>耐久  -250(-52%)  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+24<br>[水分](Hydration.md)+20<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+45<br>[腹泻](Diarrhoea.md)+20<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+4  
+饮用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[食用坚果类动作](NutAction.md)  |  -  |    |  ** 自身：**<br>耐久  -250(-52.08%)  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+24<br>[水分](Hydration.md)+20<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+45<br>[腹泻](Diarrhoea.md)+20<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+4  
 ## 可用于蓝图  
 - [椰子鱼(蓝图)](Bp_CoconutFish.md)  
 - [参薯酱(蓝图)](Bp_YamJam.md)  
@@ -24,11 +24,11 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：480<br>最大：480  |  每15分钟-0.5<br>最多需要：10天  |  ** 到达0时： **<br><br>自身→消失  
+耐久  |  初始：480<br>最大：480  |  每15分钟-0.5<br>最多需要：10天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Evaporation  |    |  耐久-0.5<br>含水量-0.25  |    
+Evaporation  |    |  耐久 -0.5(-0.11%)<br>含水量-0.25  |    
 
 
 <script>document.title="椰奶 - 卡牌生存百科 Card Survival Wiki";</script>

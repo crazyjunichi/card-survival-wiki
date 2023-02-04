@@ -18,13 +18,13 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：1344<br>最大：1344  |  -  |  ** 到达0时： **<br>** [Cord] **<br>  [细线](CordFiber.md)(+4)<br><br>自身→消失  
+使用次数  |  初始：1344<br>最大：1344  |  -  |  ** 到达0时： **<br>** [Cord] **<br>  [细线](CordFiber.md)(+4)<br><br>** 自身 **<br>→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-4<br>最多需要：45分  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12(8%～100%)  |    |  [湿度](Wetness.md)+10  
-FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">+2  |    
+Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12(8.33%～100%)  |    |  [湿度](Wetness.md)+10  
+FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> +2(16.66%)  |    
 
 
 <script>document.title="草裙 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -17,7 +17,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>自身→ [摘完的椰子树](PalmTreeCleared.md)  
+使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [摘完的椰子树](PalmTreeCleared.md)  
 
 
 <script>document.title="椰子树 - 卡牌生存百科 Card Survival Wiki";</script>

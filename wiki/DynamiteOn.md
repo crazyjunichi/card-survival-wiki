@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-燃料  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br><br>自身→ [炸药(关)](DynamiteOff.md)  
+燃料  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br><br>** 自身 **<br>→ [炸药(关)](DynamiteOff.md)  
 
 
 <script>document.title="炸药 - 卡牌生存百科 Card Survival Wiki";</script>

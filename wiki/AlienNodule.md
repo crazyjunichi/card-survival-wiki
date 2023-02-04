@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>自身→ [外星植物](AlienGrowthCleared.md)  
+耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [外星植物](AlienGrowthCleared.md)  
 
 
 <script>document.title="外星结节 - 卡牌生存百科 Card Survival Wiki";</script>

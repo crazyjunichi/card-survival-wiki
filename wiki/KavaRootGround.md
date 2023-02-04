@@ -25,7 +25,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [腐烂物](RottenRemains.md)  
 
 
 <script>document.title="捣碎的卡瓦根 - 卡牌生存百科 Card Survival Wiki";</script>

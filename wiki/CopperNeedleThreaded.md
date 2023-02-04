@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>自身→ [铜针](CopperNeedle.md)  
+  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [铜针](CopperNeedle.md)  
 
 
 <script>document.title="针线 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2880<br>最大：2880  |  -  |  ** 到达0时： **<br>  [鞣制兽皮](CuredSkin.md)(+7)<br>  [细线](CordFiber.md)(+5)<br>  [绳子](Rope.md)(+2)<br><br>自身→消失  
+耐久  |  初始：2880<br>最大：2880  |  -  |  ** 到达0时： **<br>  [鞣制兽皮](CuredSkin.md)(+7)<br>  [细线](CordFiber.md)(+5)<br>  [绳子](Rope.md)(+2)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="睡袋 - 卡牌生存百科 Card Survival Wiki";</script>

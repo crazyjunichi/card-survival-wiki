@@ -24,16 +24,16 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1500  |  每15分钟+1<br>最多需要：15天15小时  |  ** 到达上限时：骨折 **<br><br>自身→消失  
+<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1500  |  每15分钟+1<br>最多需要：15天15小时  |  ** 到达上限时：骨折 **<br><br>** 自身 **<br>→消失  
 <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：32  |  每15分钟-1<br>最多需要：8小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)<br>** 需要放入：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">+1  |    
-Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～32(3%～100%)  |    |  [疼痛](Pain.md)-25  
+Splint  |  ** 需要存在卡牌：**<br>[夹板](Splint.md)<br>** 需要放入：**<br>[夹板](Splint.md)  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"> +1(0.06%)  |    
+Gel Support  |  ** 需要属性：**<br><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～32(3.13%～100%)  |    |  [疼痛](Pain.md)-25  
 Fracture Extreme  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 0～750(0%～50%)  |    |  [疼痛](Pain.md)+500<br>[体重](Weight.md)加成-0.5<br>[腿部动作受限](ModifierLeg.md)+2<br>[攀爬动作受限](ModifierClimb.md)+2<br>[受伤](Wounds.md)+750  
-Fracture Severe  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1250(50%～83%)  |    |  [疼痛](Pain.md)+350<br>[体重](Weight.md)加成-0.25<br>[腿部动作受限](ModifierLeg.md)+1<br>[攀爬动作受限](ModifierClimb.md)+1<br>[受伤](Wounds.md)+750  
-Fracture Moderate  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 1251～1500(83%～100%)  |    |  [疼痛](Pain.md)+150<br>[体重](Weight.md)加成-0.1<br>[腿部动作受限](ModifierLeg.md)+0.5<br>[攀爬动作受限](ModifierClimb.md)+0.5<br>[受伤](Wounds.md)+250  
+Fracture Severe  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 751～1250(50.07%～83.33%)  |    |  [疼痛](Pain.md)+350<br>[体重](Weight.md)加成-0.25<br>[腿部动作受限](ModifierLeg.md)+1<br>[攀爬动作受限](ModifierClimb.md)+1<br>[受伤](Wounds.md)+750  
+Fracture Moderate  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">: 1251～1500(83.4%～100%)  |    |  [疼痛](Pain.md)+150<br>[体重](Weight.md)加成-0.1<br>[腿部动作受限](ModifierLeg.md)+0.5<br>[攀爬动作受限](ModifierClimb.md)+0.5<br>[受伤](Wounds.md)+250  
 
 
 <script>document.title="右腿骨折 - 卡牌生存百科 Card Survival Wiki";</script>

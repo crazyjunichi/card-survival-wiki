@@ -23,12 +23,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br><br>自身→消失  
+耐久  |  初始：576<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：12<br>最大：24  |  每15分钟-1<br>最多需要：6小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Wet Nest  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～0(4%～0%)  |    |  [内陆恐惧症](LandSickness.md)-0.5<br>[皮肤潮湿度](SkinHumidity.md)+0.5  
+Wet Nest  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～0(4.17%～0%)  |    |  [内陆恐惧症](LandSickness.md)-0.5<br>[皮肤潮湿度](SkinHumidity.md)+0.5  
 
 
 <script>document.title="人鱼巢 - 卡牌生存百科 Card Survival Wiki";</script>

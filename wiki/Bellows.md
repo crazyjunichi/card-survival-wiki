@@ -16,7 +16,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>  [鞣制兽皮](CuredSkin.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>自身→消失  
+使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>  [鞣制兽皮](CuredSkin.md)(+3)<br>  [细线](CordFiber.md)(+2)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="风箱 - 卡牌生存百科 Card Survival Wiki";</script>

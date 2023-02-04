@@ -29,7 +29,7 @@
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Spoilage  |    |  耐久-1  |    
+Spoilage  |    |    |    
 
 
 <script>document.title="蜂蜜 - 卡牌生存百科 Card Survival Wiki";</script>

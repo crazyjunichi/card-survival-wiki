@@ -38,7 +38,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br><br>自身→消失  
+<img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：3<br>最大：3  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="木针 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>自身→ [摘光的香蕉树](BananaTreeCleared.md)  
+使用次数  |  初始：3  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [摘光的香蕉树](BananaTreeCleared.md)  
 
 
 <script>document.title="香蕉树 - 卡牌生存百科 Card Survival Wiki";</script>

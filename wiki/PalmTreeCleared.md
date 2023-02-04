@@ -24,13 +24,13 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[石斧](StoneAxe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[IGNOREKEY](OnNotAxeAdv.md): 0-0  |  ** 自身: **<br>椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;">  -750(-26%)<br>砍伐进度  -10(-20%)<br><br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+80<br>[木工(技能)](Skill_Woodworking.md)+0.5  
-[“高级斧”](tag_AxeAdv.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;">  -1500(-52%)<br>砍伐进度  -25(-50%)<br><br>** 使用物: **<br>可用次数  -1  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[石斧](StoneAxe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32<br>[IGNOREKEY](OnNotAxeAdv.md): 0-0  |  ** 自身: **<br>椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;">  -750(-26.04%)<br>砍伐进度  -10(-20%)<br><br>** 使用物: **<br>可用次数  -3  |  [耐力](Stamina.md)-8<br>[手掌损伤](HandDamage.md)+80<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“高级斧”](tag_AxeAdv.md)  |  砍倒<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 自身: **<br>椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;">  -1500(-52.08%)<br>砍伐进度  -25(-50%)<br><br>** 使用物: **<br>可用次数  -1  |  [耐力](Stamina.md)-6<br>[手掌损伤](HandDamage.md)+60<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>自身→ [椰子树(新)](PalmTreeNew.md)  
-砍伐进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>自身→ [倒下的棕榈树](PalmTreeFelled.md)  
+椰子成长<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [椰子树(新)](PalmTreeNew.md)  
+砍伐进度  |  初始：50<br>最大：50  |  -  |  ** 到达0时： **<br>** [Palm Tree] **<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>** 自身 **<br>→ [倒下的棕榈树](PalmTreeFelled.md)  
 
 
 <script>document.title="摘完的椰子树 - 卡牌生存百科 Card Survival Wiki";</script>

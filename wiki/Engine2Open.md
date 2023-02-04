@@ -16,7 +16,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：2<br>最大：2  |  -  |  ** 到达0时： **<br><br>自身→ [引擎（已拆分）](Engine2Dissassembled.md)  
+进度  |  初始：2<br>最大：2  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [引擎（已拆分）](Engine2Dissassembled.md)  
 
 
 <script>document.title="引擎（启动） - 卡牌生存百科 Card Survival Wiki";</script>

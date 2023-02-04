@@ -14,7 +14,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(13%)<br><br>** 使用物: **<br>含水量  -300  |    
+[“灌溉用水”](tag_WaterFresh.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(12.5%)<br><br>** 使用物: **<br>含水量  -300  |    
 [“锤”](tag_Hammer.md)  |  拆除<br>[手部动作](HandAction.md)  |  3小时  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt] **<br>  [干土堆](DirtPile.md)(+12)<br>  [石头](Stone.md)(+8)<br>  [布](Cloth.md)(+1)<br>  |  [污垢](Filth.md)+35<br>[耐力](Stamina.md)-20<br>[手掌损伤](HandDamage.md)+40  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  

@@ -16,8 +16,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1<br>自身→消失  
-诱饵<img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>自身→ [钓鱼线](FishingLine.md)  
+使用次数  |  初始：30<br>最大：30  |  -  |  ** 到达0时： **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1<br>** 自身 **<br>→消失  
+诱饵<img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [钓鱼线](FishingLine.md)  
 
 
 <script>document.title="钓鱼线（已添加诱饵） - 卡牌生存百科 Card Survival Wiki";</script>

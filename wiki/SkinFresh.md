@@ -34,7 +34,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮腐烂了 **<br><br>自身→ [腐烂物](RottenRemains.md)  
+耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮腐烂了 **<br><br>** 自身 **<br>→ [腐烂物](RottenRemains.md)  
 
 
 <script>document.title="新鲜兽皮 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -29,7 +29,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>自身→ [灰山鹑遗骸](PartridgeCarcass.md)  
+耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [灰山鹑遗骸](PartridgeCarcass.md)  
 
 
 <script>document.title="灰山鹑尸体 - 卡牌生存百科 Card Survival Wiki";</script>

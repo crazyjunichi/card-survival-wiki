@@ -24,7 +24,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>自身→ [海鸥遗骸](SeagullCarcass.md)  
+耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [海鸥遗骸](SeagullCarcass.md)  
 
 
 <script>document.title="海鸥尸体 - 卡牌生存百科 Card Survival Wiki";</script>

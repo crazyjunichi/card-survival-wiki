@@ -14,7 +14,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：100  |  -  |  ** 到达0时：盾牌坏了 **<br>** [remains] **<br>[木材](Wood.md)(+1)<br><br>自身→消失  
+使用次数  |  初始：100  |  -  |  ** 到达0时：盾牌坏了 **<br>** [remains] **<br>[木材](Wood.md)(+1)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="盾牌 - 卡牌生存百科 Card Survival Wiki";</script>

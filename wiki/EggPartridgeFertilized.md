@@ -36,8 +36,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br><br>自身→ [腐烂物](RottenRemains.md)  
-进度  |  初始：0<br>最大：672  |  -  |  ** 到达上限时： **<br><br>自身→ [小灰山鹑](PartridgeChick.md)  
+耐久  |  初始：2016  |  每15分钟-1<br>最多需要：21天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [腐烂物](RottenRemains.md)  
+进度  |  初始：0<br>最大：672  |  -  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [小灰山鹑](PartridgeChick.md)  
 
 
 <script>document.title="受精蛋 - 卡牌生存百科 Card Survival Wiki";</script>

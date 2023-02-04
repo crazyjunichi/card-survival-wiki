@@ -18,8 +18,8 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br><br>自身→消失  
-使用次数  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+1)<br><br>自身→消失  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  [骨头](Bones.md)(+4)<br>  [腐烂物](RottenRemains.md)(+3～+6)<br>  [野猪牙](Tusk.md)(+2)<br><br>** 自身 **<br>→消失  
+使用次数  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>  [骨头](Bones.md)(+1)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="剥皮的猪 - 卡牌生存百科 Card Survival Wiki";</script>

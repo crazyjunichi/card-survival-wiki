@@ -13,12 +13,12 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |  ** 到达0时：烙印已祛除 **<br><br>自身→消失  
+<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |  ** 到达0时：烙印已祛除 **<br><br>** 自身 **<br>→消失  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  
-Mark  |  ** 需要属性：**<br><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～336(0%～100%)  |    |  [疼痛](Pain.md)+100<br>[压力](Stress.md)加成+2<br>[世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-1  
-Healing  |  ** 需要状态：**<br>[精神失常](MindState.md): 151-300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">-2  |    
+Mark  |  ** 需要属性：**<br><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～336(0.3%～100%)  |    |  [疼痛](Pain.md)+100<br>[压力](Stress.md)加成+2<br>[世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-1  
+Healing  |  ** 需要状态：**<br>[精神失常](MindState.md): 151-300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"> -2(-0.6%)  |    
 
 
 <script>document.title="崩解烙印 - 卡牌生存百科 Card Survival Wiki";</script>

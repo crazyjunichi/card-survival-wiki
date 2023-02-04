@@ -14,7 +14,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>自身→ [布片](ClothSmall.md)  
+耐久  |  初始：192  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [布片](ClothSmall.md)  
 
 
 <script>document.title="伤口敷料 - 卡牌生存百科 Card Survival Wiki";</script>

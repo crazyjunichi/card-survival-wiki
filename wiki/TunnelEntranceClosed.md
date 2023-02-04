@@ -16,7 +16,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>自身→ [隧道入口(东部高地)](TunnelEntrance.md)  
+进度  |  初始：0<br>最大：10  |  -  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [隧道入口(东部高地)](TunnelEntrance.md)  
 
 
 <script>document.title="坍塌的隧道入口 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -16,7 +16,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Calm] **<br>  [平静](OpenSea_Calm.md)(+1)<br>基础权重：1<br>** [Fav] **<br>  [风向不利](OpenSea_UnFavourable.md)(+1)<br>基础权重：1<br>** [Very Fav] **<br>  [风向非常不利](OpenSea_VeryUnFavourable.md)(+1)<br>基础权重：1<br>自身→消失  
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Calm] **<br>  [平静](OpenSea_Calm.md)(+1)<br>基础权重：1<br>** [Fav] **<br>  [风向不利](OpenSea_UnFavourable.md)(+1)<br>基础权重：1<br>** [Very Fav] **<br>  [风向非常不利](OpenSea_VeryUnFavourable.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  

@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-成熟度  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>自身→ [摘光的芒果树](MangoTreeCleared.md)  
+成熟度  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [摘光的芒果树](MangoTreeCleared.md)  
 
 
 <script>document.title="小芒果树 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -18,11 +18,11 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(33%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
+[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(33.33%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1<br>自身→消失  
+使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br>** [Cloth] **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1<br>** 自身 **<br>→消失  
 
 
 <script>document.title="雨衣 - 卡牌生存百科 Card Survival Wiki";</script>

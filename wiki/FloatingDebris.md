@@ -18,7 +18,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-剩余时间<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br>** [1] **<br>  [残骸漂走了(事件)](Event_FloatingDebrisMissed.md)(+1)<br><br>自身→消失  
+剩余时间<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：4<br>最大：4  |  每15分钟-1<br>最多需要：1小时  |  ** 到达0时： **<br>** [1] **<br>  [残骸漂走了(事件)](Event_FloatingDebrisMissed.md)(+1)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="漂浮的残骸 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -17,7 +17,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：0<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达上限时： **<br><br>自身→ [收起的帆](SailDown_Raft.md)  
+使用次数  |  初始：0<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [收起的帆](SailDown_Raft.md)  
 
 
 <script>document.title="损坏的帆 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br>  [稻米](RiceGrains.md)(+1)<br><br>自身→ [稻杆](RiceStraw.md)  
+耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时： **<br>  [稻米](RiceGrains.md)(+1)<br><br>** 自身 **<br>→ [稻杆](RiceStraw.md)  
 
 
 <script>document.title="稻秆 - 卡牌生存百科 Card Survival Wiki";</script>
