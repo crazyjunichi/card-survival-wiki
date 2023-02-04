@@ -13,7 +13,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[探索动作](SlipperyAction.md)<br>[旅行动作](TravelAction.md)  |  -  |    |  ** 获得： **<br>** [Jungle Outskirts Path] **<br>  [丛林边缘(环境)](Env_Outskirts.md)(+1)<br>  [前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+10<br>[耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
+前往<br>[腿部动作](LegAction.md)<br>[探索动作](SlipperyAction.md)<br>[旅行动作](TravelAction.md)  |  -  |    |  ** 获得： **<br>** [Jungle Outskirts Path]  **<br>  [丛林边缘(环境)](Env_Outskirts.md)(+1)<br>  [前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+10<br>[耐力](Stamina.md)-2<br>[压力](Stress.md)-10  
 
 
 <script>document.title="丛林边缘 - 卡牌生存百科 Card Survival Wiki";</script>

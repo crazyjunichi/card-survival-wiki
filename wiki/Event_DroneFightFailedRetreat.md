@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Laceration] **<br>  [无人机伤到了我！(事件)](Event_DroneWoundMinor.md)(+1)<br>  |  [情绪](Morale.md)-20  
+继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Laceration]  **<br>  [无人机伤到了我！(事件)](Event_DroneWoundMinor.md)(+1)<br>  |  [情绪](Morale.md)-20  
 
 
 <script>document.title="无人机开火了！ - 卡牌生存百科 Card Survival Wiki";</script>

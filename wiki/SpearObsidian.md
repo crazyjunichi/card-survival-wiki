@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：50  |  -  |  ** 到达0时：长矛坏了 **<br>** [remains] **<br>  [绳子](Rope.md)(+1)<br><br>** 自身 **<br>→ [小树枝](Sticks.md)  
+使用次数  |  初始：50  |  -  |  ** 到达0时：长矛坏了 **<br>** [remains]  **<br>  [绳子](Rope.md)(+1)<br><br>** 自身 **<br>→ [小树枝](Sticks.md)  
 
 
 <script>document.title="黑曜石长矛 - 卡牌生存百科 Card Survival Wiki";</script>

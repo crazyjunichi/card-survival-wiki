@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：100  |  -  |  ** 到达0时：鱼镖坏了 **<br>** [Broken Stuff] **<br>  [小树枝](Sticks.md)(+1)<br>  [骨头碎片](BoneSplinters.md)(+1)<br>  [绳子](Rope.md)(+1)<br><br>** 自身 **<br>→消失  
+使用次数  |  初始：100  |  -  |  ** 到达0时：鱼镖坏了 **<br>** [Broken Stuff]  **<br>  [小树枝](Sticks.md)(+1)<br>  [骨头碎片](BoneSplinters.md)(+1)<br>  [绳子](Rope.md)(+1)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="鱼镖 - 卡牌生存百科 Card Survival Wiki";</script>

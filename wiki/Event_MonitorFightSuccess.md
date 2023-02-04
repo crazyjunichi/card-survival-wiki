@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass] **<br>  [巨蜥尸体](MonitorCarcass.md)(+1)<br>  |  [情绪](Morale.md)+20<br>[巨蜥种群数量](Pop_Monitor.md)-1000  
+继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [巨蜥尸体](MonitorCarcass.md)(+1)<br>  |  [情绪](Morale.md)+20<br>[巨蜥种群数量](Pop_Monitor.md)-1000  
 
 
 <script>document.title="巨蜥倒下了！ - 卡牌生存百科 Card Survival Wiki";</script>

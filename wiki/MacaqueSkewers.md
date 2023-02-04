@@ -24,7 +24,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot] **<br>  [腐烂物](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [烹饪锅](CookingPot.md)  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot]  **<br>  [腐烂物](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [烹饪锅](CookingPot.md)  
 
 
 <script>document.title="猕猴肉串 - 卡牌生存百科 Card Survival Wiki";</script>

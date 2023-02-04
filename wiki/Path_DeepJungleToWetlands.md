@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Wetlands Path] **<br>  [湿地(环境)](Env_Wetlands.md)(+1)<br>  [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
+前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Wetlands Path]  **<br>  [湿地(环境)](Env_Wetlands.md)(+1)<br>  [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
 
 
 <script>document.title="湿地 - 卡牌生存百科 Card Survival Wiki";</script>

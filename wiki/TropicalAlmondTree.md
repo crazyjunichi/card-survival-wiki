@@ -17,7 +17,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-摘热带杏仁<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Tropical Almonds] **<br>  [热带杏仁](TropicalAlmonds.md)(+1)<br>基础权重：1  |    
+摘热带杏仁<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Tropical Almonds]  **<br>  [热带杏仁](TropicalAlmonds.md)(+1)<br>基础权重：1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

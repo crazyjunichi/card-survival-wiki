@@ -28,7 +28,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  打碎<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Splinters] **<br>  [骨头碎片](BoneSplinters.md)(+2)<br>  |    
+[“锤”](tag_Hammer.md)  |  打碎<br>[手部动作](HandAction.md)  |  30分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Splinters]  **<br>  [骨头碎片](BoneSplinters.md)(+2)<br>  |    
 ## 可拖至  
 [忠犬朋友](DogFriend.md)  
 ## 可用于蓝图  

@@ -20,7 +20,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：96  |  每15分钟+1<br>最多需要：1天  |  ** 到达上限时： **<br>** [Flour] **<br>  [西米粉](SagoFlour.md)(+2)<br><br>** 自身 **<br>→消失  
+进度  |  初始：0<br>最大：96  |  每15分钟+1<br>最多需要：1天  |  ** 到达上限时： **<br>** [Flour]  **<br>  [西米粉](SagoFlour.md)(+2)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="西米浆 - 卡牌生存百科 Card Survival Wiki";</script>

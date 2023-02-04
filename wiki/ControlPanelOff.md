@@ -13,7 +13,7 @@
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
 启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md): 1-1  |  ** 自身：**<br>→ [控制台(开)](ControlPanelOn.md)  |    
-检查无线电室<br>  |  -  |    |  ** 获得： **<br>** [Inventory] **<br>  |    
+检查无线电室<br>  |  -  |    |  ** 获得： **<br>** [Inventory]  **<br>  |    
 
 
 <script>document.title="控制台 - 卡牌生存百科 Card Survival Wiki";</script>

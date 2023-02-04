@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [地窖(环境)](Env_Cellar.md)(+1)<br>  [离开(地窖)](CellarExit.md)(+1)<br>  [地窖(区域)](Cellar.md)(+1)<br>基础权重：1  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [地窖(环境)](Env_Cellar.md)(+1)<br>  [离开(地窖)](CellarExit.md)(+1)<br>  [地窖(区域)](Cellar.md)(+1)<br>基础权重：1  |    
 
 
 <script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

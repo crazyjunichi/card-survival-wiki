@@ -29,7 +29,7 @@
 肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
 健康度<img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：384<br>最大：384  |  每15分钟+1<br>最多需要：4天  |  ** 到达0时：作物已死亡！ **<br><br>** 自身 **<br>→ [毁坏的田地](CropPlotRuined.md)  
 水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [未浇灌的农田](CropPlotDry.md)  
-成熟度  |  初始：0<br>最大：672  |  每15分钟+0.5<br>最多需要：14天  |  ** 到达上限时： **<br>** [Result] **<br>  [西米树](SagoPalm.md)(+2)<br><br>** 自身 **<br>→消失  
+成熟度  |  初始：0<br>最大：672  |  每15分钟+0.5<br>最多需要：14天  |  ** 到达上限时： **<br>** [Result]  **<br>  [西米树](SagoPalm.md)(+2)<br><br>** 自身 **<br>→消失  
 农药 — 螨虫<img decoding="async" src="Sprite/MitesNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 农药 — 真菌<img decoding="async" src="Sprite/FungiNot.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟-1<br>最多需要：3天  |    
 螨虫侵害<img decoding="async" src="Sprite/Mites.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：100  |  每15分钟-1<br>最多需要：1天1小时  |    

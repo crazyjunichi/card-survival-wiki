@@ -50,7 +50,7 @@
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“高级切割工具”](tag_CutterAdv.md)  |  刨花<br>[手部动作](HandAction.md)  |  15分  |    |  <br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [1] **<br>  [木屑](WoodShavings.md)(+1～+3)<br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
+[“高级切割工具”](tag_CutterAdv.md)  |  刨花<br>[手部动作](HandAction.md)  |  15分  |    |  <br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [1]  **<br>  [木屑](WoodShavings.md)(+1～+3)<br>  |  [手掌损伤](HandDamage.md)+20<br>[压力](Stress.md)-5<br>[木工(技能)](Skill_Woodworking.md)+0.5  
 [火炭](Embers.md)  |  烫一个洞<br>  |  15分  |    |  ** 自身: **<br>→ [烧着的木棒](WoodBurning.md)<br><br>** 使用物: **<br>→消失  |    
 [小树枝](Sticks.md)  |  堆成火堆<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>→ [火堆(熄灭)](FireExtinguished.md)<br><br>** 使用物: **<br>→消失  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-5  
 ## 可拖至  

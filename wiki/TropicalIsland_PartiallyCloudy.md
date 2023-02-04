@@ -21,7 +21,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Clear] **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：550<br>** [Partially Cloudy] **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：500<li>[雨水计数器](RainCounter.md)为0～700时权重+0～+200</li><li>[季节](Seasons.md)为2881～5760时权重+400</li><li>[季节](Seasons.md)为5761～8640时权重-600</li><br>** [Cloudy] **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：100<li>[雨水计数器](RainCounter.md)为500～700时权重+0～+300</li><li>[季节](Seasons.md)为2881～5760时权重+600</li><li>[季节](Seasons.md)为5761～8640时权重-350</li>  
+耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Clear]  **<br>  [晴朗](TropicalIsland_Clear.md)(+1)<br>基础权重：550<br>** [Partially Cloudy]  **<br>  [多云](TropicalIsland_PartiallyCloudy.md)(+1)<br>基础权重：500<li>[雨水计数器](RainCounter.md)为0～700时权重+0～+200</li><li>[季节](Seasons.md)为2881～5760时权重+400</li><li>[季节](Seasons.md)为5761～8640时权重-600</li><br>** [Cloudy]  **<br>  [阴天](TropicalIsland_Cloudy.md)(+1)<br>基础权重：100<li>[雨水计数器](RainCounter.md)为500～700时权重+0～+300</li><li>[季节](Seasons.md)为2881～5760时权重+600</li><li>[季节](Seasons.md)为5761～8640时权重-350</li>  
 ## 状态触发  
 名称  |  条件  |  变化  
 ----  |  ----  |  ----  

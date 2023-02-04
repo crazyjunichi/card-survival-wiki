@@ -12,15 +12,15 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  -  |    |  ** 自身：**<br>→ [外星植物](AlienGrowthCleared.md)<br><br>** 获得： **<br>** [1] **<br>  [外星结节](AlienNodule.md)(+2～+4)<br>  |    
+采集<br>  |  -  |    |  ** 自身：**<br>→ [外星植物](AlienGrowthCleared.md)<br><br>** 获得： **<br>** [1]  **<br>  [外星结节](AlienNodule.md)(+2～+4)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“斧”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks] **<br>  [外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+[“斧”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [外星结节](AlienNodule.md)(+3～+5)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br>** [1] **<br>  [外星植物](AlienGrowthCleared.md)(+1)<br>  
+进度  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br>** [1]  **<br>  [外星植物](AlienGrowthCleared.md)(+1)<br>  
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  

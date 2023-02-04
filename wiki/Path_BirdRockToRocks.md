@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-游泳<br>[攀爬动作](ClimbAction.md)  |  30分  |    |  ** 获得： **<br>** [Success] **<br>  [岩滩(环境)](Env_Rocks.md)(+1)<br>  [鸟岩岛](Path_RocksToBirdRock.md)(+1)<br>[猎手接近](HuntersProximity.md)-24<br>基础权重：10<br>** [Fail] **<br>  [我游不动了……(事件)](Event_SwimFail.md)(+1)<br>基础权重：1000<li>[游泳(技能)](Skill_Swimming.md)为10～150时权重-900</li><li>[游泳(技能)](Skill_Swimming.md)为30～150时权重-90</li><li>[游泳(技能)](Skill_Swimming.md)为75～150时权重+0～-10</li>  |  [湿度](Wetness.md)+200 (每15分钟)<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  
+游泳<br>[攀爬动作](ClimbAction.md)  |  30分  |    |  ** 获得： **<br>** [Success]  **<br>  [岩滩(环境)](Env_Rocks.md)(+1)<br>  [鸟岩岛](Path_RocksToBirdRock.md)(+1)<br>[猎手接近](HuntersProximity.md)-24<br>基础权重：10<br>** [Fail]  **<br>  [我游不动了……(事件)](Event_SwimFail.md)(+1)<br>基础权重：1000<li>[游泳(技能)](Skill_Swimming.md)为10～150时权重-900</li><li>[游泳(技能)](Skill_Swimming.md)为30～150时权重-90</li><li>[游泳(技能)](Skill_Swimming.md)为75～150时权重+0～-10</li>  |  [湿度](Wetness.md)+200 (每15分钟)<br>[耐力](Stamina.md)-10<br>[游泳(技能)](Skill_Swimming.md)+1  
 
 
 <script>document.title="岩滩 - 卡牌生存百科 Card Survival Wiki";</script>

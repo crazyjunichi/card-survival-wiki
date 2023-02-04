@@ -27,7 +27,7 @@
 ----  |  ----  |  ----  |  ----  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [小猪尸体](BoarCarcassPiglet.md)  
 口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时：渴死了 **<br><br>** 自身 **<br>→ [小猪尸体](BoarCarcassPiglet.md)  
-成长度<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  -  |  ** 到达上限时： **<br>** [Female] **<br>  [母猪](BoarTiedFemale.md)(+1)<br>基础权重：4<br>** [Male] **<br>  [公山羊](GoatTiedMale.md)(+1)<br>基础权重：2<br>** 自身 **<br>→消失  
+成长度<img decoding="async" src="Sprite/Spoilage.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  -  |  ** 到达上限时： **<br>** [Female]  **<br>  [母猪](BoarTiedFemale.md)(+1)<br>基础权重：4<br>** [Male]  **<br>  [公山羊](GoatTiedMale.md)(+1)<br>基础权重：2<br>** 自身 **<br>→消失  
 情绪<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-5<br>最多需要：2天2小时  |    
 
 

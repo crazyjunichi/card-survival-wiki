@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-闭眼<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Mark] **<br>  [鬼掌印](W_HunterMark.md)(+1)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  
+闭眼<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Mark]  **<br>  [鬼掌印](W_HunterMark.md)(+1)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [情绪](Morale.md)-20<br>[猎手接近](HuntersProximity.md)-999  
 
 
 <script>document.title="我失败了！ - 卡牌生存百科 Card Survival Wiki";</script>

@@ -15,7 +15,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-解开绳子<br>  |  15分  |    |  ** 自身：**<br>→ [编织篓](Basket.md)<br><br>** 获得： **<br>** [1] **<br>  [绳子](Rope.md)(+1)<br>  |    
+解开绳子<br>  |  15分  |    |  ** 自身：**<br>→ [编织篓](Basket.md)<br><br>** 获得： **<br>** [1]  **<br>  [绳子](Rope.md)(+1)<br>  |    
 
 
 <script>document.title="背篓 - 卡牌生存百科 Card Survival Wiki";</script>

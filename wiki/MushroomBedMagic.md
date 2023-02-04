@@ -25,7 +25,7 @@
 肥力<img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
 使用次数  |  初始：0<br>最大：384  |  每15分钟-1<br>最多需要：4天  |    
 水分<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：192<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [未浇灌的菌床](MushroomBedDry.md)  
-进度  |  初始：0<br>最大：672  |  每15分钟+1<br>最多需要：7天  |  ** 到达上限时： **<br>** [Result] **<br>  [迷幻菇](MagicMushroomsPlant.md)(+4)<br>  [木板](Plank.md)(+4)<br><br>** 自身 **<br>→消失  
+进度  |  初始：0<br>最大：672  |  每15分钟+1<br>最多需要：7天  |  ** 到达上限时： **<br>** [Result]  **<br>  [迷幻菇](MagicMushroomsPlant.md)(+4)<br>  [木板](Plank.md)(+4)<br><br>** 自身 **<br>→消失  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

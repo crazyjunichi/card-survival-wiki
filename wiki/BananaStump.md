@@ -16,7 +16,7 @@
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |  含水量  +12  |    
-[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water] **<br>[水](LQ_Water.md)(+0.5)<br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water]  **<br>[水](LQ_Water.md)(+0.5)<br>  |    
 [刮净的皮](SkinFleshed.md)  |  鞣制皮革  |  15分  |    |  耐久  -1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

@@ -12,7 +12,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-使用次数  |  初始：8640<br>最大：8640  |  -  |  ** 到达0时： **<br>** [cloth] **<br>  [布片](ClothSmall.md)(+1)<br><br>** 自身 **<br>→消失  
+使用次数  |  初始：8640<br>最大：8640  |  -  |  ** 到达0时： **<br>** [cloth]  **<br>  [布片](ClothSmall.md)(+1)<br><br>** 自身 **<br>→消失  
 <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  

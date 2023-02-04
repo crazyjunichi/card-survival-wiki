@@ -20,7 +20,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出木炭和灰烬<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Charcoal] **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1  |    
+取出木炭和灰烬<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Charcoal]  **<br>  [木炭](Charcoal.md)(+1)<br>  [灰烬](Ash.md)(+2)<br>基础权重：1  |    
 拆解<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [石头](Stone.md)(+4)<br>  [灰烬](Ash.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  

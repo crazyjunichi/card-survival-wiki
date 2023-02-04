@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-离开<br>  |  -  |    |  ** 获得： **<br>** [Rocks] **<br>  [丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>  [蝙蝠洞(丛林高地)](CaveBatsEntrance.md)(+1)<br>基础权重：1  |    
+离开<br>  |  -  |    |  ** 获得： **<br>** [Rocks]  **<br>  [丛林高地(环境)](Env_JungleHighlands.md)(+1)<br>  [蝙蝠洞(丛林高地)](CaveBatsEntrance.md)(+1)<br>基础权重：1  |    
 
 
 <script>document.title="离开 - 卡牌生存百科 Card Survival Wiki";</script>

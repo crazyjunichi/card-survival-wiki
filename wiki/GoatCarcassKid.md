@@ -25,7 +25,7 @@
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished] **<br>  [骨头](Bones.md)(+3)<br><br>** 自身 **<br>→消失  
+耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Butchering Finished]  **<br>  [骨头](Bones.md)(+3)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="小羊尸体 - 卡牌生存百科 Card Survival Wiki";</script>

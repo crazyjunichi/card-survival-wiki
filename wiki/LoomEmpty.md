@@ -18,14 +18,14 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆卸织布机<br>[手部动作](HandAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Long Sticks] **<br>  [长木棍](StickLong.md)(+7)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1  |    
+拆卸织布机<br>[手部动作](HandAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Long Sticks]  **<br>  [长木棍](StickLong.md)(+7)<br>  [细线](CordFiber.md)(+4)<br>基础权重：1  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [线团](YarnFiber.md)  |  将线放到织布机上<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [织布机](Loom.md)<br><br>** 使用物: **<br>→消失  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
-[布片](ClothSmall.md)  |  解编布匹<br>  |  15分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
-[布](Cloth.md)  |  解编布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [布片](ClothSmall.md)<br><br>** 获得: **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
-[大块的布](ClothLarge.md)  |  解编布匹<br>  |  1小时  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [布](Cloth.md)<br><br>** 获得: **<br>** [Cords] **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[布片](ClothSmall.md)  |  解编布匹<br>  |  15分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→消失<br><br>** 获得: **<br>** [Cords]  **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[布](Cloth.md)  |  解编布匹<br>  |  30分  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [布片](ClothSmall.md)<br><br>** 获得: **<br>** [Cords]  **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
+[大块的布](ClothLarge.md)  |  解编布匹<br>  |  1小时  |  [光亮](Light.md): 10-100  |  <br>** 使用物: **<br>→ [布](Cloth.md)<br><br>** 获得: **<br>** [Cords]  **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+0.5  
 
 
 <script>document.title="织布机（空） - 卡牌生存百科 Card Survival Wiki";</script>

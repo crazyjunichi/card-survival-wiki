@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [畜栏(环境)](Env_Enclosure.md)(+1)<br>  [离开(畜栏)](EnclosureExit.md)(+1)<br>  [畜栏(区域)](Enclosure.md)(+1)<br>基础权重：1  |    
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [畜栏(环境)](Env_Enclosure.md)(+1)<br>  [离开(畜栏)](EnclosureExit.md)(+1)<br>  [畜栏(区域)](Enclosure.md)(+1)<br>基础权重：1  |    
 
 
 <script>document.title="畜栏 - 卡牌生存百科 Card Survival Wiki";</script>

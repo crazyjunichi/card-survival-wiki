@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  15分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1)<br>  [蛋](Egg.md)(+0～+3)<br>基础权重：2<br>** [Nest] **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1～+2)<br>  [鸟骨](BonesBird.md)(+0～+1)<br>基础权重：1  |  [阻止抽到海鸥巢](SeagullNestKiller.md)+1  
+继续<br>  |  15分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Nest]  **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1)<br>  [蛋](Egg.md)(+0～+3)<br>基础权重：2<br>** [Nest]  **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1～+2)<br>  [鸟骨](BonesBird.md)(+0～+1)<br>基础权重：1  |  [阻止抽到海鸥巢](SeagullNestKiller.md)+1  
 
 
 <script>document.title="你做到了！ - 卡牌生存百科 Card Survival Wiki";</script>

@@ -14,7 +14,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle] **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  |    
+拆除<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle]  **<br>  [长木棍](StickLong.md)(+2)<br>  [细线](CordFiber.md)(+1)<br>  [布袋](Sack.md)(+1)<br>  [椰子](Coconut.md)(+1)<br>  [棕榈编织帽](HatWoven.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  

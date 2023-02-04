@@ -22,13 +22,13 @@
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [鱼片](FishSlices.md)<br>[烤鱼片](FishSlicesCooked.md)<br>[虾](Prawns.md)<br>[烤虾](PrawnsCooked.md)<br>[鱼杂](FishScraps.md)<br>[烤鱼杂](FishScrapsCooked.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +288(100%)<br><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  +50(5%)<br><br>** 使用物: **<br>→消失<br>可用次数  -1  |    
 [“饲料”](tag_Feed.md)  |  喂食<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +288(100%)<br><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">  +250(25%)<br><br>** 使用物: **<br>→消失  |    
-[“切割工具”](tag_Cutter.md)  |  剖开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Harvest] **<br>  [鸟骨](BonesBird.md)(+2)<br>  [羽毛](Feathers.md)(+2～+4)<br>  [鸟肉](BirdMeat.md)(+1)<br>  |  [污垢](Filth.md)+20  
+[“切割工具”](tag_Cutter.md)  |  剖开<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Harvest]  **<br>  [鸟骨](BonesBird.md)(+2)<br>  [羽毛](Feathers.md)(+2～+4)<br>  [鸟肉](BirdMeat.md)(+1)<br>  |  [污垢](Filth.md)+20  
 ## 可拖至  
 [猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [忠犬朋友](DogFriend.md)  
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-  |  下蛋  |  1天  |    |  ** [Nothing] **<br>基础权重：1000<br>** [Egg] **<br>  [蛋](Egg.md)(+1)<br>基础权重：1000<br>** [Fertilized Egg] **<br>  [受精蛋](EggPartridgeFertilized.md)(+1)<br>基础权重：-1000<li>[雄灰山鹑](PartridgeMaleEnclosure.md)存在于*手中/面板*，权重+2000(最多x99次)</li><li>[雌灰山鹑](PartridgeFemaleEnclosure.md)存在于*手中/面板*，权重-100(最多x99次)</li>  |    
+  |  下蛋  |  1天  |    |  ** [Nothing]  **<br>基础权重：1000<li><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">为0～1000时权重+0～-1000</li><br>** [Egg]  **<br>  [蛋](Egg.md)(+1)<br>基础权重：1000<li><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">为0～1000时权重-1000～+0</li><br>** [Fertilized Egg]  **<br>  [受精蛋](EggPartridgeFertilized.md)(+1)<br>基础权重：-1000<li><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">为0～1000时权重-1000～+0</li><li>[雄灰山鹑](PartridgeMaleEnclosure.md)存在于*手中/面板*，权重+2000(最多x99次)</li><li>[雌灰山鹑](PartridgeFemaleEnclosure.md)存在于*手中/面板*，权重-100(最多x99次)</li>  |    
 [受精蛋](EggPartridgeFertilized.md)  |  孵蛋  |  15分  |    |  能量  +1  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

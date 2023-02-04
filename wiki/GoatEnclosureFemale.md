@@ -31,9 +31,9 @@
 ----  |  ----  |  ----  |  ----  
 饥饿<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：576  |  每15分钟-1<br>最多需要：6天  |  ** 到达0时：噢不！ **<br><br>** 自身 **<br>→ [山羊尸体(母)](GoatCarcassFemale.md)  
 口渴<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时：渴死了 **<br><br>** 自身 **<br>→ [山羊尸体(母)](GoatCarcassFemale.md)  
-怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达上限时： **<br>** [0 kids] **<br>  [小羊尸体](GoatCarcassKid.md)(+1)<br>基础权重：5<br>** [1 kid] **<br>  [小羊](GoatEnclosureKid.md)(+1)<br>基础权重：65<br>** [2 kids] **<br>  [小羊](GoatEnclosureKid.md)(+2)<br>基础权重：25<br>** 自身 **<br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
+怀孕<img decoding="async" src="Sprite/Pregnancy.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达上限时： **<br>** [0 kids]  **<br>  [小羊尸体](GoatCarcassKid.md)(+1)<br>基础权重：5<li>情绪<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;">为0～750时权重+100～+0</li><br>** [1 kid]  **<br>  [小羊](GoatEnclosureKid.md)(+1)<br>基础权重：65<br>** [2 kids]  **<br>  [小羊](GoatEnclosureKid.md)(+2)<br>基础权重：25<br>** 自身 **<br>→ [哺乳期山羊](GoatEnclosureLactating.md)  
 情绪<img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：1000  |  每15分钟-4<br>最多需要：2天14小时30分  |    
-便便  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>** [Poop] **<br>  [粪便](Manure.md)(+1)<br><br>** 自身 **<br>便便  +96(100%)  
+便便  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>** [Poop]  **<br>  [粪便](Manure.md)(+1)<br><br>** 自身 **<br>便便  +96(100%)  
 ## 被动效果  
 名称  |  条件  |  变化(每15分钟)  |  玩家状态  
 ----  |  ----  |  ----  |  ----  

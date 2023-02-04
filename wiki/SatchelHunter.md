@@ -10,7 +10,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 5-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [1] **<br>  [鞣制兽皮](CuredSkin.md)(+2)<br>  [细线](CordFiber.md)(+2～+4)<br>  |    
+拆解<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |  [光亮](Light.md): 5-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [1]  **<br>  [鞣制兽皮](CuredSkin.md)(+2)<br>  [细线](CordFiber.md)(+2～+4)<br>  |    
 
 
 <script>document.title="挎包 - 卡牌生存百科 Card Survival Wiki";</script>

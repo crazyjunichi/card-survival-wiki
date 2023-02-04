@@ -12,7 +12,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit] **<br>  [阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>  [离开(阴暗洞穴)](DarkChamberExit.md)(+1)<br>基础权重：1  |  [在黑暗环境](InDarkPlace.md)+1 (每15分钟)  
+进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [阴暗洞穴(环境)](Env_DarkChamber.md)(+1)<br>  [离开(阴暗洞穴)](DarkChamberExit.md)(+1)<br>基础权重：1  |  [在黑暗环境](InDarkPlace.md)+1 (每15分钟)  
 
 
 <script>document.title="阴暗裂隙 - 卡牌生存百科 Card Survival Wiki";</script>

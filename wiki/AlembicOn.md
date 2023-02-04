@@ -15,9 +15,9 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers] **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
+取出火炭<br>  |  15分  |    |  ** 自身：**<br>燃料  -16(-16.67%)<br><img decoding="async" src="Sprite/Charcoal.png" href="a.md" style="max-width:20px;max-height:20px;">  -16(-100%)<br><br>** 获得： **<br>** [Embers]  **<br>  [火炭](Embers.md)(+1)<br>基础权重：1  |    
 熄灭火焰<br>  |  -  |    |  ** 自身：**<br>→ [蒸馏器(关)](AlembicOff.md)  |    
-取出<br>  |  -  |    |  ** 自身：**<br>→ [营火](Campfire.md)<br><br>** 获得： **<br>** [Alembic] **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
+取出<br>  |  -  |    |  ** 自身：**<br>→ [营火](Campfire.md)<br><br>** 获得： **<br>** [Alembic]  **<br>  [蒸馏器](AlembicUndeployed.md)(+1)<br>  |    
 ## 可拖入  
 使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
@@ -35,8 +35,8 @@
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [“灌溉用水”](tag_WaterFresh.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  含水量  +19  |    
-[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏水的液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [water] **<br>[水](LQ_Water.md)(+1)<br>  |    
-[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏硝酸的液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [Aqua Fortis] **<br>[浓硝酸](LQ_AquaFortis.md)(+1)<br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏水的液体  |  15分  |  ** 需要属性：**<br>水量<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [water]  **<br>[水](LQ_Water.md)(+1)<br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  加入用于蒸馏硝酸的液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  ** [Aqua Fortis]  **<br>[浓硝酸](LQ_AquaFortis.md)(+1)<br>  |    
 [浓硝酸](LQ_AquaFortis.md)  |  补充液体  |  15分  |  ** 需要属性：**<br>硝石溶液<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～1200(0.08%～100%)  |  含水量  +19  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  

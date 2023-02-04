@@ -18,7 +18,7 @@
 ## 转化  
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
-  |  捕捉猎物  |  1天1小时 ～ 3天3小时  |    |  ** [Fail] **<br>基础权重：50<li>[陷阱(技能)](Skill_Trapping.md)为0～150时权重+0～-20</li><br>** [Bonefish] **<br>  [北梭鱼](Bonefish.md)(+1)<br>基础权重：10<br>** [Herring] **<br>  [鲱鱼](Herring.md)(+1)<br>基础权重：40  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
+  |  捕捉猎物  |  1天1小时 ～ 3天3小时  |    |  ** [Fail]  **<br>基础权重：50<li>[陷阱(技能)](Skill_Trapping.md)为0～150时权重+0～-20</li><br>** [Bonefish]  **<br>  [北梭鱼](Bonefish.md)(+1)<br>基础权重：10<br>** [Herring]  **<br>  [鲱鱼](Herring.md)(+1)<br>基础权重：40  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  

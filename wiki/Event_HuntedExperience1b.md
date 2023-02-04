@@ -8,7 +8,7 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-我感受到祂了！<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Next Step] **<br>  [神圣灵视(事件)](Event_GodExperience1c.md)(+1)<br>  |    
+我感受到祂了！<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Next Step]  **<br>  [神圣灵视(事件)](Event_GodExperience1c.md)(+1)<br>  |    
 
 
 <script>document.title="神圣灵视 - 卡牌生存百科 Card Survival Wiki";</script>

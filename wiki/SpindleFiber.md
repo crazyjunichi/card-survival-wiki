@@ -15,8 +15,8 @@
 ## 动作  
 动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  
-纺细线<br>  |  15分  |    |  ** 自身：**<br>→ [纺锤](Spindle.md)<br><br>** 获得： **<br>** [Cord] **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+1  
-纺线团<br>  |  15分  |    |  ** 自身：**<br>→ [纺锤](Spindle.md)<br><br>** 获得： **<br>** [Cord] **<br>  [线团](YarnFiber.md)(+1)<br>  |  [纺织(技能)](Skill_Tailoring.md)+1  
+纺细线<br>  |  15分  |    |  ** 自身：**<br>→ [纺锤](Spindle.md)<br><br>** 获得： **<br>** [Cord]  **<br>  [细线](CordFiber.md)(+2)<br>  |  [纺织(技能)](Skill_Tailoring.md)+1  
+纺线团<br>  |  15分  |    |  ** 自身：**<br>→ [纺锤](Spindle.md)<br><br>** 获得： **<br>** [Cord]  **<br>  [线团](YarnFiber.md)(+1)<br>  |  [纺织(技能)](Skill_Tailoring.md)+1  
 
 
 <script>document.title="缠好的纺锤 - 卡牌生存百科 Card Survival Wiki";</script>

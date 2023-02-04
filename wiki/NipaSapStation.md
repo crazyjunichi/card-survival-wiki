@@ -15,11 +15,11 @@
 放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
 ----  |  ----  |  ----  |  ----  |  ----  |  ----  
 [水椰树汁](LQ_Sap.md)<br>[棕榈酒](LQ_PalmWine.md)  |  剩余  |  15分  |    |  耐久  +2  |    
-[“储水容器”](tag_WaterContainer.md)  |  水椰树汁  |  15分  |    |  ** [sap] **<br>[水椰树汁](LQ_Sap.md)(+9.5)<br>  |    
+[“储水容器”](tag_WaterContainer.md)  |  水椰树汁  |  15分  |    |  ** [sap]  **<br>[水椰树汁](LQ_Sap.md)(+9.5)<br>  |    
 ## 属性   
 属性  |  值  |  耗时  |  变化  
 ----  |  ----  |  ----  |  ----  
-耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>** [fronds] **<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>** 自身 **<br>→消失  
+耐久  |  初始：288<br>最大：288  |  每15分钟-1<br>最多需要：3天  |  ** 到达0时： **<br>** [fronds]  **<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br><br>** 自身 **<br>→消失  
 
 
 <script>document.title="水椰树 - 卡牌生存百科 Card Survival Wiki";</script>
