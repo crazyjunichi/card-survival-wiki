@@ -8,7 +8,7 @@
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
-1. [碗(组)](GpTag_Bowl.md) x 1 + [油/脂肪(组)](GpTag_OilFat.md) x 1  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [压力](Stress.md)-10  |  [肥皂混合物](LQ_SoapMix.md)(+1)  
+1. [碗(组)](GpTag_Bowl.md) x 1([碱液](LQ_Lye.md)含量0.83) + [油/脂肪(组)](GpTag_OilFat.md) x 1(含量0.33)  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [压力](Stress.md)-10  |  [肥皂混合物](LQ_SoapMix.md)(+1)  
 
 
 <script>document.title="肥皂 - 卡牌生存百科 Card Survival Wiki";</script>

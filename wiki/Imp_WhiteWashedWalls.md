@@ -10,7 +10,7 @@
 ## 制作  
 步骤  |  耗时  |  需求  |  状态变化  |  成品  
 ----  |  ----  |  ----  |  ----  |  ----  
-1. [水(任意)(组)](GpTag_WaterAny.md) x 1 + [生石灰](Quicklime.md) x 4<br>2. [水(任意)(组)](GpTag_WaterAny.md) x 1 + [生石灰](Quicklime.md) x 4<br>3. [水(任意)(组)](GpTag_WaterAny.md) x 1 + [生石灰](Quicklime.md) x 4<br>4. [水(任意)(组)](GpTag_WaterAny.md) x 1 + [生石灰](Quicklime.md) x 4  |  1小时30分/每步骤  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
+1. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>2. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>3. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>4. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4  |  1小时30分/每步骤  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
 ## 其他效果  
 名称  |  目标  |  条件  |  变化  |  玩家状态  
 ----  |  ----  |  ----  |  ----  |  ----  
