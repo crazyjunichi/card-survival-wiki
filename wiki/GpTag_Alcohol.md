@@ -1,4 +1,3 @@
 # 酒精(组)  
-- [棕榈酒](LQ_PalmWine.md)  
-- [糖酒](LQ_SugarWine.md)  
-- [蜂蜜酒](LQ_Mead.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[棕榈酒](LQ_PalmWine.md)](LQ_PalmWine.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[糖酒](LQ_SugarWine.md)](LQ_SugarWine.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[蜂蜜酒](LQ_Mead.md)](LQ_Mead.md)</div></div>  
+  

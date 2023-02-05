@@ -1,15 +1,8 @@
 # 钓鱼佬  
 > 永不空军（希望）。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  10太阳  
-分数  |  -1500  
-初始装备  |  无  
-额外卡牌  |  [钓鱼线(蓝图)](Bp_FishingLine.md)<br>[钓鱼竿(蓝图)](Bp_FishingRod.md)<br>[鱼饵(蓝图)](Bp_FishBait.md)  
-初始状态  |  [钓鱼(技能)](Skill_Fishing.md)+75  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >10☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1500</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishingLineRustic.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[钓鱼线(蓝图)](Bp_FishingLine.md)](Bp_FishingLine.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishingRod.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[钓鱼竿(蓝图)](Bp_FishingRod.md)](Bp_FishingRod.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishBait.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鱼饵(蓝图)](Bp_FishBait.md)](Bp_FishBait.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钓鱼(技能)](Skill_Fishing.md)](Skill_Fishing.md)+75</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="钓鱼佬 - 卡牌生存百科 Card Survival Wiki";</script>

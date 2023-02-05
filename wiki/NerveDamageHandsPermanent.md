@@ -1,18 +1,14 @@
-# 手部神经损伤  
+# 手部神经损伤(永久)  
 > 过久地佩戴止血带会导致危险的神经损伤。<br>神经损伤会引起疼痛并增加不同类型行动的<b>时间惩罚</b>，具体取决于受损的部位。<br><br>当你不再佩戴<b>止血带</b>后，神经损伤便可慢慢恢复。  
   
 #### ** 基础值: ** 0   
 #### ** 变化范围: ** 0 ~ 2880  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">Modifier 1  |    |    |  [攀爬动作](ClimbAction.md): <br>[手部动作](HandAction.md): <br>[耐力](Stamina.md)-1<br>时间+1  
-2 ～ 2  |  Modifier 2  |    |    |  [攀爬动作](ClimbAction.md): <br>[手部动作](HandAction.md): <br>[耐力](Stamina.md)-2<br>时间+2  
-3 ～ 3  |  Modifier 3  |    |    |  [攀爬动作](ClimbAction.md): <br>[手部动作](HandAction.md): <br>[耐力](Stamina.md)-4<br>时间+4  
-1 ～ 2880  |  <img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;">神经损伤  |  在我取下止血带后就会慢慢恢复。  |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>Modifier 1</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[攀爬动作(组)](ClimbAction.md): <br>[手部动作(组)](HandAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-1<br>时间+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2 ～ 2</td><td  style="text-align:left;vertical-align:top;" >Modifier 2</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[攀爬动作(组)](ClimbAction.md): <br>[手部动作(组)](HandAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-2<br>时间+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3 ～ 3</td><td  style="text-align:left;vertical-align:top;" >Modifier 3</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[攀爬动作(组)](ClimbAction.md): <br>[手部动作(组)](HandAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-4<br>时间+4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 2880</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>神经损伤</td><td  style="text-align:left;vertical-align:top;" >在我取下止血带后就会慢慢恢复。</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [手部神经损伤](NerveDamageHands.md)  
 
 
-<script>document.title="手部神经损伤 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="手部神经损伤(永久) - 卡牌生存百科 Card Survival Wiki";</script>

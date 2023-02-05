@@ -1,25 +1,17 @@
 # 外星植物  
 > 有股异香，在生长着什么。  
   
-  外星植物  |   图片   
- ----  |  ----:   
- ** 效果: **<br>[外星植物渴求](AlienCravings.md)加成+0.1<br>[舒适度](Comfort.md)+100  |  <img decoding="async" src="Sprite/AlienGrowth.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienCravings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[外星植物渴求](AlienCravings.md)](AlienCravings.md)加成+0.1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)+100</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienGrowth.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[外星结节](AlienNodule.md)  |  转化  
-[陨石坑](AlienCrater.md)  |  转化  
-[盛开的外星植物](AlienGrowth.md)  |  采集  
-[盛开的外星植物](AlienGrowth.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienCrater.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陨石坑](AlienCrater.md)](AlienCrater.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienGrowthBlooming.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[盛开的外星植物](AlienGrowth.md)](AlienGrowth.md)</td><td  style="text-align:left;vertical-align:top;" >采集</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienGrowthBlooming.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[盛开的外星植物](AlienGrowth.md)](AlienGrowth.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“斧”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [外星结节](AlienNodule.md)(+1)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“斧”](tag_Axe.md)</td><td  style="text-align:left;vertical-align:top;" >砍倒<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+20</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-外星植物<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：288  |  每15分钟+1<br>最多需要：3天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [盛开的外星植物](AlienGrowth.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >外星植物<div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：288</td><td  style="text-align:left;vertical-align:top;" >每15分钟+1<br>最多需要：3天</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlienGrowthBlooming.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[盛开的外星植物](AlienGrowth.md)](AlienGrowth.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="外星植物 - 卡牌生存百科 Card Survival Wiki";</script>

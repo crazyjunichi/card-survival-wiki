@@ -1,18 +1,14 @@
 # 木斧柄  
 > 一个不错的斧柄，只差嵌进去一把石刀。  
   
-  木斧柄  |   图片   
- ----  |  ----:   
- **重量：**200  |  <img decoding="async" src="Sprite/WoodHandle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**200</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WoodHandle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[烧着的木棒](WoodBurning.md)  |  木斧柄可以用了！  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BurningWood.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[烧着的木棒](WoodBurning.md)](WoodBurning.md)</td><td  style="text-align:left;vertical-align:top;" >木斧柄可以用了！</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[石刀](StoneSharpened.md)  |  制作石斧<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [石斧](StoneAxe.md)<br><br>** 使用物: **<br>→消失  |  [情绪](Morale.md)+2<br>[制作(技能)](Skill_Crafting.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoneSharpened.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石刀](StoneSharpened.md)](StoneSharpened.md)</td><td  style="text-align:left;vertical-align:top;" >制作石斧<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoneAxe.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[石斧](StoneAxe.md)](StoneAxe.md)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="木斧柄 - 卡牌生存百科 Card Survival Wiki";</script>

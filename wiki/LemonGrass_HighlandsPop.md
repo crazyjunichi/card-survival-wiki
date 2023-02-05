@@ -3,23 +3,14 @@
 #### ** 变化范围: ** 0 ~ 20000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 7500  |  低密度  |    |  [高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+0.25  |    
-7501 ～ 15000  |  高密度  |    |  [高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+0.5  |    
-15001 ～ 20000  |  超高密度  |    |  [高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 7500</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >7501 ～ 15000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >15001 ～ 20000</td><td  style="text-align:left;vertical-align:top;" >超高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地柠檬草种群数量](LemonGrass_HighlandsPop.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[西部草原(区域)](GrasslandsW.md)  |  探索  |  -1000  
-[西部高地(区域)](HighlandsWestern.md)  |  探索  |  -1000  
-[神秘谷(区域)](SecretValley.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Grasslands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部草原](GrasslandsW.md)](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部高地](HighlandsWestern.md)](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神秘谷](SecretValley.md)](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 20000  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 20000  
-[神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 20000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[西部草原](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 20000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 20000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[神秘谷](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 20000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="高地柠檬草种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

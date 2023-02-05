@@ -3,22 +3,14 @@
 #### ** 变化范围: ** 0 ~ 1  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  <img decoding="async" src="Sprite/Perk_TV.png" href="a.md" style="max-width:20px;max-height:20px;">补给定位器  |  草原  |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Perk_TV.png" href="a.md" style="max-width:20px;max-height:20px;"></div>补给定位器</td><td  style="text-align:left;vertical-align:top;" >草原</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -1  
-[东部草原(区域)](GrasslandsE.md)  |  探索  |  -1  
-[西部草原(区域)](GrasslandsW.md)  |  探索  |  -1  
-[神秘谷(区域)](SecretValley.md)  |  探索  |  -1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style="text-align:left;vertical-align:top;" >打开</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GrasslandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部草原](GrasslandsE.md)](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Grasslands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部草原](GrasslandsW.md)](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神秘谷](SecretValley.md)](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[东部草原(区域)](GrasslandsE.md)  |  影响  |  1  
-[西部草原(区域)](GrasslandsW.md)  |  影响  |  1  
-[神秘谷(区域)](SecretValley.md)  |  影响  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[东部草原](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部草原](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[神秘谷](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="真人秀 草原 - 卡牌生存百科 Card Survival Wiki";</script>

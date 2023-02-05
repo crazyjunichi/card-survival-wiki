@@ -5,14 +5,11 @@
 #### ** 变化范围: ** 0 ~ 48  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 24  |  <img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:20px;max-height:20px;">中度蜘蛛兰效果  |    |  [免疫系统](ImmuneSystem.md)+200  |    
-25 ～ 48  |  <img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:20px;max-height:20px;">强蜘蛛兰效果  |    |  [免疫系统](ImmuneSystem.md)+300  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 24</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:20px;max-height:20px;"></div>中度蜘蛛兰效果</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[免疫系统](ImmuneSystem.md)](ImmuneSystem.md)+200</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >25 ～ 48</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:20px;max-height:20px;"></div>强蜘蛛兰效果</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[免疫系统](ImmuneSystem.md)](ImmuneSystem.md)+300</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[蜘蛛兰茶](LQ_SpiderLily.md)  |  饮用  |  24  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜘蛛兰茶](LQ_SpiderLily.md)](LQ_SpiderLily.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >24</td></tr></tbody></table>  
+  
 
 
 <script>document.title="蜘蛛兰效果 - 卡牌生存百科 Card Survival Wiki";</script>

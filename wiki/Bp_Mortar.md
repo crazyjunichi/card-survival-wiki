@@ -1,14 +1,11 @@
 # 砂浆  
 > 绝佳的建筑材料。  
   
-  砂浆  |   图片   
- ----  |  ----:   
- ** 解锁需求: **<br>[生石灰](Quicklime.md)<br><br>** 动作分类: **<br>[手部动作](HandAction.md)  |  <img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁需求: **<br>[生石灰](Quicklime.md)<br><br>** 动作分类: **<br>[手部动作(组)](HandAction.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [锤击工具(组)](GpTag_Hammer.md) x 1 + [沙子](Sand.md) x 4 + [生石灰](Quicklime.md) x 1 + [水(任意)(组)](GpTag_WaterAny.md) x 1(含量0.66)  |  45分  |  ** 需要状态: **<br>[光亮](Light.md): 5-100  |  [耐力](Stamina.md)-5<br>[制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-10  |  [砂浆](Mortar.md)(+4)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [锤击工具(组)](GpTag_Hammer.md) x 1 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sand.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙子](Sand.md)](Sand.md) x 4 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md) x 1 + [水(任意)(组)](GpTag_WaterAny.md) x 1(含量0.66)</td><td  style="text-align:left;vertical-align:top;" >45分</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 5-100</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+0.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td><td  style="text-align:left;vertical-align:top;" >[砂浆](Mortar.md)(+4)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="砂浆 - 卡牌生存百科 Card Survival Wiki";</script>

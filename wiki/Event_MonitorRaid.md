@@ -1,19 +1,14 @@
 # 一头巨蜥！  
 > 它在翻我的东西！它可能吃掉任何我没放在容器里的食物。<br>我应该吓跑它吗？  
   
-  一头巨蜥！  |   图片   
- ----  |  ----:   
- **标签：**	[“战斗事件”](tag_FightEvent.md)  |  <img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“战斗事件”](tag_FightEvent.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 触发条件  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-一头巨蜥！  |  [巨蜥袭击计时器](MonitorRaidCounter.md): 192-192  |  [巨蜥袭击计时器](MonitorRaidCounter.md)-192  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >一头巨蜥！</td><td  style="text-align:left;vertical-align:top;" >[巨蜥袭击计时器](MonitorRaidCounter.md): 192-192</td><td  style="text-align:left;vertical-align:top;" >[巨蜥袭击计时器](MonitorRaidCounter.md)-192</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-随它吧<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Rummage]  **<br>  [巨蜥(事件)](Event_MonitorRummaging.md)(+1)<br>  |    
-嘿！<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Fight]  **<br>  [一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >随它吧<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Rummage]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥(事件)](Event_MonitorRummaging.md)](Event_MonitorRummaging.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >嘿！<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Fight]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="一头巨蜥！ - 卡牌生存百科 Card Survival Wiki";</script>

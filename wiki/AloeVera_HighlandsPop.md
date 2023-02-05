@@ -3,23 +3,14 @@
 #### ** 变化范围: ** 0 ~ 4000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 3000  |  低密度  |    |  [高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.25  |    
-3001 ～ 3999  |  高密度  |    |  [高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.5  |    
-4000 ～ 4000  |  超高密度  |    |  [高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 3000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3001 ～ 3999</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >4000 ～ 4000</td><td  style="text-align:left;vertical-align:top;" >超高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[高地芦荟种群数量](AloeVera_HighlandsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[东部草原(区域)](GrasslandsE.md)  |  探索  |  -1000  
-[东部高地(区域)](HighlandsEastern.md)  |  探索  |  -1000  
-[西部高地(区域)](HighlandsWestern.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GrasslandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部草原](GrasslandsE.md)](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部高地](HighlandsEastern.md)](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部高地](HighlandsWestern.md)](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 4000  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 4000  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 6000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[东部高地](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="高地芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

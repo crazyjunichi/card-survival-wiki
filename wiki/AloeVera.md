@@ -3,29 +3,17 @@
 <br>  
 > 这种多肉植物的充满胶状物的叶子可以用来缓解肌肉和背部疼痛，帮助手伤和脚伤愈合，治疗烧伤和晒伤，并预防蚊虫叮咬。<br><br>为了更有效地使用这种植物，你应该首先提取它的凝胶，这需要足够高的药草学水平。<br><br>芦荟植株通常生长在开阔、干燥的地方，如岛上的海岸或高地。  
   
-  芦荟  |   图片   
- ----  |  ----:   
- **可使用次数：**6  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**可使用次数：**6</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[芦荟田](CropPlotAloeVera.md)  |  转化  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[沙滩(区域)](Beach.md)  |  随便逛逛  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
-[东部草原(区域)](GrasslandsE.md)  |  探索  
-[东部高地(区域)](HighlandsEastern.md)  |  探索  
-[西部高地(区域)](HighlandsWestern.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[芦荟田](CropPlotAloeVera.md)](CropPlotAloeVera.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GrasslandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部草原](GrasslandsE.md)](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部高地](HighlandsEastern.md)](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部高地](HighlandsWestern.md)](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林边缘](Outskirts.md)](Outskirts.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  ** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Aloe Vera]  **<br>  [芦荟叶](AloeVeraLeaf.md)(+1)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >采集<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>使用次数  -1<br><br>** 获得： **<br>** [Aloe Vera]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVeraLeaf.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[芦荟叶](AloeVeraLeaf.md)](AloeVeraLeaf.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[药草学(技能)](Skill_Herbology.md)](Skill_Herbology.md)+1</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：6  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：6</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="芦荟 - 卡牌生存百科 Card Survival Wiki";</script>

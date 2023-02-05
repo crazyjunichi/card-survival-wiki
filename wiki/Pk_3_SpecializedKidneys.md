@@ -1,15 +1,8 @@
 # 超级肾脏  
 > 饮用海水对你来说毫无问题。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  2月亮  
-分数  |  -1500  
-初始装备  |  无  
-额外卡牌  |  无  
-初始状态  |  无  
-被动状态  |  [肾脏](IfKidneys.md)+1<br>[钠](Sodium.md)加成-300<br>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)加成-1<br>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)加成-1<br>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)加成-1  
-效果  |  [喝盐水动作](SaltDrinkingAction.md): <br>[水分](Hydration.md)+30  
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >2🌙</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1500</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br></td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >[肾脏](IfKidneys.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钠](Sodium.md)](Sodium.md)加成-300<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationFish.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[鱼类<nobr>厌倦度</nobr>](SaturationFish.md)](SaturationFish.md)加成-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationCrabs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[甲壳类<nobr>厌倦度</nobr>](SaturationCrustaceans.md)](SaturationCrustaceans.md)加成-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationMollusks.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[软体类<nobr>厌倦度</nobr>](SaturationMollusks.md)](SaturationMollusks.md)加成-1</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" >[喝盐水动作(组)](SaltDrinkingAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+30</td></tr></tbody></table>  
+  
 
 
 <script>document.title="超级肾脏 - 卡牌生存百科 Card Survival Wiki";</script>

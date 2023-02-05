@@ -3,27 +3,11 @@
 #### ** 变化范围: ** 0 ~ 8641  
 #### ** 基础变化率: ** +1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-288 ～ 576  |  温和季  |    |  [雨水计数器](RainCounter.md)加成+1  |    
-2881 ～ 5760  |  湿润季  |    |  [体感温度](TemperaturePerceived.md)-5<br>[雨水计数器](RainCounter.md)加成+5  |    
-5761 ～ 8640  |  干旱季  |    |  [体感温度](TemperaturePerceived.md)+5<br>[雨水计数器](RainCounter.md)加成-1  |    
-8641 ～ 8641  |  季节重启  |    |  [季节](Seasons.md)-8641  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >288 ～ 576</td><td  style="text-align:left;vertical-align:top;" >温和季</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[雨水计数器](RainCounter.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2881 ～ 5760</td><td  style="text-align:left;vertical-align:top;" >湿润季</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)-5<br>[雨水计数器](RainCounter.md)加成+5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >5761 ～ 8640</td><td  style="text-align:left;vertical-align:top;" >干旱季</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+5<br>[雨水计数器](RainCounter.md)加成-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >8641 ～ 8641</td><td  style="text-align:left;vertical-align:top;" >季节重启</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[季节](Seasons.md)-8641</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[晴朗](TropicalIsland_Clear.md)  |  影响  |  5761 ~ 8640  
-[阴天](TropicalIsland_Cloudy.md)  |  影响  |  5761 ~ 8640  
-[大雨](TropicalIsland_HeavyRain.md)  |  影响  |  5761 ~ 8640  
-[小雨](TropicalIsland_LightRain.md)  |  影响  |  5761 ~ 8640  
-[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  5761 ~ 8640  
-[暴风雨](TropicalIsland_Storm.md)  |  影响  |  5761 ~ 8640  
-[晴朗](TropicalIsland_Clear.md)  |  影响  |  2881 ~ 5760  
-[阴天](TropicalIsland_Cloudy.md)  |  影响  |  2881 ~ 5760  
-[大雨](TropicalIsland_HeavyRain.md)  |  影响  |  2881 ~ 5760  
-[小雨](TropicalIsland_LightRain.md)  |  影响  |  2881 ~ 5760  
-[多云](TropicalIsland_PartiallyCloudy.md)  |  影响  |  2881 ~ 5760  
-[暴风雨](TropicalIsland_Storm.md)  |  影响  |  2881 ~ 5760  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[晴朗](TropicalIsland_Clear.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[阴天](TropicalIsland_Cloudy.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[大雨](TropicalIsland_HeavyRain.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[小雨](TropicalIsland_LightRain.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[多云](TropicalIsland_PartiallyCloudy.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[暴风雨](TropicalIsland_Storm.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >5761 ~ 8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[晴朗](TropicalIsland_Clear.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[阴天](TropicalIsland_Cloudy.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[大雨](TropicalIsland_HeavyRain.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[小雨](TropicalIsland_LightRain.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[多云](TropicalIsland_PartiallyCloudy.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[暴风雨](TropicalIsland_Storm.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >2881 ~ 5760</td></tr></tbody></table>  
+  
 
 
 <script>document.title="季节 - 卡牌生存百科 Card Survival Wiki";</script>

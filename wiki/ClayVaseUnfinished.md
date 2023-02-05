@@ -3,17 +3,14 @@
 <br>  
 > 一个大罐子，能装<b>4份</b>水。<br><br>此设计限制了内部液体的液面面积，使内部的液体蒸发速度变慢。<br><br>可以用<b>粘土和抗裂剂</b>制成，并在任何<b>窑炉</b>中烧制。  
   
-  未烧制的陶罐  |   图片   
- ----  |  ----:   
- **重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“粘土”](tag_Clay.md)  |  <img decoding="async" src="Sprite/ClayBowlUncooked.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**250<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“粘土”](tag_Clay.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayBowlUncooked.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-摔碎<br>  |  -  |    |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >摔碎<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead></tbody></table>  
+  
 
 
 <script>document.title="未烧制的陶罐 - 卡牌生存百科 Card Survival Wiki";</script>

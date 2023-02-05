@@ -3,39 +3,17 @@
 #### ** 变化范围: ** 0 ~ 4000  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[杀手无人机](Pk_1_KillerDrones.md)  |  特质影响  |  加成+2  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[杀手无人机](Pk_1_KillerDrones.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成+2</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[胜负参半(事件)](Event_DroneFightMixedSuccess.md)  |  继续  |  -1000  
-[成功！(事件)](Event_DroneFightSuccess.md)  |  继续  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胜负参半(事件)](Event_DroneFightMixedSuccess.md)](Event_DroneFightMixedSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[成功！(事件)](Event_DroneFightSuccess.md)](Event_DroneFightSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[酸湖(区域)(火山)](AcidLake.md)  |  影响  |  1000 ~ 4000  
-[海湾(区域)](Bay.md)  |  影响  |  1000 ~ 4000  
-[沙滩(区域)](Beach.md)  |  影响  |  1000 ~ 4000  
-[鸟岩岛(区域)](BirdRock.md)  |  影响  |  1000 ~ 4000  
-[隐秘港湾(区域)(沙滩)](Cove.md)  |  影响  |  1000 ~ 4000  
-[丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 4000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 4000  
-[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 4000  
-[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 4000  
-[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 4000  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 4000  
-[丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 4000  
-[丛林高地(区域)](JungleHighlands.md)  |  影响  |  1000 ~ 4000  
-[红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 4000  
-[丛林边缘(区域)](Outskirts.md)  |  影响  |  1000 ~ 4000  
-[岩滩(区域)](Rocks.md)  |  影响  |  1000 ~ 4000  
-[神秘谷(区域)](SecretValley.md)  |  影响  |  1000 ~ 4000  
-[火山(区域)](Volcano.md)  |  影响  |  1000 ~ 4000  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  影响  |  1000 ~ 4000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[酸湖(火山)](AcidLake.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海湾](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[沙滩](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[鸟岩岛](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[隐秘港湾(沙滩)](Cove.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林深处](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[荒芜沙滩](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部草原](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部草原](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部高地](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林高地](JungleHighlands.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[红树林](Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林边缘](Outskirts.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[岩滩](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[神秘谷](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[火山](Volcano.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[湿地丛林(湿地)](Wetlands.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="杀手无人机种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

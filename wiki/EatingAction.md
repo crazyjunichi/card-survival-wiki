@@ -1,4 +1,4 @@
-# 进食动作  
+# 进食动作(组)  
 - 食用 [外星结节](AlienNodule.md)  
 - 食用 [芦荟膏](AloeVeraGel.md)  
 - 食用 [杂菌](AssortedMushrooms.md)  

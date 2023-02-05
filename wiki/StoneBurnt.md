@@ -3,19 +3,14 @@
 <br>  
 > 一小块石灰岩。<br><br>它可以在<b>大石块</b>上打磨成<b>石刀</b>。<br>也可以在小石头上打磨，但耗时更久，对你的手损伤也更大。  
   
-  煅烧后的石头  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/BurntStone.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“沉重的”](tag_Heavy.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BurntStone.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[石头](Stone.md) , [石刀](StoneSharpened.md) , [窑炉](Kiln.md)  |  煅烧石头  
-[石头](Stone.md) , [石刀](StoneSharpened.md) , [高级窑炉](KilnAdvanced.md)  |  煅烧石头  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石头](Stone.md)](Stone.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoneSharpened.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石刀](StoneSharpened.md)](StoneSharpened.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/KilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窑炉](Kiln.md)](Kiln.md)</td><td  style="text-align:left;vertical-align:top;" >煅烧石头</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石头](Stone.md)](Stone.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoneSharpened.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石刀](StoneSharpened.md)](StoneSharpened.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td><td  style="text-align:left;vertical-align:top;" >煅烧石头</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [生石灰](Quicklime.md)(+3)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >敲碎<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md)(+3)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="煅烧后的石头 - 卡牌生存百科 Card Survival Wiki";</script>

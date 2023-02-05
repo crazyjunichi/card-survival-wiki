@@ -3,32 +3,26 @@
 <br>  
 > 在<b>多岩的海滩</b>地区，潮水经常会流入岩石围成的水池中。<br><br><b>涨潮</b>时池子将会被淹没，而在退潮时，大量的<b>虾、螃蟹之类的东西</b>将被困在水池的水中。<br><br>因此潮汐池是<b>不错的可再生食物来源</b>。<br><br>不过，海水的气味会引起一些不适，所以不建议在附近安营扎寨。  
   
-  被淹没的潮汐池  |   图片   
- ----  |  ----:   
- ** 不可堆叠 **<br><br>**环境：**[岩滩(环境)](Env_Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[不适](Discomfort.md)+100  |  <img decoding="async" src="Sprite/TidePoolFlooded.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可堆叠 **<br><br>**环境：**[岩滩(环境)](Env_Rocks.md)<br><br>**可使用次数：**6<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)+100</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TidePoolFlooded.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[潮汐池(岩滩)](TidePool.md)  |  潮汐  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TidePool.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[潮汐池(岩滩)](TidePool.md)](TidePool.md)</td><td  style="text-align:left;vertical-align:top;" >潮汐</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-洗个澡<br>[手部动作](HandAction.md)  |  15分  |    |  ** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料  +12<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75  |  [湿度](Wetness.md)+100 (每15分钟)<br>[情绪](Morale.md)+1<br>[污垢](Filth.md)-150<br>[泥巴防护](MudProtection.md)-50<br>[芦荟膏防护](AloeVeraGelProtection.md)-50<br>[驱虫](BugRepellentApplied.md)-50<br>[阳光防护](SunProtection.md)-50  
-饮用<br>  |  -  |  [肾脏](IfKidneys.md): 1-1  |    |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+250  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >洗个澡<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 相关卡牌 **<br>[“腿部（内层）”](tag_Clothing.md)燃料  +12<br>** 相关卡牌 **<br>[眼镜蛇毒液](W_CobraSpit.md)燃料  -75</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[湿度](Wetness.md)](Wetness.md)+100 (每15分钟)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)-150<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mud.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[泥巴防护](MudProtection.md)](MudProtection.md)-50<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[芦荟膏防护](AloeVeraGelProtection.md)](AloeVeraGelProtection.md)-50<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[驱虫](BugRepellentApplied.md)](BugRepellentApplied.md)-50<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)-50</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[肾脏](IfKidneys.md): 1-1</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+40<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钠](Sodium.md)](Sodium.md)+250</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead></tbody></table>  
+  
 ## 可拖至  
-[人鱼巢](MermaidNest.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[人鱼巢](MermaidNest.md)</div></div>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-食物  |  初始：6<br>最大：6  |  -  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >食物</td><td  style="text-align:left;vertical-align:top;" >初始：6<br>最大：6</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-未蓄满的  |  [潮汐](Tides.md): 0-0  |  → [潮汐池(岩滩)](TidePool.md)<br>可用次数  +1～+3  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >未蓄满的</td><td  style="text-align:left;vertical-align:top;" >[潮汐](Tides.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TidePool.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[潮汐池(岩滩)](TidePool.md)](TidePool.md)<br>可用次数  +1～+3</td></tr></tbody></table>  
+  
 
 
 <script>document.title="被淹没的潮汐池 - 卡牌生存百科 Card Survival Wiki";</script>

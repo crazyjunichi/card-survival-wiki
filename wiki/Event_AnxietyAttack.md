@@ -1,18 +1,14 @@
 # 无法控制焦虑！  
 > 我得停下。我觉得我要疯了。<br><br>我得停一停冷静下来。  
   
-  无法控制焦虑！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Void.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Void.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 触发条件  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-失落  |  [压力](Stress.md): 240-240<br>[焦虑计数](AnxietyCounter.md): 0-0  |  [焦虑计数](AnxietyCounter.md)+96  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >失落</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md): 240-240<br>[焦虑计数](AnxietyCounter.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >[焦虑计数](AnxietyCounter.md)+96</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  30分  |  **不能处于以下状态**：<br>[水分](Hydration.md): 0-30<br>[过热](Hyperthermia.md): 27-100<br>[失温](Hypothermia.md): 27-100<br>[血压](Blood.md): 0-30<br>[体重](Weight.md): 0-74<br>[波次](WaveCounter.md): 12-24  |  ** 自身：**<br>→消失  |  [压力](Stress.md)-48<br>[焦虑计数](AnxietyCounter.md)+48<br>[世界观](Structure.md)-250  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >**不能处于以下状态**：<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md): 0-30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Flame.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[过热](Hyperthermia.md)](Hyperthermia.md): 27-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Snowflake.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[失温](Hypothermia.md)](Hypothermia.md): 27-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BloodPressure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[血压](Blood.md)](Blood.md): 0-30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体重](Weight.md)](Weight.md): 0-74<br>[波次](WaveCounter.md): 12-24</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-48<br>[焦虑计数](AnxietyCounter.md)+48<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)-250</td></tr></tbody></table>  
+  
 
 
 <script>document.title="无法控制焦虑！ - 卡牌生存百科 Card Survival Wiki";</script>

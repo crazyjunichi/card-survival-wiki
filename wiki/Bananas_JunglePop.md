@@ -3,24 +3,16 @@
 #### ** 变化范围: ** 0 ~ 6000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 3500  |  低密度  |    |  [沙滩椰子树种群数量](Bananas_JunglePop.md)加成+0.25  |    
-3501 ～ 5000  |  高密度  |    |  [沙滩椰子树种群数量](Bananas_JunglePop.md)加成+0.5  |    
-5001 ～ 5999  |  超高密度  |    |  [沙滩椰子树种群数量](Bananas_JunglePop.md)加成+1  |    
-6000 ～ 6000  |  极高密度  |    |  [丛林边缘椰子树种群数量](Bananas_WetlandsPop.md)加成+0.5  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 3500</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[沙滩椰子树种群数量](Bananas_JunglePop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3501 ～ 5000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[沙滩椰子树种群数量](Bananas_JunglePop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >5001 ～ 5999</td><td  style="text-align:left;vertical-align:top;" >超高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[沙滩椰子树种群数量](Bananas_JunglePop.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >6000 ～ 6000</td><td  style="text-align:left;vertical-align:top;" >极高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林边缘椰子树种群数量](Bananas_WetlandsPop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [丛林边缘椰子树种群数量](Bananas_WetlandsPop.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  探索  |  -1000  
-[丛林(区域)](Jungle.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 6000  
-[丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 6000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[丛林深处](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="沙滩椰子树种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

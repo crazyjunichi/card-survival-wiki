@@ -3,22 +3,17 @@
 <br>  
 > 一种设计巧妙的篮状的陷阱用来轻松地捕获<b>鱼与贝类</b>。<br><br>这种陷阱并不需要<b>诱饵</b>，然而必须得放置在沿海区域。<br><b>暴风雨</b>会摧毁它们所以要千万记得在<b>湿润季节</b>中把它们捡起来。  
   
-  捕鱼陷阱  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**重量：**250</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[捕鱼陷阱](FishTrapDeployed.md)  |  拿起陷阱  
-[捕鱼陷阱(蓝图)](Bp_FishTrap.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[捕鱼陷阱](FishTrapDeployed.md)](FishTrapDeployed.md)</td><td  style="text-align:left;vertical-align:top;" >拿起陷阱</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[捕鱼陷阱(蓝图)](Bp_FishTrap.md)](Bp_FishTrap.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-放置<br>[腿部动作](LegAction.md)  |  15分  |  [光亮](Light.md): 10-100<br><br>[“浅水域”](tag_ShallowWater.md)存在于手中/面板  |  ** 自身：**<br>→ [捕鱼陷阱](FishTrapDeployed.md)  |    
-拆除<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Cord]  **<br>  [细线](CordFiber.md)(+1)<br>  [小树枝](Sticks.md)(+2)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >放置<br>[腿部动作(组)](LegAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100<br><br>[“浅水域”](tag_ShallowWater.md)存在于手中/面板</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[捕鱼陷阱](FishTrapDeployed.md)](FishTrapDeployed.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >拆除<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Cord]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小树枝](Sticks.md)](Sticks.md)(+2)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖至  
-[海(环礁)](Sea_Atoll.md) | [海(海湾)](Sea_Bay.md) | [海(沙滩)](Sea_Beach.md) | [海(沙滩)](Sea_Cove.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[海(环礁)](Sea_Atoll.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[海(海湾)](Sea_Bay.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[海(沙滩)](Sea_Beach.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[海(沙滩)](Sea_Cove.md)</div></div>  
+  
 
 
 <script>document.title="捕鱼陷阱 - 卡牌生存百科 Card Survival Wiki";</script>

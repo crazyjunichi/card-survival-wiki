@@ -3,22 +3,17 @@
 <br>  
 >   
   
-  脱脂羊奶  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -250(-134.41%)  |  [饱食](Satiation.md)+5<br>[胃](Stomach.md)+8<br>[水分](Hydration.md)+30<br>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)+45<br>[情绪](Morale.md)+4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>耐久  -250(-134.41%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+8<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Milk.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[乳品<nobr>厌倦度</nobr>](SaturationDairy.md)](SaturationDairy.md)+45<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+4</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：186<br>最大：186  |  每15分钟-1<br>最多需要：1天22小时30分  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：186<br>最大：186</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：1天22小时30分</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Evaporation  |    |  含水量-0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量-0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="脱脂羊奶 - 卡牌生存百科 Card Survival Wiki";</script>

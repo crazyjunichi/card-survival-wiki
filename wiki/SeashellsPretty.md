@@ -3,32 +3,18 @@
 <br>  
 > 岛上的<b>沙滩</b>有许多漂亮的贝壳。<br><br>它们色彩缤纷的性质使得它们可以用于制作<b>项链，鱼饵和装饰品</b>。<br>它们也可以在<b>窑炉</b>煅烧来制作<b>生石灰</b>。生石灰是<b>砂浆</b>和其他更高级物品的基本成分。  
   
-  漂亮贝壳  |   图片   
- ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/PrettySeashells.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**25<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PrettySeashells.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[贝壳项链](SeashellNecklace.md)  |  拆解  
-[贝壳项链](SeashellNecklace.md)  |  转化  
-[环礁(区域)](Atoll.md)  |  探索  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[沙滩(区域)](Beach.md)  |  随便逛逛  
-[鸟岩岛(区域)](BirdRock.md)  |  探索  
-[隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  
-[岩滩(区域)](Rocks.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SeashellNecklace.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[贝壳项链](SeashellNecklace.md)](SeashellNecklace.md)</td><td  style="text-align:left;vertical-align:top;" >拆解</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SeashellNecklace.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[贝壳项链](SeashellNecklace.md)](SeashellNecklace.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[环礁](Atoll.md)](Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛](BirdRock.md)](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cove.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[隐秘港湾(沙滩)](Cove.md)](Cove.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [鱼饵(蓝图)](Bp_FishBait.md)  
-- [贝壳项链(蓝图)](Bp_SeashellNecklace.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishBait.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鱼饵(蓝图)](Bp_FishBait.md)](Bp_FishBait.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SeashellNecklace.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[贝壳项链(蓝图)](Bp_SeashellNecklace.md)](Bp_SeashellNecklace.md)</div></div>  
   
   
 ## 可用于转化  
-转化为  |  容器  
-----  |  ----  
-[生石灰](Quicklime.md)  |  [窑炉](Kiln.md)  
-[生石灰](Quicklime.md)  |  [高级窑炉](KilnAdvanced.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >转化为</th><th  style="text-align:left;vertical-align:top;" >容器</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[生石灰](Quicklime.md)</td><td  style="text-align:left;vertical-align:top;" >[窑炉](Kiln.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[生石灰](Quicklime.md)</td><td  style="text-align:left;vertical-align:top;" >[高级窑炉](KilnAdvanced.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="漂亮贝壳 - 卡牌生存百科 Card Survival Wiki";</script>

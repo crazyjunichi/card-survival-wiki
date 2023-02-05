@@ -3,18 +3,11 @@
 #### ** 变化范围: ** 0 ~ 4  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-3 ～ 3  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  一切进展顺利。  |    |    
-2 ～ 2  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  糟了……项圈损伤了我的手部神经。  |  [手部动作受限](ModifierHand.md)+1  |    
-1 ～ 1  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  糟了……项圈电坏了我的腿部神经。  |  [手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1  |    
-0 ～ 0  |  <img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;">生命指数  |  项圈把你的脑子电糊了！  |  [手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >3 ～ 3</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"></div>生命指数</td><td  style="text-align:left;vertical-align:top;" >一切进展顺利。</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2 ～ 2</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"></div>生命指数</td><td  style="text-align:left;vertical-align:top;" >糟了……项圈损伤了我的手部神经。</td><td  style="text-align:left;vertical-align:top;" >[手部动作受限](ModifierHand.md)+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"></div>生命指数</td><td  style="text-align:left;vertical-align:top;" >糟了……项圈电坏了我的腿部神经。</td><td  style="text-align:left;vertical-align:top;" >[手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >0 ～ 0</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"></div>生命指数</td><td  style="text-align:left;vertical-align:top;" >项圈把你的脑子电糊了！</td><td  style="text-align:left;vertical-align:top;" >[手部动作受限](ModifierHand.md)+1<br>[腿部动作受限](ModifierLeg.md)+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[受到来自项圈的伤害！(事件)](Event_TVNerveDamageHands.md)  |  触发事件  |  2  
-[受到来自项圈的伤害！(事件)](Event_TVNerveDamageLegs.md)  |  触发事件  |  1  
-[受到来自项圈的伤害！(事件)](Event_TVNerveDamageDead.md)  |  触发事件  |  0  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[受到来自项圈的伤害！(事件)](Event_TVNerveDamageHands.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[受到来自项圈的伤害！(事件)](Event_TVNerveDamageLegs.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[受到来自项圈的伤害！(事件)](Event_TVNerveDamageDead.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >0</td></tr></tbody></table>  
+  
 
 
 <script>document.title="真人秀直播 - 卡牌生存百科 Card Survival Wiki";</script>

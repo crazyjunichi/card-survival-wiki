@@ -4,13 +4,13 @@
 
 [游戏]()
 
--   [版本更新](news_update.md)
+-   [游戏更新公告](news_update.md)
 -   [成就](ach.md)
 
 [角色]()
 
 -   [可选角色](character_preset.md)
--   [角色特性](pk.md)
+-   [角色特质](pk.md)
 
 [物体]()
 

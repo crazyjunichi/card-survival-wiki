@@ -3,31 +3,14 @@
 #### ** 变化范围: ** 0 ~ 45000  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 10000  |  低密度  |    |  [海鸥种群数量](Pop_Seagull.md)加成+1  |    
-10001 ～ 20000  |  中等密度  |    |  [海鸥种群数量](Pop_Seagull.md)加成+2  |    
-20001 ～ 30000  |  高密度  |    |  [海鸥种群数量](Pop_Seagull.md)加成+3  |    
-30001 ～ 45000  |  超高密度  |    |  [海鸥种群数量](Pop_Seagull.md)加成+4  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 10000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海鸥种群数量](Pop_Seagull.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >10001 ～ 20000</td><td  style="text-align:left;vertical-align:top;" >中等密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海鸥种群数量](Pop_Seagull.md)加成+2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >20001 ～ 30000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海鸥种群数量](Pop_Seagull.md)加成+3</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >30001 ～ 45000</td><td  style="text-align:left;vertical-align:top;" >超高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海鸥种群数量](Pop_Seagull.md)加成+4</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[诱捕笼](CageTrapPlaced.md)  |  陷阱触发了！  |  -1000  
-[落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  -1000  
-[套索陷阱](SnareTrap.md)  |  捕捉猎物  |  -1000  
-[礼物！(事件)](Event_DogFriendGift.md)  |  看看礼物  |  -1000  
-[鸟岩岛(区域)](BirdRock.md)  |  探索  |  -1000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  -1000  
-[岩滩(区域)](Rocks.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CagePlacedTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[诱捕笼](CageTrapPlaced.md)](CageTrapPlaced.md)</td><td  style="text-align:left;vertical-align:top;" >陷阱触发了！</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[落石陷阱](DeadfallTrap.md)](DeadfallTrap.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SnareTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[套索陷阱](SnareTrap.md)](SnareTrap.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dog.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[礼物！(事件)](Event_DogFriendGift.md)](Event_DogFriendGift.md)</td><td  style="text-align:left;vertical-align:top;" >看看礼物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛](BirdRock.md)](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[诱捕笼](CageTrapPlaced.md)  |  转化需要  |  1000 ~ 4500  
-[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 45000  
-[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 4500  
-[鸟岩岛(区域)](BirdRock.md)  |  影响  |  1000 ~ 45000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 45000  
-[岩滩(区域)](Rocks.md)  |  影响  |  1000 ~ 45000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[诱捕笼](CageTrapPlaced.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4500</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[落石陷阱](DeadfallTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 45000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[套索陷阱](SnareTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4500</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[鸟岩岛](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 45000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[荒芜沙滩](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 45000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[岩滩](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 45000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="海鸥种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

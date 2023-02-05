@@ -1,21 +1,14 @@
 # 我拿下它了，但我受伤了。  
 > 巨蜥死了，但它还是伤到了我。  
   
-  我拿下它了，但我受伤了。  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  用长矛攻击！  
-[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  用弓箭攻击！  
-[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  用枪攻击！  
-[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)  |  用投石索攻击！  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)</td><td  style="text-align:left;vertical-align:top;" >用长矛攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)</td><td  style="text-align:left;vertical-align:top;" >用弓箭攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)</td><td  style="text-align:left;vertical-align:top;" >用枪攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)</td><td  style="text-align:left;vertical-align:top;" >用投石索攻击！</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [巨蜥咬伤](W_MonitorBite.md)(+1)<br>  [巨蜥尸体](MonitorCarcass.md)(+1)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [巨蜥种群数量](Pop_Monitor.md)-1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥咬伤](W_MonitorBite.md)](W_MonitorBite.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorCarcass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥尸体](MonitorCarcass.md)](MonitorCarcass.md)(+1)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10</td><td  style="text-align:left;vertical-align:top;" >[巨蜥种群数量](Pop_Monitor.md)-1000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="我拿下它了，但我受伤了。 - 卡牌生存百科 Card Survival Wiki";</script>

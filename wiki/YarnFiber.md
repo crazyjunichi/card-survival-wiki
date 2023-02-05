@@ -3,26 +3,20 @@
 <br>  
 > 细线是将从<b>椰子皮和蛇草</b>中提取的<b>纤维</b>编织在一起制成的。<br><br>将细线纺在一起会产生<b>线团</b>，这些线团可以再次纺在一起制成<b>绳子</b>或在<b>织布机上织布</b>。<br><br>细线本身也能用于<b>制作</b>许多东西，比如工具和建筑。<br>它也是在<b>木筏</b>上进行<b>维修</b>的必要资源。  
   
-  线团  |   图片   
- ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)  |  <img decoding="async" src="Sprite/Yarn.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Yarn.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[细线](CordFiber.md)  |  制作线团<br>** 拖入：**[细线](CordFiber.md)  
-[绳子](Rope.md)  |  拆开  
-[缠好的纺锤](SpindleFiber.md)  |  纺线团  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)</td><td  style="text-align:left;vertical-align:top;" >制作线团<br>** 拖入：**[细线](CordFiber.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[绳子](Rope.md)](Rope.md)</td><td  style="text-align:left;vertical-align:top;" >拆开</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[缠好的纺锤](SpindleFiber.md)](SpindleFiber.md)</td><td  style="text-align:left;vertical-align:top;" >纺线团</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆成细线<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [细线](CordFiber.md)(+2)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆成细线<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[线团](YarnFiber.md)  |  制作绳子<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [绳子](Rope.md)<br><br>** 使用物: **<br>→消失  |  [纺织(技能)](Skill_Tailoring.md)+0.25  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Yarn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[线团](YarnFiber.md)](YarnFiber.md)</td><td  style="text-align:left;vertical-align:top;" >制作绳子<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绳子](Rope.md)](Rope.md)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shirt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[纺织(技能)](Skill_Tailoring.md)](Skill_Tailoring.md)+0.25</td></tr></tbody></table>  
+  
 ## 可拖至  
-[织布机（空）](LoomEmpty.md) | [纺锤](Spindle.md) | [线团](YarnFiber.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[织布机（空）](LoomEmpty.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[纺锤](Spindle.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[线团](YarnFiber.md)</div></div>  
+  
 
 
 <script>document.title="线团 - 卡牌生存百科 Card Survival Wiki";</script>

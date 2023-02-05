@@ -1,21 +1,14 @@
 # 猎手被击败了！  
 > 祂再也不会来了！  
   
-  猎手被击败了！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[猎手来了(事件)](Event_HunterFight.md)  |  用长矛攻击！  
-[猎手来了(事件)](Event_HunterFight.md)  |  用弓箭攻击！  
-[猎手来了(事件)](Event_HunterFight.md)  |  用枪攻击！  
-[猎手来了(事件)](Event_HunterFight.md)  |  用投石索攻击！  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >用长矛攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >用弓箭攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >用枪攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >用投石索攻击！</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-胜利啦！<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [腐烂物](RottenRemains.md)(+1)<br><br><br>** 相关卡牌 **<br>[鬼掌印](W_HunterMark.md)  |  [情绪](Morale.md)+100<br>[失实症](Derealization.md)-250<br>[压力](Stress.md)-100<br>[猎手的注视](HunterInsight.md)+1<br>[猎手接近](HuntersProximity.md)-9999<br>[灵视(技能)](Skill_Insight.md)+2  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >胜利啦！<br></td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)(+1)<br><br><br>** 相关卡牌 **<br>[鬼掌印](W_HunterMark.md)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[失实症](Derealization.md)](Derealization.md)-250<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[猎手的注视](HunterInsight.md)](HunterInsight.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HunterProximity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[猎手接近](HuntersProximity.md)](HuntersProximity.md)-9999<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[灵视(技能)](Skill_Insight.md)](Skill_Insight.md)+2</td></tr></tbody></table>  
+  
 
 
 <script>document.title="猎手被击败了！ - 卡牌生存百科 Card Survival Wiki";</script>

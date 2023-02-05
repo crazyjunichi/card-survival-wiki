@@ -1,14 +1,11 @@
 # 韦斯顿  
 > Event_WestonSpecial2e_CardDescription  
   
-  韦斯顿  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-Thanks Wes.<br>  |  4小时  |    |  ** 自身：**<br>→消失  |  [耐力](Stamina.md)+30<br>[情绪](Morale.md)+20<br>[恶心](Nausea.md)-20<br>[清醒度](Wakefulness.md)+96<br>[背痛](BackPain.md)+56～+90  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Thanks Wes.<br></td><td  style="text-align:left;vertical-align:top;" >4小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)-20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[清醒度](Wakefulness.md)](Wakefulness.md)+96<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Backpain.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[背痛](BackPain.md)](BackPain.md)+56～+90</td></tr></tbody></table>  
+  
 
 
 <script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

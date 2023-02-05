@@ -1,15 +1,8 @@
 # 脚踏实地  
 > 不易陷入精神失常状态。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  免费  
-分数  |  -1500  
-初始装备  |  无  
-额外卡牌  |  无  
-初始状态  |  无  
-被动状态  |  [精神失常](MindState.md)-1000<br>[世界观](Structure.md)加成+10<br>[狂躁](Mania.md)加成-10<br>[失实症](Derealization.md)加成-10  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >免费</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1500</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br></td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[精神失常](MindState.md)](MindState.md)-1000<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GodState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[狂躁](Mania.md)](Mania.md)加成-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/VoidState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[失实症](Derealization.md)](Derealization.md)加成-10</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="脚踏实地 - 卡牌生存百科 Card Survival Wiki";</script>

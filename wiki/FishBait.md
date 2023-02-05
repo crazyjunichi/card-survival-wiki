@@ -3,16 +3,14 @@
 <br>  
 >   
   
-  鱼饵  |   图片   
- ----  |  ----:   
- **重量：**10<br><br>**标签：**	[“诱饵”](tag_Bait.md)  |  <img decoding="async" src="Sprite/FishBait.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**10<br><br>**标签：**	[“诱饵”](tag_Bait.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishBait.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[鱼饵(蓝图)](Bp_FishBait.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishBait.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鱼饵(蓝图)](Bp_FishBait.md)](Bp_FishBait.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖至  
-[猪食槽](BoarFeeder.md) | [猪食槽(空)](BoarFeederEmpty.md) | [灰山鹑喂食器](PartridgeFeeder.md) | [母猪](BoarEnclosureFemale.md) | [公猪](BoarEnclosureMale.md) | [小猪](BoarEnclosurePiglet.md) | [母猪](BoarTiedFemale.md) | [公猪](BoarTiedMale.md) | [小猪](BoarTiedPiglet.md) | [钓鱼线](FishingLine.md) | [钓鱼线](FishingLineRustic.md) | [钓鱼竿](FishingRod.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[猪食槽](BoarFeeder.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[猪食槽(空)](BoarFeederEmpty.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[灰山鹑喂食器](PartridgeFeeder.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[母猪](BoarEnclosureFemale.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[公猪](BoarEnclosureMale.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[小猪](BoarEnclosurePiglet.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[母猪](BoarTiedFemale.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[公猪](BoarTiedMale.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[小猪](BoarTiedPiglet.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[钓鱼线](FishingLine.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[钓鱼线](FishingLineRustic.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[钓鱼竿](FishingRod.md)</div></div>  
+  
 
 
 <script>document.title="鱼饵 - 卡牌生存百科 Card Survival Wiki";</script>

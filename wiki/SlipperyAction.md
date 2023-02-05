@@ -1,7 +1,7 @@
-# 探索动作  
-- 探索 [鸟岩岛(区域)](BirdRock.md)  
-- 探索 [荒芜沙滩(区域)](DesolateBeach.md)  
-- 探索 [岩滩(区域)](Rocks.md)  
+# 探索动作(组)  
+- 探索 [鸟岩岛](BirdRock.md)  
+- 探索 [荒芜沙滩](DesolateBeach.md)  
+- 探索 [岩滩](Rocks.md)  
 - 前往 [前往沙滩(海湾)](Path_BayToBeach.md)  
 - 前往 [前往红树林](Path_BayToMangroves.md)  
 - 前往 [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  

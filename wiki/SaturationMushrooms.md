@@ -5,24 +5,16 @@
 #### ** 变化范围: ** 0 ~ 288  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-193 ～ 288  |  <img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">我讨厌吃蘑菇……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
-97 ～ 192  |  <img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃蘑菇了……  |    |  [情绪](Morale.md)加成-0.75  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >193 ～ 288</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我讨厌吃蘑菇……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-1.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)加成+1.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >97 ～ 192</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationMushrooms.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我有点厌倦吃蘑菇了……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-0.75</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
-[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成+0.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成-0.5</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[炒菇球](FriedPuffballs.md)  |  食用  |  30  
-[马勃菌](Puffballs.md)  |  食用  |  30  
-[杂菌](AssortedMushrooms.md)  |  食用  |  20  
-[迷幻菇](MagicMushrooms.md)  |  食用  |  20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FriedPuffballs.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[炒菇球](FriedPuffballs.md)](FriedPuffballs.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >30</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Puffballs.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[马勃菌](Puffballs.md)](Puffballs.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >30</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AssortedMushrooms.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[杂菌](AssortedMushrooms.md)](AssortedMushrooms.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >20</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MagicMushrooms.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[迷幻菇](MagicMushrooms.md)](MagicMushrooms.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >20</td></tr></tbody></table>  
+  
 
 
 <script>document.title="蘑菇<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

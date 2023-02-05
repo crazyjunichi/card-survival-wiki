@@ -1,23 +1,14 @@
 # 一群蜜蜂！  
 > 它们向我蜂拥而来！  
   
-  一群蜜蜂！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/BeeSwarm.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeSwarm.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[蜂箱](BeeSkep.md)  |  采集  
-[繁殖中的蜂群](BeeSkepSwarming.md)  |  采集  
-[繁殖中的蜂群](BeeSkepSwarming.md)  |  捕捉蜜蜂<br>** 拖入：**[布袋](Sack.md)  
-[蜂巢](Beehive.md)  |  采集  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SkepBees.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜂箱](BeeSkep.md)](BeeSkep.md)</td><td  style="text-align:left;vertical-align:top;" >采集</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SkepSwarm.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[繁殖中的蜂群](BeeSkepSwarming.md)](BeeSkepSwarming.md)</td><td  style="text-align:left;vertical-align:top;" >采集</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SkepSwarm.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[繁殖中的蜂群](BeeSkepSwarming.md)](BeeSkepSwarming.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉蜜蜂<br>** 拖入：**[布袋](Sack.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeHive.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜂巢](Beehive.md)](Beehive.md)</td><td  style="text-align:left;vertical-align:top;" >采集</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-我的衣服保护了我！<br>  |  -  |  [蜂蛰防护](BeeProtection.md): 7-10  |  ** 自身：**<br>→消失  |  [蜜蜂蛰刺](BeeStings.md)+0～+16  
-我的衣服一定程度上保护了我！<br>  |  30分  |  [蜂蛰防护](BeeProtection.md): 3-6.9  |  ** 自身：**<br>→消失  |  [蜜蜂蛰刺](BeeStings.md)+48～+96  
-啊——！<br>  |  30分  |  [蜂蛰防护](BeeProtection.md): 0-2.9  |  ** 自身：**<br>→消失  |  [蜜蜂蛰刺](BeeStings.md)+96～+192  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >我的衣服保护了我！<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜂蛰防护](BeeProtection.md)](BeeProtection.md): 7-10</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜜蜂蛰刺](BeeStings.md)](BeeStings.md)+0～+16</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >我的衣服一定程度上保护了我！<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜂蛰防护](BeeProtection.md)](BeeProtection.md): 3-6.9</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜜蜂蛰刺](BeeStings.md)](BeeStings.md)+48～+96</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >啊——！<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜂蛰防护](BeeProtection.md)](BeeProtection.md): 0-2.9</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeStings.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蜜蜂蛰刺](BeeStings.md)](BeeStings.md)+96～+192</td></tr></tbody></table>  
+  
 
 
 <script>document.title="一群蜜蜂！ - 卡牌生存百科 Card Survival Wiki";</script>

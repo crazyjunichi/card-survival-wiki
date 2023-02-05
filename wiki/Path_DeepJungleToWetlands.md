@@ -3,18 +3,14 @@
 <br>  
 > 湿地位于岛内深处潮湿而密集的森林地区。<br><br>在这里你可以找到一些下雨时会被灌满的天然水坑，还有很多植物，比如<b>西米树、蜘蛛兰、香蕉、马勃菌和姜</b>。<br><br>这个地区的<b>蚊虫数量</b>非常高。如果你的身体素质不能很好地抵御它们的话，一定要带一些<b>驱虫膏</b>。  
   
-  湿地  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[丛林深处(环境)](Env_DeepJungle.md)  |  <img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[丛林深处(环境)](Env_DeepJungle.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)](Path_WetlandsToDeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 11-32  |  ** 获得： **<br>** [Wetlands Path]  **<br>  [湿地(环境)](Env_Wetlands.md)(+1)<br>  [前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >前往<br>[腿部动作(组)](LegAction.md)<br>[旅行动作(组)](TravelAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md): 11-32</td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Wetlands Path]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地(环境)](Env_Wetlands.md)](Env_Wetlands.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林深处(湿地)](Path_WetlandsToDeepJungle.md)](Path_WetlandsToDeepJungle.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部损伤](FootDamage.md)](FootDamage.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HunterProximity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[猎手接近](HuntersProximity.md)](HuntersProximity.md)-6</td></tr></tbody></table>  
+  
 
 
 <script>document.title="湿地 - 卡牌生存百科 Card Survival Wiki";</script>

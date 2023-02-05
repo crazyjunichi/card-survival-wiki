@@ -3,28 +3,20 @@
 <br>  
 > 这个简易实用的装置可以用<b>树枝和编织过的棕榈叶</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>灰山鹑</b>。<br><br>可以填入任何类型的食物，或更高效的<b>鸟食</b>。  
   
-  灰山鹑喂食器  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[灰山鹑喂食器](PartridgeFeeder.md)  |  转化  
-[灰山鹑喂食器(蓝图)](Bp_PartridgeFeeder.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[灰山鹑喂食器](PartridgeFeeder.md)](PartridgeFeeder.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[灰山鹑喂食器(蓝图)](Bp_PartridgeFeeder.md)](Bp_PartridgeFeeder.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  1小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [棕榈编织物](WeavePalm.md)(+3)<br>  [细线](CordFiber.md)(+4)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br></td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeavePalm.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈编织物](WeavePalm.md)](WeavePalm.md)(+3)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+4)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[鸟食](FeedBird.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>→ [灰山鹑喂食器](PartridgeFeeder.md)<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +3072(100%)<br><br>** 使用物: **<br>→消失  |    
-[“饲料”](tag_Feed.md)  |  添入<br>  |  -  |    |  ** 自身: **<br>→ [灰山鹑喂食器](PartridgeFeeder.md)<br>食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;">  +192(6.25%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rice.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟食](FeedBird.md)](FeedBird.md)</td><td  style="text-align:left;vertical-align:top;" >添入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[灰山鹑喂食器](PartridgeFeeder.md)](PartridgeFeeder.md)<br>食物<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  +3072(100%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“饲料”](tag_Feed.md)</td><td  style="text-align:left;vertical-align:top;" >添入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feeder.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[灰山鹑喂食器](PartridgeFeeder.md)](PartridgeFeeder.md)<br>食物<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  +192(6.25%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-食物<img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：3072  |  每15分钟-1<br>最多需要：32天  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >食物<div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：3072</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：32天</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="灰山鹑喂食器 - 卡牌生存百科 Card Survival Wiki";</script>

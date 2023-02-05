@@ -3,20 +3,13 @@
 #### ** 变化范围: ** 0 ~ 5000  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-4000 ～ 5000  |  亲密的朋友  |    |  [孤独感](Loneliness.md)加成-1<br>[世界观](Structure.md)加成-1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >4000 ～ 5000</td><td  style="text-align:left;vertical-align:top;" >亲密的朋友</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[孤独感](Loneliness.md)](Loneliness.md)加成-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [韦斯顿的陪伴](WestonCompany.md)  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[韦斯顿](Weston.md)  |  聊天  |  3001 ~ 5000  
-[韦斯顿](Weston.md)  |  聊天  |  2001 ~ 3000  
-[韦斯顿](Weston.md)  |  离开这座岛  |  2001 ~ 3000  
-[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  触发事件  |  2000 ~ 3000  
-[韦斯顿](Weston.md)  |  聊天  |  1001 ~ 2000  
-[韦斯顿](Weston.md)  |  聊天  |  0 ~ 1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >聊天</td><td  style="text-align:left;vertical-align:top;" >3001 ~ 5000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >聊天</td><td  style="text-align:left;vertical-align:top;" >2001 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >离开这座岛</td><td  style="text-align:left;vertical-align:top;" >2001 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >2000 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >聊天</td><td  style="text-align:left;vertical-align:top;" >1001 ~ 2000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >聊天</td><td  style="text-align:left;vertical-align:top;" >0 ~ 1000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="韦斯顿亲密关系 - 卡牌生存百科 Card Survival Wiki";</script>

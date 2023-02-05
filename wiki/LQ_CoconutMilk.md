@@ -3,32 +3,24 @@
 <br>  
 > 椰奶可以通过在碗里捣碎<b>椰肉</b>制成。<br><br>它是一种美味且营养丰富的液体，可用于一些<b>烹饪食谱</b>，还可以煮沸以制得<b>油</b>：烹饪时的必需品，也有更多的用途。  
   
-  椰奶  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[椰奶(蓝图)](Bp_CoconutMilk.md)  |  蓝图制造  
-[椰肉](CoconutMeat.md)  |  制作椰奶<br>** 拖入：**[“碗（容器）”](tag_ContainerBowl.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutMilk.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰奶(蓝图)](Bp_CoconutMilk.md)](Bp_CoconutMilk.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutMeat.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰肉](CoconutMeat.md)](CoconutMeat.md)</td><td  style="text-align:left;vertical-align:top;" >制作椰奶<br>** 拖入：**[“碗（容器）”](tag_ContainerBowl.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[食用坚果类动作](NutAction.md)  |  -  |    |  ** 自身：**<br>耐久  -250(-52.08%)  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+24<br>[水分](Hydration.md)+20<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+45<br>[腹泻](Diarrhoea.md)+20<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br>[食用蔬菜类动作(组)](VegetarianAction.md)<br>[食用坚果类动作(组)](NutAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>耐久  -250(-52.08%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+24<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationCoconuts.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)](SaturationCoconuts.md)+45<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+4</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [椰子鱼(蓝图)](Bp_CoconutFish.md)  
-- [参薯酱(蓝图)](Bp_YamJam.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutFish.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子鱼(蓝图)](Bp_CoconutFish.md)](Bp_CoconutFish.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/YamJam.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[参薯酱(蓝图)](Bp_YamJam.md)](Bp_YamJam.md)</div></div>  
   
   
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：480<br>最大：480  |  每15分钟-0.5<br>最多需要：10天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：480<br>最大：480</td><td  style="text-align:left;vertical-align:top;" >每15分钟-0.5<br>最多需要：10天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Evaporation  |    |  耐久 -0.5(-0.11%)<br>含水量-0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >耐久 -0.5(-0.11%)<br>含水量-0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="椰奶 - 卡牌生存百科 Card Survival Wiki";</script>

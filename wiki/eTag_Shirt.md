@@ -1,7 +1,3 @@
 # “衬衫”  
-名称  |  可使用次数  
-----  |  ----  
-[夏威夷衬衫](HawaiianShirt.md)  |  2400  
-[卫衣](HoodieRetromation.md)  |  8640  
-[衬衫](ShirtFiber.md)  |  2688  
-[T恤](T-Shirt.md)  |  2688  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HawaiianShirt.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[夏威夷衬衫](HawaiianShirt.md)](HawaiianShirt.md)</td><td  style="text-align:left;vertical-align:top;" >2400</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HoodieRetromation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[卫衣](HoodieRetromation.md)](HoodieRetromation.md)</td><td  style="text-align:left;vertical-align:top;" >8640</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ShirtFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[衬衫](ShirtFiber.md)](ShirtFiber.md)</td><td  style="text-align:left;vertical-align:top;" >2688</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shirt.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[T恤](T-Shirt.md)](T-Shirt.md)</td><td  style="text-align:left;vertical-align:top;" >2688</td></tr></tbody></table>  
+  

@@ -1,24 +1,17 @@
 # 崩解烙印  
 > 宿敌战胜了我，我的灵魂正在分崩离析。  
   
-  崩解烙印  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**重量：**0<br><br>**装备：**[“精神创伤”](eTag_WSpiritual.md)  |  <img decoding="async" src="Sprite/HuntersMark.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**重量：**0<br><br>**装备：**[“精神创伤”](eTag_WSpiritual.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HuntersMark.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[我没能逃掉！(事件)](Event_EnemyFightFailedRetreat.md)  |  闭眼  
-[我失败了！(事件)](Event_EnemyFightFailure.md)  |  闭眼  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Enemy.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[我没能逃掉！(事件)](Event_EnemyFightFailedRetreat.md)](Event_EnemyFightFailedRetreat.md)</td><td  style="text-align:left;vertical-align:top;" >闭眼</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Enemy.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[我失败了！(事件)](Event_EnemyFightFailure.md)](Event_EnemyFightFailure.md)</td><td  style="text-align:left;vertical-align:top;" >闭眼</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：336<br>最大：336  |  每15分钟-0.5<br>最多需要：7天  |  ** 到达0时：烙印已祛除 **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：336<br>最大：336</td><td  style="text-align:left;vertical-align:top;" >每15分钟-0.5<br>最多需要：7天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时：烙印已祛除 **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Mark  |  ** 需要属性：**<br><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～336(0.3%～100%)  |    |  [疼痛](Pain.md)+100<br>[压力](Stress.md)加成+2<br>[世界观](Structure.md)加成-1<br>[情绪](Morale.md)加成-1  
-Healing  |  ** 需要状态：**<br>[精神失常](MindState.md): 151-300  |  <img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"> -2(-0.6%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Mark</td><td  style="text-align:left;vertical-align:top;" >** 需要属性：**<br><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>: 1～336(0.3%～100%)</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[疼痛](Pain.md)](Pain.md)+100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)加成+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >Healing</td><td  style="text-align:left;vertical-align:top;" >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[精神失常](MindState.md)](MindState.md): 151-300</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MindState.png" href="a.md" style="max-width:20px;max-height:20px;"></div> -2(-0.6%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="崩解烙印 - 卡牌生存百科 Card Survival Wiki";</script>

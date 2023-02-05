@@ -1,20 +1,13 @@
 # 铜板  
 > 可以用来做很多东西。  
   
-  铜板  |   图片   
- ----  |  ----:   
- **重量：**100  |  <img decoding="async" src="Sprite/CopperSheet.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperSheet.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[铜板(蓝图)](Bp_CopperSheet.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperSheet.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜板(蓝图)](Bp_CopperSheet.md)](Bp_CopperSheet.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [铜瓶(蓝图)](Bp_CopperBottle.md)  
-- [铜罐(蓝图)](Bp_CopperJar.md)  
-- [铜项链(蓝图)](Bp_CopperNecklace.md)  
-- [铜针(蓝图)](Bp_CopperNeedles.md)  
-- [铜制餐具(蓝图)](Bp_EatingUtensilsCopper.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperBottle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜瓶(蓝图)](Bp_CopperBottle.md)](Bp_CopperBottle.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜罐(蓝图)](Bp_CopperJar.md)](Bp_CopperJar.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperNecklace.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜项链(蓝图)](Bp_CopperNecklace.md)](Bp_CopperNecklace.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NeedleCopper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜针(蓝图)](Bp_CopperNeedles.md)](Bp_CopperNeedles.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/EatingUtensilsCopper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜制餐具(蓝图)](Bp_EatingUtensilsCopper.md)](Bp_EatingUtensilsCopper.md)</div></div>  
   
   
 

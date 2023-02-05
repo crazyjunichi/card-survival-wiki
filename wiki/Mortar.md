@@ -3,27 +3,18 @@
 <br>  
 >   
   
-  砂浆  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[砂浆(蓝图)](Bp_Mortar.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[砂浆(蓝图)](Bp_Mortar.md)](Bp_Mortar.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [地窖(蓝图)](Bp_Cellar.md)  
-- [水窖(蓝图)](Bp_Cistern.md)  
-- [熔炉(蓝图)](Bp_Forge.md)  
-- [高级窑炉(蓝图)](Bp_KilnAdvanced.md)  
-- [石屋(蓝图)](Bp_StoneHut.md)  
-- [水井(蓝图)](Bp_Well.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[地窖(蓝图)](Bp_Cellar.md)](Bp_Cellar.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水窖(蓝图)](Bp_Cistern.md)](Bp_Cistern.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Forge.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉(蓝图)](Bp_Forge.md)](Bp_Forge.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AdvancedKiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉(蓝图)](Bp_KilnAdvanced.md)](Bp_KilnAdvanced.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoneHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石屋(蓝图)](Bp_StoneHut.md)](Bp_StoneHut.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Well.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水井(蓝图)](Bp_Well.md)](Bp_Well.md)</div></div>  
   
   
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [干燥的砂浆](MortarDry.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：96<br>最大：96</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：1天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MortarDry.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[干燥的砂浆](MortarDry.md)](MortarDry.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="砂浆 - 卡牌生存百科 Card Survival Wiki";</script>

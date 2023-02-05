@@ -1,18 +1,14 @@
 # 呕吐！  
 > 你吐了！  
   
-  呕吐！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeGel.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 触发条件  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-呕吐  |  [恶心](Nausea.md): 20-24<br>[呕吐次数](VomitCounter.md): 0-0  |  [呕吐次数](VomitCounter.md)+4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >呕吐</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md): 20-24<br>[呕吐次数](VomitCounter.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >[呕吐次数](VomitCounter.md)+4</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-呕呕呕……<br>  |  15分  |    |  ** 自身：**<br>→消失  |  [恶心](Nausea.md)-12<br>[污垢](Filth.md)+30<br>[情绪](Morale.md)-10<br>[胃](Stomach.md)-100<br>[酒精](Alcohol.md)-32<br>[水分](Hydration.md)-15<br>[钠](Sodium.md)-10  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >呕呕呕……<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)-12<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Alcohol.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[酒精](Alcohol.md)](Alcohol.md)-32<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)-15<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钠](Sodium.md)](Sodium.md)-10</td></tr></tbody></table>  
+  
 
 
 <script>document.title="呕吐！ - 卡牌生存百科 Card Survival Wiki";</script>

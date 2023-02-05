@@ -1,19 +1,14 @@
 # 我感觉到某种“存在”……  
 > 也许我的血能引祂出来。<b>（需要仪式匕首）</b>  
   
-  我感觉到某种“存在”……  |   图片   
- ----  |  ----:   
- **标签：**	[“战斗事件”](tag_FightEvent.md)  |  <img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“战斗事件”](tag_FightEvent.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[蜥蜴皮手鼓](LizardDrum.md)  |  唤灵的节奏  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DrumLizard.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜥蜴皮手鼓](LizardDrum.md)](LizardDrum.md)</td><td  style="text-align:left;vertical-align:top;" >唤灵的节奏</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-使用匕首。<br>  |  15分  |  [仪式匕首](CeremonialDagger.md)存在于手中  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [宿敌来了！(事件)](Event_EnemyFight.md)(+1)<br>  [轻微撕裂伤](W_MinorLaceration.md)(+1)<br>  |    
-我还没准备好<br>  |  -  |    |  ** 自身：**<br>→消失  |  [情绪](Morale.md)-50<br>[宿敌现身](EnemyDefeated.md)-1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用匕首。<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Ceremonial Dagger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[仪式匕首](CeremonialDagger.md)](CeremonialDagger.md)存在于手中</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Enemy.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[宿敌来了！(事件)](Event_EnemyFight.md)](Event_EnemyFight.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LacerationMinor.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[轻微撕裂伤](W_MinorLaceration.md)](W_MinorLaceration.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >我还没准备好<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-50<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HunterProximity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[宿敌现身](EnemyDefeated.md)](EnemyDefeated.md)-1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="我感觉到某种“存在”…… - 卡牌生存百科 Card Survival Wiki";</script>

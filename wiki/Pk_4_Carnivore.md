@@ -1,15 +1,8 @@
 # 肉食主义者  
 > 食用素食会让你恶心抑郁。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  15太阳  
-分数  |  1500  
-初始装备  |  无  
-额外卡牌  |  无  
-初始状态  |  无  
-被动状态  |  无  
-效果  |  [食用蔬菜类动作](VegetarianAction.md): <br>[情绪](Morale.md)-100<br>[恶心](Nausea.md)+24  
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >15☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >1500</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br></td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" >[食用蔬菜类动作(组)](VegetarianAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)+24</td></tr></tbody></table>  
+  
 
 
 <script>document.title="肉食主义者 - 卡牌生存百科 Card Survival Wiki";</script>

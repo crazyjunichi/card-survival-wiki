@@ -1,22 +1,14 @@
 # 一只蜘蛛！  
 > 我踩到了一只蜘蛛！  
   
-  一只蜘蛛！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Spider.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Spider.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林(区域)](Jungle.md)  |  探索  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地丛林(湿地)](Wetlands.md)](Wetlands.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-别想伤到我<br>  |  -  |  [足部防护](FootProtection.md): 4-10  |  ** 自身：**<br>→消失  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 1-3.9  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite]  **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-0  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite]  **<br>  [蜘蛛咬伤](W_SpiderBite.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >别想伤到我<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md): 4-10</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >检查伤口<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md): 1-3.9</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpiderBite.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜘蛛咬伤](W_SpiderBite.md)](W_SpiderBite.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >检查伤口<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Bite]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpiderBite.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜘蛛咬伤](W_SpiderBite.md)](W_SpiderBite.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="一只蜘蛛！ - 卡牌生存百科 Card Survival Wiki";</script>

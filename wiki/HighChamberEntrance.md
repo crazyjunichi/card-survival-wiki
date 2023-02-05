@@ -1,18 +1,14 @@
 # 狭窄通道  
 > 进一步深入洞穴  
   
-  狭窄通道  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[隧道(环境)](Env_Tunnel.md)  |  <img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[隧道(环境)](Env_Tunnel.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[狭窄通道(隧道)](HighChamberEntranceClosed.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveCollapsed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[狭窄通道(隧道)](HighChamberEntranceClosed.md)](HighChamberEntranceClosed.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [洞穴上层(环境)](Env_HighChamber.md)(+1)<br>  [离开(洞穴上层)](HighChamberExit.md)(+1)<br>基础权重：1  |  [在黑暗环境](InDarkPlace.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Exit]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴上层(环境)](Env_HighChamber.md)](Env_HighChamber.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(洞穴上层)](HighChamberExit.md)](HighChamberExit.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[在黑暗环境](InDarkPlace.md)](InDarkPlace.md)+1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="狭窄通道 - 卡牌生存百科 Card Survival Wiki";</script>

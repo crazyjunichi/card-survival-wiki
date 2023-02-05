@@ -3,26 +3,20 @@
 <br>  
 > 糖可以通过简单地煮沸<b>水椰树汁</b>来制成。<br><br>它是一种用途丰富的食物，可以用于多种<b>烹饪食谱</b>或混合制成<b>糖水</b>，可以用来喂养<b>蜜蜂</b>或发酵成<b>糖酒</b>，一种高烈度的酒精饮料。  
   
-  糖水  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[糖](Sugar.md)  |  浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmSugar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[糖](Sugar.md)](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300(-22.32%)  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+24<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+30<br>[腹泻](Diarrhoea.md)+5<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>耐久  -300(-22.32%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+24<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)](SaturationSugar.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：1344<br>最大：1344  |  每15分钟-1<br>最多需要：14天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [糖酒](LQ_SugarWine.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：1344<br>最大：1344</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：14天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖酒](LQ_SugarWine.md)](LQ_SugarWine.md)</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Evaporation  |    |  含水量-1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="糖水 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,4 +1,3 @@
 # “弱效清洁剂”  
-- [水](LQ_Water.md)  
-- [有毒的水](LQ_WaterToxic.md)  
-- [不安全的水](LQ_WaterUnsafe.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[水](LQ_Water.md)](LQ_Water.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[有毒的水](LQ_WaterToxic.md)](LQ_WaterToxic.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[不安全的水](LQ_WaterUnsafe.md)](LQ_WaterUnsafe.md)</div></div>  
+  

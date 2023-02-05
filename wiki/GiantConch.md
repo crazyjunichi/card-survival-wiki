@@ -3,19 +3,14 @@
 <br>  
 >   
   
-  大海螺  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md)  |  <img decoding="async" src="Sprite/Conch.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Conch.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[海(海湾)](Sea_Bay.md)  |  潜水  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(海湾)](Sea_Bay.md)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 获得: **<br>** [Conch]  **<br>  [碎海螺壳](ConchBroken.md)(+3)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >敲碎海螺<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 获得: **<br>** [Conch]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ConchBroken.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[碎海螺壳](ConchBroken.md)](ConchBroken.md)(+3)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="大海螺 - 卡牌生存百科 Card Survival Wiki";</script>

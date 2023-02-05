@@ -1,4 +1,4 @@
-# 休息动作  
+# 休息动作(组)  
 - 小憩 [睡袋](BedRoll.md)  
 - 睡觉 [睡袋](BedRoll.md)  
 - 小憩 [简易床](BedRustic.md)  

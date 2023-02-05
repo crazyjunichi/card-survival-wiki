@@ -3,24 +3,20 @@
 <br>  
 > 对于夜间移动或探索黑暗的山洞，<b>便携式光源</b>是必备物品。<br><br>简易火炬可以用<b>木材、油和布</b>制作。  
   
-  火把  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[光亮](Light.md)+20  |  <img decoding="async" src="Sprite/TorchOn.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)+20</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TorchOn.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[火把(关)](TorchOff.md)  |  点燃<br>** 拖入：**[火种](TinderLit.md) , [营火](Campfire.md) , [火炉](Stove.md) , [烟熏炉](Smoker.md) , [瓦斯炉(开)](GasCookerOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Torch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火把(关)](TorchOff.md)](TorchOff.md)</td><td  style="text-align:left;vertical-align:top;" >点燃<br>** 拖入：**[火种](TinderLit.md) , [营火](Campfire.md) , [火炉](Stove.md) , [烟熏炉](Smoker.md) , [瓦斯炉(开)](GasCookerOn.md) , [燃烧的信号弹(开)](FlareHandOn.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-熄灭<br>  |  -  |    |  ** 自身：**<br>→ [火把(关)](TorchOff.md)<br>燃料  -1(-6.25%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >熄灭<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Torch.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[火把(关)](TorchOff.md)](TorchOff.md)<br>燃料  -1(-6.25%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖至  
-[蜂箱](BeeSkep.md) | [繁殖中的蜂群](BeeSkepSwarming.md) | [蜂巢](Beehive.md) | [纤维](Fibers.md) | [蜜蜂](Bees.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [木屑](WoodShavings.md) | [过路的船只](PassingShip.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蜂箱](BeeSkep.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[繁殖中的蜂群](BeeSkepSwarming.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蜂巢](Beehive.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[纤维](Fibers.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蜜蜂](Bees.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[枯叶](LeavesDry.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[鸟巢](Nest.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[纸](Papers.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[木屑](WoodShavings.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[过路的船只](PassingShip.md)</div></div>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-燃料  |  初始：16<br>最大：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：16<br>最大：16</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：4小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="火把 - 卡牌生存百科 Card Survival Wiki";</script>

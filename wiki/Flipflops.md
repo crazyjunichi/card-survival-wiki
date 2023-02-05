@@ -1,14 +1,11 @@
 # 人字拖  
 > 人字拖！长时间使用后会很不舒服，但至少能提供一些保护。<br><br><b>必须装备在装备栏才能生效</b>  
   
-  人字拖  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**装备时减重：**-150<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**2000<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)<br>[足部损伤](FootDamage.md)加成-1.5<br>[足部防护](FootProtection.md)+4<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/FlipFlops.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**装备时减重：**-150<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**2000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部损伤](FootDamage.md)](FootDamage.md)加成-1.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md)+4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成+0.1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlipFlops.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2000<br>最大：2000  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：2000<br>最大：2000</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="人字拖 - 卡牌生存百科 Card Survival Wiki";</script>

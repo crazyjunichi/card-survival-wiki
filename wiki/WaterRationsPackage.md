@@ -1,22 +1,17 @@
 # 应急水袋  
 > 一袋密封的应急饮用水。  
   
-  应急水袋  |   图片   
- ----  |  ----:   
- **重量：**500<br><br>**可使用次数：**6  |  <img decoding="async" src="Sprite/WaterRationsPackage.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**500<br><br>**可使用次数：**6</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterRationsPackage.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[补给胶囊](TV_SupplyCapsule.md)  |  打开  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style="text-align:left;vertical-align:top;" >打开</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-取出应急水包<br>  |  -  |    |  ** 自身：**<br>使用次数  -1(-16.67%)<br><br>** 获得： **<br>** [Water]  **<br>  [应急水包](WaterRation.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >取出应急水包<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>使用次数  -1(-16.67%)<br><br>** 获得： **<br>** [Water]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterRation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[应急水包](WaterRation.md)](WaterRation.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：6<br>最大：6  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：6<br>最大：6</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="应急水袋 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,23 +1,17 @@
 # 损坏的帆  
 > 我应当修好它。下次在坏之前我应该多加注意。  
   
-  损坏的帆  |   图片   
- ----  |  ----:   
- **可使用次数：**0  |  <img decoding="async" src="Sprite/BrokenSail.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**可使用次数：**0</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrokenSail.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[收起的帆](SailDown_Raft.md)  |  转化  
-[扬起的帆](SailUp_Raft.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailLowered.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[收起的帆](SailDown_Raft.md)](SailDown_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailRaised.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[扬起的帆](SailUp_Raft.md)](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  修理船帆<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)</td><td  style="text-align:left;vertical-align:top;" >修理船帆<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：0<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [收起的帆](SailDown_Raft.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：480</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：5天</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailLowered.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[收起的帆](SailDown_Raft.md)](SailDown_Raft.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="损坏的帆 - 卡牌生存百科 Card Survival Wiki";</script>

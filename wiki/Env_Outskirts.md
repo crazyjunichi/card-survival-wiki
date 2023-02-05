@@ -1,15 +1,11 @@
 # 丛林边缘  
 >   
   
-  丛林边缘  |   图片   
- ----  |  ----:   
- **标签：**	[“干燥环境”](tag_EnvDry.md), [“可能出现海鸥”](tag_Coastal.md), [“西”](tag_West.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[丛林边缘(区域)](Outskirts.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[阳光防护](SunProtection.md)+2<br>[蚊虫数量](BugPopulation.md)+1  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“干燥环境”](tag_EnvDry.md), [“可能出现海鸥”](tag_Coastal.md), [“西”](tag_West.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[丛林边缘](Outskirts.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[雨水防护](RainProtection.md)](RainProtection.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)+1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  |  前往  
-[前往丛林边缘(丛林)](Path_JungleToOutskirts.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)](Path_BeachToOutskirts.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林边缘(丛林)](Path_JungleToOutskirts.md)](Path_JungleToOutskirts.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 
 
 <script>document.title="丛林边缘 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,17 +1,11 @@
 # 东部高地  
 > 山地偏干燥干旱的一边。  
   
-  东部高地  |   图片   
- ----  |  ----:   
- **标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“西”](tag_West.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[东部高地(区域)](HighlandsEastern.md)<br><br>** 效果: **<br>[绝热](InsulationHeat.md)<br>[蚊虫数量](BugPopulation.md)+1  |  <img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“西”](tag_West.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[东部高地](HighlandsEastern.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)+1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[离开(隧道)](TunnelExit.md)  |  离开  
-[前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)  |  前往  
-[前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)  |  前往  
-[前往东部高地(火山)](Path_VolcanoToHighlandsE.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveExit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(隧道)](TunnelExit.md)](TunnelExit.md)</td><td  style="text-align:left;vertical-align:top;" >离开</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往东部高地(东部草原)](Path_GrasslandsEToHighlandsE.md)](Path_GrasslandsEToHighlandsE.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往东部高地(西部高地)](Path_HighlandsWToHighlandsE.md)](Path_HighlandsWToHighlandsE.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往东部高地(火山)](Path_VolcanoToHighlandsE.md)](Path_VolcanoToHighlandsE.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 
 
 <script>document.title="东部高地 - 卡牌生存百科 Card Survival Wiki";</script>

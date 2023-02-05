@@ -3,15 +3,11 @@
 #### ** 变化范围: ** 0 ~ 3  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 1  |  Travel Modifier 1  |    |    |  [旅行动作](TravelAction.md): <br>[耐力](Stamina.md)+2 (每15分钟)<br>时间-1  
-2 ～ 2  |  Travel Modifier 2  |    |    |  [旅行动作](TravelAction.md): <br>[耐力](Stamina.md)+4 (每15分钟)<br>时间-2  
-3 ～ 3  |  Leg Modifier 3  |    |    |  [旅行动作](TravelAction.md): <br>[耐力](Stamina.md)+8 (每15分钟)<br>时间-3  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" >Travel Modifier 1</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[旅行动作(组)](TravelAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+2 (每15分钟)<br>时间-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2 ～ 2</td><td  style="text-align:left;vertical-align:top;" >Travel Modifier 2</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[旅行动作(组)](TravelAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+4 (每15分钟)<br>时间-2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3 ～ 3</td><td  style="text-align:left;vertical-align:top;" >Leg Modifier 3</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[旅行动作(组)](TravelAction.md): <br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+8 (每15分钟)<br>时间-3</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[小径](Imp_Path.md)  |  被动  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小径](Imp_Path.md)](Imp_Path.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="旅行加速 - 卡牌生存百科 Card Survival Wiki";</script>

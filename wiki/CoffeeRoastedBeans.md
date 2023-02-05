@@ -3,22 +3,14 @@
 <br>  
 > 世界上最受欢迎的饮料！<br><br><b>咖啡植株</b>可以在<b>丛林高地</b>中找到，也可以在农田中种植。<br><br>收获它们的<b>浆果</b>并从中提取<b>咖啡豆</b>。<br>然后，直接在火上<b>烘烤咖啡豆</b>，然后<b>将它们浸泡在开水中</b>，为自己冲泡一些香浓又提神的<b>咖啡</b>。  
   
-  烤咖啡豆  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CoffeeBeansRoasted.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeansRoasted.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[咖啡豆](CoffeeBeans.md) , [营火](Campfire.md)  |  咖啡  
-[咖啡豆](CoffeeBeans.md) , [粘土火盆](ClayFirePit.md)  |  咖啡  
-[咖啡豆](CoffeeBeans.md) , [火堆](Fire.md)  |  咖啡  
-[咖啡豆](CoffeeBeans.md) , [瓦斯炉(开)](GasCookerOn.md)  |  咖啡  
-[咖啡豆](CoffeeBeans.md) , [火炉](Stove.md)  |  咖啡  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeans.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[咖啡豆](CoffeeBeans.md)](CoffeeBeans.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Campfire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[营火](Campfire.md)](Campfire.md)</td><td  style="text-align:left;vertical-align:top;" >咖啡</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeans.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[咖啡豆](CoffeeBeans.md)](CoffeeBeans.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayFirePit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土火盆](ClayFirePit.md)](ClayFirePit.md)</td><td  style="text-align:left;vertical-align:top;" >咖啡</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeans.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[咖啡豆](CoffeeBeans.md)](CoffeeBeans.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火堆](Fire.md)](Fire.md)</td><td  style="text-align:left;vertical-align:top;" >咖啡</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeans.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[咖啡豆](CoffeeBeans.md)](CoffeeBeans.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GasCookerOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[瓦斯炉(开)](GasCookerOn.md)](GasCookerOn.md)</td><td  style="text-align:left;vertical-align:top;" >咖啡</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoffeeBeans.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[咖啡豆](CoffeeBeans.md)](CoffeeBeans.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火炉](Stove.md)](Stove.md)</td><td  style="text-align:left;vertical-align:top;" >咖啡</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[开水](LQ_WaterBoiling.md)  |  制作咖啡<br>  |  -  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>→ [咖啡](LQ_Coffee.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[开水](LQ_WaterBoiling.md)](LQ_WaterBoiling.md)</td><td  style="text-align:left;vertical-align:top;" >制作咖啡<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[咖啡](LQ_Coffee.md)](LQ_Coffee.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="烤咖啡豆 - 卡牌生存百科 Card Survival Wiki";</script>

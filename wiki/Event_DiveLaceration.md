@@ -1,18 +1,14 @@
 # 啊！  
 > 你在探索沉船时割伤了自己！  
   
-  啊！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Shipwreck.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shipwreck.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[沉船(鸟岩岛)](Shipwreck.md)  |  探索沉船  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shipwreck.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沉船(鸟岩岛)](Shipwreck.md)](Shipwreck.md)</td><td  style="text-align:left;vertical-align:top;" >探索沉船</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Arm Laceration R]  **<br>  [右臂撕裂伤](W_ArmLacerationR.md)(+1)<br>基础权重：0<br>** [Arm Laceration L]  **<br>  [左臂撕裂伤](W_ArmLacerationL.md)(+1)<br>基础权重：0<br>** [Leg Laceration R]  **<br>  [右腿撕裂伤](W_LegLacerationR.md)(+1)<br>基础权重：0<br>** [Leg Laceration L]  **<br>  [左腿撕裂伤](W_LegLacerationL.md)(+1)<br>基础权重：0<br>** [Minor Laceration]  **<br>  [轻微撕裂伤](W_MinorLaceration.md)(+1)<br>基础权重：10<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >真他妈不错<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Arm Laceration R]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[右臂撕裂伤](W_ArmLacerationR.md)](W_ArmLacerationR.md)(+1)<br>基础权重：0<br>** [Arm Laceration L]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[左臂撕裂伤](W_ArmLacerationL.md)](W_ArmLacerationL.md)(+1)<br>基础权重：0<br>** [Leg Laceration R]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[右腿撕裂伤](W_LegLacerationR.md)](W_LegLacerationR.md)(+1)<br>基础权重：0<br>** [Leg Laceration L]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[左腿撕裂伤](W_LegLacerationL.md)](W_LegLacerationL.md)(+1)<br>基础权重：0<br>** [Minor Laceration]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LacerationMinor.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[轻微撕裂伤](W_MinorLaceration.md)](W_MinorLaceration.md)(+1)<br>基础权重：10<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="啊！ - 卡牌生存百科 Card Survival Wiki";</script>

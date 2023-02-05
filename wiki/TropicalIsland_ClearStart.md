@@ -3,23 +3,17 @@
 <br>  
 > 了解岛上的天气对生存至关重要。<br>晴天有较高的<b>气温和日照强度</b>，而阴天则相反。<br><br><b>雨水</b>是饮用水的主要来源，所以每当下雨时都应该尽可能多收集雨水。<b>椰子壳</b>和其他<b>容器</b>都应该装满至最大容量。<br><br>岛上有3种<b>季节</b>，每种持续30天左右。第一种是<b>均衡季</b>，有雨天和晴天。第二种是<b>雨季</b>，有持续的降雨和危险的<b>暴风雨</b>，可能对沿海地区造成破坏。第三个是<b>旱季</b>，温度较高且几乎没有降雨。再之后循环往复。  
   
-  晴朗  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md), [“开阔的天空”](tag_OpenSky.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+35<br>[阳光强度](SunStrength.md)+6<br>[降水值](RainValue.md)  |  <img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md), [“开阔的天空”](tag_OpenSky.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+35<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光强度](SunStrength.md)](SunStrength.md)+6<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[大雨](TropicalIsland_HeavyRainLong.md)  |  转化  
-[大雨](TropicalIsland_HeavyRainStart.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[大雨](TropicalIsland_HeavyRainLong.md)](TropicalIsland_HeavyRainLong.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[大雨](TropicalIsland_HeavyRainStart.md)](TropicalIsland_HeavyRainStart.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：48  |  每15分钟-1<br>最多需要：12小时  |  ** 到达0时： **<br>** [Cloudy]  **<br>  [阴天](TropicalIsland_CloudyStart.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：48</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：12小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [Cloudy]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[阴天](TropicalIsland_CloudyStart.md)](TropicalIsland_CloudyStart.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 1-1  |  → [平静](OpenSea_Calm.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 1-1</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[平静](OpenSea_Calm.md)](OpenSea_Calm.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="晴朗 - 卡牌生存百科 Card Survival Wiki";</script>

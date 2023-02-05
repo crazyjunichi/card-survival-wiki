@@ -1,16 +1,11 @@
 # 鸟岩岛  
 >   
   
-  鸟岩岛  |   图片   
- ----  |  ----:   
- **标签：**	[“可能出现海鸥”](tag_Coastal.md), [“西”](tag_West.md), [“干燥环境”](tag_EnvDry.md), [“贫瘠环境”](tag_EnvInfertile.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[鸟岩岛(区域)](BirdRock.md), [海(鸟岩岛)](Sea_Rocks.md)<br><br>** 效果: **<br>[光亮](Light.md)+10<br>[体感温度](TemperaturePerceived.md)-5<br>[内陆恐惧症](LandSickness.md)加成-8  |  <img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“可能出现海鸥”](tag_Coastal.md), [“西”](tag_West.md), [“干燥环境”](tag_EnvDry.md), [“贫瘠环境”](tag_EnvInfertile.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[鸟岩岛](BirdRock.md), [海(鸟岩岛)](Sea_Rocks.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)-5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[内陆恐惧症](LandSickness.md)](LandSickness.md)加成-8</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)  |  游泳  
-[鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)  |  游泳  
-[鸟岩岛](Path_RocksToBirdRock.md)  |  游泳  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛(沙滩)](Path_CoveToBirdRock.md)](Path_CoveToBirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >游泳</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛(荒芜沙滩)](Path_DesolateBeachToBirdRock.md)](Path_DesolateBeachToBirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >游泳</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BirdRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛](Path_RocksToBirdRock.md)](Path_RocksToBirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >游泳</td></tr></tbody></table>  
+  
 
 
 <script>document.title="鸟岩岛 - 卡牌生存百科 Card Survival Wiki";</script>

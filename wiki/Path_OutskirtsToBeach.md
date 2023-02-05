@@ -1,19 +1,14 @@
 # 沙滩  
 > 它将引我前往沙滩。<br><br><b>（只有手牌可以带走）</b>  
   
-  沙滩  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[丛林边缘(环境)](Env_Outskirts.md)  |  <img decoding="async" src="Sprite/PathOutskirtToBeach.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[丛林边缘(环境)](Env_Outskirts.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PathOutskirtToBeach.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[沙滩(事件)](Event_BeachFoundFromOutskirts.md)  |  继续  
-[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩(事件)](Event_BeachFoundFromOutskirts.md)](Event_BeachFoundFromOutskirts.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)](Path_BeachToOutskirts.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[探索动作](SlipperyAction.md)<br>[旅行动作](TravelAction.md)  |  -  |    |  ** 获得： **<br>** [Environment]  **<br>  [沙滩(环境)](Env_Beach.md)(+1)<br>  [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-4<br>[压力](Stress.md)-10  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >前往<br>[腿部动作(组)](LegAction.md)<br>[探索动作(组)](SlipperyAction.md)<br>[旅行动作(组)](TravelAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Environment]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BigIsland.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩(环境)](Env_Beach.md)](Env_Beach.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)](Path_BeachToOutskirts.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部损伤](FootDamage.md)](FootDamage.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td></tr></tbody></table>  
+  
 
 
 <script>document.title="沙滩 - 卡牌生存百科 Card Survival Wiki";</script>

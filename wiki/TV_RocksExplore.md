@@ -3,21 +3,14 @@
 #### ** 变化范围: ** 0 ~ 20  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[鸟岩岛(区域)](BirdRock.md)  |  探索  |  1  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  1  
-[岩滩(区域)](Rocks.md)  |  探索  |  1  
-[补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛](BirdRock.md)](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style="text-align:left;vertical-align:top;" >打开</td><td  style="text-align:left;vertical-align:top;" >-20</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[鸟岩岛(区域)](BirdRock.md)  |  影响  |  0 ~ 9  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  0 ~ 9  
-[岩滩(区域)](Rocks.md)  |  影响  |  0 ~ 9  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[鸟岩岛](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[荒芜沙滩](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[岩滩](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr></tbody></table>  
+  
 
 
 <script>document.title="真人秀 石滩 - 探索 - 卡牌生存百科 Card Survival Wiki";</script>

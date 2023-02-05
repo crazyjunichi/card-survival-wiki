@@ -1,22 +1,14 @@
 # 一条海蛇！  
 > 它咬了我！  
   
-  一条海蛇！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/SeaKrait.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SeaKrait.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[红树林(区域)](Mangroves.md)  |  探索  
-[海(海湾)](Sea_Bay.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  
-[海(红树林)](Sea_Mangroves.md)  |  叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mangroves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[红树林](Mangroves.md)](Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(海湾)](Sea_Bay.md)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(红树林)](Sea_Mangroves.md)](Sea_Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >叉鱼<br>** 拖入：**[“一级矛”](tag_Spear.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-别想伤到我<br>  |  -  |  [腿部防护](LegProtection.md): 5-10  |  ** 自身：**<br>→消失  |    
-继续<br>  |  -  |  [腿部防护](LegProtection.md): 1-4.9  |  ** 自身：**<br>→消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  
-继续<br>  |  -  |  [腿部防护](LegProtection.md): 0-0  |  ** 自身：**<br>→消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16<br>[情绪](Morale.md)-50  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >别想伤到我<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腿部防护](LegProtection.md)](LegProtection.md): 5-10</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腿部防护](LegProtection.md)](LegProtection.md): 1-4.9</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[中蛇毒](VenomKraitInjector.md)](VenomKraitInjector.md)+6～+16<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-50</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腿部防护](LegProtection.md)](LegProtection.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[中蛇毒](VenomKraitInjector.md)](VenomKraitInjector.md)+6～+16<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-50</td></tr></tbody></table>  
+  
 
 
 <script>document.title="一条海蛇！ - 卡牌生存百科 Card Survival Wiki";</script>

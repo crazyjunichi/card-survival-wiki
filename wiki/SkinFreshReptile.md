@@ -3,24 +3,17 @@
 <br>  
 > 皮革可以通过剥大型动物（如野猪、山羊或巨蜥）的皮获得。<br>在能使用之前，新鲜兽皮需要用切割工具剔除残留的肉后晾干一段时间。  
   
-  蜥蜴生皮  |   图片   
- ----  |  ----:   
- **重量：**250  |  <img decoding="async" src="Sprite/ReptileHideRaw.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**250</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ReptileHideRaw.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[巨蜥尸体](MonitorCarcass.md)  |  剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)  
-[巨蜥尸体](MonitorCarcass.md)  |  剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorCarcass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥尸体](MonitorCarcass.md)](MonitorCarcass.md)</td><td  style="text-align:left;vertical-align:top;" >剥皮<br>** 拖入：**[黑曜石刀](KnifeObsidian.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorCarcass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥尸体](MonitorCarcass.md)](MonitorCarcass.md)</td><td  style="text-align:left;vertical-align:top;" >剥皮<br>** 拖入：**[“切割工具”](tag_Cutter.md)</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[黑曜石刀](KnifeObsidian.md)  |  刮皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  45分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [刮净的蜥蜴皮](SkinFleshedReptile.md)<br><br>** 使用物: **<br>可用次数  -1  |    
-[“切割工具”](tag_Cutter.md)  |  刮皮<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  1小时  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [刮净的蜥蜴皮](SkinFleshedReptile.md)<br><br>** 使用物: **<br>可用次数  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ObsidianKnife.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黑曜石刀](KnifeObsidian.md)](KnifeObsidian.md)</td><td  style="text-align:left;vertical-align:top;" >刮皮<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >45分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ReptileHideFleshed.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[刮净的蜥蜴皮](SkinFleshedReptile.md)](SkinFleshedReptile.md)<br><br>** 使用物: **<br>可用次数  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“切割工具”](tag_Cutter.md)</td><td  style="text-align:left;vertical-align:top;" >刮皮<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ReptileHideFleshed.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[刮净的蜥蜴皮](SkinFleshedReptile.md)](SkinFleshedReptile.md)<br><br>** 使用物: **<br>可用次数  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：384  |  每15分钟-1<br>最多需要：4天  |  ** 到达0时：皮腐烂了 **<br><br>** 自身 **<br>→ [腐烂物](RottenRemains.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：384</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：4天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时：皮腐烂了 **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="蜥蜴生皮 - 卡牌生存百科 Card Survival Wiki";</script>

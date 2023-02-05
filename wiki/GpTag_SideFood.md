@@ -1,5 +1,3 @@
 # 配菜(组)  
-- [煮熟的参薯](YamBoiled.md)  
-- [马勃菌](Puffballs.md)  
-- [稻米](RiceGrains.md)  
-- [米饭](RiceCooked.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/YamBoiled.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[煮熟的参薯](YamBoiled.md)](YamBoiled.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Puffballs.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[马勃菌](Puffballs.md)](Puffballs.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rice.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[稻米](RiceGrains.md)](RiceGrains.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RiceCooked.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[米饭](RiceCooked.md)](RiceCooked.md)</div></div>  
+  

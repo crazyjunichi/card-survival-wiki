@@ -1,6 +1,3 @@
 # “大衣”  
-名称  |  可使用次数  
-----  |  ----  
-[防蜂服](BeeSuit.md)  |  2400  
-[雨衣](Raincoat.md)  |  2400  
-[蓑衣](StrawCape.md)  |  2400  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服](BeeSuit.md)](BeeSuit.md)</td><td  style="text-align:left;vertical-align:top;" >2400</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raincoat.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[雨衣](Raincoat.md)](Raincoat.md)</td><td  style="text-align:left;vertical-align:top;" >2400</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StrawCape.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蓑衣](StrawCape.md)](StrawCape.md)</td><td  style="text-align:left;vertical-align:top;" >2400</td></tr></tbody></table>  
+  

@@ -1,15 +1,8 @@
 # 真人秀游戏  
 > 你有三条命，在时间结束前找到全部8个空投胶囊。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  3月亮  
-分数  |  4000  
-初始装备  |  [项圈](CollarTV.md)  
-额外卡牌  |  [表演开始！(事件)](Event_TVIntro.md)  
-初始状态  |  [真人秀直播](TV_Lives.md)-1  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >3🌙</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >4000</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Collar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[项圈](CollarTV.md)](CollarTV.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BigIsland.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[表演开始！(事件)](Event_TVIntro.md)](Event_TVIntro.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Health.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[真人秀直播](TV_Lives.md)](TV_Lives.md)-1</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="真人秀游戏 - 卡牌生存百科 Card Survival Wiki";</script>

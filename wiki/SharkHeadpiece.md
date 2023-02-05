@@ -1,26 +1,20 @@
 # 鲨鱼头饰  
 > 蕴含着鲨鱼灵魂的头饰。它会让我在战斗中更强大。<br><br><b>必须装备在装备栏才能生效</b>  
   
-  鲨鱼头饰  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**2880<br><br>** 效果: **<br>[矛战(技能)](Skill_SpearFighting.md)+5<br>[叉鱼(技能)](Skill_SpearFishing.md)+5  |  <img decoding="async" src="Sprite/SharkHeadpiece.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“面部”](tag_Mask.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“面部装备”](eTag_Mask.md)<br><br>**可使用次数：**2880<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearStone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[矛战(技能)](Skill_SpearFighting.md)](Skill_SpearFighting.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearFishing.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[叉鱼(技能)](Skill_SpearFishing.md)](Skill_SpearFishing.md)+5</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SharkHeadpiece.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SharkHeadpiece.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鲨鱼头饰(蓝图)](Bp_SharkHeadpiece.md)](Bp_SharkHeadpiece.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  15分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [1]  **<br>  [鲨鱼下颚](SharkJaws.md)(+1)<br>  [羽毛](Feathers.md)(+3)<br>  [细线](CordFiber.md)(+2)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [1]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SharkJaws.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鲨鱼下颚](SharkJaws.md)](SharkJaws.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[羽毛](Feathers.md)](Feathers.md)(+3)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(27.78%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“针线”](tag_ThreadedNeedle.md)</td><td  style="text-align:left;vertical-align:top;" >修复<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +800(27.78%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2880<br>最大：2880  |  -  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：2880<br>最大：2880</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="鲨鱼头饰 - 卡牌生存百科 Card Survival Wiki";</script>

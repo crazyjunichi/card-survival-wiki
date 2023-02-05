@@ -1,14 +1,11 @@
 # 骷髅  
 > 某人的遗体。我不会也以这样的方式结束吧。  
   
-  骷髅  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[坑洞(环境)](Env_HighlandHole.md)  |  <img decoding="async" src="Sprite/Skeleton.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[坑洞(环境)](Env_HighlandHole.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Skeleton.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [头骨](Skull.md)(+1)<br>  [骨头](Bones.md)(+2)<br>  [布](Cloth.md)(+2)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >采集<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Skull.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[头骨](Skull.md)](Skull.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HumanBones.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[骨头](Bones.md)](Bones.md)(+2)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cloth.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[布](Cloth.md)](Cloth.md)(+2)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="骷髅 - 卡牌生存百科 Card Survival Wiki";</script>

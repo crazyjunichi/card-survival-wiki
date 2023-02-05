@@ -1,18 +1,14 @@
 # 坑洞  
 > 一个危险的坑洞，不过下面好像有什么东西，也许我可以栓几根绳子爬下去？  
   
-  坑洞  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[西部高地(环境)](Env_HighlandsWestern.md)  |  <img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[西部高地(环境)](Env_HighlandsWestern.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HoleDown.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[绳子](Rope.md)  |  系上绳子<br>  |  15分  |    |  ** 自身: **<br>进度  +1(33.33%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[绳子](Rope.md)](Rope.md)</td><td  style="text-align:left;vertical-align:top;" >系上绳子<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>进度  +1(33.33%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [坑洞(西部高地)](HighlandHoleEntrance.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进度</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：3</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HoleDownRope.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[坑洞(西部高地)](HighlandHoleEntrance.md)](HighlandHoleEntrance.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="坑洞 - 卡牌生存百科 Card Survival Wiki";</script>

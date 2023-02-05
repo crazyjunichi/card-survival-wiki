@@ -1,4 +1,4 @@
-# 食用蔬菜类动作  
+# 食用蔬菜类动作(组)  
 - 食用 [芦荟膏](AloeVeraGel.md)  
 - 食用 [杂菌](AssortedMushrooms.md)  
 - 食用 [香蕉](Banana.md)  

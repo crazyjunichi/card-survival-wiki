@@ -3,28 +3,20 @@
 <br>  
 > 一道非常可口的美食，由<b>牡蛎、黄油和柠檬草</b>烹饪而成。<br>只有达到非常高的<b>烹饪技能</b>才能烹饪。  
   
-  黄油焗牡蛎  |   图片   
- ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“人类食物”](tag_HumanFood.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md) , [营火](Campfire.md)  |  黄油焗牡蛎  
-[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md) , [粘土火盆](ClayFirePit.md)  |  黄油焗牡蛎  
-[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md) , [火堆](Fire.md)  |  黄油焗牡蛎  
-[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md) , [瓦斯炉(开)](GasCookerOn.md)  |  黄油焗牡蛎  
-[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md) , [火炉](Stove.md)  |  黄油焗牡蛎  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)](ButterBakedOystersUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Campfire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[营火](Campfire.md)](Campfire.md)</td><td  style="text-align:left;vertical-align:top;" >黄油焗牡蛎</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)](ButterBakedOystersUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayFirePit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土火盆](ClayFirePit.md)](ClayFirePit.md)</td><td  style="text-align:left;vertical-align:top;" >黄油焗牡蛎</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)](ButterBakedOystersUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火堆](Fire.md)](Fire.md)</td><td  style="text-align:left;vertical-align:top;" >黄油焗牡蛎</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)](ButterBakedOystersUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GasCookerOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[瓦斯炉(开)](GasCookerOn.md)](GasCookerOn.md)</td><td  style="text-align:left;vertical-align:top;" >黄油焗牡蛎</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未烹饪的黄油牡蛎](ButterBakedOystersUncooked.md)](ButterBakedOystersUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火炉](Stove.md)](Stove.md)</td><td  style="text-align:left;vertical-align:top;" >黄油焗牡蛎</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-取出牡蛎<br>  |  -  |    |  ** 自身：**<br>→ [烹饪锅](CookingPot.md)<br><br>** 获得： **<br>** [Oysters]  **<br>  [黄油焗牡蛎](OysterMeatBaked.md)(+4)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >取出牡蛎<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烹饪锅](CookingPot.md)](CookingPot.md)<br><br>** 获得： **<br>** [Oysters]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ButterBakedOyster.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黄油焗牡蛎](OysterMeatBaked.md)](OysterMeatBaked.md)(+4)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖至  
-[祖父](Grandfather.md) | [祖父(健康)](GrandfatherHealthy.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[祖父](Grandfather.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[祖父(健康)](GrandfatherHealthy.md)</div></div>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [Rot]  **<br>  [腐烂物](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [烹饪锅](CookingPot.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：192</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：2天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [Rot]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烹饪锅](CookingPot.md)](CookingPot.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="黄油焗牡蛎 - 卡牌生存百科 Card Survival Wiki";</script>

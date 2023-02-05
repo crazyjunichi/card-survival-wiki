@@ -3,12 +3,8 @@
 #### ** 变化范围: ** 0 ~ 3000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1000 ～ 1750  |  低密度  |    |  [丛林芒果种群数量](Mango_JunglePop.md)加成+0.25  |    
-1751 ～ 2500  |  高密度  |    |  [丛林芒果种群数量](Mango_JunglePop.md)加成+0.5  |    
-2501 ～ 2999  |  超高密度  |    |  [丛林芒果种群数量](Mango_JunglePop.md)加成+1  |    
-3000 ～ 3000  |  极高密度  |    |  [丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1000 ～ 1750</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林芒果种群数量](Mango_JunglePop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >1751 ～ 2500</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林芒果种群数量](Mango_JunglePop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2501 ～ 2999</td><td  style="text-align:left;vertical-align:top;" >超高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林芒果种群数量](Mango_JunglePop.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3000 ～ 3000</td><td  style="text-align:left;vertical-align:top;" >极高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林高地芒果种群数量](Mango_JungleHighlandsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="丛林芒果种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

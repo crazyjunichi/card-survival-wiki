@@ -3,28 +3,20 @@
 <br>  
 > 当你被困在热带岛屿上时，建造一艘<b>木筏</b>来航行可能是你<b>重返文明社会</b>的唯一机会。<br><br>建造木筏是一个大工程，需要将若干<b>原木</b>用<b>绳子</b>捆绑在一起，还需要将许多<b>皮革</b>用<b>细线</b>缝在一起作为船帆。<br>一旦木筏拥有了基础的框架，你就可以加入很多<b>改进工程</b>。<br><br>同时，木筏本身也只是计划的一半：由于不知道需要多长时间才能到达目的地，你还需要很多的<b>补给</b>。<br><br><b>食物、水、用于修理的细线</b>都是至关重要的。此外，取决于你的航行计划，你还可以带上火盆所需的<b>燃料</b>、<b>捕鱼工具</b>或者一些<b>药品</b>。<br><br>准备越充分越好！一旦开始航行，留意<b>顺风或逆风</b>，张开或合上船帆直到你获得救援。  
   
-  收起的帆  |   图片   
- ----  |  ----:   
- **可使用次数：**480  |  <img decoding="async" src="Sprite/SailLowered.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**可使用次数：**480</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailLowered.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[损坏的帆](SailBroken_Raft.md)  |  转化  
-[扬起的帆](SailUp_Raft.md)  |  收帆  
-[开始冒险](Start_Raft.md)  |  把木筏推下水  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrokenSail.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[损坏的帆](SailBroken_Raft.md)](SailBroken_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailRaised.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[扬起的帆](SailUp_Raft.md)](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >收帆</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[开始冒险](Start_Raft.md)](Start_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >把木筏推下水</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-扬帆<br>  |  -  |    |  ** 自身：**<br>→ [扬起的帆](SailUp_Raft.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >扬帆<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SailRaised.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[扬起的帆](SailUp_Raft.md)](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  修理船帆<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)</td><td  style="text-align:left;vertical-align:top;" >修理船帆<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |  ** 到达0时： **<br><br>** 自身 **<br>→ [损坏的帆](SailBroken_Raft.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：480<br>最大：480</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：5天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrokenSail.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[损坏的帆](SailBroken_Raft.md)](SailBroken_Raft.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="收起的帆 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -5,15 +5,11 @@
 #### ** 变化范围: ** 0 ~ 48  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 24  |  <img decoding="async" src="Sprite/SaturationSago.png" href="a.md" style="max-width:20px;max-height:20px;">轻微米饭效果  |    |  [恶心](Nausea.md)加成-0.25<br>[腹泻](Diarrhoea.md)加成-2  |    
-25 ～ 48  |  <img decoding="async" src="Sprite/SaturationSago.png" href="a.md" style="max-width:20px;max-height:20px;">较高米饭效果  |    |  [恶心](Nausea.md)加成-0.5<br>[腹泻](Diarrhoea.md)加成-4  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 24</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationSago.png" href="a.md" style="max-width:20px;max-height:20px;"></div>轻微米饭效果</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)加成-0.25<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)加成-2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >25 ～ 48</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationSago.png" href="a.md" style="max-width:20px;max-height:20px;"></div>较高米饭效果</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)加成-0.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)加成-4</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[米饭](RiceCooked.md)  |  食用  |  4  
-[米汤](LQ_WaterRice.md)  |  饮用  |  4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RiceCooked.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[米饭](RiceCooked.md)](RiceCooked.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[米汤](LQ_WaterRice.md)](LQ_WaterRice.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >4</td></tr></tbody></table>  
+  
 
 
 <script>document.title="米饭效果 - 卡牌生存百科 Card Survival Wiki";</script>

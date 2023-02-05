@@ -3,26 +3,20 @@
 <br>  
 > 一种好闻的茉莉花香精油，可用于制作<b>香薰蜡烛</b>。<br><br>要制作它，你需要捣碎<b>茉莉花</b>，将其与<b>油</b>混合并煮沸。然后配合脂肪或蜂蜡通过对应的蓝图制作蜡烛。  
   
-  茉莉油混合物  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[捣碎的茉莉花](JasmineFlowersGround.md)  |  浸泡<br>** 拖入：**[油](LQ_Oil.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JasmineFlowers.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[捣碎的茉莉花](JasmineFlowersGround.md)](JasmineFlowersGround.md)</td><td  style="text-align:left;vertical-align:top;" >浸泡<br>** 拖入：**[油](LQ_Oil.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>[食用坚果类动作](NutAction.md)<br>[食用蔬菜类动作](VegetarianAction.md)  |  15分  |    |  ** 自身：**<br>耐久  -250(-8.68%)  |  [水分](Hydration.md)+5<br>[胃](Stomach.md)+45<br>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)+30<br>[腹泻](Diarrhoea.md)+150<br>[恶心](Nausea.md)+75<br>[饱食](Satiation.md)+40<br>[情绪](Morale.md)-10  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br>[食用坚果类动作(组)](NutAction.md)<br>[食用蔬菜类动作(组)](VegetarianAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>耐久  -250(-8.68%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+45<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationCoconuts.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椰子<nobr>厌倦度</nobr>](SaturationCoconuts.md)](SaturationCoconuts.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)+150<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)+75<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+40<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-10</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：2880<br>最大：2880  |  每15分钟-0.5<br>最多需要：60天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：2880<br>最大：2880</td><td  style="text-align:left;vertical-align:top;" >每15分钟-0.5<br>最多需要：60天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Evaporation  |    |  耐久 -0.25(-0.01%)<br>含水量-1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >耐久 -0.25(-0.01%)<br>含水量-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="茉莉油混合物 - 卡牌生存百科 Card Survival Wiki";</script>

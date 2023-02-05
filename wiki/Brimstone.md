@@ -3,20 +3,13 @@
 <br>  
 > 硫磺可以从岛上火山区的有毒<b>喷口</b>中采收，也可以在窑炉上烧制富含硫磺的石头来提取。<br><br>硫磺有多种用途，包括制作<b>治愈凝胶</b>、强力<b>杀虫剂</b>甚至<b>炸药</b>等。  
   
-  硫磺  |   图片   
- ----  |  ----:   
- **重量：**50<br><br>** 效果: **<br>[不适](Discomfort.md)+100  |  <img decoding="async" src="Sprite/Brimstone.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)+100</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Brimstone.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[硫磺石](StoneHeavyBrimstone.md) , [窑炉](Kiln.md)  |  煅烧硫磺石  
-[硫磺石](StoneHeavyBrimstone.md) , [高级窑炉](KilnAdvanced.md)  |  煅烧硫磺石  
-[硫磺喷口(火山)](VentBrimstone.md)  |  采集硫磺<br>** 拖入：**[“锤”](tag_Hammer.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrimstoneHeavyStone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺石](StoneHeavyBrimstone.md)](StoneHeavyBrimstone.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/KilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窑炉](Kiln.md)](Kiln.md)</td><td  style="text-align:left;vertical-align:top;" >煅烧硫磺石</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrimstoneHeavyStone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺石](StoneHeavyBrimstone.md)](StoneHeavyBrimstone.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td><td  style="text-align:left;vertical-align:top;" >煅烧硫磺石</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrimstoneVent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺喷口(火山)](VentBrimstone.md)](VentBrimstone.md)</td><td  style="text-align:left;vertical-align:top;" >采集硫磺<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [硫磺膏(蓝图)](Bp_BrimstoneGel.md)  
-- [硫磺农药(蓝图)](Bp_PesticideBrimstone.md)  
-- [硫酸(蓝图)](Bp_Vitriol.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrimstoneGel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺膏(蓝图)](Bp_BrimstoneGel.md)](Bp_BrimstoneGel.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pesticide.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺农药(蓝图)](Bp_PesticideBrimstone.md)](Bp_PesticideBrimstone.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GlazedVase.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫酸(蓝图)](Bp_Vitriol.md)](Bp_Vitriol.md)</div></div>  
   
   
 

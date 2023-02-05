@@ -3,21 +3,14 @@
 <br>  
 > 一件实用的家具，除了提高舒适度外，还能为你提供<b>手工加成</b>，特别是在搭配桌子之后。<br><br>是一个坐下来休息的好地方。  
   
-  椅子  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>** 不可删除 **<br><br>** 效果: **<br>[舒适度](Comfort.md)+75<br>[工作区](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)  |  <img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>** 不可删除 **<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)+75<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[工作区](Workplace.md)](Workplace.md)+100<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[椅子](Chair.md)  |  放置  
-[椅子(蓝图)](Bp_Chair.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椅子](Chair.md)](Chair.md)</td><td  style="text-align:left;vertical-align:top;" >放置</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椅子(蓝图)](Bp_Chair.md)](Bp_Chair.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-暂候15分钟<br>  |  15分  |    |    |  [耐力](Stamina.md)+15<br>[压力](Stress.md)-12  
-休息1小时<br>  |  1小时  |    |    |  [耐力](Stamina.md)+40<br>[压力](Stress.md)-48<br>[清醒度](Wakefulness.md)+16  
-搬起<br>  |  -  |    |  ** 自身：**<br>→ [椅子](Chair.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >暂候15分钟<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+15<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-12</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >休息1小时<br></td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)+40<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-48<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[清醒度](Wakefulness.md)](Wakefulness.md)+16</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >搬起<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椅子](Chair.md)](Chair.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="椅子 - 卡牌生存百科 Card Survival Wiki";</script>

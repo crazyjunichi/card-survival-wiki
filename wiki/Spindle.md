@@ -3,25 +3,17 @@
 <br>  
 >   
   
-  纺锤  |   图片   
- ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)  |  <img decoding="async" src="Sprite/Spindle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Spindle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[纺锤(蓝图)](Bp_Spindle.md)  |  蓝图制造  
-[缠好的纺锤](SpindleFiber.md)  |  纺细线  
-[缠好的纺锤](SpindleFiber.md)  |  纺线团  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[纺锤(蓝图)](Bp_Spindle.md)](Bp_Spindle.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[缠好的纺锤](SpindleFiber.md)](SpindleFiber.md)</td><td  style="text-align:left;vertical-align:top;" >纺细线</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[缠好的纺锤](SpindleFiber.md)](SpindleFiber.md)</td><td  style="text-align:left;vertical-align:top;" >纺线团</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[纤维](Fibers.md)  |  缠线<br>  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>进度  +1(33.33%)<br><br>** 使用物: **<br>→消失  |    
-[线团](YarnFiber.md)  |  缠线<br>  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [缠好的纺锤](SpindleFiber.md)<br>进度  +3(100%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FiberBark.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[纤维](Fibers.md)](Fibers.md)</td><td  style="text-align:left;vertical-align:top;" >缠线<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>进度  +1(33.33%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Yarn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[线团](YarnFiber.md)](YarnFiber.md)</td><td  style="text-align:left;vertical-align:top;" >缠线<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[缠好的纺锤](SpindleFiber.md)](SpindleFiber.md)<br>进度  +3(100%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：3  |  -  |  ** 到达上限时：纤维就绪 **<br><br>** 自身 **<br>→ [缠好的纺锤](SpindleFiber.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进度</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：3</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时：纤维就绪 **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpindledCord.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[缠好的纺锤](SpindleFiber.md)](SpindleFiber.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="纺锤 - 卡牌生存百科 Card Survival Wiki";</script>

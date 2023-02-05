@@ -3,24 +3,16 @@
 #### ** 变化范围: ** 0 ~ 6000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1000 ～ 2000  |  低密度  |    |  [丛林参薯种群数量](Yam_JunglePop.md)加成+0.25  |    
-2001 ～ 4000  |  中等密度  |    |  [丛林参薯种群数量](Yam_JunglePop.md)加成+0.5  |    
-4001 ～ 5999  |  高密度  |    |  [丛林参薯种群数量](Yam_JunglePop.md)加成+0.75  |    
-6000 ～ 6000  |  极高密度  |    |  [湿地参薯种群数量](Yam_WetlandsPop.md)加成+0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1000 ～ 2000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林参薯种群数量](Yam_JunglePop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >2001 ～ 4000</td><td  style="text-align:left;vertical-align:top;" >中等密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林参薯种群数量](Yam_JunglePop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >4001 ～ 5999</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林参薯种群数量](Yam_JunglePop.md)加成+0.75</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >6000 ～ 6000</td><td  style="text-align:left;vertical-align:top;" >极高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[湿地参薯种群数量](Yam_WetlandsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [湿地参薯种群数量](Yam_WetlandsPop.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  探索  |  -1000  
-[丛林(区域)](Jungle.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  影响  |  1000 ~ 6000  
-[丛林(区域)](Jungle.md)  |  影响  |  1000 ~ 6000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[丛林深处](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[丛林](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="丛林参薯种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

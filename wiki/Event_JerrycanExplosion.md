@@ -1,22 +1,14 @@
 # <b>砰！！！</b>  
 > 油桶爆炸了！  
   
-  <b>砰！！！</b>  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[装有燃料的油桶](JerrycanFuel.md) , [营火](Campfire.md)  |  加热油桶  
-[装有燃料的油桶](JerrycanFuel.md) , [粘土火盆](ClayFirePit.md)  |  加热油桶  
-[装有燃料的油桶](JerrycanFuel.md) , [火堆](Fire.md)  |  加热油桶  
-[装有燃料的油桶](JerrycanFuel.md) , [瓦斯炉(开)](GasCookerOn.md)  |  加热油桶  
-[装有燃料的油桶](JerrycanFuel.md) , [火炉](Stove.md)  |  加热油桶  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Campfire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[营火](Campfire.md)](Campfire.md)</td><td  style="text-align:left;vertical-align:top;" >加热油桶</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayFirePit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土火盆](ClayFirePit.md)](ClayFirePit.md)</td><td  style="text-align:left;vertical-align:top;" >加热油桶</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火堆](Fire.md)](Fire.md)</td><td  style="text-align:left;vertical-align:top;" >加热油桶</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GasCookerOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[瓦斯炉(开)](GasCookerOn.md)](GasCookerOn.md)</td><td  style="text-align:left;vertical-align:top;" >加热油桶</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火炉](Stove.md)](Stove.md)</td><td  style="text-align:left;vertical-align:top;" >加热油桶</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-它烧起来了！！<br>  |  30分  |    |  ** 自身：**<br>→消失<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [烧伤](Burns.md)+750～+1500  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >它烧起来了！！<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烧伤](Burns.md)](Burns.md)+750～+1500</td></tr></tbody></table>  
+  
 
 
 <script>document.title="<b>砰！！！</b> - 卡牌生存百科 Card Survival Wiki";</script>

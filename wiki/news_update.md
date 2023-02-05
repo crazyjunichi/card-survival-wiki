@@ -1,4 +1,4 @@
-# 游戏版本更新  
+# 游戏更新公告  
 ## Card Survival: Tropical Island - Update 40  
   
 Hello everyone! 
@@ -1712,4 +1712,4 @@ Fixes and Hotfixes for the Update
 - Added woodcutting sounds to environments that were missing it.  
 
 
-<script>document.title="游戏版本更新 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="游戏更新公告 - 卡牌生存百科 Card Survival Wiki";</script>

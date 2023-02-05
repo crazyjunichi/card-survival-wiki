@@ -1,3 +1,3 @@
 # “轻微撕裂伤”  
-- [轻微撕裂伤](W_MinorLaceration.md)  
-- [已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LacerationMinor.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[轻微撕裂伤](W_MinorLaceration.md)](W_MinorLaceration.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LacerationMinorStitched.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[已缝合的轻微撕裂伤](W_MinorLacerationStitched.md)](W_MinorLacerationStitched.md)</div></div>  
+  

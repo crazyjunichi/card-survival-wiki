@@ -1,22 +1,17 @@
 # 军靴  
 > 军用级的靴子。<br><br><b>必须装备在装备栏才能生效</b>  
   
-  军靴  |   图片   
- ----  |  ----:   
- **重量：**250<br><br>**装备时减重：**-225<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**18000<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+3<br>[足部损伤](FootDamage.md)加成-5<br>[足部防护](FootProtection.md)+12<br>[世界观](Structure.md)加成+0.1  |  <img decoding="async" src="Sprite/MilitaryBoots.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**250<br><br>**装备时减重：**-225<br><br>**标签：**	[“左脚（外层）”](tag_OuterFeet.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“鞋子”](eTag_Shoes.md)<br><br>**可使用次数：**18000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部损伤](FootDamage.md)](FootDamage.md)加成-5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md)+12<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成+0.1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MilitaryBoots.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(4.44%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“针线”](tag_ThreadedNeedle.md)</td><td  style="text-align:left;vertical-align:top;" >修复<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +800(4.44%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：18000<br>最大：18000  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：18000<br>最大：18000</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Usage Rate  |    |  使用次数 -1(-0.01%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Usage Rate</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >使用次数 -1(-0.01%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="军靴 - 卡牌生存百科 Card Survival Wiki";</script>

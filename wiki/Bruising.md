@@ -5,19 +5,13 @@
 #### ** 变化范围: ** 0 ~ 400  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 150  |  <img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;">瘀伤  |    |  [疼痛](Pain.md)+50  |    
-151 ～ 400  |  <img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;">严重瘀伤  |  痛……  |  [疼痛](Pain.md)+100  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 150</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;"></div>瘀伤</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[疼痛](Pain.md)](Pain.md)+50</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >151 ～ 400</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;"></div>严重瘀伤</td><td  style="text-align:left;vertical-align:top;" >痛……</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pain.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[疼痛](Pain.md)](Pain.md)+100</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[坠落！(事件)](Event_FallBruise.md)  |  真他妈不错  |  75 ~ 125  
-[啊！(事件)](Event_MacaqueDenFightBadFailure.md)  |  继续  |  50 ~ 300  
-[啊！(事件)](Event_MacaqueDenFightFailedRetreat.md)  |  继续  |  25 ~ 150  
-[我进不去！(事件)](Event_MacaqueDenFightFailure.md)  |  继续  |  0 ~ 200  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherPartiallyCloudy_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[坠落！(事件)](Event_FallBruise.md)](Event_FallBruise.md)</td><td  style="text-align:left;vertical-align:top;" >真他妈不错</td><td  style="text-align:left;vertical-align:top;" >75 ~ 125</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[啊！(事件)](Event_MacaqueDenFightBadFailure.md)](Event_MacaqueDenFightBadFailure.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >50 ~ 300</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[啊！(事件)](Event_MacaqueDenFightFailedRetreat.md)](Event_MacaqueDenFightFailedRetreat.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >25 ~ 150</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[我进不去！(事件)](Event_MacaqueDenFightFailure.md)](Event_MacaqueDenFightFailure.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >0 ~ 200</td></tr></tbody></table>  
+  
 
 
 <script>document.title="淤青 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,24 +3,17 @@
 <br>  
 >   
   
-  风向非常不利  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+22<br>[风](Wind.md)-2<br>[海风程度](SeaAgitation.md)+3<br>[波次](WaveCounter.md)加成-24<br>[阳光强度](SunStrength.md)+4<br>[光亮](Light.md)-10<br>[降水值](RainValue.md)+3  |  <img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+22<br>[风](Wind.md)-2<br>[海风程度](SeaAgitation.md)+3<br>[波次](WaveCounter.md)加成-24<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光强度](SunStrength.md)](SunStrength.md)+4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)+3</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[前有风暴](OpenSea_StormFront.md)  |  转化  
-[风向不利](OpenSea_UnFavourable.md)  |  转化  
-[风向非常不利](OpenSea_VeryUnFavourable.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前有风暴](OpenSea_StormFront.md)](OpenSea_StormFront.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风向不利](OpenSea_UnFavourable.md)](OpenSea_UnFavourable.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风向非常不利](OpenSea_VeryUnFavourable.md)](OpenSea_VeryUnFavourable.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：16  |  每15分钟-1<br>最多需要：4小时  |  ** 到达0时： **<br>** [Fav]  **<br>  [风向不利](OpenSea_UnFavourable.md)(+1)<br>基础权重：1<br>** [Very Fav]  **<br>  [风向非常不利](OpenSea_VeryUnFavourable.md)(+1)<br>基础权重：1<br>** [Storm]  **<br>  [前有风暴](OpenSea_StormFront.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：16</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：4小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [Fav]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风向不利](OpenSea_UnFavourable.md)](OpenSea_UnFavourable.md)(+1)<br>基础权重：1<br>** [Very Fav]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherCloudy_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风向非常不利](OpenSea_VeryUnFavourable.md)](OpenSea_VeryUnFavourable.md)(+1)<br>基础权重：1<br>** [Storm]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前有风暴](OpenSea_StormFront.md)](OpenSea_StormFront.md)(+1)<br>基础权重：1<br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 0-0  |  → [小雨](TropicalIsland_LightRain.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[小雨](TropicalIsland_LightRain.md)](TropicalIsland_LightRain.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="风向非常不利 - 卡牌生存百科 Card Survival Wiki";</script>

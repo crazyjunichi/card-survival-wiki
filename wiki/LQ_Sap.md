@@ -3,34 +3,23 @@
 <br>  
 > 可以使用<b>切割工具或斧子</b>从水椰上切下果实并将任何<b>容器</b>放入其物品栏中来收集树汁。<br><br>随着时间的推移，<b>水椰树汁</b>会逐渐灌入容器。注意不要轻易让树汁暴露在空气中，否则会迅速发酵成<b>棕榈酒</b>。<br><br>水椰树汁也可以熬制成<b>糖</b>，只需要在<b>营火</b>上煮沸即可。  
   
-  水椰树汁  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[水椰树](NipaSapStation.md)  |  水椰树汁  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NipaPalmCleared.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水椰树](NipaSapStation.md)](NipaSapStation.md)</td><td  style="text-align:left;vertical-align:top;" >水椰树汁</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |  ** 自身：**<br>耐久  -300(-3750%)  |  [水分](Hydration.md)+30<br>[胃](Stomach.md)+15<br>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)+15<br>[腹泻](Diarrhoea.md)+10<br>[饱食](Satiation.md)+10<br>[情绪](Morale.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>耐久  -300(-3750%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+15<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)](SaturationSugar.md)+15<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+1</td></tr></tbody></table>  
+  
 ## 可用于转化  
-转化为  |  容器  
-----  |  ----  
-[糖](Sugar.md)  |  [营火](Campfire.md)  
-[糖](Sugar.md)  |  [粘土火盆](ClayFirePit.md)  
-[糖](Sugar.md)  |  [火堆](Fire.md)  
-[糖](Sugar.md)  |  [瓦斯炉(开)](GasCookerOn.md)  
-[糖](Sugar.md)  |  [火炉](Stove.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >转化为</th><th  style="text-align:left;vertical-align:top;" >容器</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[糖](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >[营火](Campfire.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[糖](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >[粘土火盆](ClayFirePit.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[糖](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >[火堆](Fire.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[糖](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >[瓦斯炉(开)](GasCookerOn.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[糖](Sugar.md)</td><td  style="text-align:left;vertical-align:top;" >[火炉](Stove.md)</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：8<br>最大：8  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→ [棕榈酒](LQ_PalmWine.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：8<br>最大：8</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[棕榈酒](LQ_PalmWine.md)](LQ_PalmWine.md)</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Spoilage  |    |  耐久 -1(-12.5%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Spoilage</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >耐久 -1(-12.5%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="水椰树汁 - 卡牌生存百科 Card Survival Wiki";</script>

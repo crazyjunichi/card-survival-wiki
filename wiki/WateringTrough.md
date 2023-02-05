@@ -3,24 +3,17 @@
 <br>  
 > 保障<b>圈养的动物拥有足够的水分</b>非常重要。<br><br>用<b>泥砖和粘土</b>制作水槽是确保它们有水喝的最佳方法。<br><br>水槽也会收集<b>雨水</b>，因此不需要经常手动填充。  
   
-  水槽  |   图片   
- ----  |  ----:   
- **标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**3000<br><br>**减重量：**-3000  |  <img decoding="async" src="Sprite/WateringTroughEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**3000<br><br>**减重量：**-3000</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WateringTroughEmpty.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[水槽(蓝图)](Bp_WateringTrough.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WateringTrough.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水槽(蓝图)](Bp_WateringTrough.md)](Bp_WateringTrough.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  拆除<br>[手部动作](HandAction.md)  |  2小时  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt]  **<br>  [干土堆](DirtPile.md)(+8)<br>  |  [污垢](Filth.md)+30<br>[耐力](Stamina.md)-15<br>[手掌损伤](HandDamage.md)+35  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >拆除<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >2小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DirtPile.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[干土堆](DirtPile.md)](DirtPile.md)(+8)<br></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-15<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+35</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Hydrate Goats  |  ** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)  |  含水量-2  |    
-Hydrate Boars  |  ** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)  |  含水量-2  |    
-Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [水](LQ_Water.md)+50  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Hydrate Goats</td><td  style="text-align:left;vertical-align:top;" >** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)</td><td  style="text-align:left;vertical-align:top;" >含水量-2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >Hydrate Boars</td><td  style="text-align:left;vertical-align:top;" >** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)</td><td  style="text-align:left;vertical-align:top;" >含水量-2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >Rain</td><td  style="text-align:left;vertical-align:top;" >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): 1-5</td><td  style="text-align:left;vertical-align:top;" >[水](LQ_Water.md)+50</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="水槽 - 卡牌生存百科 Card Survival Wiki";</script>

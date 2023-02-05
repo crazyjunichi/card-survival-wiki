@@ -1,5 +1,3 @@
 # 肥皂(组)  
-名称  |  可使用次数  
-----  |  ----  
-[肥皂](SoapDry.md)  |  15  
-[湿肥皂](SoapWet.md)  |  15  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SoapDry.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[肥皂](SoapDry.md)](SoapDry.md)</td><td  style="text-align:left;vertical-align:top;" >15</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SoapWet.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿肥皂](SoapWet.md)](SoapWet.md)</td><td  style="text-align:left;vertical-align:top;" >15</td></tr></tbody></table>  
+  

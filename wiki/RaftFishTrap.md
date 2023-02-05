@@ -3,26 +3,20 @@
 <br>  
 >   
   
-  捕捞拖网  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**3<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)<br><br>**可使用次数：**480  |  <img decoding="async" src="Sprite/RaftFishTrap.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>** 不可堆叠 **<br><br>**槽位：**3<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md)<br><br>**可使用次数：**480</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RaftFishTrap.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[捕捞拖网(蓝图)](Bp_RaftFishTrap.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RaftFishTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[捕捞拖网(蓝图)](Bp_RaftFishTrap.md)](Bp_RaftFishTrap.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[细线](CordFiber.md)  |  修理<br>  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)</td><td  style="text-align:left;vertical-align:top;" >修理<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +96(20%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 转化  
-放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-  |  捕捉猎物  |  1天1小时 ～ 3天3小时  |    |  ** [Fail]  **<br>基础权重：50<li>[陷阱(技能)](Skill_Trapping.md)为0～150时权重+0～-20</li><br>** [Bonefish]  **<br>  [北梭鱼](Bonefish.md)(+1)<br>基础权重：10<br>** [Herring]  **<br>  [鲱鱼](Herring.md)(+1)<br>基础权重：40  |  [陷阱(技能)](Skill_Trapping.md)+0.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >放入</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >1天1小时 ～ 3天3小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** [Fail]  **<br>基础权重：50<li>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[陷阱(技能)](Skill_Trapping.md)](Skill_Trapping.md)为0～150时权重+0～-20</li><br>** [Bonefish]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bonefish.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[北梭鱼](Bonefish.md)](Bonefish.md)(+1)<br>基础权重：10<br>** [Herring]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Herring.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鲱鱼](Herring.md)](Herring.md)(+1)<br>基础权重：40</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[陷阱(技能)](Skill_Trapping.md)](Skill_Trapping.md)+0.5</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：480<br>最大：480  |  每15分钟-0.5<br>最多需要：10天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：480<br>最大：480</td><td  style="text-align:left;vertical-align:top;" >每15分钟-0.5<br>最多需要：10天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="捕捞拖网 - 卡牌生存百科 Card Survival Wiki";</script>

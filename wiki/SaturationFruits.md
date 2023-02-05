@@ -5,22 +5,16 @@
 #### ** 变化范围: ** 0 ~ 288  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-193 ～ 288  |  <img decoding="async" src="Sprite/SaturationMango.png" href="a.md" style="max-width:20px;max-height:20px;">我讨厌吃水果……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
-97 ～ 192  |  <img decoding="async" src="Sprite/SaturationMango.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃水果了……  |    |  [情绪](Morale.md)加成-0.75  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >193 ～ 288</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationMango.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我讨厌吃水果……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-1.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)加成+1.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >97 ～ 192</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationMango.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我有点厌倦吃水果了……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-0.75</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
-[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成+0.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成-0.5</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[芒果](Mango.md)  |  食用  |  45  
-[野枣](JujubeFruits.md)  |  食用  |  20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MangoFruit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[芒果](Mango.md)](Mango.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >45</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JujubeFruits.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[野枣](JujubeFruits.md)](JujubeFruits.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >20</td></tr></tbody></table>  
+  
 
 
 <script>document.title="水果<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

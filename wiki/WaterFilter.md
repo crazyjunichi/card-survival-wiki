@@ -3,28 +3,20 @@
 <br>  
 > 一种滤水装置，由<b>泥砖</b>制成，并填充<b>木炭</b>以净化<b>脏水</b>。<br><br>滤水器建造完成后，将<b>空储水容器</b>放在里面，并从顶部倒入<b>脏水</b>。<br><br>随着时间的推移，干净的饮用水会滴落到容器中。  
   
-  滤水器  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/WaterFilter.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterFilter.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[滤水器(蓝图)](Bp_WaterFilter.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterFilter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[滤水器(蓝图)](Bp_WaterFilter.md)](Bp_WaterFilter.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  倒入<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">  +300(12.5%)<br><br>** 使用物: **<br>含水量  -300  |    
-[“锤”](tag_Hammer.md)  |  拆除<br>[手部动作](HandAction.md)  |  3小时  |    |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt]  **<br>  [干土堆](DirtPile.md)(+12)<br>  [石头](Stone.md)(+8)<br>  [布](Cloth.md)(+1)<br>  |  [污垢](Filth.md)+35<br>[耐力](Stamina.md)-20<br>[手掌损伤](HandDamage.md)+40  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“灌溉用水”](tag_WaterFresh.md)</td><td  style="text-align:left;vertical-align:top;" >倒入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  +300(12.5%)<br><br>** 使用物: **<br>含水量  -300</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >拆除<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >3小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -2<br><br>** 获得: **<br>** [Dirt]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DirtPile.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[干土堆](DirtPile.md)](DirtPile.md)(+12)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石头](Stone.md)](Stone.md)(+8)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cloth.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[布](Cloth.md)](Cloth.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)+35<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+40</td></tr></tbody></table>  
+  
 ## 转化  
-放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |  含水量  +38  |    
-[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water]  **<br>[水](LQ_Water.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >放入</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“灌溉用水”](tag_WaterFresh.md)</td><td  style="text-align:left;vertical-align:top;" >继续填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量  +38</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“储水容器”](tag_WaterContainer.md)</td><td  style="text-align:left;vertical-align:top;" >开始填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** [water]  **<br>[水](LQ_Water.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2400  |  每15分钟-39<br>最多需要：15小时23分  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：2400</td><td  style="text-align:left;vertical-align:top;" >每15分钟-39<br>最多需要：15小时23分</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="滤水器 - 卡牌生存百科 Card Survival Wiki";</script>

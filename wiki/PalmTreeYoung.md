@@ -3,22 +3,17 @@
 <br>  
 >   
   
-  幼年椰子树  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/SmallPalm.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SmallPalm.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[椰子树田](CropPlotPalmTree.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子树田](CropPlotPalmTree.md)](CropPlotPalmTree.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“斧”](tag_Axe.md)  |  砍树<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [棕榈叶](PalmFronds.md)(+8～+16)<br>  [长木棍](StickLong.md)(+1)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“斧”](tag_Axe.md)</td><td  style="text-align:left;vertical-align:top;" >砍树<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈叶](PalmFronds.md)](PalmFronds.md)(+8～+16)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[长木棍](StickLong.md)](StickLong.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+20</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-进度  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [椰子树(新)](PalmTreeNew.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进度</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：2880</td><td  style="text-align:left;vertical-align:top;" >每15分钟+1<br>最多需要：30天</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmTree.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椰子树](PalmTreeNew.md)](PalmTreeNew.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="幼年椰子树 - 卡牌生存百科 Card Survival Wiki";</script>

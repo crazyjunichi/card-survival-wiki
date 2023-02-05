@@ -1,14 +1,11 @@
 # 草原洞穴  
 > 进入洞穴  
   
-  草原洞穴  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[西部草原(环境)](Env_GrasslandsW.md)  |  <img decoding="async" src="Sprite/GrasslandsCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[西部草原(环境)](Env_GrasslandsW.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GrasslandsCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [洞穴(环境)](Env_CaveGrasslands.md)(+1)<br>  [离开(洞穴)](CaveGrasslandsExit.md)(+1)<br>  [草原洞穴(区域)(洞穴)](CaveGrasslands.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Exit]  **<br>  [洞穴(环境)](Env_CaveGrasslands.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveExit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(洞穴)](CaveGrasslandsExit.md)](CaveGrasslandsExit.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GrasslandsCaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[草原洞穴(洞穴)](CaveGrasslands.md)](CaveGrasslands.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="草原洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

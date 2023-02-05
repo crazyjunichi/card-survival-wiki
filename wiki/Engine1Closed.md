@@ -1,17 +1,14 @@
 # 引擎  
 > 飞机遗留的引擎。我可以用螺丝刀打开它。  
   
-  引擎  |   图片   
- ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[飞机残骸(事件)](Event_PlaneCrashFound.md)  |  继续  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[飞机残骸(事件)](Event_PlaneCrashFound.md)](Event_PlaneCrashFound.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead></tbody></table>  
+  
 
 
 <script>document.title="引擎 - 卡牌生存百科 Card Survival Wiki";</script>

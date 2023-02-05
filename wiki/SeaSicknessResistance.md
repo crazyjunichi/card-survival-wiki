@@ -5,19 +5,13 @@
 #### ** 变化范围: ** 0 ~ 128  
 #### ** 基础变化率: ** -0.15 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 25  |  毫无抵抗力  |    |  [晕船](SeaSickness.md)  |    
-26 ～ 50  |  轻度抗性  |    |  [晕船](SeaSickness.md)加成-0.5  |    
-51 ～ 75  |  中度抗性  |    |  [晕船](SeaSickness.md)加成-1  |    
-76 ～ 100  |  高度抗性  |    |  [晕船](SeaSickness.md)加成-2  |    
-101 ～ 128  |  重度抗性  |    |  [晕船](SeaSickness.md)加成-4  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >0 ～ 25</td><td  style="text-align:left;vertical-align:top;" >毫无抵抗力</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晕船](SeaSickness.md)](SeaSickness.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >26 ～ 50</td><td  style="text-align:left;vertical-align:top;" >轻度抗性</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晕船](SeaSickness.md)](SeaSickness.md)加成-0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >51 ～ 75</td><td  style="text-align:left;vertical-align:top;" >中度抗性</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晕船](SeaSickness.md)](SeaSickness.md)加成-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >76 ～ 100</td><td  style="text-align:left;vertical-align:top;" >高度抗性</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晕船](SeaSickness.md)](SeaSickness.md)加成-2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >101 ～ 128</td><td  style="text-align:left;vertical-align:top;" >重度抗性</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晕船](SeaSickness.md)](SeaSickness.md)加成-4</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [晕船](SeaSickness.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[水手](Pk_4_Sailor.md)  |  特质影响  |  128 ~ 0  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Perk_Sailor.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水手](Pk_4_Sailor.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >128 ~ 0</td></tr></tbody></table>  
+  
 
 
 <script>document.title="航海技术 - 卡牌生存百科 Card Survival Wiki";</script>

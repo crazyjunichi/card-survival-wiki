@@ -1,20 +1,14 @@
 # 一条海蛇！  
 >   
   
-  一条海蛇！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/SeaKrait.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SeaKrait.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[海(海湾)](Sea_Bay.md)  |  潜水  
-[海(红树林)](Sea_Mangroves.md)  |  潜水  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(海湾)](Sea_Bay.md)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(红树林)](Sea_Mangroves.md)](Sea_Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-我躲过去了！<br>  |  -  |  [游泳(技能)](Skill_Swimming.md): 100-150  |  ** 自身：**<br>→消失  |    
-被咬了……<br>  |  -  |  [游泳(技能)](Skill_Swimming.md): 0-99  |  ** 自身：**<br>→消失  |  [中蛇毒](VenomKraitInjector.md)+6～+16  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >我躲过去了！<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Swimming.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[游泳(技能)](Skill_Swimming.md)](Skill_Swimming.md): 100-150</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >被咬了……<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Swimming.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[游泳(技能)](Skill_Swimming.md)](Skill_Swimming.md): 0-99</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CobraSpat.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[中蛇毒](VenomKraitInjector.md)](VenomKraitInjector.md)+6～+16</td></tr></tbody></table>  
+  
 
 
 <script>document.title="一条海蛇！ - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,26 +3,16 @@
 <br>  
 > 布料可以通过在<b>织机</b>上编织细线制成，可以用于许多服装和实用物品。<br>它有4种不同的尺寸：小、普通、大和超大。每种尺寸都可以在<b>织机</b>上撕成更小的片或扩大。<br><br>布料还可以临时制作成<b>绷带</b>以及<b>绑手带或包脚布</b>，帮助你在这些部位免受伤害。<br>大布也可以当做<b>简易防毒面具</b>，对火山的有毒烟雾提供一定的防护效果。<br>  
   
-  超大块布  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**重量：**250  |  <img decoding="async" src="Sprite/ClothVeryLarge.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**重量：**250</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClothVeryLarge.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[吊床](Hammock.md)  |  拆解  
-[织布机](Loom.md)  |  扩大布匹<br>** 拖入：**[大块的布](ClothLarge.md)  
-[防蜂服](BeeSuit.md)  |  拆解  
-[防蜂服](BeeSuit.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HammockHouse.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[吊床](Hammock.md)](Hammock.md)</td><td  style="text-align:left;vertical-align:top;" >拆解</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LoomCloth.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[织布机](Loom.md)](Loom.md)</td><td  style="text-align:left;vertical-align:top;" >扩大布匹<br>** 拖入：**[大块的布](ClothLarge.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服](BeeSuit.md)](BeeSuit.md)</td><td  style="text-align:left;vertical-align:top;" >拆解</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服](BeeSuit.md)](BeeSuit.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [大块的布](ClothLarge.md)<br><br>** 获得： **<br>** [Small Cloth]  **<br>  [布片](ClothSmall.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >撕开布料<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClothLarge.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[大块的布](ClothLarge.md)](ClothLarge.md)<br><br>** 获得： **<br>** [Small Cloth]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClothSmall.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[布片](ClothSmall.md)](ClothSmall.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [木床(蓝图)](Bp_BedWooden.md)  
-- [防蜂服(蓝图)](Bp_BeeSuit.md)  
-- [吊床(蓝图)](Bp_Hammock.md)  
-- [布袋(蓝图)](Bp_Sack.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木床(蓝图)](Bp_BedWooden.md)](Bp_BedWooden.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服(蓝图)](Bp_BeeSuit.md)](Bp_BeeSuit.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hammock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[吊床(蓝图)](Bp_Hammock.md)](Bp_Hammock.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sack.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[布袋(蓝图)](Bp_Sack.md)](Bp_Sack.md)</div></div>  
   
   
 

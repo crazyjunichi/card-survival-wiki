@@ -1,9 +1,7 @@
 # 军用皮带  
 > 可以放置我的枪、刀以及水壶。  
   
-  军用皮带  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>** 不可堆叠 **<br><br>** 装备时等效于拿在手上 **<br><br>**重量：**150<br><br>**装备时减重：**-150<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md), [“高价值物品”](tag_Valuable.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**3<br><br>**过滤器：**[“军用的”](tag_Military.md)<br><br>**容量：**650<br><br>**减重量：**-400  |  <img decoding="async" src="Sprite/BeltMilitary.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>** 不可堆叠 **<br><br>** 装备时等效于拿在手上 **<br><br>**重量：**150<br><br>**装备时减重：**-150<br><br>**标签：**	[“袋子”](tag_Bag.md), [“皮带”](tag_Belt.md), [“高价值物品”](tag_Valuable.md)<br><br>**装备：**[“腰带装备”](eTag_Belt.md)<br><br>**槽位：**3<br><br>**初始卡牌：**[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MilitaryCanteen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水壶](Canteen.md)](Canteen.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MilitaryKnife.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[军刀](KnifeMilitary.md)](KnifeMilitary.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pistol.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[枪](Gun.md)](Gun.md)<br><br>**过滤器：**[“军用的”](tag_Military.md)<br><br>**容量：**650<br><br>**减重量：**-400</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeltMilitary.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 
 

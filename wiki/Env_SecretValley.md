@@ -1,16 +1,11 @@
 # 神秘谷  
 > 郁郁葱葱的绿色山谷，四周是悬崖和丛林。  
   
-  神秘谷  |   图片   
- ----  |  ----:   
- **标签：**	[“肥沃环境”](tag_EnvFertile.md), [“丛林”](tag_Jungle.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[神秘谷(区域)](SecretValley.md)<br><br>** 效果: **<br>[蚊虫数量](BugPopulation.md)+1<br>[光亮](Light.md)+10  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“肥沃环境”](tag_EnvFertile.md), [“丛林”](tag_Jungle.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[神秘谷](SecretValley.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)+10</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[离开(泥屋)](MudHutExitRuins.md)  |  离开  
-[前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)  |  前往  
-[前往山谷悬崖](Path_JungleHighlandsToValley.md)  |  爬下去  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHutExit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(泥屋)](MudHutExitRuins.md)](MudHutExitRuins.md)</td><td  style="text-align:left;vertical-align:top;" >离开</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往神秘谷(丛林深处)](Path_DeepJungleToValley.md)](Path_DeepJungleToValley.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CliffsDown.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往山谷悬崖](Path_JungleHighlandsToValley.md)](Path_JungleHighlandsToValley.md)</td><td  style="text-align:left;vertical-align:top;" >爬下去</td></tr></tbody></table>  
+  
 
 
 <script>document.title="神秘谷 - 卡牌生存百科 Card Survival Wiki";</script>

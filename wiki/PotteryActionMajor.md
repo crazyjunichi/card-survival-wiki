@@ -1,4 +1,4 @@
-# 制陶动作(大)  
+# 制陶动作(大)(组)  
 - 制造蓝图 [蒸馏器(蓝图)](Bp_Alembic.md)  
 - 制造蓝图 [保鲜罐(蓝图)](Bp_ClayPotCooler.md)  
 - 制造蓝图 [陶罐(蓝图)](Bp_ClayVase.md)  

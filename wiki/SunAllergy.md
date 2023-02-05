@@ -3,20 +3,16 @@
 #### ** 变化范围: ** 0 ~ 1000  
 #### ** 基础变化率: ** -200 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-100 ～ 500  |  <img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;">阳光晒伤  |  晒伤好痛！  |  [烧伤](Burns.md)加成+100  |    
-501 ～ 750  |  <img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;">重度太阳晒伤  |  晒伤好疼！超级疼！  |  [烧伤](Burns.md)加成+150  |    
-751 ～ 1000  |  <img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;">极度太阳晒伤  |  晒伤好疼！超级疼！痛死我了！  |  [烧伤](Burns.md)加成+200  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >100 ～ 500</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;"></div>阳光晒伤</td><td  style="text-align:left;vertical-align:top;" >晒伤好痛！</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烧伤](Burns.md)](Burns.md)加成+100</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >501 ～ 750</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;"></div>重度太阳晒伤</td><td  style="text-align:left;vertical-align:top;" >晒伤好疼！超级疼！</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烧伤](Burns.md)](Burns.md)加成+150</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >751 ～ 1000</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sunburn.png" href="a.md" style="max-width:20px;max-height:20px;"></div>极度太阳晒伤</td><td  style="text-align:left;vertical-align:top;" >晒伤好疼！超级疼！痛死我了！</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烧伤](Burns.md)](Burns.md)加成+200</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [阳光辐射](SunExposure.md)  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[紫外线过敏](Pk_3_SunAllergy.md)  |  特质影响  |  加成+100  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[紫外线过敏](Pk_3_SunAllergy.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成+100</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead></tbody></table>  
+  
 
 
 <script>document.title="紫外线过敏 - 卡牌生存百科 Card Survival Wiki";</script>

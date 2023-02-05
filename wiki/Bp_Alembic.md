@@ -1,14 +1,11 @@
 # 蒸馏器  
 > 一个将海水变成淡水的装置。  
   
-  蒸馏器  |   图片   
- ----  |  ----:   
- ** 解锁需求: **<br>[保鲜罐](ClayPotCoolerUndeployed.md)<br><br>** 动作分类: **<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)<br>[制陶动作(大)](PotteryActionMajor.md)  |  <img decoding="async" src="Sprite/Alembic.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁需求: **<br>[保鲜罐](ClayPotCoolerUndeployed.md)<br><br>** 动作分类: **<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)<br>[制陶动作(大)(组)](PotteryActionMajor.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Alembic.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [粘土](Clay.md) x 12 + [抗裂剂(组)](GpTag_Temper.md) x 6 + [盐](Salt.md) x 12  |  2小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+1<br>[压力](Stress.md)-10<br>[情绪](Morale.md)+5  |  [未烧制的蒸馏器](AlembicUnfired.md)(+1)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Clay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土](Clay.md)](Clay.md) x 12 + [抗裂剂(组)](GpTag_Temper.md) x 6 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[盐](Salt.md)](Salt.md) x 12</td><td  style="text-align:left;vertical-align:top;" >2小时</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+5</td><td  style="text-align:left;vertical-align:top;" >[未烧制的蒸馏器](AlembicUnfired.md)(+1)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="蒸馏器 - 卡牌生存百科 Card Survival Wiki";</script>

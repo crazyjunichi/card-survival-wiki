@@ -1,19 +1,14 @@
 # 无人机伤到了我！  
 > 我应该尽早处理伤口……  
   
-  无人机伤到了我！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[无人机开火了！(事件)](Event_DroneFightFailedRetreat.md)  |  继续  
-[胜负参半(事件)](Event_DroneFightMixedSuccess.md)  |  继续  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无人机开火了！(事件)](Event_DroneFightFailedRetreat.md)](Event_DroneFightFailedRetreat.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Drone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胜负参半(事件)](Event_DroneFightMixedSuccess.md)](Event_DroneFightMixedSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-真他妈不错<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Arm Laceration R]  **<br>  [右臂撕裂伤](W_ArmLacerationR.md)(+1)<br>基础权重：2<br>** [Arm Laceration L]  **<br>  [左臂撕裂伤](W_ArmLacerationL.md)(+1)<br>基础权重：2<br>** [Leg Laceration R]  **<br>  [右腿撕裂伤](W_LegLacerationR.md)(+1)<br>基础权重：2<br>** [Leg Laceration L]  **<br>  [左腿撕裂伤](W_LegLacerationL.md)(+1)<br>基础权重：2<br>** [Minor Laceration]  **<br>  [轻微撕裂伤](W_MinorLaceration.md)(+1)<br>基础权重：4<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10  |  [污垢](Filth.md)+30  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >真他妈不错<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Arm Laceration R]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[右臂撕裂伤](W_ArmLacerationR.md)](W_ArmLacerationR.md)(+1)<br>基础权重：2<br>** [Arm Laceration L]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ArmLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[左臂撕裂伤](W_ArmLacerationL.md)](W_ArmLacerationL.md)(+1)<br>基础权重：2<br>** [Leg Laceration R]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[右腿撕裂伤](W_LegLacerationR.md)](W_LegLacerationR.md)(+1)<br>基础权重：2<br>** [Leg Laceration L]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[左腿撕裂伤](W_LegLacerationL.md)](W_LegLacerationL.md)(+1)<br>基础权重：2<br>** [Minor Laceration]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LacerationMinor.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[轻微撕裂伤](W_MinorLaceration.md)](W_MinorLaceration.md)(+1)<br>基础权重：4<br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -10</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)+30</td></tr></tbody></table>  
+  
 
 
 <script>document.title="无人机伤到了我！ - 卡牌生存百科 Card Survival Wiki";</script>

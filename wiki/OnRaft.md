@@ -3,17 +3,11 @@
 #### ** 变化范围: ** 0 ~ 1  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 0  |  在陆地上  |    |    |    
-1 ～ 1  |  在木筏上  |    |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >0 ～ 0</td><td  style="text-align:left;vertical-align:top;" >在陆地上</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" >在木筏上</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[木筏](RaftEntrance.md)  |  上木筏  |  1  
-[木筏(环礁)](RaftEntranceAtoll.md)  |  上木筏  |  1  
-[离开木筏](RaftExit.md)  |  离开木筏  |  -1  
-[离开木筏](RaftExitAtoll.md)  |  离开木筏  |  -1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木筏](RaftEntrance.md)](RaftEntrance.md)</td><td  style="text-align:left;vertical-align:top;" >上木筏</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木筏(环礁)](RaftEntranceAtoll.md)](RaftEntranceAtoll.md)</td><td  style="text-align:left;vertical-align:top;" >上木筏</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开木筏](RaftExit.md)](RaftExit.md)</td><td  style="text-align:left;vertical-align:top;" >离开木筏</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开木筏](RaftExitAtoll.md)](RaftExitAtoll.md)</td><td  style="text-align:left;vertical-align:top;" >离开木筏</td><td  style="text-align:left;vertical-align:top;" >-1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="在木筏上 - 卡牌生存百科 Card Survival Wiki";</script>

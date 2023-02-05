@@ -3,24 +3,17 @@
 <br>  
 > 椰子可以在岛上的大部分<b>海滩</b>上找到，有的在沙滩上，有的需要你爬上或砍倒<b>椰子树</b>获得。<br><br>这些果实极其有用，它们充满<b>营养</b>、富含<b>水分</b>，有可以用来制作<b>细线</b>的外皮，留下的空椰壳甚至可以用作<b>碗或储水容器</b>。  
   
-  半个椰子  |   图片   
- ----  |  ----:   
- **重量：**75<br><br>**标签：**	[“椰子（会腐败）”](tag_CoconutSpoilable.md)  |  <img decoding="async" src="Sprite/CoconutHalf.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**75<br><br>**标签：**	[“椰子（会腐败）”](tag_CoconutSpoilable.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutHalf.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[椰子](Coconut.md)  |  敲开椰子<br>** 拖入：**[“锤”](tag_Hammer.md)  
-[带孔椰子](CoconutPerforated.md)  |  敲开椰子<br>** 拖入：**[“锤”](tag_Hammer.md)  
-[韦斯顿](Weston.md)  |  杀害！<br>** 拖入：**[“锤”](tag_Hammer.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Coconut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子](Coconut.md)](Coconut.md)</td><td  style="text-align:left;vertical-align:top;" >敲开椰子<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Coconut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[带孔椰子](CoconutPerforated.md)](CoconutPerforated.md)</td><td  style="text-align:left;vertical-align:top;" >敲开椰子<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[韦斯顿](Weston.md)](Weston.md)</td><td  style="text-align:left;vertical-align:top;" >杀害！<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-刮椰肉<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身：**<br>→ [椰子壳](CoconutShell.md)<br><br>** 获得： **<br>** [Coconut Meat]  **<br>  [椰肉](CoconutMeat.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >刮椰肉<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutShell.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椰子壳](CoconutShell.md)](CoconutShell.md)<br><br>** 获得： **<br>** [Coconut Meat]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutMeat.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰肉](CoconutMeat.md)](CoconutMeat.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：192<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>** [rot]  **<br>[腐烂物](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [椰子壳](CoconutShell.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：192<br>最大：192</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：2天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [rot]  **<br>[腐烂物](RottenRemains.md)(+1)<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutShell.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[椰子壳](CoconutShell.md)](CoconutShell.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="半个椰子 - 卡牌生存百科 Card Survival Wiki";</script>

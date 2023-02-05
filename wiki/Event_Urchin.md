@@ -1,19 +1,14 @@
 # 海胆！！  
 > 我踩到了一个海胆！  
   
-  海胆！！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/UrchinEvent.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/UrchinEvent.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[岩滩(区域)](Rocks.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-我的鞋子保护了我！<br>  |  -  |  [足部防护](FootProtection.md): 5-10  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Urchin]  **<br>  [海胆](Urchin.md)(+1)<br><br><br>** 相关卡牌 **<br>[“左脚（外层）”](tag_OuterFeet.md)可用次数  -250  |    
-检查伤口<br>  |  -  |  [足部防护](FootProtection.md): 0-4  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Urchin]  **<br>  [海胆刺伤](W_UrchinWoundSpines.md)(+1)<br>  [海胆](Urchin.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >我的鞋子保护了我！<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md): 5-10</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Urchin]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Urchin.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海胆](Urchin.md)](Urchin.md)(+1)<br><br><br>** 相关卡牌 **<br>[“左脚（外层）”](tag_OuterFeet.md)可用次数  -250</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >检查伤口<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部防护](FootProtection.md)](FootProtection.md): 0-4</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Urchin]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/UrchinWoundSpines.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海胆刺伤](W_UrchinWoundSpines.md)](W_UrchinWoundSpines.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Urchin.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海胆](Urchin.md)](Urchin.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="海胆！！ - 卡牌生存百科 Card Survival Wiki";</script>

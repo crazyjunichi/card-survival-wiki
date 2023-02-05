@@ -3,32 +3,23 @@
 <br>  
 > 用<b>长木棍、细线、木材和斧类工具</b>制成。<br><br>一个垃圾箱，可以将有机废物，如<b>树叶、食物或动物粪便</b>扔进去，并随着时间的推移转化为<b>肥料</b>。<br><br>用于种植<b>作物</b>和丢弃不需要的有机物。  
   
-  堆肥箱  |   图片   
- ----  |  ----:   
- **槽位：**4<br><br>** 效果: **<br>[不适](Discomfort.md)+150  |  <img decoding="async" src="Sprite/CompostBin.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**槽位：**4<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)+150</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CompostBin.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[堆肥箱(蓝图)](Bp_CompostBin.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CompostBin.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[堆肥箱(蓝图)](Bp_CompostBin.md)](Bp_CompostBin.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>[手部动作](HandAction.md)  |  2小时  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Results]  **<br>  [木材](Wood.md)(+6)<br>  [细线](CordFiber.md)(+4)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >2小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Results]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Firewood.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木材](Wood.md)](Wood.md)(+6)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+4)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[粪便](Manure.md)<br>[海鸟粪](Guano.md)  |  扔进去<br>  |  -  |    |  ** 自身: **<br>燃料  +96(4.17%)<br><br>** 使用物: **<br>→消失  |    
-[“饲料”](tag_Feed.md)  |  扔进去<br>  |  -  |    |  ** 自身: **<br>燃料  +48(2.08%)<br><br>** 使用物: **<br>→消失  |    
-[纤维](Fibers.md)<br>[椰子皮](CoconutHusk.md)<br>[“树叶”](tag_Leaves.md)  |  扔进去<br>  |  -  |    |  ** 自身: **<br>燃料  +24(1.04%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Manure.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粪便](Manure.md)](Manure.md)<br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Guano.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海鸟粪](Guano.md)](Guano.md)</td><td  style="text-align:left;vertical-align:top;" >扔进去<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>燃料  +96(4.17%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“饲料”](tag_Feed.md)</td><td  style="text-align:left;vertical-align:top;" >扔进去<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>燃料  +48(2.08%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FiberBark.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[纤维](Fibers.md)](Fibers.md)<br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutHusk.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子皮](CoconutHusk.md)](CoconutHusk.md)<br>[“树叶”](tag_Leaves.md)</td><td  style="text-align:left;vertical-align:top;" >扔进去<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>燃料  +24(1.04%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 转化  
-放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-  |  制作肥料  |  1天  |    |  [肥料](Fertilizer.md)(+1)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >放入</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >制作肥料</td><td  style="text-align:left;vertical-align:top;" >1天</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[肥料](Fertilizer.md)(+1)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-燃料  |  初始：0<br>最大：2304  |  每15分钟-2<br>最多需要：12天  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：2304</td><td  style="text-align:left;vertical-align:top;" >每15分钟-2<br>最多需要：12天</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="堆肥箱 - 卡牌生存百科 Card Survival Wiki";</script>

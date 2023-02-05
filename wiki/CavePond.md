@@ -1,14 +1,11 @@
 # 干涸的洞穴水潭  
 > 得等它重新蓄水。  
   
-  干涸的洞穴水潭  |   图片   
- ----  |  ----:   
- **环境：**[潮湿洞穴(环境)](Env_DampChamber.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md)<br><br>**储水量：**2400  |  <img decoding="async" src="Sprite/UnderwaterPondEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**环境：**[潮湿洞穴(环境)](Env_DampChamber.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md)<br><br>**储水量：**2400</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/UnderwaterPondEmpty.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Fill  |    |  [不安全的水](LQ_WaterUnsafe.md)+4<br>含水量+2  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Fill</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[不安全的水](LQ_WaterUnsafe.md)+4<br>含水量+2</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="干涸的洞穴水潭 - 卡牌生存百科 Card Survival Wiki";</script>

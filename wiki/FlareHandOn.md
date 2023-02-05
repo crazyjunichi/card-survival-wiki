@@ -3,20 +3,17 @@
 <br>  
 >   
   
-  燃烧的信号弹  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[光亮](Light.md)+25  |  <img decoding="async" src="Sprite/FlareLit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**标签：**	[“火源”](tag_FireSource.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)+25</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlareLit.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[信号弹](FlareHand.md)  |  点燃信号弹  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Flare.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[信号弹](FlareHand.md)](FlareHand.md)</td><td  style="text-align:left;vertical-align:top;" >点燃信号弹</td></tr></tbody></table>  
+  
 ## 可拖至  
-[纤维](Fibers.md) | [枯叶](LeavesDry.md) | [鸟巢](Nest.md) | [纸](Papers.md) | [熏蜂器(关)](BeeSmokerOff.md) | [香茅蜡烛(关)](CandleCitronellaOff.md) | [茉莉蜡烛(关)](CandleJasmineOff.md) | [蜡烛(关)](CandleOff.md) | [炸药(关)](DynamiteOff.md) | [火把(关)](TorchOff.md) | [木屑](WoodShavings.md) | [过路的船只](PassingShip.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[纤维](Fibers.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[枯叶](LeavesDry.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[鸟巢](Nest.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[纸](Papers.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[熏蜂器(关)](BeeSmokerOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[香茅蜡烛(关)](CandleCitronellaOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[茉莉蜡烛(关)](CandleJasmineOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蜡烛(关)](CandleOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[炸药(关)](DynamiteOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[火把(关)](TorchOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[木屑](WoodShavings.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[过路的船只](PassingShip.md)</div></div>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：8<br>最大：8  |  每15分钟-1<br>最多需要：2小时  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：8<br>最大：8</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：2小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="燃烧的信号弹 - 卡牌生存百科 Card Survival Wiki";</script>

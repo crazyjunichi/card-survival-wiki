@@ -3,17 +3,13 @@
 <br>  
 > 金鸡纳树生长在岛上的<b>丛林</b>和<b>丛林高地</b>。<br><br>它们的树皮经过干燥处理后可以用来制造<b>奎宁</b>，一种治疗和预防<b>疟疾</b>的基本药物。奎宁可以被进一步提炼成一种更有效的药物，称为<b>硫酸奎宁</b>，或用于制作<b>汤力水</b>。  
   
-  干燥的金鸡纳树皮  |   图片   
- ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CinchonaBarkDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**25<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CinchonaBarkDry.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[金鸡纳树皮](BarkCinchona.md) , [晾晒架](DryingRack.md)  |  金鸡纳树皮  
-[金鸡纳树皮](BarkCinchona.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CinchonaBark.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[金鸡纳树皮](BarkCinchona.md)](BarkCinchona.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DryingRack.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[晾晒架](DryingRack.md)](DryingRack.md)</td><td  style="text-align:left;vertical-align:top;" >金鸡纳树皮</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CinchonaBark.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[金鸡纳树皮](BarkCinchona.md)](BarkCinchona.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [金鸡纳树皮粉(蓝图)](Bp_Quinine.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[金鸡纳树皮粉(蓝图)](Bp_Quinine.md)](Bp_Quinine.md)</div></div>  
   
   
 

@@ -3,35 +3,17 @@
 <br>  
 > 一种美丽的贝类，其中的螺肉可以食用。用<b>石头或锤打工具</b>将肉与壳分开。<br><br>螺肉很有弹性，如果<b>先用锤击工具锤软</b>，味道会更好。然后可以将其<b>烹饪或用于食谱</b>。<br><br>贝壳可以用作抗裂剂，制作<b>泥砖和粘土制品</b>，也可以在<b>窑炉</b>内煅烧成<b>生石灰</b>。生石灰在工艺制作中有丰富的运用。  
   
-  海螺  |   图片   
- ----  |  ----:   
- **重量：**50<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)  |  <img decoding="async" src="Sprite/Conch.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50<br><br>**标签：**	[“贝壳”](tag_Seashell.md), [“美丽的/好看的”](tag_Pretty.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Conch.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  
-[环礁(区域)](Atoll.md)  |  探索  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[沙滩(区域)](Beach.md)  |  随便逛逛  
-[鸟岩岛(区域)](BirdRock.md)  |  探索  
-[隐秘港湾(区域)(沙滩)](Cove.md)  |  探索  
-[岩滩(区域)](Rocks.md)  |  探索  
-[海(环礁)](Sea_Atoll.md)  |  潜水  
-[海(海湾)](Sea_Bay.md)  |  潜水  
-[海(沙滩)](Sea_Beach.md)  |  潜水  
-[海(沙滩)](Sea_Cove.md)  |  潜水  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  
-[海(鸟岩岛)](Sea_Rocks.md)  |  潜水  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FloodedChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海水(覆溺洞穴)](Sea_Cave.md)](Sea_Cave.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[环礁](Atoll.md)](Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PointyRock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟岩岛](BirdRock.md)](BirdRock.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cove.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[隐秘港湾(沙滩)](Cove.md)](Cove.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(环礁)](Sea_Atoll.md)](Sea_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(海湾)](Sea_Bay.md)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(沙滩)](Sea_Beach.md)](Sea_Beach.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(沙滩)](Sea_Cove.md)](Sea_Cove.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(荒芜沙滩)](Sea_DesolateBeach.md)](Sea_DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(鸟岩岛)](Sea_Rocks.md)](Sea_Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  敲碎海螺<br>[手部动作](HandAction.md)  |  -  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→ [碎海螺壳](ConchBroken.md)<br><br>** 获得: **<br>** [Conch Meat]  **<br>  [海螺肉](ConchMeat.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >敲碎海螺<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ConchBroken.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[碎海螺壳](ConchBroken.md)](ConchBroken.md)<br><br>** 获得: **<br>** [Conch Meat]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ConchMeat.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海螺肉](ConchMeat.md)](ConchMeat.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可用于转化  
-转化为  |  容器  
-----  |  ----  
-[生石灰](Quicklime.md)  |  [窑炉](Kiln.md)  
-[生石灰](Quicklime.md)  |  [高级窑炉](KilnAdvanced.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >转化为</th><th  style="text-align:left;vertical-align:top;" >容器</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[生石灰](Quicklime.md)</td><td  style="text-align:left;vertical-align:top;" >[窑炉](Kiln.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[生石灰](Quicklime.md)</td><td  style="text-align:left;vertical-align:top;" >[高级窑炉](KilnAdvanced.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="海螺 - 卡牌生存百科 Card Survival Wiki";</script>

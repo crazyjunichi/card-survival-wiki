@@ -3,25 +3,20 @@
 <br>  
 > 由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。  
   
-  灰水  |   图片   
- ----  |  ----:   
- **标签：**	[“水(任意)”](tag_WaterAny.md)  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“水(任意)”](tag_WaterAny.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[灰烬](Ash.md)  |  浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Ash.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[灰烬](Ash.md)](Ash.md)</td><td  style="text-align:left;vertical-align:top;" >浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-饮用<br>  |  -  |    |    |  [水分](Hydration.md)+40<br>[钠](Sodium.md)+75<br>[情绪](Morale.md)-10<br>[恶心](Nausea.md)+50  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >饮用<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+40<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钠](Sodium.md)](Sodium.md)+75<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)+50</td></tr></tbody></table>  
+  
 ## 可拖至  
-[人鱼巢](MermaidNest.md) | [干土堆](DirtPile.md) | [蒸馏器(关)](AlembicOff.md) | [蒸馏器(开)](AlembicOn.md) | [临时防毒面具](MaskMakeshift.md) | [细土](FineDirt.md) | [肥皂](SoapDry.md) | [湿肥皂](SoapWet.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[人鱼巢](MermaidNest.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[干土堆](DirtPile.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蒸馏器(关)](AlembicOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蒸馏器(开)](AlembicOn.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[临时防毒面具](MaskMakeshift.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[细土](FineDirt.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[肥皂](SoapDry.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[湿肥皂](SoapWet.md)</div></div>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Evaporation  |    |  含水量-1  |    
-Evaporation Large  |    |  含水量-3  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >Evaporation Large</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量-3</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="灰水 - 卡牌生存百科 Card Survival Wiki";</script>

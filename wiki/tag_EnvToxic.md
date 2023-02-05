@@ -1,3 +1,3 @@
 # “有毒环境”  
-- [火山(环境)](Env_AcidLake.md)  
-- [火山(环境)](Env_Volcano.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AcidLake.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[火山](Env_AcidLake.md)](Env_AcidLake.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Volcano.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[火山](Env_Volcano.md)](Env_Volcano.md)</div></div>  
+  

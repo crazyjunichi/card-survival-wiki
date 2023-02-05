@@ -3,26 +3,13 @@
 <br>  
 > 木板可以用来制作木质建筑和家具。<br><br>需要一根<b>原木，一把锋利的斧子和一把锋利的小刀</b>来裁制木板。  
   
-  木板  |   图片   
- ----  |  ----:   
- **重量：**200  |  <img decoding="async" src="Sprite/Plank.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**200</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Plank.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[杂菌菌床](MushroomBedAssorted.md)  |  转化  
-[迷幻菇菌床](MushroomBedMagic.md)  |  转化  
-[马勃菌菌床](MushroomBedPuffballs.md)  |  转化  
-[木板(蓝图)](Bp_Planks.md)  |  蓝图制造  
-[书架](Bookshelf.md)  |  拆解  
-[架子](Shelf.md)  |  拆解  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MushroomBedMagic.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[杂菌菌床](MushroomBedAssorted.md)](MushroomBedAssorted.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MushroomBedMagic.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[迷幻菇菌床](MushroomBedMagic.md)](MushroomBedMagic.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MushroomBedPuffballs.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[马勃菌菌床](MushroomBedPuffballs.md)](MushroomBedPuffballs.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Planks.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木板(蓝图)](Bp_Planks.md)](Bp_Planks.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ShelvingUnit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[书架](Bookshelf.md)](Bookshelf.md)</td><td  style="text-align:left;vertical-align:top;" >拆解</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shelf.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[架子](Shelf.md)](Shelf.md)</td><td  style="text-align:left;vertical-align:top;" >拆解</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [木床(蓝图)](Bp_BedWooden.md)  
-- [书架(蓝图)](Bp_Bookshelf.md)  
-- [椅子(蓝图)](Bp_Chair.md)  
-- [菌床(蓝图)](Bp_MushroomBed.md)  
-- [架子(蓝图)](Bp_Shelf.md)  
-- [木桌(蓝图)](Bp_Table.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木床(蓝图)](Bp_BedWooden.md)](Bp_BedWooden.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ShelvingUnit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[书架(蓝图)](Bp_Bookshelf.md)](Bp_Bookshelf.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Chair.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椅子(蓝图)](Bp_Chair.md)](Bp_Chair.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MushroomBed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[菌床(蓝图)](Bp_MushroomBed.md)](Bp_MushroomBed.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shelf.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[架子(蓝图)](Bp_Shelf.md)](Bp_Shelf.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Table.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木桌(蓝图)](Bp_Table.md)](Bp_Table.md)</div></div>  
   
   
 

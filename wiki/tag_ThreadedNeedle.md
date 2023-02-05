@@ -1,4 +1,3 @@
 # “针线”  
-- [针线(骨针)](BoneNeedleThreaded.md)  
-- [针线(铜针)](CopperNeedleThreaded.md)  
-- [针线(木针)](WoodenNeedleThreaded.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ThreadedNeedle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[针线](BoneNeedleThreaded.md)](BoneNeedleThreaded.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ThreadedNeedleCopper.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[针线](CopperNeedleThreaded.md)](CopperNeedleThreaded.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ThreadedNeedleWood.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[针线](WoodenNeedleThreaded.md)](WoodenNeedleThreaded.md)</div></div>  
+  

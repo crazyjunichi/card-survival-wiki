@@ -1,22 +1,17 @@
 # 后有风暴  
 > 下雨了，后有强风。  
   
-  后有风暴  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+18<br>[风](Wind.md)+3<br>[海风程度](SeaAgitation.md)+4<br>[波次](WaveCounter.md)加成+4<br>[降水值](RainValue.md)+5<br>[阳光强度](SunStrength.md)<br>[光亮](Light.md)-10  |  <img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+18<br>[风](Wind.md)+3<br>[海风程度](SeaAgitation.md)+4<br>[波次](WaveCounter.md)加成+4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光强度](SunStrength.md)](SunStrength.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)-10</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[暴风雨](TropicalIsland_StormInfinite.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherStorm_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[暴风雨](TropicalIsland_StormInfinite.md)](TropicalIsland_StormInfinite.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-喝雨水<br>  |  15分  |    |    |  [水分](Hydration.md)+75  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >喝雨水<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+75</td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 0-0  |  → [暴风雨](TropicalIsland_StormInfinite.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 0-0</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherStorm_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[暴风雨](TropicalIsland_StormInfinite.md)](TropicalIsland_StormInfinite.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="后有风暴 - 卡牌生存百科 Card Survival Wiki";</script>

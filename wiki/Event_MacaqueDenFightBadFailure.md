@@ -1,21 +1,14 @@
 # 啊！  
 > 猕猴们击败并伤到了我……  
   
-  啊！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用长矛攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用弓箭攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用枪攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用投石索攻击！  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用长矛攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用弓箭攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用枪攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用投石索攻击！</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Wounds]  **<br>  [猕猴咬伤](W_MacaqueBite.md)(+1～+3)<br>  [擦伤](W_Abrasion.md)(+0～+3)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -3  |  [情绪](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[淤青](Bruising.md)+50～+300  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Wounds]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueBite.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴咬伤](W_MacaqueBite.md)](W_MacaqueBite.md)(+1～+3)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Abrasion.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[擦伤](W_Abrasion.md)](W_Abrasion.md)(+0～+3)<br><br><br>** 相关卡牌 **<br>[眼镜](Glasses.md)可用次数  -3</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-20<br>[害怕猕猴](MacaqueFear.md)-500<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bruise.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[淤青](Bruising.md)](Bruising.md)+50～+300</td></tr></tbody></table>  
+  
 
 
 <script>document.title="啊！ - 卡牌生存百科 Card Survival Wiki";</script>

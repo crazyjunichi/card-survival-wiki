@@ -3,18 +3,14 @@
 <br>  
 > 一个洞穴，似乎被这个岛上的猕猴群用作它们的行动基地。<br><br>尽管被这些家伙<b>偷走</b>的东西最终大概率都存在这里，但除非你做足了<b>战斗</b>准备，否则不建议靠近这个地方。这些猕猴显然有着很强的领地意识，并且不欢迎访客。  
   
-  猕猴窝  |   图片   
- ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/DarkCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DarkCaveEntrance.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  猕猴灭绝  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴窝(丛林高地)](MacaqueDenEntrance.md)](MacaqueDenEntrance.md)</td><td  style="text-align:left;vertical-align:top;" >猕猴灭绝</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Entrance]  **<br>  [猕猴窝(环境)](Env_MacaqueDen.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Entrance]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴窝(环境)](Env_MacaqueDen.md)](Env_MacaqueDen.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="猕猴窝 - 卡牌生存百科 Card Survival Wiki";</script>

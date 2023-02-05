@@ -1,21 +1,14 @@
 # 一个灰山鹑巢！  
 > 里面的东西都归你了。  
   
-  一个灰山鹑巢！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Nest.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Nest.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林(区域)](Jungle.md)  |  探索  
-[丛林高地(区域)](JungleHighlands.md)  |  探索  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林高地](JungleHighlands.md)](JungleHighlands.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地丛林(湿地)](Wetlands.md)](Wetlands.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  15分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Nest]  **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1)<br>  [受精蛋](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br>** [Nest]  **<br>  [鸟巢](Nest.md)(+1)<br>  [羽毛](Feathers.md)(+1～+3)<br>  [鸟骨](BonesBird.md)(+0～+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Nest]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Nest.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟巢](Nest.md)](Nest.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[羽毛](Feathers.md)](Feathers.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Egg.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[受精蛋](EggPartridgeFertilized.md)](EggPartridgeFertilized.md)(+1～+3)<br>基础权重：4<br>** [Nest]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Nest.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟巢](Nest.md)](Nest.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Feathers.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[羽毛](Feathers.md)](Feathers.md)(+1～+3)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BirdBones.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鸟骨](BonesBird.md)](BonesBird.md)(+0～+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="一个灰山鹑巢！ - 卡牌生存百科 Card Survival Wiki";</script>

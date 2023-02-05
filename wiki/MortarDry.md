@@ -3,19 +3,14 @@
 <br>  
 >   
   
-  干燥的砂浆  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MortarDry.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MortarDry.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[砂浆](Mortar.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mortar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[砂浆](Mortar.md)](Mortar.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可用于转化  
-转化为  |  容器  
-----  |  ----  
-[煅烧后的砂浆](MortarBurnt.md)  |  [窑炉](Kiln.md)  
-[煅烧后的砂浆](MortarBurnt.md)  |  [高级窑炉](KilnAdvanced.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >转化为</th><th  style="text-align:left;vertical-align:top;" >容器</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[煅烧后的砂浆](MortarBurnt.md)</td><td  style="text-align:left;vertical-align:top;" >[窑炉](Kiln.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[煅烧后的砂浆](MortarBurnt.md)</td><td  style="text-align:left;vertical-align:top;" >[高级窑炉](KilnAdvanced.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="干燥的砂浆 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -5,24 +5,16 @@
 #### ** 变化范围: ** 0 ~ 288  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-193 ～ 288  |  <img decoding="async" src="Sprite/SaturationNuts.png" href="a.md" style="max-width:20px;max-height:20px;">我讨厌吃坚果……  |    |  [情绪](Morale.md)加成-1.5<br>[恶心](Nausea.md)加成+1.25  |    
-97 ～ 192  |  <img decoding="async" src="Sprite/SaturationNuts.png" href="a.md" style="max-width:20px;max-height:20px;">我有点厌倦吃坚果了……  |    |  [情绪](Morale.md)加成-0.75  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >193 ～ 288</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationNuts.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我讨厌吃坚果……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-1.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[恶心](Nausea.md)](Nausea.md)加成+1.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >97 ～ 192</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationNuts.png" href="a.md" style="max-width:20px;max-height:20px;"></div>我有点厌倦吃坚果了……</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成-0.75</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[食欲不振](Pk_4_Inappetent.md)  |  特质影响  |  加成+0.5  
-[胃口大开](Pk_4_Gluttonous.md)  |  特质影响  |  加成-0.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成+0.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >加成-0.5</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[丛林沙拉](JungleSalad.md)  |  食用  |  35  
-[热带杏仁核](TropicalAlmondKernels.md)  |  食用  |  35  
-[烤热带杏仁](TropicalAlmondsRoasted.md)  |  食用  |  35  
-[蛋白棒](ProteinBar.md)  |  食用  |  25  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JungleSalad.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林沙拉](JungleSalad.md)](JungleSalad.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >35</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TropicalAlmondKernels.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[热带杏仁核](TropicalAlmondKernels.md)](TropicalAlmondKernels.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >35</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TropicalAlmondRoasted.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[烤热带杏仁](TropicalAlmondsRoasted.md)](TropicalAlmondsRoasted.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >35</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ProteinBar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蛋白棒](ProteinBar.md)](ProteinBar.md)</td><td  style="text-align:left;vertical-align:top;" >食用</td><td  style="text-align:left;vertical-align:top;" >25</td></tr></tbody></table>  
+  
 
 
 <script>document.title="坚果<nobr>厌倦度</nobr> - 卡牌生存百科 Card Survival Wiki";</script>

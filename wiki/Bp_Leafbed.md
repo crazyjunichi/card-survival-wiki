@@ -1,14 +1,11 @@
 # 叶床  
 > 一张叶子铺成的简易床。比简陋的窝棚更舒服，也能抵御蚊虫。然而并不能抵御天气的影响。  
   
-  叶床  |   图片   
- ----  |  ----:   
- ** 解锁需求: **<br><br><br>** 动作分类: **<br>[手部动作](HandAction.md)  |  <img decoding="async" src="Sprite/LeafBed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁需求: **<br><br><br>** 动作分类: **<br>[手部动作(组)](HandAction.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LeafBed.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [树叶(组)](GpTag_Leaves.md) x 6  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100<br>** 需要卡牌: **<br>~~[叶床](LeafBed.md)~~<br>~~[叶床(蓝图)](Bp_Leafbed.md)~~  |  [压力](Stress.md)-10  |  [叶床](LeafBed.md)(+1)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [树叶(组)](GpTag_Leaves.md) x 6</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100<br>** 需要卡牌: **<br>~~[叶床](LeafBed.md)~~<br>~~[叶床(蓝图)](Bp_Leafbed.md)~~</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td><td  style="text-align:left;vertical-align:top;" >[叶床](LeafBed.md)(+1)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="叶床 - 卡牌生存百科 Card Survival Wiki";</script>

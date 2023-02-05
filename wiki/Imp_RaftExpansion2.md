@@ -3,18 +3,14 @@
 <br>  
 >   
   
-  扩建木筏  |   图片   
- ----  |  ----:   
- ** 解锁条件: **<br>[制作(技能)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)  |  <img decoding="async" src="Sprite/Expansion.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁条件: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md): 75-150<br><br>** 解锁需求: **<br>[木筏(环境)](Env_Raft.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Expansion.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [原木](Log.md) x 2 + [绳子](Rope.md) x 4 + [斧子(组)](GpTag_Axe.md) x 1<br>2. [细线](CordFiber.md) x 20 + [椰子](Coconut.md) x 12<br>3. [木板](Plank.md) x 8 + [木钉](Treenail.md) x 16 + [锋利的刀(组)](GpTag_CutterAdv.md) x 1  |  2小时/每步骤  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Log.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[原木](Log.md)](Log.md) x 2 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rope.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[绳子](Rope.md)](Rope.md) x 4 + [斧子(组)](GpTag_Axe.md) x 1<br>2. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md) x 20 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Coconut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子](Coconut.md)](Coconut.md) x 12<br>3. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Plank.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木板](Plank.md)](Plank.md) x 8 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Treenail.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木钉](Treenail.md)](Treenail.md) x 16 + [锋利的刀(组)](GpTag_CutterAdv.md) x 1</td><td  style="text-align:left;vertical-align:top;" >2小时/每步骤</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 其他效果  
-名称  |  目标  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  
-Raft Expansion 2  |  [木筏(环境)](Env_Raft.md)  |    |  容重量：+3000  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >目标</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Raft Expansion 2</td><td  style="text-align:left;vertical-align:top;" >[木筏(环境)](Env_Raft.md)</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >容重量：+3000</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="扩建木筏 - 卡牌生存百科 Card Survival Wiki";</script>

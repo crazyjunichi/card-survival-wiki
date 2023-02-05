@@ -1,17 +1,11 @@
 # 丛林  
 > 茂密的丛林，应该能帮我挡住一部分雨。  
   
-  丛林  |   图片   
- ----  |  ----:   
- **标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md)<br><br>**初始：**	[丛林(区域)](Jungle.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[阳光防护](SunProtection.md)+2<br>[蚊虫数量](BugPopulation.md)+3<br>[猎手接近](HuntersProximity.md)-0.5  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“潮湿环境”](tag_EnvHumid.md), [“丛林”](tag_Jungle.md)<br><br>**初始：**	[丛林](Jungle.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[雨水防护](RainProtection.md)](RainProtection.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HunterProximity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[猎手接近](HuntersProximity.md)](HuntersProximity.md)-0.5</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[前往丛林小径(海湾)](Path_BayToJungle.md)  |  前往  
-[前往丛林小径](Path_GrasslandsWToJungle.md)  |  前往  
-[前往丛林小径](Path_OutskirtsToJungle.md)  |  前往  
-[前往丛林小径(湿地)](Path_WetlandsToJungle.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林小径(海湾)](Path_BayToJungle.md)](Path_BayToJungle.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林小径](Path_GrasslandsWToJungle.md)](Path_GrasslandsWToJungle.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林小径](Path_OutskirtsToJungle.md)](Path_OutskirtsToJungle.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林小径(湿地)](Path_WetlandsToJungle.md)](Path_WetlandsToJungle.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 
 
 <script>document.title="丛林 - 卡牌生存百科 Card Survival Wiki";</script>

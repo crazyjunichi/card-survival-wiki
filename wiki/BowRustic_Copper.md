@@ -1,19 +1,14 @@
 # 上弦的简易弓  
 > 一把临时制作的简易弓。如果经过足够的练习，我也许能用它做点什么。  
   
-  上弦的简易弓  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**重量：**0<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可使用次数：**75  |  <img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**重量：**0<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可使用次数：**75</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-练习<br>  |  1小时  |    |  ** 自身：**<br>使用次数  -8(-10.67%)<br>燃料  -1(-100%)  |  [箭术(技能)](Skill_Archery.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >练习<br></td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>使用次数  -8(-10.67%)<br>燃料  -1(-100%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[箭术(技能)](Skill_Archery.md)](Skill_Archery.md)+1</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：75<br>最大：75  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br><br>** 自身 **<br>→消失  
-燃料  |  初始：1<br>最大：1  |  -  |  ** 到达0时： **<br>** [Arrow]  **<br>  [铜箭矢](ArrowCopper.md)(+1)<br><br>** 自身 **<br>→ [简易的弓](BowRustic.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：75<br>最大：75</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小树枝](Sticks.md)](Sticks.md)(+1)<br><br>** 自身 **<br>→消失</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：1<br>最大：1</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [Arrow]  **<br>  [铜箭矢](ArrowCopper.md)(+1)<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[简易的弓](BowRustic.md)](BowRustic.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="上弦的简易弓 - 卡牌生存百科 Card Survival Wiki";</script>

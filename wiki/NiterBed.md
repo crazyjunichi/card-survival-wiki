@@ -3,27 +3,20 @@
 <br>  
 > 将粪便堆积在一层粘土上防止渗漏，然后加入碱液制成。<br><br>硝石矿床必须定期用<b>碱液</b>浇灌，最终会产出<b>硝石晶体</b>，可以研磨成<b>硝酸钾</b>。这是一种很有用的化学物质，可以用于更高级的化学项目（如制备<b>炸药</b>）。<br><br>这种化学过程产生的气味会大大增加你的<b>不适</b>程度。一旦收集完成，应当用铲子清除硝石矿床，否则其气味会继续影响该地区。  
   
-  硝石矿床  |   图片   
- ----  |  ----:   
- ** 不可堆叠 **<br><br>** 效果: **<br>[不适](Discomfort.md)+750  |  <img decoding="async" src="Sprite/NiterBed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可堆叠 **<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)+750</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NiterBed.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[硝石矿床(蓝图)](Bp_NiterBed.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NiterBed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硝石矿床(蓝图)](Bp_NiterBed.md)](Bp_NiterBed.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[碱液](LQ_Lye.md)  |  倒入碱液<br>  |  -  |    |  ** 自身: **<br><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;">  +480(100%)<br><br>** 使用物: **<br>含水量  -300  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[碱液](LQ_Lye.md)](LQ_Lye.md)</td><td  style="text-align:left;vertical-align:top;" >倒入碱液<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  +480(100%)<br><br>** 使用物: **<br>含水量  -300</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-<img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：480<br>最大：480  |  每15分钟-1<br>最多需要：5天  |    
-进度  |  初始：0<br>最大：1440  |  -  |  ** 到达上限时： **<br>** [Result]  **<br>  [硝石晶体](NiterCrystals.md)(+3)<br><br>** 自身 **<br>→ [粪池](Cesspool.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：480<br>最大：480</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：5天</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >进度</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：1440</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br>** [Result]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NiterCrystals.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硝石晶体](NiterCrystals.md)](NiterCrystals.md)(+3)<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cesspool.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[粪池](Cesspool.md)](Cesspool.md)</td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Lye  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～480(0.21%～100%)  |  进度+1(0.06%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Lye</td><td  style="text-align:left;vertical-align:top;" >** 需要属性：**<br><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Lye.png" href="a.md" style="max-width:20px;max-height:20px;"></div>: 1～480(0.21%～100%)</td><td  style="text-align:left;vertical-align:top;" >进度+1(0.06%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="硝石矿床 - 卡牌生存百科 Card Survival Wiki";</script>

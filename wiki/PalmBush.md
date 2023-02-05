@@ -3,25 +3,14 @@
 <br>  
 >   
   
-  棕榈丛  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/PalmBush.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmBush.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[棕榈丛田](CropPlotPalmBush.md)  |  转化  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[沙滩(区域)](Beach.md)  |  随便逛逛  
-[丛林深处(区域)](DeepJungle.md)  |  探索  
-[丛林(区域)](Jungle.md)  |  探索  
-[丛林高地(区域)](JungleHighlands.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
-[湿地丛林(区域)(湿地)](Wetlands.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈丛田](CropPlotPalmBush.md)](CropPlotPalmBush.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JungleHighlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林高地](JungleHighlands.md)](JungleHighlands.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林边缘](Outskirts.md)](Outskirts.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地丛林(湿地)](Wetlands.md)](Wetlands.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-采集<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [results]  **<br>  [棕榈叶](PalmFronds.md)(+12～+24)<br>  [棕榈丛种子](PalmBushSeeds.md)(+1)<br>基础权重：1  |  [药草学(技能)](Skill_Herbology.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >采集<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [results]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈叶](PalmFronds.md)](PalmFronds.md)(+12～+24)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmBushSeeds.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈丛种子](PalmBushSeeds.md)](PalmBushSeeds.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[药草学(技能)](Skill_Herbology.md)](Skill_Herbology.md)+1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="棕榈丛 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,18 +3,14 @@
 <br>  
 >   
   
-  白墙  |   图片   
- ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)+250<br><br>** 解锁需求: **<br>[生石灰](Quicklime.md)  |  <img decoding="async" src="Sprite/WhiteWashedWalls.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)+250<br><br>** 解锁需求: **<br>[生石灰](Quicklime.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WhiteWashedWalls.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>2. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>3. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4<br>4. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [生石灰](Quicklime.md) x 4  |  1小时30分/每步骤  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md) x 4<br>2. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md) x 4<br>3. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md) x 4<br>4. [水(任意)(组)](GpTag_WaterAny.md) x 1(含量1) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md) x 4</td><td  style="text-align:left;vertical-align:top;" >1小时30分/每步骤</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 其他效果  
-名称  |  目标  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  
-WallDustProtection  |  [“室内”](tag_EnvIndoors.md)  |    |  污秽<img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;"> -0.25(-0.03%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >目标</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >WallDustProtection</td><td  style="text-align:left;vertical-align:top;" >[“室内”](tag_EnvIndoors.md)</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >污秽<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt4.png" href="a.md" style="max-width:20px;max-height:20px;"></div> -0.25(-0.03%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="白墙 - 卡牌生存百科 Card Survival Wiki";</script>

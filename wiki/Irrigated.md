@@ -3,17 +3,14 @@
 #### ** 变化范围: ** 0 ~ 1  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[灌溉系统](Imp_Irrigation.md)  |  被动  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[灌溉系统](Imp_Irrigation.md)](Imp_Irrigation.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[蓄水池](WaterReservoir.md)  |  开始灌溉  |  1  
-[蓄水池(满)](WaterReservoirFull.md)  |  开始灌溉  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[蓄水池](WaterReservoir.md)</td><td  style="text-align:left;vertical-align:top;" >开始灌溉</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[蓄水池(满)](WaterReservoirFull.md)</td><td  style="text-align:left;vertical-align:top;" >开始灌溉</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="已灌溉 - 卡牌生存百科 Card Survival Wiki";</script>

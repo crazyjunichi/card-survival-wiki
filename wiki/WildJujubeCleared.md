@@ -3,22 +3,17 @@
 <br>  
 > 一种大型灌木，可以在<b>草原</b>上找到。<br><br><b>它的果实可以食用</b>，味道酸酸甜甜。<br><br>你也可以用斧子砍倒灌木来获得<b>树叶</b>，种子则可以在<b>农田</b>种植和生长。  
   
-  摘光的野枣从  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/WildJujubeCleared.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WildJujubeCleared.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[野枣丛](WildJujube.md)  |  采集  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WildJujube.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[野枣丛](WildJujube.md)](WildJujube.md)</td><td  style="text-align:left;vertical-align:top;" >采集</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“斧”](tag_Axe.md)  |  砍倒<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [小树枝](Sticks.md)(+4～+8)<br>  [树叶](LeavesFresh.md)(+6～+18)<br>基础权重：1  |  [耐力](Stamina.md)-1<br>[手掌损伤](HandDamage.md)+20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“斧”](tag_Axe.md)</td><td  style="text-align:left;vertical-align:top;" >砍倒<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→消失<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sticks]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小树枝](Sticks.md)](Sticks.md)(+4～+8)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Leaves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[树叶](LeavesFresh.md)](LeavesFresh.md)(+6～+18)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+20</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-枣子成熟度<img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：2880  |  每15分钟+1<br>最多需要：30天  |  ** 到达上限时： **<br><br>** 自身 **<br>→ [野枣丛](WildJujube.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >枣子成熟度<div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：2880</td><td  style="text-align:left;vertical-align:top;" >每15分钟+1<br>最多需要：30天</td><td  style="text-align:left;vertical-align:top;" >** 到达上限时： **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WildJujube.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[野枣丛](WildJujube.md)](WildJujube.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="摘光的野枣从 - 卡牌生存百科 Card Survival Wiki";</script>

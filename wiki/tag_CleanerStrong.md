@@ -1,4 +1,3 @@
 # “强效清洁剂”  
-- [芦荟膏](AloeVeraGel.md)  
-- [硫磺膏](BrimstoneGel.md)  
-- [辣椒粉](ChiliPowder.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[芦荟膏](AloeVeraGel.md)](AloeVeraGel.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BrimstoneGel.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[硫磺膏](BrimstoneGel.md)](BrimstoneGel.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ChiliPowder.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[辣椒粉](ChiliPowder.md)](ChiliPowder.md)</div></div>  
+  

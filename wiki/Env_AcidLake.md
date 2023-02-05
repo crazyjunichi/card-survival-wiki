@@ -1,14 +1,11 @@
 # 火山  
 > 这里的空气有毒，我应该谨慎行事。  
   
-  火山  |   图片   
- ----  |  ----:   
- ** 炎热区域 **<br><br>**标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“有毒环境”](tag_EnvToxic.md), [“贫瘠环境”](tag_EnvInfertile.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[酸湖(区域)(火山)](AcidLake.md), [干涸酸湖(火山)](AcidLakePuddle.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+10<br>[淋雨](RainExposure.md)<br>[绝热](InsulationHeat.md)<br>[空气毒性](AirToxicity.md)+6  |  <img decoding="async" src="Sprite/AcidLake.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 炎热区域 **<br><br>**标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“有毒环境”](tag_EnvToxic.md), [“贫瘠环境”](tag_EnvInfertile.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[酸湖(火山)](AcidLake.md), [干涸酸湖(火山)](AcidLakePuddle.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[淋雨](RainExposure.md)](RainExposure.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AirToxicity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[空气毒性](AirToxicity.md)](AirToxicity.md)+6</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AcidLake.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[前往酸湖(火山)](Path_VolcanoToAcidLake.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AcidLake.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往酸湖(火山)](Path_VolcanoToAcidLake.md)](Path_VolcanoToAcidLake.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 
 
 <script>document.title="火山 - 卡牌生存百科 Card Survival Wiki";</script>

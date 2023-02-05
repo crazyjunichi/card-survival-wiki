@@ -1,19 +1,14 @@
 # 控制台  
 > 我的飞机控制面板。引擎没有运转，但如果能用的话我可以在这里给无线电充电。  
   
-  控制台  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**槽位：**1  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**槽位：**1<br><br>**初始卡牌：**[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无线电](Radio.md)](Radio.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[控制台(开)](ControlPanelOn.md)  |  关闭引擎  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[控制台(开)](ControlPanelOn.md)](ControlPanelOn.md)</td><td  style="text-align:left;vertical-align:top;" >关闭引擎</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-启动引擎<br>  |  -  |  [油箱满的](FuelTankFull.md): 1-1  |  ** 自身：**<br>→ [控制台(开)](ControlPanelOn.md)  |    
-检查无线电室<br>  |  -  |    |  ** 获得： **<br>** [Inventory]  **<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >启动引擎<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fuel.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[油箱满的](FuelTankFull.md)](FuelTankFull.md): 1-1</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[控制台(开)](ControlPanelOn.md)](ControlPanelOn.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >检查无线电室<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Inventory]  **<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="控制台 - 卡牌生存百科 Card Survival Wiki";</script>

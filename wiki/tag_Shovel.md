@@ -1,6 +1,3 @@
 # “铲子”  
-名称  |  可使用次数  
-----  |  ----  
-[铜铲](ShovelCopper.md)  |  50  
-[废金属铲](ShovelScrap.md)  |  40  
-[木铲](ShovelWooden.md)  |  20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperShovel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜铲](ShovelCopper.md)](ShovelCopper.md)</td><td  style="text-align:left;vertical-align:top;" >50</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ScrapShovel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[废金属铲](ShovelScrap.md)](ShovelScrap.md)</td><td  style="text-align:left;vertical-align:top;" >40</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WoodenShovel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木铲](ShovelWooden.md)](ShovelWooden.md)</td><td  style="text-align:left;vertical-align:top;" >20</td></tr></tbody></table>  
+  

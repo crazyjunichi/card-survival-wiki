@@ -1,8 +1,3 @@
 # “裤子”  
-名称  |  可使用次数  
-----  |  ----  
-[草裙](LeafSKirt.md)  |  1344  
-[皮裤](LeatherPants.md)  |  5376  
-[军裤](MilitaryPants.md)  |  5376  
-[布制裤子](PantsCloth.md)  |  2400  
-[短裤](Shorts.md)  |  3000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmFrondSkirt.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[草裙](LeafSKirt.md)](LeafSKirt.md)</td><td  style="text-align:left;vertical-align:top;" >1344</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LeatherPants.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[皮裤](LeatherPants.md)](LeatherPants.md)</td><td  style="text-align:left;vertical-align:top;" >5376</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MilitaryPants.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[军裤](MilitaryPants.md)](MilitaryPants.md)</td><td  style="text-align:left;vertical-align:top;" >5376</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[布制裤子](PantsCloth.md)</td><td  style="text-align:left;vertical-align:top;" >2400</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shorts.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[短裤](Shorts.md)](Shorts.md)</td><td  style="text-align:left;vertical-align:top;" >3000</td></tr></tbody></table>  
+  

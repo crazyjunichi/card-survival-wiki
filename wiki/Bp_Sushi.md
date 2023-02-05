@@ -1,14 +1,11 @@
 # 寿司  
 > 太美味了！  
   
-  寿司  |   图片   
- ----  |  ----:   
- ** 解锁条件: **<br>[烹饪(技能)](Skill_Cooking.md): 150-150<br><br>** 动作分类: **<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  <img decoding="async" src="Sprite/Sushi.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁条件: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cooking.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烹饪(技能)](Skill_Cooking.md)](Skill_Cooking.md): 150-150<br><br>** 动作分类: **<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sushi.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [鱼片](FishSlices.md) x 8 + [米饭](RiceCooked.md) x 2 + [醋](LQ_Vinegar.md) x 1(含量0.08) + [海藻](Seaweed.md) x 2  |  30分  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [烹饪(技能)](Skill_Cooking.md)+0.5<br>[压力](Stress.md)-10  |  [寿司](Sushi.md)(+2)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishSlices.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鱼片](FishSlices.md)](FishSlices.md) x 8 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RiceCooked.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[米饭](RiceCooked.md)](RiceCooked.md) x 2 + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[醋](LQ_Vinegar.md)](LQ_Vinegar.md) x 1(含量0.08) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Seaweed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海藻](Seaweed.md)](Seaweed.md) x 2</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cooking.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烹饪(技能)](Skill_Cooking.md)](Skill_Cooking.md)+0.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td><td  style="text-align:left;vertical-align:top;" >[寿司](Sushi.md)(+2)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="寿司 - 卡牌生存百科 Card Survival Wiki";</script>

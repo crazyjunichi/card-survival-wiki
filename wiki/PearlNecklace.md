@@ -3,26 +3,20 @@
 <br>  
 >   
   
-  珍珠项链  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**装备：**[“颈部”](eTag_Neck.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[情绪](Morale.md)加成+0.25<br>[压力](Stress.md)加成-0.25<br>[世界观](Structure.md)加成+0.5  |  <img decoding="async" src="Sprite/PearlNecklace.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“颈部”](tag_Neck.md), [“腿部（内层）”](tag_Clothing.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**装备：**[“颈部”](eTag_Neck.md)<br><br>**可使用次数：**2688<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成+0.25<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)加成-0.25<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成+0.5</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PearlNecklace.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[珍珠项链(蓝图)](Bp_PearlNecklace.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PearlNecklace.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[珍珠项链(蓝图)](Bp_PearlNecklace.md)](Bp_PearlNecklace.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Break]  **<br>  [细线](CordFiber.md)(+2)<br>  [珍珠](Pearl.md)(+9)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Break]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pearl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[珍珠](Pearl.md)](Pearl.md)(+9)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“针线”](tag_ThreadedNeedle.md)  |  修复<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  30分  |    |  ** 自身: **<br>使用次数  +800(29.76%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“针线”](tag_ThreadedNeedle.md)</td><td  style="text-align:left;vertical-align:top;" >修复<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  +800(29.76%)<br><br>** 使用物: **<br>可用次数  -1<br>  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2688<br>最大：2688  |  -  |  ** 到达0时： **<br>** [Cloth]  **<br>  [细线](CordFiber.md)(+2)<br>  [珍珠](Pearl.md)(+7～+9)<br>基础权重：1<br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：2688<br>最大：2688</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [Cloth]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pearl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[珍珠](Pearl.md)](Pearl.md)(+7～+9)<br>基础权重：1<br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="珍珠项链 - 卡牌生存百科 Card Survival Wiki";</script>

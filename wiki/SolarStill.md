@@ -3,31 +3,23 @@
 <br>  
 > 太阳能蒸馏器是一种能让你从<b>新鲜树叶中提取淡水</b>的巧妙的装置。<br><br>你需要<b>塑料布</b>并且用<b>一些小石头</b>来压住来建造。<br><br>建造完毕后你需要往里面放入新鲜树叶或叶片然后在底下放置一个容器来慢慢收集水分。这些树叶需要不断地被填充要不然蒸馏器会停止运作。  
   
-  太阳能蒸馏器  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)  |  <img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“储水容器”](tag_WaterContainer.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[太阳能蒸馏器(蓝图)](Bp_SolarStill.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SolarStill.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[太阳能蒸馏器(蓝图)](Bp_SolarStill.md)](Bp_SolarStill.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-拆解<br>  |  -  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Plastic Sheet]  **<br>  [塑料布](PlasticSheet.md)(+1)<br>  [石头](Stone.md)(+5)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Plastic Sheet]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/plastic sheet.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[塑料布](PlasticSheet.md)](PlasticSheet.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石头](Stone.md)](Stone.md)(+5)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[棕榈叶](PalmFronds.md)<br>[蛇草](SnakeGrass.md)  |  添加树叶<br>  |  -  |    |  ** 自身: **<br>燃料  +30(15.63%)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈叶](PalmFronds.md)](PalmFronds.md)<br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蛇草](SnakeGrass.md)](SnakeGrass.md)</td><td  style="text-align:left;vertical-align:top;" >添加树叶<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>燃料  +30(15.63%)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 转化  
-放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |  含水量  +4  |    
-[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water]  **<br>[水](LQ_Water.md)(+0.2)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >放入</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“灌溉用水”](tag_WaterFresh.md)</td><td  style="text-align:left;vertical-align:top;" >继续填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量  +4</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“储水容器”](tag_WaterContainer.md)</td><td  style="text-align:left;vertical-align:top;" >开始填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** [water]  **<br>[水](LQ_Water.md)(+0.2)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-燃料  |  初始：0<br>最大：192  |  每15分钟-1<br>最多需要：2天  |  ** 到达0时： **<br>  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：192</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：2天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br></td></tr></tbody></table>  
+  
 
 
 <script>document.title="太阳能蒸馏器 - 卡牌生存百科 Card Survival Wiki";</script>

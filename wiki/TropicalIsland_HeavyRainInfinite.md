@@ -1,18 +1,14 @@
 # 大雨  
 > 雨下得很大。我得确保我有个遮雨的地方，并为接下来的几天存储一些水。  
   
-  大雨  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+26<br>[阳光强度](SunStrength.md)<br>[降水值](RainValue.md)+5<br>[雨水计数器](RainCounter.md)加成-12～-6<br>[光亮](Light.md)-10<br>[蚊虫数量](BugPopulation.md)-3  |  <img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+26<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光强度](SunStrength.md)](SunStrength.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)+5<br>[雨水计数器](RainCounter.md)加成-12～-6<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)-3</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[风向非常有利](OpenSea_VeryFavourableInfinite.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风向非常有利](OpenSea_VeryFavourableInfinite.md)](OpenSea_VeryFavourableInfinite.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 1-1  |  → [风向非常有利](OpenSea_VeryFavourableInfinite.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 1-1</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherClear_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[风向非常有利](OpenSea_VeryFavourableInfinite.md)](OpenSea_VeryFavourableInfinite.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="大雨 - 卡牌生存百科 Card Survival Wiki";</script>

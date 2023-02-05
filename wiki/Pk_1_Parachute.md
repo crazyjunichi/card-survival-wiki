@@ -1,15 +1,8 @@
 # 降落伞  
 > 开始拥有一顶降落伞。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  1月亮  
-分数  |  -500  
-初始装备  |  无  
-额外卡牌  |  [打开的降落伞](ParachuteDeployed.md)  
-初始状态  |  [污垢](Filth.md)-225  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >1🌙</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-500</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Parachute.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[打开的降落伞](ParachuteDeployed.md)](ParachuteDeployed.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)-225</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="降落伞 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -5,20 +5,14 @@
 #### ** 变化范围: ** 0 ~ 384  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-97 ～ 192  |  <img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;">轻度眼部损伤  |    |  [视力](Myopia.md)+1  |    
-193 ～ 288  |  <img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;">中度眼部损伤  |    |  [视力](Myopia.md)+2  |    
-287 ～ 384  |  <img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;">重度眼部损伤  |    |  [视力](Myopia.md)+3  |    
-385 ～ 480  |  <img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;">极度眼部损伤  |    |  [视力](Myopia.md)+3<br>[光亮](Light.md)-300  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >97 ～ 192</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;"></div>轻度眼部损伤</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[视力](Myopia.md)](Myopia.md)+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >193 ～ 288</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;"></div>中度眼部损伤</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[视力](Myopia.md)](Myopia.md)+2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >287 ～ 384</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;"></div>重度眼部损伤</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[视力](Myopia.md)](Myopia.md)+3</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >385 ～ 480</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/EyeDamage.png" href="a.md" style="max-width:20px;max-height:20px;"></div>极度眼部损伤</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sleepy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[视力](Myopia.md)](Myopia.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)-300</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  加成+2  
-[眼镜蛇毒液](W_CobraSpit.md)  |  条件被动  |  加成+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[眼镜蛇毒液](W_CobraSpit.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[眼镜蛇毒液](W_CobraSpit.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+1</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead></tbody></table>  
+  
 
 
 <script>document.title="眼部损伤 - 卡牌生存百科 Card Survival Wiki";</script>

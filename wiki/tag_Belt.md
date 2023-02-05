@@ -1,5 +1,3 @@
 # “皮带”  
-- [箭筒](Quiver.md)  
-- [葫芦瓶](GourdBottle.md)  
-- [腰包](BeltBag.md)  
-- [军用皮带](BeltMilitary.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quiver.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[箭筒](Quiver.md)](Quiver.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GourdBottle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[葫芦瓶](GourdBottle.md)](GourdBottle.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeltBag.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[腰包](BeltBag.md)](BeltBag.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeltMilitary.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[军用皮带](BeltMilitary.md)](BeltMilitary.md)</div></div>  
+  

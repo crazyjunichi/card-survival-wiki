@@ -3,28 +3,16 @@
 #### ** 变化范围: ** 0 ~ 10  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 相关卡牌  
 [足茧](CallousesFeet.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[军靴](MilitaryBoots.md)  |  被动  |  12  
-[皮革鞋子](LeatherShoes.md)  |  被动  |  8  
-[运动鞋](Sneakers.md)  |  被动  |  8  
-[椰子凉鞋](CoconutSandals.md)  |  被动  |  5  
-[人字拖](Flipflops.md)  |  被动  |  4  
-[包脚布](FootWrappings.md)  |  被动  |  2  
-[袜子](Socks.md)  |  被动  |  2  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MilitaryBoots.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[军靴](MilitaryBoots.md)](MilitaryBoots.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >12</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LeatherShoes.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[皮革鞋子](LeatherShoes.md)](LeatherShoes.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >8</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sneakers.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[运动鞋](Sneakers.md)](Sneakers.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >8</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutSandals.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子凉鞋](CoconutSandals.md)](CoconutSandals.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlipFlops.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[人字拖](Flipflops.md)](Flipflops.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Footwraps.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[包脚布](FootWrappings.md)](FootWrappings.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sock.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[袜子](Socks.md)](Socks.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >2</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[海胆！！(事件)](Event_Urchin.md)  |  我的鞋子保护了我！  |  5 ~ 10  
-[一只蜘蛛！(事件)](Event_Spider.md)  |  别想伤到我  |  4 ~ 10  
-[一只蜘蛛！(事件)](Event_Spider.md)  |  检查伤口  |  1 ~ 3.9  
-[一只蜘蛛！(事件)](Event_Spider.md)  |  检查伤口  |  0  
-[海胆！！(事件)](Event_Urchin.md)  |  检查伤口  |  0 ~ 4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[海胆！！(事件)](Event_Urchin.md)</td><td  style="text-align:left;vertical-align:top;" >我的鞋子保护了我！</td><td  style="text-align:left;vertical-align:top;" >5 ~ 10</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[一只蜘蛛！(事件)](Event_Spider.md)</td><td  style="text-align:left;vertical-align:top;" >别想伤到我</td><td  style="text-align:left;vertical-align:top;" >4 ~ 10</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[一只蜘蛛！(事件)](Event_Spider.md)</td><td  style="text-align:left;vertical-align:top;" >检查伤口</td><td  style="text-align:left;vertical-align:top;" >1 ~ 3.9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[一只蜘蛛！(事件)](Event_Spider.md)</td><td  style="text-align:left;vertical-align:top;" >检查伤口</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海胆！！(事件)](Event_Urchin.md)</td><td  style="text-align:left;vertical-align:top;" >检查伤口</td><td  style="text-align:left;vertical-align:top;" >0 ~ 4</td></tr></tbody></table>  
+  
 
 
 <script>document.title="足部防护 - 卡牌生存百科 Card Survival Wiki";</script>

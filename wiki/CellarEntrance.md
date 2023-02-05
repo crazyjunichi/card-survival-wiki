@@ -3,18 +3,14 @@
 <br>  
 > 一间凉爽的地下室，特别适合存放易腐物品。<br>储存在这里的食品要更久才会过期。<br><br>要建造它，你需要一把铲子、砂浆、原木、泥土、粘土和皮革。  
   
-  地窖  |   图片   
- ----  |  ----:   
- ** 可重命名 **  |  <img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 可重命名 **</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[地窖(蓝图)](Bp_Cellar.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[地窖(蓝图)](Bp_Cellar.md)](Bp_Cellar.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-进入<br>  |  -  |    |  ** 获得： **<br>** [Exit]  **<br>  [地窖(环境)](Env_Cellar.md)(+1)<br>  [离开(地窖)](CellarExit.md)(+1)<br>  [地窖(区域)](Cellar.md)(+1)<br>基础权重：1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >进入<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Exit]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[地窖(环境)](Env_Cellar.md)](Env_Cellar.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHutExit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(地窖)](CellarExit.md)](CellarExit.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Cellar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[地窖](Cellar.md)](Cellar.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="地窖 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,25 +3,17 @@
 <br>  
 > 骨头可以从动物的尸体上获得，有时也可以在巨蜥的食丸中找到。<br><br>大的骨头可以用于某些特定的制作配方，也可以砸碎成为<b>骨头碎片</b>用于制作较小的物品，或者进一步磨碎成<b>骨粉</b>用作肥料。<br><b>鱼钩和骨针</b>可以用鸟骨或骨头碎片制作，分别用于钓鱼和裁缝。  
   
-  骨头碎片  |   图片   
- ----  |  ----:   
- **重量：**50  |  <img decoding="async" src="Sprite/BoneSplinters.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BoneSplinters.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[骨头](Bones.md)  |  打碎<br>** 拖入：**[“锤”](tag_Hammer.md)  
-[鱼镖](HarpoonBone.md)  |  鱼镖坏了  
-[猕猴窝(丛林高地)](MacaqueDenEntrance.md)  |  我TM来啦！<br>** 拖入：**[炸药(开)](DynamiteOn.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HumanBones.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[骨头](Bones.md)](Bones.md)</td><td  style="text-align:left;vertical-align:top;" >打碎<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Harpoon.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[鱼镖](HarpoonBone.md)](HarpoonBone.md)</td><td  style="text-align:left;vertical-align:top;" >鱼镖坏了</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴窝(丛林高地)](MacaqueDenEntrance.md)](MacaqueDenEntrance.md)</td><td  style="text-align:left;vertical-align:top;" >我TM来啦！<br>** 拖入：**[炸药(开)](DynamiteOn.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-制作钩<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [骨钩](HookBone.md)  |  [制作(技能)](Skill_Crafting.md)+0.5  
-制作针<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身：**<br>→ [骨针](BoneNeedle.md)  |  [制作(技能)](Skill_Crafting.md)+0.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >制作钩<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HookBone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[骨钩](HookBone.md)](HookBone.md)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+0.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >制作针<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NeedleBone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[骨针](BoneNeedle.md)](BoneNeedle.md)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+0.5</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  研磨<br>  |  1小时  |    |  ** 自身: **<br>→ [骨粉](Bonemeal.md)<br><br>** 使用物: **<br>可用次数  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >研磨<br></td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[骨粉](Bonemeal.md)](Bonemeal.md)<br><br>** 使用物: **<br>可用次数  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="骨头碎片 - 卡牌生存百科 Card Survival Wiki";</script>

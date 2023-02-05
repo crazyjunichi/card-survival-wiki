@@ -1,15 +1,8 @@
 # 过度肥胖  
 > 开始时拥有很高的体脂，但会使你行动困难。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  5太阳  
-分数  |  250  
-初始装备  |  无  
-额外卡牌  |  无  
-初始状态  |  [体重](Weight.md)+9000  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >5☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >250</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br></td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体重](Weight.md)](Weight.md)+9000</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="过度肥胖 - 卡牌生存百科 Card Survival Wiki";</script>

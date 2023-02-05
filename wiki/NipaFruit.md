@@ -3,25 +3,20 @@
 <br>  
 > 一大串可食用的水椰树种。<br><br>它们需要在<b>切割工具</b>（或猕猴朋友）的帮助下去除外壳才能食用。<br><br>和椰子类似，吃多了会导致腹泻。  
   
-  水椰子  |   图片   
- ----  |  ----:   
- **重量：**500<br><br>**可使用次数：**4  |  <img decoding="async" src="Sprite/NipaFruit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**500<br><br>**可使用次数：**4</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NipaFruit.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[水椰](NipaPalm.md)  |  割水椰子<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NipaPalm.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水椰](NipaPalm.md)](NipaPalm.md)</td><td  style="text-align:left;vertical-align:top;" >割水椰子<br>** 拖入：**[“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md)</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“斧”](tag_Axe.md)  |  取得种子<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -1(-25%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nipa Seeds]  **<br>  [水椰籽](NipaSeeds.md)(+1)<br>基础权重：1  |  [手掌损伤](HandDamage.md)+40<br>[耐力](Stamina.md)-4  
-[“切割工具”](tag_Cutter.md)  |  取得种子<br>[手部动作](HandAction.md)  |  30分  |  [光亮](Light.md): 10-100  |  ** 自身: **<br>使用次数  -1(-25%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nipa Seeds]  **<br>  [水椰籽](NipaSeeds.md)(+1)<br>基础权重：1  |  [手掌损伤](HandDamage.md)+75<br>[耐力](Stamina.md)-6  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“斧”](tag_Axe.md)</td><td  style="text-align:left;vertical-align:top;" >取得种子<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  -1(-25%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nipa Seeds]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NipaSeeds.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水椰籽](NipaSeeds.md)](NipaSeeds.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+40<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“切割工具”](tag_Cutter.md)</td><td  style="text-align:left;vertical-align:top;" >取得种子<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  -1(-25%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Nipa Seeds]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NipaSeeds.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水椰籽](NipaSeeds.md)](NipaSeeds.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手掌损伤](HandDamage.md)](HandDamage.md)+75<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-6</td></tr></tbody></table>  
+  
 ## 可拖至  
-[猕猴朋友](MacaqueFriend.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[猕猴朋友](MacaqueFriend.md)</div></div>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：4<br>最大：4  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：4<br>最大：4</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="水椰子 - 卡牌生存百科 Card Survival Wiki";</script>

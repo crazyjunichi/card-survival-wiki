@@ -3,23 +3,14 @@
 #### ** 变化范围: ** 0 ~ 9999  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  96  
-[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  96  
-[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  96  
-[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  96  
-[猎手来了(事件)](Event_HunterFight.md)  |  逃跑  |  -999  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_GodExperience1a.md)](Event_GodExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >96</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >96</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[虚空灵视(事件)](Event_VoidExperience1a.md)](Event_VoidExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >96</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Watcher1.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[监视者(事件)](Event_WatchedExperience1a.md)](Event_WatchedExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >96</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猎手来了(事件)](Event_HunterFight.md)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >逃跑</td><td  style="text-align:left;vertical-align:top;" >-999</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[神圣灵视(事件)](Event_GodExperience1a.md)  |  触发事件  |  0  
-[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  0  
-[虚空灵视(事件)](Event_VoidExperience1a.md)  |  触发事件  |  0  
-[监视者(事件)](Event_WatchedExperience1a.md)  |  触发事件  |  0  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[神圣灵视(事件)](Event_GodExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[猎手来了(事件)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[虚空灵视(事件)](Event_VoidExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[监视者(事件)](Event_WatchedExperience1a.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >0</td></tr></tbody></table>  
+  
 
 
 <script>document.title="精神失常计数器 - 卡牌生存百科 Card Survival Wiki";</script>

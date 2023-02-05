@@ -1,22 +1,17 @@
 # 引擎（修理）  
 > 飞机遗留的引擎。只要有燃料，它就能工作。  
   
-  引擎（修理）  |   图片   
- ----  |  ----:   
- ** 区域唯一 **  |  <img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[引擎（启动）](Engine1Open.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVera.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[引擎（启动）](Engine1Open.md)](Engine1Open.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[装有燃料的油桶](JerrycanFuel.md)  |  填充<br>  |  -  |    |  ** 自身: **<br>燃料  +96(100%)<br><br>** 使用物: **<br>→ [油桶](Jerrycan.md)  |  [油箱满的](FuelTankFull.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[装有燃料的油桶](JerrycanFuel.md)](JerrycanFuel.md)</td><td  style="text-align:left;vertical-align:top;" >填充<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>燃料  +96(100%)<br><br>** 使用物: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jerrycan.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[油桶](Jerrycan.md)](Jerrycan.md)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fuel.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[油箱满的](FuelTankFull.md)](FuelTankFull.md)+1</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-燃料  |  初始：0<br>最大：96  |  -  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：96</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="引擎（修理） - 卡牌生存百科 Card Survival Wiki";</script>

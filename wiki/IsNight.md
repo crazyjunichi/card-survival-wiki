@@ -3,24 +3,14 @@
 #### ** 变化范围: ** 0 ~ 1  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[晶石洞穴(环境)](Env_CrystalChamber.md)  |  被动  |  1  
-[潮湿洞穴(环境)](Env_DampChamber.md)  |  被动  |  1  
-[阴暗洞穴(环境)](Env_DarkChamber.md)  |  被动  |  1  
-[覆溺洞穴(环境)](Env_FloodedChamber.md)  |  被动  |  1  
-[洞穴上层(环境)](Env_HighChamber.md)  |  被动  |  1  
-[洞穴底层(环境)](Env_LowChamber.md)  |  被动  |  1  
-[洞穴中层(环境)](Env_MidChamber.md)  |  被动  |  1  
-[狭窄通道(环境)](Env_NarrowTunnel.md)  |  被动  |  1  
-[幽暗洞穴(环境)](Env_CaveDark.md)  |  被动  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CrystalChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[晶石洞穴(环境)](Env_CrystalChamber.md)](Env_CrystalChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DampChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[潮湿洞穴(环境)](Env_DampChamber.md)](Env_DampChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[阴暗洞穴(环境)](Env_DarkChamber.md)](Env_DarkChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FloodedChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[覆溺洞穴(环境)](Env_FloodedChamber.md)](Env_FloodedChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴上层(环境)](Env_HighChamber.md)](Env_HighChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴底层(环境)](Env_LowChamber.md)](Env_LowChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴中层(环境)](Env_MidChamber.md)](Env_MidChamber.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/NarrowTunnel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[狭窄通道(环境)](Env_NarrowTunnel.md)](Env_NarrowTunnel.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[幽暗洞穴(环境)](Env_CaveDark.md)](Env_CaveDark.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[猎手来了(事件)](Event_HunterFight.md)  |  触发事件  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[猎手来了(事件)](Event_HunterFight.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="夜晚 - 卡牌生存百科 Card Survival Wiki";</script>

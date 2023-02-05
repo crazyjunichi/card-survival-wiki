@@ -3,36 +3,19 @@
 #### ** 变化范围: ** 0 ~ 2016  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-1 ～ 2016  |  <img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;">航行距离  |    |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 2016</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>航行距离</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [航行](Sailed.md)  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成+3  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成+2  
-[木筏(环境)](Env_Raft.md)  |  条件被动  |  加成+1  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成+1  
-[木筏(环礁)](RaftEntranceAtoll.md)  |  被动  |  加成-1  
-[离开木筏](RaftExitAtoll.md)  |  被动  |  加成-1  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成-1.5  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成-2.5  
-[扬起的帆](SailUp_Raft.md)  |  条件被动  |  加成-3.5  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+3</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[木筏(环境)](Env_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[木筏(环礁)](RaftEntranceAtoll.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[离开木筏](RaftExitAtoll.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成-1.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成-2.5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[扬起的帆](SailUp_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >条件被动</td><td  style="text-align:left;vertical-align:top;" >加成-3.5</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[开始冒险](Start_Raft.md)  |  把木筏推下水  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[开始冒险](Start_Raft.md)](Start_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >把木筏推下水</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[有船来了！(事件)](Event_ShipRescueDistance.md)  |  触发事件  |  2016  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  1680 ~ 2016  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  1344 ~ 2016  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  1008 ~ 2016  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  672 ~ 2016  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  触发事件  |  336 ~ 2016  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[有船来了！(事件)](Event_ShipRescueDistance.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >2016</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[着陆预警！(事件)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >1680 ~ 2016</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[着陆预警！(事件)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >1344 ~ 2016</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[着陆预警！(事件)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >1008 ~ 2016</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[着陆预警！(事件)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >672 ~ 2016</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[着陆预警！(事件)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >336 ~ 2016</td></tr></tbody></table>  
+  
 
 
 <script>document.title="距离 - 卡牌生存百科 Card Survival Wiki";</script>

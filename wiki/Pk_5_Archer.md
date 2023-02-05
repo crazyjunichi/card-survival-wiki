@@ -1,15 +1,8 @@
 # 弓箭手  
 > 擅长箭术。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  10太阳  
-分数  |  -1000  
-初始装备  |  无  
-额外卡牌  |  [弓(蓝图)](Bp_Bow.md)<br>[箭矢(蓝图)](Bp_Arrow.md)  
-初始状态  |  [箭术(技能)](Skill_Archery.md)+75  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >10☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[弓(蓝图)](Bp_Bow.md)](Bp_Bow.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[箭矢(蓝图)](Bp_Arrow.md)](Bp_Arrow.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[箭术(技能)](Skill_Archery.md)](Skill_Archery.md)+75</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="弓箭手 - 卡牌生存百科 Card Survival Wiki";</script>

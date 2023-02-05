@@ -1,4 +1,3 @@
 # “贝壳”  
-- [海螺](Conch.md)  
-- [碎海螺壳](ConchBroken.md)  
-- [漂亮贝壳](SeashellsPretty.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Conch.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[海螺](Conch.md)](Conch.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ConchBroken.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[碎海螺壳](ConchBroken.md)](ConchBroken.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PrettySeashells.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[漂亮贝壳](SeashellsPretty.md)](SeashellsPretty.md)</div></div>  
+  

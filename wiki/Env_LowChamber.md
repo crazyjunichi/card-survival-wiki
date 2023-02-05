@@ -1,16 +1,11 @@
 # 洞穴底层  
 > 这里黑黢黢、静悄悄的。  
   
-  洞穴底层  |   图片   
- ----  |  ----:   
- ** 黑暗区域 **<br><br>**标签：**	[“洞穴”](tag_Cave.md)<br><br>**容量：**20000<br><br>**初始：**	[洞穴底层(区域)](LowChamber.md)<br><br>** 效果: **<br>[降水值](RainValue.md)-5<br>[绝热](InsulationHeat.md)+6<br>[体感温度](TemperaturePerceived.md)-8<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[夜晚](IsNight.md)+1  |  <img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 黑暗区域 **<br><br>**标签：**	[“洞穴”](tag_Cave.md)<br><br>**容量：**20000<br><br>**初始：**	[洞穴底层](LowChamber.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)-5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+6<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)-8<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)+6<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[遮蔽](Sheltered.md)](Sheltered.md)+1<br>[夜晚](IsNight.md)+1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveChamber.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[洞穴底层(洞穴上层)](CrystalChamberExit.md)  |  离开  
-[洞穴底层(洞穴上层)](NarrowTunnelExit.md)  |  进入  
-[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)  |  爬下去  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴底层(洞穴上层)](CrystalChamberExit.md)](CrystalChamberExit.md)</td><td  style="text-align:left;vertical-align:top;" >离开</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴底层(洞穴上层)](NarrowTunnelExit.md)](NarrowTunnelExit.md)</td><td  style="text-align:left;vertical-align:top;" >进入</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ShaftDown.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[竖井(洞穴中层)](ShaftMidChamberToLowChamber.md)](ShaftMidChamberToLowChamber.md)</td><td  style="text-align:left;vertical-align:top;" >爬下去</td></tr></tbody></table>  
+  
 
 
 <script>document.title="洞穴底层 - 卡牌生存百科 Card Survival Wiki";</script>

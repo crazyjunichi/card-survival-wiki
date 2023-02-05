@@ -1,3 +1,3 @@
 # “椰子（会腐败）”  
-- [半个椰子](CoconutHalf.md)  
-- [带孔椰子](CoconutPerforated.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutHalf.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[半个椰子](CoconutHalf.md)](CoconutHalf.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Coconut.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[带孔椰子](CoconutPerforated.md)](CoconutPerforated.md)</div></div>  
+  

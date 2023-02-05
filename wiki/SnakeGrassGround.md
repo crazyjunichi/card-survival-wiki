@@ -3,26 +3,21 @@
 <br>  
 > 一种非常有用的植物，具有<b>驱虫</b>的功效，可以在岛上大部分<b>丛林</b>中找到。<br><br>它的叶子可以用来制作<b>细线和驱虫膏</b>，可以在营火上燃烧来保护你免受昆虫的伤害，还可以用于<b>烹饪食谱</b>甚至更多。  
   
-  捣碎的蛇草  |   图片   
- ----  |  ----:   
- **重量：**50  |  <img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**50</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpiderLilyLeavesGround.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[蛇草](SnakeGrass.md)  |  捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SnakeGrass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蛇草](SnakeGrass.md)](SnakeGrass.md)</td><td  style="text-align:left;vertical-align:top;" >捣碎<br>** 拖入：**[“锤”](tag_Hammer.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-食用<br>[食用蔬菜类动作](VegetarianAction.md)<br>[进食动作](EatingAction.md)  |  15分  |    |  ** 自身：**<br>→消失  |  [饱食](Satiation.md)+10<br>[胃](Stomach.md)+2<br>[水分](Hydration.md)+4<br>[情绪](Morale.md)-10<br>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)+30<br>[腹泻](Diarrhoea.md)+10<br>[细菌性发烧](BacteriaFever.md)-10<br>[污垢](Filth.md)+4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >食用<br>[食用蔬菜类动作(组)](VegetarianAction.md)<br>[进食动作(组)](EatingAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SaturationVegetables.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蔬菜<nobr>厌倦度</nobr>](SaturationVegetables.md)](SaturationVegetables.md)+30<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)+10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[细菌性发烧](BacteriaFever.md)](BacteriaFever.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)+4</td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [驱虫膏(蓝图)](Bp_BugRepellent.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BugRepellant.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[驱虫膏(蓝图)](Bp_BugRepellent.md)](Bp_BugRepellent.md)</div></div>  
   
   
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：672  |  每15分钟-1<br>最多需要：7天  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：672</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：7天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="捣碎的蛇草 - 卡牌生存百科 Card Survival Wiki";</script>

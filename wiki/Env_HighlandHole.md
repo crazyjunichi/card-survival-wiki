@@ -1,15 +1,11 @@
 # 坑洞  
 > 一个危险的坑洞。  
   
-  坑洞  |   图片   
- ----  |  ----:   
- **容量：**5000<br><br>**初始：**	[铜矿脉(洞穴上层)](CopperVein.md), [骷髅(坑洞)](Skeleton.md), [一具骷髅！(事件)(坑洞)](Event_SkeletonSeen.md), [阴暗裂隙(坑洞)](DarkChamberEntrance.md), [高地坑洞(区域)(坑洞)](HighlandHole.md)<br><br>** 效果: **<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-4<br>[阳光防护](SunProtection.md)+3<br>[遮蔽](Sheltered.md)+1  |     
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**容量：**5000<br><br>**初始：**	[铜矿脉(洞穴上层)](CopperVein.md), [骷髅(坑洞)](Skeleton.md), [一具骷髅！(事件)(坑洞)](Event_SkeletonSeen.md), [阴暗裂隙(坑洞)](DarkChamberEntrance.md), [高地坑洞(坑洞)](HighlandHole.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)-4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[遮蔽](Sheltered.md)](Sheltered.md)+1</td><td  style="width:20%;text-align:left;vertical-align:top;" ></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[离开(阴暗洞穴)](DarkChamberExit.md)  |  离开  
-[坑洞(西部高地)](HighlandHoleEntrance.md)  |  爬下去  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开(阴暗洞穴)](DarkChamberExit.md)](DarkChamberExit.md)</td><td  style="text-align:left;vertical-align:top;" >离开</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HoleDownRope.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[坑洞(西部高地)](HighlandHoleEntrance.md)](HighlandHoleEntrance.md)</td><td  style="text-align:left;vertical-align:top;" >爬下去</td></tr></tbody></table>  
+  
 
 
 <script>document.title="坑洞 - 卡牌生存百科 Card Survival Wiki";</script>

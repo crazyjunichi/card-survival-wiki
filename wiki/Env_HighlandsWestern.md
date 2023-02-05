@@ -1,18 +1,11 @@
 # 西部高地  
 > 被丛林覆盖的山脉。  
   
-  西部高地  |   图片   
- ----  |  ----:   
- **标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[西部高地(区域)](HighlandsWestern.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+2<br>[绝热](InsulationHeat.md)+2<br>[蚊虫数量](BugPopulation.md)+2  |  <img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“干燥环境”](tag_EnvDry.md), [“高地”](tag_Highland.md), [“东”](tag_East.md), [“开阔环境”](tag_EnvOpen.md)<br><br>**初始：**	[西部高地](HighlandsWestern.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[雨水防护](RainProtection.md)](RainProtection.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)+2</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Jungle.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[离开](HighlandHoleExit.md)  |  爬上去  
-[前往西部高地(西部草原)](Path_GrasslandsWToHighlandsW.md)  |  前往  
-[前往西部高地](Path_HighlandsEToHighlandsW.md)  |  前往  
-[前往西部高地(丛林高地)](Path_JungleHighlandsToHighlandsW.md)  |  前往  
-[前往丛林高地](Path_ValleyToJungleHighlands.md)  |  爬上去  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HoleUp.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[离开](HighlandHoleExit.md)](HighlandHoleExit.md)</td><td  style="text-align:left;vertical-align:top;" >爬上去</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往西部高地(西部草原)](Path_GrasslandsWToHighlandsW.md)](Path_GrasslandsWToHighlandsW.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往西部高地](Path_HighlandsEToHighlandsW.md)](Path_HighlandsEToHighlandsW.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往西部高地(丛林高地)](Path_JungleHighlandsToHighlandsW.md)](Path_JungleHighlandsToHighlandsW.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CliffsUp.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往丛林高地](Path_ValleyToJungleHighlands.md)](Path_ValleyToJungleHighlands.md)</td><td  style="text-align:left;vertical-align:top;" >爬上去</td></tr></tbody></table>  
+  
 
 
 <script>document.title="西部高地 - 卡牌生存百科 Card Survival Wiki";</script>

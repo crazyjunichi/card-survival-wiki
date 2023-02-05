@@ -3,31 +3,14 @@
 #### ** 变化范围: ** 0 ~ 14000  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 6000  |  低密度  |    |  [巨蜥种群数量](Pop_Monitor.md)加成+0.5<br>[灰山鹑种群数量](Pop_Partridge.md)加成-1<br>[老鼠种群数量](Pop_Mouse.md)加成-1  |    
-6001 ～ 10000  |  中等密度  |    |  [巨蜥种群数量](Pop_Monitor.md)加成+0.75<br>[灰山鹑种群数量](Pop_Partridge.md)加成-2<br>[老鼠种群数量](Pop_Mouse.md)加成-2  |    
-10001 ～ 14000  |  高密度  |    |  [巨蜥种群数量](Pop_Monitor.md)加成+1<br>[灰山鹑种群数量](Pop_Partridge.md)加成-3<br>[老鼠种群数量](Pop_Mouse.md)加成-4  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 6000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[巨蜥种群数量](Pop_Monitor.md)加成+0.5<br>[灰山鹑种群数量](Pop_Partridge.md)加成-1<br>[老鼠种群数量](Pop_Mouse.md)加成-1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >6001 ～ 10000</td><td  style="text-align:left;vertical-align:top;" >中等密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[巨蜥种群数量](Pop_Monitor.md)加成+0.75<br>[灰山鹑种群数量](Pop_Partridge.md)加成-2<br>[老鼠种群数量](Pop_Mouse.md)加成-2</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >10001 ～ 14000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[巨蜥种群数量](Pop_Monitor.md)加成+1<br>[灰山鹑种群数量](Pop_Partridge.md)加成-3<br>[老鼠种群数量](Pop_Mouse.md)加成-4</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[巨蜥(事件)](Event_MonitorRummaging.md)  |  无能为力地看着……  |  100  
-[原木陷阱](LogTrap.md)  |  捕捉猎物  |  -1000  
-[陷坑](TrappingPit.md)  |  捕捉猎物  |  -1000  
-[我拿下它了，但我受伤了。(事件)](Event_MonitorFightMixedSuccess.md)  |  继续  |  -1000  
-[巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)  |  继续  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥(事件)](Event_MonitorRummaging.md)](Event_MonitorRummaging.md)</td><td  style="text-align:left;vertical-align:top;" >无能为力地看着……</td><td  style="text-align:left;vertical-align:top;" >100</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LogTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[原木陷阱](LogTrap.md)](LogTrap.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TrappingPit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陷坑](TrappingPit.md)](TrappingPit.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[我拿下它了，但我受伤了。(事件)](Event_MonitorFightMixedSuccess.md)](Event_MonitorFightMixedSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥倒下了！(事件)](Event_MonitorFightSuccess.md)](Event_MonitorFightSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[诱捕笼](CageTrapPlaced.md)  |  转化需要  |  1000 ~ 14000  
-[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 14000  
-[原木陷阱](LogTrap.md)  |  转化需要  |  1000 ~ 14000  
-[套索陷阱](SnareTrap.md)  |  转化需要  |  1000 ~ 14000  
-[陷坑](TrappingPit.md)  |  转化需要  |  1000 ~ 14000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 14000  
-[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 14000  
-[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 14000  
-[红树林(区域)](Mangroves.md)  |  影响  |  1000 ~ 14000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[诱捕笼](CageTrapPlaced.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[落石陷阱](DeadfallTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[原木陷阱](LogTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[套索陷阱](SnareTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[陷坑](TrappingPit.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[荒芜沙滩](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部草原](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部草原](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[红树林](Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 14000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="巨蜥种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,25 +3,17 @@
 <br>  
 > 香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。  
   
-  香蕉树桩  |   图片   
- ----  |  ----:   
- **槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)  |  <img decoding="async" src="Sprite/BananaStump.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BananaStump.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[摘光的香蕉树](BananaTreeCleared.md)  |  砍树<br>** 拖入：**[石斧](StoneAxe.md)  
-[摘光的香蕉树](BananaTreeCleared.md)  |  砍树<br>** 拖入：**[“斧”](tag_Axe.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BananaTreeCleared.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[摘光的香蕉树](BananaTreeCleared.md)](BananaTreeCleared.md)</td><td  style="text-align:left;vertical-align:top;" >砍树<br>** 拖入：**[石斧](StoneAxe.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BananaTreeCleared.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[摘光的香蕉树](BananaTreeCleared.md)](BananaTreeCleared.md)</td><td  style="text-align:left;vertical-align:top;" >砍树<br>** 拖入：**[“斧”](tag_Axe.md)</td></tr></tbody></table>  
+  
 ## 转化  
-放入  |  动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“灌溉用水”](tag_WaterFresh.md)  |  继续填充  |  15分  |    |  含水量  +12  |    
-[“储水容器”](tag_WaterContainer.md)  |  开始填充  |  15分  |    |  ** [water]  **<br>[水](LQ_Water.md)(+0.5)<br>  |    
-[刮净的皮](SkinFleshed.md)  |  鞣制皮革  |  15分  |    |  耐久  -1  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >放入</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“灌溉用水”](tag_WaterFresh.md)</td><td  style="text-align:left;vertical-align:top;" >继续填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量  +12</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[“储水容器”](tag_WaterContainer.md)</td><td  style="text-align:left;vertical-align:top;" >开始填充</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** [water]  **<br>[水](LQ_Water.md)(+0.5)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[刮净的皮](SkinFleshed.md)</td><td  style="text-align:left;vertical-align:top;" >鞣制皮革</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >耐久  -1</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：188<br>最大：188  |  每15分钟-1<br>最多需要：1天23小时  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：188<br>最大：188</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：1天23小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="香蕉树桩 - 卡牌生存百科 Card Survival Wiki";</script>

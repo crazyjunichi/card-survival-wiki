@@ -1,3 +1,3 @@
 # “大腿撕裂伤”  
-- [左腿撕裂伤](W_LegLacerationL.md)  
-- [已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLaceration.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[左腿撕裂伤](W_LegLacerationL.md)](W_LegLacerationL.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LegLacerationStitched.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[已缝合的左腿撕裂伤](W_LegLacerationLStitched.md)](W_LegLacerationLStitched.md)</div></div>  
+  

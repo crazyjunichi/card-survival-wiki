@@ -1,15 +1,8 @@
 # 石匠  
 > 善于制作石制工具。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  10太阳  
-分数  |  -1000  
-初始装备  |  无  
-额外卡牌  |  [燧石刀(蓝图)](Bp_FlintKnife.md)<br>[燧石长矛(蓝图)](Bp_FlintSpear.md)<br>[燧石斧(蓝图)](Bp_FlintAxe.md)<br>[黑曜石长矛(蓝图)](Bp_ObsidianSpear.md)  
-初始状态  |  [石工(技能)](Skill_Knapping.md)+75  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >10☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintKnife.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石刀(蓝图)](Bp_FlintKnife.md)](Bp_FlintKnife.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearFlint.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石长矛(蓝图)](Bp_FlintSpear.md)](Bp_FlintSpear.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石斧(蓝图)](Bp_FlintAxe.md)](Bp_FlintAxe.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearObsidian.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黑曜石长矛(蓝图)](Bp_ObsidianSpear.md)](Bp_ObsidianSpear.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Obsidian.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[石工(技能)](Skill_Knapping.md)](Skill_Knapping.md)+75</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="石匠 - 卡牌生存百科 Card Survival Wiki";</script>

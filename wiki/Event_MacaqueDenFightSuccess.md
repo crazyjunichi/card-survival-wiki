@@ -1,21 +1,14 @@
 # 我做到啦！  
 > 我击败了猕猴们，它们让出了进洞的道路。  
   
-  我做到啦！  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用长矛攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用弓箭攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用枪攻击！  
-[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)  |  用投石索攻击！  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用长矛攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用弓箭攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用枪攻击！</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)](Event_MacaqueDenFight.md)</td><td  style="text-align:left;vertical-align:top;" >用投石索攻击！</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-继续<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [猕猴尸体](MacaqueCarcass.md)(+1)<br>  [猕猴窝(环境)](Env_MacaqueDen.md)(+1)<br>基础权重：90  |  [情绪](Morale.md)+20<br>[猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+750  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >继续<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Carcass]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueCarcass.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴尸体](MacaqueCarcass.md)](MacaqueCarcass.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueDen.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[猕猴窝(环境)](Env_MacaqueDen.md)](Env_MacaqueDen.md)(+1)<br>基础权重：90</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+20<br>[猕猴种群数量](Pop_Macaque.md)-1000<br>[害怕猕猴](MacaqueFear.md)+750</td></tr></tbody></table>  
+  
 
 
 <script>document.title="我做到啦！ - 卡牌生存百科 Card Survival Wiki";</script>

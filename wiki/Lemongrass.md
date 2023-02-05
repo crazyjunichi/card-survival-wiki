@@ -3,24 +3,14 @@
 <br>  
 > 这种可食用的草含有香茅，具有柠檬般的风味和驱虫特性。<br><br>可以从这种植物中提取香茅精油，用于制作驱虫蜡烛。  
   
-  柠檬草  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/LemonGrass.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrass.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[柠檬草田](CropPlotLemonGrass.md)  |  转化  
-[海湾(区域)](Bay.md)  |  随便逛逛  
-[沙滩(区域)](Beach.md)  |  随便逛逛  
-[西部草原(区域)](GrasslandsW.md)  |  探索  
-[西部高地(区域)](HighlandsWestern.md)  |  探索  
-[丛林边缘(区域)](Outskirts.md)  |  探索  
-[神秘谷(区域)](SecretValley.md)  |  探索  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CropPlotGrowing.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[柠檬草田](CropPlotLemonGrass.md)](CropPlotLemonGrass.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bay.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海湾](Bay.md)](Bay.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Grasslands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部草原](GrasslandsW.md)](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部高地](HighlandsWestern.md)](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林边缘](Outskirts.md)](Outskirts.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SecretValley.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神秘谷](SecretValley.md)](SecretValley.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-采集<br>  |  15分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [柠檬草](LemongrassStalks.md)(+2～+3)<br>  |  [药草学(技能)](Skill_Herbology.md)+1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >采集<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[柠檬草](LemongrassStalks.md)](LemongrassStalks.md)(+2～+3)<br></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[药草学(技能)](Skill_Herbology.md)](Skill_Herbology.md)+1</td></tr></tbody></table>  
+  
 
 
 <script>document.title="柠檬草 - 卡牌生存百科 Card Survival Wiki";</script>

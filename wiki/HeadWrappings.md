@@ -3,28 +3,20 @@
 <br>  
 >   
   
-  头巾  |   图片   
- ----  |  ----:   
- **重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“头部（内层）”](tag_InnerHead.md), [“头部（外层）”](tag_OuterHead.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>**可使用次数：**2400<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+0.5  |  <img decoding="async" src="Sprite/Footwraps.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“头部（内层）”](tag_InnerHead.md), [“头部（外层）”](tag_OuterHead.md), [“腿部（内层）”](tag_Clothing.md)<br><br>**装备：**[“头部”](eTag_Head.md)<br><br>**可使用次数：**2400<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+0.5</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Footwraps.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[头部（内层）(蓝图)](InnerHeadBlueprint.md)  |  制作头巾<br>** 拖入：**[布](Cloth.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[头部（内层）(蓝图)](InnerHeadBlueprint.md)</td><td  style="text-align:left;vertical-align:top;" >制作头巾<br>** 拖入：**[布](Cloth.md)</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-撕开布料<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>  [布片](ClothSmall.md)(+2)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >撕开布料<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClothSmall.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[布片](ClothSmall.md)](ClothSmall.md)(+2)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：2400<br>最大：2400  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
-<img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;">  |  初始：0<br>最大：12  |  每15分钟-1<br>最多需要：3小时  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：2400<br>最大：2400</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td  style="text-align:left;vertical-align:top;" >初始：0<br>最大：12</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：3小时</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Wet  |  ** 需要属性：**<br><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;">: 1～12(8.33%～100%)  |    |  [湿度](Wetness.md)+20  
-FillUnderRain  |  ** 需要状态：**<br>[遮蔽](Sheltered.md): 0-0<br>[淋雨](RainExposure.md): 1-5  |  <img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"> +2(16.66%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Wet</td><td  style="text-align:left;vertical-align:top;" >** 需要属性：**<br><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>: 1～12(8.33%～100%)</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Wetness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[湿度](Wetness.md)](Wetness.md)+20</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >FillUnderRain</td><td  style="text-align:left;vertical-align:top;" >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[遮蔽](Sheltered.md)](Sheltered.md): 0-0<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[淋雨](RainExposure.md)](RainExposure.md): 1-5</td><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div> +2(16.66%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="头巾 - 卡牌生存百科 Card Survival Wiki";</script>

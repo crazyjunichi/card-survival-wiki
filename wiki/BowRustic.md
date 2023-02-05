@@ -3,25 +3,17 @@
 <br>  
 > 箭术是使用<b>弓箭</b>所需的技能。这种远程武器在狩猎时比长矛更<b>安全</b>，但需要较高水平才能得心应手。此外，弓还需要足够高的<b>木工技能</b>才能制作。<br><br>使用弓时，请确保您的手牌或<b>箭筒</b>里装备了<b>箭</b>。  
   
-  简易的弓  |   图片   
- ----  |  ----:   
- ** 不可删除 **<br><br>** 装备时等效于拿在手上 **<br><br>**重量：**250<br><br>**装备时减重：**-150<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“后背装备”](eTag_Backpack.md)<br><br>**可使用次数：**75  |  <img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可删除 **<br><br>** 装备时等效于拿在手上 **<br><br>**重量：**250<br><br>**装备时减重：**-150<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**装备：**[“后背装备”](eTag_Backpack.md)<br><br>**可使用次数：**75</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[弓(蓝图)](Bp_Bow.md)  |  蓝图制造  
-[上弦的简易弓](BowRustic_Copper.md)  |  转化  
-[上弦的简易弓](BowRustic_Simple.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[弓(蓝图)](Bp_Bow.md)](Bp_Bow.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[上弦的简易弓](BowRustic_Copper.md)](BowRustic_Copper.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[上弦的简易弓](BowRustic_Simple.md)](BowRustic_Simple.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-练习<br>[手部动作](HandAction.md)  |  1小时  |  [手部动作受限](ModifierHand.md): 0-2<br>[光亮](Light.md): 10-100<br><br>[简易箭矢](ArrowSimple.md)存在于手中  |  ** 自身：**<br>使用次数  -1(-1.33%)<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1  |  [箭术(技能)](Skill_Archery.md)+1  
-拆解<br>  |  30分  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle]  **<br>  [长木棍](StickLong.md)(+1)<br>  [细线](CordFiber.md)(+2)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >练习<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" >[手部动作受限](ModifierHand.md): 0-2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100<br><br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[简易箭矢](ArrowSimple.md)](ArrowSimple.md)存在于手中</td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>使用次数  -1(-1.33%)<br><br>** 相关卡牌 **<br>[简易箭矢](ArrowSimple.md)可用次数  -1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[箭术(技能)](Skill_Archery.md)](Skill_Archery.md)+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >拆解<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Dismantle]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[长木棍](StickLong.md)](StickLong.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：75<br>最大：75  |  -  |  ** 到达0时： **<br>  [小树枝](Sticks.md)(+1)<br>  [细线](CordFiber.md)(+2)<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：75<br>最大：75</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kindling.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小树枝](Sticks.md)](Sticks.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CordFiber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[细线](CordFiber.md)](CordFiber.md)(+2)<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="简易的弓 - 卡牌生存百科 Card Survival Wiki";</script>

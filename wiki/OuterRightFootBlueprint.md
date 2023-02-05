@@ -1,9 +1,7 @@
 # 左脚（外层）  
 >   
   
-  左脚（外层）  |   图片   
- ----  |  ----:   
-   |     
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ></td></tr></tbody></tbody></table>  
   
 
 

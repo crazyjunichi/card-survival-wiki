@@ -3,23 +3,14 @@
 #### ** 变化范围: ** 0 ~ 20  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[酸湖(区域)(火山)](AcidLake.md)  |  探索  |  1  
-[东部高地(区域)](HighlandsEastern.md)  |  探索  |  1  
-[西部高地(区域)](HighlandsWestern.md)  |  探索  |  1  
-[火山(区域)](Volcano.md)  |  探索  |  1  
-[补给胶囊](TV_SupplyCapsule.md)  |  打开  |  -20  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AcidLake.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[酸湖(火山)](AcidLake.md)](AcidLake.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HighlandsEastern.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[东部高地](HighlandsEastern.md)](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Highlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部高地](HighlandsWestern.md)](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Volcano.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火山](Volcano.md)](Volcano.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style="text-align:left;vertical-align:top;" >打开</td><td  style="text-align:left;vertical-align:top;" >-20</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[酸湖(区域)(火山)](AcidLake.md)  |  影响  |  0 ~ 9  
-[东部高地(区域)](HighlandsEastern.md)  |  影响  |  0 ~ 9  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  0 ~ 9  
-[火山(区域)](Volcano.md)  |  影响  |  0 ~ 9  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[酸湖(火山)](AcidLake.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部高地](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[火山](Volcano.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >0 ~ 9</td></tr></tbody></table>  
+  
 
 
 <script>document.title="真人秀 高地 - 探索 - 卡牌生存百科 Card Survival Wiki";</script>

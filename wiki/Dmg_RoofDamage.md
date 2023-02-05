@@ -3,20 +3,14 @@
 <br>  
 > <b>棚屋和泥屋</b>的屋顶有时会出现破洞，特别是在<b>风暴</b>中。<br>当这种情况发生时，一定要尽快修复它们，否则你将面临整个屋顶<b>倒塌</b>的风险。<br><br>屋顶损坏通常会降低你的<b>不适</b>，并加快房屋<b>变脏</b>的速度。倒塌的屋顶影响更大，且不再为你遮挡<b>雨和太阳</b>。  
   
-  屋顶损坏  |   图片   
- ----  |  ----:   
- ** 效果: **<br>[舒适度](Comfort.md)-250  |  <img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)-250</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[泥屋(区域)](MudHut.md)  |  转化  
-[泥屋(损坏)(区域)](MudHutRuins.md)  |  转化  
-[棚屋(区域)](Shed.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥屋](MudHut.md)](MudHut.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥屋(损坏)](MudHutRuins.md)](MudHutRuins.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棚屋](Shed.md)](Shed.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [棕榈叶](PalmFronds.md) x 10  |  1小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PalmTreeLeaves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棕榈叶](PalmFronds.md)](PalmFronds.md) x 10</td><td  style="text-align:left;vertical-align:top;" >1小时</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="屋顶损坏 - 卡牌生存百科 Card Survival Wiki";</script>

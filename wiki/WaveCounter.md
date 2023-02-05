@@ -3,44 +3,17 @@
 #### ** 变化范围: ** 0 ~ 24  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 加成值影响因素  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[后有风暴](OpenSea_StormBehind.md)  |  被动  |  加成+4  
-[后有风暴](OpenSea_StormBehindInfinite.md)  |  被动  |  加成+4  
-[前有风暴](OpenSea_StormFront.md)  |  被动  |  加成+4  
-[平静](OpenSea_Calm.md)  |  被动  |  加成-24  
-[平静](OpenSea_CalmInfinite.md)  |  被动  |  加成-24  
-[风向有利](OpenSea_Favourable.md)  |  被动  |  加成-24  
-[风向不利](OpenSea_UnFavourable.md)  |  被动  |  加成-24  
-[风向非常有利](OpenSea_VeryFavourable.md)  |  被动  |  加成-24  
-[风向非常有利](OpenSea_VeryFavourableInfinite.md)  |  被动  |  加成-24  
-[风向非常不利](OpenSea_VeryUnFavourable.md)  |  被动  |  加成-24  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[后有风暴](OpenSea_StormBehind.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成+4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[后有风暴](OpenSea_StormBehindInfinite.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成+4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[前有风暴](OpenSea_StormFront.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成+4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[平静](OpenSea_Calm.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[平静](OpenSea_CalmInfinite.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[风向有利](OpenSea_Favourable.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[风向不利](OpenSea_UnFavourable.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[风向非常有利](OpenSea_VeryFavourable.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[风向非常有利](OpenSea_VeryFavourableInfinite.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[风向非常不利](OpenSea_VeryUnFavourable.md)</td><td  style="text-align:left;vertical-align:top;" >被动</td><td  style="text-align:left;vertical-align:top;" >加成-24</td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[巨浪击中了木筏！(事件)](Event_Wave.md)  |  触发事件  |  -24  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaveEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨浪击中了木筏！(事件)](Event_Wave.md)](Event_Wave.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >-24</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[巨浪击中了木筏！(事件)](Event_Wave.md)  |  触发事件  |  24  
-[睡袋](BedRoll.md)  |  小憩  |  12 ~ 24  
-[睡袋](BedRoll.md)  |  睡觉  |  12 ~ 24  
-[叶床](LeafBed.md)  |  小憩  |  12 ~ 24  
-[叶床](LeafBed.md)  |  睡觉  |  12 ~ 24  
-[人鱼巢](MermaidNest.md)  |  小憩  |  12 ~ 24  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  12 ~ 24  
-[无法控制焦虑！(事件)](Event_AnxietyAttack.md)  |  继续  |  12 ~ 24  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  12 ~ 24  
-[睡袋](BedRoll.md)  |  小憩  |  0  
-[睡袋](BedRoll.md)  |  睡觉  |  0  
-[叶床](LeafBed.md)  |  小憩  |  0  
-[叶床](LeafBed.md)  |  睡觉  |  0  
-[人鱼巢](MermaidNest.md)  |  小憩  |  0  
-[人鱼巢](MermaidNest.md)  |  睡觉  |  0  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  0  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[巨浪击中了木筏！(事件)](Event_Wave.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[睡袋](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[睡袋](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[叶床](LeafBed.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[叶床](LeafBed.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[人鱼巢](MermaidNest.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[人鱼巢](MermaidNest.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[无法控制焦虑！(事件)](Event_AnxietyAttack.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[你睡着了！(事件)](Event_FallingAsleep.md)</td><td  style="text-align:left;vertical-align:top;" >Zzz……</td><td  style="text-align:left;vertical-align:top;" >12 ~ 24</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[睡袋](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[睡袋](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[叶床](LeafBed.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[叶床](LeafBed.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[人鱼巢](MermaidNest.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[人鱼巢](MermaidNest.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[你睡着了！(事件)](Event_FallingAsleep.md)</td><td  style="text-align:left;vertical-align:top;" >Zzz……</td><td  style="text-align:left;vertical-align:top;" >0</td></tr></tbody></table>  
+  
 
 
 <script>document.title="波次 - 卡牌生存百科 Card Survival Wiki";</script>

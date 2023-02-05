@@ -3,28 +3,16 @@
 <br>  
 >   
   
-  泥砖  |   图片   
- ----  |  ----:   
- **重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)  |  <img decoding="async" src="Sprite/MudBrick.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**150<br><br>**标签：**	[“沉重的”](tag_Heavy.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudBrick.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[泥堆](MudPile.md)  |  制作泥砖<br>** 拖入：**[“抗裂剂”](tag_Temper.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Mud.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥堆](MudPile.md)](MudPile.md)</td><td  style="text-align:left;vertical-align:top;" >制作泥砖<br>** 拖入：**[“抗裂剂”](tag_Temper.md)</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“锤”](tag_Hammer.md)  |  破坏<br>[手部动作](HandAction.md)  |  15分  |    |  ** 自身: **<br>→ [干土堆](DirtPile.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“锤”](tag_Hammer.md)</td><td  style="text-align:left;vertical-align:top;" >破坏<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DirtPile.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[干土堆](DirtPile.md)](DirtPile.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可用于蓝图  
-- [畜栏(蓝图)](Bp_Enclosure.md)  
-- [熔炉(蓝图)](Bp_Forge.md)  
-- [窑炉(蓝图)](Bp_Kiln.md)  
-- [高级窑炉(蓝图)](Bp_KilnAdvanced.md)  
-- [泥屋(蓝图)](Bp_MudHut.md)  
-- [火炉(蓝图)](Bp_Stove.md)  
-- [滤水器(蓝图)](Bp_WaterFilter.md)  
-- [蓄水池(蓝图)](Bp_WaterReservoir.md)  
-- [水槽(蓝图)](Bp_WateringTrough.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Coop.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[畜栏(蓝图)](Bp_Enclosure.md)](Bp_Enclosure.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Forge.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉(蓝图)](Bp_Forge.md)](Bp_Forge.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Kiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窑炉(蓝图)](Bp_Kiln.md)](Bp_Kiln.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AdvancedKiln.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉(蓝图)](Bp_KilnAdvanced.md)](Bp_KilnAdvanced.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥屋(蓝图)](Bp_MudHut.md)](Bp_MudHut.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火炉(蓝图)](Bp_Stove.md)](Bp_Stove.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterFilter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[滤水器(蓝图)](Bp_WaterFilter.md)](Bp_WaterFilter.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ReservoirWater.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蓄水池(蓝图)](Bp_WaterReservoir.md)](Bp_WaterReservoir.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WateringTrough.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水槽(蓝图)](Bp_WateringTrough.md)](Bp_WateringTrough.md)</div></div>  
   
   
 

@@ -3,24 +3,17 @@
 <br>  
 >   
   
-  劈开的西米树干  |   图片   
- ----  |  ----:   
- **可使用次数：**8  |  <img decoding="async" src="Sprite/SagoPalmSplit.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**可使用次数：**8</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SagoPalmSplit.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[石斧](StoneAxe.md)  
-[倒下的西米树](SagoPalmFelled.md)  |  从中劈开<br>** 拖入：**[“斧”](tag_Axe.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SagoPalmFelled.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[倒下的西米树](SagoPalmFelled.md)](SagoPalmFelled.md)</td><td  style="text-align:left;vertical-align:top;" >从中劈开<br>** 拖入：**[石斧](StoneAxe.md)</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SagoPalmFelled.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[倒下的西米树](SagoPalmFelled.md)](SagoPalmFelled.md)</td><td  style="text-align:left;vertical-align:top;" >从中劈开<br>** 拖入：**[“斧”](tag_Axe.md)</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[“切割工具”](tag_Cutter.md)<br>[“斧”](tag_Axe.md)  |  刮取树芯<br>[手部动作](HandAction.md)  |  15分  |  [光亮](Light.md): 10-100<br>[耐力](Stamina.md): 8-32  |  ** 自身: **<br>使用次数  -1(-12.5%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sawdust]  **<br>  [西米树芯](SagoSawdust.md)(+1)<br>基础权重：1  |  [耐力](Stamina.md)-3<br>[体重](Weight.md)-4  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[“切割工具”](tag_Cutter.md)<br>[“斧”](tag_Axe.md)</td><td  style="text-align:left;vertical-align:top;" >刮取树芯<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md): 8-32</td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>使用次数  -1(-12.5%)<br><br>** 使用物: **<br>可用次数  -1<br><br>** 获得: **<br>** [Sawdust]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutGround.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西米树芯](SagoSawdust.md)](SagoSawdust.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeightNormal.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体重](Weight.md)](Weight.md)-4</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：96<br>最大：96  |  每15分钟-1<br>最多需要：1天  |  ** 到达0时： **<br>** [1]  **<br>  [腐烂物](RottenRemains.md)(+2～+4)<br><br>** 自身 **<br>→消失  
-使用次数  |  初始：8<br>最大：8  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：96<br>最大：96</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：1天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br>** [1]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)(+2～+4)<br><br>** 自身 **<br>→消失</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：8<br>最大：8</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="劈开的西米树干 - 卡牌生存百科 Card Survival Wiki";</script>

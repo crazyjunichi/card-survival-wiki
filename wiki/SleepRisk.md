@@ -3,18 +3,11 @@
 #### ** 变化范围: ** 0 ~ 999  
 #### ** 基础变化率: ** -1 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[睡袋](BedRoll.md)  |  睡觉  |  31  
-[窝棚](Shelter.md)  |  睡觉  |  31  
-[木筏庇护所](RaftShelter.md)  |  睡觉  |  31  
-[睡袋](BedRoll.md)  |  小憩  |  15  
-[窝棚](Shelter.md)  |  小憩  |  15  
-[你睡着了！(事件)](Event_FallingAsleep.md)  |  Zzz……  |  15  
-[木筏庇护所](RaftShelter.md)  |  小憩  |  15  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bedroll.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[睡袋](BedRoll.md)](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >31</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shelter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窝棚](Shelter.md)](Shelter.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >31</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RaftShelter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木筏庇护所](RaftShelter.md)](RaftShelter.md)</td><td  style="text-align:left;vertical-align:top;" >睡觉</td><td  style="text-align:left;vertical-align:top;" >31</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bedroll.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[睡袋](BedRoll.md)](BedRoll.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >15</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Shelter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窝棚](Shelter.md)](Shelter.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >15</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherPartiallyCloudy_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[你睡着了！(事件)](Event_FallingAsleep.md)](Event_FallingAsleep.md)</td><td  style="text-align:left;vertical-align:top;" >Zzz……</td><td  style="text-align:left;vertical-align:top;" >15</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RaftShelter.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木筏庇护所](RaftShelter.md)](RaftShelter.md)</td><td  style="text-align:left;vertical-align:top;" >小憩</td><td  style="text-align:left;vertical-align:top;" >15</td></tr></tbody></table>  
+  
 
 
 <script>document.title="睡眠风险 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,14 +3,11 @@
 <br>  
 > 金鸡纳树生长在岛上的<b>丛林</b>和<b>丛林高地</b>。<br><br>它们的树皮经过干燥处理后可以用来制造<b>奎宁</b>，一种治疗和预防<b>疟疾</b>的基本药物。奎宁可以被进一步提炼成一种更有效的药物，称为<b>硫酸奎宁</b>，或用于制作<b>汤力水</b>。  
   
-  硫酸奎宁  |   图片   
- ----  |  ----:   
- ** 解锁条件: **<br>[药草学(技能)](Skill_Herbology.md): 50-150<br><br>** 解锁需求: **<br>[硫磺](Brimstone.md)<br><br>** 动作分类: **<br>[手部动作](HandAction.md)<br>[制造动作](CraftAction.md)  |  <img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 解锁条件: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LemonGrassStalks.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[药草学(技能)](Skill_Herbology.md)](Skill_Herbology.md): 50-150<br><br>** 解锁需求: **<br>[硫磺](Brimstone.md)<br><br>** 动作分类: **<br>[手部动作(组)](HandAction.md)<br>[制造动作(组)](CraftAction.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 制作  
-步骤  |  耗时  |  需求  |  状态变化  |  成品  
-----  |  ----  |  ----  |  ----  |  ----  
-1. [釉面陶罐](GlazedVase.md) x 1([硫酸](LQ_Vitriol.md)含量2) + [金鸡纳树皮粉](QuininePowder.md) x 3(含量0)  |  2小时  |  ** 需要状态: **<br>[光亮](Light.md): 10-100  |  [制作(技能)](Skill_Crafting.md)+0.5<br>[压力](Stress.md)-10  |  [硫酸奎宁](QuinineSulfate.md)(+9)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >步骤</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >需求</th><th  style="text-align:left;vertical-align:top;" >状态变化</th><th  style="text-align:left;vertical-align:top;" >成品</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >1. [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GlazedVase.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[釉面陶罐](GlazedVase.md)](GlazedVase.md) x 1([硫酸](LQ_Vitriol.md)含量2) + [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[金鸡纳树皮粉](QuininePowder.md)](QuininePowder.md) x 3(含量0)</td><td  style="text-align:left;vertical-align:top;" >2小时</td><td  style="text-align:left;vertical-align:top;" >** 需要状态: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md): 10-100</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[制作(技能)](Skill_Crafting.md)](Skill_Crafting.md)+0.5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td><td  style="text-align:left;vertical-align:top;" >[硫酸奎宁](QuinineSulfate.md)(+9)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="硫酸奎宁 - 卡牌生存百科 Card Survival Wiki";</script>

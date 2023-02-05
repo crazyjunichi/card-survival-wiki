@@ -1,7 +1,3 @@
 # 锋利的斧子(组)  
-名称  |  可使用次数  
-----  |  ----  
-[铜斧](AxeCopper.md)  |  50  
-[求生斧](AxeSurvival.md)  |  50  
-[废金属斧](AxeScrap.md)  |  40  
-[燧石斧](AxeFlint.md)  |  25  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CopperAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜斧](AxeCopper.md)](AxeCopper.md)</td><td  style="text-align:left;vertical-align:top;" >50</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SurvivalAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[求生斧](AxeSurvival.md)](AxeSurvival.md)</td><td  style="text-align:left;vertical-align:top;" >50</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ScrapAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[废金属斧](AxeScrap.md)](AxeScrap.md)</td><td  style="text-align:left;vertical-align:top;" >40</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石斧](AxeFlint.md)](AxeFlint.md)</td><td  style="text-align:left;vertical-align:top;" >25</td></tr></tbody></table>  
+  

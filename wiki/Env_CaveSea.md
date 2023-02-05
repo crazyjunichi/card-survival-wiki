@@ -1,14 +1,11 @@
 # 洞穴  
 > 悬崖上潮湿的小洞穴。  
   
-  洞穴  |   图片   
- ----  |  ----:   
- **标签：**	[“洞穴”](tag_Cave.md), [“可能出现海鸥”](tag_Coastal.md)<br><br>**容量：**35000<br><br>**初始：**	[墙上的划痕(洞穴)](WallScratchings.md), [海蚀洞(区域)(洞穴)](CaveSea.md)<br><br>** 效果: **<br>[雨水防护](RainProtection.md)+5<br>[绝热](InsulationHeat.md)+3<br>[体感温度](TemperaturePerceived.md)-4<br>[阳光防护](SunProtection.md)+6<br>[遮蔽](Sheltered.md)+1<br>[内陆恐惧症](LandSickness.md)加成-8<br>[舒适度](Comfort.md)-250  |     
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**标签：**	[“洞穴”](tag_Cave.md), [“可能出现海鸥”](tag_Coastal.md)<br><br>**容量：**35000<br><br>**初始：**	[墙上的划痕(洞穴)](WallScratchings.md), [海蚀洞(洞穴)](CaveSea.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[雨水防护](RainProtection.md)](RainProtection.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[绝热](InsulationHeat.md)](InsulationHeat.md)+3<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)-4<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光防护](SunProtection.md)](SunProtection.md)+6<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[遮蔽](Sheltered.md)](Sheltered.md)+1<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[内陆恐惧症](LandSickness.md)](LandSickness.md)加成-8<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)-250</td><td  style="width:20%;text-align:left;vertical-align:top;" ></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[洞穴](CaveSeaEntrance.md)  |  进入  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CaveEntrance.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[洞穴](CaveSeaEntrance.md)](CaveSeaEntrance.md)</td><td  style="text-align:left;vertical-align:top;" >进入</td></tr></tbody></table>  
+  
 
 
 <script>document.title="洞穴 - 卡牌生存百科 Card Survival Wiki";</script>

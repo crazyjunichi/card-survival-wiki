@@ -5,27 +5,14 @@
 #### ** 变化范围: ** 0 ~ 150  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[黑曜石长矛(蓝图)](Bp_ObsidianSpear.md)  |  蓝图制造  |  5  
-[燧石斧(蓝图)](Bp_FlintAxe.md)  |  蓝图制造  |  4  
-[黑曜石刀(蓝图)](Bp_ObsidianKnife.md)  |  蓝图制造  |  3  
-[黑曜石](Obsidian.md)  |  练习石工<br>** 拖入：**[石头](Stone.md)  |  3  
-[燧石刀(蓝图)](Bp_FlintKnife.md)  |  蓝图制造  |  2  
-[燧石长矛(蓝图)](Bp_FlintSpear.md)  |  蓝图制造  |  2  
-[燧石](Flint.md)  |  练习石工<br>** 拖入：**[石头](Stone.md)  |  2  
-[仪式匕首(蓝图)](Bp_CeremonialDagger.md)  |  蓝图制造  |  1  
-[燧石板](FlintSlab.md)  |  砸开<br>** 拖入：**[石头](Stone.md)  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearObsidian.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黑曜石长矛(蓝图)](Bp_ObsidianSpear.md)](Bp_ObsidianSpear.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintAxe.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石斧(蓝图)](Bp_FlintAxe.md)](Bp_FlintAxe.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >4</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ObsidianKnife.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黑曜石刀(蓝图)](Bp_ObsidianKnife.md)](Bp_ObsidianKnife.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >3</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Obsidian.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[黑曜石](Obsidian.md)](Obsidian.md)</td><td  style="text-align:left;vertical-align:top;" >练习石工<br>** 拖入：**[石头](Stone.md)</td><td  style="text-align:left;vertical-align:top;" >3</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintKnife.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石刀(蓝图)](Bp_FlintKnife.md)](Bp_FlintKnife.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpearFlint.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石长矛(蓝图)](Bp_FlintSpear.md)](Bp_FlintSpear.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Flint.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石](Flint.md)](Flint.md)</td><td  style="text-align:left;vertical-align:top;" >练习石工<br>** 拖入：**[石头](Stone.md)</td><td  style="text-align:left;vertical-align:top;" >2</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Ceremonial Dagger.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[仪式匕首(蓝图)](Bp_CeremonialDagger.md)](Bp_CeremonialDagger.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FlintLarge.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[燧石板](FlintSlab.md)](FlintSlab.md)</td><td  style="text-align:left;vertical-align:top;" >砸开<br>** 拖入：**[石头](Stone.md)</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[石工技能提升！(事件)](Event_SkillKnapping4.md)  |  触发事件  |  150  
-[石工技能提升！(事件)](Event_SkillKnapping3.md)  |  触发事件  |  70 ~ 150  
-[石工技能提升！(事件)](Event_SkillKnapping2.md)  |  触发事件  |  30 ~ 150  
-[石工技能提升！(事件)](Event_SkillKnapping1.md)  |  触发事件  |  10 ~ 150  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[石工技能提升！(事件)](Event_SkillKnapping4.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >150</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[石工技能提升！(事件)](Event_SkillKnapping3.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >70 ~ 150</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[石工技能提升！(事件)](Event_SkillKnapping2.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >30 ~ 150</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[石工技能提升！(事件)](Event_SkillKnapping1.md)</td><td  style="text-align:left;vertical-align:top;" >触发事件</td><td  style="text-align:left;vertical-align:top;" >10 ~ 150</td></tr></tbody></table>  
+  
 
 
 <script>document.title="石工(技能) - 卡牌生存百科 Card Survival Wiki";</script>

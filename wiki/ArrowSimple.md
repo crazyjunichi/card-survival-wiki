@@ -3,29 +3,24 @@
 <br>  
 > 基础而简单的羽箭，用磨尖的<b>木棍和羽毛</b>制成。<br><br>必须将其装备在手牌或箭筒里，你才能够使用弓。  
   
-  简易箭矢  |   图片   
- ----  |  ----:   
- **重量：**25<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“箭矢”](tag_Arrow.md), [“高价值物品”](tag_Valuable.md)<br><br>**可使用次数：**10  |  <img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**25<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“箭矢”](tag_Arrow.md), [“高价值物品”](tag_Valuable.md)<br><br>**可使用次数：**10</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[箭矢(蓝图)](Bp_Arrow.md)  |  蓝图制造  
-[箭杆](ArrowShaft.md)  |  制作箭矢  
-[上弦的简易弓](BowRustic_Simple.md)  |  转化  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Arrow.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[箭矢(蓝图)](Bp_Arrow.md)](Bp_Arrow.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ArrowShaft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[箭杆](ArrowShaft.md)](ArrowShaft.md)</td><td  style="text-align:left;vertical-align:top;" >制作箭矢</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StickLong.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[上弦的简易弓](BowRustic_Simple.md)](BowRustic_Simple.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead></tbody></table>  
+  
 ## 可拖至  
-[蒸馏器(关)](AlembicOff.md) | [蒸馏器(开)](AlembicOn.md) | [营火](Campfire.md) | [营火(熄灭)](CampfireExtinguished.md) | [粘土火盆](ClayFirePit.md) | [粘土火盆(熄灭)](ClayFirePitExtinguished.md) | [火堆](Fire.md) | [火堆(熄灭)](FireExtinguished.md) | [熔炉](Forge.md) | [熔炉(熄灭)](ForgeExtinguished.md) | [窑炉](Kiln.md) | [高级窑炉](KilnAdvanced.md) | [高级窑炉(熄灭)](KilnAdvancedExtinguished.md) | [窑炉(熄灭)](KilnExtinguished.md) | [火炉](Stove.md) | [火炉(熄灭)](StoveExtinguished.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蒸馏器(关)](AlembicOff.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[蒸馏器(开)](AlembicOn.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[营火](Campfire.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[营火(熄灭)](CampfireExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[粘土火盆](ClayFirePit.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[粘土火盆(熄灭)](ClayFirePitExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[火堆](Fire.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[火堆(熄灭)](FireExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[熔炉](Forge.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[熔炉(熄灭)](ForgeExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[窑炉](Kiln.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[高级窑炉](KilnAdvanced.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[高级窑炉(熄灭)](KilnAdvancedExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[窑炉(熄灭)](KilnExtinguished.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[火炉](Stove.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[火炉(熄灭)](StoveExtinguished.md)</div></div>  
+  
 ## 可用于蓝图  
-- [弓(蓝图)](Bp_Bow.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:left;min-width:100px;min-height:0px;margin: auto">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bow.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[弓(蓝图)](Bp_Bow.md)](Bp_Bow.md)</div></div>  
   
   
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-使用次数  |  初始：10<br>最大：10  |  -  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >使用次数</td><td  style="text-align:left;vertical-align:top;" >初始：10<br>最大：10</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="简易箭矢 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -3,22 +3,14 @@
 <br>  
 > 一种天然粘合剂，在锅中一同煮沸皮革与熟石灰（浸泡的生石灰）制成。<br>它会在一段时间后干燥，但可以再次加热恢复为流体。  
   
-  熬制好的胶水  |   图片   
- ----  |  ----:   
- **重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)  |  <img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**350<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[未熬制的胶水](GlueUncooked.md) , [营火](Campfire.md)  |  熬制胶水  
-[未熬制的胶水](GlueUncooked.md) , [粘土火盆](ClayFirePit.md)  |  熬制胶水  
-[未熬制的胶水](GlueUncooked.md) , [火堆](Fire.md)  |  熬制胶水  
-[未熬制的胶水](GlueUncooked.md) , [瓦斯炉(开)](GasCookerOn.md)  |  熬制胶水  
-[未熬制的胶水](GlueUncooked.md) , [火炉](Stove.md)  |  熬制胶水  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未熬制的胶水](GlueUncooked.md)](GlueUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Campfire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[营火](Campfire.md)](Campfire.md)</td><td  style="text-align:left;vertical-align:top;" >熬制胶水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未熬制的胶水](GlueUncooked.md)](GlueUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayFirePit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土火盆](ClayFirePit.md)](ClayFirePit.md)</td><td  style="text-align:left;vertical-align:top;" >熬制胶水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未熬制的胶水](GlueUncooked.md)](GlueUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fire.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火堆](Fire.md)](Fire.md)</td><td  style="text-align:left;vertical-align:top;" >熬制胶水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未熬制的胶水](GlueUncooked.md)](GlueUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GasCookerOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[瓦斯炉(开)](GasCookerOn.md)](GasCookerOn.md)</td><td  style="text-align:left;vertical-align:top;" >熬制胶水</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[未熬制的胶水](GlueUncooked.md)](GlueUncooked.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/StoveOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[火炉](Stove.md)](Stove.md)</td><td  style="text-align:left;vertical-align:top;" >熬制胶水</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-取出胶水<br>  |  -  |    |  ** 自身：**<br>→ [烹饪锅](CookingPot.md)<br><br>** 获得： **<br>** [Glue]  **<br>  [胶水](Glue.md)(+3)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >取出胶水<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CookingPotClosed.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[烹饪锅](CookingPot.md)](CookingPot.md)<br><br>** 获得： **<br>** [Glue]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AloeVeraGel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胶水](Glue.md)](Glue.md)(+3)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="熬制好的胶水 - 卡牌生存百科 Card Survival Wiki";</script>

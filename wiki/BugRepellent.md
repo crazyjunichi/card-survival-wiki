@@ -3,22 +3,17 @@
 <br>  
 > 这种凝胶可以涂抹在你的身体上，增强你的蚊虫防护，以避免蚊虫叮咬。<br><br>当你的<b>药草学</b>足够高时，可以用<b>芦荟膏</b>和<b>捣碎的蛇草</b>制作它。  
   
-  驱虫膏  |   图片   
- ----  |  ----:   
- **重量：**25  |  <img decoding="async" src="Sprite/BugRepellant.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**25</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BugRepellant.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[驱虫膏(蓝图)](Bp_BugRepellent.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BugRepellant.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[驱虫膏(蓝图)](Bp_BugRepellent.md)](Bp_BugRepellent.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-涂抹<br>[手部动作](HandAction.md)  |  -  |    |  ** 自身：**<br>→消失  |  [驱虫](BugRepellentApplied.md)+96  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >涂抹<br>[手部动作(组)](HandAction.md)</td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BugsNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[驱虫](BugRepellentApplied.md)](BugRepellentApplied.md)+96</td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-耐久  |  初始：336  |  每15分钟-1<br>最多需要：3天12小时  |  ** 到达0时： **<br><br>** 自身 **<br>→消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >耐久</td><td  style="text-align:left;vertical-align:top;" >初始：336</td><td  style="text-align:left;vertical-align:top;" >每15分钟-1<br>最多需要：3天12小时</td><td  style="text-align:left;vertical-align:top;" >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="驱虫膏 - 卡牌生存百科 Card Survival Wiki";</script>

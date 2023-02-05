@@ -3,22 +3,17 @@
 <br>  
 > 当你被困在热带岛屿上时，建造一艘<b>木筏</b>来航行可能是你<b>重返文明社会</b>的唯一机会。<br><br>建造木筏是一个大工程，需要将若干<b>原木</b>用<b>绳子</b>捆绑在一起，还需要将许多<b>皮革</b>用<b>细线</b>缝在一起作为船帆。<br>一旦木筏拥有了基础的框架，你就可以加入很多<b>改进工程</b>。<br><br>同时，木筏本身也只是计划的一半：由于不知道需要多长时间才能到达目的地，你还需要很多的<b>补给</b>。<br><br><b>食物、水、用于修理的细线</b>都是至关重要的。此外，取决于你的航行计划，你还可以带上火盆所需的<b>燃料</b>、<b>捕鱼工具</b>或者一些<b>药品</b>。<br><br>准备越充分越好！一旦开始航行，留意<b>顺风或逆风</b>，张开或合上船帆直到你获得救援。  
   
-  离开木筏  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>** 效果: **<br>[距离](Distance.md)加成-1  |  <img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[距离](Distance.md)](Distance.md)加成-1</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[着陆预警！(事件)](Event_Raft_Atoll.md)  |  停在这  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Atoll.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[着陆预警！(事件)](Event_Raft_Atoll.md)](Event_Raft_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >停在这</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-离开木筏<br>  |  -  |    |  ** 获得： **<br>** [Drops]  **<br>  [环礁(环境)](Env_Atoll.md)(+1)<br>  |  [在木筏上](OnRaft.md)-1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >离开木筏<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Drops]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BigIsland.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[环礁(环境)](Env_Atoll.md)](Env_Atoll.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" >[在木筏上](OnRaft.md)-1</td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 1-1  |  →消失  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 1-1</td><td  style="text-align:left;vertical-align:top;" >→消失</td></tr></tbody></table>  
+  
 
 
 <script>document.title="离开木筏 - 卡牌生存百科 Card Survival Wiki";</script>

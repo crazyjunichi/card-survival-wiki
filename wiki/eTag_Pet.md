@@ -1,4 +1,3 @@
 # “宠物”  
-- [祖父](Grandfather.md)  
-- [祖父(健康)](GrandfatherHealthy.md)  
-- [猕猴朋友](MacaqueFriend.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GranfatherSick.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[祖父](Grandfather.md)](Grandfather.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GranfatherHealthy.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[祖父(健康)](GrandfatherHealthy.md)](GrandfatherHealthy.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MacaqueFriend.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[猕猴朋友](MacaqueFriend.md)](MacaqueFriend.md)</div></div>  
+  

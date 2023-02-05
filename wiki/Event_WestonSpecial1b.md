@@ -1,18 +1,14 @@
 # 韦斯顿  
 > 你知道吗？我只是想要谢谢你……创造了我。<br><br>我还挺喜欢活着的。<br>这真的很酷。  
   
-  韦斯顿  |   图片   
- ----  |  ----:   
-   |  <img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)  |  唔……我现在醒了。  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)](Event_WestonSpecial1a.md)</td><td  style="text-align:left;vertical-align:top;" >唔……我现在醒了。</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-不客气，小韦。<br>  |  -  |    |  ** 自身：**<br>→消失<br><br>** 获得： **<br>** [Next Step]  **<br>  [韦斯顿(Special1c)(事件)](Event_WestonSpecial1c.md)(+1)<br>  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >不客气，小韦。<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→消失<br><br>** 获得： **<br>** [Next Step]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Weston.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[韦斯顿(Special1c)(事件)](Event_WestonSpecial1c.md)](Event_WestonSpecial1c.md)(+1)<br></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>

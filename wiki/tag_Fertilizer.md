@@ -1,3 +1,3 @@
 # “肥料”  
-- [肥料](Fertilizer.md)  
-- [硝酸钾](Saltpeter.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FineDirt.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[肥料](Fertilizer.md)](Fertilizer.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Saltpeter.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[硝酸钾](Saltpeter.md)](Saltpeter.md)</div></div>  
+  

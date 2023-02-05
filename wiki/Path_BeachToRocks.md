@@ -3,19 +3,14 @@
 <br>  
 >   
   
-  岩滩  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Beach.md)  |  <img decoding="async" src="Sprite/RockyPath.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Beach.md)</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyPath.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[岩滩(事件)](Event_RocksFound.md)  |  继续  
-[前往沙滩(岩滩)](Path_RocksToBeach.md)  |  前往  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyPath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩(事件)](Event_RocksFound.md)](Event_RocksFound.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeachPath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往沙滩(岩滩)](Path_RocksToBeach.md)](Path_RocksToBeach.md)</td><td  style="text-align:left;vertical-align:top;" >前往</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-前往<br>[腿部动作](LegAction.md)<br>[探索动作](SlipperyAction.md)<br>[旅行动作](TravelAction.md)  |  15分  |    |  ** 获得： **<br>** [Path]  **<br>  [岩滩(环境)](Env_Rocks.md)(+1)<br>  [前往沙滩(岩滩)](Path_RocksToBeach.md)(+1)<br>基础权重：1  |  [足部损伤](FootDamage.md)+20<br>[耐力](Stamina.md)-2<br>[压力](Stress.md)-10<br>[猎手接近](HuntersProximity.md)-6  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >前往<br>[腿部动作(组)](LegAction.md)<br>[探索动作(组)](SlipperyAction.md)<br>[旅行动作(组)](TravelAction.md)</td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 获得： **<br>** [Path]  **<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyPath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩(环境)](Env_Rocks.md)](Env_Rocks.md)(+1)<br>  [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeachPath.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[前往沙滩(岩滩)](Path_RocksToBeach.md)](Path_RocksToBeach.md)(+1)<br>基础权重：1</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Foot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[足部损伤](FootDamage.md)](FootDamage.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Tired.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[耐力](Stamina.md)](Stamina.md)-2<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/HunterProximity.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[猎手接近](HuntersProximity.md)](HuntersProximity.md)-6</td></tr></tbody></table>  
+  
 
 
 <script>document.title="岩滩 - 卡牌生存百科 Card Survival Wiki";</script>

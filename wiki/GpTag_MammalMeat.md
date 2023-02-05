@@ -1,4 +1,3 @@
 # 哺乳动物肉(组)  
-- [野猪肉](BoarMeat.md)  
-- [猕猴肉](MacaqueMeat.md)  
-- [羊肉](GoatMeat.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PorkRaw.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[野猪肉](BoarMeat.md)](BoarMeat.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MonkeyMeat.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[猕猴肉](MacaqueMeat.md)](MacaqueMeat.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GoatMeat.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[羊肉](GoatMeat.md)](GoatMeat.md)</div></div>  
+  

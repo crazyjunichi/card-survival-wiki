@@ -3,24 +3,17 @@
 <br>  
 > 这些水漫的田地可以用来大规模种植水稻，并保护水稻免受<b>农害</b>的侵害以确保更加高产。<br><br>需要<b>铲子，土壤，灰烬</b>和某种<b>肥料</b>来建造，需要大量<b>水</b>来维持。  
   
-  未栽种的稻田  |   图片   
- ----  |  ----:   
- ** 不可堆叠 **<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**储水量：**2000  |  <img decoding="async" src="Sprite/RicePaddyEmpty.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 不可堆叠 **<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“脏容器（敞口）”](tag_ContainerDirty.md), [“容器（蓄水池）”](tag_ContainerReservoir.md), [“水稻田”](tag_Paddy.md)<br><br>**储水量：**2000</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyEmpty.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[水稻田](RicePaddy.md)  |  转化  
-[水稻田(蓝图)](Bp_RicePaddy.md)  |  蓝图制造  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyEmptyPlanted.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水稻田](RicePaddy.md)](RicePaddy.md)</td><td  style="text-align:left;vertical-align:top;" >转化</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyPlanted.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[水稻田(蓝图)](Bp_RicePaddy.md)](Bp_RicePaddy.md)</td><td  style="text-align:left;vertical-align:top;" >蓝图制造</td></tr></tbody></table>  
+  
 ## 可拖入  
-使用  |  动作  |  耗时  |  条件  |  变化  |  玩家状态  
-----  |  ----  |  ----  |  ----  |  ----  |  ----  
-[稻米](RiceGrains.md)  |  种植水稻<br>  |  30分  |    |  ** 自身: **<br>→ [水稻田](RicePaddy.md)<br><br>** 使用物: **<br>→消失  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >使用</th><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Rice.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[稻米](RiceGrains.md)](RiceGrains.md)</td><td  style="text-align:left;vertical-align:top;" >种植水稻<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身: **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RicePaddyEmptyPlanted.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水稻田](RicePaddy.md)](RicePaddy.md)<br><br>** 使用物: **<br>→消失</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 被动效果  
-名称  |  条件  |  变化(每15分钟)  |  玩家状态  
-----  |  ----  |  ----  |  ----  
-Rain  |  ** 需要状态：**<br>[降水值](RainValue.md): 1-5  |  [不安全的水](LQ_WaterUnsafe.md)+50  |    
-Evaporate  |    |  含水量-4  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;" >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >Rain</td><td  style="text-align:left;vertical-align:top;" >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): 1-5</td><td  style="text-align:left;vertical-align:top;" >[不安全的水](LQ_WaterUnsafe.md)+50</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >Evaporate</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >含水量-4</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="未栽种的稻田 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,4 +1,3 @@
 # “内裤”  
-名称  |  可使用次数  
-----  |  ----  
-[内裤](Underwear.md)  |  2688  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Underwear.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[内裤](Underwear.md)](Underwear.md)</td><td  style="text-align:left;vertical-align:top;" >2688</td></tr></tbody></table>  
+  

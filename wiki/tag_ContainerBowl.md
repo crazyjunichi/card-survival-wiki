@@ -1,5 +1,3 @@
 # “碗（容器）”  
-名称  |  储水量  
-----  |  ----  
-[陶碗](ClayBowl.md)  |  300  
-[椰子壳](CoconutShell.md)  |  300  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >储水量</th><th  style="text-align:left;vertical-align:top;" >密封</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/ClayBowl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陶碗](ClayBowl.md)](ClayBowl.md)</td><td  style="text-align:left;vertical-align:top;" >300 (1份)</td><td  style="text-align:left;vertical-align:top;" >❌</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CoconutShell.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子壳](CoconutShell.md)](CoconutShell.md)</td><td  style="text-align:left;vertical-align:top;" >300 (1份)</td><td  style="text-align:left;vertical-align:top;" >❌</td></tr></tbody></table>  
+  

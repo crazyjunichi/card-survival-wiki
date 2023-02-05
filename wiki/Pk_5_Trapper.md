@@ -1,15 +1,8 @@
 # 陷阱能手  
 > 善于设陷阱。  
   
-名称  |  值  
-----  |  ----  
-解锁价格  |  10太阳  
-分数  |  -1000  
-初始装备  |  无  
-额外卡牌  |  [落石陷阱(蓝图)](Bp_DeadfallTrap.md)<br>[套索陷阱(蓝图)](Bp_SnareTrap.md)<br>[捕鱼陷阱(蓝图)](Bp_FishTrap.md)<br>[原木陷阱(蓝图)](Bp_LogTrap.md)<br>[诱捕笼(蓝图)](Bp_CageTrap.md)<br>[陷坑(蓝图)](Bp_TrappingPit.md)  
-初始状态  |  [陷阱(技能)](Skill_Trapping.md)+75  
-被动状态  |  无  
-效果  |    
+<table class="table table-bordered"><thead><tr ><th  style="width:10%;text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >解锁价格</td><td  style="text-align:left;vertical-align:top;" >10☀️</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >分数</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始装备</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >额外卡牌</td><td  style="text-align:left;vertical-align:top;" ><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[落石陷阱(蓝图)](Bp_DeadfallTrap.md)](Bp_DeadfallTrap.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SnareTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[套索陷阱(蓝图)](Bp_SnareTrap.md)](Bp_SnareTrap.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FishTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[捕鱼陷阱(蓝图)](Bp_FishTrap.md)](Bp_FishTrap.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/LogTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[原木陷阱(蓝图)](Bp_LogTrap.md)](Bp_LogTrap.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CageShut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[诱捕笼(蓝图)](Bp_CageTrap.md)](Bp_CageTrap.md) , [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/TrappingPitDisarmed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陷坑(蓝图)](Bp_TrappingPit.md)](Bp_TrappingPit.md)</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >初始状态</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[陷阱(技能)](Skill_Trapping.md)](Skill_Trapping.md)+75</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >被动状态</td><td  style="text-align:left;vertical-align:top;" >无</td></tr><tr ><td  style="width:10%;text-align:left;vertical-align:top;" >效果</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 
 
 <script>document.title="陷阱能手 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,5 +1,3 @@
 # “手套”  
-名称  |  可使用次数  
-----  |  ----  
-[绑手带](HandWrappings.md)  |  2688  
-[皮革手套](LeatherGloves.md)  |  5376  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Handwraps.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[绑手带](HandWrappings.md)](HandWrappings.md)</td><td  style="text-align:left;vertical-align:top;" >2688</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/GlovesLeather.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[皮革手套](LeatherGloves.md)](LeatherGloves.md)</td><td  style="text-align:left;vertical-align:top;" >5376</td></tr></tbody></table>  
+  

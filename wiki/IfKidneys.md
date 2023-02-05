@@ -3,30 +3,14 @@
 #### ** 变化范围: ** 0 ~ 1  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-0 ～ 0  |  无肾脏  |    |    |    
-1 ～ 1  |  有肾脏  |    |    |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >0 ～ 0</td><td  style="text-align:left;vertical-align:top;" >无肾脏</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >1 ～ 1</td><td  style="text-align:left;vertical-align:top;" >有肾脏</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[超级肾脏](Pk_3_SpecializedKidneys.md)  |  特质影响  |  1  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[超级肾脏](Pk_3_SpecializedKidneys.md)</td><td  style="text-align:left;vertical-align:top;" >特质影响</td><td  style="text-align:left;vertical-align:top;" >1</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[潮汐池(岩滩)](TidePool.md)  |  饮用  |  1  
-[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)  |  饮用  |  1  
-[盐水](LQ_WaterSalt.md)  |  饮用  |  1  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  饮用  |  1  
-[海(环礁)](Sea_Atoll.md)  |  饮用  |  1  
-[海(海湾)](Sea_Bay.md)  |  饮用  |  1  
-[海(沙滩)](Sea_Beach.md)  |  饮用  |  1  
-[海(沙滩)](Sea_Cove.md)  |  饮用  |  1  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  饮用  |  1  
-[海(红树林)](Sea_Mangroves.md)  |  饮用  |  1  
-[海](Sea_Raft.md)  |  饮用  |  1  
-[海(鸟岩岛)](Sea_Rocks.md)  |  饮用  |  1  
-[盐水](LQ_WaterSalt.md)  |  饮用  |  0  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[潮汐池(岩滩)](TidePool.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[盐水](LQ_WaterSalt.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海水(覆溺洞穴)](Sea_Cave.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(环礁)](Sea_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(海湾)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(沙滩)](Sea_Beach.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(沙滩)](Sea_Cove.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(荒芜沙滩)](Sea_DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(红树林)](Sea_Mangroves.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海](Sea_Raft.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(鸟岩岛)](Sea_Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >1</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[盐水](LQ_WaterSalt.md)</td><td  style="text-align:left;vertical-align:top;" >饮用</td><td  style="text-align:left;vertical-align:top;" >0</td></tr></tbody></table>  
+  
 
 
 <script>document.title="肾脏 - 卡牌生存百科 Card Survival Wiki";</script>

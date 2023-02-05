@@ -1,3 +1,3 @@
 # 蜡 / 脂肪(组)  
-- [脂肪](Fat.md)  
-- [蜂蜡块](BeeswaxBlock.md)  
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Fat.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[脂肪](Fat.md)](Fat.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/BeeswaxBlock.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[蜂蜡块](BeeswaxBlock.md)](BeeswaxBlock.md)</div></div>  
+  

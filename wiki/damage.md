@@ -1,7 +1,6 @@
 # 损坏  
-<br>  |  <br>  |  <br>  |  <br>  
- :----:    |   :----:    |   :----:    |   :----:    
-[<img decoding="async" src="Sprite/CollapsedRoof.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[坍塌的屋顶(泥屋)](Dmg_RoofCollapsed.md)](Dmg_RoofCollapsed.md)  |  [<img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[屋顶损坏](Dmg_RaftDamage.md)](Dmg_RaftDamage.md)  |  [<img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"><br>[屋顶损坏](Dmg_RoofDamage.md)](Dmg_RoofDamage.md)  |    
+<div style="display:table"><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/CollapsedRoof.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[坍塌的屋顶](Dmg_RoofCollapsed.md)](Dmg_RoofCollapsed.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[屋顶损坏](Dmg_RaftDamage.md)](Dmg_RaftDamage.md)</div><div style="display:inline-block;padding-top:15px;padding-left:5px;border:none;text-align:center;min-width:150px;min-height:0px;margin: auto">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RoofDamage.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[屋顶损坏](Dmg_RoofDamage.md)](Dmg_RoofDamage.md)</div></div>  
+  
 
 
 <script>document.title="损坏 - 卡牌生存百科 Card Survival Wiki";</script>

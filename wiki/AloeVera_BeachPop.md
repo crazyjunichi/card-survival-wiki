@@ -3,24 +3,16 @@
 #### ** 变化范围: ** 0 ~ 4000  
 #### ** 基础变化率: ** +0.25 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 3000  |  低密度  |    |  [沙滩芦荟种群数量](AloeVera_BeachPop.md)加成+0.25  |    
-3001 ～ 3999  |  高密度  |    |  [沙滩芦荟种群数量](AloeVera_BeachPop.md)加成+0.5  |    
-4000 ～ 4000  |  极高密度  |    |  [丛林边缘芦荟种群数量](AloeVera_OutskirtsPop.md)加成+0.25  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 3000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[沙滩芦荟种群数量](AloeVera_BeachPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >3001 ～ 3999</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[沙滩芦荟种群数量](AloeVera_BeachPop.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >4000 ～ 4000</td><td  style="text-align:left;vertical-align:top;" >极高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[丛林边缘芦荟种群数量](AloeVera_OutskirtsPop.md)加成+0.25</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 相关卡牌  
 [丛林边缘芦荟种群数量](AloeVera_OutskirtsPop.md)  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[沙滩(区域)](Beach.md)  |  随便逛逛  |  -1000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  探索  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >随便逛逛</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[沙滩(区域)](Beach.md)  |  影响  |  1000 ~ 4000  
-[荒芜沙滩(区域)](DesolateBeach.md)  |  影响  |  1000 ~ 4000  
-[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 4000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[沙滩](Beach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[荒芜沙滩](DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部草原](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="沙滩芦荟种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

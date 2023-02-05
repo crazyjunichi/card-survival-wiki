@@ -1,25 +1,17 @@
 # 手机  
 > 只要还有电，就能提供照明和娱乐。<br>可惜没信号。  
   
-  手机  |   图片   
- ----  |  ----:   
- **重量：**25<br><br>** 效果: **<br>[光亮](Light.md)+25  |  <img decoding="async" src="Sprite/PhoneTorch.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >**重量：**25<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)+25</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PhoneTorch.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[手机(开)](PhoneOn.md)  |  打开手电筒  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PhoneOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[手机(开)](PhoneOn.md)](PhoneOn.md)</td><td  style="text-align:left;vertical-align:top;" >打开手电筒</td></tr></tbody></table>  
+  
 ## 动作  
-动作  |  耗时  |  条件  |  变化  |  状态  
-----  |  ----  |  ----  |  ----  |  ----  
-关机<br>  |  -  |    |  ** 自身：**<br>→ [手机(关)](PhoneOff.md)  |    
-玩游戏<br>  |  30分  |    |  ** 自身：**<br>燃料  -2(-0.69%)  |  [情绪](Morale.md)+5<br>[压力](Stress.md)-25～+5  
-看照片<br>  |  15分  |    |  ** 自身：**<br>燃料  -1(-0.35%)  |  [孤独感](Loneliness.md)-50<br>[压力](Stress.md)-10  
-关闭手电筒<br>  |  -  |    |  ** 自身：**<br>→ [手机(开)](PhoneOn.md)<br>燃料  -1(-0.35%)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >动作</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th><th  style="text-align:left;vertical-align:top;" >状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >关机<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Phone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手机(关)](PhoneOff.md)](PhoneOff.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >玩游戏<br></td><td  style="text-align:left;vertical-align:top;" >30分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>燃料  -2(-0.69%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+5<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-25～+5</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >看照片<br></td><td  style="text-align:left;vertical-align:top;" >15分</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>燃料  -1(-0.35%)</td><td  style="text-align:left;vertical-align:top;" >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Loneliness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[孤独感](Loneliness.md)](Loneliness.md)-50<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)-10</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >关闭手电筒<br></td><td  style="text-align:left;vertical-align:top;" >-</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >** 自身：**<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/PhoneOn.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手机(开)](PhoneOn.md)](PhoneOn.md)<br>燃料  -1(-0.35%)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 属性   
-属性  |  值  |  耗时  |  变化  
-----  |  ----  |  ----  |  ----  
-燃料  |  初始：288<br>最大：288  |  每15分钟-3<br>最多需要：1天  |  ** 到达0时：电量耗尽 **<br><br>** 自身 **<br>→ [手机(关)](PhoneOff.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >属性</th><th  style="text-align:left;vertical-align:top;" >值</th><th  style="text-align:left;vertical-align:top;" >耗时</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >燃料</td><td  style="text-align:left;vertical-align:top;" >初始：288<br>最大：288</td><td  style="text-align:left;vertical-align:top;" >每15分钟-3<br>最多需要：1天</td><td  style="text-align:left;vertical-align:top;" >** 到达0时：电量耗尽 **<br><br>** 自身 **<br>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Phone.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手机(关)](PhoneOff.md)](PhoneOff.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="手机 - 卡牌生存百科 Card Survival Wiki";</script>

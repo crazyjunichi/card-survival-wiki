@@ -1,18 +1,14 @@
 # 暴风雨  
 > 我应当远离海岸，并找个躲雨处。  
   
-  暴风雨  |   图片   
- ----  |  ----:   
- ** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[体感温度](TemperaturePerceived.md)+20<br>[阳光强度](SunStrength.md)<br>[降水值](RainValue.md)+5<br>[雨水计数器](RainCounter.md)加成-16～-8<br>[光亮](Light.md)-10<br>[蚊虫数量](BugPopulation.md)-3<br>[沙滩风暴](Storm_Beach.md)加成+1<br>[海湾风暴](Storm_Bay.md)加成+1<br>[红树林风暴](Storm_Mangroves.md)加成+1<br>[岩滩风暴](Storm_Rocks.md)加成+1<br>[丛林边缘风暴](Storm_Outskirts.md)加成+1<br>[荒芜沙滩风暴](Storm_DesolateBeach.md)加成+1<br>[暴风雨次数](StormCounter.md)加成+2  |  <img decoding="async" src="Sprite/WeatherStorm_0.png" href="a.md" style="max-width:300px;max-height:300px;">   
+<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" >** 区域唯一 **<br><br>**标签：**	[“天气”](tag_Weather.md)<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Hot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[体感温度](TemperaturePerceived.md)](TemperaturePerceived.md)+20<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[阳光强度](SunStrength.md)](SunStrength.md)<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md)+5<br>[雨水计数器](RainCounter.md)加成-16～-8<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)-10<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Bugs.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[蚊虫数量](BugPopulation.md)](BugPopulation.md)-3<br>[沙滩风暴](Storm_Beach.md)加成+1<br>[海湾风暴](Storm_Bay.md)加成+1<br>[红树林风暴](Storm_Mangroves.md)加成+1<br>[岩滩风暴](Storm_Rocks.md)加成+1<br>[丛林边缘风暴](Storm_Outskirts.md)加成+1<br>[荒芜沙滩风暴](Storm_DesolateBeach.md)加成+1<br>[暴风雨次数](StormCounter.md)加成+2</td><td  style="width:20%;text-align:left;vertical-align:top;" ><div style="width:300px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherStorm_0.png" href="a.md" style="max-width:300px;max-height:300px;"></div></td></tr></tbody></tbody></table>  
   
 ## 获取来源  
-来源  |  操作  
-----  |  ----  
-[后有风暴](OpenSea_StormBehindInfinite.md)  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[后有风暴](OpenSea_StormBehindInfinite.md)](OpenSea_StormBehindInfinite.md)</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 状态触发  
-名称  |  条件  |  变化  
-----  |  ----  |  ----  
-  |  [航行](Sailed.md): 1-1  |  → [后有风暴](OpenSea_StormBehindInfinite.md)  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >条件</th><th  style="text-align:left;vertical-align:top;" >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[航行](Sailed.md): 1-1</td><td  style="text-align:left;vertical-align:top;" >→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherHeavyRain_0.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[后有风暴](OpenSea_StormBehindInfinite.md)](OpenSea_StormBehindInfinite.md)</td></tr></tbody></table>  
+  
 
 
 <script>document.title="暴风雨 - 卡牌生存百科 Card Survival Wiki";</script>

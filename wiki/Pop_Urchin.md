@@ -3,32 +3,14 @@
 #### ** 变化范围: ** 0 ~ 6000  
 #### ** 基础变化率: ** +0.5 / 每15分钟   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 4000  |  低密度  |    |  [海胆种群数量](Pop_Urchin.md)加成+1  |    
-4001 ～ 6000  |  高密度  |    |  [海胆种群数量](Pop_Urchin.md)加成+1.5  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 4000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海胆种群数量](Pop_Urchin.md)加成+1</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >4001 ～ 6000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[海胆种群数量](Pop_Urchin.md)加成+1.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  潜水  |  -1000  
-[岩滩(区域)](Rocks.md)  |  探索  |  -1000  
-[海(环礁)](Sea_Atoll.md)  |  潜水  |  -1000  
-[海(海湾)](Sea_Bay.md)  |  潜水  |  -1000  
-[海(沙滩)](Sea_Beach.md)  |  潜水  |  -1000  
-[海(沙滩)](Sea_Cove.md)  |  潜水  |  -1000  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  潜水  |  -1000  
-[海(鸟岩岛)](Sea_Rocks.md)  |  潜水  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FloodedChamber.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海水(覆溺洞穴)](Sea_Cave.md)](Sea_Cave.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >探索</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(环礁)](Sea_Atoll.md)](Sea_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(海湾)](Sea_Bay.md)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(沙滩)](Sea_Beach.md)](Sea_Beach.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(沙滩)](Sea_Cove.md)](Sea_Cove.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(荒芜沙滩)](Sea_DesolateBeach.md)](Sea_DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sea.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海(鸟岩岛)](Sea_Rocks.md)](Sea_Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >潜水</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[海水(覆溺洞穴)](Sea_Cave.md)  |  影响  |  1000 ~ 6000  
-[岩滩(区域)](Rocks.md)  |  影响  |  1000 ~ 6000  
-[海(环礁)](Sea_Atoll.md)  |  影响  |  1000 ~ 6000  
-[海(海湾)](Sea_Bay.md)  |  影响  |  1000 ~ 6000  
-[海(沙滩)](Sea_Beach.md)  |  影响  |  1000 ~ 6000  
-[海(沙滩)](Sea_Cove.md)  |  影响  |  1000 ~ 4000  
-[海(荒芜沙滩)](Sea_DesolateBeach.md)  |  影响  |  1000 ~ 6000  
-[海(鸟岩岛)](Sea_Rocks.md)  |  影响  |  1000 ~ 6000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[海水(覆溺洞穴)](Sea_Cave.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[岩滩](Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(环礁)](Sea_Atoll.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(海湾)](Sea_Bay.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(沙滩)](Sea_Beach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(沙滩)](Sea_Cove.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 4000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(荒芜沙滩)](Sea_DesolateBeach.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[海(鸟岩岛)](Sea_Rocks.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 6000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="海胆种群数量 - 卡牌生存百科 Card Survival Wiki";</script>

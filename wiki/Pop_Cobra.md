@@ -3,25 +3,14 @@
 #### ** 变化范围: ** 0 ~ 12000  
 #### ** 基础变化率: ** 无   
 ## 阶段  
-范围  |  名称  |  描述  |  影响状态  |  影响动作  
-----  |  ----  |  ----  |  ----  |  ----  
-2000 ～ 6000  |  低密度  |    |  [眼镜蛇种群数量](Pop_Cobra.md)加成+0.5  |    
-6001 ～ 10000  |  中等密度  |    |  [眼镜蛇种群数量](Pop_Cobra.md)加成+1<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.5  |    
-10001 ～ 12000  |  高密度  |    |  [眼镜蛇种群数量](Pop_Cobra.md)加成+2<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.75  |    
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >范围</th><th  style="text-align:left;vertical-align:top;" >名称</th><th  style="text-align:left;vertical-align:top;" >描述</th><th  style="text-align:left;vertical-align:top;" >影响状态</th><th  style="text-align:left;vertical-align:top;" >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >2000 ～ 6000</td><td  style="text-align:left;vertical-align:top;" >低密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[眼镜蛇种群数量](Pop_Cobra.md)加成+0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >6001 ～ 10000</td><td  style="text-align:left;vertical-align:top;" >中等密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[眼镜蛇种群数量](Pop_Cobra.md)加成+1<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.5</td><td  style="text-align:left;vertical-align:top;" ></td></tr><tr ><td  style="text-align:left;vertical-align:top;" >10001 ～ 12000</td><td  style="text-align:left;vertical-align:top;" >高密度</td><td  style="text-align:left;vertical-align:top;" ></td><td  style="text-align:left;vertical-align:top;" >[眼镜蛇种群数量](Pop_Cobra.md)加成+2<br>[灰山鹑种群数量](Pop_Partridge.md)加成-0.75</td><td  style="text-align:left;vertical-align:top;" ></td></tr></tbody></table>  
+  
 ## 可被以下操作改变  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[落石陷阱](DeadfallTrap.md)  |  捕捉猎物  |  -1000  
-[胜负参半(事件)](Event_CobraFightMixedSuccess.md)  |  继续  |  -1000  
-[成功！(事件)](Event_CobraFightSuccess.md)  |  继续  |  -1000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/DeadfallTrap.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[落石陷阱](DeadfallTrap.md)](DeadfallTrap.md)</td><td  style="text-align:left;vertical-align:top;" >捕捉猎物</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpittingCobra.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胜负参半(事件)](Event_CobraFightMixedSuccess.md)](Event_CobraFightMixedSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/SpittingCobra.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[成功！(事件)](Event_CobraFightSuccess.md)](Event_CobraFightSuccess.md)</td><td  style="text-align:left;vertical-align:top;" >继续</td><td  style="text-align:left;vertical-align:top;" >-1000</td></tr></tbody></table>  
+  
 ## 被以下操作需求  
-来源  |  操作  |  值  
-----  |  ----  |  ----  
-[落石陷阱](DeadfallTrap.md)  |  转化需要  |  1000 ~ 12000  
-[东部草原(区域)](GrasslandsE.md)  |  影响  |  1000 ~ 12000  
-[西部草原(区域)](GrasslandsW.md)  |  影响  |  1000 ~ 12000  
-[东部高地(区域)](HighlandsEastern.md)  |  影响  |  1000 ~ 12000  
-[西部高地(区域)](HighlandsWestern.md)  |  影响  |  1000 ~ 12000  
+<table class="table table-bordered"><thead><tr ><th  style="text-align:left;vertical-align:top;" >来源</th><th  style="text-align:left;vertical-align:top;" >操作</th><th  style="text-align:left;vertical-align:top;" >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;" >[落石陷阱](DeadfallTrap.md)</td><td  style="text-align:left;vertical-align:top;" >转化需要</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 12000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部草原](GrasslandsE.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 12000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部草原](GrasslandsW.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 12000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[东部高地](HighlandsEastern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 12000</td></tr><tr ><td  style="text-align:left;vertical-align:top;" >[西部高地](HighlandsWestern.md)</td><td  style="text-align:left;vertical-align:top;" >影响</td><td  style="text-align:left;vertical-align:top;" >1000 ~ 12000</td></tr></tbody></table>  
+  
 
 
 <script>document.title="眼镜蛇种群数量 - 卡牌生存百科 Card Survival Wiki";</script>
