@@ -1,4 +1,4 @@
-# 手部动作(组)  
+# “手部动作(组)”  
 - 重置陷阱 [解除陷阱](CageTrapPlacedTriggered.md)  
 - 重置陷阱 [解除陷阱(雌灰山鹑)](CageTrapPlacedTriggeredPartridgeFemale.md)  
 - 重置陷阱 [解除陷阱(雄灰山鹑)](CageTrapPlacedTriggeredPartridgeMale.md)  

@@ -23,7 +23,7 @@ The next time you hit play you will be playing in Update 40.
 
 Let's go to the content list now. :)  
 Boar Breeding:  
-![](Sprite/BoarBreeding.png)  
+![](../wiki/Sprite/BoarBreeding.png)  
 Boars can finally be bred.  To do so, you'll first have to catch them on trapping pits (just like you would do with goats) and then release a mating couple in an enclosure. Once a male and a female are present they will start breeding and eventually produce offspring. 
 
 The special thing about boars is that they will grow larger over time (as long as they are fed well) and will give an amount of meat and fat based on their size. That way you can have large boars that can serve as meat reserves when you decide to slaughter them.
@@ -120,7 +120,7 @@ E: Toggles equipment
 H: Toggle wound screen
 D: Toggles stat screen  
 Food-Related Improvements:  
-![](Sprite/CopperStuff.png)  
+![](../wiki/Sprite/CopperStuff.png)  
 <b>Digestive System:</b>
 
 The digestive system has been made more complex in order to avoid some exploits and make it more realistic. Food will now gradually release its calories into your body as it gets digested. Throwing up while food is in your stomach will stop you from getting any calories that hadn't been already absorbed.
@@ -211,7 +211,7 @@ Hello everyone!
 I hope you're all well, it's time for Update 38, the Halloween update.
 Let's go straight to our list of content:  
 Mermaid:  
-![](Sprite/Mermaid2.png)  
+![](../wiki/Sprite/Mermaid2.png)  
 A new improved Mermaid is now available as the 4th official character.
 She is a "hopeless" character that should provide some challenge to veteran players, as it is one difficulty level higher than the tourist.
 While the mermaid is able to see in the dark and drink salt water, the fact that her skin cracks easily when out of the water and gets severely damaged by sunlight makes her a difficult character to play. As if this wasn't enough, she is also pregnant with a child, starts in the dangerous Desolate Beach and is being actively hunted by sea monsters.  
@@ -284,7 +284,7 @@ Happy halloween everyone and see you for the next update!!
   
 ## Card Survival: Tropical Island - Full Release  
   
-![](Sprite/ReleaseSplash.png)  
+![](../wiki/Sprite/ReleaseSplash.png)  
 Hello everyone!
 
 The moment has finally come. After more than a year in Early Access and an extra year of development before that, Card Survival is finally ready.
@@ -366,7 +366,7 @@ Hope you are all well.
 
 Let's go to straight to our content list:  
 New Blueprint Unlocking System:  
-![](Sprite/Blueprints.png)  
+![](../wiki/Sprite/Blueprints.png)  
 On this, our second and last mini update, we are releasing a new blueprint system that we believe should make the game less overwhelming to new players. 
 
 From now on, once a blueprints is unlocked, players will have to purchase them in order to be able to use them. Blueprints will now have to be bought with suns on each individual run. This will not only give a new use to suns, but also make the acquisition of new blueprints a more conscious action, which is something we think will help.
@@ -430,7 +430,7 @@ Safety Mode:
 The main feature we are releasing this time is the new Safety Mode.
 This is a checkbox on the character selection screen that provides you with a safety net when playing the game. It can be applied to both official and custom characters and once checked will allow you to restart your day at any time from the in-game menu. You will also be given this option on the game over screen, so if you accidentally overheated to death or made a bad decision that led you to dehydrating you will have a chance to save your save. Provided of course that you ticked the Safety Mode option when you first started your run. :)  
   
-![](Sprite/SplashScreen.png)  
+![](../wiki/Sprite/SplashScreen.png)  
 On a related note we decided to remove the Survivalist as it was originally implemented her as a patch or quick solution for people that were having issues with the game's difficulty and it wasn't a proper character like the tourist or the farmer. I am hoping that the safety mode will help make things more managable and remove the need for the survivalist.
 I might re-add the character later if I manage to get the time to give it a proper journal and a more unique adventure.
 
@@ -497,7 +497,7 @@ Large bodies of water like puddles, raincatchers and reservoirs now have a posit
 
 Characters with the immunized perk (like hunter and farmer) will be resistant to these diseases but those who are not will have to be cautious and try to stay clean and avoid areas with high insect population until they are ready.  
 Crop Pests:  
-![](Sprite/Jujube.png)  
+![](../wiki/Sprite/Jujube.png)  
 Crops can now get Mite and Fungal infestations.
 
 Mite infestations will be more common in dry areas, underwatered plants and fertilized crops while Fungal ones will be more common in humid areas and overwatered plants.
@@ -507,7 +507,7 @@ Different plants will have different resistance to mites and fungus and as a gen
 Once a plant gets very infested it will start infecting other plants so try to not these things get out of control.
 Fortunately there are a few ways to deal with these things. Crops can now be destroyed (returning you an empty crop plot) if you see there's no way of saving a plant. You can also use chilli pesticide to kill and prevent mites as well as a new brimstone pesticide which kills both mites and fungus.  
 New Environments & Related Features:  
-![](Sprite/DesolateBeach.png)  
+![](../wiki/Sprite/DesolateBeach.png)  
 Two new environments have been added.
 
 The first one is the Eastern Grasslands. A more arid version of the old (now Western) Grasslands. It connects the with the other Grasslands, the Eastern Highlands and the new Desolate Beach.
@@ -595,7 +595,7 @@ While they won't be as crazy frequent as the ones we've been releasing this year
 
 Now to the content list:  
 Tourist:  
-![](Sprite/Tourist.png)  
+![](../wiki/Sprite/Tourist.png)  
 The Tourist has received some improvements including a new journal of its own to follow in line with the Hunter and Farmer characters. The plane crash perk now also has received some improvements, making it start with some detachable plane seats (which can be harvested for scrap, cloth and fiber) and some luggage containing papers, chocolate and some other things.  
 Raft Improvements:  
 The raft and the sea voyage have received a balance pass and some new features.
@@ -670,7 +670,7 @@ Hello everyone!
 Hope you are all well. Update 33 is ready.
 Let's go to the content list.  
 Farmer Character:  
-![](Sprite/Mangos.png)  
+![](../wiki/Sprite/Mangos.png)  
 A new introductory character has been added to the game along with its own unique journal missions,
 The farmer will have to take care of her sick grandfather while restoring his farm back to its former glory.
 
@@ -698,7 +698,7 @@ In addition to this, some things have changed in how the success chances are dec
 Game Clock Changes: Miniticks  
 Some minor actions that used to take no time such as using paths or eating some types or food will no instead cost a minitick. Miniticks take 3 minutes in clock time, so there's 5 of them in a tick. The game will still work with ticks though, so stats will only update when a tick passes (every 15 minutes).  
 Menu Improvements:  
-![](Sprite/CharacterSheet.png)  
+![](../wiki/Sprite/CharacterSheet.png)  
 The equipment screen has been greatly improved. Wounds now have they own separate tab so they are easier to find. Arrows have also been added to quickly jump from the edges of these screens.
 
 There's also a new screen here called the character sheet, which shows your character's face, description and perks for reference and contains a quick access button to your skills, stats and character log (the screen you can access after dying or winning the game).  
@@ -752,7 +752,7 @@ Hope you all had a good time since the last update.
 It's Wednesday again and our new one is ready.
 Let's go to the content list:  
 Bees:  
-![](Sprite/Bees.png)  
+![](../wiki/Sprite/Bees.png)  
 Wild Beehives can now be found in the Deep Jungle. Hives give honeycomb which can be separated into wax (alternative for candles) and honey, but their bees can swarm and sting you if you come unprepared. With the help of a torch you can smoke and calm them down so you can harvest a queen and some of their drones along with their honeycombs.
 
 With a queen, some bees, a honeycomb and some other things you can now build bee skeps. These artificial hives need to be fed sugar water to help them grow and will produce more honey the more flowers you have in the area. Skeps will also start swarming once new queens are ready, an opportunity that can be used to build new skeps by capturing the surplus of bees.
@@ -765,7 +765,7 @@ Puffballs can now be found in the jungle and deep jungle. These mushrooms are qu
 
 Magic Mushrooms can now be found in the grasslands (although they are hard to find) and can be eaten to alter your mind state.  
 Hunter Character:  
-![](Sprite/Knapping.png)  
+![](../wiki/Sprite/Knapping.png)  
 As we approach final release, we are going to be replacing some of the official characters (as well as adding new ones) and giving them unique journals to help make their experiences more unique and help introduce the game's features to new players.
 The first of such characters is the Hunter, which replaces the old Islander.
 
@@ -852,7 +852,7 @@ Hello everyone!
 I hope you are all well, it's time for the new update.
 Let's go to the content list:  
 Volcano:  
-![](Sprite/Volcano.png)  
+![](../wiki/Sprite/Volcano.png)  
 <b>Toxic Gases:</b>
 The Volcano is a new environment that can be reached from the Eastern Highlands. The air in this area is toxic and will damage your lungs over time. Fortunately you can use large cloths to make yourself a makeshift gas mask, or even craft a proper leather one if you have the means.
 
@@ -948,7 +948,7 @@ Hello everyone!!
 Hope you are all doing well!
 The update is here, let's go straight to the content list:  
 New Environment: Bay  
-![](Sprite/Bay.png)  
+![](../wiki/Sprite/Bay.png)  
 The Mangroves are no longer adjacent to the beach. There is now a new environment in between: The bay.
 This new coastal area acts has most of the same things as the beach plus many new features:
 
@@ -1035,7 +1035,7 @@ What we do have to offer this time is:
 
 - Eastern Highlands: A sister area to the old highlands (now called western highlands). It is drier and has less vegetation but is also richer in minerals and has the main entrance to the new cave system that has been added to the island.  
 Cave System:  
-![](Sprite/CaveSystem.png)  
+![](../wiki/Sprite/CaveSystem.png)  
 The cave system can be found by digging up a buried tunnel in the Eastern Highlands. From that tunnel you'll be able to explore an extensive cave system with multiple chambers and exits to different parts of the island.
 
 The cave system now holds almost all the copper that can be found in the island as the veins in the grasslands and wetlands caves have now been removed, along with all the ore that could be found in the western highlands.
@@ -1062,7 +1062,7 @@ This Kiln can get hot enough to smelt copper too and it's slower to heat than th
 
 Note: Unfortunately I didn't manage to finish the art for these things in time so we'll be uploading it in a hotfix as soon as we can. ;)  
 Improved Stat Interface:  
-![](Sprite/StatsWindow.png)  
+![](../wiki/Sprite/StatsWindow.png)  
 There is now a new window with multiple tabs that lets you see lots of different stats, many of which are normally hidden. This window will be accessibly by clicking on any stat or from a special button in the equipment screen.
 In other words, you can now finally check the state of your skills! :)
 
@@ -1121,7 +1121,7 @@ Update 28 is finally here. :)
 
 Let's go directly to the content list:  
 Location Improvements:  
-![](Sprite/Improvements.png)  
+![](../wiki/Sprite/Improvements.png)  
 Improvements can now be built on environments. This new feature is designed to help automate or accelerate certain actions during the late game.
 Here's a list of all the improvement available now, although of course we'll be adding new ones in future updates:
 
@@ -1193,7 +1193,7 @@ Stay safe and see you on the next update!
   
 ## Card Survival Update 27  
   
-![](Sprite/CoffeeMacaque.png)  
+![](../wiki/Sprite/CoffeeMacaque.png)  
 Hello everyone!
 
 Time for a new update.
@@ -1212,7 +1212,7 @@ Coffee:
 Coffee can now be found in a new location called the Jungle Highlands. Its berries can be harvested and eaten and its seeds can be roasted and used to make coffee. This new drink can be used to wake yourself up when sleepy, but don't abuse it as the lack of sleep will have detrimental effects to your mental structure, specially after spending long periods of time in the island.
 Coffee can of course also be planted on crop plots like all other plants.  
 Macaques:  
-![](Sprite/Rice.png)  
+![](../wiki/Sprite/Rice.png)  
 Macaques now inhabit all jungle environments, old and new, although they are most commonly found in the jungle highlands.
 These monkeys can visit your place, just like other animals do, but can also steal your tools and objects in addition to food. 
 
@@ -1297,7 +1297,7 @@ Hope you enjoy the update and have a nice couple of weeks!
   
 ## Card Survival Update 26  
   
-![](Sprite/House.png)  
+![](../wiki/Sprite/House.png)  
 Hello everyone!
 
 It's time for update 26!
@@ -1306,7 +1306,7 @@ First just a small announcement: we have submitted Card Survival to Google Play 
 
 Now to the content list:  
 House Improvements:  
-![](Sprite/Watcher.png)  
+![](../wiki/Sprite/Watcher.png)  
 <b>Tables:</b>
 You can now build tables, which will give you a bonus to crafting as long as you are in the same room as them. Making crafting things at home much better. They also increase house comfort.
 
@@ -1441,7 +1441,7 @@ Depression has also been changed now, you will no longer get the event but inste
 There is now an Anti-Weston: the Captain. He is a bad imaginary friend that should probably be avoided by most people, unless you are a masochist. The Captain is a very negative character that will try to get you down, lowering your morale in exchange for his company. There are many new features coming from him and Weston coming in the next few updates too!
 By the way, the skeleton that used to be in the cave by the rocks has moved to a new location. :)  
 New Woodworking Stuff:  
-![](Sprite/Comfort.png)  
+![](../wiki/Sprite/Comfort.png)  
 The woodworking skill can now unlock a lot more things.
 Here are some of those things:
 
@@ -1544,7 +1544,7 @@ Hello everyone,
 I hope you are all well!
 Let's get straight to the content list this time:  
 New Weight System:  
-![](Sprite/ShelvesSpindle.png)  
+![](../wiki/Sprite/ShelvesSpindle.png)  
 The new weight system is now live. 
 Its main features are:
 
@@ -1625,7 +1625,7 @@ Our plan is to first release a beta version so that we can make sure the game is
 
 So, if you're interested, just write to us at winterspringgames at gmail dot com!  
 Patreon  
-![](Sprite/Cover.png)  
+![](../wiki/Sprite/Cover.png)  
 Second, we wanted to let you know that we have created a Patreon account for those of you who can and want to help support us and our games.
 We will be adding a Credits screen to the game on the next update and it will include the names of all our patreon supporters as well as the names of other people that have been supportive of us, both in the steam forums and elsewhere.  
 Card Survival Release Plan  
@@ -1652,7 +1652,7 @@ Once the game is out of early access we will continue releasing updates albeit a
 
 Now, let's get to the new content:  
 Goats  
-![](Sprite/Goats.png)  
+![](../wiki/Sprite/Goats.png)  
 Goats can now be found in the highlands. They can be hunted as normal or captured live with trapping pits.
 Once captured, goats can be released inside enclosures and kept fed and hydrated either manually or with the help of feeding and watering troughs to better automate the process.
 

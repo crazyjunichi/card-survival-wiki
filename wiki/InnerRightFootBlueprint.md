@@ -1,7 +1,7 @@
 # 左脚（内层）  
 >   
   
-<table class="table table-bordered"><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;" ></td><td  style="width:20%;text-align:left;vertical-align:top;" ></td></tr></tbody></tbody></table>  
+<table class="table table-bordered" data-toggle="table" ><tbody><tr ><td  style="width:80%;text-align:left;vertical-align:top;"  ></td><td  style="width:20%;text-align:left;vertical-align:top;"  ></td></tr></tbody></tbody></table>  
   
 
 
