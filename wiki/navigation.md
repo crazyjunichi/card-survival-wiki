@@ -70,4 +70,22 @@
     margin-top:50px;
     margin-bottom:50px;
   }
+
+  .gamecard {
+    position:relative;
+  }
+  .gamecard .bg {
+    position:absolute;left:0px;top:0px;
+  }
+  .gamecard span {
+    position:absolute;text-align:left;left:5px;top:5px;font-weight: bold;text-shadow: 0px 1px 0 #fff, 0px -1px 0 #fff,-1px 0px 0 #fff, 1px 0px 0 #fff;font-size: 15px;
+  }
+  .gamecard .cardimage {
+    max-width:341px;max-height:512px;position: absolute;left: 50%;top: 50%;transform: translate(-50%, -50%)
+  }
+
+  .gamedatalist {
+    display:inline-block;padding:7px;margin:7px;text-align:left;
+    margin: auto;
+  }
 </style>
