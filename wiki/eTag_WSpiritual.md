@@ -1,3 +1,3 @@
-# “精神创伤”  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/HuntersMark.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[鬼掌印](W_HunterMark.md)](W_HunterMark.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/HuntersMark.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[崩解烙印](W_UnravellingMark.md)](W_UnravellingMark.md)</div></div></div>  
-  
+[object Object]
+
+<script>document.title="“精神创伤” - 卡牌生存百科 Card Survival Wiki";</script>

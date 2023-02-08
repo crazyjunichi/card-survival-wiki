@@ -1,3 +1,3 @@
-# “油”  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[油](LQ_Oil.md)](LQ_Oil.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[香茅精油](LQ_OilCitronella.md)](LQ_OilCitronella.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[茉莉精油](LQ_OilJasmine.md)](LQ_OilJasmine.md)</div></div></div>  
-  
+[object Object]
+
+<script>document.title="“油” - 卡牌生存百科 Card Survival Wiki";</script>

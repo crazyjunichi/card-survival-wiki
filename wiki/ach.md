@@ -33,7 +33,7 @@
   
 ** 达成条件： **  
 [神圣灵视(事件)](Event_GodExperience1a.md)x 1  
-## 使用炸弹！  
+## 使用炸‍葯！  
   
 ** 达成条件： **  
 [铜矿脉(洞穴上层)](CopperVein.md) Boom!  

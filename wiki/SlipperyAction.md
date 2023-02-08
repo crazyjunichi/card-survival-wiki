@@ -1,16 +1,3 @@
-# “探索动作(组)”  
-- 探索 [鸟岩岛](BirdRock.md)  
-- 探索 [荒芜沙滩](DesolateBeach.md)  
-- 探索 [岩滩](Rocks.md)  
-- 前往 [前往沙滩(海湾)](Path_BayToBeach.md)  
-- 前往 [前往红树林](Path_BayToMangroves.md)  
-- 前往 [前往丛林边缘(沙滩)](Path_BeachToOutskirts.md)  
-- 前往 [前往岩滩(沙滩)](Path_BeachToRocks.md)  
-- 前往 [前往荒芜沙滩(东部草原)](Path_GrasslandsEToDesolateBeach.md)  
-- 前往 [前往海湾](Path_MangrovesToBay.md)  
-- 前往 [前往荒芜沙滩](Path_MangrovesToDesolateBeach.md)  
-- 前往 [前往西部草原(红树林)](Path_MangrovesToGrasslandsW.md)  
-- 前往 [前往沙滩(丛林边缘)](Path_OutskirtsToBeach.md)  
-- 前往 [前往丛林小径](Path_OutskirtsToJungle.md)  
-- 前往 [前往沙滩(岩滩)](Path_RocksToBeach.md)  
-- 前往 [前往荒芜沙滩(火山)](Path_VolcanoToDesolateBeach.md)  
+[object Object]
+
+<script>document.title="“探索动作(组)” - 卡牌生存百科 Card Survival Wiki";</script>

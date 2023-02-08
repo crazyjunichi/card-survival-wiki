@@ -1,16 +1,3 @@
-# “食用海鲜动作(组)”  
-- 食用 [虫子](Bugs.md)  
-- 食用 [海螺肉](ConchMeat.md)  
-- 食用 [烤海螺肉](ConchMeatCooked.md)  
-- 食用 [松软的海螺肉](ConchMeatSoft.md)  
-- 食用 [松软的烤海螺肉](ConchMeatSoftCooked.md)  
-- 食用 [螃蟹](Crab.md)  
-- 食用 [烤螃蟹](CrabCooked.md)  
-- 食用 [海鲜杂烩](SeafoodCup.md)  
-- 食用 [牡蛎肉](OysterMeat.md)  
-- 食用 [黄油焗牡蛎](OysterMeatBaked.md)  
-- 食用 [烤牡蛎肉](OysterMeatCooked.md)  
-- 食用 [虾](Prawns.md)  
-- 食用 [烤虾](PrawnsCooked.md)  
-- 食用 [海胆肉](UrchinMeat.md)  
-- 食用 [烤海胆](UrchinMeatCooked.md)  
+[object Object]
+
+<script>document.title="“食用海鲜动作(组)” - 卡牌生存百科 Card Survival Wiki";</script>

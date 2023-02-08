@@ -7,7 +7,7 @@
 <table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlembicOn.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蒸馏器(开)](AlembicOn.md)](AlembicOn.md)</td><td  style="text-align:left;vertical-align:top;"  >加入用于蒸馏硝酸的液体</td></tr></tbody></table>  
   
 ## 可用于蓝图  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DynamiteOff.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[炸弹(蓝图)](Bp_Dynamite.md)](Bp_Dynamite.md)</div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DynamiteOff.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[炸‍葯(蓝图)](Bp_Dynamite.md)](Bp_Dynamite.md)</div></div>  
   
   
 ## 属性   
