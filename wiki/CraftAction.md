@@ -22,7 +22,7 @@
 - 制造蓝图 [铜铲(蓝图)](Bp_CopperShovel.md)  
 - 制造蓝图 [铜长矛(蓝图)](Bp_CopperSpear.md)  
 - 制造蓝图 [鼓(蓝图)](Bp_Drum.md)  
-- 制造蓝图 [炸药(蓝图)](Bp_Dynamite.md)  
+- 制造蓝图 [炸弹(蓝图)](Bp_Dynamite.md)  
 - 制造蓝图 [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  
 - 制造蓝图 [鱼饵(蓝图)](Bp_FishBait.md)  
 - 制造蓝图 [捕鱼陷阱(蓝图)](Bp_FishTrap.md)  

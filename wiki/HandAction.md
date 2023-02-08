@@ -70,7 +70,7 @@
 - 制造蓝图 [落石陷阱(蓝图)](Bp_DeadfallTrap.md)  
 - 制造蓝图 [鼓(蓝图)](Bp_Drum.md)  
 - 制造蓝图 [晾晒架(蓝图)](Bp_DryingRack.md)  
-- 制造蓝图 [炸药(蓝图)](Bp_Dynamite.md)  
+- 制造蓝图 [炸弹(蓝图)](Bp_Dynamite.md)  
 - 制造蓝图 [木质餐具(蓝图)](Bp_EatingUtensilsWooden.md)  
 - 制造蓝图 [畜栏(蓝图)](Bp_Enclosure.md)  
 - 制造蓝图 [鸟食(蓝图)](Bp_FeedBird.md)  
