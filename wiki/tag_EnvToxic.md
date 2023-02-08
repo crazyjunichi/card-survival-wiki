@@ -1,3 +1,6 @@
-[object Object]
+# “有毒环境”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AcidLake.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[火山](Env_AcidLake.md)](Env_AcidLake.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Volcano.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[火山](Env_Volcano.md)](Env_Volcano.md)</div></div></div>  
+  
+
 
 <script>document.title="“有毒环境” - 卡牌生存百科 Card Survival Wiki";</script>

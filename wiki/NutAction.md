@@ -1,3 +1,18 @@
-[object Object]
+# “食用坚果类动作(组)”  
+- 食用 [椰肉](CoconutMeat.md)  
+- 食用 [烤椰肉](CoconutMeatCooked.md)  
+- 食用 [西米蛋糕](SagoCake.md)  
+- 食用 [参薯酱](YamJam.md)  
+- 食用 [水椰籽](NipaSeeds.md)  
+- 食用 [热带杏仁核](TropicalAlmondKernels.md)  
+- 食用 [烤热带杏仁](TropicalAlmondsRoasted.md)  
+- 饮用 [椰奶](LQ_CoconutMilk.md)  
+- 饮用 [椰子水](LQ_CoconutWater.md)  
+- 饮用 [油](LQ_Oil.md)  
+- 饮用 [香茅精油](LQ_OilCitronella.md)  
+- 饮用 [香茅油混合物](LQ_OilCitronellaMix.md)  
+- 饮用 [茉莉精油](LQ_OilJasmine.md)  
+- 饮用 [茉莉油混合物](LQ_OilJasmineMix.md)  
+
 
 <script>document.title="“食用坚果类动作(组)” - 卡牌生存百科 Card Survival Wiki";</script>

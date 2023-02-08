@@ -1,3 +1,6 @@
-[object Object]
+# “铜制大物件”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CopperBottle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[铜瓶](CopperBottle.md)](CopperBottle.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AxeHead.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[斧子头](AxeHead.md)](AxeHead.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AxeHeadBlunt.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[钝斧子头](AxeHeadBlunt.md)](AxeHeadBlunt.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ShovelHead.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[铲子头](ShovelHead.md)](ShovelHead.md)</div></div></div>  
+  
+
 
 <script>document.title="“铜制大物件” - 卡牌生存百科 Card Survival Wiki";</script>

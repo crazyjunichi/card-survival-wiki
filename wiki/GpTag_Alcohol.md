@@ -1,3 +1,6 @@
-[object Object]
+# “酒精(组)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[棕榈酒](LQ_PalmWine.md)](LQ_PalmWine.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[糖酒](LQ_SugarWine.md)](LQ_SugarWine.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[蜂蜜酒](LQ_Mead.md)](LQ_Mead.md)</div></div></div>  
+  
+
 
 <script>document.title="“酒精(组)” - 卡牌生存百科 Card Survival Wiki";</script>

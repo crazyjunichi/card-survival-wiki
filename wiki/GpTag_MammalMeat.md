@@ -1,3 +1,6 @@
-[object Object]
+# “哺乳动物肉(组)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/PorkRaw.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[野猪肉](BoarMeat.md)](BoarMeat.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonkeyMeat.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[猕猴肉](MacaqueMeat.md)](MacaqueMeat.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/GoatMeat.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[羊肉](GoatMeat.md)](GoatMeat.md)</div></div></div>  
+  
+
 
 <script>document.title="“哺乳动物肉(组)” - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,3 +1,6 @@
-[object Object]
+# “辣椒(组)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Chilies.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[辣椒](Chilies.md)](Chilies.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ChiliesDry.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[干辣椒](ChiliesDried.md)](ChiliesDried.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ChiliPowder.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[辣椒粉](ChiliPowder.md)](ChiliPowder.md)</div></div></div>  
+  
+
 
 <script>document.title="“辣椒(组)” - 卡牌生存百科 Card Survival Wiki";</script>

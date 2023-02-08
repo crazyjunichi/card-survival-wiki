@@ -1,3 +1,6 @@
-[object Object]
+# “内裤”  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Underwear.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[内裤](Underwear.md)](Underwear.md)</td><td  style="text-align:left;vertical-align:top;"  >2688</td></tr></tbody></table>  
+  
+
 
 <script>document.title="“内裤” - 卡牌生存百科 Card Survival Wiki";</script>

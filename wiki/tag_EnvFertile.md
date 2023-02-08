@@ -1,3 +1,6 @@
-[object Object]
+# “肥沃环境”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Jungle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[东部草原](Env_GrasslandsE.md)](Env_GrasslandsE.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Jungle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[西部草原](Env_GrasslandsW.md)](Env_GrasslandsW.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Jungle.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[神秘谷](Env_SecretValley.md)](Env_SecretValley.md)</div></div></div>  
+  
+
 
 <script>document.title="“肥沃环境” - 卡牌生存百科 Card Survival Wiki";</script>

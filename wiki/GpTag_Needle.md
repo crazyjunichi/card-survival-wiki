@@ -1,3 +1,6 @@
-[object Object]
+# “针(组)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/NeedleBone.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[骨针](BoneNeedle.md)](BoneNeedle.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/NeedleWooden.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[木针](WoodenNeedle.md)](WoodenNeedle.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/NeedleCopper.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[铜针](CopperNeedle.md)](CopperNeedle.md)</div></div></div>  
+  
+
 
 <script>document.title="“针(组)” - 卡牌生存百科 Card Survival Wiki";</script>
