@@ -1,6 +1,6 @@
-# “燃料”  
+# “小棍子”  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ArrowShaft.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[箭杆](ArrowShaft.md)](ArrowShaft.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/HookBone.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[骨钩](HookBone.md)](HookBone.md)</div></div><div class="gamedatalist" style="text-align:center;min-width:150px;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Kindling.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[小树枝](Sticks.md)](Sticks.md)</div></div></div>  
   
 
 
-<script>document.title="“燃料” - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="“小棍子” - 卡牌生存百科 Card Survival Wiki";</script>
