@@ -18,6 +18,7 @@
 
 [地点]()
 
+-   [岛屿地图](map.md)
 -   [区域](area.md)
 
 [蓝图](blueprint.md)
