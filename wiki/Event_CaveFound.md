@@ -3,6 +3,9 @@
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**环境：**[岩滩(环境)](Env_Rocks.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_CaveFound.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CaveEntrance.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">洞穴</span></a></div></div></td></tr></tbody></table>  
   
+## 获取来源  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RockyBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[岩滩](Rocks.md)](Rocks.md)</td><td  style="text-align:left;vertical-align:top;"  >探索</td></tr></tbody></table>  
+  
 ## 触发条件  
 <table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >条件</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >岩滩探索进度</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
