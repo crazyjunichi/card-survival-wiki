@@ -12,4 +12,4 @@
 <div class="" style="width:800px;margin-bottom:-15px;"><table><tr style="height:10px"><td rowspan=3 style="width:80px"><div class="gamecard" style="width:80px; height:120px;"><a href="Event_SpiderNight.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/Spider.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.23460410557184752);"></a></div></td><td style="font-size: 1.2em">[一只蜘蛛咬了我！(事件)](Event_SpiderNight.md)</td></tr><tr><td>你在剧烈的疼痛中醒来！<br><br>一只大蜘蛛在你身上爬行，它貌似已经咬了你一口！</td></tr><tr><td><div style="display:inline-block"><div style="margin-right:5px;padding:5px;border:1px dashed darkgray;display: inline-block">赶走蜘蛛！</div></div></td></tr></table></div><hr>  
 
 
-<script>document.title="其他 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="其他(事件组) - 卡牌生存百科 Card Survival Wiki";</script>

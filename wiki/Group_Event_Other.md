@@ -5,4 +5,4 @@
 <div class="" style="width:800px;margin-bottom:-15px;"><table><tr style="height:10px"><td rowspan=3 style="width:80px"><div class="gamecard" style="width:80px; height:120px;"><a href="Event_SwimFail.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Sea.png" class="cardimage" style="max-width:80px;max-height:120px;"></a></div></td><td style="font-size: 1.2em">[我游不动了……(事件)](Event_SwimFail.md)</td></tr><tr><td>失败了……我得游回原地。</td></tr><tr><td><div style="display:inline-block"><div style="margin-right:5px;padding:5px;border:1px dashed darkgray;display: inline-block">游回去</div></div></td></tr></table></div><hr>  
 
 
-<script>document.title="其他事件 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="其他事件(事件组) - 卡牌生存百科 Card Survival Wiki";</script>

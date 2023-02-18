@@ -15,4 +15,4 @@
 <div class="" style="width:800px;margin-bottom:-15px;"><table><tr style="height:10px"><td rowspan=3 style="width:80px"><div class="gamecard" style="width:80px; height:120px;"><a href="Event_Nightmare.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/Watcher1a.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.23460410557184752);"></a></div></td><td style="font-size: 1.2em">[噩梦！(事件)](Event_Nightmare.md)</td></tr><tr><td>你从梦中惊醒，喘不过气来，大汗淋漓！<br><br>你不记得刚刚梦里发生了什么，但肯定没什么好事。</td></tr><tr><td><div style="display:inline-block"><div style="margin-right:5px;padding:5px;border:1px dashed darkgray;display: inline-block">试着冷静下来……</div></div></td></tr></table></div><hr>  
 
 
-<script>document.title="身体变化 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="身体变化(事件组) - 卡牌生存百科 Card Survival Wiki";</script>

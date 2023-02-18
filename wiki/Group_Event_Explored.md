@@ -20,4 +20,4 @@
 <div class="" style="width:800px;margin-bottom:-15px;"><table><tr style="height:10px"><td rowspan=3 style="width:80px"><div class="gamecard" style="width:80px; height:120px;"><a href="Event_WetlandsExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Wetlands.png" class="cardimage" style="max-width:80px;max-height:120px;"></a></div></td><td style="font-size: 1.2em">[地区探索完毕(事件)(湿地)](Event_WetlandsExplored.md)</td></tr><tr><td>我觉得已经找到这个地区所有可探索的地点了。</td></tr><tr><td><div style="display:inline-block"><div style="margin-right:5px;padding:5px;border:1px dashed darkgray;display: inline-block">继续</div></div></td></tr></table></div><hr>  
 
 
-<script>document.title="探索完毕 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="探索完毕(事件组) - 卡牌生存百科 Card Survival Wiki";</script>

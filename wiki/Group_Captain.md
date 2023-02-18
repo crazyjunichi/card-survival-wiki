@@ -21,4 +21,4 @@
   
 
 
-<script>document.title="船长 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="船长(事件组) - 卡牌生存百科 Card Survival Wiki";</script>

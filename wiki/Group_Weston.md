@@ -26,4 +26,4 @@
   
 
 
-<script>document.title="韦斯顿 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="韦斯顿(事件组) - 卡牌生存百科 Card Survival Wiki";</script>
