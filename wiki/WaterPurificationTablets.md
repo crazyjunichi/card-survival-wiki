@@ -7,8 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[不安全的水](LQ_WaterUnsafe.md)</div></div>  
   
 ## 属性   
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >属性</th><th  style="text-align:left;vertical-align:top;"  >值</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >耗时</th><th  style="text-align:left;vertical-align:top;"  >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >使用次数</td><td  style="text-align:left;vertical-align:top;"  >初始：8</td><td  style="text-align:left;vertical-align:top;"  >-</td><td  style="text-align:left;vertical-align:top;"  >** 到达0时： **<br><br>** 自身 **<br>→消失</td></tr></tbody></table>  
-  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：8<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: →消失</td></tr></table></div>  
 
 
 <script>document.title="净水片 - 卡牌生存百科 Card Survival Wiki";</script>

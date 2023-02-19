@@ -4,13 +4,13 @@
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_SlakedLime.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">熟石灰</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Quicklime.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[生石灰](Quicklime.md)](Quicklime.md)</td><td  style="text-align:left;vertical-align:top;"  >浸泡<br>** 拖入：**[“灌溉用水”](tag_WaterFresh.md)</td></tr></tbody></table>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“灌溉用水”](tag_WaterFresh.md)浸泡</div><div style="display:inline-block;vertical-align:middle;">[生石灰](Quicklime.md)</div></div></div></div>  
   
 ## 可拖至  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[不安全的水](LQ_WaterUnsafe.md)</div></div>  
   
 ## 可用于蓝图  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeVeraGel.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胶水(蓝图)](Bp_Glue.md)](Bp_Glue.md)</div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Glue.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/AloeVeraGel.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">胶水</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
   
   
 ## 被动效果  
