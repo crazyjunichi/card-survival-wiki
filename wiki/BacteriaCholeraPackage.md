@@ -1,10 +1,9 @@
 # 细菌性霍乱并发症  
-#### ** 基础值: ** 684   
-#### ** 变化范围: ** 0 ~ 684  
-#### ** 基础变化率: ** 无   
+<div style="font-size:1.2em"><b>基础值: </b> 684 </div>  
+<div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 684 </div>  
+<div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  
 ## 阶段  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >范围</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >描述</th><th  style="text-align:left;vertical-align:top;"  >影响状态</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >1 ～ 672</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[细菌性霍乱](BacteriaCholera.md)](BacteriaCholera.md)加成+16<br>[细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
-  
+<div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1 ～ 672<div><div style="font-size:0.4em">0% ～ 98%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b></b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>影响：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[细菌性霍乱](BacteriaCholera.md)](BacteriaCholera.md)加成+16, [细菌性霍乱并发症](BacteriaCholeraPackage.md)加成-1</td></tr></table></div>  
 ## 相关卡牌  
 [污垢](Filth.md)  |  [首月次数](FirstMonthCounter.md)  
 

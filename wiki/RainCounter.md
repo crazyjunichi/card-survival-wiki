@@ -1,10 +1,7 @@
 # 雨水计数器  
-#### ** 基础值: ** 400   
-#### ** 变化范围: ** 0 ~ 700  
-#### ** 基础变化率: ** +2 / 每15分钟   
-## 阶段  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >范围</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >描述</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响状态</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响动作</th></tr></thead></tbody></table>  
-  
+<div style="font-size:1.2em"><b>基础值: </b> 400 </div>  
+<div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 700 </div>  
+<div style="font-size:1.2em"><b>基础变化率: </b> +2 / 每15分钟 </div>  
 ## 相关卡牌  
 [季节](Seasons.md)  
 ## 加成值影响因素  

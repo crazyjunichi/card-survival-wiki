@@ -1,10 +1,9 @@
 # 海鸥入侵计数器  
-#### ** 基础值: ** 0   
-#### ** 变化范围: ** 0 ~ 192  
-#### ** 基础变化率: ** +1 / 每15分钟   
+<div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
+<div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 192 </div>  
+<div style="font-size:1.2em"><b>基础变化率: </b> +1 / 每15分钟 </div>  
 ## 阶段  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >范围</th><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >描述</th><th  style="text-align:left;vertical-align:top;"  >影响状态</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响动作</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >1 ～ 191</td><td  style="text-align:left;vertical-align:top;"  >随机速率</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[海鸥入侵计数器](SeagullRaidCounter.md)加成+4～+8</td><td  style="text-align:left;vertical-align:top;"  ></td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >191 ～ 192</td><td  style="text-align:left;vertical-align:top;"  >最终速率</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[海鸥入侵计数器](SeagullRaidCounter.md)加成+1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
-  
+<div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1 ～ 191<div><div style="font-size:0.4em">0% ～ 99%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b>随机速率</b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>影响：</b>[海鸥入侵计数器](SeagullRaidCounter.md)加成+4～+8</td></tr><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>191 ～ 192<div><div style="font-size:0.4em">99% ～ 100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b>最终速率</b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>影响：</b>[海鸥入侵计数器](SeagullRaidCounter.md)加成+1</td></tr></table></div>  
 
 
 <script>document.title="海鸥入侵计数器 - 卡牌生存百科 Card Survival Wiki";</script>

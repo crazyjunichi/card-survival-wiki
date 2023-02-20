@@ -1,10 +1,7 @@
 # 海湾风暴  
-#### ** 基础值: ** 0   
-#### ** 变化范围: ** 0 ~ 1  
-#### ** 基础变化率: ** 无   
-## 阶段  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >范围</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >描述</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响状态</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响动作</th></tr></thead></tbody></table>  
-  
+<div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
+<div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 1 </div>  
+<div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  
 ## 加成值影响因素  
 <table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[暴风雨](TropicalIsland_Storm.md)</td><td  style="text-align:left;vertical-align:top;"  >被动</td><td  style="text-align:left;vertical-align:top;"  >加成+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[暴风雨](TropicalIsland_StormInfinite.md)</td><td  style="text-align:left;vertical-align:top;"  >被动</td><td  style="text-align:left;vertical-align:top;"  >加成+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[暴风雨](TropicalIsland_StormStart.md)</td><td  style="text-align:left;vertical-align:top;"  >被动</td><td  style="text-align:left;vertical-align:top;"  >加成+1</td></tr></tbody></table>  
   

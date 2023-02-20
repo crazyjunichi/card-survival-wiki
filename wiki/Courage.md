@@ -1,12 +1,9 @@
 # 勇气  
 > 勇气不足时将无法执行部分危险或会引起疼痛的行动。<br><br>处于<b>疼痛、虚无感或狂躁</b>的状态能增加你的勇气，饮用<b>酒精</b>或<b>止‍疼薬</b>（如卡瓦）也会。  
   
-#### ** 基础值: ** 0   
-#### ** 变化范围: ** 0 ~ 4000  
-#### ** 基础变化率: ** -1 / 每15分钟   
-## 阶段  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >范围</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >描述</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响状态</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >影响动作</th></tr></thead></tbody></table>  
-  
+<div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
+<div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 4000 </div>  
+<div style="font-size:1.2em"><b>基础变化率: </b> -1 / 每15分钟 </div>  
 ## 相关卡牌  
 [疼痛](Pain.md)  |  [失实症](Derealization.md)  |  [狂躁](Mania.md)  |  [酒精](Alcohol.md)  |  [镇痛](Analgesia.md)  |  [辣椒素](Capsaicin.md)  |  [姜效果](GingerEffect.md)  |  [虚空灵视](VoidInsight.md)  
 ## 可被以下操作改变  
