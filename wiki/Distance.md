@@ -3,7 +3,7 @@
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 2016 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  
 ## 阶段  
-<div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1 ～ 2016<div><div style="font-size:0.4em">0% ～ 100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>航行距离</b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1 ～ 2016<div><div style="font-size:0.4em">0% ～ 100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>航行距离</b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2></td></tr></table></div>  
 ## 相关卡牌  
 [航行](Sailed.md)  
 ## 加成值影响因素  

@@ -1,6 +1,14 @@
 function runCustomScript() {
     // <li><div style="margin-left:50px;padding-top:19.5px;padding-bottom:19.5px;"><input id="searchInput" type="text" placeholder="输入关键字查找" ></input></div></li>
     let topContainer = $("#md-main-navbar .collapse .navbar-right")[0];
+
+    if (!topContainer) {
+        setTimeout(() => {
+            runCustomScript();
+        }, 500);
+        return;
+    }
+
     let div = document.createElement("div");
     // div.className = "nav navbar-nav navbar-right";
     Object.assign(div.style, {
@@ -58,10 +66,7 @@ function addCommentSystem() {
     // script.src = "https://utteranc.es/client.js";
     script.setAttribute("src", "https://utteranc.es/client.js");
     script.setAttribute("repo", "crazyjunichi/card-survival-wiki");
-    script.setAttribute(
-        "issue-term",
-        location.hash.substring(2, location.hash.indexOf("."))
-    );
+    script.setAttribute("issue-term", location.hash.substring(2, location.hash.indexOf(".")));
     script.setAttribute("label", "comment");
     script.setAttribute("theme", "boxy-light");
     script.setAttribute("crossorigin", "anonymous");
@@ -70,11 +75,7 @@ function addCommentSystem() {
 
     {
         let interval = setInterval(() => {
-            if (
-                $(".utterances")[0] &&
-                $(".utterances")[0].style &&
-                $(".utterances")[0].style.height
-            ) {
+            if ($(".utterances")[0] && $(".utterances")[0].style && $(".utterances")[0].style.height) {
                 clearInterval(interval);
                 div.remove();
                 // console.log("done");
