@@ -2,6 +2,8 @@
 <div style="font-size:1.2em"><b>基础值: </b> 400 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 700 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> +2 / 每15分钟 </div>  
+<div style="font-size:1.2em"><b>变化率范围: </b> -10 ~ +10 / 每15分钟
+                </div>  
 ## 相关卡牌  
 [季节](Seasons.md)  
 ## 加成值影响因素  

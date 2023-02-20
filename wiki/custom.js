@@ -31,6 +31,12 @@ function runCustomScript() {
         console.log(v);
     };
 
+    window.onkeydown = function (event) {
+        if (event.ctrlKey && event.shiftKey && event.code == "KeyF") {
+            input.focus();
+        }
+    };
+
     // div.innerHTML = `<input id="searchInput" type="text" placeholder="输入关键字查找" ></input>`;
 
     {
