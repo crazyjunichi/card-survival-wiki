@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[火种](TinderLit.md) , [火堆](Fire.md) , [营火](Campfire.md) , [火炉](Stove.md) , [烟熏炉](Smoker.md) , [瓦斯炉(开)](GasCookerOn.md) , [燃烧的信号弹(开)](FlareHandOn.md) , [蜡烛(开)](CandleOn.md) , [窑炉](Kiln.md) , [高级窑炉](KilnAdvanced.md) , [熔炉](Forge.md) , [蜡烛(开)](CandleOn.md) , [茉莉蜡烛(开)](CandleJasmineOn.md) , [香茅蜡烛(开)](CandleCitronellaOn.md)点燃</div><div style="display:inline-block;vertical-align:middle;">[茉莉蜡烛(关)](CandleJasmineOff.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.5em;font-weight:bold"><div style="padding:8px;border:1px dashed #333"><div>熄灭</div><div style="font-size:0.6em;">-</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CandleOffJasmine.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[茉莉蜡烛(关)](CandleJasmineOff.md)](CandleJasmineOff.md)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>熄灭</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CandleOffJasmine.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[茉莉蜡烛(关)](CandleJasmineOff.md)](CandleJasmineOff.md)</td></tr></table></div>  
   
   
 ## 可拖至  

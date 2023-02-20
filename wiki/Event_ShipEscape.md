@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[船舶救援(事件)](Event_ShipRescue.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[有船来了！(事件)](Event_ShipRescueDistance.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.5em;font-weight:bold"><div style="padding:8px;border:1px dashed #333"><div>重返文明世界</div><div style="font-size:0.6em;">-</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>重返文明世界</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr></table></div>  
   
   
 

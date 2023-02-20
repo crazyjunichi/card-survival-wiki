@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">打开</div><div style="display:inline-block;vertical-align:middle;">[引擎](Engine2Closed.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.5em;font-weight:bold"><div style="padding:8px;border:1px dashed #333"><div>拆除</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="4TP">1小时</font></div></div></td><td></td></tr><tr><td></td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>拆除</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="4TP">1小时</font></div></div></td><td></td></tr><tr><td></td></tr></table></div>  
   
   
 ## 属性   

@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[陶碗(蓝图)](Bp_ClayBowl.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“抗裂剂”](tag_Temper.md)制作碗</div><div style="display:inline-block;vertical-align:middle;">[粘土](Clay.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.5em;font-weight:bold"><div style="padding:8px;border:1px dashed #333"><div>摔碎</div><div style="font-size:0.6em;">-</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Clay.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[粘土](Clay.md)](Clay.md)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>摔碎</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Clay.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[粘土](Clay.md)](Clay.md)</td></tr></table></div>  
   
   
 ## 可拖入  
