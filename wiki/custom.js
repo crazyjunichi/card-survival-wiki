@@ -58,7 +58,7 @@ function runCustomScript() {
         }, 100);
     }
 
-    addCommentSystem();
+    // addCommentSystem();
 }
 
 function addCommentSystem() {

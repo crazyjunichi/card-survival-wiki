@@ -1,6 +1,6 @@
 # 卡牌生存百科
 
-![](image/header_schinese.jpeg)
+![](image/header.jpg)
 
 持续建设中，请随意浏览
 
