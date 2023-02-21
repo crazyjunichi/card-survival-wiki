@@ -1,4 +1,6 @@
 # 怀孕  
+> 怀孕初期你会感到恶心，然后会胃口大增，最后会削弱你的行动能力。  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 8640 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  

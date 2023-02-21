@@ -1,5 +1,5 @@
 # 制作(技能)  
->   
+> 显示你制作的熟练程度。提升制作水平可以解锁新的配方。  
   
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 150 </div>  

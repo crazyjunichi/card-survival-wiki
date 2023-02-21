@@ -1,4 +1,6 @@
 # 爬行类厌倦度  
+> 显示你对爬行动物肉的厌倦度。数值过高会降低情绪，感到恶心。  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 288 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> -1 / 每15分钟 </div>  

@@ -1,5 +1,5 @@
 # 压力  
->   
+> 使情绪低落并影响世界观。太高也会让你感到肠胃不适。  
   
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 240 </div>  

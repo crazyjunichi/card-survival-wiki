@@ -1,4 +1,6 @@
 # 手枪(技能)  
+> 显示你使用手枪的熟练程度。增加在使用此类武‍器狩猎时的成功几率。  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 150 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  

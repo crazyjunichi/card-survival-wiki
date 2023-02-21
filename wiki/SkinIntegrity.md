@@ -1,4 +1,6 @@
 # 皮肤完整度  
+> 皮肤完整度越低，你在肮脏的时候就更容易感染生病。  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 5 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> -20 ~ 5 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  

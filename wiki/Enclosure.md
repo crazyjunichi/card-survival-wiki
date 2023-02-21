@@ -1,5 +1,4 @@
 # 畜栏  
->   
   
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:center;min-width:0px;min-height:0px;"><div class="gamecard" style="width:120px; height:180px;"><a href="Enclosure.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Coop.png" class="cardimage" style="max-width:120px;max-height:180px;"><span style="font-size: 20px;">畜栏</span></a></div></div><div class="gamedatalist" style="text-align:center;min-width:0px;min-height:0px;"><div style="height: 150px;border: 2px #a89765 solid;width: 1px;"></div></div></div>  
   

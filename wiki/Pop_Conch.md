@@ -1,4 +1,5 @@
 # 海螺种群数量  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 30000 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 30000 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> +1 / 每15分钟 </div>  

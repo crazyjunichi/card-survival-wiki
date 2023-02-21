@@ -1,5 +1,5 @@
 # 湿度  
->   
+> 显示你的湿润程度。会降低你的体温并可能使你发烧。  
   
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 100 </div>  

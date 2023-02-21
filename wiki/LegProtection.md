@@ -1,4 +1,6 @@
 # 腿部防护  
+> 保护你的腿免受不同类型的伤害。  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 10 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  

@@ -1,4 +1,5 @@
 # 丛林大叶仙茅种群数量  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 9000 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 9000 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> +0.5 / 每15分钟 </div>  

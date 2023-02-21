@@ -1,4 +1,5 @@
 # 红树林姜种群数量  
+  
 <div style="font-size:1.2em"><b>基础值: </b> 15000 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 15000 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> +0.25 / 每15分钟 </div>  

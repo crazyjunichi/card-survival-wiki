@@ -1,5 +1,5 @@
 # 阳光强度  
->   
+> 显示阳光的强度。  
   
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 6 </div>  

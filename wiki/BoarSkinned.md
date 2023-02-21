@@ -1,5 +1,4 @@
 # 剥皮的野猪  
->   
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**重量：**2750<br><br>**标签：**	[“大的”](tag_Large.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BoarSkinned.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BoarSkinned.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">剥皮的野猪</span></a></div></div>野猪可以在岛上丛林覆盖的地区找到。它们是危险的猎物，所以在试图猎杀它们之前，确保你有足够的治疗用品，尤其是止血带。<br><br>野猪可以为你提供大量的肉、脂肪和兽皮。野猪肉营养丰富，脂肪有多种用途，从烹饪到制作蜡烛或水袋。兽皮可以用来制作衣服和许多有用的物品，甚至它们的獠牙也有用处。</td></tr></tbody></table>  
   
