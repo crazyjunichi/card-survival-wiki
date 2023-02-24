@@ -1,7 +1,12 @@
 # 祖父康复了！  
 > 你现在有什么打算？留在岛上还是回到文明社会？现在由你自己决定。<br><br>你证明了自己长大了。同时，你的祖父现在能用你建造的农场养活他自己。  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_OutroFarmer2.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GranfatherHealthy.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">祖父康复了！</span></a></div></div></td></tr></tbody></table>  
+<style>
+        .table4708 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table4708" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_OutroFarmer2.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GranfatherHealthy.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">祖父康复了！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">好！</div><div style="display:inline-block;vertical-align:middle;">[祖父康复了！(事件)](Event_OutroFarmer1.md)</div></div></div></div>  

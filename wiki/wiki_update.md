@@ -1,5 +1,10 @@
 # Wiki 更新日志
 
+## 2023/2/24
+
+-   优化[可选角色](character_preset.md)
+-   优化数字的显示效果
+
 ## 2023/2/21
 
 -   优化[成就](Ach.md), [触发器](trigger_list.md)

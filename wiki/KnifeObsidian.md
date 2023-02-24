@@ -1,7 +1,12 @@
 # 黑曜石刀  
 > 非常锋利，但也很脆。  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可用次数：**10</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KnifeObsidian.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ObsidianKnife.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">黑曜石刀</span></a></div></div>这种极其锋利的刀具可以用一块<b>黑曜石</b>制作，前提是你的<b>石工</b>技能足够高。<br><br><b>黑曜石刀具</b>与其他刀具（包括金属刀具）相比非常锋利，它们可以帮助你<b>更快</b>进行剥皮、刮皮和剔肉操作。它们是岛上屠夫和皮匠的绝佳工具。</td></tr></tbody></table>  
+<style>
+        .table8007 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table8007" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“刮具”](tag_Scraper.md), [“切割工具”](tag_Cutter.md), [“高级切割工具”](tag_CutterAdv.md), [“沉重的”](tag_Heavy.md), [“美丽的/好看的”](tag_Pretty.md)<br><br>**可用次数：**10</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KnifeObsidian.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ObsidianKnife.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">黑曜石刀</span></a></div></div>这种极其锋利的刀具可以用一块<b>黑曜石</b>制作，前提是你的<b>石工</b>技能足够高。<br><br><b>黑曜石刀具</b>与其他刀具（包括金属刀具）相比非常锋利，它们可以帮助你<b>更快</b>进行剥皮、刮皮和剔肉操作。它们是岛上屠夫和皮匠的绝佳工具。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[黑曜石刀(蓝图)](Bp_ObsidianKnife.md)</div></div></div></div>  

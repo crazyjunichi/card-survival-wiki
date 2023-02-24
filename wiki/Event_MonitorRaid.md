@@ -1,14 +1,24 @@
 # 一头巨蜥！  
 > 它在翻我的东西！它可能吃掉任何我没放在容器里的食物。<br>我应该吓跑它吗？  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)<br><br><b>被以下卡牌阻止：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Door.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[门](Imp_Door.md)](Imp_Door.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MonitorRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一头巨蜥！</span></a></div></div></td></tr></tbody></table>  
+<style>
+        .table1795 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table1795" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)<br><br><b>被以下卡牌阻止：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Door.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[门](Imp_Door.md)](Imp_Door.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MonitorRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一头巨蜥！</span></a></div></div></td></tr></tbody></table>  
   
 ## 触发条件  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >一头巨蜥！</td><td  style="text-align:left;vertical-align:top;"  >[巨蜥袭击计时器](MonitorRaidCounter.md): 192-192</td><td  style="text-align:left;vertical-align:top;"  >[巨蜥袭击计时器](MonitorRaidCounter.md)-192</td></tr></tbody></table>  
+<style>
+        .table9149 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table9149" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化</th></tr></thead><tr ><td  style=""  >一头巨蜥！</td><td  style=""  >[巨蜥袭击计时器](MonitorRaidCounter.md): <span style="font-family:ui-monospace"><b>192-192</b></span></td><td  style=""  >[巨蜥袭击计时器](MonitorRaidCounter.md)<span style="font-family:ui-monospace"><b>-192</b></span></td></tr></tbody></table>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>随它吧</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥(事件)](Event_MonitorRummaging.md)](Event_MonitorRummaging.md)(+1)</td></tr></table></div>  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>嘿！</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)(+1)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>随它吧</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[巨蜥(事件)](Event_MonitorRummaging.md)](Event_MonitorRummaging.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>嘿！</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[一头巨蜥！(事件)(洞穴)](Event_MonitorFight.md)](Event_MonitorFight.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
   
   
 

@@ -1,13 +1,18 @@
 # 蜂蜜  
 > 美味！  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_Honey.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellHoney.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜂蜜</span></a></div></div>蜂蜜是一种易于保存、营养丰富的食物，可以通过将<b>蜂巢和蜂箱</b>中的<b>巢脾</b>压入碗里来提取。<br><br>蜂蜜可以用于多个<b>烹饪食谱</b>，也可兑成<b>蜂蜜水</b>，用于喂<b>蜜蜂</b>或发酵成<b>蜂蜜酒</b>，一种可口的酒精饮料。</td></tr></tbody></table>  
+<style>
+        .table1928 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table1928" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_Honey.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellHoney.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜂蜜</span></a></div></div>蜂蜜是一种易于保存、营养丰富的食物，可以通过将<b>蜂巢和蜂箱</b>中的<b>巢脾</b>压入碗里来提取。<br><br>蜂蜜可以用于多个<b>烹饪食谱</b>，也可兑成<b>蜂蜜水</b>，用于喂<b>蜜蜂</b>或发酵成<b>蜂蜜酒</b>，一种可口的酒精饮料。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[蜂蜜(蓝图)](Bp_Honey.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“碗（容器）”](tag_ContainerBowl.md)提取蜂蜜</div><div style="display:inline-block;vertical-align:middle;">[巢脾](BeeHoneycomb.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>饮用</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)+5, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)+24, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)](SaturationSugar.md)+50, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)+30, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)+10</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>饮用</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)<span style="font-family:ui-monospace"><b>+5</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Stomach.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃](Stomach.md)](Stomach.md)<span style="font-family:ui-monospace"><b>+24</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SaturationSugar.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖<nobr>厌倦度</nobr>](SaturationSugar.md)](SaturationSugar.md)<span style="font-family:ui-monospace"><b>+50</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[饱食](Satiation.md)](Satiation.md)<span style="font-family:ui-monospace"><b>+30</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)<span style="font-family:ui-monospace"><b>+10</b></span></td></tr></table></div>  
   
   
 ## 可拖入  
@@ -21,7 +26,12 @@
   
   
 ## 被动效果  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Spoilage</td><td  style="text-align:left;vertical-align:top;"  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
+<style>
+        .table2505 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table2505" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Spoilage</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  ></td><td  style=""  ></td></tr></tbody></table>  
   
 
 

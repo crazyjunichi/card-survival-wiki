@@ -6,13 +6,28 @@
 ## 相关卡牌  
 [酒精](Alcohol.md)  
 ## 加成值影响因素  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[木筏](RaftEntrance.md)</td><td  style="text-align:left;vertical-align:top;"  >条件被动</td><td  style="text-align:left;vertical-align:top;"  >加成+1</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[勇敢](Pk_4_Brave.md)</td><td  style="text-align:left;vertical-align:top;"  >特质影响</td><td  style="text-align:left;vertical-align:top;"  >加成+1</td></tr></tbody></table>  
+<style>
+        .table4559 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table4559" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[木筏](RaftEntrance.md)</td><td  style=""  >条件被动</td><td  style=""  >加成+1</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[勇敢](Pk_4_Brave.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+1</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MudHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥屋(蓝图)](Bp_MudHut.md)](Bp_MudHut.md)</td><td  style="text-align:left;vertical-align:top;"  >蓝图制造</td><td  style="text-align:left;vertical-align:top;"  >250</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/StoneHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石屋(蓝图)](Bp_StoneHut.md)](Bp_StoneHut.md)</td><td  style="text-align:left;vertical-align:top;"  >蓝图制造</td><td  style="text-align:left;vertical-align:top;"  >250</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Shed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棚屋(蓝图)](Bp_Shed.md)](Bp_Shed.md)</td><td  style="text-align:left;vertical-align:top;"  >蓝图制造</td><td  style="text-align:left;vertical-align:top;"  >100</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Weston.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[韦斯顿(IslandEscape2)(事件)](Event_WestonIslandEscape2.md)](Event_WestonIslandEscape2.md)</td><td  style="text-align:left;vertical-align:top;"  >谢谢你，小韦……</td><td  style="text-align:left;vertical-align:top;"  >50</td></tr></tbody></table>  
+<style>
+        .table5401 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table5401" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MudHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[泥屋(蓝图)](Bp_MudHut.md)](Bp_MudHut.md)</td><td  style=""  >蓝图制造</td><td  style=""  >250</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/StoneHut.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[石屋(蓝图)](Bp_StoneHut.md)](Bp_StoneHut.md)</td><td  style=""  >蓝图制造</td><td  style=""  >250</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Shed.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[棚屋(蓝图)](Bp_Shed.md)](Bp_Shed.md)</td><td  style=""  >蓝图制造</td><td  style=""  >100</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Weston.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[韦斯顿(IslandEscape2)(事件)](Event_WestonIslandEscape2.md)](Event_WestonIslandEscape2.md)</td><td  style=""  >谢谢你，小韦……</td><td  style=""  >50</td></tr></tbody></table>  
   
 ## 被以下操作需求  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >离开这座岛</td><td  style="text-align:left;vertical-align:top;"  >1 ~ 100</td></tr></tbody></table>  
+<style>
+        .table7727 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table7727" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >离开这座岛</td><td  style=""  >1 ~ 100</td></tr></tbody></table>  
   
 
 

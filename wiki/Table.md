@@ -1,13 +1,23 @@
 # 木桌  
 > 方便我进行各类手工制作。看起来也不错！  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **<br><br>** 不可删除 **<br><br>**重量：**1000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)+150<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[工作区](Workplace.md)](Workplace.md)+600</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Table.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Table.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">木桌</span></a></div></div></td></tr></tbody></table>  
+<style>
+        .table5269 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table5269" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>** 不可删除 **<br><br>**重量：**1000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+150</b></span><br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[工作区](Workplace.md)](Workplace.md)<span style="font-family:ui-monospace"><b>+600</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Table.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Table.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">木桌</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[木桌(蓝图)](Bp_Table.md)</div></div></div></div>  
   
 ## 被动效果  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Chair Effect</td><td  style="text-align:left;vertical-align:top;"  >** 需要存在卡牌：**<br>[椅子](ChairPlaced.md)</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[工作区](Workplace.md)](Workplace.md)+300</td></tr></tbody></table>  
+<style>
+        .table5576 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table5576" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  >玩家状态</th></tr></thead><tr ><td  style=""  >Chair Effect</td><td  style=""  >** 需要存在卡牌：**<br>[椅子](ChairPlaced.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Construction.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[工作区](Workplace.md)](Workplace.md)<span style="font-family:ui-monospace"><b>+300</b></span></td></tr></tbody></table>  
   
 
 

@@ -1,7 +1,12 @@
 # 猕猴诅咒  
 > 猕猴特别喜欢来给你捣乱。  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:15%;text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >解锁条件</td><td  style="text-align:left;vertical-align:top;"  >1🌙</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >难度分</td><td  style="text-align:left;vertical-align:top;"  >750</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始装备</td><td  style="text-align:left;vertical-align:top;"  >无</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >额外卡牌</td><td  style="text-align:left;vertical-align:top;"  >无</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >[害怕猕猴](MacaqueFear.md)-9999</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >[害怕猕猴](MacaqueFear.md)加成-10<br>[猕猴入侵计数器](MacaqueRaidCounter.md)加成+2</td></tr></tbody></table>  
+<style>
+        .table2836 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table2836" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:15%;"  >名称</th><th  style=""  >值</th></tr></thead><tr ><td  style="width:15%;"  >解锁条件</td><td  style=""  >1🌙</td></tr><tr ><td  style="width:15%;"  >难度分</td><td  style=""  >750</td></tr><tr ><td  style="width:15%;"  >初始装备</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >额外卡牌</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >初始状态</td><td  style=""  >[害怕猕猴](MacaqueFear.md)<span style="font-family:ui-monospace"><b>-9999</b></span></td></tr><tr ><td  style="width:15%;"  >被动状态</td><td  style=""  >[害怕猕猴](MacaqueFear.md)加成<span style="font-family:ui-monospace"><b>-10</b></span><br>[猕猴入侵计数器](MacaqueRaidCounter.md)加成<span style="font-family:ui-monospace"><b>+2</b></span></td></tr></tbody></table>  
   
 
 

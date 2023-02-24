@@ -1,13 +1,18 @@
 # 水袋  
 > 我可以拿它装水。<br><br><b>可在装备栏装备</b>  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**900</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Waterskin.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WaterSkin.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水袋</span></a></div></div>一个便携的密封容器，可以背在<b>肩膀</b>上，能够储存3份的<b>水</b>。<br><br>它可以用<b>鞣制兽皮、脂肪、细线和针</b>制作。</td></tr></tbody></table>  
+<style>
+        .table5027 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table5027" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**900</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Waterskin.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WaterSkin.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水袋</span></a></div></div>一个便携的密封容器，可以背在<b>肩膀</b>上，能够储存3份的<b>水</b>。<br><br>它可以用<b>鞣制兽皮、脂肪、细线和针</b>制作。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[水袋(蓝图)](Bp_Waterskin.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>收集雨水</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): 1-5</td></tr><tr><td colspan="2">[水](LQ_Water.md)(+50)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>收集雨水</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td></tr><tr><td colspan="2">[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+50</b></span>)</td></tr></table></div>  
   
   
 ## 可拖至  

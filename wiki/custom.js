@@ -18,6 +18,23 @@ function runCustomScript() {
         // width: "200px",
     });
     topContainer.append(div);
+
+    // let lang = document.createElement("a");
+    // let isEn = window.location.pathname.includes("/en/");
+    // if (isEn) {
+    //     lang.innerText = "中文版";
+    //     lang.href = window.location.href.replace("/en/", "/wiki/");
+    // } else {
+    //     lang.innerText = "EN";
+    //     lang.href = window.location.href.replace("/wiki/", "/en/");
+    // }
+    // Object.assign(lang.style, {
+    //     width: "90px",
+    //     display: "inline-block",
+    //     color: "#FFF",
+    // });
+    // div.append(lang);
+
     let input = document.createElement("input");
     input.id = "searchInput";
     input.type = "text";

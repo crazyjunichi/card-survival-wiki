@@ -6,10 +6,20 @@
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 10 </div>  
 <div style="font-size:1.2em"><b>基础变化率: </b> 无 </div>  
 ## 可被以下操作改变  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服](BeeSuit.md)](BeeSuit.md)</td><td  style="text-align:left;vertical-align:top;"  >被动效果</td><td  style="text-align:left;vertical-align:top;"  >10</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/LeatherPants.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[皮裤](LeatherPants.md)](LeatherPants.md)</td><td  style="text-align:left;vertical-align:top;"  >被动效果</td><td  style="text-align:left;vertical-align:top;"  >3</td></tr></tbody></table>  
+<style>
+        .table7047 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table7047" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BeeSuit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[防蜂服](BeeSuit.md)](BeeSuit.md)</td><td  style=""  >被动效果</td><td  style=""  >10</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/LeatherPants.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[皮裤](LeatherPants.md)](LeatherPants.md)</td><td  style=""  >被动效果</td><td  style=""  >3</td></tr></tbody></table>  
   
 ## 被以下操作需求  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style="text-align:left;vertical-align:top;"  >我的衣服保护了我！</td><td  style="text-align:left;vertical-align:top;"  >7 ~ 10</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[繁殖中的蜂群](BeeSkepSwarming.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >6 ~ 10</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style="text-align:left;vertical-align:top;"  >我的衣服一定程度上保护了我！</td><td  style="text-align:left;vertical-align:top;"  >3 ~ 6.9</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[繁殖中的蜂群](BeeSkepSwarming.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >0</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style="text-align:left;vertical-align:top;"  >啊——！</td><td  style="text-align:left;vertical-align:top;"  >0 ~ 2.9</td></tr></tbody></table>  
+<style>
+        .table6264 th,td{
+            text-align:left;
+            vertical-align:top;
+        }
+        </style><table class="table table-bordered table6264" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style=""  >我的衣服保护了我！</td><td  style=""  >7 ~ 10</td></tr><tr ><td  style=""  >[繁殖中的蜂群](BeeSkepSwarming.md)</td><td  style=""  >影响</td><td  style=""  >6 ~ 10</td></tr><tr ><td  style=""  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style=""  >我的衣服一定程度上保护了我！</td><td  style=""  >3 ~ 6.9</td></tr><tr ><td  style=""  >[繁殖中的蜂群](BeeSkepSwarming.md)</td><td  style=""  >影响</td><td  style=""  >0</td></tr><tr ><td  style=""  >[一群蜜蜂！(事件)](Event_BeesSwarming.md)</td><td  style=""  >啊——！</td><td  style=""  >0 ~ 2.9</td></tr></tbody></table>  
   
 
 
