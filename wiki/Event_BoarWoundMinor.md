@@ -2,11 +2,11 @@
 > 我应该尽早处理伤口……  
   
 <style>
-        .table6718 th,td{
+        .table6037 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6718" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_BoarWoundMinor.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BoarEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野猪伤到了我！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6037" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_BoarWoundMinor.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BoarEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野猪伤到了我！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[我拿下它了，但我受伤了。(事件)](Event_BoarFightMixedSuccess.md)</div></div></div></div>  

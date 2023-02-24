@@ -2,11 +2,11 @@
 > 最好先用烟熏它再动手。  
   
 <style>
-        .table5582 th,td{
+        .table8227 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5582" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>** 不可堆叠 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Beehive.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BeeHive.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">蜂巢</span></a></div></div>蜂巢可以在岛上的<b>丛林深处</b>找到。巢脾里可以提取蜂蜜和蜡，蜜蜂可以捕来建造你自己的人工蜂箱。<br><br>在与蜂巢交互之前，请确保先用火把或熏蜂器熏倒蜜蜂，否则它们会攻击你。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table8227" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>** 不可堆叠 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Beehive.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BeeHive.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">蜂巢</span></a></div></div>蜂巢可以在岛上的<b>丛林深处</b>找到。巢脾里可以提取蜂蜜和蜡，蜜蜂可以捕来建造你自己的人工蜂箱。<br><br>在与蜂巢交互之前，请确保先用火把或熏蜂器熏倒蜜蜂，否则它们会攻击你。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林深处](DeepJungle.md)</div></div></div></div>  

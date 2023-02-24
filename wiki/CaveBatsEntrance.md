@@ -2,11 +2,11 @@
 > 进入洞穴  
   
 <style>
-        .table6688 th,td{
+        .table3597 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6688" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[丛林高地(环境)](Env_JungleHighlands.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CaveBatsEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BatCave.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蝙蝠洞</span></a></div></div>这个潮湿黑暗的洞穴里住着一个大型蝙蝠群落。随着时间的推移，这些蝙蝠会产生海鸟粪，这些海鸟粪可以用作肥料或制作硝石矿床。猎取蝙蝠也可以获得一点肉。<br><br>除此之外，布满粪便的洞穴地面也是杂菌的天然温床。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3597" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[丛林高地(环境)](Env_JungleHighlands.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CaveBatsEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BatCave.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蝙蝠洞</span></a></div></div>这个潮湿黑暗的洞穴里住着一个大型蝙蝠群落。随着时间的推移，这些蝙蝠会产生海鸟粪，这些海鸟粪可以用作肥料或制作硝石矿床。猎取蝙蝠也可以获得一点肉。<br><br>除此之外，布满粪便的洞穴地面也是杂菌的天然温床。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">离开</div><div style="display:inline-block;vertical-align:middle;">[离开(蝙蝠洞)](CaveBatsExit.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林高地](JungleHighlands.md)</div></div></div></div>  

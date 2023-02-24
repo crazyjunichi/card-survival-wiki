@@ -2,11 +2,11 @@
 > 能帮助我治疗和预防晒伤。对治疗背痛和虫子叮咬也有好处。  
   
 <style>
-        .table6863 th,td{
+        .table5876 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6863" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**25<br><br>**标签：**	[“有机的”](tag_Organic.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AloeVeraLeaf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AloeVeraLeaf.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">芦荟叶</span></a></div></div>这种多肉植物的充满胶状物的叶子可以用来缓解肌肉和背部疼痛，帮助手伤和脚伤愈合，治疗烧伤和晒伤，并预防蚊虫叮咬。<br><br>为了更有效地使用这种植物，你应该首先提取它的凝胶，这需要足够高的薬草学水平。<br><br>芦荟植株通常生长在开阔、干燥的地方，如岛上的海岸或高地。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5876" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**25<br><br>**标签：**	[“有机的”](tag_Organic.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AloeVeraLeaf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AloeVeraLeaf.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">芦荟叶</span></a></div></div>这种多肉植物的充满胶状物的叶子可以用来缓解肌肉和背部疼痛，帮助手伤和脚伤愈合，治疗烧伤和晒伤，并预防蚊虫叮咬。<br><br>为了更有效地使用这种植物，你应该首先提取它的凝胶，这需要足够高的薬草学水平。<br><br>芦荟植株通常生长在开阔、干燥的地方，如岛上的海岸或高地。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集</div><div style="display:inline-block;vertical-align:middle;">[芦荟](AloeVera.md)</div></div></div></div>  

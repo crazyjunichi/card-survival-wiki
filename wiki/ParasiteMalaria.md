@@ -11,19 +11,19 @@
 [免疫系统](ImmuneSystem.md)  |  [疟疾寄生虫抗性](MalariaResistance.md)  |  [蚊虫叮咬](BugDamage.md)  |  [奎宁](Quinine.md)  
 ## 加成值影响因素  
 <style>
-        .table5933 th,td{
+        .table6794 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5933" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BacteriaNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[天生免疫](Pk_4_Immunized.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-100</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6794" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BacteriaNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[天生免疫](Pk_4_Immunized.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-100</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table5207 th,td{
+        .table2759 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5207" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
+        </style><table class="table table-bordered table2759" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
   
 
 

@@ -2,19 +2,19 @@
 > 一艘船出现了，它似乎正朝你直冲过来！是汽笛声！他们看到你了！  
   
 <style>
-        .table9348 th,td{
+        .table8205 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9348" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_ShipRescueDistance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ship.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">有船来了！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table8205" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_ShipRescueDistance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ship.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">有船来了！</span></a></div></div></td></tr></tbody></table>  
   
 ## 触发条件  
 <style>
-        .table8636 th,td{
+        .table1941 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8636" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化</th></tr></thead><tr ><td  style=""  >到达目的地</td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[距离](Distance.md)](Distance.md): <span style="font-family:ui-monospace"><b>2016-2016</b></span></td><td  style=""  >[睡眠中断](SleepInterrupt.md)<span style="font-family:ui-monospace"><b>+1</b></span></td></tr></tbody></table>  
+        </style><table class="table table-bordered table1941" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化</th></tr></thead><tr ><td  style=""  >到达目的地</td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Distance.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[距离](Distance.md)](Distance.md): <span style="font-family:ui-monospace"><b>2016-2016</b></span></td><td  style=""  >[睡眠中断](SleepInterrupt.md)<span style="font-family:ui-monospace"><b>+1</b></span></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>继续</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Ship.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[获救！(事件)](Event_ShipEscape.md)](Event_ShipEscape.md)</td></tr></table></div>  

@@ -2,11 +2,11 @@
 > 咸咸的，很美味！  
   
 <style>
-        .table5905 th,td{
+        .table7255 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5905" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MacaqueMeatSalted.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/MonkeyMeat.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">腌猕猴肉</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table7255" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“人类食物”](tag_HumanFood.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MacaqueMeatSalted.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/MonkeyMeat.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">腌猕猴肉</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[腌制中的猕猴肉](MacaqueMeatSaltedDrying.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 沙滩的尽头连接着海湾。<br><br><b>（只有手牌可以带走）</b>  
   
 <style>
-        .table9282 th,td{
+        .table2575 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9282" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_BeachToBay.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Bay.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海湾</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2575" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_BeachToBay.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Bay.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海湾</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[红树林(事件)](Event_MangrovesFoundFromBeach.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[沙滩](Beach.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">前往</div><div style="display:inline-block;vertical-align:middle;">[前往沙滩(海湾)](Path_BayToBeach.md)</div></div></div></div>  

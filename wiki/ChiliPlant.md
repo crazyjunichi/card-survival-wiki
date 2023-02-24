@@ -2,11 +2,11 @@
 > 我可以来收点辣椒以备后用。  
   
 <style>
-        .table2548 th,td{
+        .table7335 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2548" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ChiliPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/ChiliPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">辣椒丛</span></a></div></div>在岛上的<b>草原</b>可以找到辣椒。它们的植株需要开阔和干燥的地方生长，并且对<b>螨虫</b>有很强的抵抗力。<br><br>它们的果实营养丰富并含有辣椒素（一种能让你出汗和降低体温的化合物）它能用于多种烹饪食谱并且是<b>杀虫剂</b>的必要成分。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7335" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ChiliPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/ChiliPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">辣椒丛</span></a></div></div>在岛上的<b>草原</b>可以找到辣椒。它们的植株需要开阔和干燥的地方生长，并且对<b>螨虫</b>有很强的抵抗力。<br><br>它们的果实营养丰富并含有辣椒素（一种能让你出汗和降低体温的化合物）它能用于多种烹饪食谱并且是<b>杀虫剂</b>的必要成分。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[辣椒田](CropPlotChilies.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[东部草原](GrasslandsE.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[西部草原](GrasslandsW.md)</div></div></div></div>  

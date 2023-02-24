@@ -2,11 +2,11 @@
 > 可以捣碎后泡入水中调制成一种舒缓茶，有舒缓压力、镇痛和退烧的功效。  
   
 <style>
-        .table9128 th,td{
+        .table7911 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9128" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KavaRoot.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/KavaRoots.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">卡瓦根</span></a></div></div>这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的薬用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7911" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KavaRoot.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/KavaRoots.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">卡瓦根</span></a></div></div>这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的薬用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集根部</div><div style="display:inline-block;vertical-align:middle;">[卡瓦胡椒株](KavaPlant.md)</div></div></div></div>  
@@ -23,22 +23,22 @@
   
 ## 可用于转化  
 <style>
-        .table9433 th,td{
+        .table5608 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9433" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/KavaRoots.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[干燥的卡瓦根](KavaRootDried.md)](KavaRootDried.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DryingRack.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[晾晒架](DryingRack.md)](DryingRack.md)</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5608" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/KavaRoots.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[干燥的卡瓦根](KavaRootDried.md)](KavaRootDried.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DryingRack.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[晾晒架](DryingRack.md)](DryingRack.md)</td></tr></tbody></table>  
   
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：672<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="672TP">7天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></table></div>  
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">进度</td><td style="font-size:1em;background-color:#FEFEFE">初始：0 , 最大：336<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达上限时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/KavaRoots.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[干燥的卡瓦根](KavaRootDried.md)](KavaRootDried.md)</td></tr></table></div>  
 ## 被动效果  
 <style>
-        .table5688 th,td{
+        .table9733 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5688" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Drying</td><td  style=""  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>0-0</b></span></td><td  style=""  >进度+1(0.29%)</td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table9733" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Drying</td><td  style=""  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>0-0</b></span></td><td  style=""  >进度+1(0.29%)</td><td  style=""  ></td></tr></tbody></table>  
   
 
 

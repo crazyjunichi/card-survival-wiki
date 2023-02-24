@@ -7,19 +7,19 @@
 <div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>10<div><div style="font-size:0.4em">100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b></b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>影响：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[真人秀 - 等待](TV_CounterWait.md)](TV_CounterWait.md)<span style="font-family:ui-monospace"><b>-288</b></span> 加成<span style="font-family:ui-monospace"><b>-1</b></span></td></tr><tr><td colspan=2></td></tr></table></div>  
 ## 可被以下操作改变  
 <style>
-        .table9251 th,td{
+        .table4165 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9251" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Seasickness.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胜利薬片](VictoryPillsTV.md)](VictoryPillsTV.md)</td><td  style=""  >吃薬</td><td  style=""  >2</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style=""  >打开</td><td  style=""  >1</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4165" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Seasickness.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[胜利薬片](VictoryPillsTV.md)](VictoryPillsTV.md)</td><td  style=""  >吃薬</td><td  style=""  >2</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/TVCrate.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[补给胶囊](TV_SupplyCapsule.md)](TV_SupplyCapsule.md)</td><td  style=""  >打开</td><td  style=""  >1</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table5157 th,td{
+        .table6408 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5157" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[补给胶囊](TV_SupplyCapsule.md)</td><td  style=""  >影响</td><td  style=""  >8 ~ 10</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6408" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[补给胶囊](TV_SupplyCapsule.md)</td><td  style=""  >影响</td><td  style=""  >8 ~ 10</td></tr></tbody></table>  
   
 
 

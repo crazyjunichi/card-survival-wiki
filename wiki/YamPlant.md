@@ -2,11 +2,11 @@
 > 我应该把它的块茎挖出来。如果有工具可能会更方便。  
   
 <style>
-        .table2033 th,td{
+        .table3846 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2033" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="YamPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/YamPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野参薯</span></a></div></div>这些有毒的块茎作物可以在岛上的<b>丛林</b>中找到。<br>它们可以通过切块并浸泡在任何水（盐、新鲜或不安全的水）中然后煮熟来食用。<br><br>如果未经任何加工可以存放更长时间。它营养丰富，可用于多种<b>烹饪食谱</b>中，是非常优秀的主食。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3846" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="YamPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/YamPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野参薯</span></a></div></div>这些有毒的块茎作物可以在岛上的<b>丛林</b>中找到。<br>它们可以通过切块并浸泡在任何水（盐、新鲜或不安全的水）中然后煮熟来食用。<br><br>如果未经任何加工可以存放更长时间。它营养丰富，可用于多种<b>烹饪食谱</b>中，是非常优秀的主食。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[参薯田](CropPlotYam.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林深处](DeepJungle.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林](Jungle.md)</div></div></div></div>  

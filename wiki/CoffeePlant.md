@@ -2,11 +2,11 @@
 > 我可以从这里采集咖啡豆。  
   
 <style>
-        .table8182 th,td{
+        .table9501 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8182" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CoffeePlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoffeePlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">咖啡丛</span></a></div></div>世界上最受欢迎的饮料！<br><br><b>咖啡植株</b>可以在<b>丛林高地</b>中找到，也可以在农田中种植。<br><br>收获它们的<b>浆果</b>并从中提取<b>咖啡豆</b>。<br>然后，直接在火上<b>烘烤咖啡豆</b>，然后<b>将它们浸泡在开水中</b>，为自己冲泡一些香浓又提神的<b>咖啡</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9501" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CoffeePlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoffeePlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">咖啡丛</span></a></div></div>世界上最受欢迎的饮料！<br><br><b>咖啡植株</b>可以在<b>丛林高地</b>中找到，也可以在农田中种植。<br><br>收获它们的<b>浆果</b>并从中提取<b>咖啡豆</b>。<br>然后，直接在火上<b>烘烤咖啡豆</b>，然后<b>将它们浸泡在开水中</b>，为自己冲泡一些香浓又提神的<b>咖啡</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[咖啡田](CropPlotCoffee.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林高地](JungleHighlands.md)</div></div></div></div>  

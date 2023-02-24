@@ -2,11 +2,11 @@
 > 一座小岛，周围环绕着许多海鸥。虽然很远，但我可以试试游过去。  
   
 <style>
-        .table3015 th,td{
+        .table1132 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3015" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Cove.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_CoveToBirdRock.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BirdRock.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鸟岩岛</span></a></div></div>位于小岛北岸的孤岛，岛上有许多<b>海鸥和海鸟粪</b>。<br><br>去那里时要小心，如果你的游泳技能不够高，你可能会无法成功到达导致需要折返，也有可能成功到达岛上后被困住从而无法返回。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1132" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Cove.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_CoveToBirdRock.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BirdRock.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鸟岩岛</span></a></div></div>位于小岛北岸的孤岛，岛上有许多<b>海鸥和海鸟粪</b>。<br><br>去那里时要小心，如果你的游泳技能不够高，你可能会无法成功到达导致需要折返，也有可能成功到达岛上后被困住从而无法返回。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">游泳</div><div style="display:inline-block;vertical-align:middle;">[隐秘港湾](Path_BirdRockToCove.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[隐秘港湾(沙滩)](Cove.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 一个储物装置，可以储存或展示物品。  
   
 <style>
-        .table1034 th,td{
+        .table5825 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1034" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**1000<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**3000<br><br>**减重：**-3000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Bookshelf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ShelvingUnit.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">书架</span></a></div></div>一件实用的家具，可以增加你的<b>舒适度</b>，提供大量的存储空间，并为你提供充足的空间来展示<b>装饰品</b>。书架上的每一件装饰品都会增加整体<b>舒适度</b>。<br><br>它需要足够的<b>木工技能</b>，以及<b>木板和木钉</b>来建造。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5825" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**1000<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**3000<br><br>**减重：**-3000<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Bookshelf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ShelvingUnit.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">书架</span></a></div></div>一件实用的家具，可以增加你的<b>舒适度</b>，提供大量的存储空间，并为你提供充足的空间来展示<b>装饰品</b>。书架上的每一件装饰品都会增加整体<b>舒适度</b>。<br><br>它需要足够的<b>木工技能</b>，以及<b>木板和木钉</b>来建造。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[书架(蓝图)](Bp_Bookshelf.md)</div></div></div></div>  
@@ -17,11 +17,11 @@
   
 ## 被动效果  
 <style>
-        .table6368 th,td{
+        .table2800 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6368" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  >玩家状态</th></tr></thead><tr ><td  style=""  >Decoration Comfort</td><td  style=""  >** 需要放入：**<br>[“装饰品”](tag_Decoration.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+10</b></span></td></tr><tr ><td  style=""  >Decoration Advanced Comfort</td><td  style=""  >** 需要放入：**<br>[“高级装饰品”](tag_DecorationAdv.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+15</b></span></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2800" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  >玩家状态</th></tr></thead><tr ><td  style=""  >Decoration Comfort</td><td  style=""  >** 需要放入：**<br>[“装饰品”](tag_Decoration.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+10</b></span></td></tr><tr ><td  style=""  >Decoration Advanced Comfort</td><td  style=""  >** 需要放入：**<br>[“高级装饰品”](tag_DecorationAdv.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+15</b></span></td></tr></tbody></table>  
   
 
 

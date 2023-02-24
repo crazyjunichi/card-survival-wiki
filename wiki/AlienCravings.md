@@ -10,19 +10,19 @@
 [外星斑点](AlienSpots.md)  
 ## 加成值影响因素  
 <style>
-        .table5167 th,td{
+        .table5927 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5167" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[盛开的外星植物](AlienGrowth.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0.2</td></tr><tr ><td  style=""  >[外星植物](AlienGrowthCleared.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0.1</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5927" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[盛开的外星植物](AlienGrowth.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0.2</td></tr><tr ><td  style=""  >[外星植物](AlienGrowthCleared.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0.1</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table9391 th,td{
+        .table1003 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9391" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)</td><td  style=""  >食用</td><td  style=""  >-48</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1003" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)</td><td  style=""  >食用</td><td  style=""  >-48</td></tr></tbody></table>  
   
 
 

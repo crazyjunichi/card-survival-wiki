@@ -2,11 +2,11 @@
 > 应该把它放进熔炉或者高级窑炉。  
   
 <style>
-        .table8615 th,td{
+        .table2720 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8615" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“粘土”](tag_Clay.md), [“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MoldCopperDecoration.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ClayMold.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">装饰品模具</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2720" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“粘土”](tag_Clay.md), [“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MoldCopperDecoration.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ClayMold.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">装饰品模具</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[装饰品模具(蓝图)](Bp_MoldDecoration.md)</div></div></div></div>  
@@ -17,11 +17,11 @@
   
 ## 可用于转化  
 <style>
-        .table2256 th,td{
+        .table0442 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2256" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayMold.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜制装饰品](CopperDecoration_Mold.md)](CopperDecoration_Mold.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayMold.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜制装饰品](CopperDecoration_Mold.md)](CopperDecoration_Mold.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
+        </style><table class="table table-bordered table0442" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayMold.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜制装饰品](CopperDecoration_Mold.md)](CopperDecoration_Mold.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayMold.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜制装饰品](CopperDecoration_Mold.md)](CopperDecoration_Mold.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
   
 
 

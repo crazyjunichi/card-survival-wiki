@@ -2,11 +2,11 @@
 > 一块又大又重的石头，可以置于窑炉内煅烧成硫磺。  
   
 <style>
-        .table7673 th,td{
+        .table1846 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7673" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHeavyBrimstone.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BrimstoneHeavyStone.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">硫磺石</span></a></div></div>大块的<b>石灰石</b>。足够的重量使其成为了<b>落石陷阱</b>的理想选择。<br><br>它们也可以用来<b>打磨</b>工具及其他石头，或在<b>窑</b>里面煅烧成<b>生石灰</b>。它们还有另外一种富含硫磺的淡黄色品种，可以煅烧出<b>硫磺</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1846" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHeavyBrimstone.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BrimstoneHeavyStone.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">硫磺石</span></a></div></div>大块的<b>石灰石</b>。足够的重量使其成为了<b>落石陷阱</b>的理想选择。<br><br>它们也可以用来<b>打磨</b>工具及其他石头，或在<b>窑</b>里面煅烧成<b>生石灰</b>。它们还有另外一种富含硫磺的淡黄色品种，可以煅烧出<b>硫磺</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[酸湖(火山)](AcidLake.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[荒芜沙滩](DesolateBeach.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[火山](Volcano.md)</div></div></div></div>  
@@ -19,11 +19,11 @@
   
 ## 可用于转化  
 <style>
-        .table9229 th,td{
+        .table1094 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9229" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Brimstone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺](Brimstone.md)](Brimstone.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/KilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窑炉](Kiln.md)](Kiln.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Brimstone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺](Brimstone.md)](Brimstone.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1094" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Brimstone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺](Brimstone.md)](Brimstone.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/KilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[窑炉](Kiln.md)](Kiln.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Brimstone.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[硫磺](Brimstone.md)](Brimstone.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
   
 
 

@@ -9,19 +9,19 @@
 [海湾椰子树种群数量](PalmTree_BayPop.md)  |  [丛林边缘椰子树种群数量](PalmTree_OutskirtsPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table4163 th,td{
+        .table0512 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4163" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style=""  >随便逛逛</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table0512" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style=""  >随便逛逛</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table4182 th,td{
+        .table3355 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4182" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[沙滩](Beach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 30000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3355" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[沙滩](Beach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 30000</td></tr></tbody></table>  
   
 
 

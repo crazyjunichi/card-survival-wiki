@@ -11,19 +11,19 @@
 [雨水防护](RainProtection.md)  |  [降水值](RainValue.md)  
 ## 加成值影响因素  
 <style>
-        .table7154 th,td{
+        .table6089 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7154" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[火山(环境)](Env_AcidLake.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6089" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[火山(环境)](Env_AcidLake.md)</td><td  style=""  >被动效果</td><td  style=""  >加成+0</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table2807 th,td{
+        .table2759 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2807" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
+        </style><table class="table table-bordered table2759" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
   
 
 

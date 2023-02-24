@@ -2,11 +2,11 @@
 > 我需要切割工具或者斧子来弄开它。  
   
 <style>
-        .table1027 th,td{
+        .table6434 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1027" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**500<br><br>**可用次数：**4</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="NipaFruit.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/NipaFruit.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水椰子</span></a></div></div>一大串可食用的水椰树种。<br><br>它们需要在<b>切割工具</b>（或猕猴朋友）的帮助下去除外壳才能食用。<br><br>和椰子类似，吃多了会导致腹泻。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6434" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**500<br><br>**可用次数：**4</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="NipaFruit.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/NipaFruit.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水椰子</span></a></div></div>一大串可食用的水椰树种。<br><br>它们需要在<b>切割工具</b>（或猕猴朋友）的帮助下去除外壳才能食用。<br><br>和椰子类似，吃多了会导致腹泻。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“切割工具”](tag_Cutter.md) , [“斧”](tag_Axe.md)割水椰子</div><div style="display:inline-block;vertical-align:middle;">[水椰](NipaPalm.md)</div></div></div></div>  

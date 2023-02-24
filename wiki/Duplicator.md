@@ -1,11 +1,11 @@
 # NONAME  
   
 <style>
-        .table2208 th,td{
+        .table5682 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2208" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Duplicator.md" style="color:black"><img decoding="async" src="" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">NONAME</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table5682" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Duplicator.md" style="color:black"><img decoding="async" src="" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">NONAME</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[NONAME](Duplicator.md)</div></div></div></div>  

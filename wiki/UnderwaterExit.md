@@ -2,11 +2,11 @@
 > 似乎是通往大海的小型通道。  
   
 <style>
-        .table8497 th,td{
+        .table6472 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8497" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[覆溺洞穴(环境)](Env_FloodedChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="UnderwaterExit.md" style="color:black"><img decoding="async" src="../wiki/Sprite/UnderwaterExit.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水下出口</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6472" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[覆溺洞穴(环境)](Env_FloodedChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="UnderwaterExit.md" style="color:black"><img decoding="async" src="../wiki/Sprite/UnderwaterExit.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水下出口</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">潜水</div><div style="display:inline-block;vertical-align:middle;">[海水(覆溺洞穴)](Sea_Cave.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">进入</div><div style="display:inline-block;vertical-align:middle;">[水下洞穴](UnderwaterEntrance.md)</div></div></div></div>  

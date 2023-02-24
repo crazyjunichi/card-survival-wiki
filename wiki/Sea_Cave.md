@@ -2,11 +2,11 @@
 > 可以去潜水或者抓些鱼。这似乎连通着大海。  
   
 <style>
-        .table2633 th,td{
+        .table2805 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2633" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[覆溺洞穴(环境)](Env_FloodedChamber.md)<br><br>**标签：**	[“浅水域”](tag_ShallowWater.md), [“海”](tag_Sea.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Sea_Cave.md" style="color:black"><img decoding="async" src="../wiki/Sprite/FloodedChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海水</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2805" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[覆溺洞穴(环境)](Env_FloodedChamber.md)<br><br>**标签：**	[“浅水域”](tag_ShallowWater.md), [“海”](tag_Sea.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Sea_Cave.md" style="color:black"><img decoding="async" src="../wiki/Sprite/FloodedChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海水</span></a></div></div></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>饮用</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[肾脏](IfKidneys.md): <span style="font-family:ui-monospace"><b>1-1</b></span></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)<span style="font-family:ui-monospace"><b>+40</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Salt.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[钠](Sodium.md)](Sodium.md)<span style="font-family:ui-monospace"><b>+250</b></span></td></tr></table></div>  

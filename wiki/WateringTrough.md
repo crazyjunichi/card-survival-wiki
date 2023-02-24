@@ -2,11 +2,11 @@
 > 动物们可以在这喝水。  
   
 <style>
-        .table1393 th,td{
+        .table6140 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1393" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**1000<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**3000<br><br>**减重：**-3000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WateringTrough.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WateringTroughEmpty.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水槽</span></a></div></div>保障<b>圈养的动物拥有足够的水分</b>非常重要。<br><br>用<b>泥砖和粘土</b>制作水槽是确保它们有水喝的最佳方法。<br><br>水槽也会收集<b>雨水</b>，因此不需要经常手动填充。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6140" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**1000<br><br>**标签：**	[“容器（敞口）”](tag_ContainerOpen.md), [“容器（蓄水池）”](tag_ContainerReservoir.md)<br><br>**储水量：**3000<br><br>**减重：**-3000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WateringTrough.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WateringTroughEmpty.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水槽</span></a></div></div>保障<b>圈养的动物拥有足够的水分</b>非常重要。<br><br>用<b>泥砖和粘土</b>制作水槽是确保它们有水喝的最佳方法。<br><br>水槽也会收集<b>雨水</b>，因此不需要经常手动填充。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[水槽(蓝图)](Bp_WateringTrough.md)</div></div></div></div>  
@@ -16,11 +16,11 @@
   
 ## 被动效果  
 <style>
-        .table0049 th,td{
+        .table9991 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0049" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Hydrate Goats</td><td  style=""  >** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)</td><td  style=""  >含水量-2</td><td  style=""  ></td></tr><tr ><td  style=""  >Hydrate Boars</td><td  style=""  >** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)</td><td  style=""  >含水量-2</td><td  style=""  ></td></tr><tr ><td  style=""  >Rain</td><td  style=""  >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td><td  style=""  >[水](LQ_Water.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table9991" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Hydrate Goats</td><td  style=""  >** 需要存在卡牌：**<br>[“山羊”](tag_Goat.md)</td><td  style=""  >含水量-2</td><td  style=""  ></td></tr><tr ><td  style=""  >Hydrate Boars</td><td  style=""  >** 需要存在卡牌：**<br>[“野猪”](tag_Boar.md)</td><td  style=""  >含水量-2</td><td  style=""  ></td></tr><tr ><td  style=""  >Rain</td><td  style=""  >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td><td  style=""  >[水](LQ_Water.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style=""  ></td></tr></tbody></table>  
   
 
 

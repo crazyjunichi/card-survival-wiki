@@ -2,11 +2,11 @@
 > 美味！  
   
 <style>
-        .table1928 th,td{
+        .table4373 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1928" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_Honey.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellHoney.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜂蜜</span></a></div></div>蜂蜜是一种易于保存、营养丰富的食物，可以通过将<b>蜂巢和蜂箱</b>中的<b>巢脾</b>压入碗里来提取。<br><br>蜂蜜可以用于多个<b>烹饪食谱</b>，也可兑成<b>蜂蜜水</b>，用于喂<b>蜜蜂</b>或发酵成<b>蜂蜜酒</b>，一种可口的酒精饮料。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4373" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_Honey.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellHoney.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜂蜜</span></a></div></div>蜂蜜是一种易于保存、营养丰富的食物，可以通过将<b>蜂巢和蜂箱</b>中的<b>巢脾</b>压入碗里来提取。<br><br>蜂蜜可以用于多个<b>烹饪食谱</b>，也可兑成<b>蜂蜜水</b>，用于喂<b>蜜蜂</b>或发酵成<b>蜂蜜酒</b>，一种可口的酒精饮料。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[蜂蜜(蓝图)](Bp_Honey.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“碗（容器）”](tag_ContainerBowl.md)提取蜂蜜</div><div style="display:inline-block;vertical-align:middle;">[巢脾](BeeHoneycomb.md)</div></div></div></div>  
@@ -27,11 +27,11 @@
   
 ## 被动效果  
 <style>
-        .table2505 th,td{
+        .table6177 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2505" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Spoilage</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  ></td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6177" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Spoilage</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  ></td><td  style=""  ></td></tr></tbody></table>  
   
 
 

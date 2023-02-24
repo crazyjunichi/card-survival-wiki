@@ -11,11 +11,11 @@
 [晒伤](Sunburn.md)  |  [紫外线过敏](SunAllergy.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 可被以下操作改变  
 <style>
-        .table7192 th,td{
+        .table4722 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7192" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)](Event_JerrycanExplosion.md)</td><td  style=""  >它烧起来了！！</td><td  style=""  >750 ~ 1500</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4722" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)](Event_JerrycanExplosion.md)</td><td  style=""  >它烧起来了！！</td><td  style=""  >750 ~ 1500</td></tr></tbody></table>  
   
 
 

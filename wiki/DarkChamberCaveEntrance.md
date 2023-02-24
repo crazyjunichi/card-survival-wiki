@@ -1,11 +1,11 @@
 # 小型通道  
   
 <style>
-        .table0179 th,td{
+        .table2003 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0179" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DarkChamberCaveEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CaveEntrance.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">小型通道</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2003" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[洞穴中层(环境)](Env_MidChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DarkChamberCaveEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CaveEntrance.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">小型通道</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[狭窄通道(洞穴中层)](DarkChamberCaveEntranceClosed.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">进入</div><div style="display:inline-block;vertical-align:middle;">[洞穴中层(阴暗洞穴)](DarkChamberCaveExit.md)</div></div></div></div>  

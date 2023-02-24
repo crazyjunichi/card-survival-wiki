@@ -2,11 +2,11 @@
 > 我可以用它把纤维缠成细线。  
   
 <style>
-        .table9687 th,td{
+        .table3900 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9687" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Spindle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Spindle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">纺锤</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table3900" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“细线”](tag_Cord.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Spindle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Spindle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">纺锤</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[纺锤(蓝图)](Bp_Spindle.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">纺细线</div><div style="display:inline-block;vertical-align:middle;">[缠好的纺锤](SpindleFiber.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">纺线团</div><div style="display:inline-block;vertical-align:middle;">[缠好的纺锤](SpindleFiber.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 爬上悬崖，可以前往丛林高地。<br><br><b>（只有手牌可以带走）</b>  
   
 <style>
-        .table5075 th,td{
+        .table9269 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5075" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_ValleyToJungleHighlands.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CliffsUp.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林高地</span></a></div></div>丛林高地位于岛屿深处。该地区拥有众多洞穴，以及数量最多的猕猴。<br>这里还可以找到许多独特而有用的植物，包括<b>咖啡树、芒果树和金鸡纳树</b>。<br></td></tr></tbody></table>  
+        </style><table class="table table-bordered table9269" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_ValleyToJungleHighlands.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CliffsUp.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林高地</span></a></div></div>丛林高地位于岛屿深处。该地区拥有众多洞穴，以及数量最多的猕猴。<br>这里还可以找到许多独特而有用的植物，包括<b>咖啡树、芒果树和金鸡纳树</b>。<br></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">爬下去</div><div style="display:inline-block;vertical-align:middle;">[前往山谷悬崖](Path_JungleHighlandsToValley.md)</div></div></div></div>  

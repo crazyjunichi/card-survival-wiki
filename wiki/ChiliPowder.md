@@ -2,11 +2,11 @@
 > 很辣，可以用来烹饪。  
   
 <style>
-        .table4144 th,td{
+        .table8155 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4144" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ChiliPowder.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ChiliPowder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">辣椒粉</span></a></div></div>在岛上的<b>草原</b>可以找到辣椒。它们的植株需要开阔和干燥的地方生长，并且对<b>螨虫</b>有很强的抵抗力。<br><br>它们的果实营养丰富并含有辣椒素（一种能让你出汗和降低体温的化合物）它能用于多种烹饪食谱并且是<b>杀虫剂</b>的必要成分。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table8155" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“强效清洁剂”](tag_CleanerStrong.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ChiliPowder.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ChiliPowder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">辣椒粉</span></a></div></div>在岛上的<b>草原</b>可以找到辣椒。它们的植株需要开阔和干燥的地方生长，并且对<b>螨虫</b>有很强的抵抗力。<br><br>它们的果实营养丰富并含有辣椒素（一种能让你出汗和降低体温的化合物）它能用于多种烹饪食谱并且是<b>杀虫剂</b>的必要成分。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“锤”](tag_Hammer.md)捣碎</div><div style="display:inline-block;vertical-align:middle;">[干辣椒](ChiliesDried.md)</div></div></div></div>  

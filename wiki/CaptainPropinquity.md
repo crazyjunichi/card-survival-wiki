@@ -9,11 +9,11 @@
 [船长陪伴](CaptainCompany.md)  
 ## 被以下操作需求  
 <style>
-        .table1469 th,td{
+        .table5252 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1469" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >3001 ~ 4000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[船长(Special1a)(事件)](Event_CaptainSpecial1a.md)</td><td  style=""  >触发事件</td><td  style=""  >2000 ~ 3000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >1001 ~ 2000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >0 ~ 1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5252" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >3001 ~ 4000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[船长(Special1a)(事件)](Event_CaptainSpecial1a.md)</td><td  style=""  >触发事件</td><td  style=""  >2000 ~ 3000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >1001 ~ 2000</td></tr><tr ><td  style=""  >[船长](Captain.md)</td><td  style=""  >聊天</td><td  style=""  >0 ~ 1000</td></tr></tbody></table>  
   
 
 

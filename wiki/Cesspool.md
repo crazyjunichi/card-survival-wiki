@@ -2,11 +2,11 @@
 > 我应该用铲子把它清理掉。  
   
 <style>
-        .table2019 th,td{
+        .table4373 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2019" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可堆叠 **<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+750</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Cesspool.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Cesspool.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">粪池</span></a></div></div>粪池是硝石矿床凝结硝石晶体后剩下的部分。臭气熏天，靠近它就会感觉非常不舒服。<br><br>需要用<b>铲子</b>才能清理。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4373" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可堆叠 **<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+750</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Cesspool.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Cesspool.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">粪池</span></a></div></div>粪池是硝石矿床凝结硝石晶体后剩下的部分。臭气熏天，靠近它就会感觉非常不舒服。<br><br>需要用<b>铲子</b>才能清理。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[硝石矿床](NiterBed.md)</div></div></div></div>  

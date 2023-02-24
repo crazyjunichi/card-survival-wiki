@@ -2,11 +2,11 @@
 > 宿敌将你逼入了绝境！祂伸出手攥住了你！  
   
 <style>
-        .table5348 th,td{
+        .table4239 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5348" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_EnemyFightFailedRetreat.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Enemy.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">我没能逃掉！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table4239" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_EnemyFightFailedRetreat.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Enemy.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">我没能逃掉！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">逃跑</div><div style="display:inline-block;vertical-align:middle;">[宿敌来了！(事件)](Event_EnemyFight.md)</div></div></div></div>  

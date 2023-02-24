@@ -2,11 +2,11 @@
 > 垃圾也是宝！  
   
 <style>
-        .table1015 th,td{
+        .table5141 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1015" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**储水量：**300</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PlasticBottleFull.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/PlasticBottle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">塑料瓶</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table5141" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**储水量：**300</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PlasticBottleFull.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/PlasticBottle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">塑料瓶</span></a></div></div></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>收集雨水</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td></tr><tr><td colspan="2">[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+50</b></span>)</td></tr></table></div>  

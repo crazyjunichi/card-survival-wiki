@@ -9,19 +9,19 @@
 [湿度](Wetness.md)  |  [阳光辐射](SunExposure.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  |  [泥巴防护](MudProtection.md)  
 ## 加成值影响因素  
 <style>
-        .table5052 th,td{
+        .table3964 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5052" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Mermaid.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[鱼人皮肤](Pk_3_PermeableSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-3</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3964" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Mermaid.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[鱼人皮肤](Pk_3_PermeableSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-3</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table3253 th,td{
+        .table9977 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3253" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MermaidNest.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[人鱼巢](MermaidNest.md)](MermaidNest.md)</td><td  style=""  >条件被动</td><td  style=""  >0.5</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9977" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MermaidNest.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[人鱼巢](MermaidNest.md)](MermaidNest.md)</td><td  style=""  >条件被动</td><td  style=""  >0.5</td></tr></tbody></table>  
   
 
 

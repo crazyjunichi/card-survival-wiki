@@ -2,11 +2,11 @@
 > 好喝，但别喝太多。  
   
 <style>
-        .table6373 th,td{
+        .table4003 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6373" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_CoconutWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">椰子水</span></a></div></div>椰子可以在岛上的大部分<b>海滩</b>上找到，有的在沙滩上，有的需要你爬上或砍倒<b>椰子树</b>获得。<br><br>这些果实极其有用，它们充满<b>营养</b>、富含<b>水分</b>，有可以用来制作<b>细线</b>的外皮，留下的空椰壳甚至可以用作<b>碗或储水容器</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4003" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_CoconutWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">椰子水</span></a></div></div>椰子可以在岛上的大部分<b>海滩</b>上找到，有的在沙滩上，有的需要你爬上或砍倒<b>椰子树</b>获得。<br><br>这些果实极其有用，它们充满<b>营养</b>、富含<b>水分</b>，有可以用来制作<b>细线</b>的外皮，留下的空椰壳甚至可以用作<b>碗或储水容器</b>。</td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>饮用</div></div></td><td>[“食用坚果类动作(组)”](NutAction.md)</td></tr><tr><td></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[水分](Hydration.md)](Hydration.md)<span style="font-family:ui-monospace"><b>+40</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Poop.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腹泻](Diarrhoea.md)](Diarrhoea.md)<span style="font-family:ui-monospace"><b>+45</b></span></td></tr></table></div>  
@@ -21,11 +21,11 @@
   
 ## 被动效果  
 <style>
-        .table1519 th,td{
+        .table0265 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1519" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table0265" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr></tbody></table>  
   
 
 

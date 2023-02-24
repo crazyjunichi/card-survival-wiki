@@ -2,11 +2,11 @@
 > 可以用它把小布解编成线团，或者用现有的布匹与线团组合出更大的布匹。  
   
 <style>
-        .table4079 th,td{
+        .table5302 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4079" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>** 不可删除 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Loom.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/LoomCloth.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">织布机</span></a></div></div>织布机是一种用于将<b>细线</b>编织成<b>布</b>的设备。<br><br>将两根<b>纤维</b>组合在一起得到<b>细线</b>。将两根<b>细线</b>组合在一起，得到一个<b>线团</b>。<br>将线团拖到<b>空的织布机</b>上来制作布料。为了制作更大的布，可以先<b>取下</b>布，再将这现成的<b>布料</b>拖到已放有<b>线团</b>的织布机上。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5302" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>** 不可删除 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Loom.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/LoomCloth.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">织布机</span></a></div></div>织布机是一种用于将<b>细线</b>编织成<b>布</b>的设备。<br><br>将两根<b>纤维</b>组合在一起得到<b>细线</b>。将两根<b>细线</b>组合在一起，得到一个<b>线团</b>。<br>将线团拖到<b>空的织布机</b>上来制作布料。为了制作更大的布，可以先<b>取下</b>布，再将这现成的<b>布料</b>拖到已放有<b>线团</b>的织布机上。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[线团](YarnFiber.md)将线放到织布机上</div><div style="display:inline-block;vertical-align:middle;">[织布机（空）](LoomEmpty.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 随祂去吧！<br>你乘祂飞升，直至只剩欢愉！<br><br>存在本身不过是欢愉……而你就是祂所期愿的！  
   
 <style>
-        .table5932 th,td{
+        .table3300 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5932" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_GodExperience1c.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/God.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">神圣灵视</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table3300" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_GodExperience1c.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/God.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">神圣灵视</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">随祂去吧！</div><div style="display:inline-block;vertical-align:middle;">[神圣灵视(事件)](Event_GodExperience1b.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">我感受到祂了！</div><div style="display:inline-block;vertical-align:middle;">[神圣灵视(事件)](Event_HuntedExperience1b.md)</div></div></div></div>  

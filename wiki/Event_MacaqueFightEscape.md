@@ -2,11 +2,11 @@
 > 希望它再也不会回来！  
   
 <style>
-        .table4225 th,td{
+        .table6127 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4225" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueFightEscape.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">我把猕猴吓跑了！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6127" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueFightEscape.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">我把猕猴吓跑了！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用长矛攻击！</div><div style="display:inline-block;vertical-align:middle;">[一只猕猴！(事件)](Event_MacaqueFightRaid.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用弓箭攻击！</div><div style="display:inline-block;vertical-align:middle;">[一只猕猴！(事件)](Event_MacaqueFightRaid.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用枪攻击！</div><div style="display:inline-block;vertical-align:middle;">[一只猕猴！(事件)](Event_MacaqueFightRaid.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用投石索攻击！</div><div style="display:inline-block;vertical-align:middle;">[一只猕猴！(事件)](Event_MacaqueFightRaid.md)</div></div></div></div>  

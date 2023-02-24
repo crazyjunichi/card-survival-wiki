@@ -2,11 +2,11 @@
 > 我应当修好它。下次在坏之前我应该多加注意。  
   
 <style>
-        .table8446 th,td{
+        .table6100 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8446" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**可用次数：**0</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SailBroken_Raft.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BrokenSail.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">损坏的帆</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6100" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**可用次数：**0</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SailBroken_Raft.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BrokenSail.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">损坏的帆</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[收起的帆](SailDown_Raft.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[扬起的帆](SailUp_Raft.md)</div></div></div></div>  

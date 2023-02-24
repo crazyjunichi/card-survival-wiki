@@ -2,11 +2,11 @@
 > 我觉得已经找到这个地区所有可探索的地点了。  
   
 <style>
-        .table7573 th,td{
+        .table2569 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7573" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_JungleExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Jungle.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2569" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_JungleExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Jungle.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林](Jungle.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 可以游个泳或者用合适的工具整一些鱼。  
   
 <style>
-        .table3565 th,td{
+        .table7812 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3565" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**标签：**	[“海”](tag_Sea.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Sea_Raft.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ocean.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海</span></a></div></div>被困在岛上意味着你周围全是大海，但海里通常也有很多有用的资源。<br><br>最好在岛上的不同区域都潜水试试，因为大海的构型并非一成不变，不同场景的大海可以探寻到不同的东西。<br><br>例如，你可以在<b>多岩的海滩</b>发现更多<b>鱼</b>，在<b>红树林</b>发现更大的鱼，如<b>大马鲅鱼</b>。<br><br>鲨鱼和海蛇通常出现在<b>海湾</b>中，但在这里你也能发现<b>珊瑚和珍珠</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7812" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**标签：**	[“海”](tag_Sea.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Sea_Raft.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ocean.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">海</span></a></div></div>被困在岛上意味着你周围全是大海，但海里通常也有很多有用的资源。<br><br>最好在岛上的不同区域都潜水试试，因为大海的构型并非一成不变，不同场景的大海可以探寻到不同的东西。<br><br>例如，你可以在<b>多岩的海滩</b>发现更多<b>鱼</b>，在<b>红树林</b>发现更大的鱼，如<b>大马鲅鱼</b>。<br><br>鲨鱼和海蛇通常出现在<b>海湾</b>中，但在这里你也能发现<b>珊瑚和珍珠</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">把木筏推下水</div><div style="display:inline-block;vertical-align:middle;">[开始冒险](Start_Raft.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 保护庄稼远离农害。  
   
 <style>
-        .table9555 th,td{
+        .table0103 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9555" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_PesticideBrimstone.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">硫磺农薬</span></a></div></div>硫磺可以在岛上的<b>火山</b>地区找到。这种物质的众多用途之一是将其与<b>生石灰</b>混合后，制成强力的<b>农薬</b>。<br><br>这种杀虫剂虽然比辣椒更奢侈，但可以同时预防和应对<b>螨虫侵害以及真菌感染</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table0103" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_PesticideBrimstone.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">硫磺农薬</span></a></div></div>硫磺可以在岛上的<b>火山</b>地区找到。这种物质的众多用途之一是将其与<b>生石灰</b>混合后，制成强力的<b>农薬</b>。<br><br>这种杀虫剂虽然比辣椒更奢侈，但可以同时预防和应对<b>螨虫侵害以及真菌感染</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[硫磺农薬(蓝图)](Bp_PesticideBrimstone.md)</div></div></div></div>  
@@ -16,11 +16,11 @@
   
 ## 被动效果  
 <style>
-        .table2565 th,td{
+        .table0265 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2565" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table0265" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr></tbody></table>  
   
 
 

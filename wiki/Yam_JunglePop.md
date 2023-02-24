@@ -9,19 +9,19 @@
 [湿地参薯种群数量](Yam_WetlandsPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table7835 th,td{
+        .table7792 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7835" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7792" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DeepJungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林深处](DeepJungle.md)](DeepJungle.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Jungle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林](Jungle.md)](Jungle.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table5925 th,td{
+        .table2552 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5925" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林深处](DeepJungle.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr><tr ><td  style=""  >[丛林](Jungle.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table2552" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林深处](DeepJungle.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr><tr ><td  style=""  >[丛林](Jungle.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
   
 
 

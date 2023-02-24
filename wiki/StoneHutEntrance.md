@@ -2,11 +2,11 @@
 > 进入石屋  
   
 <style>
-        .table2401 th,td{
+        .table2253 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2401" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHutEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/StoneHut.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">石屋</span></a></div></div>用<b>石头和砂浆</b>建造的房子。它能够抵御<b>风暴、雨水和日晒</b>。<br><br>石屋可以进行许多升级改进，包括扩展存储容量、屋门、给墙面刷漆等等。<br>石屋坚固的特性可以使其彻底免遭<b>风暴</b>的侵害。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table2253" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHutEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/StoneHut.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">石屋</span></a></div></div>用<b>石头和砂浆</b>建造的房子。它能够抵御<b>风暴、雨水和日晒</b>。<br><br>石屋可以进行许多升级改进，包括扩展存储容量、屋门、给墙面刷漆等等。<br>石屋坚固的特性可以使其彻底免遭<b>风暴</b>的侵害。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[石屋(蓝图)](Bp_StoneHut.md)</div></div></div></div>  

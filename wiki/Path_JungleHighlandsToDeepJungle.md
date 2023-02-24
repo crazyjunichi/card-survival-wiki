@@ -2,11 +2,11 @@
 > 它将引我深入丛林。<br><br><b>（只有手牌可以带走）</b>  
   
 <style>
-        .table8851 th,td{
+        .table3094 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8851" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[丛林高地(环境)](Env_JungleHighlands.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_JungleHighlandsToDeepJungle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/DeepJungle.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林深处</span></a></div></div>丛林深处是一片靠近岛屿山谷的茂盛森林，被<b>湿地和丛林高地</b>环绕。<br><br>这个地区有丰富且多样的植物和动物，在这里你可以找到<b>香蕉、参薯、大叶仙茅、灰山鹑、野猪和蜂巢</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3094" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[丛林高地(环境)](Env_JungleHighlands.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_JungleHighlandsToDeepJungle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/DeepJungle.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林深处</span></a></div></div>丛林深处是一片靠近岛屿山谷的茂盛森林，被<b>湿地和丛林高地</b>环绕。<br><br>这个地区有丰富且多样的植物和动物，在这里你可以找到<b>香蕉、参薯、大叶仙茅、灰山鹑、野猪和蜂巢</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林高地](JungleHighlands.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">前往</div><div style="display:inline-block;vertical-align:middle;">[前往丛林高地(丛林深处)](Path_DeepJungleToJungleHighlands.md)</div></div></div></div>  

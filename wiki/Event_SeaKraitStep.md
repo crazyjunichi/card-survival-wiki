@@ -2,11 +2,11 @@
 > 它咬了我！  
   
 <style>
-        .table1456 th,td{
+        .table1948 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1456" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SeaKraitStep.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_GrassFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SeaKrait.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">一条海蛇！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table1948" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SeaKraitStep.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_GrassFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SeaKrait.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">一条海蛇！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[红树林](Mangroves.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“一级矛”](tag_Spear.md)叉鱼</div><div style="display:inline-block;vertical-align:middle;">[海(海湾)](Sea_Bay.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“一级矛”](tag_Spear.md)叉鱼</div><div style="display:inline-block;vertical-align:middle;">[海(红树林)](Sea_Mangroves.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 悬崖峭壁下的岩石地区。可以寻到<b>石头</b>和<b>螃蟹</b>。<br><br><b>（只有手牌可以带走）</b>  
   
 <style>
-        .table4634 th,td{
+        .table4047 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4634" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Beach.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_BeachToRocks.md" style="color:black"><img decoding="async" src="../wiki/Sprite/RockyPath.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">岩滩</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table4047" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[沙滩(环境)](Env_Beach.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_BeachToRocks.md" style="color:black"><img decoding="async" src="../wiki/Sprite/RockyPath.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">岩滩</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[岩滩(事件)](Event_RocksFound.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[沙滩](Beach.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">前往</div><div style="display:inline-block;vertical-align:middle;">[前往沙滩(岩滩)](Path_RocksToBeach.md)</div></div></div></div>  

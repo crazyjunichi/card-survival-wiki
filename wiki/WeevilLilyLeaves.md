@@ -2,11 +2,11 @@
 > 我可以用它来制作绷带  
   
 <style>
-        .table0488 th,td{
+        .table9416 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0488" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WeevilLilyLeaves.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/MolineriaLeaves.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">大叶仙茅叶片</span></a></div></div>一种在<b>丛林</b>找到的植物<br><br>它宽大的<b>叶片</b>可以作为临时<b>伤口敷料</b>来帮助伤口愈合。<br><br>将它的<b>叶片种在田里</b>就能落地生根。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9416" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WeevilLilyLeaves.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/MolineriaLeaves.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">大叶仙茅叶片</span></a></div></div>一种在<b>丛林</b>找到的植物<br><br>它宽大的<b>叶片</b>可以作为临时<b>伤口敷料</b>来帮助伤口愈合。<br><br>将它的<b>叶片种在田里</b>就能落地生根。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集</div><div style="display:inline-block;vertical-align:middle;">[大叶仙茅](WeevilLily.md)</div></div></div></div>  

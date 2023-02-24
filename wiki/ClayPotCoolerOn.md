@@ -2,11 +2,11 @@
 > 里面的食物可以储藏的更久。  
   
 <style>
-        .table2425 th,td{
+        .table3768 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2425" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>**重量：**750<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“已烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**1500<br><br>**减重：**-1500</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ClayPotCoolerOn.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ClayPotCooler.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">保鲜罐</span></a></div></div>利用液体蒸发吸热的原理，这种双层陶瓷装置可以保持食物凉爽，从而保鲜更久。<br>确保定期给设备添水，因为它需要<b>水</b>才能工作。<br><br>要制作它，你需要<b>粘土、沙子和一块大布</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3768" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>**重量：**750<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**槽位：**12<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“已烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**1500<br><br>**减重：**-1500</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ClayPotCoolerOn.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ClayPotCooler.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">保鲜罐</span></a></div></div>利用液体蒸发吸热的原理，这种双层陶瓷装置可以保持食物凉爽，从而保鲜更久。<br>确保定期给设备添水，因为它需要<b>水</b>才能工作。<br><br>要制作它，你需要<b>粘土、沙子和一块大布</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[盐水](LQ_WaterSalt.md) , [“灌溉用水”](tag_WaterFresh.md)倒入</div><div style="display:inline-block;vertical-align:middle;">[保鲜罐(关)](ClayPotCoolerOff.md)</div></div></div></div>  
@@ -22,11 +22,11 @@
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;"><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td style="font-size:1em;background-color:#FEFEFE">初始：0 , 最大：384<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="384TP">4天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayPotCooler.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[保鲜罐(关)](ClayPotCoolerOff.md)](ClayPotCoolerOff.md)</td></tr></table></div>  
 ## 其他效果  
 <style>
-        .table8318 th,td{
+        .table6393 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8318" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >目标</th><th  style=""  data-sortable="true"  >条件</th><th  style=""  >变化</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Preserve</td><td  style=""  >内部物品</td><td  style=""  ></td><td  style=""  >耐久 +0.5</td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6393" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >目标</th><th  style=""  data-sortable="true"  >条件</th><th  style=""  >变化</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Preserve</td><td  style=""  >内部物品</td><td  style=""  ></td><td  style=""  >耐久 +0.5</td><td  style=""  ></td></tr></tbody></table>  
   
 
 

@@ -2,11 +2,11 @@
 > 可以坐下的椅子。可以用斧子把它砸掉拆解。  
   
 <style>
-        .table7688 th,td{
+        .table8875 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7688" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**重量：**1500<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Seat.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SeatDetached.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">座椅</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table8875" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**重量：**1500<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Seat.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SeatDetached.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">座椅</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">分离</div><div style="display:inline-block;vertical-align:middle;">[座椅](SeatAttached.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">捡起</div><div style="display:inline-block;vertical-align:middle;">[座椅](SeatPlaced.md)</div></div></div></div>  

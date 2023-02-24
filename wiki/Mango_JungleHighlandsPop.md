@@ -9,19 +9,19 @@
 [丛林芒果种群数量](Mango_JunglePop.md)  
 ## 可被以下操作改变  
 <style>
-        .table3447 th,td{
+        .table4710 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3447" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JungleHighlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林高地](JungleHighlands.md)](JungleHighlands.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4710" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JungleHighlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林高地](JungleHighlands.md)](JungleHighlands.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table3572 th,td{
+        .table4144 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3572" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林高地](JungleHighlands.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4144" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林高地](JungleHighlands.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
   
 
 

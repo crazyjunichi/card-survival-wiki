@@ -9,19 +9,19 @@
 [海湾芦荟种群数量](AloeVera_BayPop.md)  |  [沙滩芦荟种群数量](AloeVera_BeachPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table7227 th,td{
+        .table1021 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7227" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林边缘](Outskirts.md)](Outskirts.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1021" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JunglePatch.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[丛林边缘](Outskirts.md)](Outskirts.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table2103 th,td{
+        .table9424 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2103" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林边缘](Outskirts.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9424" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[丛林边缘](Outskirts.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr></tbody></table>  
   
 
 

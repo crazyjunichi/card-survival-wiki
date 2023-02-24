@@ -2,11 +2,11 @@
 > 这个储物箱被固定在木筏上，能让存放在里面的东西相对干燥。  
   
 <style>
-        .table6677 th,td{
+        .table9423 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6677" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**2500<br><br>**标签：**	[“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**容量：**3000<br><br>**减重：**-3000<br><br>**可用次数：**480</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SupplyChestRaft.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SupplyChest.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">补给箱</span></a></div></div>大储物箱需要<b>长木棍，细线和棕榈编织片</b>等材料来制造，用<b>粘土</b>来防水，并用<b>绳子</b>固定在木筏上。<br><br>这种储物箱能在航海时保护你的食物和重要物品免受<b>海浪和暴风雨</b>的伤害。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9423" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**2500<br><br>**标签：**	[“沉重的”](tag_Heavy.md), [“大的”](tag_Large.md)<br><br>**容量：**3000<br><br>**减重：**-3000<br><br>**可用次数：**480</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SupplyChestRaft.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SupplyChest.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">补给箱</span></a></div></div>大储物箱需要<b>长木棍，细线和棕榈编织片</b>等材料来制造，用<b>粘土</b>来防水，并用<b>绳子</b>固定在木筏上。<br><br>这种储物箱能在航海时保护你的食物和重要物品免受<b>海浪和暴风雨</b>的伤害。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[补给箱(蓝图)](Bp_SupplyChest.md)</div></div></div></div>  

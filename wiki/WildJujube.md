@@ -2,11 +2,11 @@
 > 它有可食用的果实与大量的树叶。  
   
 <style>
-        .table9644 th,td{
+        .table3782 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9644" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WildJujube.md" style="color:black"><img decoding="async" src="../wiki/Sprite/WildJujube.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野枣丛</span></a></div></div>一种大型灌木，可以在<b>草原</b>上找到。<br><br><b>它的果实可以食用</b>，味道酸酸甜甜。<br><br>你也可以用斧子砍倒灌木来获得<b>树叶</b>，种子则可以在<b>农田</b>种植和生长。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3782" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WildJujube.md" style="color:black"><img decoding="async" src="../wiki/Sprite/WildJujube.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">野枣丛</span></a></div></div>一种大型灌木，可以在<b>草原</b>上找到。<br><br><b>它的果实可以食用</b>，味道酸酸甜甜。<br><br>你也可以用斧子砍倒灌木来获得<b>树叶</b>，种子则可以在<b>农田</b>种植和生长。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[野枣田](CropPlotWildJujube.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[东部草原](GrasslandsE.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[摘光的野枣从](WildJujubeCleared.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 最省事的山羊喂养装置。  
   
 <style>
-        .table8926 th,td{
+        .table1680 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8926" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**1000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="GoatFeederEmpty.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/FeedingTroughEmpty.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">羊食槽</span></a></div></div>这个简易实用的装置可以用<b>木材和细线</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>山羊</b>。<br><br>可以填入任何植物性食物，或更高效的<b>山羊饲料</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table1680" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**1000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="GoatFeederEmpty.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/FeedingTroughEmpty.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">羊食槽</span></a></div></div>这个简易实用的装置可以用<b>木材和细线</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>山羊</b>。<br><br>可以填入任何植物性食物，或更高效的<b>山羊饲料</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[羊食槽](GoatFeeder.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[羊食槽(蓝图)](Bp_GoatFeeder.md)</div></div></div></div>  

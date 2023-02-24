@@ -2,11 +2,11 @@
 > 我可以用这棵树做西米粉。需要先砍倒它，然后刮取树里的西米淀粉，泡入水中。  
   
 <style>
-        .table1348 th,td{
+        .table1725 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1348" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SagoPalm.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SagoPalm.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">西米树</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table1725" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SagoPalm.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SagoPalm.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">西米树</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[西米树田](CropPlotSagoPalm.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[湿地丛林(湿地)](Wetlands.md)</div></div></div></div>  

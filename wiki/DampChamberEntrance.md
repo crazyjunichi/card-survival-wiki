@@ -2,11 +2,11 @@
 > 进入另一个洞穴  
   
 <style>
-        .table6823 th,td{
+        .table9867 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6823" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[狭窄通道(环境)](Env_NarrowTunnel.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DampChamberEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/DampChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">潮湿洞穴</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table9867" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[狭窄通道(环境)](Env_NarrowTunnel.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DampChamberEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/DampChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">潮湿洞穴</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[狭窄隧道(洞穴上层)](NarrowTunnel.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 很容易被晒伤。  
   
 <style>
-        .table8295 th,td{
+        .table3067 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8295" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:15%;"  >名称</th><th  style=""  >值</th></tr></thead><tr ><td  style="width:15%;"  >解锁条件</td><td  style=""  >免费</td></tr><tr ><td  style="width:15%;"  >难度分</td><td  style=""  >500</td></tr><tr ><td  style="width:15%;"  >初始装备</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >额外卡牌</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >初始状态</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >被动状态</td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_DarkSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晒黑](Tanning.md)](Tanning.md)加成<span style="font-family:ui-monospace"><b>-9</b></span></td></tr></tbody></table>  
+        </style><table class="table table-bordered table3067" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:15%;"  >名称</th><th  style=""  >值</th></tr></thead><tr ><td  style="width:15%;"  >解锁条件</td><td  style=""  >免费</td></tr><tr ><td  style="width:15%;"  >难度分</td><td  style=""  >500</td></tr><tr ><td  style="width:15%;"  >初始装备</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >额外卡牌</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >初始状态</td><td  style=""  >无</td></tr><tr ><td  style="width:15%;"  >被动状态</td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_DarkSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[晒黑](Tanning.md)](Tanning.md)加成<span style="font-family:ui-monospace"><b>-9</b></span></td></tr></tbody></table>  
   
 
 

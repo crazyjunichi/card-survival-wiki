@@ -1,10 +1,10 @@
 # “碗（容器）”  
 <style>
-        .table2395 th,td{
+        .table7781 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2395" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >储水量</th><th  style=""  >密封</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayBowl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陶碗](ClayBowl.md)](ClayBowl.md)</td><td  style=""  >300 (1份)</td><td  style=""  >❌</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CoconutShell.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子壳](CoconutShell.md)](CoconutShell.md)</td><td  style=""  >300 (1份)</td><td  style=""  >❌</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7781" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >储水量</th><th  style=""  >密封</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayBowl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陶碗](ClayBowl.md)](ClayBowl.md)</td><td  style=""  >300 (1份)</td><td  style=""  >❌</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CoconutShell.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[椰子壳](CoconutShell.md)](CoconutShell.md)</td><td  style=""  >300 (1份)</td><td  style=""  >❌</td></tr></tbody></table>  
   
 
 

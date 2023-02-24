@@ -2,11 +2,11 @@
 > 在我逃跑前猕猴就攻击了我！  
   
 <style>
-        .table1797 th,td{
+        .table5236 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1797" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueDenFightFailedRetreat.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueDen.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">啊！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table5236" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueDenFightFailedRetreat.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueDen.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">啊！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">撤退</div><div style="display:inline-block;vertical-align:middle;">[猕猴们攻击了你！(事件)](Event_MacaqueDenFight.md)</div></div></div></div>  

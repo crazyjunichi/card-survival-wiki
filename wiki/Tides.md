@@ -7,11 +7,11 @@
 <div style="font-size:1.2em"><b>14时 ~ 18时： </b>+1 </div>  
 ## 被以下操作需求  
 <style>
-        .table4567 th,td{
+        .table7399 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4567" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[潮汐池(岩滩)](TidePool.md)</td><td  style=""  >潮汐</td><td  style=""  >1</td></tr><tr ><td  style=""  >[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)</td><td  style=""  >未蓄满的</td><td  style=""  >0</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7399" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[潮汐池(岩滩)](TidePool.md)</td><td  style=""  >潮汐</td><td  style=""  >1</td></tr><tr ><td  style=""  >[被淹没的潮汐池(岩滩)](TidePoolFlooded.md)</td><td  style=""  >未蓄满的</td><td  style=""  >0</td></tr></tbody></table>  
   
 
 

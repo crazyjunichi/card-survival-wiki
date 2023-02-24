@@ -9,19 +9,19 @@
 [高地热带杏仁种群数量](Almond_HighlandsPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table4381 th,td{
+        .table4856 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4381" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Grasslands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部草原](GrasslandsW.md)](GrasslandsW.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4856" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Grasslands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[西部草原](GrasslandsW.md)](GrasslandsW.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table6197 th,td{
+        .table2513 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6197" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[西部草原](GrasslandsW.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table2513" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[西部草原](GrasslandsW.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 6000</td></tr></tbody></table>  
   
 
 

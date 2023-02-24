@@ -2,11 +2,11 @@
 > 让你的皮肤免受阳光的伤害，避免晒伤。  
   
 <style>
-        .table8575 th,td{
+        .table4703 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8575" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**可用次数：**10</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SunScreen.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Sunscreen.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">防晒霜</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table4703" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**可用次数：**10</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SunScreen.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Sunscreen.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">防晒霜</span></a></div></div></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>涂抹</div></div></td><td>[“手部动作(组)”](HandAction.md)</td></tr><tr><td><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>-1(-10%)</b></span></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeGel.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[防晒霜](SunScreenApplied.md)](SunScreenApplied.md)<span style="font-family:ui-monospace"><b>+100</b></span></td></tr></table></div>  

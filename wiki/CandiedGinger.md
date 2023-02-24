@@ -2,11 +2,11 @@
 > 美味！  
   
 <style>
-        .table3469 th,td{
+        .table4946 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3469" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CandiedGinger.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CandiedGinger.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">姜糖</span></a></div></div>一种美味可口的甜食，可以保存相当长的时间。<br>要制作它，你需要姜、糖和水。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4946" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md), [“人类食物”](tag_HumanFood.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CandiedGinger.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CandiedGinger.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">姜糖</span></a></div></div>一种美味可口的甜食，可以保存相当长的时间。<br>要制作它，你需要姜、糖和水。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">取出</div><div style="display:inline-block;vertical-align:middle;">[姜糖(做好的)](CandiedGingerCooked.md)</div></div></div></div>  

@@ -2,11 +2,11 @@
 > 这里似乎连接着另一个洞穴，也许我可以拓宽它。  
   
 <style>
-        .table0883 th,td{
+        .table0997 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0883" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**环境：**[潮湿洞穴(环境)](Env_DampChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DarkCaveCaveEntranceClosed.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CaveCollapsed.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">狭窄通道</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table0997" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**环境：**[潮湿洞穴(环境)](Env_DampChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="DarkCaveCaveEntranceClosed.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CaveCollapsed.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">狭窄通道</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[潮湿洞穴](DampChamber.md)</div></div></div></div>  

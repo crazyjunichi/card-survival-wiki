@@ -2,11 +2,11 @@
 > 不是不能吃，前提是我能把没毒的挑出来。  
   
 <style>
-        .table3782 th,td{
+        .table2591 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3782" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**75<br><br>**标签：**	[“杂食饲料”](tag_FeedOmnivorous.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AssortedMushrooms.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AssortedMushrooms.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">杂菌</span></a></div></div>各式各样的菌类。有的可食用，有的不能。<br>如果你的<b>薬草学</b>够高，吃蘑菇会是一个很好的选择，否则会让你置身危险。<br></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2591" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**75<br><br>**标签：**	[“杂食饲料”](tag_FeedOmnivorous.md), [“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AssortedMushrooms.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AssortedMushrooms.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">杂菌</span></a></div></div>各式各样的菌类。有的可食用，有的不能。<br>如果你的<b>薬草学</b>够高，吃蘑菇会是一个很好的选择，否则会让你置身危险。<br></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集</div><div style="display:inline-block;vertical-align:middle;">[杂菌](AssortedMushroomsPlant.md)</div></div></div></div>  

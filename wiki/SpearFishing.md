@@ -2,11 +2,11 @@
 > 一柄非常好的鱼叉。能增加抓到鱼的几率。  
   
 <style>
-        .table5464 th,td{
+        .table6882 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5464" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**可用次数：**80</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SpearFishing.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SpearFishing.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">鱼叉</span></a></div></div>用长矛叉鱼可能很棘手，所以可以考虑制作鱼叉，来增加叉鱼的<b>成功率</b>。<br><br>拿一根<b>长木棍</b>，用<b>切割工具</b>把它的末端分成四个尖头，然后用<b>细线</b>保持尖头分散。<br><br>毕竟叉鱼时，四个尖总比一个尖好。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6882" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“一级矛”](tag_Spear.md), [“大的”](tag_Large.md)<br><br>**可用次数：**80</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SpearFishing.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SpearFishing.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">鱼叉</span></a></div></div>用长矛叉鱼可能很棘手，所以可以考虑制作鱼叉，来增加叉鱼的<b>成功率</b>。<br><br>拿一根<b>长木棍</b>，用<b>切割工具</b>把它的末端分成四个尖头，然后用<b>细线</b>保持尖头分散。<br><br>毕竟叉鱼时，四个尖总比一个尖好。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[鱼叉(蓝图)](Bp_FishingSpear.md)</div></div></div></div>  

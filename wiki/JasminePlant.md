@@ -2,11 +2,11 @@
 > 香气迷人，可以装饰房间，也能沏一杯安神的茶。  
   
 <style>
-        .table2403 th,td{
+        .table6352 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2403" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**标签：**	[“花”](tag_Flower.md)<br><br>**可用次数：**4<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>-100</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="JasminePlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Jasmine.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">茉莉花</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6352" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**标签：**	[“花”](tag_Flower.md)<br><br>**可用次数：**4<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>-100</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="JasminePlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Jasmine.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">茉莉花</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[茉莉花田](CropPlotJasmine.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林深处](DeepJungle.md)</div></div></div></div>  

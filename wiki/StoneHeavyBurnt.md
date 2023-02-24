@@ -2,11 +2,11 @@
 > 可以敲碎获取生石灰。  
   
 <style>
-        .table6774 th,td{
+        .table4899 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6774" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750<br><br>**标签：**	[“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHeavyBurnt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BurntHeavyStone.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">煅烧后的大石块</span></a></div></div>大块的<b>石灰石</b>。足够的重量使其成为了<b>落石陷阱</b>的理想选择。<br><br>它们也可以用来<b>打磨</b>工具及其他石头，或在<b>窑</b>里面煅烧成<b>生石灰</b>。它们还有另外一种富含硫磺的淡黄色品种，可以煅烧出<b>硫磺</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4899" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750<br><br>**标签：**	[“沉重的”](tag_Heavy.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="StoneHeavyBurnt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BurntHeavyStone.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">煅烧后的大石块</span></a></div></div>大块的<b>石灰石</b>。足够的重量使其成为了<b>落石陷阱</b>的理想选择。<br><br>它们也可以用来<b>打磨</b>工具及其他石头，或在<b>窑</b>里面煅烧成<b>生石灰</b>。它们还有另外一种富含硫磺的淡黄色品种，可以煅烧出<b>硫磺</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">煅烧大石块</div><div style="display:inline-block;vertical-align:middle;">[大石块](StoneHeavy.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">煅烧大石块</div><div style="display:inline-block;vertical-align:middle;">[大石块](StoneHeavy.md)</div></div></div></div>  

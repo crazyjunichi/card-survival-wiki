@@ -2,11 +2,11 @@
 > 一把临时制作的简易弓。如果经过足够的练习，我也许能用它做点什么。  
   
 <style>
-        .table4684 th,td{
+        .table5911 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4684" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可用次数：**75</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BowRustic_Simple.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/StickLong.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">上弦的简易弓</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table5911" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可用次数：**75</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BowRustic_Simple.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/StickLong.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">上弦的简易弓</span></a></div></div></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>练习</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="4TP">1小时</font></div></div></td><td></td></tr><tr><td><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>-8(-10.67%)</b></span>, 燃料  <span style="font-family:ui-monospace"><b>-1(-100%)</b></span></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Bow.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[箭术(技能)](Skill_Archery.md)](Skill_Archery.md)<span style="font-family:ui-monospace"><b>+1</b></span></td></tr></table></div>  

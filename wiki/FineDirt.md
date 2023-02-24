@@ -2,11 +2,11 @@
 > 可以与水混合制成粘土  
   
 <style>
-        .table7997 th,td{
+        .table4086 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7997" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="FineDirt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/FineDirt.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">细土</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table4086" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**150<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="FineDirt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/FineDirt.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">细土</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">碾碎干土</div><div style="display:inline-block;vertical-align:middle;">[干土堆](DirtPile.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“锤”](tag_Hammer.md)碾碎干土</div><div style="display:inline-block;vertical-align:middle;">[干土堆](DirtPile.md)</div></div></div></div>  

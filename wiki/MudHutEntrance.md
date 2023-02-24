@@ -2,11 +2,11 @@
 > 进入泥屋  
   
 <style>
-        .table3648 th,td{
+        .table6230 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3648" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MudHutEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MudHut.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">泥屋</span></a></div></div>用<b>泥砖、原木、细线和棕榈叶</b>建造的房子。它能使人免受<b>风暴、雨水和日晒</b>的影响。<br><br>泥屋可以进行多次升级来改进，包括存储扩展、门、粉刷墙面等。<br>屋顶一旦受损或有倒塌的危险，就应该修理。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6230" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="MudHutEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MudHut.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">泥屋</span></a></div></div>用<b>泥砖、原木、细线和棕榈叶</b>建造的房子。它能使人免受<b>风暴、雨水和日晒</b>的影响。<br><br>泥屋可以进行多次升级来改进，包括存储扩展、门、粉刷墙面等。<br>屋顶一旦受损或有倒塌的危险，就应该修理。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[泥屋(蓝图)](Bp_MudHut.md)</div></div></div></div>  

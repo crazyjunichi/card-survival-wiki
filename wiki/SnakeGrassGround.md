@@ -2,11 +2,11 @@
 > 虫子不喜欢这个。  
   
 <style>
-        .table7712 th,td{
+        .table3286 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7712" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SnakeGrassGround.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SpiderLilyLeavesGround.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">捣碎的蛇草</span></a></div></div>一种非常有用的植物，具有<b>驱虫</b>的功效，可以在岛上大部分<b>丛林</b>中找到。<br><br>它的叶子可以用来制作<b>细线和驱虫膏</b>，可以在营火上燃烧来保护你免受昆虫的伤害，还可以用于<b>烹饪食谱</b>甚至更多。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3286" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SnakeGrassGround.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SpiderLilyLeavesGround.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">捣碎的蛇草</span></a></div></div>一种非常有用的植物，具有<b>驱虫</b>的功效，可以在岛上大部分<b>丛林</b>中找到。<br><br>它的叶子可以用来制作<b>细线和驱虫膏</b>，可以在营火上燃烧来保护你免受昆虫的伤害，还可以用于<b>烹饪食谱</b>甚至更多。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“锤”](tag_Hammer.md)捣碎</div><div style="display:inline-block;vertical-align:middle;">[蛇草](SnakeGrass.md)</div></div></div></div>  

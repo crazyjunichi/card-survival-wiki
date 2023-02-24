@@ -2,11 +2,11 @@
 > 我应该攻击它还是不管它？  
   
 <style>
-        .table4193 th,td{
+        .table0226 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4193" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueFightRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一只猕猴！</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table0226" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MacaqueFightRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一只猕猴！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">嘿！</div><div style="display:inline-block;vertical-align:middle;">[一只猕猴！(事件)](Event_MacaqueRaid.md)</div></div></div></div>  

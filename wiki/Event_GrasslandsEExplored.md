@@ -2,11 +2,11 @@
 > 我觉得已经找到这个地区所有可探索的地点了。  
   
 <style>
-        .table4784 th,td{
+        .table2834 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4784" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[东部草原(环境)](Env_GrasslandsE.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_GrasslandsEExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GrasslandsEastern.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table2834" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[东部草原(环境)](Env_GrasslandsE.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_GrasslandsEExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GrasslandsEastern.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[东部草原](GrasslandsE.md)</div></div></div></div>  

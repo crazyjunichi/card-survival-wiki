@@ -2,11 +2,11 @@
 > 一个漂亮的金属瓶，烧水更快。<br><br><b>可在装备栏装备</b>  
   
 <style>
-        .table1766 th,td{
+        .table9615 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1766" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md), [“金属容器”](tag_ContainerMetal.md), [“装饰品”](tag_Decoration.md), [“铜制大物件”](tag_CopperBig.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**600</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CopperBottle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CopperBottle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">铜瓶</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table9615" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md), [“金属容器”](tag_ContainerMetal.md), [“装饰品”](tag_Decoration.md), [“铜制大物件”](tag_CopperBig.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**600</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CopperBottle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CopperBottle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">铜瓶</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[铜瓶(蓝图)](Bp_CopperBottle.md)</div></div></div></div>  
@@ -20,11 +20,11 @@
   
 ## 可用于转化  
 <style>
-        .table3905 th,td{
+        .table2998 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3905" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
+        </style><table class="table table-bordered table2998" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
   
 
 

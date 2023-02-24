@@ -9,19 +9,19 @@
 [红树林姜种群数量](Ginger_MangrovesPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table1816 th,td{
+        .table8552 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1816" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地丛林(湿地)](Wetlands.md)](Wetlands.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table8552" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Wetlands.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[湿地丛林(湿地)](Wetlands.md)](Wetlands.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table1409 th,td{
+        .table6158 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table1409" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[湿地丛林(湿地)](Wetlands.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 15000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6158" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[湿地丛林(湿地)](Wetlands.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 15000</td></tr></tbody></table>  
   
 
 

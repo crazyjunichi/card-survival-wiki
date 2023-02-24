@@ -2,19 +2,19 @@
 > 得等它重新蓄水。  
   
 <style>
-        .table4151 th,td{
+        .table5653 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table4151" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[火山(环境)](Env_AcidLake.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md), [“釉面”](tag_Glazed.md)<br><br>**储水量：**60000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AcidLakePuddle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/AcidShore.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">干涸酸湖</span></a></div></div>岛上<b>火山地区</b>里的一个酸性湖泊。那里的空气毒性很高，但有多个硫磺喷口，以及大量的<b>硫酸</b>。<br>如果你决定访问这里，一定要带上防毒面具再来。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5653" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[火山(环境)](Env_AcidLake.md)<br><br>**标签：**	[“脏容器（敞口）”](tag_ContainerDirty.md), [“釉面”](tag_Glazed.md)<br><br>**储水量：**60000</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AcidLakePuddle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/AcidShore.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">干涸酸湖</span></a></div></div>岛上<b>火山地区</b>里的一个酸性湖泊。那里的空气毒性很高，但有多个硫磺喷口，以及大量的<b>硫酸</b>。<br>如果你决定访问这里，一定要带上防毒面具再来。</td></tr></tbody></table>  
   
 ## 被动效果  
 <style>
-        .table3578 th,td{
+        .table8452 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3578" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Fill</td><td  style=""  ></td><td  style=""  >[硫酸](LQ_Vitriol.md)<span style="font-family:ui-monospace"><b>+100</b></span><br>含水量+100</td><td  style=""  ></td></tr><tr ><td  style=""  >Rain</td><td  style=""  >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td><td  style=""  >[硫酸](LQ_Vitriol.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table8452" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Fill</td><td  style=""  ></td><td  style=""  >[硫酸](LQ_Vitriol.md)<span style="font-family:ui-monospace"><b>+100</b></span><br>含水量+100</td><td  style=""  ></td></tr><tr ><td  style=""  >Rain</td><td  style=""  >** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td><td  style=""  >[硫酸](LQ_Vitriol.md)<span style="font-family:ui-monospace"><b>+50</b></span></td><td  style=""  ></td></tr></tbody></table>  
   
 
 

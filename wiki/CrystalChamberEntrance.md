@@ -2,11 +2,11 @@
 > 进入另一个洞穴  
   
 <style>
-        .table2021 th,td{
+        .table4695 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2021" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[洞穴底层(环境)](Env_LowChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CrystalChamberEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CrystalChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">晶石洞穴</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table4695" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[洞穴底层(环境)](Env_LowChamber.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CrystalChamberEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CrystalChamber.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">晶石洞穴</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[狭窄通道(洞穴底层)](CrystalChamberEntranceClosed.md)</div></div></div></div>  

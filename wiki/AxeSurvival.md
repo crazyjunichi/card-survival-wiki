@@ -2,11 +2,11 @@
 > 可以用来砍树，斧刃钝了的话就得再打磨一下。  
   
 <style>
-        .table8291 th,td{
+        .table8189 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8291" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“斧”](tag_Axe.md), [“高级斧”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可用次数：**50</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AxeSurvival.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SurvivalAxe.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">求生斧</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table8189" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“斧”](tag_Axe.md), [“高级斧”](tag_AxeAdv.md), [“沉重的”](tag_Heavy.md)<br><br>**可用次数：**50</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AxeSurvival.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SurvivalAxe.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">求生斧</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[石头](Stone.md)磨利</div><div style="display:inline-block;vertical-align:middle;">[求生斧](AxeSurvival.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[石头](Stone.md) , [大石块](StoneHeavy.md)磨利</div><div style="display:inline-block;vertical-align:middle;">[钝的求生斧](AxeSurvivalBlunt.md)</div></div></div></div>  

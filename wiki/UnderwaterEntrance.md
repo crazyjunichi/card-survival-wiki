@@ -2,11 +2,11 @@
 > 似乎是通往洞穴的小型通道。  
   
 <style>
-        .table6227 th,td{
+        .table6547 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6227" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="UnderwaterEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/UnderwaterEntrance.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水下洞穴</span></a></div></div></td></tr></tbody></table>  
+        </style><table class="table table-bordered table6547" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="UnderwaterEntrance.md" style="color:black"><img decoding="async" src="../wiki/Sprite/UnderwaterEntrance.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水下洞穴</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">离开</div><div style="display:inline-block;vertical-align:middle;">[水下出口(覆溺洞穴)](UnderwaterExit.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">潜水</div><div style="display:inline-block;vertical-align:middle;">[海(沙滩)](Sea_Cove.md)</div></div></div></div>  

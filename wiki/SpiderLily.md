@@ -2,11 +2,11 @@
 > 我可以采集它的叶子，有类似抗生素的功效。  
   
 <style>
-        .table9798 th,td{
+        .table0260 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9798" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SpiderLily.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SpiderLily.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜘蛛兰</span></a></div></div>这些花的叶子可以捣碎后加入到一碗开水中，来制成抗生素茶，用来治疗细菌和寄生虫感染。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table0260" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SpiderLily.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SpiderLily.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">蜘蛛兰</span></a></div></div>这些花的叶子可以捣碎后加入到一碗开水中，来制成抗生素茶，用来治疗细菌和寄生虫感染。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[蜘蛛兰田](CropPlotSpiderLily.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[湿地丛林(湿地)](Wetlands.md)</div></div></div></div>  

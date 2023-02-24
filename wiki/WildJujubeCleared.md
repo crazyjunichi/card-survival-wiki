@@ -2,11 +2,11 @@
 > 它有很多树叶。  
   
 <style>
-        .table8989 th,td{
+        .table5360 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8989" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WildJujubeCleared.md" style="color:black"><img decoding="async" src="../wiki/Sprite/WildJujubeCleared.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">摘光的野枣从</span></a></div></div>一种大型灌木，可以在<b>草原</b>上找到。<br><br><b>它的果实可以食用</b>，味道酸酸甜甜。<br><br>你也可以用斧子砍倒灌木来获得<b>树叶</b>，种子则可以在<b>农田</b>种植和生长。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5360" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WildJujubeCleared.md" style="color:black"><img decoding="async" src="../wiki/Sprite/WildJujubeCleared.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">摘光的野枣从</span></a></div></div>一种大型灌木，可以在<b>草原</b>上找到。<br><br><b>它的果实可以食用</b>，味道酸酸甜甜。<br><br>你也可以用斧子砍倒灌木来获得<b>树叶</b>，种子则可以在<b>农田</b>种植和生长。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集</div><div style="display:inline-block;vertical-align:middle;">[野枣丛](WildJujube.md)</div></div></div></div>  

@@ -9,19 +9,19 @@
 [丛林边缘芦荟种群数量](AloeVera_OutskirtsPop.md)  
 ## 可被以下操作改变  
 <style>
-        .table7387 th,td{
+        .table4000 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7387" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style=""  >随便逛逛</td><td  style=""  >-1000</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4000" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[沙滩](Beach.md)](Beach.md)</td><td  style=""  >随便逛逛</td><td  style=""  >-1000</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/DesolateBeach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[荒芜沙滩](DesolateBeach.md)](DesolateBeach.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table7342 th,td{
+        .table4227 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7342" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[沙滩](Beach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr><tr ><td  style=""  >[荒芜沙滩](DesolateBeach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr><tr ><td  style=""  >[东部草原](GrasslandsE.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4227" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[沙滩](Beach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr><tr ><td  style=""  >[荒芜沙滩](DesolateBeach.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr><tr ><td  style=""  >[东部草原](GrasslandsE.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 4000</td></tr></tbody></table>  
   
 
 

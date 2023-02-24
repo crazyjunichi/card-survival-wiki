@@ -11,19 +11,19 @@
 [晒伤](Sunburn.md)  |  [阳光辐射](SunExposure.md)  
 ## 加成值影响因素  
 <style>
-        .table0525 th,td{
+        .table5062 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0525" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_DarkSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[皮肤黝黑](Pk_3_DarkSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+1</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_PaleSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[皮肤白皙](Pk_3_PaleSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-9</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[紫外线过敏](Pk_3_SunAllergy.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-50</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5062" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_DarkSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[皮肤黝黑](Pk_3_DarkSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+1</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_PaleSkin.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[皮肤白皙](Pk_3_PaleSkin.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-9</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[紫外线过敏](Pk_3_SunAllergy.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-50</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table0487 th,td{
+        .table2759 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table0487" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
+        </style><table class="table table-bordered table2759" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
   
 
 

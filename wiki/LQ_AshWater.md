@@ -2,11 +2,11 @@
 > 可以煮沸制成碱液。  
   
 <style>
-        .table6582 th,td{
+        .table4275 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6582" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33<br><br>**标签：**	[“水(任意)”](tag_WaterAny.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_AshWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellAshWater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">灰水</span></a></div></div>由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4275" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33<br><br>**标签：**	[“水(任意)”](tag_WaterAny.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_AshWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellAshWater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">灰水</span></a></div></div>由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“灌溉用水”](tag_WaterFresh.md)浸泡</div><div style="display:inline-block;vertical-align:middle;">[灰烬](Ash.md)</div></div></div></div>  
@@ -20,11 +20,11 @@
   
 ## 被动效果  
 <style>
-        .table7425 th,td{
+        .table5644 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7425" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr><tr ><td  style=""  >Evaporation Large</td><td  style=""  >** 需要容器：**<br>[“容器（蓄水池）”](tag_ContainerReservoir.md)</td><td  style=""  >含水量-3</td><td  style=""  ></td></tr></tbody></table>  
+        </style><table class="table table-bordered table5644" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr><tr ><td  style=""  >Evaporation Large</td><td  style=""  >** 需要容器：**<br>[“容器（蓄水池）”](tag_ContainerReservoir.md)</td><td  style=""  >含水量-3</td><td  style=""  ></td></tr></tbody></table>  
   
 
 

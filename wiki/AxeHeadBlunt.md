@@ -2,11 +2,11 @@
 > 想重新使用需要用石头先打磨一下。  
   
 <style>
-        .table5032 th,td{
+        .table7312 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table5032" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AxeHeadBlunt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AxeHeadBlunt.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">钝斧子头</span></a></div></div>一种耐用而锋利的铜斧。在损坏后只要把金属部分<b>重新打磨</b>就可以重新做成斧子。<br>你能用它更快地砍伐<b>树木</b>，并制作更复杂的<b>木制品</b>。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7312" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“锤”](tag_Hammer.md), [“沉重的”](tag_Heavy.md), [“铜制大物件”](tag_CopperBig.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="AxeHeadBlunt.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/AxeHeadBlunt.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">钝斧子头</span></a></div></div>一种耐用而锋利的铜斧。在损坏后只要把金属部分<b>重新打磨</b>就可以重新做成斧子。<br>你能用它更快地砍伐<b>树木</b>，并制作更复杂的<b>木制品</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">拆解</div><div style="display:inline-block;vertical-align:middle;">[铜斧](AxeCopper.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[铜斧](AxeCopper.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[斧子头](AxeHead.md)</div></div></div></div>  
@@ -19,11 +19,11 @@
   
 ## 可用于转化  
 <style>
-        .table2334 th,td{
+        .table2998 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2334" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
+        </style><table class="table table-bordered table2998" data-toggle="table"  ><thead style=""><tr ><th  style=""  >转化为</th><th  style=""  >容器</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ForgeLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[熔炉](Forge.md)](Forge.md)</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Copper.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[铜](Copper.md)](Copper.md)</td><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AdvancedKilnLit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[高级窑炉](KilnAdvanced.md)](KilnAdvanced.md)</td></tr></tbody></table>  
   
 
 

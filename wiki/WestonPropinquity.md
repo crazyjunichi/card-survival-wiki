@@ -9,11 +9,11 @@
 [韦斯顿的陪伴](WestonCompany.md)  
 ## 被以下操作需求  
 <style>
-        .table8125 th,td{
+        .table8010 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8125" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >3001 ~ 5000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >离开这座岛</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)</td><td  style=""  >触发事件</td><td  style=""  >2000 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >1001 ~ 2000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >0 ~ 1000</td></tr></tbody></table>  
+        </style><table class="table table-bordered table8010" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >3001 ~ 5000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >离开这座岛</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)</td><td  style=""  >触发事件</td><td  style=""  >2000 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >1001 ~ 2000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >0 ~ 1000</td></tr></tbody></table>  
   
 
 

@@ -5,19 +5,19 @@
 <div style="font-size:1.2em"><b>基础变化率: </b> -1 / 每15分钟 </div>  
 ## 可被以下操作改变  
 <style>
-        .table2166 th,td{
+        .table0542 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2166" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无法控制焦虑！(事件)](Event_AnxietyAttack.md)](Event_AnxietyAttack.md)</td><td  style=""  >触发事件</td><td  style=""  >96</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无法控制焦虑！(事件)](Event_AnxietyAttack.md)](Event_AnxietyAttack.md)</td><td  style=""  >继续</td><td  style=""  >48</td></tr></tbody></table>  
+        </style><table class="table table-bordered table0542" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无法控制焦虑！(事件)](Event_AnxietyAttack.md)](Event_AnxietyAttack.md)</td><td  style=""  >触发事件</td><td  style=""  >96</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Void.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[无法控制焦虑！(事件)](Event_AnxietyAttack.md)](Event_AnxietyAttack.md)</td><td  style=""  >继续</td><td  style=""  >48</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table6647 th,td{
+        .table5233 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table6647" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[无法控制焦虑！(事件)](Event_AnxietyAttack.md)</td><td  style=""  >触发事件</td><td  style=""  >0</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5233" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[无法控制焦虑！(事件)](Event_AnxietyAttack.md)</td><td  style=""  >触发事件</td><td  style=""  >0</td></tr></tbody></table>  
   
 
 

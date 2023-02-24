@@ -11,19 +11,19 @@
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 加成值影响因素  
 <style>
-        .table7084 th,td{
+        .table3429 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table7084" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+0.5</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-0.5</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3429" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+0.5</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-0.5</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table3963 th,td{
+        .table4321 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3963" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MangoFruit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[芒果](Mango.md)](Mango.md)</td><td  style=""  >食用</td><td  style=""  >45</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JujubeFruits.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[野枣](JujubeFruits.md)](JujubeFruits.md)</td><td  style=""  >食用</td><td  style=""  >20</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4321" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MangoFruit.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[芒果](Mango.md)](Mango.md)</td><td  style=""  >食用</td><td  style=""  >45</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/JujubeFruits.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[野枣](JujubeFruits.md)](JujubeFruits.md)</td><td  style=""  >食用</td><td  style=""  >20</td></tr></tbody></table>  
   
 
 

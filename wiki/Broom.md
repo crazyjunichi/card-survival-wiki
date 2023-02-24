@@ -2,11 +2,11 @@
 > 非常适合用来打扫房间。  
   
 <style>
-        .table9223 th,td{
+        .table6571 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table9223" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可用次数：**40</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Broom.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Broom.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">扫帚</span></a></div></div>保持室内干净的必备工具。尽量在肮脏的时候及时打扫。这样有助于减轻压力，提高你的情绪。<br><br>扫帚的制作比较容易，只需要一根长棍、一根细线和一些棕榈叶。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6571" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“大的”](tag_Large.md)<br><br>**可用次数：**40</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Broom.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Broom.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">扫帚</span></a></div></div>保持室内干净的必备工具。尽量在肮脏的时候及时打扫。这样有助于减轻压力，提高你的情绪。<br><br>扫帚的制作比较容易，只需要一根长棍、一根细线和一些棕榈叶。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[扫帚(蓝图)](Bp_Broom.md)</div></div></div></div>  

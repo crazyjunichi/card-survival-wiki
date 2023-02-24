@@ -7,19 +7,19 @@
 <div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1<div><div style="font-size:0.4em">100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/GodState.png" href="a.md" style="max-width:20px;max-height:20px;"></div></b></div><div style="font-size:0.8em;padding-top:4px;"></div></td></tr><tr><td colspan=2><b>影响：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)加成<span style="font-family:ui-monospace"><b>+0.5</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)加成<span style="font-family:ui-monospace"><b>-1</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Structure.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[世界观](Structure.md)](Structure.md)加成<span style="font-family:ui-monospace"><b>+1</b></span></td></tr><tr><td colspan=2></td></tr></table></div>  
 ## 可被以下操作改变  
 <style>
-        .table3192 th,td{
+        .table6366 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table3192" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_GodExperience1g.md)](Event_GodExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >1</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/WeatherClear_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_HuntedExperience1g.md)](Event_HuntedExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >1</td></tr></tbody></table>  
+        </style><table class="table table-bordered table6366" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_GodExperience1g.md)](Event_GodExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >1</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/WeatherClear_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_HuntedExperience1g.md)](Event_HuntedExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >1</td></tr></tbody></table>  
   
 ## 被以下操作需求  
 <style>
-        .table8146 th,td{
+        .table7919 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8146" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[监视者(事件)](Event_WatchedExperience1f.md)</td><td  style=""  >轻笑</td><td  style=""  >1</td></tr><tr ><td  style=""  >[神圣灵视(事件)](Event_GodExperience1a.md)</td><td  style=""  >触发事件</td><td  style=""  >0</td></tr></tbody></table>  
+        </style><table class="table table-bordered table7919" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[监视者(事件)](Event_WatchedExperience1f.md)</td><td  style=""  >轻笑</td><td  style=""  >1</td></tr><tr ><td  style=""  >[神圣灵视(事件)](Event_GodExperience1a.md)</td><td  style=""  >触发事件</td><td  style=""  >0</td></tr></tbody></table>  
   
 
 

@@ -11,11 +11,11 @@
 [情绪](Morale.md)  |  [发烧](Fever.md)  |  [体重](Weight.md)  |  [寄生虫](Parasites.md)  |  [海怪寄生虫](ParasitesSeahound.md)  |  [抗生素](AntibioticsEffect.md)  |  [月季效果](ChinaRoseEffect.md)  |  [姜效果](GingerEffect.md)  |  [蜘蛛兰效果](SpiderLilyEffect.md)  
 ## 可被以下操作改变  
 <style>
-        .table2167 th,td{
+        .table5387 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2167" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BacteriaNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[强免疫系统](Pk_4_ImmuneSystemStrong.md)</td><td  style=""  >特质影响</td><td  style=""  >100</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[免疫系统脆弱](Pk_4_ImmuneSystemWeak.md)</td><td  style=""  >特质影响</td><td  style=""  >-100</td></tr></tbody></table>  
+        </style><table class="table table-bordered table5387" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/BacteriaNot.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[强免疫系统](Pk_4_ImmuneSystemStrong.md)</td><td  style=""  >特质影响</td><td  style=""  >100</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Bacteria.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[免疫系统脆弱](Pk_4_ImmuneSystemWeak.md)</td><td  style=""  >特质影响</td><td  style=""  >-100</td></tr></tbody></table>  
   
 
 

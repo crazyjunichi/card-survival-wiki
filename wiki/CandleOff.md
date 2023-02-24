@@ -2,11 +2,11 @@
 > 一个便携光源。  
   
 <style>
-        .table8339 th,td{
+        .table9801 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8339" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**25</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CandleOff.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CandleOff.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">蜡烛</span></a></div></div>蜡烛是非常有效且持久的光源。它可以由油脂或者蜂蜡制成。<br>它们体积小并且持续时间长，便于随身携带以防你在晚上被困在丛林里。<br><br>更高级的香薰蜡烛也可以用一些特殊的油来制作。这些香薰蜡烛可以帮助你驱虫和放松心情。</td></tr></tbody></table>  
+        </style><table class="table table-bordered table9801" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**25</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CandleOff.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CandleOff.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">蜡烛</span></a></div></div>蜡烛是非常有效且持久的光源。它可以由油脂或者蜂蜡制成。<br>它们体积小并且持续时间长，便于随身携带以防你在晚上被困在丛林里。<br><br>更高级的香薰蜡烛也可以用一些特殊的油来制作。这些香薰蜡烛可以帮助你驱虫和放松心情。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[蜡烛(蓝图)](Bp_Candles.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">熄灭</div><div style="display:inline-block;vertical-align:middle;">[蜡烛(开)](CandleOn.md)</div></div></div></div>  

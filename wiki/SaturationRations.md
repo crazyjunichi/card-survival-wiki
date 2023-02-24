@@ -11,19 +11,19 @@
 [饱食](Satiation.md)  |  [姜效果](GingerEffect.md)  
 ## 加成值影响因素  
 <style>
-        .table2936 th,td{
+        .table3429 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table2936" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+0.5</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-0.5</td></tr></tbody></table>  
+        </style><table class="table table-bordered table3429" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[食欲不振](Pk_4_Inappetent.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+0.5</td></tr><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Appetite.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[胃口大开](Pk_4_Gluttonous.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-0.5</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
 <style>
-        .table8613 th,td{
+        .table4607 th,td{
             text-align:left;
             vertical-align:top;
         }
-        </style><table class="table table-bordered table8613" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/FoodRation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[压缩干粮](FoodRation.md)](FoodRation.md)</td><td  style=""  >食用</td><td  style=""  >35</td></tr></tbody></table>  
+        </style><table class="table table-bordered table4607" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/FoodRation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[压缩干粮](FoodRation.md)](FoodRation.md)</td><td  style=""  >食用</td><td  style=""  >35</td></tr></tbody></table>  
   
 
 
