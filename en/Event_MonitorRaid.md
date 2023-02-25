@@ -1,0 +1,16 @@
+# A Monitor Lizard!  
+> It's rummaging through my stuff! It might eat any food I don't have inside a container.<br> Should I try to scare it away?  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**Tag：**	[“Fight Event”](tag_FightEvent.md)<br><br><b>Blocked By ：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Door.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Door](Imp_Door.md)](Imp_Door.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_MonitorRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">A Monitor Lizard!</span></a></div></div></td></tr></tbody></table>  
+  
+## Trigger  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >Condition</th><th  style="text-align:left;vertical-align:top;"  >Change</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >A Monitor Lizard!</td><td  style="text-align:left;vertical-align:top;"  >[Monitor Raid Counter](MonitorRaidCounter.md): <span style="font-family:ui-monospace"><b>192-192</b></span></td><td  style="text-align:left;vertical-align:top;"  >[Monitor Raid Counter](MonitorRaidCounter.md)<span style="font-family:ui-monospace"><b>-192</b></span></td></tr></tbody></table>  
+  
+## Action  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Let it be</div></div></td><td></td></tr><tr><td><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Monitor Lizard(Event)](Event_MonitorRummaging.md)](Event_MonitorRummaging.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Draw Attention</div></div></td><td></td></tr><tr><td><b>Self：</b>→Dismiss</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/MonitorEvent.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[A Monitor Lizard!(Event)(Cave)](Event_MonitorFight.md)](Event_MonitorFight.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+  
+  
+
+
+<script>document.title="A Monitor Lizard! - Card Survival Wiki";</script>
