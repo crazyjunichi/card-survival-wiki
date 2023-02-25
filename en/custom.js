@@ -14,6 +14,7 @@ function runCustomScript() {
     Object.assign(div.style, {
         "padding-top": "15px",
         "margin-right": "10px",
+        float: "right",
         // width: "200px",
     });
     topContainer.append(div);
@@ -31,6 +32,7 @@ function runCustomScript() {
         width: "90px",
         display: "inline-block",
         color: "#FFF",
+        "margin-left": "10px",
     });
     div.append(lang);
 

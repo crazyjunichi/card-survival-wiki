@@ -18,6 +18,7 @@
 
 [Area]()
 
+-   [Map](map.md)
 -   [Area](area.md)
 
 [BluePrint](blueprint.md)
