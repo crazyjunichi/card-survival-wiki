@@ -11,7 +11,7 @@
   
   
 ## 属性   
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">进度</td><td style="font-size:1em;background-color:#FEFEFE">初始：2 , 最大：2<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeVera.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[引擎（已拆分）](Engine2Dissassembled.md)](Engine2Dissassembled.md)<br><hr><br>** 到达上限时： **</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">进度</td><td style="font-size:1em;background-color:#FEFEFE">初始：2 , 最大：2<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeVera.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[引擎（已拆分）](Engine2Dissassembled.md)](Engine2Dissassembled.md)<br>** 到达上限时： **</td></tr></table></div>  
 
 
 <script>document.title="引擎（启动） - 卡牌生存百科 Card Survival Wiki";</script>

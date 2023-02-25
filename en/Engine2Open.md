@@ -11,7 +11,7 @@
   
   
 ## Durability   
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Progress</td><td style="font-size:1em;background-color:#FEFEFE">Starting：2 , Max：2<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeVera.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Engine (dissassembled)](Engine2Dissassembled.md)](Engine2Dissassembled.md)<br><hr><br>** On Full： **</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">Progress</td><td style="font-size:1em;background-color:#FEFEFE">Starting：2 , Max：2<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** On Zero： **<br>Self: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AloeVera.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Engine (dissassembled)](Engine2Dissassembled.md)](Engine2Dissassembled.md)<br>** On Full： **</td></tr></table></div>  
 
 
 <script>document.title="Engine (open) - Card Survival Wiki";</script>
