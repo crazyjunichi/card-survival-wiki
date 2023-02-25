@@ -1,12 +1,7 @@
 # 鸟岩岛  
 > 一座小岛，周围环绕着许多海鸥。虽然很远，但我可以试试游过去。  
   
-<style>
-        .table5974 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table5974" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **<br><br>**环境：**[荒芜沙滩(环境)](Env_DesolateBeach.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_DesolateBeachToBirdRock.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BirdRock.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鸟岩岛</span></a></div></div>位于小岛北岸的孤岛，岛上有许多<b>海鸥和海鸟粪</b>。<br><br>去那里时要小心，如果你的游泳技能不够高，你可能会无法成功到达导致需要折返，也有可能成功到达岛上后被困住从而无法返回。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **<br><br>**环境：**[荒芜沙滩(环境)](Env_DesolateBeach.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_DesolateBeachToBirdRock.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BirdRock.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鸟岩岛</span></a></div></div>位于小岛北岸的孤岛，岛上有许多<b>海鸥和海鸟粪</b>。<br><br>去那里时要小心，如果你的游泳技能不够高，你可能会无法成功到达导致需要折返，也有可能成功到达岛上后被困住从而无法返回。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">游泳</div><div style="display:inline-block;vertical-align:middle;">[荒芜沙滩(鸟岩岛)](Path_BirdRockToDesolateBeach.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[荒芜沙滩](DesolateBeach.md)</div></div></div></div>  

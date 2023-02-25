@@ -1,12 +1,7 @@
 # 黄油  
 > 一块黄油  
   
-<style>
-        .table2963 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2963" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“强效食料”](tag_FeedRich.md)<br><br>**可用次数：**3</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Butter.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Butter.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">黄油</span></a></div></div>在罐子中搅拌奶而制成。这种营养丰富的食物可以在许多烹饪食谱中代替脂肪或油。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**标签：**	[“饲料”](tag_Feed.md), [“肉”](tag_Meat.md), [“强效食料”](tag_FeedRich.md)<br><br>**可用次数：**3</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Butter.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Butter.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">黄油</span></a></div></div>在罐子中搅拌奶而制成。这种营养丰富的食物可以在许多烹饪食谱中代替脂肪或油。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[黄油(蓝图)](Bp_Butter.md)</div></div></div></div>  

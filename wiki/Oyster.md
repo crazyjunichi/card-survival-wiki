@@ -1,12 +1,7 @@
 # 牡蛎  
 > 里面可能有好东西呢。  
   
-<style>
-        .table7843 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table7843" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**重量：**25<br><br>**标签：**	[“锤”](tag_Hammer.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Oyster.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Oyster.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">牡蛎</span></a></div></div>牡蛎是双壳纲软体动物，可以在<b>鸟岩岛和海湾</b>找到。<br><br>牡蛎需要石头或其他工具才能打开，且里面有很小几率包含有宝贵的<b>珍珠</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**重量：**25<br><br>**标签：**	[“锤”](tag_Hammer.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Oyster.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Oyster.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">牡蛎</span></a></div></div>牡蛎是双壳纲软体动物，可以在<b>鸟岩岛和海湾</b>找到。<br><br>牡蛎需要石头或其他工具才能打开，且里面有很小几率包含有宝贵的<b>珍珠</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[鸟岩岛](BirdRock.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">潜水</div><div style="display:inline-block;vertical-align:middle;">[海(海湾)](Sea_Bay.md)</div></div></div></div>  

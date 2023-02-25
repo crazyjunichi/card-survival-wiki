@@ -1,12 +1,7 @@
 # 小行星撞击！  
 > 那是什么！？  
   
-<style>
-        .table0377 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table0377" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_AlienCrater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/AlienCrater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">小行星撞击！</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_AlienCrater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/AlienCrater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">小行星撞击！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">特质影响</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlienGrowthBlooming.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[外星生物](Pk_1_AlienLifeform.md)</div></div></div></div>  

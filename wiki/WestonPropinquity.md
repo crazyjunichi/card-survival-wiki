@@ -8,12 +8,7 @@
 ## 相关卡牌  
 [韦斯顿的陪伴](WestonCompany.md)  
 ## 被以下操作需求  
-<style>
-        .table8010 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table8010" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >3001 ~ 5000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >离开这座岛</td><td  style=""  >2001 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)</td><td  style=""  >触发事件</td><td  style=""  >2000 ~ 3000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >1001 ~ 2000</td></tr><tr ><td  style=""  >[韦斯顿](Weston.md)</td><td  style=""  >聊天</td><td  style=""  >0 ~ 1000</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >聊天</td><td  style="text-align:left;vertical-align:top;"  >3001 ~ 5000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >聊天</td><td  style="text-align:left;vertical-align:top;"  >2001 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >离开这座岛</td><td  style="text-align:left;vertical-align:top;"  >2001 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿(Special1a)(事件)](Event_WestonSpecial1a.md)</td><td  style="text-align:left;vertical-align:top;"  >触发事件</td><td  style="text-align:left;vertical-align:top;"  >2000 ~ 3000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >聊天</td><td  style="text-align:left;vertical-align:top;"  >1001 ~ 2000</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[韦斯顿](Weston.md)</td><td  style="text-align:left;vertical-align:top;"  >聊天</td><td  style="text-align:left;vertical-align:top;"  >0 ~ 1000</td></tr></tbody></table>  
   
 
 

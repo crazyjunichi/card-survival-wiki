@@ -1,12 +1,7 @@
 # 废金属铲  
 > 这会是很棒的挖掘工具。  
   
-<style>
-        .table0033 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table0033" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“铲子”](tag_Shovel.md), [“沉重的”](tag_Heavy.md)<br><br>**可用次数：**40</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ShovelScrap.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ScrapShovel.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">废金属铲</span></a></div></div>铲子是有用的挖掘工具，可以更高效地获取<b>土壤、泥土和沙子</b>。<br><br>它也是修建道路、地窖、水窖和水井的重要工具。<br><br>用<b>泥模具</b>可以制作<b>铜</b>铲。如果你碰巧找到了<b>金属废料</b>也可以做金属铲。<b>木工技能</b>够高的话，你甚至可以用半根原木雕成木铲。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**250<br><br>**标签：**	[“锤”](tag_Hammer.md), [“铲子”](tag_Shovel.md), [“沉重的”](tag_Heavy.md)<br><br>**可用次数：**40</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ShovelScrap.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ScrapShovel.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">废金属铲</span></a></div></div>铲子是有用的挖掘工具，可以更高效地获取<b>土壤、泥土和沙子</b>。<br><br>它也是修建道路、地窖、水窖和水井的重要工具。<br><br>用<b>泥模具</b>可以制作<b>铜</b>铲。如果你碰巧找到了<b>金属废料</b>也可以做金属铲。<b>木工技能</b>够高的话，你甚至可以用半根原木雕成木铲。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[废金属铲(蓝图)](Bp_ScrapShovel.md)</div></div></div></div>  

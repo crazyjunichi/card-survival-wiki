@@ -1,12 +1,7 @@
 # 摘光的香蕉树  
 > 香蕉摘光了，但它的树芯也可以食用。  
   
-<style>
-        .table3992 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3992" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BananaTreeCleared.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BananaTreeCleared.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">摘光的香蕉树</span></a></div></div>香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BananaTreeCleared.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BananaTreeCleared.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">摘光的香蕉树</span></a></div></div>香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[香蕉树](BananaTree.md)</div></div></div></div>  

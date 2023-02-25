@@ -1,12 +1,7 @@
 # 过路的船只  
 > 一艘经过的船！我得引起它的注意！信号弹亦或是火炬肯定能起作用。  
   
-<style>
-        .table8171 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table8171" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PassingShip.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ship.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">过路的船只</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PassingShip.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Ship.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">过路的船只</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[一艘路过的船！(事件)](Event_Raft_PassingShip.md)</div></div></div></div>  

@@ -1,12 +1,7 @@
 # 沙堡  
 > 精致的沙堡，我的得意之作~  
   
-<style>
-        .table4651 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4651" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 不可删除 **<br><br>**重量：**150<br><br>**标签：**	[“大的”](tag_Large.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SandCastle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SandCastle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">沙堡</span></a></div></div>沙子可以在岛上的沙滩地区获取。它在某些蓝图中有一定的用途，也可以用于<b>防止粘土开裂</b>。<br><br>此外，如果你感到无聊，建造<b>沙堡</b>也是一种娱乐方式。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**重量：**150<br><br>**标签：**	[“大的”](tag_Large.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SandCastle.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/SandCastle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">沙堡</span></a></div></div>沙子可以在岛上的沙滩地区获取。它在某些蓝图中有一定的用途，也可以用于<b>防止粘土开裂</b>。<br><br>此外，如果你感到无聊，建造<b>沙堡</b>也是一种娱乐方式。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">堆沙堡</div><div style="display:inline-block;vertical-align:middle;">[沙堆(环礁)](SandSource.md)</div></div></div></div>  

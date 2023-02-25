@@ -1,12 +1,7 @@
 # 水椰  
 > 可以采集水椰子，还能用水椰树汁制作糖或者酒。  
   
-<style>
-        .table3042 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3042" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="NipaPalm.md" style="color:black"><img decoding="async" src="../wiki/Sprite/NipaPalm.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水椰</span></a></div></div>这种实用的植物可以在岛屿南部的<b>红树林</b>中找到。<br>果实可以食用，汁液可以用来制作<b>棕榈酒和糖</b><br><br>想收集水椰树汁，要先用<b>切割工具或斧子</b>切开水椰，然后放任意一种<b>容器</b>到水椰树里。<br>水椰树汁收集完成后，请尽快将它移动到一个封闭的容器中，否则它会很快变成<b>棕榈酒</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="NipaPalm.md" style="color:black"><img decoding="async" src="../wiki/Sprite/NipaPalm.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">水椰</span></a></div></div>这种实用的植物可以在岛屿南部的<b>红树林</b>中找到。<br>果实可以食用，汁液可以用来制作<b>棕榈酒和糖</b><br><br>想收集水椰树汁，要先用<b>切割工具或斧子</b>切开水椰，然后放任意一种<b>容器</b>到水椰树里。<br>水椰树汁收集完成后，请尽快将它移动到一个封闭的容器中，否则它会很快变成<b>棕榈酒</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[水椰树田](CropPlotNipaPalm.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[红树林](Mangroves.md)</div></div></div></div>  

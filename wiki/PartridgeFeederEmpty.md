@@ -1,12 +1,7 @@
 # 灰山鹑喂食器  
 > 最省事的灰山鹑喂养装置。  
   
-<style>
-        .table5822 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table5822" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeFeederEmpty.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Feeder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑喂食器</span></a></div></div>这个简易实用的装置可以用<b>树枝和编织过的棕榈叶</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>灰山鹑</b>。<br><br>可以填入任何类型的食物，或更高效的<b>鸟食</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**750</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeFeederEmpty.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Feeder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑喂食器</span></a></div></div>这个简易实用的装置可以用<b>树枝和编织过的棕榈叶</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>灰山鹑</b>。<br><br>可以填入任何类型的食物，或更高效的<b>鸟食</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[灰山鹑喂食器](PartridgeFeeder.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[灰山鹑喂食器(蓝图)](Bp_PartridgeFeeder.md)</div></div></div></div>  

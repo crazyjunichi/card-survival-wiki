@@ -1,12 +1,7 @@
 # 灰山鹑喂食器  
 > 最省事的灰山鹑喂养装置。  
   
-<style>
-        .table8989 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table8989" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**750</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeFeeder.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Feeder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑喂食器</span></a></div></div>这个简易实用的装置可以用<b>树枝和编织过的棕榈叶</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>灰山鹑</b>。<br><br>可以填入任何类型的食物，或更高效的<b>鸟食</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**750</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeFeeder.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Feeder.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑喂食器</span></a></div></div>这个简易实用的装置可以用<b>树枝和编织过的棕榈叶</b>在<b>畜栏</b>里建造，帮助你更高效地喂养<b>灰山鹑</b>。<br><br>可以填入任何类型的食物，或更高效的<b>鸟食</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[鸟食](FeedBird.md)添入</div><div style="display:inline-block;vertical-align:middle;">[灰山鹑喂食器(空)](PartridgeFeederEmpty.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“饲料”](tag_Feed.md)添入</div><div style="display:inline-block;vertical-align:middle;">[灰山鹑喂食器(空)](PartridgeFeederEmpty.md)</div></div></div></div>  
@@ -24,12 +19,7 @@
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;"><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hunger.png" href="a.md" style="max-width:30px;max-height:30px;"></div>食物</td><td style="font-size:1em;background-color:#FEFEFE">初始：0 , 最大：3072<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="3072TP">32天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Feeder.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[灰山鹑喂食器(空)](PartridgeFeederEmpty.md)](PartridgeFeederEmpty.md)</td></tr></table></div>  
 ## 被动效果  
-<style>
-        .table3926 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3926" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Feed Partridges</td><td  style=""  >** 需要存在卡牌：**<br>[“灰山鹑”](tag_Partridge.md)</td><td  style=""  >食物<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div> -1(-0.04%)</td><td  style=""  ></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Feed Partridges</td><td  style="text-align:left;vertical-align:top;"  >** 需要存在卡牌：**<br>[“灰山鹑”](tag_Partridge.md)</td><td  style="text-align:left;vertical-align:top;"  >食物<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hunger.png" href="a.md" style="max-width:20px;max-height:20px;"></div> -1(-0.04%)</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
 
 

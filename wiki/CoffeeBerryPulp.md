@@ -1,12 +1,7 @@
 # 咖啡果浆  
 > 可以吃的。  
   
-<style>
-        .table4738 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4738" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CoffeeBerryPulp.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CoffeePulp.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">咖啡果浆</span></a></div></div>世界上最受欢迎的饮料！<br><br><b>咖啡植株</b>可以在<b>丛林高地</b>中找到，也可以在农田中种植。<br><br>收获它们的<b>浆果</b>并从中提取<b>咖啡豆</b>。<br>然后，直接在火上<b>烘烤咖啡豆</b>，然后<b>将它们浸泡在开水中</b>，为自己冲泡一些香浓又提神的<b>咖啡</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**50<br><br>**标签：**	[“可烹饪的”](tag_Cookable.md), [“饲料”](tag_Feed.md), [“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="CoffeeBerryPulp.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/CoffeePulp.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">咖啡果浆</span></a></div></div>世界上最受欢迎的饮料！<br><br><b>咖啡植株</b>可以在<b>丛林高地</b>中找到，也可以在农田中种植。<br><br>收获它们的<b>浆果</b>并从中提取<b>咖啡豆</b>。<br>然后，直接在火上<b>烘烤咖啡豆</b>，然后<b>将它们浸泡在开水中</b>，为自己冲泡一些香浓又提神的<b>咖啡</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">采集咖啡豆</div><div style="display:inline-block;vertical-align:middle;">[咖啡果](CoffeeBerries.md)</div></div></div></div>  
@@ -21,12 +16,7 @@
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：192 , 最大：192<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="192TP">2天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></table></div>  
 ## 被动效果  
-<style>
-        .table1301 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table1301" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Drying</td><td  style=""  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>0-0</b></span></td><td  style=""  >进度+1(0.52%)</td><td  style=""  ></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Drying</td><td  style="text-align:left;vertical-align:top;"  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)<br>** 需要状态：**<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>0-0</b></span></td><td  style="text-align:left;vertical-align:top;"  >进度+1(0.52%)</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
 
 

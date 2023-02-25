@@ -1,12 +1,7 @@
 # 香蕉树桩  
 > 我可以在这里放一个储水容器来收集水。  
   
-<style>
-        .table4674 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4674" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BananaStump.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BananaStump.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">香蕉树桩</span></a></div></div>香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**槽位：**1<br><br>**过滤器：**[“碗（容器）”](tag_ContainerBowl.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BananaStump.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BananaStump.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">香蕉树桩</span></a></div></div>香蕉树可以在岛上的<b>丛林</b>地区找到，它们结满了营养丰富的香蕉。<br><br>当香蕉摘完后还可以把树砍掉，以获得可食用的<b>香蕉树芯</b>，还能够在它们的树桩腐烂之前利用容器从树桩中获取<b>水</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[石斧](StoneAxe.md)砍树</div><div style="display:inline-block;vertical-align:middle;">[摘光的香蕉树](BananaTreeCleared.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“斧”](tag_Axe.md)砍树</div><div style="display:inline-block;vertical-align:middle;">[摘光的香蕉树](BananaTreeCleared.md)</div></div></div></div>  

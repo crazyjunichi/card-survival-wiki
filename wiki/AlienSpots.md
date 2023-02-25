@@ -9,12 +9,7 @@
 ## 相关卡牌  
 [免疫系统](ImmuneSystem.md)  |  [奎宁](Quinine.md)  
 ## 可被以下操作改变  
-<style>
-        .table9555 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table9555" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)</td><td  style=""  >食用</td><td  style=""  >50</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/AlienNodule.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[外星结节](AlienNodule.md)](AlienNodule.md)</td><td  style="text-align:left;vertical-align:top;"  >食用</td><td  style="text-align:left;vertical-align:top;"  >50</td></tr></tbody></table>  
   
 
 

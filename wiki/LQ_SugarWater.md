@@ -1,12 +1,7 @@
 # 糖水  
 > 可以用来喂食蜜蜂，或者发酵成糖酒。  
   
-<style>
-        .table6643 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table6643" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_SugarWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">糖水</span></a></div></div>糖可以通过简单地煮沸<b>水椰树汁</b>来制成。<br><br>它是一种用途丰富的食物，可以用于多种<b>烹饪食谱</b>或混合制成<b>糖水</b>，可以用来喂养<b>蜜蜂</b>或发酵成<b>糖酒</b>，一种高烈度的酒精饮料。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_SugarWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">糖水</span></a></div></div>糖可以通过简单地煮沸<b>水椰树汁</b>来制成。<br><br>它是一种用途丰富的食物，可以用于多种<b>烹饪食谱</b>或混合制成<b>糖水</b>，可以用来喂养<b>蜜蜂</b>或发酵成<b>糖酒</b>，一种高烈度的酒精饮料。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“灌溉用水”](tag_WaterFresh.md)浸泡</div><div style="display:inline-block;vertical-align:middle;">[糖](Sugar.md)</div></div></div></div>  
@@ -18,12 +13,7 @@
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：1344 , 最大：1344<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="1344TP">14天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Thirst.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[糖酒](LQ_SugarWine.md)](LQ_SugarWine.md)</td></tr></table></div>  
 ## 被动效果  
-<style>
-        .table0265 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table0265" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Evaporation</td><td  style="text-align:left;vertical-align:top;"  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style="text-align:left;vertical-align:top;"  >含水量-1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
 
 

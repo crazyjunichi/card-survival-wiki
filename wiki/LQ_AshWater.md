@@ -1,12 +1,7 @@
 # 灰水  
 > 可以煮沸制成碱液。  
   
-<style>
-        .table4275 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4275" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**0.33<br><br>**标签：**	[“水(任意)”](tag_WaterAny.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_AshWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellAshWater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">灰水</span></a></div></div>由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**0.33<br><br>**标签：**	[“水(任意)”](tag_WaterAny.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_AshWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CoconutShellAshWater.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">灰水</span></a></div></div>由<b>灰烬</b>与<b>水</b>混合而成。<br><br>煮沸它可以制作<b>碱液</b>，是一种强效消毒剂，适合用于制造<b>肥皂</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“灌溉用水”](tag_WaterFresh.md)浸泡</div><div style="display:inline-block;vertical-align:middle;">[灰烬](Ash.md)</div></div></div></div>  
@@ -19,12 +14,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[人鱼巢](MermaidNest.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[干土堆](DirtPile.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[蒸馏器(关)](AlembicOff.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[蒸馏器(开)](AlembicOn.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[临时防毒面具](MaskMakeshift.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[细土](FineDirt.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[肥皂](SoapDry.md)</div><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[湿肥皂](SoapWet.md)</div></div>  
   
 ## 被动效果  
-<style>
-        .table5644 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table5644" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Evaporation</td><td  style=""  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style=""  >含水量-1</td><td  style=""  ></td></tr><tr ><td  style=""  >Evaporation Large</td><td  style=""  >** 需要容器：**<br>[“容器（蓄水池）”](tag_ContainerReservoir.md)</td><td  style=""  >含水量-3</td><td  style=""  ></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Evaporation</td><td  style="text-align:left;vertical-align:top;"  >** 需要容器：**<br>[“容器（敞口）”](tag_ContainerOpen.md)</td><td  style="text-align:left;vertical-align:top;"  >含水量-1</td><td  style="text-align:left;vertical-align:top;"  ></td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >Evaporation Large</td><td  style="text-align:left;vertical-align:top;"  >** 需要容器：**<br>[“容器（蓄水池）”](tag_ContainerReservoir.md)</td><td  style="text-align:left;vertical-align:top;"  >含水量-3</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
 
 

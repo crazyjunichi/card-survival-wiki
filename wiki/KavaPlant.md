@@ -1,12 +1,7 @@
 # 卡瓦胡椒株  
 > 采集获得卡瓦根，卡瓦根可以调制成卡瓦茶，有舒缓压力，镇痛和退烧的功效。  
   
-<style>
-        .table4386 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4386" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KavaPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/KavaPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">卡瓦胡椒株</span></a></div></div>这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的薬用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="KavaPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/KavaPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">卡瓦胡椒株</span></a></div></div>这种丛林灌木的根可以采摘、捣碎并浸泡在水中，制成具有止痛和退烧功效的薬用饮品。<br>作为一种欣快剂与镇静剂，它还有助于对抗抑郁和焦虑。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[卡瓦胡椒田](CropPlotKava.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林深处](DeepJungle.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[丛林](Jungle.md)</div></div></div></div>  

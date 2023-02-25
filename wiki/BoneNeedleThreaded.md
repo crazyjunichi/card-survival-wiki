@@ -1,12 +1,7 @@
 # 针线  
 > 用于制作更复杂的纺织品或者皮制品。  
   
-<style>
-        .table6096 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table6096" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**10<br><br>**标签：**	[“针线”](tag_ThreadedNeedle.md)<br><br>**可用次数：**3</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BoneNeedleThreaded.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ThreadedNeedle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">针线</span></a></div></div>骨针是用布和皮革制作物品的必备工具。它可以用鸟骨或骨头碎片制作。<br>还可以将其与细线组合来缝合撕裂伤。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**10<br><br>**标签：**	[“针线”](tag_ThreadedNeedle.md)<br><br>**可用次数：**3</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BoneNeedleThreaded.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ThreadedNeedle.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">针线</span></a></div></div>骨针是用布和皮革制作物品的必备工具。它可以用鸟骨或骨头碎片制作。<br>还可以将其与细线组合来缝合撕裂伤。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[细线](CordFiber.md)穿线</div><div style="display:inline-block;vertical-align:middle;">[骨针](BoneNeedle.md)</div></div></div></div>  

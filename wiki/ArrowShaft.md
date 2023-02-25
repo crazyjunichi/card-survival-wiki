@@ -1,12 +1,7 @@
 # 箭杆  
 > 如果我在上面加一些箭羽就可以把它当箭用。  
   
-<style>
-        .table4117 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4117" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**10<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“小棍子”](tag_Sticks.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ArrowShaft.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ArrowShaft.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">箭杆</span></a></div></div>基础而简单的羽箭，用磨尖的<b>木棍和羽毛</b>制成。<br><br>必须将其装备在手牌或箭筒里，你才能够使用弓。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**10<br><br>**标签：**	[“燃料”](tag_Fuel.md), [“小棍子”](tag_Sticks.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ArrowShaft.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ArrowShaft.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">箭杆</span></a></div></div>基础而简单的羽箭，用磨尖的<b>木棍和羽毛</b>制成。<br><br>必须将其装备在手牌或箭筒里，你才能够使用弓。</td></tr></tbody></table>  
   
 ## 可拖入  
   

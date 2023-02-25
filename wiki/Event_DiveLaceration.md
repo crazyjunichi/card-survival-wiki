@@ -1,12 +1,7 @@
 # 啊！  
 > 你在探索沉船时割伤了自己！  
   
-<style>
-        .table1414 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table1414" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_DiveLaceration.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Shipwreck.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">啊！</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_DiveLaceration.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Shipwreck.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">啊！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索沉船</div><div style="display:inline-block;vertical-align:middle;">[沉船(鸟岩岛)](Shipwreck.md)</div></div></div></div>  

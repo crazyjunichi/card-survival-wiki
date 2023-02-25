@@ -1,12 +1,7 @@
 # 参薯片  
 > 我想如果不先浸泡在水中并煮沸，它可能会有毒。  
   
-<style>
-        .table5670 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table5670" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**标签：**	[“杂食饲料”](tag_FeedOmnivorous.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="YamCut.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/YamCut.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">参薯片</span></a></div></div>这些有毒的块茎作物可以在岛上的<b>丛林</b>中找到。<br>它们可以通过切块并浸泡在任何水（盐、新鲜或不安全的水）中然后煮熟来食用。<br><br>如果未经任何加工可以存放更长时间。它营养丰富，可用于多种<b>烹饪食谱</b>中，是非常优秀的主食。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**标签：**	[“杂食饲料”](tag_FeedOmnivorous.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md), [“喂食（草食动物）”](tag_FeedHerb.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="YamCut.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/YamCut.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">参薯片</span></a></div></div>这些有毒的块茎作物可以在岛上的<b>丛林</b>中找到。<br>它们可以通过切块并浸泡在任何水（盐、新鲜或不安全的水）中然后煮熟来食用。<br><br>如果未经任何加工可以存放更长时间。它营养丰富，可用于多种<b>烹饪食谱</b>中，是非常优秀的主食。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“切割工具”](tag_Cutter.md)去皮并切开</div><div style="display:inline-block;vertical-align:middle;">[参薯](Yam.md)</div></div></div></div>  
@@ -28,12 +23,7 @@
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：672<br>每15分钟-1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="672TP">7天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></table></div>  
 ## 被动效果  
-<style>
-        .table7757 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table7757" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化(每15分钟)</th><th  style=""  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style=""  >Drying</td><td  style=""  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)</td><td  style=""  >进度+1(0.29%)</td><td  style=""  ></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Drying</td><td  style="text-align:left;vertical-align:top;"  >** 需要存在卡牌：**<br>[“干燥环境”](tag_EnvDry.md)</td><td  style="text-align:left;vertical-align:top;"  >进度+1(0.29%)</td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
   
 
 

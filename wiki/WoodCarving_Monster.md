@@ -1,12 +1,7 @@
 # 神灵木雕  
 > 噢噢噢噢噢！  
   
-<style>
-        .table2083 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2083" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WoodCarving_Monster.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WoodCarving_Monster.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">神灵木雕</span></a></div></div>如果你有足够的<b>木工技能</b>，可以用<b>木材</b>制作木雕。<br><br>雕刻木雕是一个很好的<b>娱乐</b>来源。如果技能足够高，你还能制作出一些好看的<b>装饰品</b>，放在架子上可以增加你的<b>舒适度</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**150<br><br>**标签：**	[“装饰品”](tag_Decoration.md), [“燃料”](tag_Fuel.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="WoodCarving_Monster.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WoodCarving_Monster.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">神灵木雕</span></a></div></div>如果你有足够的<b>木工技能</b>，可以用<b>木材</b>制作木雕。<br><br>雕刻木雕是一个很好的<b>娱乐</b>来源。如果技能足够高，你还能制作出一些好看的<b>装饰品</b>，放在架子上可以增加你的<b>舒适度</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">完成了！</div><div style="display:inline-block;vertical-align:middle;">[未完成的木雕](WoodCarving_Unfinished.md)</div></div></div></div>  

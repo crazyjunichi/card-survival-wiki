@@ -1,12 +1,7 @@
 # 鲨鱼  
 > 一条鲨鱼好像在紧紧地跟着我。也许我该暂时远离水体。  
   
-<style>
-        .table2298 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2298" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**可用次数：**1<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SharkVisitor.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SharkVisitor.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鲨鱼</span></a></div></div>如果你够倒霉的话，这种大鱼可能会袭击你。它只会出现在海湾和木筏航行中。<br>比起普通的鱼类，它的肉更有营养，也同样可以被熏制。此外，它的颌骨也是不错的装饰品。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**可用次数：**1<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SharkVisitor.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SharkVisitor.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">鲨鱼</span></a></div></div>如果你够倒霉的话，这种大鱼可能会袭击你。它只会出现在海湾和木筏航行中。<br>比起普通的鱼类，它的肉更有营养，也同样可以被熏制。此外，它的颌骨也是不错的装饰品。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">继续</div><div style="display:inline-block;vertical-align:middle;">[一条鲨鱼！(事件)](Event_Raft_SharkVisitor.md)</div></div></div></div>  

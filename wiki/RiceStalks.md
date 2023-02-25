@@ -1,12 +1,7 @@
 # 稻秆  
 > 通过打谷获取稻米。  
   
-<style>
-        .table0717 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table0717" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="RiceStalks.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/RiceStalks.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">稻秆</span></a></div></div>这种水培植物可以在岛屿中心的<b>神秘谷</b>中找到。种植水稻是稳定的碳水来源，同时还能提供喂养<b>山羊</b>的饲料。<br><br>水稻首先需要用<b>切割工具</b>收割。谷物和秸秆可以<b>打谷</b>分离。稻米需要在水中<b>煮熟</b>才能食用。<br><br>煮米饭后留下的<b>米汤</b>对肠胃很好。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**75<br><br>**标签：**	[“喂食（草食动物）”](tag_FeedHerb.md), [“饲料”](tag_Feed.md), [“强效食料”](tag_FeedRich.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="RiceStalks.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/RiceStalks.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">稻秆</span></a></div></div>这种水培植物可以在岛屿中心的<b>神秘谷</b>中找到。种植水稻是稳定的碳水来源，同时还能提供喂养<b>山羊</b>的饲料。<br><br>水稻首先需要用<b>切割工具</b>收割。谷物和秸秆可以<b>打谷</b>分离。稻米需要在水中<b>煮熟</b>才能食用。<br><br>煮米饭后留下的<b>米汤</b>对肠胃很好。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“切割工具”](tag_Cutter.md)采集</div><div style="display:inline-block;vertical-align:middle;">[水稻](RicePlant.md)</div></div></div></div>  

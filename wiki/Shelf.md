@@ -1,12 +1,7 @@
 # 架子  
 > 一个简单的架子，可以存储或展示物品。  
   
-<style>
-        .table1474 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table1474" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**250<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**600<br><br>**减重：**-600</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Shelf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Shelf.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">架子</span></a></div></div>一个简单好做的架子，可以在室内提供少量的存储空间。<br><br>它同样可以用来展示<b>装饰品</b>以增加<b>舒适度</b>。每放置一件装饰品，舒适度都会提升少许。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 可重命名 **<br><br>** 不可堆叠 **<br><br>**重量：**250<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**容量：**600<br><br>**减重：**-600</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Shelf.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Shelf.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">架子</span></a></div></div>一个简单好做的架子，可以在室内提供少量的存储空间。<br><br>它同样可以用来展示<b>装饰品</b>以增加<b>舒适度</b>。每放置一件装饰品，舒适度都会提升少许。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[架子(蓝图)](Bp_Shelf.md)</div></div></div></div>  
@@ -16,12 +11,7 @@
   
   
 ## 被动效果  
-<style>
-        .table2800 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2800" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  data-sortable="true"  >变化(每15分钟)</th><th  style=""  >玩家状态</th></tr></thead><tr ><td  style=""  >Decoration Comfort</td><td  style=""  >** 需要放入：**<br>[“装饰品”](tag_Decoration.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+10</b></span></td></tr><tr ><td  style=""  >Decoration Advanced Comfort</td><td  style=""  >** 需要放入：**<br>[“高级装饰品”](tag_DecorationAdv.md)</td><td  style=""  ></td><td  style=""  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+15</b></span></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >变化(每15分钟)</th><th  style="text-align:left;vertical-align:top;"  >玩家状态</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >Decoration Comfort</td><td  style="text-align:left;vertical-align:top;"  >** 需要放入：**<br>[“装饰品”](tag_Decoration.md)</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+10</b></span></td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >Decoration Advanced Comfort</td><td  style="text-align:left;vertical-align:top;"  >** 需要放入：**<br>[“高级装饰品”](tag_DecorationAdv.md)</td><td  style="text-align:left;vertical-align:top;"  ></td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[舒适度](Comfort.md)](Comfort.md)<span style="font-family:ui-monospace"><b>+15</b></span></td></tr></tbody></table>  
   
 
 

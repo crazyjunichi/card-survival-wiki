@@ -1,20 +1,10 @@
 # 一只海鸥！  
 > 它在翻东西！它会吃掉我没装起来的食物！  
   
-<style>
-        .table3851 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3851" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ><b>被以下卡牌阻止：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Door.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[门](Imp_Door.md)](Imp_Door.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SeagullRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Seagull.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一只海鸥！</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ><b>被以下卡牌阻止：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Door.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[门](Imp_Door.md)](Imp_Door.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SeagullRaid.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Seagull.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">一只海鸥！</span></a></div></div></td></tr></tbody></table>  
   
 ## 触发条件  
-<style>
-        .table9909 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table9909" data-toggle="table"  ><thead style=""><tr ><th  style=""  >名称</th><th  style=""  >条件</th><th  style=""  >变化</th></tr></thead><tr ><td  style=""  >一只海鸥！</td><td  style=""  >[海鸥入侵计数器](SeagullRaidCounter.md): <span style="font-family:ui-monospace"><b>192-192</b></span></td><td  style=""  >[海鸥入侵计数器](SeagullRaidCounter.md)<span style="font-family:ui-monospace"><b>-192</b></span></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >一只海鸥！</td><td  style="text-align:left;vertical-align:top;"  >[海鸥入侵计数器](SeagullRaidCounter.md): <span style="font-family:ui-monospace"><b>192-192</b></span></td><td  style="text-align:left;vertical-align:top;"  >[海鸥入侵计数器](SeagullRaidCounter.md)<span style="font-family:ui-monospace"><b>-192</b></span></td></tr></tbody></table>  
   
 ## 动作  
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>不管它</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2"><b>状态变化：</b>[海鸥之惧](SeagullFear.md)<span style="font-family:ui-monospace"><b>-100</b></span></td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Seagull.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[海鸥(事件)](Event_SeagullRaidRummaging.md)](Event_SeagullRaidRummaging.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  

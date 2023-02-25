@@ -10,20 +10,10 @@
 ## 相关卡牌  
 [情绪](Morale.md)  |  [世界观](Structure.md)  
 ## 加成值影响因素  
-<style>
-        .table7065 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table7065" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[脚踏实地](Pk_4_DownToEarth.md)</td><td  style=""  >特质影响</td><td  style=""  >加成-10</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Durability.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[脚踏实地](Pk_4_DownToEarth.md)</td><td  style="text-align:left;vertical-align:top;"  >特质影响</td><td  style="text-align:left;vertical-align:top;"  >加成-10</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
-<style>
-        .table2814 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2814" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_GodExperience1g.md)](Event_GodExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >48 ~ 480</td></tr><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/WeatherClear_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_HuntedExperience1g.md)](Event_HuntedExperience1g.md)</td><td  style=""  ><i>抓！紧！</i></td><td  style=""  >48 ~ 480</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/God.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_GodExperience1g.md)](Event_GodExperience1g.md)</td><td  style="text-align:left;vertical-align:top;"  ><i>抓！紧！</i></td><td  style="text-align:left;vertical-align:top;"  >48 ~ 480</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/WeatherClear_Full.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[神圣灵视(事件)](Event_HuntedExperience1g.md)](Event_HuntedExperience1g.md)</td><td  style="text-align:left;vertical-align:top;"  ><i>抓！紧！</i></td><td  style="text-align:left;vertical-align:top;"  >48 ~ 480</td></tr></tbody></table>  
   
 
 

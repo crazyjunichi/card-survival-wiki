@@ -1,12 +1,7 @@
 # 地区探索完毕  
 > 我觉得已经找到这个地区所有可探索的地点了。  
   
-<style>
-        .table5080 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table5080" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[海湾(环境)](Env_Bay.md)</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_BayExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Beach.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**环境：**[海湾(环境)](Env_Bay.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_BayExplored.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Beach.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">地区探索完毕</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[海湾](Bay.md)</div></div></div></div>  

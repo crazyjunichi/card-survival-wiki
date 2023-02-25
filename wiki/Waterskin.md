@@ -1,12 +1,7 @@
 # 水袋  
 > 我可以拿它装水。<br><br><b>可在装备栏装备</b>  
   
-<style>
-        .table3175 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3175" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**900</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Waterskin.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WaterSkin.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水袋</span></a></div></div>一个便携的密封容器，可以背在<b>肩膀</b>上，能够储存3份的<b>水</b>。<br><br>它可以用<b>鞣制兽皮、脂肪、细线和针</b>制作。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**装备时减重：**-100<br><br>**标签：**	[“储水容器”](tag_WaterContainer.md), [“挎包”](tag_Satchel.md), [“容器（密封）”](tag_ContainerSealed.md)<br><br>**装备：**[“肩部装备”](eTag_Shoulder.md)<br><br>**储水量：**900</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Waterskin.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/WaterSkin.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">水袋</span></a></div></div>一个便携的密封容器，可以背在<b>肩膀</b>上，能够储存3份的<b>水</b>。<br><br>它可以用<b>鞣制兽皮、脂肪、细线和针</b>制作。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[水袋(蓝图)](Bp_Waterskin.md)</div></div></div></div>  

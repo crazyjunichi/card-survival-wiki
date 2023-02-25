@@ -1,12 +1,7 @@
 # 湿地悬崖  
 > 从这里爬下可以前往湿地。<br><br><b>（只有手牌可以带走）</b>  
   
-<style>
-        .table2955 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2955" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_JungleHighlandsToWetlands.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CliffsDown.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">湿地悬崖</span></a></div></div>湿地位于岛内深处潮湿而密集的森林地区。<br><br>在这里你可以找到一些下雨时会被灌满的天然水坑，还有很多植物，比如<b>西米树、蜘蛛兰、香蕉、马勃菌和姜</b>。<br><br>这个地区的<b>蚊虫数量</b>非常高。如果你的身体素质不能很好地抵御它们的话，一定要带一些<b>驱虫膏</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_JungleHighlandsToWetlands.md" style="color:black"><img decoding="async" src="../wiki/Sprite/CliffsDown.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">湿地悬崖</span></a></div></div>湿地位于岛内深处潮湿而密集的森林地区。<br><br>在这里你可以找到一些下雨时会被灌满的天然水坑，还有很多植物，比如<b>西米树、蜘蛛兰、香蕉、马勃菌和姜</b>。<br><br>这个地区的<b>蚊虫数量</b>非常高。如果你的身体素质不能很好地抵御它们的话，一定要带一些<b>驱虫膏</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">爬上去</div><div style="display:inline-block;vertical-align:middle;">[前往丛林高地](Path_ValleyToJungleHighlands.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">爬上去</div><div style="display:inline-block;vertical-align:middle;">[前往丛林高地(湿地)](Path_WetlandsToJungleHighlands.md)</div></div></div></div>  

@@ -1,12 +1,7 @@
 # 姜株  
 > 可以捣碎并制成姜茶，能够增强免疫系统并缓解消化问题。  
   
-<style>
-        .table1945 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table1945" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="GingerPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GingerPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">姜株</span></a></div></div>它的根可以食用，对健康有诸多好处。<br><br>把它捣碎用开水浸泡，就可以泡出一种能够舒缓肠胃的活力姜茶，有助于减少<b>恶心和腹泻</b>，增加<b>食欲</b>，降低对其他食物的<b>厌倦度</b>。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="GingerPlant.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GingerPlant.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">姜株</span></a></div></div>它的根可以食用，对健康有诸多好处。<br><br>把它捣碎用开水浸泡，就可以泡出一种能够舒缓肠胃的活力姜茶，有助于减少<b>恶心和腹泻</b>，增加<b>食欲</b>，降低对其他食物的<b>厌倦度</b>。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[姜田](CropPlotGinger.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[红树林](Mangroves.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[湿地丛林(湿地)](Wetlands.md)</div></div></div></div>  

@@ -7,20 +7,10 @@
 ## 阶段  
 <div  style="border:1px solid #BBB"><table><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>1 ～ 12<div><div style="font-size:0.4em">8% ～ 100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>神经压迫</b></div><div style="font-size:0.8em;padding-top:4px;">&nbsp;&nbsp;过高时会导致神经损伤。</div></td></tr><tr><td colspan=2></td></tr><tr style="height:2em;"><td style="background-color:#F0F0F0;text-align:center;width:180px;font-size:1.4em;font-weight:bold;vertical-align:middle;"><div>12<div><div style="font-size:0.4em">100%</div></td><td colspan=2 style="font-size:1.1em;vertical-align:middle;background-color:#F9F9F9;"><div><b>神经压迫</b></div><div style="font-size:0.8em;padding-top:4px;">&nbsp;&nbsp;过高时会导致神经损伤。</div></td></tr><tr><td colspan=2><b>影响：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Hand.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[手部神经损伤(永久)](NerveDamageHandsPermanent.md)](NerveDamageHandsPermanent.md)加成<span style="font-family:ui-monospace"><b>+48</b></span></td></tr><tr><td colspan=2></td></tr></table></div>  
 ## 加成值影响因素  
-<style>
-        .table6715 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table6715" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[左臂撕裂伤](W_ArmLacerationL.md)</td><td  style=""  >条件被动</td><td  style=""  >加成+2</td></tr><tr ><td  style=""  >[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)</td><td  style=""  >条件被动</td><td  style=""  >加成+2</td></tr><tr ><td  style=""  >[右臂撕裂伤](W_ArmLacerationR.md)</td><td  style=""  >条件被动</td><td  style=""  >加成+2</td></tr><tr ><td  style=""  >[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)</td><td  style=""  >条件被动</td><td  style=""  >加成+2</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[左臂撕裂伤](W_ArmLacerationL.md)</td><td  style="text-align:left;vertical-align:top;"  >条件被动</td><td  style="text-align:left;vertical-align:top;"  >加成+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[已缝合的左臂撕裂伤](W_ArmLacerationLStitched.md)</td><td  style="text-align:left;vertical-align:top;"  >条件被动</td><td  style="text-align:left;vertical-align:top;"  >加成+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[右臂撕裂伤](W_ArmLacerationR.md)</td><td  style="text-align:left;vertical-align:top;"  >条件被动</td><td  style="text-align:left;vertical-align:top;"  >加成+2</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[已缝合的右臂撕裂伤](W_ArmLacerationRStitched.md)</td><td  style="text-align:left;vertical-align:top;"  >条件被动</td><td  style="text-align:left;vertical-align:top;"  >加成+2</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
-<style>
-        .table2759 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2759" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >来源</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead></tbody></table>  
   
 
 

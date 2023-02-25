@@ -1,12 +1,7 @@
 # 表演开始！  
 > 在岛屿挑战中幸存下来，这能赚到很多钱！<br>每次补给舱降落在岛上，你将会有两天的时间取回它，否则你的项圈会电击你。<br>找到所有8颗胶囊，胜利就属于你了！  
   
-<style>
-        .table3204 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3204" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_TVIntro.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BigIsland.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">表演开始！</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_TVIntro.md" style="color:black"><img decoding="async" src="../wiki/Sprite/BigIsland.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">表演开始！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">特质影响</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_TV.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[真人秀游戏](Pk_1_TVGame.md)</div></div></div></div>  

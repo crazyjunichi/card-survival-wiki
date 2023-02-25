@@ -8,20 +8,10 @@
 ## 相关卡牌  
 [阳光辐射](SunExposure.md)  
 ## 加成值影响因素  
-<style>
-        .table9706 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table9706" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[紫外线过敏](Pk_3_SunAllergy.md)</td><td  style=""  >特质影响</td><td  style=""  >加成+100</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  ><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SunIcon.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[紫外线过敏](Pk_3_SunAllergy.md)</td><td  style="text-align:left;vertical-align:top;"  >特质影响</td><td  style="text-align:left;vertical-align:top;"  >加成+100</td></tr></tbody></table>  
   
 ## 可被以下操作改变  
-<style>
-        .table2759 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table2759" data-toggle="table"  ><thead style=""><tr ><th  style=""  data-sortable="true"  >来源</th><th  style=""  data-sortable="true"  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >来源</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead></tbody></table>  
   
 
 

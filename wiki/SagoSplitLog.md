@@ -1,12 +1,7 @@
 # 劈开的西米树干  
 > 下一步是刮取树芯。  
   
-<style>
-        .table3059 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table3059" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**可用次数：**8</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SagoSplitLog.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SagoPalmSplit.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">劈开的西米树干</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**可用次数：**8</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SagoSplitLog.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SagoPalmSplit.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">劈开的西米树干</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[石斧](StoneAxe.md)从中劈开</div><div style="display:inline-block;vertical-align:middle;">[倒下的西米树](SagoPalmFelled.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">** 使用**[“斧”](tag_Axe.md)从中劈开</div><div style="display:inline-block;vertical-align:middle;">[倒下的西米树](SagoPalmFelled.md)</div></div></div></div>  

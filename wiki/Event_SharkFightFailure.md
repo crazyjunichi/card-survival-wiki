@@ -1,12 +1,7 @@
 # 它逃跑了！  
 > 该死，让它溜掉了！  
   
-<style>
-        .table1477 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table1477" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  data-sortable="true"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  ></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SharkFightFailure.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SharkEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">它逃跑了！</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SharkFightFailure.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SharkEvent.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">它逃跑了！</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用长矛攻击！</div><div style="display:inline-block;vertical-align:middle;">[一条鲨鱼！(事件)](Event_SharkFight.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">用长矛攻击！</div><div style="display:inline-block;vertical-align:middle;">[鲨鱼](SharkVisitor.md)</div></div></div></div>  

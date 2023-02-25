@@ -1,12 +1,7 @@
 # 丛林小径  
 > 它将引我前往丛林。<br><br><b>（只有手牌可以带走）</b>  
   
-<style>
-        .table4092 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table4092" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >** 区域唯一 **</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_GrasslandsWToJungle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/JunglePath.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林小径</span></a></div></div>丛林位于岛屿中心。它连接着岛屿的西部和南部海岸，同时连接东部的草原。<br>丛林植被茂盛，在这里你可以找到多种有用的植物，例如<b>大叶仙茅、卡瓦胡椒、香蕉、参薯还有马勃菌</b><br><br>如果你考虑在此长期逗留并且怕被虫咬，请做好蚊虫防护。</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Path_GrasslandsWToJungle.md" style="color:black"><img decoding="async" src="../wiki/Sprite/JunglePath.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">丛林小径</span></a></div></div>丛林位于岛屿中心。它连接着岛屿的西部和南部海岸，同时连接东部的草原。<br>丛林植被茂盛，在这里你可以找到多种有用的植物，例如<b>大叶仙茅、卡瓦胡椒、香蕉、参薯还有马勃菌</b><br><br>如果你考虑在此长期逗留并且怕被虫咬，请做好蚊虫防护。</td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[西部草原](GrasslandsW.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">前往</div><div style="display:inline-block;vertical-align:middle;">[前往西部草原(丛林)](Path_JungleToGrasslandsW.md)</div></div></div></div>  

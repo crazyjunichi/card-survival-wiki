@@ -1,12 +1,7 @@
 # 灰山鹑遗骸  
 > 这只灰山鹑已经死了一段时间了。  
   
-<style>
-        .table6240 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table6240" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**重量：**150</td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeCarcass.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/PartridgeCarcass.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑遗骸</span></a></div></div>这种动物可以在岛上的<b>丛林和草原</b>中找到。<br><br>可以猎杀它们以获取肉、骨头和羽毛，也可以通过<b>套索陷阱</b>活捉。<br>被活捉的灰山鹑可以圈养在畜栏里，之后它们会下蛋。如果雌雄灰山鹑都在场，它们也会产下受精的蛋进而孵出小灰山鹑。<br></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**150</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PartridgeCarcass.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/PartridgeCarcass.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰山鹑遗骸</span></a></div></div>这种动物可以在岛上的<b>丛林和草原</b>中找到。<br><br>可以猎杀它们以获取肉、骨头和羽毛，也可以通过<b>套索陷阱</b>活捉。<br>被活捉的灰山鹑可以圈养在畜栏里，之后它们会下蛋。如果雌雄灰山鹑都在场，它们也会产下受精的蛋进而孵出小灰山鹑。<br></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">转化</div><div style="display:inline-block;vertical-align:middle;">[灰山鹑尸体](PartridgeDead.md)</div></div></div></div>  

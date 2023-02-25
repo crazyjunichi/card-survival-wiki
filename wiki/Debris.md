@@ -1,12 +1,7 @@
 # 废墟  
 > 得清理一下，这里可能有用的上的东西。  
   
-<style>
-        .table7527 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table7527" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;"  >title</th><th  style="width:50%;"  ></th></tr></thead><tr ><td  style="width:50%;"  >**环境：**[泥屋(损坏)(环境)](Env_MudHutRuins.md)<br><br>**重量：**5000<br><br>**可用次数：**10<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Debris.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Debris.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">废墟</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**环境：**[泥屋(损坏)(环境)](Env_MudHutRuins.md)<br><br>**重量：**5000<br><br>**可用次数：**10<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Discomfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[不适](Discomfort.md)](Discomfort.md)<span style="font-family:ui-monospace"><b>+500</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Debris.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Debris.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">废墟</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">离开</div><div style="display:inline-block;vertical-align:middle;">[离开(泥屋)](MudHutExitRuins.md)</div></div></div></div>  

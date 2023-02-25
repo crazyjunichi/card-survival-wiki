@@ -8,20 +8,10 @@
 ## 相关卡牌  
 [湿地姜种群数量](Ginger_WetlandsPop.md)  
 ## 可被以下操作改变  
-<style>
-        .table0619 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table0619" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  data-sortable="true"  >值</th></tr></thead><tr ><td  style=""  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Mangroves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[红树林](Mangroves.md)](Mangroves.md)</td><td  style=""  >探索</td><td  style=""  >-1000</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Mangroves.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[红树林](Mangroves.md)](Mangroves.md)</td><td  style="text-align:left;vertical-align:top;"  >探索</td><td  style="text-align:left;vertical-align:top;"  >-1000</td></tr></tbody></table>  
   
 ## 被以下操作需求  
-<style>
-        .table8795 th,td{
-            text-align:left;
-            vertical-align:top;
-        }
-        </style><table class="table table-bordered table8795" data-toggle="table"  ><thead style=""><tr ><th  style=""  >来源</th><th  style=""  >操作</th><th  style=""  >值</th></tr></thead><tr ><td  style=""  >[红树林](Mangroves.md)</td><td  style=""  >影响</td><td  style=""  >1000 ~ 15000</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[红树林](Mangroves.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1000 ~ 15000</td></tr></tbody></table>  
   
 
 
