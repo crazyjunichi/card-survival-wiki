@@ -1,5 +1,5 @@
 # “眼镜”  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >可使用次数</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Glasses.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[眼镜](Glasses.md)](Glasses.md)</td><td  style="text-align:left;vertical-align:top;"  >100</td></tr></tbody></table>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Glasses.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="../wiki/Sprite/Glasses.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">眼镜</span></a></div></div></div>  
   
 
 

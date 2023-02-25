@@ -10,7 +10,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[不安全的水](LQ_WaterUnsafe.md)</div></div>  
   
 ## 可用于蓝图  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Glue.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/AloeVeraGel.png" class="cardimage" style="transform: translate(-50%, -50%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">胶水</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Glue.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/AloeVeraGel.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">胶水</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
   
   
 ## 被动效果  

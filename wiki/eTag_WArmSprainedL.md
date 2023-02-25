@@ -1,5 +1,5 @@
 # “左手腕扭伤”  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div style="text-align:center;">[<div style="width:50px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SprainedWrist.png" href="a.md" style="max-width:50px;max-height:50px;"></div><br>[左手腕扭伤](W_ArmSprainedL.md)](W_ArmSprainedL.md)</div></div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="W_ArmSprainedL.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="../wiki/Sprite/SprainedWrist.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">左手腕扭伤</span></a></div></div></div>  
   
 
 

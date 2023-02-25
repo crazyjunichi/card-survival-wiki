@@ -10,7 +10,7 @@
 ## 相关卡牌  
 [晒伤](Sunburn.md)  |  [紫外线过敏](SunAllergy.md)  |  [芦荟膏防护](AloeVeraGelProtection.md)  |  [硫磺膏保护](BrimstoneGelProtection.md)  
 ## 可被以下操作改变  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)](Event_JerrycanExplosion.md)</td><td  style="text-align:left;vertical-align:top;"  >它烧起来了！！</td><td  style="text-align:left;vertical-align:top;"  >750 ~ 1500</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Beach.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[<b>砰！！！</b>(事件)](Event_JerrycanExplosion.md)](Event_JerrycanExplosion.md)</td><td  style="text-align:left;vertical-align:top;"  >它烧起来了！！</td><td  style="text-align:left;vertical-align:top;"  >750 ~ 1500</td></tr></tbody></table>  
   
 
 
