@@ -210,6 +210,163 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
 
     <div id="md-all">
     </div>
+<div
+            class="modal fade"
+            id="modelCollectionSimulator"
+            tabindex="-1"
+            role="dialog"
+            aria-labelledby="myModalLabel"
+            aria-hidden="true"
+        >
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title" id="myModalLabel" style="font-weight:bold;">标题</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-md-6" id="collectionLeft">.col-md-4</div>
+                                <div class="col-md-6" id="collectionRight"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 <script src="./custom.js"t></script>
+<script>
+        function resetCollectSimulator() {
+            let model = $("modelCollectionSimulator")[0];
+            document.getElementById("myModalLabel").innerText = "title";
+            document.getElementById("collectionLeft").innerHTML = "left";
+            document.getElementById("collectionRight").innerHTML = "right";
+        }
+
+        let collectionData = undefined;
+        function setCollectionDataBase64(option) {
+            setCollectionData(JSON.parse(b64DecodeUnicode(option)));
+        }
+       function b64DecodeUnicode(str) {
+            return decodeURIComponent(atob(str).split('').map(function(c) {
+                return '%' + ('00' + c.charCodeAt(0).toString(16)).slice(-2);
+            }).join(''));
+        }
+        function setCollectionData(option) {
+            resetCollectSimulator();
+            console.log(option)
+            collectionData = option;
+            document.getElementById("myModalLabel").innerText = option.title;
+            let left = "";
+            let right = "";
+            let condition = [];
+            left += `<div><table style="width:100%">`;
+            left += `<td style="width:25%;padding-right:5px;font-size:1.1em;font-weight:bold;text-align:right;vertical-align:middle">概率</td>`;
+            left += `<td style="border-left:1px solid #CCC;padding-left:5px;font-size:1.1em;font-weight:bold;text-align:left;vertical-align:middle">掉落物</td>`;
+            let rightToggle = `<div style="font-size:1.1em;font-weight:bold;">条件：</div>`;
+            let rightRange = ``;
+            option.collections.forEach((o, i) => {
+                left += `<tr>`;
+                left += `<td style="padding-right:5px;font-size:1em;font-weight:bold;text-align:right;vertical-align:middle"><div id="prop_${i}">0%</div></td>`;
+                left += `<td style="border-left:1px solid #CCC;padding-left:5px;text-align:left;vertical-align:middle"><div>${o.drop}</div></td>`;
+                left += `</tr>`;
+                
+                o.condition.forEach((cond) => {
+                    if (condition.some((x) => x.key == cond.key)) {
+                        return;
+                    }
+                    condition.push(cond);
+                    if (cond.type == "toggle") {
+                        rightToggle += `<div class="form-check">
+                            <input class="form-check-input" type="checkbox" ${cond.defaultValue?"checked":''} onchange="updateCollection()" value="" id="cond_${cond.key}">
+                            <label class="form-check-label" for="flexCheckDefault">${cond.title}
+                            </label>
+                            </div>`;
+                    } else if (cond.type == "range") {
+                        let step = Math.floor(Math.log10(cond.max[1]-cond.max[0]))
+                        step = Math.max(1, 10**(step-2));
+                        rightRange += `<div class="mb-3"><div style="display:block"><label for="customRange3" class="form-label">${cond.title}：</label>
+                            <label for="customRange3" class="form-label" id="value_${cond.key}">${cond.defaultValue}</label></div>
+                            <input type="range" class="form-range" style="width:100%" min="${cond.max[0]}" max="${cond.max[1]}" value="${cond.defaultValue}" step="${step}" onchange="updateCollection()" id="cond_${cond.key}"></div>`;
+                    }
+                });
+            });
+            left += `</table></div><div style="height:30px"></div>`;
+            right = rightToggle + rightRange;
+            document.getElementById("collectionLeft").innerHTML = left;
+            document.getElementById("collectionRight").innerHTML = right;
+            updateCollection();
+        }
+
+        function updateCollection() {
+            // console.log("change");
+            collectionData.collections.forEach((o, i) => {
+                let weightEle = document.getElementById("weight_" + i);
+                let weight = o.base;
+                o.condition.forEach((cond) => {
+                    let ele = document.getElementById("cond_" + cond.key);
+                    let v = 0;
+                    if (cond.type == "toggle") {
+                        v = ele.checked ? cond.range[1] : cond.range[0];
+                    } else if (cond.type == "range") {
+                        v = parseInt(ele.value);
+                    }
+
+                    let valueEle = document.getElementById("value_" + cond.key)
+                    if (valueEle) {valueEle.innerText = Math.round(v)};
+
+
+                    if (cond.pred){
+                        let pred = document.getElementById("cond_" + cond.pred);
+                        if (!pred.checked){
+                            return;
+                        }
+                    }
+                    
+                    let weightAdd =
+                        ((v - cond.range[0]) / ((cond.range[1] - cond.range[0])||1)) * (cond.weight[1] - cond.weight[0]) +
+                        cond.weight[0];
+                    
+                    if ((v < cond.range[0] || v > cond.range[1]) && (cond.whenOutOfRange == 0)){
+                        weightAdd = 0;
+                    }
+                    if (cond.whenOutOfRange == 1){
+                        if (v < cond.range[0]) {
+                            weightAdd = cond.weight[0];
+                        }
+                        if (v > cond.range[1]) {
+                            weightAdd = cond.weight[1];
+                        }
+                    }
+                    // console.log(cond.key, v, weightAdd);
+                    weight += weightAdd;
+                });
+                weight = Math.max(0, weight);
+                if (weightEle) {
+                    weightEle.innerText = weight;
+                }
+                o._weight = weight;
+            });
+
+            let totalWeight = 0;
+            collectionData.collections.forEach((o) => {
+                if (o.isLimit){
+                }else{
+                    totalWeight += o._weight;
+                }
+            });
+            totalWeight=totalWeight||1;
+            collectionData.collections.forEach((o, i) => {
+                let prop = o._weight / totalWeight;
+                let propEle = document.getElementById("prop_" + i);
+                if (o.isLimit && prop>1){
+                    propEle.innerHTML = '<span style="color:#CCC">100%</span>'
+                }else{
+                    propEle.innerHTML = Math.round(prop * 10000) / 100 + "%";
+                }
+            });
+        }
+    </script>
 </body>
 </html>
