@@ -11,7 +11,7 @@
   
   
 ## 可拖入  
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“储水容器”](tag_WaterContainer.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">倒入  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b><br>[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+300</b></span>)</td><td style=""><b>自身：</b>→消失</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“储水容器”](tag_WaterContainer.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">倒入 (<font data-toggle="tooltip" data-placement="top" title="0.2TP">3分</font>) </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b><br>[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+300</b></span>)</td><td style=""><b>自身：</b>→消失</td></tr></table></div>  
   
 ## 可拖至  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[椰壶](CoconutFlask.md)</div></div>  

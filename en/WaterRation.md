@@ -11,7 +11,7 @@
   
   
 ## Drag With  
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>With：</b>[“Water Container”](tag_WaterContainer.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">Fill  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>Receiving：</b><br>[Water](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+300</b></span>)</td><td style=""><b>Self：</b>→Dismiss</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>With：</b>[“Water Container”](tag_WaterContainer.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">Fill (<font data-toggle="tooltip" data-placement="top" title="0.2TP">3m</font>) </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>Receiving：</b><br>[Water](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+300</b></span>)</td><td style=""><b>Self：</b>→Dismiss</td></tr></table></div>  
   
 ## Drag To  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[Coconut Flask](CoconutFlask.md)</div></div>  

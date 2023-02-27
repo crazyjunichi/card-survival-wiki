@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Board the Raft</div><div style="display:inline-block;vertical-align:middle;">[Raft](RaftEntrance.md)</div></div></div></div>  
   
 ## Action  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Leave the raft</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>StatChange：</b>[On Raft](OnRaft.md)<span style="font-family:ui-monospace"><b>-1</b></span></td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Leave the raft</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="0.2TP">3m</font></div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>StatChange：</b>[On Raft](OnRaft.md)<span style="font-family:ui-monospace"><b>-1</b></span></td></tr></table></div>  
   
   
 ## Trigger by Status  

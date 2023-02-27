@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">进入</div><div style="display:inline-block;vertical-align:middle;">[石屋](StoneHutEntrance.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>离开</div></div></td><td></td></tr><tr><td></td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>离开</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="0.2TP">3分</font></div></div></td><td></td></tr><tr><td></td></tr></table></div>  
   
   
 
