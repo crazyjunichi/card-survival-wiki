@@ -346,7 +346,9 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
                 if (weightEle) {
                     weightEle.innerText = weight;
                 }
-                o._weight = weight;
+                if (!o.isLimit){
+                    o._weight = weight;
+                }
             });
 
             let totalWeight = 0;
@@ -360,7 +362,7 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
             collectionData.collections.forEach((o, i) => {
                 let prop = o._weight / totalWeight;
                 let propEle = document.getElementById("prop_" + i);
-                if (o.isLimit && prop>1){
+                if (o.isLimit || prop>1){
                     propEle.innerHTML = '<span style="color:#CCC">100%</span>'
                 }else{
                     propEle.innerHTML = Math.round(prop * 10000) / 100 + "%";

@@ -360,8 +360,10 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
             collectionData.collections.forEach((o, i) => {
                 let prop = o._weight / totalWeight;
                 let propEle = document.getElementById("prop_" + i);
-                if (o.isLimit && prop>1){
-                    propEle.innerHTML = '<span style="color:#CCC">100%</span>'
+                if (o.isLimit){
+                    prop = o._weight / (totalWeight+o._weight);
+                    prop=Math.min(prop,1);
+                    propEle.innerHTML = `<span style="color:#CCC">${Math.round(prop * 10000) / 100}%</span>`
                 }else{
                     propEle.innerHTML = Math.round(prop * 10000) / 100 + "%";
                 }
