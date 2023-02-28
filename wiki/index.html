@@ -265,15 +265,17 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
             let left = "";
             let right = "";
             let condition = [];
-            left += `<div><table style="width:100%">`;
+            left += `<div><table class="" style="width:100%;">`;
+            left += "<tr>"
             left += `<td style="width:25%;padding-right:5px;font-size:1.1em;font-weight:bold;text-align:right;vertical-align:middle">概率</td>`;
             left += `<td style="border-left:1px solid #CCC;padding-left:5px;font-size:1.1em;font-weight:bold;text-align:left;vertical-align:middle">掉落物</td>`;
+            left += "</tr>"
             let rightToggle = `<div style="font-size:1.1em;font-weight:bold;">条件：</div>`;
             let rightRange = ``;
             option.collections.forEach((o, i) => {
                 left += `<tr>`;
-                left += `<td style="padding-right:5px;font-size:1em;font-weight:bold;text-align:right;vertical-align:middle"><div id="prop_${i}">0%</div></td>`;
-                left += `<td style="border-left:1px solid #CCC;padding-left:5px;text-align:left;vertical-align:middle"><div>${o.drop}</div></td>`;
+                left += `<td style="border-top:1px solid #CCC;padding-right:5px;font-size:1em;font-weight:bold;text-align:right;vertical-align:middle"><div id="prop_${i}">0%</div></td>`;
+                left += `<td style="border-left:1px solid #CCC;border-top:1px solid #CCC;padding-left:5px;text-align:left;vertical-align:middle"><div>${o.drop}</div></td>`;
                 left += `</tr>`;
                 
                 o.condition.forEach((cond) => {
@@ -308,6 +310,7 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
             collectionData.collections.forEach((o, i) => {
                 let weightEle = document.getElementById("weight_" + i);
                 let weight = o.base;
+                let maxStackGroup= {}
                 o.condition.forEach((cond) => {
                     let ele = document.getElementById("cond_" + cond.key);
                     let v = 0;
@@ -343,9 +346,18 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
                             weightAdd = cond.weight[1];
                         }
                     }
-                    // console.log(cond.key, v, weightAdd);
-                    weight += weightAdd;
+                    if(cond.maxStackGroup){
+                        maxStackGroup[cond.maxStackGroup] = maxStackGroup[cond.maxStackGroup] || 0;
+                        if(weightAdd > maxStackGroup[cond.maxStackGroup]){
+                            weight += (weightAdd- maxStackGroup[cond.maxStackGroup]);
+                            maxStackGroup[cond.maxStackGroup]=weightAdd;
+                        }
+                    }else{
+                        weight += weightAdd;
+                    }
+
                 });
+
                 weight = Math.max(0, weight);
                 if (weightEle) {
                     weightEle.innerText = weight;
