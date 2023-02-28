@@ -5,6 +5,9 @@
   
 <br><br>**过滤器：**~~[“袋子”](tag_Bag.md)~~ , ~~[“火源”](tag_FireSource.md)~~ , ~~[“火”](tag_Fire.md)~~ , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**4000<br><br>**减重：**-4000</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ChestFarmer.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Chest.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">储物箱</span></a></div></div>一个大型储物箱，由<b>长木棍、细线和棕榈编织片</b>搭建而成。<br><br>虽然它太重了没法到处搬动，但它可以存放大量的东西，进而保持你的基地整洁。</td></tr></tbody></table>  
   
+## 获取来源  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">初始角色</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Farmer.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[农夫](Farmer.md)</div></div></div></div>  
+  
 
 
 <script>document.title="储物箱 - 卡牌生存百科 Card Survival Wiki";</script>

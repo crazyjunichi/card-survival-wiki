@@ -5,6 +5,9 @@
   
 <br><br>**WeightCapacity：**350<br><br>**WeightRedution：**-350</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BeltBag.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BeltBag.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Belt Bag</span></a></div></div></td></tr></tbody></table>  
   
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Default Characters</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Tourist.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Tourist](Tourist.md)</div></div></div></div>  
+  
 
 
 <script>document.title="Belt Bag - Card Survival Wiki";</script>

@@ -5,6 +5,9 @@
   
 <br><br>**过滤器：**~~[“Bag”](tag_Bag.md)~~ , ~~[“Large”](tag_Large.md)~~ , ~~[“Spillable”](tag_Spillable.md)~~<br><br>**WeightCapacity：**1150<br><br>**WeightRedution：**-500</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="ContainerBagB.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/ContainerBag.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">Container Bag</span></a></div></div></td></tr></tbody></table>  
   
+## Got From  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">Perk Effect</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_LifeRaft.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[Life Raft](Pk_1_LifeRaft.md)</div></div></div></div>  
+  
 
 
 <script>document.title="Container Bag - Card Survival Wiki";</script>

@@ -5,6 +5,9 @@
   
 <br><br>**过滤器：**[“军用的”](tag_Military.md)<br><br>**容量：**650<br><br>**减重：**-400</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BeltMilitary.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BeltMilitary.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">军用皮带</span></a></div></div></td></tr></tbody></table>  
   
+## 获取来源  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">特质影响</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Perk_Military.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[军人](Pk_2_Military.md)</div></div></div></div>  
+  
 
 
 <script>document.title="军用皮带 - 卡牌生存百科 Card Survival Wiki";</script>
