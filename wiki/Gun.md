@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">打开</div><div style="display:inline-block;vertical-align:middle;">[补给胶囊](TV_SupplyCapsule.md)</div></div></div></div>  
   
 ## 属性   
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：17 , 最大：17<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时：弹薬耗尽 **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Pistol.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[空的手枪](GunEmpty.md)](GunEmpty.md)</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：17 , 最大：17<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时：弹药耗尽 **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Pistol.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[空的手枪](GunEmpty.md)](GunEmpty.md)</td></tr></table></div>  
 
 
 <script>document.title="枪 - 卡牌生存百科 Card Survival Wiki";</script>
