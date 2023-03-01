@@ -1,0 +1,6 @@
+# “制陶动作(小)(组)”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">蓝图制造 [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayBowl.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[陶碗(蓝图)](Bp_ClayBowl.md)](Bp_ClayBowl.md)</div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">蓝图制造 [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayFirePitExtinguished.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[粘土火盆(蓝图)](Bp_ClayFirePit.md)](Bp_ClayFirePit.md)</div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;">蓝图制造 [<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/ClayJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[小陶罐(蓝图)](Bp_ClayJar.md)](Bp_ClayJar.md)</div></div>  
+  
+
+
+<script>document.title="“制陶动作(小)(组)” - 卡牌生存百科 Card Survival Wiki";</script>

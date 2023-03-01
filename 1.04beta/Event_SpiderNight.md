@@ -1,0 +1,15 @@
+# 一只蜘蛛咬了我！  
+> 你在剧烈的疼痛中醒来！<br><br>一只大蜘蛛在你身上爬行，它貌似已经咬了你一口！  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SpiderNight.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Spider.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">一只蜘蛛咬了我！</span></a></div></div></td></tr></tbody></table>  
+  
+## 触发条件  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >条件</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >变化</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >蜘蛛</td><td  style="text-align:left;vertical-align:top;"  >[睡眠风险](SleepRisk.md): <span style="font-family:ui-monospace"><b>1-999</b></span><br>[睡眠钟](SleepClock.md): <span style="font-family:ui-monospace"><b>2-14</b></span></td><td  style="text-align:left;vertical-align:top;"  ></td></tr></tbody></table>  
+  
+## 动作  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>赶走蜘蛛！</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="1TP">15分</font></div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)<span style="font-family:ui-monospace"><b>-50</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Stress.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[压力](Stress.md)](Stress.md)<span style="font-family:ui-monospace"><b>+50</b></span>, [睡眠中断](SleepInterrupt.md)<span style="font-family:ui-monospace"><b>-1</b></span>, [睡眠钟](SleepClock.md)<span style="font-family:ui-monospace"><b>-999</b></span></td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/SpiderBite.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[蜘蛛咬伤](W_SpiderBite.md)](W_SpiderBite.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+  
+  
+
+
+<script>document.title="一只蜘蛛咬了我！ - 卡牌生存百科 Card Survival Wiki";</script>

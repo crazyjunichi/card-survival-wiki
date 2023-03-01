@@ -1,0 +1,6 @@
+# “贫瘠环境”  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Env_AcidLake.md" style="color:black"><img decoding="async" src="../wiki/Sprite/AcidLake.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">火山</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Env_BirdRock.md" style="color:black"><img decoding="async" src="../wiki/Sprite/PointyRock.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">鸟岩岛</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Env_Volcano.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Volcano.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">火山</span></a></div></div></div>  
+  
+
+
+<script>document.title="“贫瘠环境” - 卡牌生存百科 Card Survival Wiki";</script>
