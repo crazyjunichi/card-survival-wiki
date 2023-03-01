@@ -1,7 +1,7 @@
-# 拆卸木床  
+# 木床（未放置）  
 > 一张结实又舒服的木床。我的背会好受些。  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**重量：**2250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BedWoodenDismantled.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BedDismantled.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">拆卸木床</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**重量：**2250<br><br>** 解锁需求: **<br>[泥屋(环境)](Env_MudHut.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="BedWoodenDismantled.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/BedDismantled.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">木床（未放置）</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">拆卸并搬起</div><div style="display:inline-block;vertical-align:middle;">[木床](BedWooden.md)</div></div></div></div>  
@@ -12,4 +12,4 @@
   
 
 
-<script>document.title="拆卸木床 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="木床（未放置） - 卡牌生存百科 Card Survival Wiki";</script>
