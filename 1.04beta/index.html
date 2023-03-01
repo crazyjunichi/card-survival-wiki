@@ -338,6 +338,9 @@ var hljs=new function(){function l(o){return o.replace(/&/gm,"&amp;").replace(/<
                     if ((v < cond.range[0] || v > cond.range[1]) && (cond.whenOutOfRange == 0)){
                         weightAdd = 0;
                     }
+                    if ((v < cond.range[0] || v > cond.range[1]) && (cond.whenOutOfRange == 2)){
+                        weightAdd -= 100000000;
+                    }
                     if (cond.whenOutOfRange == 1){
                         if (v < cond.range[0]) {
                             weightAdd = cond.weight[0];
