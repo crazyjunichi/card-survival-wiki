@@ -1,5 +1,5 @@
 ## 猎人  
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td rowspan=2 style="width:160px"><img style="width:100%" src="../wiki/Sprite/Hunter17407.png"></td><td style="font-size:1.8em"><b>猎人</b></td><td style="width:50%">解锁价格：免费</td></tr><tr><td  colspan=2 style=""><i>你独自一人来到岛上，除了基本的必需品外一无所有。
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td rowspan=2 style="width:160px"><img style="width:100%" src="../wiki/Sprite/Hunter17561.png"></td><td style="font-size:1.8em"><b>猎人</b></td><td style="width:50%">解锁价格：免费</td></tr><tr><td  colspan=2 style=""><i>你独自一人来到岛上，除了基本的必需品外一无所有。
 
 恶灵的秘密等待着你揭晓，善意的魂灵也呼唤着你的名字，祂们都渴望着你的加入！
 但在那之前，你必须先探寻真我。
