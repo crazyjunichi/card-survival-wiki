@@ -1,4 +1,4 @@
-# 椰子水  
+# 椰子水(未实装)  
 > 好喝，但别喝太多。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**0.33</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="LQ_CoconutWater.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Thirst.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">椰子水</span></a></div></div>椰子可以在岛上的大部分<b>海滩</b>上找到，有的在沙滩上，有的需要你爬上或砍倒<b>椰子树</b>获得。<br><br>这些果实极其有用，它们充满<b>营养</b>、富含<b>水分</b>，有可以用来制作<b>细线</b>的外皮，留下的空椰壳甚至可以用作<b>碗或储水容器</b>。</td></tr></tbody></table>  

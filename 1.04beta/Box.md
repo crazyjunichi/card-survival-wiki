@@ -1,4 +1,4 @@
-# 盒子  
+# 盒子(未实装)  
 > 我可以把物品储存在里面。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**100<br><br>**标签：**	[“袋子”](tag_Bag.md)<br><br>**槽位：**2<br><br>**初始卡牌：**<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Pistol.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[枪](Gun.md)](Gun.md)</div></div>  

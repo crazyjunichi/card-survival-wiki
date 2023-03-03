@@ -1,4 +1,4 @@
-# 树液收集处  
+# 树液收集处(未实装)  
 > 可以从这儿提取树液来制糖或酿酒。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可堆叠 **<br><br>**槽位：**3</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PalmTreeSapStation.md" style="color:black"><img decoding="async" src="../wiki/Sprite/SapStation.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">树液收集处</span></a></div></div></td></tr></tbody></table>  

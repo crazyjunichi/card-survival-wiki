@@ -1,4 +1,4 @@
-# 椰子树  
+# 椰子树(未实装)  
 > 爬上去可以摘到椰子，虽然有点冒险。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="PalmTreeOld.md" style="color:black"><img decoding="async" src="../wiki/Sprite/PalmTree.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">椰子树</span></a></div></div></td></tr></tbody></table>  

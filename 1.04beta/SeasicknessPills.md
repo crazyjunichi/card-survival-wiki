@@ -1,4 +1,4 @@
-# 晕船薬  
+# 晕船薬(未实装)  
 > 应该能帮助我缓解晕船症状。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**10<br><br>**标签：**	[“小的”](tag_Tiny.md)<br><br>**可用次数：**8</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="SeasicknessPills.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="../wiki/Sprite/Antibiotics.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">晕船薬</span></a></div></div>如果你不习惯于航海，那么海上的风浪越大，你就越会觉得恶心。<br>幸运的是，随着你在海上度过越来越多的时间，你会逐渐习惯海上航行，进而不会再感到恶心。</td></tr></tbody></table>  

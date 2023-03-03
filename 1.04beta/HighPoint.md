@@ -1,4 +1,4 @@
-# 高处  
+# 高处(未实装)  
 > 这里是岛上的最高点。多美的景色啊！  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="HighPoint.md" style="color:black"><img decoding="async" src="../wiki/Sprite/PointyRock.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">高处</span></a></div></div></td></tr></tbody></table>  
