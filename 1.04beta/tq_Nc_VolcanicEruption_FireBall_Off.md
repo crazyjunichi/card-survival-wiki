@@ -1,0 +1,17 @@
+# 灰烬  
+> 摸起来很烫  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**装备：**<br><br>** 效果: **<br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Snowflake.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[失温](Hypothermia.md)](Hypothermia.md)加成<span style="font-family:ui-monospace"><b>-1</b></span><br>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Darkness17519.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[光亮](Light.md)](Light.md)<span style="font-family:ui-monospace"><b>+5</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_VolcanicEruption_FireBall_Off.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/FireBall_2(1).jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">灰烬</span></a></div></div></td></tr></tbody></table>  
+  
+## 获取来源  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[灰烬(蓝图)](tq_Bp_VolcanicEruption_FireBall.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">熄灭</div><div style="display:inline-block;vertical-align:middle;">[灰烬](tq_Nc_VolcanicEruption_FireBall.md)</div></div></div></div>  
+  
+## 动作  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>点燃</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="0.2TP">3分</font></div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/tq/FireBall_2(1).jpg" href="a.md" style="max-width:20px;max-height:20px;"></div>[灰烬](tq_Nc_VolcanicEruption_FireBall.md)](tq_Nc_VolcanicEruption_FireBall.md)</td></tr></table></div>  
+  
+  
+## 属性   
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;"><div style="width:30px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/FireBall_2(1).png" href="a.md" style="max-width:30px;max-height:30px;"></div></td><td style="font-size:1em;background-color:#FEFEFE">初始：960<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: →消失</td></tr></table></div>  
+
+
+<script>document.title="灰烬 - 卡牌生存百科 Card Survival Wiki";</script>
