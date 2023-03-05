@@ -6,7 +6,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">加入用于蒸馏硝酸的液体</div><div style="display:inline-block;vertical-align:middle;">[蒸馏器(开)](AlembicOn.md)</div></div></div></div>  
   
 ## 可用于蓝图  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Dynamite.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/DynamiteOff.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">炸‍葯</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;"><div class="gamecard" style="width:80px; height:120px;"><a href="Bp_Dynamite.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandTop.png" href="a.md" style="max-width:80px;max-height:120px;"><img decoding="async" src="../wiki/Sprite/DynamiteOff.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.23460410557184752);"><span style="font-size: 13.333333333333334px;">炸药</span><img decoding="async" src="../wiki/Sprite/Blueprints.png" style="position: absolute;left:10px;bottom:10px; max-width:23px"></a></div></div></div>  
   
   
 ## 属性   
