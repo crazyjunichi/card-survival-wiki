@@ -1,4 +1,4 @@
-# IGNOREKEY  
+# On Not Axe Adv  
   
 <div style="font-size:1.2em"><b>基础值: </b> 0 </div>  
 <div style="font-size:1.2em"><b>变化范围: </b> 0 ~ 1 </div>  
@@ -8,4 +8,4 @@
   
 
 
-<script>document.title="IGNOREKEY - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="On Not Axe Adv - 卡牌生存百科 Card Survival Wiki";</script>
