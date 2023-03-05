@@ -1,4 +1,4 @@
-# 你一无所获！  
+# 你一无所获！(未实装)  
 > 下一次会有幸运女神眷顾我的！  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_FishNothing.md" style="color:black"><img decoding="async" src="../wiki/Sprite/Sea.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">你一无所获！</span></a></div></div></td></tr></tbody></table>  
