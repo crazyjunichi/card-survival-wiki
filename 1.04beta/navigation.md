@@ -38,6 +38,10 @@
 -   [成就](ach.md)
 -   [游戏更新公告](news_update.md)
 
+[模组]()
+
+-   [天启](mod_tq.md)
+
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css" />
 <link rel="stylesheet" href="./bootstrap.min.css" />
 <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
