@@ -8,6 +8,10 @@
 ## 获取来源  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">初始角色</div><div style="display:inline-block;vertical-align:middle;"><div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Farmer.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[农夫](Farmer.md)</div></div></div></div>  
   
+## 动作  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Pick Up</div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Chest.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[储物箱](Chest.md)](Chest.md)</td></tr></table></div>  
+  
+  
 
 
 <script>document.title="储物箱 - 卡牌生存百科 Card Survival Wiki";</script>
