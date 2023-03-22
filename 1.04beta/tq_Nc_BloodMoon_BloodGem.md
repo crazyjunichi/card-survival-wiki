@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[血泪(蓝图)](tq_Bp_BloodMoon_BloodGem.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>命运</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/tq/Wather_BloodMoon_1.jpg" href="a.md" style="max-width:25px;max-height:25px;"></div>[血月](tq_Weather_BloodMoon.md)](tq_Weather_BloodMoon.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>命运</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/tq/Wather_BloodMoon_1.jpg" href="a.md" style="max-width:25px;max-height:25px;"></div>[血月](tq_Wather_BloodMoon.md)](tq_Wather_BloodMoon.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
   
   
 
