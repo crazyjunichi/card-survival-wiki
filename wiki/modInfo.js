@@ -43,7 +43,7 @@ function updateVersionDownload(key) {
     fetchModVersion(key).then((json) => {
         let html = "";
         json.forEach((item) => {
-            html += `<a href="${item.file}">下载${item.version}</a>`;
+            html += `<a href="${item.file}" style="margin-right:10px;">下载${item.version}</a>`;
         });
         ele.innerHTML = html;
     });
