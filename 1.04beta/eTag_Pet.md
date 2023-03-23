@@ -1,6 +1,0 @@
-# “宠物”  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Grandfather.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GranfatherSick.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">祖父</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="GrandfatherHealthy.md" style="color:black"><img decoding="async" src="../wiki/Sprite/GranfatherHealthy.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">祖父(健康)</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="MacaqueFriend.md" style="color:black"><img decoding="async" src="../wiki/Sprite/MacaqueFriend.png" class="cardimage" style="max-width:100px;max-height:150px;"><span style="font-size: 16.666666666666668px;">猕猴朋友</span></a></div></div></div>  
-  
-
-
-<script>document.title="“宠物” - 卡牌生存百科 Card Survival Wiki";</script>

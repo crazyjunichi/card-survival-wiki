@@ -1,6 +1,0 @@
-# “止血带”  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="Tourniquet.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="../wiki/Sprite/Tourniquet.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">止血带</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:100px; height:150px;"><a href="TourniquetRustic.md" style="color:black"><img class="bg" decoding="async" src="../wiki/Sprite/BG_SandFront.png" href="a.md" style="max-width:100px;max-height:150px;"><img decoding="async" src="../wiki/Sprite/TourniquetImprovised.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.2932551319648094);"><span style="font-size: 16.666666666666668px;">简易止血带</span></a></div></div></div>  
-  
-
-
-<script>document.title="“止血带” - 卡牌生存百科 Card Survival Wiki";</script>
