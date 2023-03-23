@@ -1,4 +1,72 @@
 # 游戏更新公告  
+## Card Survival: Tropical Island - Update 41  
+  
+Hi everyone!
+
+We hope you are all well.After a lot of hard work, the Performance Update is finally here!
+
+As with the latest updates, we'll be releasing this one in a special branch in order to avoid risking the game's stability. We'll use the time to fix any remaining bugs and tweak the game balance and we'll merge the branches in a few weeks as usual as soon as we make sure everything is working as intended.
+If you want get the update before the merge, follow these instructions:
+
+1) Go to your Steam Library and right click on Card Survival
+2) Click on Properties
+3) Go to BETAS
+4) Select "updatebranch" in the dropdown list
+
+The next time you hit play you will be playing in Update 41.
+
+
+Before we go into the content list. We wanted to let you know that we've started localisation for German, Spanish and Portuguese. We don't have many volunteers yet, so it might take a while, but it's in the works! :)
+If you would like to help translate Card Survival into your own language, whether it's one of the ones we mentioned or another one, don't hesitate to send us an email to winterspringgames@gmail.com!
+
+Let's go to the content now:  
+Performance Improvements:  
+We're happy to say that we have made some big improvements regarding the game's performance. We've focused on improving the loading times when transitioning between zones, trying to make them as short as possible and we're quite satisfied with the results. Areas with crazy amounts of items might still take a bit of time to load but it's really nothing compared to what it was before. We think the late game experience should be significantly improved. As always, your feedback is very welcome. :)
+
+This however required very deep changes to the way the game is structured internally, and this of course came with many bugs. We managed to fix most of them, but it's likely that a few have escaped us. Fortunately, we're confident that releasing it on the beta branch will allow us to detect and fix any remaining issues.  
+Flutes:  
+You can now build flutes with wood and bone. 
+
+Initially you'll only be able to practice with them but as you progress with your skill you'll be able to unlock more and more tunes.
+
+Each tune has its own requirements to unlock, with some requiring you to be in a specific mood, or in a particular place. Different tunes will also have their own minor effects!  
+Resting Changes:  
+The old rest button in the waiting option has now been changed for a new "meditate" action.
+It no longer gives as much wakefulness as it used to, so players will now have to rely more on getting proper sleep. :)
+
+Meditation will give you a way to increase your insight after reaching certain milestones, and can be made more effective through some special methods.  
+Salt Improvements and Food Seasoning:  
+The old method of getting salt (boiling seawater) has been removed from the game. To get salt you'll now have to build a Salt Bed with mud bricks and clay. This contraption evaporates seawater at a relatively fast pace, and lets you gather the remaining salt.
+
+Curing Fish and Meat with Salt will now use Blueprints and require more salt.
+Salt and Chilli Powder can now be used to season food, to make it tastier and sometimes slightly more durable.  
+Farming Tweaks and Improvements:  
+Animal feeders now have larger capacity. All animals feeding values have also been tweaked and rebalanced.
+
+Crops now give a different yield depending on how healthy they are when they become ready to be harvested. Healthy crops will produce extra plants while very damaged ones will produce less.  
+New Weston Dialogues and Secret Ending:  
+Weston has received a few new conversations that can get unlocked in some special circumstances.
+
+A secret ending has also been added into the game. I don't want to release any details, but I should warn you that to experience it you'll have to start a new run.  
+Minor Additions:  
+- You can now build Wind Towers in both Mud and Stone Huts to help lower the temperature in them.
+- A new outside shower can now be built to help advanced players wash themselves.
+- Monitor Lizards Raids are now happening more reliably in lizard territory.
+- Boars are now also able to raid jungle bases and can damage your crops if you're not careful. Yams are especially good at attracting them!
+- Tables, Beds, Pottery Wheels and Bookshelves can now be dismantled and transported.
+- Travois can now be dismantled.
+- Stoves now have larger fuel capacity.
+- Feathers can now be used as tinder and to make feathermeal, a fertilizer.  
+  
+Bug Fixes:  
+- It is no longer possible to build wells inside enclosures or roofless mudhuts or sheds.
+- Fixed some partridge bugs related to overcrowding.
+- Travois can no longer be placed inside travois.
+- And more! (I accidentally lost my the rest of my list of bug fixes :'( )
+
+
+That's all for now. Hope you enjoy the new content and performance improvements!Take care everyone and see you on the next update!  
+  
 ## Card Survival: Tropical Island - Update 40  
   
 Hello everyone! 
@@ -366,7 +434,7 @@ Hope you are all well.
 
 Let's go to straight to our content list:  
 New Blueprint Unlocking System:  
-![](../wiki/Sprite/Blueprints22920.png)  
+![](../wiki/Sprite/Blueprints23269.png)  
 On this, our second and last mini update, we are releasing a new blueprint system that we believe should make the game less overwhelming to new players. 
 
 From now on, once a blueprints is unlocked, players will have to purchase them in order to be able to use them. Blueprints will now have to be bought with suns on each individual run. This will not only give a new use to suns, but also make the acquisition of new blueprints a more conscious action, which is something we think will help.
@@ -507,7 +575,7 @@ Different plants will have different resistance to mites and fungus and as a gen
 Once a plant gets very infested it will start infecting other plants so try to not these things get out of control.
 Fortunately there are a few ways to deal with these things. Crops can now be destroyed (returning you an empty crop plot) if you see there's no way of saving a plant. You can also use chilli pesticide to kill and prevent mites as well as a new brimstone pesticide which kills both mites and fungus.  
 New Environments & Related Features:  
-![](../wiki/Sprite/DesolateBeach22923.png)  
+![](../wiki/Sprite/DesolateBeach23272.png)  
 Two new environments have been added.
 
 The first one is the Eastern Grasslands. A more arid version of the old (now Western) Grasslands. It connects the with the other Grasslands, the Eastern Highlands and the new Desolate Beach.
@@ -595,7 +663,7 @@ While they won't be as crazy frequent as the ones we've been releasing this year
 
 Now to the content list:  
 Tourist:  
-![](../wiki/Sprite/Tourist22905.png)  
+![](../wiki/Sprite/Tourist23254.png)  
 The Tourist has received some improvements including a new journal of its own to follow in line with the Hunter and Farmer characters. The plane crash perk now also has received some improvements, making it start with some detachable plane seats (which can be harvested for scrap, cloth and fiber) and some luggage containing papers, chocolate and some other things.  
 Raft Improvements:  
 The raft and the sea voyage have received a balance pass and some new features.
@@ -852,7 +920,7 @@ Hello everyone!
 I hope you are all well, it's time for the new update.
 Let's go to the content list:  
 Volcano:  
-![](../wiki/Sprite/Volcano22918.png)  
+![](../wiki/Sprite/Volcano23267.png)  
 <b>Toxic Gases:</b>
 The Volcano is a new environment that can be reached from the Eastern Highlands. The air in this area is toxic and will damage your lungs over time. Fortunately you can use large cloths to make yourself a makeshift gas mask, or even craft a proper leather one if you have the means.
 
@@ -948,7 +1016,7 @@ Hello everyone!!
 Hope you are all doing well!
 The update is here, let's go straight to the content list:  
 New Environment: Bay  
-![](../wiki/Sprite/Bay22903.png)  
+![](../wiki/Sprite/Bay23252.png)  
 The Mangroves are no longer adjacent to the beach. There is now a new environment in between: The bay.
 This new coastal area acts has most of the same things as the beach plus many new features:
 
@@ -1212,7 +1280,7 @@ Coffee:
 Coffee can now be found in a new location called the Jungle Highlands. Its berries can be harvested and eaten and its seeds can be roasted and used to make coffee. This new drink can be used to wake yourself up when sleepy, but don't abuse it as the lack of sleep will have detrimental effects to your mental structure, specially after spending long periods of time in the island.
 Coffee can of course also be planted on crop plots like all other plants.  
 Macaques:  
-![](../wiki/Sprite/Rice22917.png)  
+![](../wiki/Sprite/Rice23266.png)  
 Macaques now inhabit all jungle environments, old and new, although they are most commonly found in the jungle highlands.
 These monkeys can visit your place, just like other animals do, but can also steal your tools and objects in addition to food. 
 
@@ -1306,7 +1374,7 @@ First just a small announcement: we have submitted Card Survival to Google Play 
 
 Now to the content list:  
 House Improvements:  
-![](../wiki/Sprite/Watcher22922.png)  
+![](../wiki/Sprite/Watcher23271.png)  
 <b>Tables:</b>
 You can now build tables, which will give you a bonus to crafting as long as you are in the same room as them. Making crafting things at home much better. They also increase house comfort.
 
@@ -1441,7 +1509,7 @@ Depression has also been changed now, you will no longer get the event but inste
 There is now an Anti-Weston: the Captain. He is a bad imaginary friend that should probably be avoided by most people, unless you are a masochist. The Captain is a very negative character that will try to get you down, lowering your morale in exchange for his company. There are many new features coming from him and Weston coming in the next few updates too!
 By the way, the skeleton that used to be in the cave by the rocks has moved to a new location. :)  
 New Woodworking Stuff:  
-![](../wiki/Sprite/Comfort22910.png)  
+![](../wiki/Sprite/Comfort23259.png)  
 The woodworking skill can now unlock a lot more things.
 Here are some of those things:
 
