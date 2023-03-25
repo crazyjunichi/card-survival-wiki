@@ -11,7 +11,7 @@
   
   
 ## 属性   
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：0<br>每15分钟-1 , 最多需要：-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">耐久</td><td style="font-size:1em;background-color:#FEFEFE">初始：0<br>每15分钟-1 , 最多需要：-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RottenRemains.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[腐烂物](RottenRemains.md)](RottenRemains.md)</td></tr></table></div>  
 
 
 <script>document.title="极光羽 - 卡牌生存百科 Card Survival Wiki";</script>

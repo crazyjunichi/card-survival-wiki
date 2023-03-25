@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">抢救物资</div><div style="display:inline-block;vertical-align:middle;">[漂流物资(深海)](tq_Nc_DeepSea_ScatteredMaterials.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>取出水袋</div></div></td><td></td></tr><tr><td><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>-1(-16.67%)</b></span></td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/WaterRation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[应急水包](WaterRation.md)](WaterRation.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>取出水袋</div></div></td><td></td></tr><tr><td><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>-1(-16.67%)</b></span></td></tr><tr><td colspan="2">[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WaterRation.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[应急水包](WaterRation.md)](WaterRation.md)(<span style="font-family:ui-monospace"><b>+1</b></span>)</td></tr></table></div>  
   
   
 ## 属性   

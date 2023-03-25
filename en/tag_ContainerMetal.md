@@ -1,6 +1,0 @@
-# “Container Metal”  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >Name</th><th  style="text-align:left;vertical-align:top;"  >LiquidCapacity</th><th  style="text-align:left;vertical-align:top;"  >Sealed</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CopperBottle.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Copper Bottle](CopperBottle.md)](CopperBottle.md)</td><td  style="text-align:left;vertical-align:top;"  >600 (2portions)</td><td  style="text-align:left;vertical-align:top;"  >✅</td></tr><tr ><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/CopperJar.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[Copper Jar](CopperJar.md)](CopperJar.md)</td><td  style="text-align:left;vertical-align:top;"  >150 (0.5portions)</td><td  style="text-align:left;vertical-align:top;"  >✅</td></tr></tbody></table>  
-  
-
-
-<script>document.title="“Container Metal” - Card Survival Wiki";</script>

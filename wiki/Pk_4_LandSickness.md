@@ -5,7 +5,7 @@
   
 </td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >额外卡牌</td><td  style="text-align:left;vertical-align:top;"  ><div style="display:inline-block"></div>  
   
-</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >无</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="../wiki/Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[内陆恐惧症](LandSickness.md)](LandSickness.md)加成<span style="font-family:ui-monospace"><b>+2</b></span></td></tr></tbody></table>  
+</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >无</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dizzy.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[内陆恐惧症](LandSickness.md)](LandSickness.md)加成<span style="font-family:ui-monospace"><b>+2</b></span></td></tr></tbody></table>  
   
 
 
