@@ -7,7 +7,7 @@
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">蓝图制造</div><div style="display:inline-block;vertical-align:middle;">[海洋(蓝图)](tq_Bp_UnderSea_SeaBall.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>收集雨水</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td></tr><tr><td colspan="2">[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+50</b></span>)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>Collect Rain</div></div></td><td></td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/RainLight.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[降水值](RainValue.md)](RainValue.md): <span style="font-family:ui-monospace"><b>1-5</b></span></td></tr><tr><td colspan="2">[水](LQ_Water.md)(<span style="font-family:ui-monospace"><b>+50</b></span>)</td></tr></table></div>  
   
   
 
