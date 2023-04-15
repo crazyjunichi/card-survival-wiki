@@ -25,7 +25,7 @@
 > 祝愿游戏愉快~  
 >   
 > By yoyo_koko  
-<table><tr><td width=140><b>作者：</b></td><td>YoYo</td></tr><tr><td><b>Wiki数据版本：</b></td><td>1.41</td></tr><tr><td><b>版本下载：</b></td><td><div id="versionContainer"><div class="spinner-border" role="status">获取中...</div><div></td></tr></table>  
+<table><tr><td width=140><b>作者：</b></td><td>YoYo</td></tr><tr><td><b>Wiki数据版本：</b></td><td>1.44</td></tr><tr><td><b>版本下载：</b></td><td><div id="versionContainer"><div class="spinner-border" role="status">获取中...</div><div></td></tr></table>  
 ## 角色  
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;">[<img width="120px" src="Sprite/tq/Lola_3.png"><br>罗拉·克劳芬](tq_Pc_DiasterBeasons_Lola.md)</div></div>  
   
