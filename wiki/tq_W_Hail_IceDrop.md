@@ -1,5 +1,5 @@
 # 冰雹砸伤(天启)  
-> 好疼..  
+> 有一定的淤青,好疼..  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**标签：**	[](CardTag_DiasterBeason_W_Usually.md), [](CardTag_DiasterBeason_W.md), [](CardTag_DiasterBeason_W_TypeOne.md)<br><br>**装备：**[“擦伤”](eTag_WAbrasion.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md)<br><br>**可用次数：**0</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_W_Hail_IceDrop.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/MacaqueBite.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">冰雹砸伤</span></a></div></div></td></tr></tbody></table>  
   

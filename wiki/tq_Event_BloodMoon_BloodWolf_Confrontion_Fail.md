@@ -1,5 +1,5 @@
 # 争相抗争！(天启)  
-> 狂风在耳边呼啸，亡灵的呐喊就在眼前！骷髅倒下，漫飞的骨刺刺入身体。  
+> 臂力相争！尖牙刺穿了你的手臂，但你也重击的狼人的身体！  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_BloodMoon_BloodWolf_Confrontion_Fail.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/BloodWolfAttack.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">争相抗争！</span></a></div></div></td></tr></tbody></table>  
   

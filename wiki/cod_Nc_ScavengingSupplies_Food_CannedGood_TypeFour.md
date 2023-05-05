@@ -8,7 +8,7 @@
   
   
 ## 属性   
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：3<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/cod/al_玻璃罐.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[破败轮船](cod_玻璃罐.md)](cod_玻璃罐.md)</td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：3<br>-</td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **<br>自身: → [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/cod/al_玻璃罐.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[空玻璃罐](cod_玻璃罐.md)](cod_玻璃罐.md)</td></tr></table></div>  
 
 
 <script>document.title="德式肉肠 - 卡牌生存百科 Card Survival Wiki";</script>

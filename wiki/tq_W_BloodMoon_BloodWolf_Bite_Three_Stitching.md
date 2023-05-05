@@ -1,5 +1,5 @@
 # 已缝合的死亡撕裂(天启)  
->  at least it's closed now.  
+> It hurts so much, at least it's closed now.  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**装备：**[“咬伤”](eTag_WBite.md)<br><br>**槽位：**1<br><br>**过滤器：**[“敷料”](tag_Dressing.md) , [“止血带”](tag_Tourniquet.md)<br><br>**可用次数：**0</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_W_BloodMoon_BloodWolf_Bite_Three_Stitching.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/ArmLacerationStitched.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">已缝合的死亡撕裂</span></a></div></div></td></tr></tbody></table>  
   

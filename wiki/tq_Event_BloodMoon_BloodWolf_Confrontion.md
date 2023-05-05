@@ -1,5 +1,5 @@
 # 争相抗争！(天启)  
-> 狂风在耳边呼啸，亡灵的呐喊就在眼前！  
+> 一道黑影窜出，狼人近在眼前！  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_BloodMoon_BloodWolf_Confrontion.md" style="color:black"><img decoding="async" src="Sprite/tq/BloodWolfAttack.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">争相抗争！</span></a></div></div></td></tr></tbody></table>  
   

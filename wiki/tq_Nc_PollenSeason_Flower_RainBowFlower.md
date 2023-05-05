@@ -1,5 +1,5 @@
 # 彩虹花(天启)  
-> 梦幻般的花朵，在夕阳下闪闪发光。我偶尔可以从上面发现一些果实。  
+> 梦境般的花朵，漫长等待换来的现实与童话。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **<br><br>**可用次数：**960</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_PollenSeason_Flower_RainBowFlower.md" style="color:black"><img decoding="async" src="Sprite/tq/RainbowFlower(1).png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">彩虹花</span></a></div></div></td></tr></tbody></table>  
   
