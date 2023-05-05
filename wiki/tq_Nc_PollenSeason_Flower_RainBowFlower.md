@@ -1,5 +1,5 @@
-# 彩虹花  
-> 梦境般的花朵，漫长等待换来的现实与童话。  
+# 彩虹花(天启)  
+> 梦幻般的花朵，在夕阳下闪闪发光。我偶尔可以从上面发现一些果实。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 区域唯一 **<br><br>**可用次数：**960</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_PollenSeason_Flower_RainBowFlower.md" style="color:black"><img decoding="async" src="Sprite/tq/RainbowFlower(1).png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">彩虹花</span></a></div></div></td></tr></tbody></table>  
   
@@ -12,8 +12,8 @@
   
   
 ## 可拖入  
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“人类食物”](tag_HumanFood.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">补充  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b>→消失</td><td style=""><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>+8</b></span></td></tr></table></div>  
-<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“肉”](tag_Meat.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">补充  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b>→消失</td><td style=""><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>+16</b></span></td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“人类食物”](tag_HumanFood.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">补充  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b>→消失</td><td style=""><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>+8</b></span>, Mango Growth<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  <span style="font-family:ui-monospace"><b>+0(0%)</b></span></td></tr></table></div>  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[“肉”](tag_Meat.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">补充  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b>→消失</td><td style=""><b>自身：</b>使用次数  <span style="font-family:ui-monospace"><b>+16</b></span>, Mango Growth<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/AlarmClock.png" href="a.md" style="max-width:20px;max-height:20px;"></div>  <span style="font-family:ui-monospace"><b>+0(0%)</b></span></td></tr></table></div>  
   
 ## 属性   
 <div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:30%;text-align:left; background-color:#FEFEFE;font-size:1.3em;font-weight:bold;">使用次数</td><td style="font-size:1em;background-color:#FEFEFE">初始：960<br>每15分钟+1 , 最多需要：<font data-toggle="tooltip" data-placement="top" title="960TP">10天</font></td></tr><tr style="background-color:#FFFFFF"><td colspan=2>** 到达0时： **</td></tr></table></div>  

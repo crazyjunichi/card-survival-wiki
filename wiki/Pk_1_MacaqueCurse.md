@@ -5,7 +5,7 @@
   
 </td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >额外卡牌</td><td  style="text-align:left;vertical-align:top;"  ><div style="display:inline-block"></div>  
   
-</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >[MacaqueFear_GameName](MacaqueFear.md)<span style="font-family:ui-monospace"><b>-9999</b></span></td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >[MacaqueFear_GameName](MacaqueFear.md)加成<span style="font-family:ui-monospace"><b>-10</b></span><br>[猕猴入侵计数器](MacaqueRaidCounter.md)加成<span style="font-family:ui-monospace"><b>+2</b></span></td></tr></tbody></table>  
+</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >[Macaque Fear](MacaqueFear.md)<span style="font-family:ui-monospace"><b>-9999</b></span></td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >[Macaque Fear](MacaqueFear.md)加成<span style="font-family:ui-monospace"><b>-10</b></span><br>[猕猴入侵计数器](MacaqueRaidCounter.md)加成<span style="font-family:ui-monospace"><b>+2</b></span></td></tr></tbody></table>  
   
 
 

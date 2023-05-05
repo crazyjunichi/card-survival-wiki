@@ -1,4 +1,4 @@
-# 摘完的黄金花  
+# 摘完的黄金花(天启)  
 > 梦幻般的花朵，在夕阳下闪闪发光。给它一些时间。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**可用次数：**320</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_PollenSeason_Flower_StepTwo_TypeTwo_Zero.md" style="color:black"><img decoding="async" src="Sprite/tq/GoldFlower(1).png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">摘完的黄金花</span></a></div></div></td></tr></tbody></table>  

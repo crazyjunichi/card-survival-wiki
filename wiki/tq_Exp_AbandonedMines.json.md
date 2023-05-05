@@ -1,4 +1,4 @@
-# 废弃矿区  
+# 废弃矿区(天启)  
 > 它会通往何方？  
   
 <div style="display:inline-block"><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div class="gamecard" style="width:120px; height:180px;"><a href="tq_Exp_AbandonedMines.json.md" style="color:black"><img decoding="async" src="Sprite/tq/AbandonedMines_Entrance(1).jpg" class="cardimage" style="max-width:120px;max-height:180px;"><span style="font-size: 20px;">废弃矿区</span></a></div></div><div class="gamedatalist" style="text-align:center;;min-height:0px;"><div style="height: 150px;border: 2px #a89765 solid;width: 1px;"></div></div></div>  

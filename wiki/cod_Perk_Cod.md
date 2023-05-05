@@ -1,0 +1,12 @@
+# 废城  
+> 生者在前，亡者在后。  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:15%;text-align:left;vertical-align:top;"  >名称</th><th  style="text-align:left;vertical-align:top;"  >值</th></tr></thead><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >解锁条件</td><td  style="text-align:left;vertical-align:top;"  >免费</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >难度分</td><td  style="text-align:left;vertical-align:top;"  >12500</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始装备</td><td  style="text-align:left;vertical-align:top;"  ><div style="display:inline-block"></div>  
+  
+</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >额外卡牌</td><td  style="text-align:left;vertical-align:top;"  ><div style="display:inline-block"></div>  
+  
+</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始状态</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Dirt3.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[污垢](Filth.md)](Filth.md)<span style="font-family:ui-monospace"><b>-225</b></span><br>[DisasterBeason_ToShipCounter](cod_Gs_Ruins_DisasterBeason_StartJourneyCounter.md)<span style="font-family:ui-monospace"><b>+1</b></span></td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >被动状态</td><td  style="text-align:left;vertical-align:top;"  >无</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始天气</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/WeatherStorm_0.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[风暴](cod_Weather_Storm.md)](cod_Weather_Storm.md)</td></tr><tr ><td  style="width:15%;text-align:left;vertical-align:top;"  >初始环境</td><td  style="text-align:left;vertical-align:top;"  >[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/cod/al_废弃邮轮.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[破败轮船(环境)](cod_Env_破旧轮船.md)](cod_Env_破旧轮船.md)</td></tr></tbody></table>  
+  
+
+
+<script>document.title="废城 - 卡牌生存百科 Card Survival Wiki";</script>

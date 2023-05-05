@@ -1,4 +1,4 @@
-# 打火机（关）  
+# 打火机（关）(天启)  
 > 需要一次打开的契机..  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 不可删除 **<br><br>**槽位：**1<br><br>**过滤器：**[“可烹饪的”](tag_Cookable.md) , [“储水容器”](tag_WaterContainer.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_DiasterBeason_Character_Lola_StartMaterials_LighterOff.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/Nc_DiasterBeason_Character_Lola_StartMaterials_LighterOff.jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">打火机（关）</span></a></div></div></td></tr></tbody></table>  

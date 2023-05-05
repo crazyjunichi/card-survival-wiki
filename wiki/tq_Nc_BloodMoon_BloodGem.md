@@ -1,4 +1,4 @@
-# 血泪  
+# 血泪(天启)  
 > 它..它在哭泣..  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ><b>被以下卡牌阻止：</b><br>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Raft.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[木筏(环境)](Env_Raft.md)](Env_Raft.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_BloodMoon_BloodGem.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/BloodGem_1(1).jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">血泪</span></a></div></div></td></tr></tbody></table>  

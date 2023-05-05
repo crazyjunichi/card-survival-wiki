@@ -41,6 +41,7 @@
 [模组]()
 
 -   [天启](mod_tq.md)
+-   [COD-废城](mod_cod.md)
 
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/smoothness/jquery-ui.css" />
 <link rel="stylesheet" href="./bootstrap.min.css" />

@@ -1,0 +1,14 @@
+# 空的手枪(COD-废城)  
+> 没有任何弹药的手枪。  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**150<br><br>**标签：**	[“军用的”](tag_Military.md)</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="cod_Nc_Gun_Empty.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/Pistol.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">空的手枪</span></a></div></div></td></tr></tbody></table>  
+  
+## 获取来源  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">弹药耗尽</div><div style="display:inline-block;vertical-align:middle;">[枪](cod_Nc_Gun.md)</div></div></div><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">探索</div><div style="display:inline-block;vertical-align:middle;">[破败轮船(基地)](cod_Exp_船舱.md)</div></div></div></div>  
+  
+## 可拖入  
+<div  style="border:1px solid #CCC;"><table style="margin-bottom:0px;"><tr><td style="width:40%;text-align:left; background-color:#FEFEFE"><b>拖入：</b>[<div style="width:25px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/cod/al_zd.png" href="a.md" style="max-width:25px;max-height:25px;"></div>[破败轮船](cod_左轮子弹.md)](cod_左轮子弹.md)</td><td style="width:40%;font-size:1em;font-weight:bold;background-color:#FEFEFE">填装  </td></tr><tr style="background-color:#FFFFFF"><td style=""><b>使用物：</b>→消失</td><td style=""><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Pistol.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[枪](cod_Nc_Gun.md)](cod_Nc_Gun.md)</td></tr></table></div>  
+  
+
+
+<script>document.title="空的手枪 - 卡牌生存百科 Card Survival Wiki";</script>

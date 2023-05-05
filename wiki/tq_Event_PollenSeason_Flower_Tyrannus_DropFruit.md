@@ -1,4 +1,4 @@
-# 奇异植株  
+# 奇异植株(天启)  
 > 花蕊缓缓张开，层层花瓣逐层绽放。直至一颗晶石从花芯处落在脚边。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_PollenSeason_Flower_Tyrannus_DropFruit.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/Tyrannus(1).jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">奇异植株</span></a></div></div></td></tr></tbody></table>  

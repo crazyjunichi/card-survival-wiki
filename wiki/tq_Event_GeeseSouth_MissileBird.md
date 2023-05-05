@@ -1,4 +1,4 @@
-# 奇事  
+# 奇事(天启)  
 > 一只貌相奇异的鸟在你头上盯着你  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_GeeseSouth_MissileBird.md" style="color:black"><img decoding="async" src="Sprite/tq/GeeseSouth_Bird_TypeOne.jpg" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">奇事</span></a></div></div></td></tr></tbody></table>  

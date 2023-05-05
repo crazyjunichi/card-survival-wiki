@@ -1,4 +1,4 @@
-# 轰隆隆！  
+# 轰隆隆！(天启)  
 > 闪光过后，世界变为白色。惊天的震响让你耳鸣不绝，隐约听到动物的叫声。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_ThunderStorm_Animals.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/ThunderStorm_Animals(1).jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">轰隆隆！</span></a></div></div></td></tr></tbody></table>  

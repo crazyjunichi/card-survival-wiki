@@ -1,4 +1,4 @@
-# 绷带组合  
+# 绷带组合(天启)  
 > 高吸水性、硬度强，干燥时间快。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**重量：**110<br><br>**可用次数：**3</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_DiasterBeason_Character_Lola_StartMaterials_BandagesSet.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/Bandages.jpg" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">绷带组合</span></a></div></div></td></tr></tbody></table>  

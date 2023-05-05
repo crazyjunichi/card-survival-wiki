@@ -1,4 +1,4 @@
-# 电流激荡  
+# 电流激荡(天启)  
 > 强烈的电流自雷鸣迸射而出！船只刹那间白如极昼！  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  data-sortable="true"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Event_GhostShip_BonePile_ProducedBoneMonster_ThunderBoom.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/Thunder_Ball_1(1).png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">电流激荡</span></a></div></div></td></tr></tbody></table>  

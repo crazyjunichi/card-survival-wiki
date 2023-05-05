@@ -1,13 +1,13 @@
-# 寒晶球  
+# 冰晶球(天启)  
 > 一切静止，一切斑白。  
   
-<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 可重命名 **<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**装备：**<br><br>**槽位：**12<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“已烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**3000<br><br>**减重：**-3000</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_Hail_IceCoolBall_Ice_Location.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/UnderSea_IceBall.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">寒晶球</span></a></div></div></td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >** 可重命名 **<br><br>**标签：**	[“沉重的”](tag_Heavy.md)<br><br>**装备：**[](eTag_IceBall_Equipment.md)<br><br>**槽位：**12<br><br>**过滤器：**[“饲料”](tag_Feed.md) , [“已烹饪的”](tag_MealCookingpot.md) , [“可烹饪的”](tag_Cookable.md) , [“椰子（会腐败）”](tag_CoconutSpoilable.md) , ~~[“可泼溅的”](tag_Spillable.md)~~<br><br>**容量：**3000<br><br>**减重：**-3000</td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="tq_Nc_Hail_IceCoolBall_Ice_Location.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandFront.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/tq/UnderSea_IceBall.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">冰晶球</span></a></div></div></td></tr></tbody></table>  
   
 ## 获取来源  
-<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">放置</div><div style="display:inline-block;vertical-align:middle;">[寒晶球](tq_Nc_Hail_IceCoolBall_Ice.md)</div></div></div></div>  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:200px;min-height:0px;"><div style="display:inline-block"><div style="display:inline-block;vertical-align:middle;">放置</div><div style="display:inline-block;vertical-align:middle;">[冰晶球](tq_Nc_Hail_IceCoolBall_Ice.md)</div></div></div></div>  
   
 ## 动作  
-<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>拿起</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="1TP">15分</font></div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/tq/UnderSea_IceBall.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[寒晶球](tq_Nc_Hail_IceCoolBall_Ice.md)](tq_Nc_Hail_IceCoolBall_Ice.md)</td></tr></table></div>  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>拿起</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="1TP">15分</font></div></div></td><td></td></tr><tr><td><b>自身：</b>→ [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/tq/UnderSea_IceBall.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[冰晶球](tq_Nc_Hail_IceCoolBall_Ice.md)](tq_Nc_Hail_IceCoolBall_Ice.md)</td></tr></table></div>  
   
   
 ## 属性   
@@ -17,4 +17,4 @@
   
 
 
-<script>document.title="寒晶球 - 卡牌生存百科 Card Survival Wiki";</script>
+<script>document.title="冰晶球 - 卡牌生存百科 Card Survival Wiki";</script>
