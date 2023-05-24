@@ -9,7 +9,7 @@
   
   
 ## 被以下操作需求  
-<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[鲨龙卷](tq_Wather_TornadoShark.md)</td><td  style="text-align:left;vertical-align:top;"  >风暴狂舞！</td><td  style="text-align:left;vertical-align:top;"  >0</td></tr></tbody></table>  
+<table class="table table-bordered" data-toggle="table"  ><thead style=""><tr ><th  style="text-align:left;vertical-align:top;"  >来源</th><th  style="text-align:left;vertical-align:top;"  >操作</th><th  style="text-align:left;vertical-align:top;"  data-sortable="true"  >值</th></tr></thead><tr ><td  style="text-align:left;vertical-align:top;"  >[鲨龙卷](tq_Wather_TornadoShark.md)</td><td  style="text-align:left;vertical-align:top;"  >影响</td><td  style="text-align:left;vertical-align:top;"  >1</td></tr></tbody></table>  
   
 
 
