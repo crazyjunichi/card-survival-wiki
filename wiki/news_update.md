@@ -434,7 +434,7 @@ Hope you are all well.
 
 Let's go to straight to our content list:  
 New Blueprint Unlocking System:  
-![](Sprite/Blueprints23269.png)  
+![](Sprite/Blueprints23270.png)  
 On this, our second and last mini update, we are releasing a new blueprint system that we believe should make the game less overwhelming to new players. 
 
 From now on, once a blueprints is unlocked, players will have to purchase them in order to be able to use them. Blueprints will now have to be bought with suns on each individual run. This will not only give a new use to suns, but also make the acquisition of new blueprints a more conscious action, which is something we think will help.
@@ -575,7 +575,7 @@ Different plants will have different resistance to mites and fungus and as a gen
 Once a plant gets very infested it will start infecting other plants so try to not these things get out of control.
 Fortunately there are a few ways to deal with these things. Crops can now be destroyed (returning you an empty crop plot) if you see there's no way of saving a plant. You can also use chilli pesticide to kill and prevent mites as well as a new brimstone pesticide which kills both mites and fungus.  
 New Environments & Related Features:  
-![](Sprite/DesolateBeach23272.png)  
+![](Sprite/DesolateBeach23273.png)  
 Two new environments have been added.
 
 The first one is the Eastern Grasslands. A more arid version of the old (now Western) Grasslands. It connects the with the other Grasslands, the Eastern Highlands and the new Desolate Beach.
@@ -663,7 +663,7 @@ While they won't be as crazy frequent as the ones we've been releasing this year
 
 Now to the content list:  
 Tourist:  
-![](Sprite/Tourist23254.png)  
+![](Sprite/Tourist23255.png)  
 The Tourist has received some improvements including a new journal of its own to follow in line with the Hunter and Farmer characters. The plane crash perk now also has received some improvements, making it start with some detachable plane seats (which can be harvested for scrap, cloth and fiber) and some luggage containing papers, chocolate and some other things.  
 Raft Improvements:  
 The raft and the sea voyage have received a balance pass and some new features.
@@ -920,7 +920,7 @@ Hello everyone!
 I hope you are all well, it's time for the new update.
 Let's go to the content list:  
 Volcano:  
-![](Sprite/Volcano23267.png)  
+![](Sprite/Volcano23268.png)  
 <b>Toxic Gases:</b>
 The Volcano is a new environment that can be reached from the Eastern Highlands. The air in this area is toxic and will damage your lungs over time. Fortunately you can use large cloths to make yourself a makeshift gas mask, or even craft a proper leather one if you have the means.
 
@@ -1016,7 +1016,7 @@ Hello everyone!!
 Hope you are all doing well!
 The update is here, let's go straight to the content list:  
 New Environment: Bay  
-![](Sprite/Bay23252.png)  
+![](Sprite/Bay23253.png)  
 The Mangroves are no longer adjacent to the beach. There is now a new environment in between: The bay.
 This new coastal area acts has most of the same things as the beach plus many new features:
 
@@ -1280,7 +1280,7 @@ Coffee:
 Coffee can now be found in a new location called the Jungle Highlands. Its berries can be harvested and eaten and its seeds can be roasted and used to make coffee. This new drink can be used to wake yourself up when sleepy, but don't abuse it as the lack of sleep will have detrimental effects to your mental structure, specially after spending long periods of time in the island.
 Coffee can of course also be planted on crop plots like all other plants.  
 Macaques:  
-![](Sprite/Rice23266.png)  
+![](Sprite/Rice23267.png)  
 Macaques now inhabit all jungle environments, old and new, although they are most commonly found in the jungle highlands.
 These monkeys can visit your place, just like other animals do, but can also steal your tools and objects in addition to food. 
 
@@ -1374,7 +1374,7 @@ First just a small announcement: we have submitted Card Survival to Google Play 
 
 Now to the content list:  
 House Improvements:  
-![](Sprite/Watcher23271.png)  
+![](Sprite/Watcher23272.png)  
 <b>Tables:</b>
 You can now build tables, which will give you a bonus to crafting as long as you are in the same room as them. Making crafting things at home much better. They also increase house comfort.
 
@@ -1509,7 +1509,7 @@ Depression has also been changed now, you will no longer get the event but inste
 There is now an Anti-Weston: the Captain. He is a bad imaginary friend that should probably be avoided by most people, unless you are a masochist. The Captain is a very negative character that will try to get you down, lowering your morale in exchange for his company. There are many new features coming from him and Weston coming in the next few updates too!
 By the way, the skeleton that used to be in the cave by the rocks has moved to a new location. :)  
 New Woodworking Stuff:  
-![](Sprite/Comfort23259.png)  
+![](Sprite/Comfort23260.png)  
 The woodworking skill can now unlock a lot more things.
 Here are some of those things:
 
