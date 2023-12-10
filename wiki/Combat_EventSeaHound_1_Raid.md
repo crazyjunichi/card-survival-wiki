@@ -1,0 +1,12 @@
+# 我看到了一头海怪！  
+> 我应该攻击它还是不管它？  
+  
+<table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  >**标签：**	[“战斗事件”](tag_FightEvent.md)<br><br><div style="display: inline-block;width:70px; "><b>触发条件: </b></div>[海怪入侵计数器](SeaHoundRaidCounter.md): <span style="font-family:ui-monospace"><b>192-192</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Comfort.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[遮蔽](Sheltered.md)](Sheltered.md): <span style="font-family:ui-monospace"><b>0-0</b></span>, ~~位于[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/MudHut.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[畜栏(环境)](Env_Enclosure.md)](Env_Enclosure.md)~~，~~[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Door.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[门](Imp_Door.md)](Imp_Door.md)存在于手中/面板~~, [“可能出现海鸥”](tag_Coastal.md)存在于手中/面板<br><div style="display: inline-block;width:70px; "><b>触发后: </b></div>[海怪入侵计数器](SeaHoundRaidCounter.md)<span style="font-family:ui-monospace"><b>-191</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Combat_EventSeaHound_1_Raid.md" style="color:black"><img decoding="async" src="Sprite/Seahound.png" class="cardimage" style="max-width:150px;max-height:225px;"><span style="font-size: 25px;">我看到了一头海怪！</span></a></div></div></td></tr></tbody></table>  
+  
+## 动作  
+<div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>继续</div></div></td><td></td></tr><tr><td><b>自身：</b>→消失</td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Darkness17609.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[潜行(技能)](Skill_Stealth.md)](Skill_Stealth.md)<span style="font-family:ui-monospace"><b>+0.5</b></span></td></tr></table></div>  
+  
+  
+
+
+<script>document.title="我看到了一头海怪！ - 卡牌生存百科 Card Survival Wiki";</script>

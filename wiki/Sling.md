@@ -10,6 +10,9 @@
 <div  style="border:1px solid #BBB"><table><tr><td rowspan="2" style="width:200px;text-align:center;font-size:1.3em;font-weight:bold"><div style="padding:5px;border:1px dashed #333"><div>练习</div><div style="font-size:0.6em;"><font data-toggle="tooltip" data-placement="top" title="4TP">1小时</font></div></div></td><td>[“手部动作(组)”](HandAction.md)</td></tr><tr><td></td></tr><tr><td colspan="2"><b>需求：</b>[手部动作受限](ModifierHand.md): <span style="font-family:ui-monospace"><b>0-2</b></span></td></tr><tr><td colspan="2"><b>状态变化：</b>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sling.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[投石索(技能)](Skill_Sling.md)](Skill_Sling.md)<span style="font-family:ui-monospace"><b>+1</b></span>, [<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Content.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[情绪](Morale.md)](Morale.md)<span style="font-family:ui-monospace"><b>+0.25</b></span></td></tr></table></div>  
   
   
+## 可拖至  
+<div style="display:inline-block"><div class="gamedatalist" style="text-align:left;min-width:100px;min-height:0px;">[椰子树](PalmTreeNew.md)</div></div>  
+  
 
 
 <script>document.title="投石索 - 卡牌生存百科 Card Survival Wiki";</script>

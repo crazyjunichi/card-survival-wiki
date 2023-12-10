@@ -12,7 +12,7 @@
   
   
 ## 相关触发器  
-<div style="border:1px solid #BBB"><table><tr style="background-color:#F8F8F8"><td><b>一头野猪！</b></td></tr><tr><td><b>触发条件：</b>[季节](Seasons.md): <span style="font-family:ui-monospace"><b>8641-8641</b></span></td></tr><tr><td><b>触发后：</b>[季节](Seasons.md)<span style="font-family:ui-monospace"><b>-8641</b></span></td></tr></table></div>  
+<div style="border:1px solid #BBB"><table><tr style="background-color:#F8F8F8"><td><b>重置本季节</b></td></tr><tr><td><b>触发条件：</b>[季节](Seasons.md): <span style="font-family:ui-monospace"><b>8641-8641</b></span></td></tr><tr><td><b>触发后：</b>[季节](Seasons.md)<span style="font-family:ui-monospace"><b>-8641</b></span></td></tr></table></div>  
 
 
 <script>document.title="季节 - 卡牌生存百科 Card Survival Wiki";</script>

@@ -1,5 +1,5 @@
 # 你顿悟了！  
-> 你的心灵之眼将现实看作是一种关系网结构，其中每个关系，每一段现实，都是对构成网络的所有关系的一种特定的层次化表现。  
+> 你的心灵之眼将现实看作是一种关系网结构，其中每个关系、每一段现实，都是对构成网络的所有关系的一种特定的层次化表现。  
   
 <table class="table table-bordered" data-toggle="table"  data-show-header="false"><thead style="display:none"><tr ><th  style="width:50%;text-align:left;vertical-align:top;"  >title</th><th  style="width:50%;text-align:left;vertical-align:top;"  ></th></tr></thead><tr ><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="display: inline-block;width:70px; "><b>触发条件: </b></div>[<div style="width:20px;display:inline-block;text-align:center"><img decoding="async" src="Sprite/Sling.png" href="a.md" style="max-width:20px;max-height:20px;"></div>[思维深度](ThoughtDepth.md)](ThoughtDepth.md): <span style="font-family:ui-monospace"><b>100-100</b></span></td><td  style="width:50%;text-align:left;vertical-align:top;"  ><div style="float:right; margin:5px"><div class="gamecard" style="width:150px; height:225px;"><a href="Event_SkillInsight4.md" style="color:black"><img class="bg" decoding="async" src="Sprite/BG_SandTop.png" href="a.md" style="max-width:150px;max-height:225px;"><img decoding="async" src="Sprite/BigIsland.png" class="cardimageNoBack" style="transform: translate(-50%, 0%) scale(0.4398826979472141);"><span style="font-size: 25px;">你顿悟了！</span></a></div></div></td></tr></tbody></table>  
   

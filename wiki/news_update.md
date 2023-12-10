@@ -1,4 +1,76 @@
 # 游戏更新公告  
+## Card Survival: Tropical Island - Update 42  
+  
+![](Sprite/Encounter.png)  
+Hello everyone!
+
+We hope you've all been well.
+It's finally time for update 42!
+
+Here's the content:  
+The Combat System:  
+![](Sprite/Combat.png)  
+We're introducing a brand new combat system for the Card Survival series.
+These are some of the features this new system has:
+
+<b>Round System:</b>
+Combats are no longer a single clash, but are now composed of multiple rounds of simultaneous clashes between you and your target.
+
+<b>Animal Combat Stats:</b>
+Animals have multiple stats, getting progressively weaker as they tire or loose blood and attempting to escape when out of morale.
+
+<b>Weapons - Expanded:</b>
+Almost any tool can now be used as a weapon (although spears still reign supreme). Different weapons have different reach, damage type (piercing, blunt, cutting, fire, spiritual, etc...) and strength values. You can now fight with a shovel or a torch if you so want!
+
+<b>Body Locations System:</b>
+There is now a body location system under the hood, causing wounds to now be determined by location, attack strength and damage type. Chances of hitting different locations will depend on the animal body plan as well as the type of weapon used (melee or ranged).
+
+<b>Enemy Wound Effects:</b>
+Enemies can now also get wounds for different effects. A stab in the snout might hurt greatly and lower morale quite a bit, while a leg wound might make it harder to escape and a pierced eye might lower their attack skills.
+
+<b>Armor:</b>
+The armor system has been improved, with some items being stronger against some types of damage than others. While there are a few new armour items, most of the old clothing items now also come with armour value and can also be used to minimise your chances of getting wounds.
+
+<b>Tracking:</b>
+The old tracking skill is back in the game. Now, when an animal manages to escape a fight, you have the chance to track it down so long as it's sufficiently wounded.
+
+All these systems have a lot of potential and are something we'll probably be working on for quite some time, mostly adding more wounds and improving the fights. In any case, these new system is not just an improvement for Tropical Island but an important milestone in the production of our new game in the series.  
+New Items:  
+In addition to the combat system we have added a few new craftables:
+
+<b>Composite Bow:</b>
+A new, stronger and more accurate bow that requires glue and advanced woodworking skill to craft. A great improvement over the old bow.
+
+<b>New Arrow Types:</b>
+Bows can now shoot different arrows. In addition to the old simple ones, you can now craft bone and flint arrows too. These arrows are more precise and deal more damage (specially the flint one).
+
+<b>Serrated Club:</b>
+You can now craft a serrated club with wood, cord and shark teeth. While this traditional weapon is not as strong as a good spear, it inspires confidence and can therefore be strong against spiritual foes like the Hunter or the Enemy. 
+
+<b>Bracers:</b>
+You can now craft two types of bracers (fiber and leather) to protect your arms in combat. A good investment, since, as a human your arms are what tend to get hurt the most during fights.
+
+<b>Helmets:</b>
+Two types again (fiber and leather). While your head is generally safe from enemy attacks, being prepared can sometimes save your life!
+
+<b>Fiber Armor:</b>
+An expensive fiber armor that provides protection to the full body. Essential if you like to constantly get into fights with Boars and Monitor lizards.
+
+<b>Leather Vest:</b>
+A nice leather vest that provides armor to your torso.
+
+<b>Fiber Cuirass:</b>
+Another fiber piece of armor that provides a good amount of armor to your torso.
+
+<b>Wounds:</b>
+A few new wounds have been added. In particular scratches, bites, bruises and piercing wounds. But more will get added in the following weeks.  
+  
+That's all for now. We'll be fixing bugs, making balance tweaks and adding new content for the update over the following weeks, so don't worry if something doesn't feel right or it's a bit strange.
+Please let us know if you have any feedback or find any issues so we can fix them as soon as possible. ;)
+Once the update feels stable enough we'll merge branches as usual and make it available in the main version of the game.
+
+Enjoy the update everyone!
+See you in the next announcement!  
 ## Card Survival: Tropical Island - Update 41  
   
 Hi everyone!
@@ -434,7 +506,7 @@ Hope you are all well.
 
 Let's go to straight to our content list:  
 New Blueprint Unlocking System:  
-![](Sprite/Blueprints23270.png)  
+![](Sprite/Blueprints24040.png)  
 On this, our second and last mini update, we are releasing a new blueprint system that we believe should make the game less overwhelming to new players. 
 
 From now on, once a blueprints is unlocked, players will have to purchase them in order to be able to use them. Blueprints will now have to be bought with suns on each individual run. This will not only give a new use to suns, but also make the acquisition of new blueprints a more conscious action, which is something we think will help.
@@ -575,7 +647,7 @@ Different plants will have different resistance to mites and fungus and as a gen
 Once a plant gets very infested it will start infecting other plants so try to not these things get out of control.
 Fortunately there are a few ways to deal with these things. Crops can now be destroyed (returning you an empty crop plot) if you see there's no way of saving a plant. You can also use chilli pesticide to kill and prevent mites as well as a new brimstone pesticide which kills both mites and fungus.  
 New Environments & Related Features:  
-![](Sprite/DesolateBeach23273.png)  
+![](Sprite/DesolateBeach24043.png)  
 Two new environments have been added.
 
 The first one is the Eastern Grasslands. A more arid version of the old (now Western) Grasslands. It connects the with the other Grasslands, the Eastern Highlands and the new Desolate Beach.
@@ -663,7 +735,7 @@ While they won't be as crazy frequent as the ones we've been releasing this year
 
 Now to the content list:  
 Tourist:  
-![](Sprite/Tourist23255.png)  
+![](Sprite/Tourist24025.png)  
 The Tourist has received some improvements including a new journal of its own to follow in line with the Hunter and Farmer characters. The plane crash perk now also has received some improvements, making it start with some detachable plane seats (which can be harvested for scrap, cloth and fiber) and some luggage containing papers, chocolate and some other things.  
 Raft Improvements:  
 The raft and the sea voyage have received a balance pass and some new features.
@@ -920,7 +992,7 @@ Hello everyone!
 I hope you are all well, it's time for the new update.
 Let's go to the content list:  
 Volcano:  
-![](Sprite/Volcano23268.png)  
+![](Sprite/Volcano24038.png)  
 <b>Toxic Gases:</b>
 The Volcano is a new environment that can be reached from the Eastern Highlands. The air in this area is toxic and will damage your lungs over time. Fortunately you can use large cloths to make yourself a makeshift gas mask, or even craft a proper leather one if you have the means.
 
@@ -1016,7 +1088,7 @@ Hello everyone!!
 Hope you are all doing well!
 The update is here, let's go straight to the content list:  
 New Environment: Bay  
-![](Sprite/Bay23253.png)  
+![](Sprite/Bay24023.png)  
 The Mangroves are no longer adjacent to the beach. There is now a new environment in between: The bay.
 This new coastal area acts has most of the same things as the beach plus many new features:
 
@@ -1280,7 +1352,7 @@ Coffee:
 Coffee can now be found in a new location called the Jungle Highlands. Its berries can be harvested and eaten and its seeds can be roasted and used to make coffee. This new drink can be used to wake yourself up when sleepy, but don't abuse it as the lack of sleep will have detrimental effects to your mental structure, specially after spending long periods of time in the island.
 Coffee can of course also be planted on crop plots like all other plants.  
 Macaques:  
-![](Sprite/Rice23267.png)  
+![](Sprite/Rice24037.png)  
 Macaques now inhabit all jungle environments, old and new, although they are most commonly found in the jungle highlands.
 These monkeys can visit your place, just like other animals do, but can also steal your tools and objects in addition to food. 
 
@@ -1374,7 +1446,7 @@ First just a small announcement: we have submitted Card Survival to Google Play 
 
 Now to the content list:  
 House Improvements:  
-![](Sprite/Watcher23272.png)  
+![](Sprite/Watcher24042.png)  
 <b>Tables:</b>
 You can now build tables, which will give you a bonus to crafting as long as you are in the same room as them. Making crafting things at home much better. They also increase house comfort.
 
@@ -1509,7 +1581,7 @@ Depression has also been changed now, you will no longer get the event but inste
 There is now an Anti-Weston: the Captain. He is a bad imaginary friend that should probably be avoided by most people, unless you are a masochist. The Captain is a very negative character that will try to get you down, lowering your morale in exchange for his company. There are many new features coming from him and Weston coming in the next few updates too!
 By the way, the skeleton that used to be in the cave by the rocks has moved to a new location. :)  
 New Woodworking Stuff:  
-![](Sprite/Comfort23260.png)  
+![](Sprite/Comfort24030.png)  
 The woodworking skill can now unlock a lot more things.
 Here are some of those things:
 
